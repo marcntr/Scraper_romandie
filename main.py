@@ -11,6 +11,7 @@ import os
 import random
 import sys
 import time
+from datetime import datetime
 from concurrent.futures import ThreadPoolExecutor
 
 from config import COMPANIES, LOCATION_FILTERS, TITLE_FILTERS
@@ -223,9 +224,22 @@ def run(show_all: bool = False) -> list[Job]:
             logger.error("[%s] Scraper thread raised: %s", cfg["name"], exc)
 
     # ------------------------------------------------------------------
-    # Final output — filtered + scored, sorted by descending score
+    # Final output — filtered + scored, sorted by date desc then score desc.
+    # Jobs with a missing/unparseable date are placed at the bottom.
     # ------------------------------------------------------------------
-    all_matched.sort(key=lambda j: j.score, reverse=True)
+    def _sort_key(j: Job) -> tuple:
+        try:
+            date_val = datetime.strptime(j.posted_date, "%Y-%m-%d") if j.posted_date else None
+        except ValueError:
+            date_val = None
+        # Sort ascending so that:
+        #   (0, -timestamp, -score) — dated jobs, most-recent first, highest score first
+        #   (1, 0, 0)               — undated jobs sink to the bottom
+        if date_val is None:
+            return (1, 0, 0)
+        return (0, -date_val.timestamp(), -j.score)
+
+    all_matched.sort(key=_sort_key)
     _print_job_table(all_matched, "FILTERED & SCORED MATCHES (location + title)")
 
     print(f"\n{DIVIDER}")
