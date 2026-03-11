@@ -936,6 +936,38 @@ COMPANIES: list[dict] = [
         "careers_url": "https://telixpharma.com/careers/find-a-job/",
         "keywords": TITLE_FILTERS,
     },
+    # Randstad (staffing agency; Swiss life science placements)
+    {
+        "name": "Randstad",
+        "ats": "randstad",
+    },
+    # Gloor & Lang (Swiss life science recruitment / staffing)
+    {
+        "name": "Gloor & Lang",
+        "ats": "gloorlang",
+    },
+    # Stettler Consulting (Swiss healthcare recruiter — WordPress / YMC Smart Filter)
+    {
+        "name": "Stettler Consulting",
+        "ats": "stettler",
+    },
+    # Alec Allan & Associés SA (Swiss finance/legal recruiter — HR4You XML feed)
+    {
+        "name": "Alec Allan",
+        "ats": "alecallan",
+    },
+    # Hays Switzerland (global staffing — Liferay / Life Sciences specialism)
+    {
+        "name": "Hays Switzerland",
+        "ats": "hays",
+    },
+    # Michael Page Switzerland (global staffing — BroadBean/Drupal, no public API)
+    {
+        "name": "Michael Page Switzerland",
+        "ats": "generic",
+        "careers_url": "https://www.michaelpage.ch/jobs/switzerland",
+        "keywords": TITLE_FILTERS,
+    },
 ]
 
 # ---------------------------------------------------------------------------

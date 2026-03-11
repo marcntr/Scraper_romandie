@@ -19,8 +19,13 @@ from export_html import export_html
 from filters import apply_filters, score_job
 from models import Job
 from scrapers.generic_monitor import GenericMonitor
+from scrapers.alecallan import AlecAllanScraper
+from scrapers.gloorlang import GloorLangScraper
 from scrapers.greenhouse import GreenhouseScraper
+from scrapers.hays import HaysScraper
 from scrapers.paylocity import PaylocityScraper
+from scrapers.randstad import RandstadScraper
+from scrapers.stettler import StettlerScraper
 from scrapers.successfactors import SuccessFactorsScraper
 from scrapers.workable import WorkableScraper
 from scrapers.workday import WorkdayScraper
@@ -94,6 +99,41 @@ def _build_scraper(cfg: dict):
             company=name,
             careers_url=cfg["careers_url"],
             location_terms=cfg.get("location_terms", LOCATION_FILTERS),
+            title_terms=TITLE_FILTERS,
+        )
+
+    if ats == "randstad":
+        return RandstadScraper(
+            company=name,
+            location_terms=LOCATION_FILTERS,
+            title_terms=TITLE_FILTERS,
+        )
+
+    if ats == "gloorlang":
+        return GloorLangScraper(
+            company=name,
+            location_terms=LOCATION_FILTERS,
+            title_terms=TITLE_FILTERS,
+        )
+
+    if ats == "stettler":
+        return StettlerScraper(
+            company=name,
+            location_terms=LOCATION_FILTERS,
+            title_terms=TITLE_FILTERS,
+        )
+
+    if ats == "alecallan":
+        return AlecAllanScraper(
+            company=name,
+            location_terms=LOCATION_FILTERS,
+            title_terms=TITLE_FILTERS,
+        )
+
+    if ats == "hays":
+        return HaysScraper(
+            company=name,
+            location_terms=LOCATION_FILTERS,
             title_terms=TITLE_FILTERS,
         )
 
