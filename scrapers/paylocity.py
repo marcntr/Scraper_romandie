@@ -101,7 +101,7 @@ class PaylocityScraper(BaseScraper):
         # ── Phase 2: fetch description for each candidate ─────────────────
         jobs: list[Job] = []
         for i, raw in enumerate(candidates):
-            detail_html = self._fetch_detail(session, raw["JobId"])
+            detail_html = self._fetch_detail(session, raw.get("JobId"))
             job = self._parse_job(raw, detail_html)
             if job:
                 jobs.append(job)
@@ -131,11 +131,12 @@ class PaylocityScraper(BaseScraper):
 
     def _raw_to_partial_job(self, raw: dict) -> Job:
         """Build a description-less Job for pre-filtering purposes."""
+        job_id = raw.get("JobId") or ""
         return Job(
             title=raw.get("JobTitle") or "",
             company=self.company,
             location=raw.get("LocationName") or "",
-            url=_DETAIL_URL.format(job_id=raw["JobId"]),
+            url=_DETAIL_URL.format(job_id=job_id) if job_id else self.careers_url,
         )
 
     def _parse_job(self, raw: dict, detail_html: str) -> Job | None:
@@ -146,7 +147,7 @@ class PaylocityScraper(BaseScraper):
         location   = (raw.get("LocationName") or "").strip()
         posted     = (raw.get("PublishedDate") or "")[:10]
         department = (raw.get("HiringDepartment") or "").strip()
-        url        = _DETAIL_URL.format(job_id=raw["JobId"])
+        url        = _DETAIL_URL.format(job_id=raw.get("JobId") or "")
         description = self._extract_description(detail_html)
 
         return Job(
@@ -181,7 +182,9 @@ class PaylocityScraper(BaseScraper):
     # HTTP helpers
     # ------------------------------------------------------------------
 
-    def _fetch_detail(self, session: requests.Session, job_id: int) -> str:
+    def _fetch_detail(self, session: requests.Session, job_id) -> str:
+        if not job_id:
+            return ""
         url  = _DETAIL_URL.format(job_id=job_id)
         resp = self._get_with_retry(session, url)
         if resp is None:

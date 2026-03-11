@@ -96,17 +96,19 @@ def score_job(job: Job) -> Job:
     Returns the same ``Job`` object (mutated).
     """
     corpus = f"{job.title} {job.description}"
+    corpus_lower = corpus.lower()
+    desc_lower   = job.description.lower()
 
     # -- Positive keywords: +1 per unique term ------------------------------
     for term in SCORE_POSITIVE:
-        if re.search(re.escape(term), corpus, re.IGNORECASE):
+        if term.lower() in corpus_lower:
             if term not in job.matched_keywords:
                 job.matched_keywords.append(term)
                 job.score += 1
 
     # -- Negative phrases: -2 per unique phrase found in description --------
     for phrase in SCORE_NEGATIVE_PHRASES:
-        if re.search(re.escape(phrase), job.description, re.IGNORECASE):
+        if phrase.lower() in desc_lower:
             if phrase not in job.deducted_keywords:
                 job.deducted_keywords.append(phrase)
                 job.score -= 2

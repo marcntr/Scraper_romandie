@@ -28,8 +28,10 @@ Phase 2 — Per-job detail fetch (description only)
 
 import logging
 import random
+import re
 import time
 from concurrent.futures import ThreadPoolExecutor
+from datetime import date, timedelta
 
 import requests
 
@@ -54,6 +56,25 @@ _LIST_BODY_BASE: dict = {
 
 # Country / language name variants used when auto-detecting Switzerland facets.
 _SWISS_TERMS = frozenset({"switzerland", "suisse", "schweiz", "svizzera", "swiss"})
+
+# Regex for Workday's relative date strings: "Posted Today", "Posted 3 Days Ago",
+# "Posted 30+ Days Ago".  These are converted to approximate ISO dates at parse
+# time so the dashboard sort (date desc, score desc) works correctly for all
+# Workday companies.
+_POSTED_DAYS_RE = re.compile(r"(\d+)\+?\s*day", re.IGNORECASE)
+
+
+def _parse_workday_date(posted_on: str) -> str:
+    """Convert a Workday relative date string to 'YYYY-MM-DD', or '' if unknown."""
+    if not posted_on:
+        return ""
+    s = posted_on.strip().lower()
+    if "today" in s:
+        return date.today().isoformat()
+    m = _POSTED_DAYS_RE.search(s)
+    if m:
+        return (date.today() - timedelta(days=int(m.group(1)))).isoformat()
+    return ""
 
 
 class WorkdayScraper(BaseScraper):
@@ -291,8 +312,7 @@ class WorkdayScraper(BaseScraper):
         bullets = raw.get("bulletFields") or []
         req_id  = bullets[0].strip() if bullets else ""
 
-        # postedOn is "Posted N Days Ago" — not ISO; store as-is
-        posted = (raw.get("postedOn") or "").strip()
+        posted = _parse_workday_date(raw.get("postedOn") or "")
 
         info = detail.get("jobPostingInfo", {})
 
@@ -315,7 +335,7 @@ class WorkdayScraper(BaseScraper):
         )
 
     # ------------------------------------------------------------------
-    # HTTP helpers — warm-up and POST with retry / 429 backoff
+    # HTTP helpers — warm-up (_post_with_retry is inherited from BaseScraper)
     # ------------------------------------------------------------------
 
     def _warm_up_session(self, session: requests.Session) -> None:
@@ -391,52 +411,3 @@ class WorkdayScraper(BaseScraper):
         self._search_texts = self._search_fallback_terms
         return {}
 
-    def _post_with_retry(
-        self,
-        session: requests.Session,
-        url: str,
-        body: dict,
-    ) -> requests.Response | None:
-        for attempt in range(self._MAX_RETRIES):
-            try:
-                resp = session.post(
-                    url,
-                    json=body,
-                    timeout=20,
-                    headers={
-                        **self._browser_headers(referer=self.careers_url),
-                        "Content-Type": "application/json",
-                    },
-                )
-                if resp.status_code == 429:
-                    wait = float(resp.headers.get(
-                        "Retry-After", self._BACKOFF_BASE * (2 ** attempt)))
-                    logger.warning("[%s] POST 429 — backing off %.1fs (attempt %d/%d)",
-                                   self.company, wait, attempt + 1, self._MAX_RETRIES)
-                    time.sleep(wait)
-                    continue
-                resp.raise_for_status()
-                return resp
-            except requests.exceptions.HTTPError as exc:
-                status = getattr(exc.response, "status_code", 0)
-                if status >= 500:
-                    logger.warning(
-                        "[%s] POST %d — backing off (attempt %d/%d)",
-                        self.company, status, attempt + 1, self._MAX_RETRIES,
-                    )
-                    if attempt < self._MAX_RETRIES - 1:
-                        time.sleep(self._BACKOFF_BASE * (2 ** attempt))
-                        continue
-                logger.error("[%s] Non-retryable POST error: %s", self.company, exc)
-                return None
-            except (requests.exceptions.ConnectionError,
-                    requests.exceptions.Timeout) as exc:
-                logger.warning("[%s] Network error on POST attempt %d/%d: %s",
-                               self.company, attempt + 1, self._MAX_RETRIES, exc)
-                if attempt < self._MAX_RETRIES - 1:
-                    time.sleep(self._BACKOFF_BASE * (2 ** attempt))
-                else:
-                    logger.error("[%s] POST max retries exhausted", self.company)
-                    return None
-        logger.error("[%s] POST gave up after persistent 429", self.company)
-        return None

@@ -53,9 +53,12 @@ class BaseScraper(ABC):
     company: str
     careers_url: str
 
-    # Shared retry constants — used by _get_with_retry and subclass _post_with_retry
+    # Shared retry constants — used by _get_with_retry and _post_with_retry
     _MAX_RETRIES: int = 3
     _BACKOFF_BASE: float = 4.0
+    # Hard cap on Retry-After to prevent a single rate-limited server from
+    # blocking the GitHub Actions runner (30-min timeout) indefinitely.
+    _MAX_RETRY_AFTER_S: float = 60.0
 
     # ------------------------------------------------------------------
     # Helpers available to all subclasses
@@ -100,8 +103,9 @@ class BaseScraper(ABC):
                     headers=self._browser_headers(referer=self.careers_url),
                 )
                 if resp.status_code == 429:
-                    wait = float(resp.headers.get(
+                    raw_wait = float(resp.headers.get(
                         "Retry-After", self._BACKOFF_BASE * (2 ** attempt)))
+                    wait = min(raw_wait, self._MAX_RETRY_AFTER_S)
                     logger.warning(
                         "[%s] GET 429 — backing off %.1fs (attempt %d/%d)",
                         self.company, wait, attempt + 1, self._MAX_RETRIES,
@@ -132,6 +136,57 @@ class BaseScraper(ABC):
                     logger.error("[%s] GET max retries exhausted", self.company)
                     return None
         logger.error("[%s] GET gave up after persistent 429", self.company)
+        return None
+
+    def _post_with_retry(
+        self,
+        session: requests.Session,
+        url: str,
+        body: dict,
+    ) -> requests.Response | None:
+        """POST JSON with exponential backoff on 429 / transient network errors."""
+        for attempt in range(self._MAX_RETRIES):
+            try:
+                resp = session.post(
+                    url,
+                    json=body,
+                    timeout=20,
+                    headers=self._browser_headers(referer=self.careers_url),
+                )
+                if resp.status_code == 429:
+                    raw_wait = float(resp.headers.get(
+                        "Retry-After", self._BACKOFF_BASE * (2 ** attempt)))
+                    wait = min(raw_wait, self._MAX_RETRY_AFTER_S)
+                    logger.warning(
+                        "[%s] POST 429 — backing off %.1fs (attempt %d/%d)",
+                        self.company, wait, attempt + 1, self._MAX_RETRIES,
+                    )
+                    time.sleep(wait)
+                    continue
+                resp.raise_for_status()
+                return resp
+            except requests.exceptions.HTTPError as exc:
+                status = getattr(exc.response, "status_code", 0)
+                if status >= 500:
+                    logger.warning(
+                        "[%s] POST %d — backing off (attempt %d/%d)",
+                        self.company, status, attempt + 1, self._MAX_RETRIES,
+                    )
+                    if attempt < self._MAX_RETRIES - 1:
+                        time.sleep(self._BACKOFF_BASE * (2 ** attempt))
+                        continue
+                logger.error("[%s] Non-retryable POST error: %s", self.company, exc)
+                return None
+            except (requests.exceptions.ConnectionError,
+                    requests.exceptions.Timeout) as exc:
+                logger.warning("[%s] Network error on POST attempt %d/%d: %s",
+                               self.company, attempt + 1, self._MAX_RETRIES, exc)
+                if attempt < self._MAX_RETRIES - 1:
+                    time.sleep(self._BACKOFF_BASE * (2 ** attempt))
+                else:
+                    logger.error("[%s] POST max retries exhausted", self.company)
+                    return None
+        logger.error("[%s] POST gave up after persistent 429", self.company)
         return None
 
     @staticmethod
