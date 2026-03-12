@@ -859,12 +859,10 @@ COMPANIES: list[dict] = [
         "careers_url": "https://careers.incyte.com/jobs",
         "keywords": TITLE_FILTERS,
     },
-    # ── Phase 3: HAYA Therapeutics — converted to generic (LinkedIn not supported)
+    # ── Phase 3: HAYA Therapeutics — WordPress AJAX → LinkedIn links
     {
         "name": "HAYA Therapeutics",
-        "ats": "generic",
-        "careers_url": "https://www.hayatx.com/careers/",
-        "keywords": TITLE_FILTERS,
+        "ats": "hayatx",
     },
     # ── New additions ────────────────────────────────────────────────────────
     # Dotmatics (life science informatics / ELN / LIMS software — Greenhouse)
@@ -961,12 +959,10 @@ COMPANIES: list[dict] = [
         "name": "Hays Switzerland",
         "ats": "hays",
     },
-    # Michael Page Switzerland (global staffing — BroadBean/Drupal, no public API)
+    # Michael Page Switzerland (global staffing — Drupal server-rendered listings)
     {
         "name": "Michael Page Switzerland",
-        "ats": "generic",
-        "careers_url": "https://www.michaelpage.ch/jobs/switzerland",
-        "keywords": TITLE_FILTERS,
+        "ats": "michaelpage",
     },
 ]
 

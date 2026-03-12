@@ -23,7 +23,9 @@ from scrapers.generic_monitor import GenericMonitor
 from scrapers.alecallan import AlecAllanScraper
 from scrapers.gloorlang import GloorLangScraper
 from scrapers.greenhouse import GreenhouseScraper
+from scrapers.hayatx import HayaTxScraper
 from scrapers.hays import HaysScraper
+from scrapers.michaelpage import MichaelPageScraper
 from scrapers.paylocity import PaylocityScraper
 from scrapers.randstad import RandstadScraper
 from scrapers.stettler import StettlerScraper
@@ -133,6 +135,20 @@ def _build_scraper(cfg: dict):
 
     if ats == "hays":
         return HaysScraper(
+            company=name,
+            location_terms=LOCATION_FILTERS,
+            title_terms=TITLE_FILTERS,
+        )
+
+    if ats == "michaelpage":
+        return MichaelPageScraper(
+            company=name,
+            location_terms=LOCATION_FILTERS,
+            title_terms=TITLE_FILTERS,
+        )
+
+    if ats == "hayatx":
+        return HayaTxScraper(
             company=name,
             location_terms=LOCATION_FILTERS,
             title_terms=TITLE_FILTERS,

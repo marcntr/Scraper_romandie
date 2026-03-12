@@ -565,6 +565,13 @@ _ATS_BADGE: dict[str, tuple[str, str]] = {
     "greenhouse":    ("#14532d", "#86efac"),   # green
     "successfactors":("#78350f", "#fcd34d"),   # amber
     "paylocity":     ("#1e3a5f", "#93c5fd"),   # blue
+    "michaelpage":   ("#1c1917", "#f97316"),   # orange
+    "hayatx":        ("#1a1a2e", "#e879f9"),   # fuchsia
+    "hays":          ("#172554", "#60a5fa"),   # blue-dark
+    "randstad":      ("#1c1917", "#fb923c"),   # orange-dark
+    "stettler":      ("#0f172a", "#94a3b8"),   # slate-dark
+    "alecallan":     ("#0f172a", "#7dd3fc"),   # sky
+    "gloorlang":     ("#0f172a", "#86efac"),   # green-dark
     "generic":       ("#1f2937", "#9ca3af"),   # slate
 }
 
