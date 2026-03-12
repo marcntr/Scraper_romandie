@@ -178,12 +178,14 @@ COMPANIES: list[dict] = [
         "careers_url": "https://chairon.io/",
         "keywords": TITLE_FILTERS,
     },
-    {
-        "name": "AMAL Therapeutics",
-        "ats": "generic",
-        "careers_url": "https://www.amaltherapeutics.com/careers",
-        "keywords": TITLE_FILTERS,
-    },
+    # AMAL Therapeutics was acquired by Boehringer Ingelheim in 2021 and no
+    # longer operates as an independent entity.  Their jobs are now covered by
+    # the Boehringer Ingelheim SuccessFactors scraper above.
+    # {
+    #     "name": "AMAL Therapeutics",
+    #     "ats": "generic",
+    #     "careers_url": "https://www.amaltherapeutics.com/careers",
+    # },
     # ── Phase 6: Large pharma — Workday ──────────────────────────────────────
     {
         "name": "Roche",
@@ -239,13 +241,12 @@ COMPANIES: list[dict] = [
         "careers_url": "https://www.benchling.com/careers",
         "keywords": TITLE_FILTERS,
     },
-    # ── Phase 6: Unsupported ATS — generic keyword monitors ──────────────────
-    # AbbVie uses SmartRecruiters — no structured scraper; monitor careers page.
+    # ── Phase 6: SmartRecruiters API ─────────────────────────────────────────
+    # AbbVie (Cham) — SmartRecruiters public API, country=ch filter
     {
         "name": "AbbVie",
-        "ats": "generic",
-        "careers_url": "https://careers.smartrecruiters.com/abbvie",
-        "keywords": TITLE_FILTERS,
+        "ats": "smartrecruiters",
+        "company_id": "AbbVie",
     },
     # Galapagos — migrated from Recruitee to workatgalapagos.com
     {
@@ -577,12 +578,10 @@ COMPANIES: list[dict] = [
         "careers_url": "https://www.straumann.com/group/en/home/careers.html",
         "keywords": TITLE_FILTERS,
     },
-    # Nestlé Health Science (Vevey) — uses SAP SuccessFactors via nestlejobs.com
+    # Nestlé Health Science (Vevey) — Drupal/Avature portal at nestlejobs.com
     {
         "name": "Nestlé Health Science",
-        "ats": "generic",
-        "careers_url": "https://www.nestlejobs.com/nestle-health-science",
-        "keywords": TITLE_FILTERS,
+        "ats": "nestlehealthscience",
     },
     # PerkinElmer rebranded to Revvity in 2023 (life sciences instruments)
     {
@@ -852,7 +851,8 @@ COMPANIES: list[dict] = [
     #     "ats": "phenom",
     #     "careers_url": "https://careers.emdgroup.com/global/en/",
     # },
-    # ── Phase 3: iCIMS — converted to generic monitor (iCIMS scraper pending) ──
+    # Incyte — Jibe Apply (Google CTS) frontend over iCIMS; JS-rendered SPA with
+    # no accessible public API endpoint.  Kept as generic keyword monitor.
     {
         "name": "Incyte",
         "ats": "generic",

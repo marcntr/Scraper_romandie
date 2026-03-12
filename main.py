@@ -26,8 +26,10 @@ from scrapers.greenhouse import GreenhouseScraper
 from scrapers.hayatx import HayaTxScraper
 from scrapers.hays import HaysScraper
 from scrapers.michaelpage import MichaelPageScraper
+from scrapers.nestlehealthscience import NestleHealthScienceScraper
 from scrapers.paylocity import PaylocityScraper
 from scrapers.randstad import RandstadScraper
+from scrapers.smartrecruiters import SmartRecruitersScraper
 from scrapers.stettler import StettlerScraper
 from scrapers.successfactors import SuccessFactorsScraper
 from scrapers.workable import WorkableScraper
@@ -149,6 +151,21 @@ def _build_scraper(cfg: dict):
 
     if ats == "hayatx":
         return HayaTxScraper(
+            company=name,
+            location_terms=LOCATION_FILTERS,
+            title_terms=TITLE_FILTERS,
+        )
+
+    if ats == "smartrecruiters":
+        return SmartRecruitersScraper(
+            company=name,
+            company_id=cfg["company_id"],
+            location_terms=LOCATION_FILTERS,
+            title_terms=TITLE_FILTERS,
+        )
+
+    if ats == "nestlehealthscience":
+        return NestleHealthScienceScraper(
             company=name,
             location_terms=LOCATION_FILTERS,
             title_terms=TITLE_FILTERS,
