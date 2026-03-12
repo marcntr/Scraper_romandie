@@ -230,6 +230,8 @@ def _scrape_one(
 
 def run(show_all: bool = False) -> list[Job]:
     job_cache.load()
+    # Snapshot pre-run cache so export_html can mark genuinely new jobs.
+    pre_run_urls = job_cache.known_urls()
 
     all_matched: list[Job] = []
     all_scraped_urls: set[str] = set()
@@ -314,7 +316,7 @@ def run(show_all: bool = False) -> list[Job]:
     else:
         print("  (none)")
 
-    export_html(all_matched, generic_alerts, COMPANIES)
+    export_html(all_matched, generic_alerts, COMPANIES, known_urls=pre_run_urls)
 
     # Persist cache — prune entries for jobs no longer seen anywhere in this
     # run (filled / removed positions).  We pass all scraped URLs (pre-filter)

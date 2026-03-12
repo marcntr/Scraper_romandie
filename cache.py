@@ -58,6 +58,21 @@ def load() -> None:
         _store = {}
 
 
+def known_urls() -> set[str]:
+    """Return the set of all public job URLs currently in the cache.
+
+    Call this immediately after ``load()`` and before any scraping begins to
+    capture the pre-run baseline.  Any job URL absent from this set is new
+    this run and should be highlighted in the dashboard.
+    """
+    with _lock:
+        return {
+            v["external_url"]
+            for v in _store.values()
+            if "external_url" in v
+        }
+
+
 def get(key: str) -> dict | None:
     """Return the cached entry for *key*, or None if not present."""
     with _lock:

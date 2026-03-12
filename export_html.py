@@ -337,13 +337,14 @@ def _parse_alert(alert_str: str) -> tuple[str, str]:
 # Card builders
 # ---------------------------------------------------------------------------
 
-def _job_card(job: Job, idx: int) -> str:
+def _job_card(job: Job, idx: int, is_new: bool = False) -> str:
     score_cls = _score_class(job.score)
     score_sign = f"+{job.score}" if job.score > 0 else str(job.score)
     loc_tag = _location_tag(job.location)
     posted = f"Posted {_esc(job.posted_date)}" if job.posted_date else ""
     matched = "  ".join(_esc(k) for k in job.matched_keywords) if job.matched_keywords else "(none)"
     deducted = "  ".join(_esc(k) for k in job.deducted_keywords) if job.deducted_keywords else "(none)"
+    new_badge = '<span class="new-badge">New</span>' if is_new else ""
 
     raw_desc = job.description or ""
     has_desc = bool(raw_desc)
@@ -370,11 +371,13 @@ def _job_card(job: Job, idx: int) -> str:
 <div class="job-card"
      data-company="{company_data}"
      data-score="{score_data}"
+     data-date="{_esc(job.posted_date or '')}"
      data-location="{loc_data}"
      data-text="{_esc((job.title + ' ' + job.company + ' ' + ' '.join(job.matched_keywords)).lower())}">
   <div class="card-header">
     <div class="card-left">
       <span class="score-badge {score_cls}">{score_sign}</span>
+      {new_badge}
       <span class="job-title">{_esc(job.title)}</span>
     </div>
     <a class="open-link" href="{_esc(job.url)}" target="_blank" rel="noopener">Open ↗</a>
@@ -615,6 +618,7 @@ def export_html(
     alerts: list[tuple[str, str]],
     companies_cfg: list[dict] | None = None,
     path: str = HTML_PATH,
+    known_urls: set[str] | None = None,
 ) -> None:
     timestamp = datetime.now().strftime("%Y-%m-%d %H:%M")
     job_companies = sorted({j.company for j in jobs})
@@ -623,7 +627,10 @@ def export_html(
     all_cfgs = sorted(companies_cfg or [], key=lambda c: c.get("name", "").lower())
     n_monitored = len(all_cfgs)
 
-    job_cards_html = "\n".join(_job_card(j, i) for i, j in enumerate(jobs))
+    job_cards_html = "\n".join(
+        _job_card(j, i, is_new=(known_urls is not None and j.url not in known_urls))
+        for i, j in enumerate(jobs)
+    )
     alert_cards_html = "\n".join(_alert_card(c, a) for c, a in alerts)
     company_rows_html = "\n".join(_company_row(cfg) for cfg in all_cfgs)
 
@@ -719,9 +726,28 @@ a {{ color: inherit; text-decoration: none; }}
   display: flex;
   gap: 10px;
   flex-wrap: wrap;
-  margin-bottom: 20px;
   align-items: center;
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  background: #0f1117;
+  padding: 12px 0 10px;
+  margin-bottom: 10px;
+  border-bottom: 1px solid #1e2535;
 }}
+.sort-btn {{
+  background: #1a1f2e;
+  border: 1px solid #2d3448;
+  border-radius: 6px;
+  color: #9ca3af;
+  cursor: pointer;
+  font-size: 13px;
+  padding: 7px 11px;
+  white-space: nowrap;
+  transition: color 0.15s, border-color 0.15s;
+}}
+.sort-btn:hover {{ color: #d1d5db; border-color: #3d4460; }}
+.sort-btn.active {{ color: #818cf8; border-color: #818cf8; }}
 .filter-bar input,
 .filter-bar select {{
   background: #1a1f2e;
@@ -769,9 +795,20 @@ a {{ color: inherit; text-decoration: none; }}
   font-size: 15px;
   font-weight: 600;
   color: #e2e8f0;
+  line-height: 1.4;
+}}
+.new-badge {{
+  background: #14532d;
+  color: #4ade80;
+  border: 1px solid #166534;
+  border-radius: 4px;
+  font-size: 10px;
+  font-weight: 700;
+  padding: 1px 6px;
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
+  flex-shrink: 0;
   white-space: nowrap;
-  overflow: hidden;
-  text-overflow: ellipsis;
 }}
 .score-badge {{
   border-radius: 5px;
@@ -1024,6 +1061,8 @@ a {{ color: inherit; text-decoration: none; }}
         <option value="romandie">Romandie</option>
         <option value="switzerland">Switzerland</option>
       </select>
+      <button class="sort-btn active" id="sort-date-btn" onclick="setSort('date')">Date ↓</button>
+      <button class="sort-btn" id="sort-score-btn" onclick="setSort('score')">Score ↓</button>
     </div>
     <div class="results-count" id="results-count">{n_jobs} job{'s' if n_jobs != 1 else ''} shown</div>
     <div id="job-list">
@@ -1113,16 +1152,49 @@ function filterCompanies() {{
     visible + ' compan' + (visible === 1 ? 'y' : 'ies') + ' monitored';
 }}
 
-// ── Jobs filter ──
+// ── Sort ──
+let currentSort = 'date';
+
+function setSort(s) {{
+  currentSort = s;
+  document.getElementById('sort-date-btn').classList.toggle('active', s === 'date');
+  document.getElementById('sort-score-btn').classList.toggle('active', s === 'score');
+  localStorage.setItem('jd_sort', s);
+  applyFilters();
+}}
+
+// ── Jobs filter + sort ──
 function applyFilters() {{
   const text    = document.getElementById('filter-text').value.toLowerCase();
   const company = document.getElementById('filter-company').value;
   const score   = document.getElementById('filter-score').value;
   const loc     = document.getElementById('filter-location').value;
 
-  const cards = document.querySelectorAll('#job-list .job-card');
-  let visible = 0;
+  // Persist filter state
+  localStorage.setItem('jd_text',     document.getElementById('filter-text').value);
+  localStorage.setItem('jd_company',  company);
+  localStorage.setItem('jd_score',    score);
+  localStorage.setItem('jd_location', loc);
 
+  const list  = document.getElementById('job-list');
+  const cards = Array.from(list.querySelectorAll('.job-card'));
+
+  // Sort cards in DOM before applying visibility
+  cards.sort((a, b) => {{
+    if (currentSort === 'score') {{
+      const sd = parseInt(b.dataset.score, 10) - parseInt(a.dataset.score, 10);
+      if (sd !== 0) return sd;
+      return (b.dataset.date || '').localeCompare(a.dataset.date || '');
+    }} else {{
+      const dd = (b.dataset.date || '').localeCompare(a.dataset.date || '');
+      if (dd !== 0) return dd;
+      return parseInt(b.dataset.score, 10) - parseInt(a.dataset.score, 10);
+    }}
+  }});
+  cards.forEach(card => list.appendChild(card));
+
+  // Apply visibility filters
+  let visible = 0;
   cards.forEach(card => {{
     const cardText    = card.dataset.text || '';
     const cardCompany = card.dataset.company || '';
@@ -1145,6 +1217,25 @@ function applyFilters() {{
   const label = visible === 1 ? '1 job shown' : visible + ' jobs shown';
   document.getElementById('results-count').textContent = label;
 }}
+
+// ── Init: restore persisted state then render ──
+(function init() {{
+  const txt = localStorage.getItem('jd_text');
+  const co  = localStorage.getItem('jd_company');
+  const sc  = localStorage.getItem('jd_score');
+  const lo  = localStorage.getItem('jd_location');
+  const so  = localStorage.getItem('jd_sort');
+  if (txt) document.getElementById('filter-text').value = txt;
+  if (co)  document.getElementById('filter-company').value = co;
+  if (sc)  document.getElementById('filter-score').value = sc;
+  if (lo)  document.getElementById('filter-location').value = lo;
+  if (so) {{
+    currentSort = so;
+    document.getElementById('sort-date-btn').classList.toggle('active', so === 'date');
+    document.getElementById('sort-score-btn').classList.toggle('active', so === 'score');
+  }}
+  applyFilters();
+}})();
 </script>
 
 </body>
