@@ -71,6 +71,7 @@ def prune_and_save(active_urls: set[str]) -> None:
         active_urls: Set of public job URLs that appeared in the current run's
                      matched results.
     """
+    global _store
     with _lock:
         before = len(_store)
         _store = {
