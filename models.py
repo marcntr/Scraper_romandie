@@ -12,5 +12,5 @@ class Job:
     department: str = ""
     posted_date: str = ""
     score: int = 0
-    matched_keywords: list[str] = field(default_factory=list)
-    deducted_keywords: list[str] = field(default_factory=list)
+    matched_keywords: set[str] = field(default_factory=set)
+    deducted_keywords: set[str] = field(default_factory=set)

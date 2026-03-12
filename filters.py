@@ -119,14 +119,14 @@ def score_job(job: Job) -> Job:
     for term, term_lower in zip(SCORE_POSITIVE, _POS_TERMS_LOWER):
         if term_lower in corpus_lower:
             if term not in job.matched_keywords:
-                job.matched_keywords.append(term)
+                job.matched_keywords.add(term)
                 job.score += 1
 
     # -- Negative phrases: -2 per unique phrase found in description --------
     for phrase, phrase_lower in zip(SCORE_NEGATIVE_PHRASES, _NEG_PHRASES_LOWER):
         if phrase_lower in desc_lower:
             if phrase not in job.deducted_keywords:
-                job.deducted_keywords.append(phrase)
+                job.deducted_keywords.add(phrase)
                 job.score -= 2
 
     # -- Negative regex patterns: -2 per pattern match in description -------
@@ -135,7 +135,7 @@ def score_job(job: Job) -> Job:
         if match:
             snippet = match.group(0)
             if snippet not in job.deducted_keywords:
-                job.deducted_keywords.append(snippet)
+                job.deducted_keywords.add(snippet)
                 job.score -= 2
 
     # -- Geographic bonus: +4 Romandie, 0 major hubs, -2 elsewhere ----------
@@ -143,9 +143,9 @@ def score_job(job: Job) -> Job:
     matched_loc = next((t for t in SCORE_LOCATION_POSITIVE if t in loc), None)
     if matched_loc:
         job.score += 4
-        job.matched_keywords.append(f"location:{matched_loc}")
+        job.matched_keywords.add(f"location:{matched_loc}")
     elif not any(t in loc for t in SCORE_LOCATION_NEUTRAL):
         job.score -= 2
-        job.deducted_keywords.append(f"location:{job.location}")
+        job.deducted_keywords.add(f"location:{job.location}")
 
     return job

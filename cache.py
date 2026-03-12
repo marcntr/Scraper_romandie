@@ -10,13 +10,22 @@ Structure of seen_jobs.json:
           "description": "plain text stripped from HTML",
           "external_url": "https://..."
       },
+      "_generic:CompanyName": {
+          "keywords": "biomarker,data science"
+      },
       ...
     }
 
+Job entries use scraper-internal paths as keys.
+Generic-monitor state entries use the ``_generic:<company>`` prefix and are
+never pruned — they persist across runs to enable false-positive suppression.
+
 Pruning contract:
-    ``prune_and_save(active_urls)`` deletes every entry whose
-    ``external_url`` is NOT in ``active_urls``.  This ensures that filled or
-    removed jobs are evicted from the file, keeping Git history compact.
+    ``prune_and_save(active_urls)`` deletes every job entry whose
+    ``external_url`` is NOT in ``active_urls``.  ``active_urls`` must contain
+    ALL URLs observed during the scrape (not just those that passed filters),
+    so that jobs which exist but didn't match today are not evicted and
+    re-fetched next run.  Generic-monitor entries are always preserved.
 """
 
 import json
@@ -61,22 +70,40 @@ def put(key: str, description: str, external_url: str) -> None:
         _store[key] = {"description": description, "external_url": external_url}
 
 
-def prune_and_save(active_urls: set[str]) -> None:
-    """Remove stale entries and persist the cache to disk.
+def get_generic_alert(company: str) -> str | None:
+    """Return the last-seen keyword string for a GenericMonitor company,
+    or None if this company has never triggered an alert."""
+    with _lock:
+        entry = _store.get(f"_generic:{company}")
+        return entry.get("keywords") if entry else None
 
-    An entry is stale if its ``external_url`` is not in *active_urls*
-    (meaning the job was filled or removed during this run).
+
+def put_generic_alert(company: str, keywords_str: str) -> None:
+    """Persist the matched keyword string for a GenericMonitor company."""
+    with _lock:
+        _store[f"_generic:{company}"] = {"keywords": keywords_str}
+
+
+def prune_and_save(active_urls: set[str]) -> None:
+    """Remove stale job entries and persist the cache to disk.
+
+    A job entry is stale if its ``external_url`` is not in *active_urls*.
+    *active_urls* should contain every URL seen during the scrape run,
+    regardless of whether the job passed filters — this prevents re-fetching
+    descriptions for jobs that exist but didn't match today's criteria.
+
+    Generic-monitor entries (keys prefixed with ``_generic:``) are always
+    preserved.
 
     Args:
-        active_urls: Set of public job URLs that appeared in the current run's
-                     matched results.
+        active_urls: Set of all public job URLs observed in the current run.
     """
     global _store
     with _lock:
         before = len(_store)
         _store = {
             k: v for k, v in _store.items()
-            if v.get("external_url") in active_urls
+            if k.startswith("_generic:") or v.get("external_url") in active_urls
         }
         pruned = before - len(_store)
         if pruned:

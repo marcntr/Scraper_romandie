@@ -189,30 +189,39 @@ def _print_job_table(jobs: list[Job], header: str) -> None:
 def _scrape_one(
     cfg: dict,
     show_all: bool = False,
-) -> tuple[list[Job], list[tuple[str, str]]]:
-    """Scrape a single company. Returns (matched_jobs, generic_alerts)."""
+) -> tuple[list[Job], set[str], list[tuple[str, str]]]:
+    """Scrape a single company.
+
+    Returns:
+        matched_jobs:    Jobs that passed location + title filters (scored).
+        all_scraped_urls: URLs of every job seen before filtering — used by
+                          prune_and_save so jobs that exist but didn't match
+                          today are not evicted from the description cache.
+        generic_alerts:  (company, alert_str) pairs from GenericMonitor hits.
+    """
     scraper = _build_scraper(cfg)
     if scraper is None:
-        return [], []
+        return [], set(), []
 
     logger.info("── Scraping %s (%s) ──", cfg["name"], cfg["ats"])
 
     if isinstance(scraper, GenericMonitor):
         alert = scraper.check()
-        return [], [(cfg["name"], alert)] if alert else []
+        return [], set(), ([(cfg["name"], alert)] if alert else [])
 
     all_jobs = scraper.fetch_jobs()
 
     if show_all:
         _print_job_table(all_jobs, f"ALL OPEN POSITIONS — {cfg['name']}")
 
+    all_scraped_urls = {j.url for j in all_jobs}
     matched = apply_filters(all_jobs, LOCATION_FILTERS, TITLE_FILTERS)
     matched = [score_job(j) for j in matched]
     logger.info(
         "[%s] %d total open | %d passed filters",
         cfg["name"], len(all_jobs), len(matched),
     )
-    return matched, []
+    return matched, all_scraped_urls, []
 
 
 # ---------------------------------------------------------------------------
@@ -223,6 +232,7 @@ def run(show_all: bool = False) -> list[Job]:
     job_cache.load()
 
     all_matched: list[Job] = []
+    all_scraped_urls: set[str] = set()
     generic_alerts: list[tuple[str, str]] = []
 
     print(f"\n{'='*70}")
@@ -247,8 +257,9 @@ def run(show_all: bool = False) -> list[Job]:
 
     # ── Workday: sequential with mandatory inter-company delays ───────────
     for idx, cfg in enumerate(workday_cfgs):
-        matched, alerts = _scrape_one(cfg, show_all)
+        matched, urls, alerts = _scrape_one(cfg, show_all)
         all_matched.extend(matched)
+        all_scraped_urls.update(urls)
         generic_alerts.extend(alerts)
 
         if idx < len(workday_cfgs) - 1:
@@ -260,8 +271,9 @@ def run(show_all: bool = False) -> list[Job]:
     pool.shutdown(wait=True)
     for future, cfg in other_futures.items():
         try:
-            matched, alerts = future.result()
+            matched, urls, alerts = future.result()
             all_matched.extend(matched)
+            all_scraped_urls.update(urls)
             generic_alerts.extend(alerts)
         except Exception as exc:
             logger.error("[%s] Scraper thread raised: %s", cfg["name"], exc)
@@ -304,9 +316,11 @@ def run(show_all: bool = False) -> list[Job]:
 
     export_html(all_matched, generic_alerts, COMPANIES)
 
-    # Persist cache — prune entries for jobs no longer in matched results
-    # (filled / removed positions) to keep seen_jobs.json small.
-    job_cache.prune_and_save({j.url for j in all_matched})
+    # Persist cache — prune entries for jobs no longer seen anywhere in this
+    # run (filled / removed positions).  We pass all scraped URLs (pre-filter)
+    # so that jobs which exist but didn't match today's criteria keep their
+    # cached descriptions and won't be re-fetched next run.
+    job_cache.prune_and_save(all_scraped_urls)
 
     return all_matched
 

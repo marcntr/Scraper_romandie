@@ -23,6 +23,7 @@ import logging
 import requests
 from bs4 import BeautifulSoup
 
+import cache as job_cache
 from scrapers.base import BaseScraper
 from models import Job
 
@@ -74,6 +75,15 @@ class GenericMonitor(BaseScraper):
         matched = [kw for kw in self.keywords if kw in text]
 
         if matched:
+            keywords_str = ",".join(sorted(matched))
+            last_seen = job_cache.get_generic_alert(self.company)
+            if keywords_str == last_seen:
+                logger.info(
+                    "[%s] GenericMonitor: keywords unchanged from last run — suppressing alert",
+                    self.company,
+                )
+                return None
+            job_cache.put_generic_alert(self.company, keywords_str)
             alert = (
                 f"Potential match found at {self.careers_url}. "
                 f"Manual review required. "
