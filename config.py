@@ -536,12 +536,11 @@ COMPANIES: list[dict] = [
         "careers_url": "https://careers.idorsia.com/",
         "keywords": TITLE_FILTERS,
     },
-    # Sobi uses custom portal (sobi.com/en/open-positions)
+    # Sobi — SmartRecruiters public API (16 CH postings confirmed)
     {
         "name": "Sobi",
-        "ats": "generic",
-        "careers_url": "https://www.sobi.com/en/open-positions",
-        "keywords": TITLE_FILTERS,
+        "ats": "smartrecruiters",
+        "company_id": "Sobi",
     },
     # Medpace uses own ATS (not Workday)
     {
@@ -628,9 +627,8 @@ COMPANIES: list[dict] = [
     # PSI CRO (Zug, Swiss CRO)
     {
         "name": "PSI CRO",
-        "ats": "generic",
-        "careers_url": "https://psi-cro.com/careers/",
-        "keywords": TITLE_FILTERS,
+        "ats": "smartrecruiters",
+        "company_id": "PSICRO",
     },
     # KCR — acquired by ICON plc August 2024, removed (ICON already in list)
     # Alira Health (Boston / Swiss healthcare consulting)
