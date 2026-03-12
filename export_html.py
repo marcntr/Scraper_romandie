@@ -1035,7 +1035,7 @@ a {{ color: inherit; text-decoration: none; }}
 
 <div class="tab-bar">
   <button class="tab-btn active" onclick="showTab('jobs')">Matched Jobs ({n_jobs})</button>
-  <button class="tab-btn" onclick="showTab('alerts')">Alerts ({n_alerts})</button>
+  {f'<button class="tab-btn" onclick="showTab(\'alerts\')">Alerts ({n_alerts})</button>' if n_alerts else ''}
   <button class="tab-btn" onclick="showTab('companies')">Companies ({n_monitored})</button>
 </div>
 
@@ -1070,10 +1070,8 @@ a {{ color: inherit; text-decoration: none; }}
     </div>
   </div>
 
-  <!-- ── Alerts tab ── -->
-  <div id="tab-alerts" class="tab-panel">
-    {alert_cards_html if alert_cards_html.strip() else '<div class="empty">No generic monitor alerts this run.</div>'}
-  </div>
+  <!-- ── Alerts tab (only rendered when there are alerts) ── -->
+  {f'<div id="tab-alerts" class="tab-panel">{alert_cards_html}</div>' if n_alerts else ''}
 
   <!-- ── Companies tab ── -->
   <div id="tab-companies" class="tab-panel">
