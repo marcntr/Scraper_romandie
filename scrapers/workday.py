@@ -35,6 +35,7 @@ from datetime import date, timedelta
 
 import requests
 
+import cache as job_cache
 from scrapers.base import BaseScraper
 from models import Job
 
@@ -258,9 +259,23 @@ class WorkdayScraper(BaseScraper):
         cookies = {c.name: c.value for c in session.cookies}
 
         def _fetch_one(raw: dict) -> tuple[dict, dict]:
+            path = raw.get("externalPath", "")
+            cached = job_cache.get(path)
+            if cached:
+                return raw, {"jobPostingInfo": {
+                    "jobDescription": cached["description"],
+                    "externalUrl":    cached["external_url"],
+                }}
             s = self.build_session()
             s.cookies.update(cookies)
-            return raw, self._fetch_detail(s, raw.get("externalPath", ""))
+            detail = self._fetch_detail(s, path)
+            info = detail.get("jobPostingInfo", {})
+            job_cache.put(
+                path,
+                self._strip_html(info.get("jobDescription") or ""),
+                (info.get("externalUrl") or "").strip(),
+            )
+            return raw, detail
 
         jobs: list[Job] = []
         with ThreadPoolExecutor(max_workers=_PHASE2_WORKERS) as pool:

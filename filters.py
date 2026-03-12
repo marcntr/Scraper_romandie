@@ -26,6 +26,25 @@ from models import Job
 
 
 # ---------------------------------------------------------------------------
+# Pre-compiled / pre-lowered constants — computed once at import time
+# ---------------------------------------------------------------------------
+
+# Hard-exclusion patterns compiled for reuse across all calls.
+_EXCL_PATTERNS: list[re.Pattern] = [
+    re.compile(pat, re.IGNORECASE) for pat in EXCLUDE_TITLE_PATTERNS
+]
+
+# Negative regex patterns compiled for reuse across all calls.
+_NEG_PATTERNS: list[re.Pattern] = [
+    re.compile(pat, re.IGNORECASE) for pat in SCORE_NEGATIVE_REGEX
+]
+
+# Pre-lowercased parallel lists avoid repeated .lower() inside tight loops.
+_POS_TERMS_LOWER:   list[str] = [t.lower() for t in SCORE_POSITIVE]
+_NEG_PHRASES_LOWER: list[str] = [p.lower() for p in SCORE_NEGATIVE_PHRASES]
+
+
+# ---------------------------------------------------------------------------
 # Hard exclusion filter (applied before location / title checks)
 # ---------------------------------------------------------------------------
 
@@ -36,10 +55,7 @@ def _is_excluded_title(job: Job) -> bool:
     rather than score-penalised because they represent a structural mismatch
     that no number of positive keywords can overcome.
     """
-    return any(
-        re.search(pat, job.title, re.IGNORECASE)
-        for pat in EXCLUDE_TITLE_PATTERNS
-    )
+    return any(pat.search(job.title) for pat in _EXCL_PATTERNS)
 
 
 # ---------------------------------------------------------------------------
@@ -100,22 +116,22 @@ def score_job(job: Job) -> Job:
     desc_lower   = job.description.lower()
 
     # -- Positive keywords: +1 per unique term ------------------------------
-    for term in SCORE_POSITIVE:
-        if term.lower() in corpus_lower:
+    for term, term_lower in zip(SCORE_POSITIVE, _POS_TERMS_LOWER):
+        if term_lower in corpus_lower:
             if term not in job.matched_keywords:
                 job.matched_keywords.append(term)
                 job.score += 1
 
     # -- Negative phrases: -2 per unique phrase found in description --------
-    for phrase in SCORE_NEGATIVE_PHRASES:
-        if phrase.lower() in desc_lower:
+    for phrase, phrase_lower in zip(SCORE_NEGATIVE_PHRASES, _NEG_PHRASES_LOWER):
+        if phrase_lower in desc_lower:
             if phrase not in job.deducted_keywords:
                 job.deducted_keywords.append(phrase)
                 job.score -= 2
 
     # -- Negative regex patterns: -2 per pattern match in description -------
-    for pattern in SCORE_NEGATIVE_REGEX:
-        match = re.search(pattern, job.description, re.IGNORECASE)
+    for pat in _NEG_PATTERNS:
+        match = pat.search(job.description)
         if match:
             snippet = match.group(0)
             if snippet not in job.deducted_keywords:

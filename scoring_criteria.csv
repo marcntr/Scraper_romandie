@@ -1,0 +1,92 @@
+category,subcategory,value,effect,applies_to,notes
+title_filter,translational_precision,translational medicine,entry (must match ≥1),job title,case-insensitive substring
+title_filter,translational_precision,precision medicine,entry (must match ≥1),job title,case-insensitive substring
+title_filter,translational_precision,biomarker science,entry (must match ≥1),job title,case-insensitive substring
+title_filter,translational_precision,biomarker,entry (must match ≥1),job title,case-insensitive substring
+title_filter,translational_precision,data science,entry (must match ≥1),job title,case-insensitive substring
+title_filter,translational_precision,scientific diligence,entry (must match ≥1),job title,case-insensitive substring
+title_filter,bd_se,search & evaluation,entry (must match ≥1),job title,case-insensitive substring
+title_filter,bd_se,search and evaluation,entry (must match ≥1),job title,case-insensitive substring
+title_filter,bd_se,business development,entry (must match ≥1),job title,case-insensitive substring
+title_filter,scientist,clinical research scientist,entry (must match ≥1),job title,case-insensitive substring
+title_filter,scientist,clinical scientist,entry (must match ≥1),job title,case-insensitive substring
+title_filter,scientist,staff scientist,entry (must match ≥1),job title,case-insensitive substring
+title_filter,scientist,scientist,entry (must match ≥1),job title,case-insensitive substring; broad catch-all
+title_filter,lab_technical,flow cytometry,entry (must match ≥1),job title,case-insensitive substring
+title_filter,medical_affairs,medical affairs,entry (must match ≥1),job title,case-insensitive substring
+title_filter,medical_affairs,medical science liaison,entry (must match ≥1),job title,case-insensitive substring
+title_filter,medical_affairs,medical advisor,entry (must match ≥1),job title,case-insensitive substring
+title_filter,regulatory,regulatory affairs,entry (must match ≥1),job title,case-insensitive substring
+title_filter,regulatory,regulatory,entry (must match ≥1),job title,case-insensitive substring
+hard_exclude,seniority,\bVP\b,hard drop (no score override),job title,regex; matches VP but not MVP or VPM
+hard_exclude,seniority,\bHead\s+of\b,hard drop (no score override),job title,regex
+hard_exclude,seniority,\bSenior\s+Director\b,hard drop (no score override),job title,regex
+hard_exclude,seniority,\bPrincipal\b,hard drop (no score override),job title,regex
+hard_exclude,focus,\(Machine Learning\),hard drop (no score override),job title,regex; ML as primary focus only
+score_positive,credentials,PhD,+1,title + description,unique match; case-insensitive
+score_positive,credentials,Post-doc,+1,title + description,unique match; case-insensitive
+score_positive,credentials,Postdoc,+1,title + description,unique match; case-insensitive
+score_positive,oncology_immunology,Cancer Biology,+1,title + description,unique match; case-insensitive
+score_positive,oncology_immunology,immunology,+1,title + description,unique match; case-insensitive
+score_positive,oncology_immunology,oncology,+1,title + description,unique match; case-insensitive
+score_positive,oncology_immunology,immuno-oncology,+1,title + description,unique match; case-insensitive
+score_positive,oncology_immunology,tumor microenvironment,+1,title + description,unique match; case-insensitive
+score_positive,oncology_immunology,innate immunity,+1,title + description,unique match; case-insensitive
+score_positive,oncology_immunology,stromal biology,+1,title + description,unique match; case-insensitive
+score_positive,oncology_immunology,metastasis,+1,title + description,unique match; case-insensitive
+score_positive,omics_sequencing,Single-cell RNA sequencing,+1,title + description,unique match; case-insensitive
+score_positive,omics_sequencing,scRNA-seq,+1,title + description,unique match; case-insensitive
+score_positive,omics_sequencing,10x Genomics,+1,title + description,unique match; case-insensitive
+score_positive,omics_sequencing,SCENIC,+1,title + description,unique match; case-insensitive
+score_positive,omics_sequencing,Seurat,+1,title + description,unique match; case-insensitive
+score_positive,omics_sequencing,proteomics,+1,title + description,unique match; case-insensitive
+score_positive,omics_sequencing,genomics,+1,title + description,unique match; case-insensitive
+score_positive,omics_sequencing,spatial transcriptomics,+1,title + description,unique match; case-insensitive
+score_positive,molecular_lab,molecular biology,+1,title + description,unique match; case-insensitive
+score_positive,molecular_lab,lentiviral production,+1,title + description,unique match; case-insensitive
+score_positive,molecular_lab,QuPath,+1,title + description,unique match; case-insensitive
+score_positive,molecular_lab,CRISPR,+1,title + description,unique match; case-insensitive
+score_positive,molecular_lab,multiplex immunofluorescence,+1,title + description,unique match; case-insensitive
+score_positive,molecular_lab,spectral flow cytometry,+1,title + description,unique match; case-insensitive
+score_positive,molecular_lab,Perturb-seq,+1,title + description,unique match; case-insensitive
+score_positive,biopharma_translational,assay development,+1,title + description,unique match; case-insensitive
+score_positive,biopharma_translational,drug discovery,+1,title + description,unique match; case-insensitive
+score_positive,biopharma_translational,translational research,+1,title + description,unique match; case-insensitive
+score_positive,biopharma_translational,translational medicine,+1,title + description,unique match; case-insensitive
+score_positive,biopharma_translational,pharmacology,+1,title + description,unique match; case-insensitive
+score_positive,biopharma_translational,drug development,+1,title + description,unique match; case-insensitive
+score_positive,biopharma_translational,medical affairs,+1,title + description,unique match; case-insensitive
+score_positive,biopharma_translational,clinical pharmacology,+1,title + description,unique match; case-insensitive
+score_positive,preclinical_in_vivo,preclinical,+1,title + description,unique match; case-insensitive
+score_positive,preclinical_in_vivo,in vivo,+1,title + description,unique match; case-insensitive
+score_positive,preclinical_in_vivo,in vitro,+1,title + description,unique match; case-insensitive
+score_positive,preclinical_in_vivo,organoid,+1,title + description,unique match; case-insensitive
+score_positive,technical_platform,Life Sciences Engineering,+1,title + description,unique match; case-insensitive
+score_negative,clinical_ops,clinical trial management,-2,description only,exact phrase; unique match; case-insensitive
+score_negative,clinical_ops,clinical operations,-2,description only,exact phrase; unique match; case-insensitive
+score_negative,experience_demand,\d+\+?\s*years?\s+(?:of\s+)?(?:direct\s+)?clinical\s+research\s+experience,-2,description only,regex; e.g. "3 years of clinical research experience"
+score_negative,experience_demand,minimum\s+\d+\s+years?\s+(?:of\s+)?clinical\s+research,-2,description only,regex; e.g. "minimum 5 years of clinical research"
+geo_score,romandie_primary,geneva,+4,job location,substring match; case-insensitive
+geo_score,romandie_primary,genève,+4,job location,substring match; case-insensitive
+geo_score,romandie_primary,lausanne,+4,job location,substring match; case-insensitive
+geo_score,romandie_primary,vaud,+4,job location,substring match; case-insensitive
+geo_score,romandie_primary,neuchâtel,+4,job location,substring match; case-insensitive
+geo_score,romandie_primary,neuchatel,+4,job location,substring match; case-insensitive
+geo_score,romandie_primary,fribourg,+4,job location,substring match; case-insensitive
+geo_score,romandie_primary,valais,+4,job location,substring match; case-insensitive
+geo_score,romandie_primary,jura,+4,job location,substring match; case-insensitive
+geo_score,romandie_primary,nyon,+4,job location,substring match; case-insensitive
+geo_score,romandie_primary,morges,+4,job location,substring match; case-insensitive
+geo_score,romandie_primary,rolle,+4,job location,substring match; case-insensitive
+geo_score,romandie_primary,yverdon,+4,job location,substring match; case-insensitive
+geo_score,romandie_primary,montreux,+4,job location,substring match; case-insensitive
+geo_score,romandie_primary,remote,+4,job location,substring match; remote Swiss roles treated as Romandie-equivalent
+geo_score,swiss_hub_neutral,basel,0,job location,substring match; case-insensitive
+geo_score,swiss_hub_neutral,bâle,0,job location,substring match; case-insensitive
+geo_score,swiss_hub_neutral,zurich,0,job location,substring match; case-insensitive
+geo_score,swiss_hub_neutral,zürich,0,job location,substring match; case-insensitive
+geo_score,swiss_hub_neutral,bern,0,job location,substring match; case-insensitive
+geo_score,swiss_hub_neutral,berne,0,job location,substring match; case-insensitive
+geo_score,swiss_hub_neutral,zug,0,job location,substring match; case-insensitive
+geo_score,elsewhere,-2 (any unrecognised location),-2,job location,applied when location matches neither positive nor neutral list
+dashboard_threshold,n/a,none,no minimum score,n/a,all jobs passing title + location filters appear on dashboard regardless of score

@@ -14,6 +14,7 @@ import time
 from datetime import datetime
 from concurrent.futures import ThreadPoolExecutor
 
+import cache as job_cache
 from config import COMPANIES, LOCATION_FILTERS, TITLE_FILTERS
 from export_html import export_html
 from filters import apply_filters, score_job
@@ -46,7 +47,7 @@ DIVIDER = "─" * 70
 # Max concurrent threads for non-Workday ATS types (Greenhouse, Paylocity,
 # SuccessFactors, Workable, Generic).  These all hit independent domains so
 # there is no shared-IP rate-limit concern.
-_OTHER_WORKERS = 8
+_OTHER_WORKERS = 20
 
 
 # ---------------------------------------------------------------------------
@@ -219,6 +220,8 @@ def _scrape_one(
 # ---------------------------------------------------------------------------
 
 def run(show_all: bool = False) -> list[Job]:
+    job_cache.load()
+
     all_matched: list[Job] = []
     generic_alerts: list[tuple[str, str]] = []
 
@@ -300,6 +303,10 @@ def run(show_all: bool = False) -> list[Job]:
         print("  (none)")
 
     export_html(all_matched, generic_alerts, COMPANIES)
+
+    # Persist cache — prune entries for jobs no longer in matched results
+    # (filled / removed positions) to keep seen_jobs.json small.
+    job_cache.prune_and_save({j.url for j in all_matched})
 
     return all_matched
 

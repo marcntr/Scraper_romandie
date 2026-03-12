@@ -24,6 +24,7 @@ import time
 
 import requests
 
+import cache as job_cache
 from filters import matches_location, matches_title
 from scrapers.base import BaseScraper
 from models import Job
@@ -100,13 +101,22 @@ class PaylocityScraper(BaseScraper):
 
         # ── Phase 2: fetch description for each candidate ─────────────────
         jobs: list[Job] = []
-        for i, raw in enumerate(candidates):
-            detail_html = self._fetch_detail(session, raw.get("JobId"))
-            job = self._parse_job(raw, detail_html)
+        fetch_count = 0
+        for raw in candidates:
+            job_id = raw.get("JobId") or ""
+            cached = job_cache.get(job_id) if job_id else None
+            if cached:
+                job = self._parse_job(raw, "", description=cached["description"])
+            else:
+                if fetch_count > 0:
+                    time.sleep(random.uniform(_DETAIL_DELAY, _DETAIL_DELAY * 2))
+                detail_html = self._fetch_detail(session, job_id)
+                fetch_count += 1
+                job = self._parse_job(raw, detail_html)
+                if job and job_id:
+                    job_cache.put(job_id, job.description, job.url)
             if job:
                 jobs.append(job)
-            if i < len(candidates) - 1:
-                time.sleep(random.uniform(_DETAIL_DELAY, _DETAIL_DELAY * 2))
 
         logger.info("[%s] Phase 2 complete: %d jobs with descriptions",
                     self.company, len(jobs))
@@ -139,7 +149,12 @@ class PaylocityScraper(BaseScraper):
             url=_DETAIL_URL.format(job_id=job_id) if job_id else self.careers_url,
         )
 
-    def _parse_job(self, raw: dict, detail_html: str) -> Job | None:
+    def _parse_job(
+        self,
+        raw: dict,
+        detail_html: str,
+        description: str | None = None,
+    ) -> Job | None:
         title = (raw.get("JobTitle") or "").strip()
         if not title:
             return None
@@ -148,7 +163,8 @@ class PaylocityScraper(BaseScraper):
         posted     = (raw.get("PublishedDate") or "")[:10]
         department = (raw.get("HiringDepartment") or "").strip()
         url        = _DETAIL_URL.format(job_id=raw.get("JobId") or "")
-        description = self._extract_description(detail_html)
+        if description is None:
+            description = self._extract_description(detail_html)
 
         return Job(
             title=title,
