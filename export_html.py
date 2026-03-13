@@ -1236,11 +1236,11 @@ function renderTriageBtns(card, status) {{
   const div = card.querySelector('.card-actions');
   if (status === 'matched') {{
     div.innerHTML =
-      '<button class="action-btn action-ignore" onclick="setJobStatus(this,\'ignored\')">Ignore</button>' +
-      '<button class="action-btn action-applied" onclick="setJobStatus(this,\'applied\')">&#10003; Applied</button>';
+      '<button class="action-btn action-ignore" onclick="setJobStatus(this,\\'ignored\\')">Ignore</button>' +
+      '<button class="action-btn action-applied" onclick="setJobStatus(this,\\'applied\\')">&#10003; Applied</button>';
   }} else {{
     div.innerHTML =
-      '<button class="action-btn action-match" onclick="setJobStatus(this,\'matched\')">&#8629; Back to Matched</button>';
+      '<button class="action-btn action-match" onclick="setJobStatus(this,\\'matched\\')">&#8629; Back to Matched</button>';
   }}
 }}
 
