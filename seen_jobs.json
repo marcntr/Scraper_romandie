@@ -88,7 +88,7 @@
     "keywords": "data science,portfolio,regulatory,scientist"
   },
   "_generic:Insilico Medicine": {
-    "keywords": "business development,scientist"
+    "keywords": "alliance management,bioinformatics,business development,business development manager,computational biology,heor,licensing,scientific advisor,scientist"
   },
   "_generic:Biognosys": {
     "keywords": "biomarker,immuno-oncology"
@@ -510,5 +510,8 @@
       "Switzerland"
     ],
     "cached_at": "2026-03-13"
+  },
+  "_generic:Tigen Pharma": {
+    "keywords": "npp"
   }
 }
