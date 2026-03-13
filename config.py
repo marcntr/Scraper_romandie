@@ -62,6 +62,11 @@ TITLE_FILTERS: list[str] = [
     "heor",
     # Strategy & pipeline
     "portfolio",
+    "product strategy",
+    "clinical product manager",
+    # Field & advisory
+    "field application scientist",
+    "scientific advisor",
 ]
 
 # ---------------------------------------------------------------------------
