@@ -44,9 +44,24 @@ TITLE_FILTERS: list[str] = [
     "medical affairs",
     "medical science liaison",
     "medical advisor",
+    # Medical Affairs / MSL
+    "medical monitor",
     # Regulatory
     "regulatory affairs",
     "regulatory",
+    # Business development & licensing
+    "business development manager",
+    "alliance management",
+    "licensing",
+    # Clinical & translational
+    "clinical development",
+    "translational scientist",
+    # Evidence & outcomes
+    "evidence generation",
+    "health economics",
+    "heor",
+    # Strategy & pipeline
+    "portfolio",
 ]
 
 # ---------------------------------------------------------------------------
