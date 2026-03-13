@@ -185,63 +185,6 @@ class WorkableScraper(BaseScraper):
             return {}
 
     # ------------------------------------------------------------------
-    # HTTP helper: POST with retry / backoff
-    # ------------------------------------------------------------------
-
-    def _post_with_retry(
-        self,
-        session: requests.Session,
-        url: str,
-        body: dict,
-        params: dict | None = None,
-    ) -> requests.Response | None:
-        for attempt in range(self._MAX_RETRIES):
-            try:
-                resp = session.post(
-                    url,
-                    json=body,
-                    params=params or {},
-                    timeout=20,
-                    headers={
-                        **self._browser_headers(referer=self.careers_url),
-                        "Content-Type": "application/json",
-                    },
-                )
-                if resp.status_code == 429:
-                    wait = float(resp.headers.get("Retry-After", self._BACKOFF_BASE * (2 ** attempt)))
-                    logger.warning(
-                        "[%s] POST 429 — backing off %.1fs (attempt %d/%d)",
-                        self.company, wait, attempt + 1, self._MAX_RETRIES,
-                    )
-                    time.sleep(wait)
-                    continue
-                resp.raise_for_status()
-                return resp
-            except requests.exceptions.HTTPError as exc:
-                status = getattr(exc.response, "status_code", 0)
-                if status >= 500:
-                    logger.warning(
-                        "[%s] POST %d — backing off (attempt %d/%d)",
-                        self.company, status, attempt + 1, self._MAX_RETRIES,
-                    )
-                    if attempt < self._MAX_RETRIES - 1:
-                        time.sleep(self._BACKOFF_BASE * (2 ** attempt))
-                        continue
-                logger.error("[%s] Non-retryable POST error: %s", self.company, exc)
-                return None
-            except (requests.exceptions.ConnectionError,
-                    requests.exceptions.Timeout) as exc:
-                logger.warning("[%s] Network error on POST attempt %d/%d: %s",
-                               self.company, attempt + 1, self._MAX_RETRIES, exc)
-                if attempt < self._MAX_RETRIES - 1:
-                    time.sleep(self._BACKOFF_BASE * (2 ** attempt))
-                else:
-                    logger.error("[%s] POST max retries exhausted", self.company)
-                    return None
-        logger.error("[%s] POST gave up after persistent 429", self.company)
-        return None
-
-    # ------------------------------------------------------------------
     # Parsing helpers
     # ------------------------------------------------------------------
 

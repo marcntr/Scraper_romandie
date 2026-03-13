@@ -32,6 +32,7 @@ import json
 import logging
 import os
 import threading
+from datetime import date
 from pathlib import Path
 
 logger = logging.getLogger(__name__)
@@ -115,6 +116,39 @@ def put(key: str, description: str, external_url: str) -> None:
         existing_status = _store.get(key, {}).get("status", "matched")
         _store[key] = {"description": description, "external_url": external_url, "status": existing_status}
         _url_to_key[external_url] = key
+
+
+_FACET_TTL_DAYS = 7
+
+
+def get_facets(tenant: str, portal: str) -> dict | None:
+    """Return cached facet data for a Workday tenant/portal if still fresh.
+
+    Returns the full cache entry dict (keys: ``facets``, ``search_texts``,
+    ``cached_at``) when the entry exists and is ≤ _FACET_TTL_DAYS old.
+    Returns ``None`` if absent or expired so the caller knows to re-probe.
+    """
+    key = f"_facets:{tenant}:{portal}"
+    with _lock:
+        entry = _store.get(key)
+        if not entry:
+            return None
+        try:
+            age = (date.today() - date.fromisoformat(entry.get("cached_at", ""))).days
+        except (ValueError, TypeError):
+            return None
+        return entry if age <= _FACET_TTL_DAYS else None
+
+
+def put_facets(tenant: str, portal: str, facets: dict, search_texts: list[str]) -> None:
+    """Persist facet discovery results for a Workday tenant/portal."""
+    key = f"_facets:{tenant}:{portal}"
+    with _lock:
+        _store[key] = {
+            "facets":       facets,
+            "search_texts": search_texts,
+            "cached_at":    date.today().isoformat(),
+        }
 
 
 def get_generic_alert(company: str) -> str | None:

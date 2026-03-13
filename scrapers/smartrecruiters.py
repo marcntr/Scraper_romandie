@@ -153,13 +153,36 @@ class SmartRecruitersScraper(BaseScraper):
 
         resp = self._get_with_retry(session, ref)
         if resp is None:
-            logger.warning("[%s] Detail fetch failed for %s", self.company, ref)
+            logger.warning(
+                "[%s] Detail fetch exhausted all retries for %s — "
+                "falling back to listing data (no description)",
+                self.company, ref,
+            )
             return self._job_from_listing(item, "", "")
 
         try:
             detail = resp.json()
-        except ValueError:
-            return self._job_from_listing(item, "", "")
+        except ValueError as exc:
+            # Garbled response — retry once before giving up
+            logger.warning(
+                "[%s] Detail JSON parse failed for %s (%s) — retrying once",
+                self.company, ref, exc,
+            )
+            resp = self._get_with_retry(session, ref)
+            if resp is None:
+                logger.warning(
+                    "[%s] Detail retry also failed for %s — no description",
+                    self.company, ref,
+                )
+                return self._job_from_listing(item, "", "")
+            try:
+                detail = resp.json()
+            except ValueError as exc2:
+                logger.warning(
+                    "[%s] Detail JSON parse failed again for %s (%s) — no description",
+                    self.company, ref, exc2,
+                )
+                return self._job_from_listing(item, "", "")
 
         apply_url   = detail.get("applyUrl") or detail.get("postingUrl") or ""
         description = ""

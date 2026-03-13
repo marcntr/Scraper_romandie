@@ -143,13 +143,19 @@ class BaseScraper(ABC):
         session: requests.Session,
         url: str,
         body: dict,
+        params: dict | None = None,
     ) -> requests.Response | None:
-        """POST JSON with exponential backoff on 429 / transient network errors."""
+        """POST JSON with exponential backoff on 429 / transient network errors.
+
+        *params* are passed as URL query parameters (e.g. Workable's pagination
+        uses ``?limit=50&offset=N`` alongside a JSON body).
+        """
         for attempt in range(self._MAX_RETRIES):
             try:
                 resp = session.post(
                     url,
                     json=body,
+                    params=params or {},
                     timeout=20,
                     headers=self._browser_headers(referer=self.careers_url),
                 )

@@ -379,18 +379,28 @@ class WorkdayScraper(BaseScraper):
         time.sleep(random.uniform(1.5, 3.0))
 
     def _detect_location_facets(self, session: requests.Session) -> dict:
-        """Probe the listing endpoint (limit=1) to auto-discover the Workday
-        facet parameter and ID(s) that correspond to Switzerland.
+        """Return the Workday appliedFacets dict that restricts results to Switzerland.
 
-        Workday returns a ``facets`` array on every listing response.  Each
-        facet has a ``facetParameter`` key (e.g. ``"Locations_0"``) and a
-        ``values`` list of ``{value, count, id}`` dicts.  We scan for any
-        value whose display name contains a Swiss country/language term and
-        return ``{facetParameter: [id, ...]}`` for use as ``appliedFacets``.
+        Results are cached in seen_jobs.json for _FACET_TTL_DAYS (7 days) to
+        avoid one redundant POST probe per Workday company per run.  Facet IDs
+        are stable for months; a weekly re-probe is more than sufficient.
 
         Returns ``{}`` if the probe fails or no Swiss facet is found, which
         causes ``fetch_jobs`` to fall back to full global pagination.
         """
+        # ── Cache hit: skip the network probe entirely ────────────────────
+        cached = job_cache.get_facets(self.tenant, self.portal)
+        if cached is not None:
+            search_texts = cached.get("search_texts") or []
+            if search_texts:
+                self._search_texts = search_texts
+            logger.info(
+                "[%s] Using cached location facets (≤ %d days old)",
+                self.company, job_cache._FACET_TTL_DAYS,
+            )
+            return cached.get("facets") or {}
+
+        # ── Cache miss: probe the listing endpoint ────────────────────────
         probe_body = {**_LIST_BODY_BASE, "appliedFacets": {}, "limit": 1, "offset": 0}
         resp = self._post_with_retry(session, self._list_url, probe_body)
         if resp is None:
@@ -400,6 +410,7 @@ class WorkdayScraper(BaseScraper):
         except ValueError:
             return {}
 
+        result_facets: dict = {}
         for facet in (data.get("facets") or []):
             param = facet.get("facetParameter") or ""
             if "location" not in param.lower():
@@ -416,13 +427,17 @@ class WorkdayScraper(BaseScraper):
                     "Phase 1 will fetch Swiss jobs only",
                     self.company, len(swiss_ids), param,
                 )
-                return {param: swiss_ids}
+                result_facets = {param: swiss_ids}
+                break
 
-        logger.info(
-            "[%s] Facet probe: no Switzerland facet detected — "
-            "falling back to searchText terms: %s",
-            self.company, self._search_fallback_terms,
-        )
-        self._search_texts = self._search_fallback_terms
-        return {}
+        if not result_facets:
+            logger.info(
+                "[%s] Facet probe: no Switzerland facet detected — "
+                "falling back to searchText terms: %s",
+                self.company, self._search_fallback_terms,
+            )
+            self._search_texts = self._search_fallback_terms
+
+        job_cache.put_facets(self.tenant, self.portal, result_facets, self._search_texts)
+        return result_facets
 
