@@ -201,11 +201,9 @@ class SmartRecruitersScraper(BaseScraper):
     def _job_from_listing(self, item: dict, url: str, description: str) -> Job:
         title    = item.get("name", "").strip()
         loc_obj  = item.get("location") or {}
-        city     = loc_obj.get("city") or ""
-        address  = loc_obj.get("address") or ""
-        location = address if address else (f"{city}, Switzerland" if city else "Switzerland")
-        if "switzerland" not in location.lower():
-            location = f"{location}, Switzerland"
+        city    = loc_obj.get("city") or ""
+        address = loc_obj.get("address") or ""
+        location = self._ensure_switzerland(address if address else city)
 
         # ISO date: "2026-03-12T07:00:00.000Z" → "2026-03-12"
         raw_date = item.get("releasedDate") or ""

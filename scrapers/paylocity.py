@@ -24,7 +24,6 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 import requests
 
 import cache as job_cache
-from filters import matches_location, matches_title
 from scrapers.base import BaseScraper
 from models import Job
 
@@ -83,12 +82,12 @@ class PaylocityScraper(BaseScraper):
         # ── Phase 1.5: pre-filter by location + title ─────────────────────
         candidates: list[dict] = []
         for raw in raw_jobs:
-            partial = self._raw_to_partial_job(raw)
-            loc_ok   = (not self._location_terms
-                        or matches_location(partial, self._location_terms))
-            title_ok = (not self._title_terms
-                        or matches_title(partial, self._title_terms))
-            if loc_ok and title_ok:
+            if self._passes_prefilter(
+                raw.get("JobTitle") or "",
+                raw.get("LocationName") or "",
+                self._location_terms,
+                self._title_terms,
+            ):
                 candidates.append(raw)
 
         logger.info("[%s] Pre-filter: %d / %d listings pass location + title",
@@ -156,16 +155,6 @@ class PaylocityScraper(BaseScraper):
         except json.JSONDecodeError:
             return []
         return data.get("Jobs") or []
-
-    def _raw_to_partial_job(self, raw: dict) -> Job:
-        """Build a description-less Job for pre-filtering purposes."""
-        job_id = raw.get("JobId") or ""
-        return Job(
-            title=raw.get("JobTitle") or "",
-            company=self.company,
-            location=raw.get("LocationName") or "",
-            url=_DETAIL_URL.format(job_id=job_id) if job_id else self.careers_url,
-        )
 
     def _parse_job(
         self,

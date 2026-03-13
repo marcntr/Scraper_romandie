@@ -79,15 +79,10 @@ class GreenhouseScraper(BaseScraper):
             title = (raw.get("title") or "").strip()
             location_name = (raw.get("location") or {}).get("name") or ""
 
-            if self._location_terms:
-                loc_lower = location_name.lower()
-                if not any(t.lower() in loc_lower for t in self._location_terms):
-                    continue  # location mismatch — skip
-
-            if self._title_terms:
-                title_lower = title.lower()
-                if not any(t.lower() in title_lower for t in self._title_terms):
-                    continue  # title mismatch — skip
+            if not self._passes_prefilter(
+                title, location_name, self._location_terms, self._title_terms
+            ):
+                continue
 
             job = self._parse_job(raw)
             if job:

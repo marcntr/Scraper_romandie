@@ -196,6 +196,28 @@ class BaseScraper(ABC):
         return None
 
     @staticmethod
+    def _passes_prefilter(
+        title: str,
+        location: str,
+        location_terms: list[str],
+        title_terms: list[str],
+    ) -> bool:
+        """Return True when title and location both satisfy their term lists.
+
+        Used by subclasses for Phase 1.5 in-memory pre-filtering before
+        expensive detail fetches.  An empty term list is treated as "accept all".
+        """
+        if location_terms:
+            loc_lower = location.lower()
+            if not any(t.lower() in loc_lower for t in location_terms):
+                return False
+        if title_terms:
+            title_lower = title.lower()
+            if not any(t.lower() in title_lower for t in title_terms):
+                return False
+        return True
+
+    @staticmethod
     def _ensure_switzerland(location: str) -> str:
         """Return *location* with ', Switzerland' appended if not already present.
 

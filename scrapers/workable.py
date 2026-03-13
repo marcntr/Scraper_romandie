@@ -137,13 +137,10 @@ class WorkableScraper(BaseScraper):
                 # that multi-country roles (e.g. UK / France / Switzerland)
                 # are matched correctly.
                 all_locs = [raw.get("location") or {}] + (raw.get("locations") or [])
-                loc_str = " ".join(self._extract_location(l) for l in all_locs).lower()
-                title_lower = title.lower()
-                loc_ok   = (not self._location_terms
-                            or any(t.lower() in loc_str for t in self._location_terms))
-                title_ok = (not self._title_terms
-                            or any(t.lower() in title_lower for t in self._title_terms))
-                if loc_ok and title_ok:
+                loc_str = " ".join(self._extract_location(l) for l in all_locs)
+                if self._passes_prefilter(
+                    title, loc_str, self._location_terms, self._title_terms
+                ):
                     candidates.append(raw)
             logger.info("[%s] Pre-filter: %d / %d listings pass location + title",
                         self.company, len(candidates), len(raw_results))

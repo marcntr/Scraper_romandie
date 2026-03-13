@@ -32,6 +32,7 @@ Page structure (per sector page):
 """
 
 import logging
+from concurrent.futures import ThreadPoolExecutor
 
 from bs4 import BeautifulSoup
 
@@ -71,14 +72,22 @@ class RandstadScraper(BaseScraper):
         seen_urls: set[str] = set()
         jobs: list[Job] = []
 
-        for sector_path in _SECTOR_PATHS:
-            sector_url = f"{BASE_URL}{sector_path}"
-            resp = self._get_with_retry(session, sector_url)
-            if resp is None:
-                logger.warning("[%s] Could not fetch %s", self.company, sector_url)
+        def _fetch_sector(sector_path: str) -> tuple[str, str | None]:
+            url = f"{BASE_URL}{sector_path}"
+            resp = self._get_with_retry(session, url)
+            return sector_path, (resp.text if resp else None)
+
+        # Fetch both sector pages concurrently; parse sequentially to keep
+        # seen_urls deduplication race-free.
+        with ThreadPoolExecutor(max_workers=len(_SECTOR_PATHS)) as pool:
+            results = list(pool.map(_fetch_sector, _SECTOR_PATHS))
+
+        for sector_path, html in results:
+            if html is None:
+                logger.warning("[%s] Could not fetch %s", self.company, sector_path)
                 continue
 
-            soup = BeautifulSoup(resp.text, "lxml")
+            soup = BeautifulSoup(html, "lxml")
             cards = soup.select("li.cards__item")
             logger.info(
                 "[%s] %s — %d cards found",

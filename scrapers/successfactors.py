@@ -99,15 +99,10 @@ class SuccessFactorsScraper(BaseScraper):
                 clean_title = raw_title
 
             # Phase 1.5 pre-filter before HTML stripping
-            if self._location_terms:
-                loc_lower = location.lower()
-                if not any(t.lower() in loc_lower for t in self._location_terms):
-                    continue
-
-            if self._title_terms:
-                title_lower = clean_title.lower()
-                if not any(t.lower() in title_lower for t in self._title_terms):
-                    continue
+            if not self._passes_prefilter(
+                clean_title, location, self._location_terms, self._title_terms
+            ):
+                continue
 
             job = self._parse_item(item, clean_title, location)
             if job:

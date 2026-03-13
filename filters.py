@@ -63,15 +63,13 @@ def _is_excluded_title(job: Job) -> bool:
 # ---------------------------------------------------------------------------
 
 def matches_location(job: Job, location_terms: list[str]) -> bool:
-    """Check location; *location_terms* must already be lowercased by the caller."""
     loc = job.location.lower()
-    return any(term in loc for term in location_terms)
+    return any(term.lower() in loc for term in location_terms)
 
 
 def matches_title(job: Job, title_terms: list[str]) -> bool:
-    """Check title; *title_terms* must already be lowercased by the caller."""
     title = job.title.lower()
-    return any(term in title for term in title_terms)
+    return any(term.lower() in title for term in title_terms)
 
 
 # ---------------------------------------------------------------------------
