@@ -24,6 +24,7 @@ import logging
 
 import requests
 
+import cache as job_cache
 from scrapers.base import BaseScraper
 from models import Job
 
@@ -112,8 +113,13 @@ class GreenhouseScraper(BaseScraper):
         url = raw.get("absolute_url") or self.careers_url
         posted = (raw.get("updated_at") or "")[:10]  # ISO date prefix
 
-        content_html = raw.get("content") or ""
-        description = self._strip_html(content_html)
+        cached = job_cache.get(url)
+        if cached:
+            description = cached["description"]
+        else:
+            content_html = raw.get("content") or ""
+            description = self._strip_html(content_html)
+            job_cache.put(url, description, url)
 
         return Job(
             title=title,

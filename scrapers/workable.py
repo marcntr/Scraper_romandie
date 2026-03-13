@@ -27,6 +27,7 @@ from concurrent.futures import ThreadPoolExecutor
 
 import requests
 
+import cache as job_cache
 from scrapers.base import BaseScraper
 from models import Job
 
@@ -152,14 +153,21 @@ class WorkableScraper(BaseScraper):
             return []
 
         # ── Phase 2: enrich each job with its description (parallel) ─────
-        def _fetch_one(raw: dict) -> tuple[dict, dict]:
+        def _fetch_one(raw: dict) -> tuple[dict, dict | None, str | None]:
             shortcode = raw.get("shortcode") or raw.get("id") or ""
-            return raw, self._fetch_detail(session, shortcode)
+            apply_url = (
+                f"https://apply.workable.com/{self.slug}/j/{shortcode}/"
+                if shortcode else self.careers_url
+            )
+            cached = job_cache.get(apply_url)
+            if cached:
+                return raw, None, cached["description"]
+            return raw, self._fetch_detail(session, shortcode), None
 
         jobs: list[Job] = []
         with ThreadPoolExecutor(max_workers=_PHASE2_WORKERS) as pool:
-            for raw, detail in pool.map(_fetch_one, raw_results):
-                job = self._parse_job(raw, detail)
+            for raw, detail, cached_desc in pool.map(_fetch_one, raw_results):
+                job = self._parse_job(raw, detail, cached_desc)
                 if job:
                     jobs.append(job)
 
@@ -188,7 +196,12 @@ class WorkableScraper(BaseScraper):
     # Parsing helpers
     # ------------------------------------------------------------------
 
-    def _parse_job(self, raw: dict, detail: dict) -> Job | None:
+    def _parse_job(
+        self,
+        raw: dict,
+        detail: dict | None,
+        cached_description: str | None = None,
+    ) -> Job | None:
         """Merge listing + detail dicts into a ``Job`` instance."""
         title = (raw.get("title") or "").strip()
         if not title:
@@ -213,15 +226,20 @@ class WorkableScraper(BaseScraper):
             else self.careers_url
         )
 
-        # Combine all three HTML description fields for full scoring coverage.
-        # "benefits" is Workable's label for the "Your profile" section — where
-        # PhD requirements and experience demands actually live.
-        combined_html = " ".join(filter(None, [
-            detail.get("description") or "",
-            detail.get("requirements") or "",
-            detail.get("benefits") or "",
-        ]))
-        description = self._strip_html(combined_html)
+        if cached_description is not None:
+            description = cached_description
+        else:
+            # Combine all three HTML description fields for full scoring coverage.
+            # "benefits" is Workable's label for the "Your profile" section — where
+            # PhD requirements and experience demands actually live.
+            detail = detail or {}
+            combined_html = " ".join(filter(None, [
+                detail.get("description") or "",
+                detail.get("requirements") or "",
+                detail.get("benefits") or "",
+            ]))
+            description = self._strip_html(combined_html)
+            job_cache.put(url, description, url)
 
         return Job(
             title=title,

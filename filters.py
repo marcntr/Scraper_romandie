@@ -63,13 +63,15 @@ def _is_excluded_title(job: Job) -> bool:
 # ---------------------------------------------------------------------------
 
 def matches_location(job: Job, location_terms: list[str]) -> bool:
+    """Check location; *location_terms* must already be lowercased by the caller."""
     loc = job.location.lower()
-    return any(term.lower() in loc for term in location_terms)
+    return any(term in loc for term in location_terms)
 
 
 def matches_title(job: Job, title_terms: list[str]) -> bool:
+    """Check title; *title_terms* must already be lowercased by the caller."""
     title = job.title.lower()
-    return any(term.lower() in title for term in title_terms)
+    return any(term in title for term in title_terms)
 
 
 # ---------------------------------------------------------------------------
@@ -81,11 +83,14 @@ def apply_filters(
     location_terms: list[str],
     title_terms: list[str],
 ) -> list[Job]:
+    # Pre-lowercase once here rather than inside the per-job loop.
+    loc_lower   = [t.lower() for t in location_terms]
+    title_lower = [t.lower() for t in title_terms]
     return [
         j for j in jobs
         if not _is_excluded_title(j)
-        and matches_location(j, location_terms)
-        and matches_title(j, title_terms)
+        and matches_location(j, loc_lower)
+        and matches_title(j, title_lower)
     ]
 
 

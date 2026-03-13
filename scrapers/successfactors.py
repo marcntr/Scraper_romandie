@@ -36,6 +36,7 @@ import logging
 import re
 import xml.etree.ElementTree as ET
 
+import cache as job_cache
 from scrapers.base import BaseScraper
 from models import Job
 
@@ -125,9 +126,14 @@ class SuccessFactorsScraper(BaseScraper):
 
         url = (item.findtext("link") or "").strip() or self.careers_url
 
-        # Description is HTML-entity-escaped once by the feed; unescape before parsing.
-        raw_desc = item.findtext("description") or ""
-        description = self._strip_html(html_module.unescape(raw_desc))
+        cached = job_cache.get(url)
+        if cached:
+            description = cached["description"]
+        else:
+            # Description is HTML-entity-escaped once by the feed; unescape before parsing.
+            raw_desc = item.findtext("description") or ""
+            description = self._strip_html(html_module.unescape(raw_desc))
+            job_cache.put(url, description, url)
 
         return Job(
             title=title,

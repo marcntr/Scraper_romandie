@@ -12,7 +12,7 @@ import random
 import sys
 import time
 from datetime import datetime
-from concurrent.futures import ThreadPoolExecutor
+from concurrent.futures import ThreadPoolExecutor, TimeoutError as FutureTimeoutError
 
 import cache as job_cache
 from config import COMPANIES, LOCATION_FILTERS, TITLE_FILTERS
@@ -351,10 +351,14 @@ def run(show_all: bool = False) -> list[Job]:
     pool.shutdown(wait=True)
     for future, cfg in other_futures.items():
         try:
-            matched, urls, alerts = future.result()
+            matched, urls, alerts = future.result(timeout=300)
             all_matched.extend(matched)
             all_scraped_urls.update(urls)
             generic_alerts.extend(alerts)
+        except FutureTimeoutError:
+            logger.error(
+                "[%s] Scraper timed out after 300 s — skipping", cfg["name"]
+            )
         except Exception as exc:
             logger.error("[%s] Scraper thread raised: %s", cfg["name"], exc)
 
