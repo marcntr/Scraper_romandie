@@ -80,9 +80,10 @@ def get(key: str) -> dict | None:
 
 
 def put(key: str, description: str, external_url: str) -> None:
-    """Store or update an entry."""
+    """Store or update an entry, preserving existing status."""
     with _lock:
-        _store[key] = {"description": description, "external_url": external_url}
+        existing_status = _store.get(key, {}).get("status", "matched")
+        _store[key] = {"description": description, "external_url": external_url, "status": existing_status}
 
 
 def get_generic_alert(company: str) -> str | None:
@@ -97,6 +98,39 @@ def put_generic_alert(company: str, keywords_str: str) -> None:
     """Persist the matched keyword string for a GenericMonitor company."""
     with _lock:
         _store[f"_generic:{company}"] = {"keywords": keywords_str}
+
+
+def get_status(external_url: str) -> str:
+    """Return the triage status for a job, defaulting to 'matched'."""
+    with _lock:
+        for v in _store.values():
+            if v.get("external_url") == external_url:
+                return v.get("status", "matched")
+        return "matched"
+
+
+def set_status(external_url: str, status: str) -> None:
+    """Update the triage status for a job identified by its public URL."""
+    with _lock:
+        for v in _store.values():
+            if v.get("external_url") == external_url:
+                v["status"] = status
+                return
+        # URL not yet in cache (e.g. generic monitor job) — store in a fallback dict
+        if "_statuses" not in _store:
+            _store["_statuses"] = {}
+        _store["_statuses"][external_url] = status
+
+
+def save() -> None:
+    """Persist the current in-memory cache to disk without pruning."""
+    with _lock:
+        try:
+            with _CACHE_FILE.open("w", encoding="utf-8") as fh:
+                json.dump(_store, fh, indent=2, ensure_ascii=False)
+            logger.info("Cache: saved to %s", _CACHE_FILE)
+        except OSError as exc:
+            logger.error("Cache: failed to write %s: %s", _CACHE_FILE, exc)
 
 
 def prune_and_save(active_urls: set[str]) -> None:
@@ -118,7 +152,7 @@ def prune_and_save(active_urls: set[str]) -> None:
         before = len(_store)
         _store = {
             k: v for k, v in _store.items()
-            if k.startswith("_generic:") or v.get("external_url") in active_urls
+            if k.startswith("_") or v.get("external_url") in active_urls
         }
         pruned = before - len(_store)
         if pruned:

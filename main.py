@@ -250,6 +250,8 @@ def _scrape_one(
     all_scraped_urls = {j.url for j in all_jobs}
     matched = apply_filters(all_jobs, LOCATION_FILTERS, TITLE_FILTERS)
     matched = [score_job(j) for j in matched]
+    for j in matched:
+        j.status = job_cache.get_status(j.url)
     logger.info(
         "[%s] %d total open | %d passed filters",
         cfg["name"], len(all_jobs), len(matched),

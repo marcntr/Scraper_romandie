@@ -367,12 +367,22 @@ def _job_card(job: Job, idx: int, is_new: bool = False) -> str:
         for t in ("geneva", "lausanne", "vaud", "romand", "genève", "geneve")
     ) else "switzerland"
 
+    if job.status == "matched":
+        triage_btns = (
+            '<button class="action-btn action-ignore" onclick="setJobStatus(this,\'ignored\')">Ignore</button>'
+            '<button class="action-btn action-applied" onclick="setJobStatus(this,\'applied\')">&#10003; Applied</button>'
+        )
+    else:
+        triage_btns = '<button class="action-btn action-match" onclick="setJobStatus(this,\'matched\')">&#8629; Back to Matched</button>'
+
     return f'''
 <div class="job-card"
      data-company="{company_data}"
      data-score="{score_data}"
      data-date="{_esc(job.posted_date or '')}"
      data-location="{loc_data}"
+     data-url="{_esc(job.url)}"
+     data-status="{_esc(job.status)}"
      data-text="{_esc((job.title + ' ' + job.company + ' ' + ' '.join(job.matched_keywords)).lower())}">
   <div class="card-header">
     <div class="card-left">
@@ -396,6 +406,9 @@ def _job_card(job: Job, idx: int, is_new: bool = False) -> str:
   <div class="card-desc">
     {toggle_btn}
     {desc_structured}
+  </div>
+  <div class="card-actions">
+    {triage_btns}
   </div>
 </div>'''
 
@@ -630,15 +643,31 @@ def export_html(
     known_urls: set[str] | None = None,
 ) -> None:
     timestamp = datetime.now().strftime("%Y-%m-%d %H:%M")
-    job_companies = sorted({j.company for j in jobs})
-    n_jobs = len(jobs)
-    n_alerts = len(alerts)
-    all_cfgs = sorted(companies_cfg or [], key=lambda c: c.get("name", "").lower())
+
+    matched_jobs = [j for j in jobs if j.status == "matched"]
+    ignored_jobs = [j for j in jobs if j.status == "ignored"]
+    applied_jobs = [j for j in jobs if j.status == "applied"]
+    n_matched  = len(matched_jobs)
+    n_ignored  = len(ignored_jobs)
+    n_applied  = len(applied_jobs)
+    n_jobs     = len(jobs)
+    n_alerts   = len(alerts)
+    all_cfgs   = sorted(companies_cfg or [], key=lambda c: c.get("name", "").lower())
     n_monitored = len(all_cfgs)
+
+    job_companies = sorted({j.company for j in matched_jobs})
 
     job_cards_html = "\n".join(
         _job_card(j, i, is_new=(known_urls is not None and j.url not in known_urls))
-        for i, j in enumerate(jobs)
+        for i, j in enumerate(matched_jobs)
+    )
+    ignored_cards_html = "\n".join(
+        _job_card(j, n_matched + i, is_new=False)
+        for i, j in enumerate(ignored_jobs)
+    )
+    applied_cards_html = "\n".join(
+        _job_card(j, n_matched + n_ignored + i, is_new=False)
+        for i, j in enumerate(applied_jobs)
     )
     alert_cards_html = "\n".join(_alert_card(c, a) for c, a in alerts)
     company_rows_html = "\n".join(_company_row(cfg) for cfg in all_cfgs)
@@ -1028,6 +1057,48 @@ a {{ color: inherit; text-decoration: none; }}
   font-size: 12px;
   margin-bottom: 12px;
 }}
+
+/* ── Triage action buttons ── */
+.card-actions {{
+  display: flex;
+  gap: 8px;
+  margin-top: 10px;
+  padding-top: 10px;
+  border-top: 1px solid #1e2535;
+}}
+.action-btn {{
+  border: 1px solid;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 11px;
+  font-weight: 600;
+  padding: 4px 10px;
+  transition: opacity 0.15s;
+}}
+.action-btn:hover {{ opacity: 0.8; }}
+.action-ignore {{
+  background: #1c1917;
+  border-color: #57534e;
+  color: #a8a29e;
+}}
+.action-applied {{
+  background: #14532d;
+  border-color: #166534;
+  color: #4ade80;
+}}
+.action-match {{
+  background: #1e2535;
+  border-color: #3d4460;
+  color: #818cf8;
+}}
+
+/* ── Triage tabs empty state ── */
+.triage-empty {{
+  color: #4b5563;
+  padding: 32px 0;
+  text-align: center;
+  font-size: 13px;
+}}
 </style>
 </head>
 <body>
@@ -1036,22 +1107,26 @@ a {{ color: inherit; text-decoration: none; }}
   <h1>Biopharma Job Dashboard</h1>
   <div class="subtitle">Run: {_esc(timestamp)}</div>
   <div class="stats">
-    <div class="stat-chip"><strong>{n_jobs}</strong> matched jobs</div>
+    <div class="stat-chip"><strong>{n_matched}</strong> matched jobs</div>
+    <div class="stat-chip"><strong>{n_ignored}</strong> ignored</div>
+    <div class="stat-chip"><strong>{n_applied}</strong> applied</div>
     <div class="stat-chip"><strong>{n_alerts}</strong> alerts</div>
     <div class="stat-chip"><strong>{n_monitored}</strong> companies monitored</div>
   </div>
 </div>
 
 <div class="tab-bar">
-  <button class="tab-btn active" onclick="showTab('jobs')">Matched Jobs ({n_jobs})</button>
+  <button id="tab-btn-matched" class="tab-btn active" onclick="showTab('matched')">Matched Jobs ({n_matched})</button>
+  <button id="tab-btn-ignored" class="tab-btn" onclick="showTab('ignored')">Ignored ({n_ignored})</button>
+  <button id="tab-btn-applied" class="tab-btn" onclick="showTab('applied')">Applied ({n_applied})</button>
   {f'<button class="tab-btn" onclick="showTab(\'alerts\')">Alerts ({n_alerts})</button>' if n_alerts else ''}
   <button class="tab-btn" onclick="showTab('companies')">Companies ({n_monitored})</button>
 </div>
 
 <div class="content">
 
-  <!-- ── Jobs tab ── -->
-  <div id="tab-jobs" class="tab-panel active">
+  <!-- ── Matched Jobs tab ── -->
+  <div id="tab-matched" class="tab-panel active">
     <div class="filter-bar">
       <input type="text" id="filter-text" placeholder="Search title, company, keywords…" oninput="applyFilters()">
       <select id="filter-company" onchange="applyFilters()">
@@ -1073,9 +1148,23 @@ a {{ color: inherit; text-decoration: none; }}
       <button class="sort-btn active" id="sort-date-btn" onclick="setSort('date')">Date ↓</button>
       <button class="sort-btn" id="sort-score-btn" onclick="setSort('score')">Score ↓</button>
     </div>
-    <div class="results-count" id="results-count">{n_jobs} job{'s' if n_jobs != 1 else ''} shown</div>
+    <div class="results-count" id="results-count">{n_matched} job{'s' if n_matched != 1 else ''} shown</div>
     <div id="job-list">
-      {job_cards_html if job_cards_html.strip() else '<div class="empty">No matched jobs this run.</div>'}
+      {job_cards_html if job_cards_html.strip() else '<div class="triage-empty">No matched jobs this run.</div>'}
+    </div>
+  </div>
+
+  <!-- ── Ignored tab ── -->
+  <div id="tab-ignored" class="tab-panel">
+    <div id="ignored-list">
+      {ignored_cards_html if ignored_cards_html.strip() else '<div class="triage-empty">No ignored jobs.</div>'}
+    </div>
+  </div>
+
+  <!-- ── Applied tab ── -->
+  <div id="tab-applied" class="tab-panel">
+    <div id="applied-list">
+      {applied_cards_html if applied_cards_html.strip() else '<div class="triage-empty">No applied jobs.</div>'}
     </div>
   </div>
 
@@ -1127,6 +1216,55 @@ function showTab(name) {{
   document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
   document.getElementById('tab-' + name).classList.add('active');
   event.target.classList.add('active');
+}}
+
+// ── Triage: update tab counters ──
+function updateTabCounts() {{
+  const nM = document.querySelectorAll('#job-list .job-card').length;
+  const nI = document.querySelectorAll('#ignored-list .job-card').length;
+  const nA = document.querySelectorAll('#applied-list .job-card').length;
+  document.getElementById('tab-btn-matched').textContent = 'Matched Jobs (' + nM + ')';
+  document.getElementById('tab-btn-ignored').textContent = 'Ignored (' + nI + ')';
+  document.getElementById('tab-btn-applied').textContent = 'Applied (' + nA + ')';
+  document.getElementById('results-count').textContent =
+    nM + ' job' + (nM === 1 ? '' : 's') + ' shown';
+}}
+
+// ── Triage: rebuild action buttons after a status change ──
+function renderTriageBtns(card, status) {{
+  card.dataset.status = status;
+  const div = card.querySelector('.card-actions');
+  if (status === 'matched') {{
+    div.innerHTML =
+      '<button class="action-btn action-ignore" onclick="setJobStatus(this,\'ignored\')">Ignore</button>' +
+      '<button class="action-btn action-applied" onclick="setJobStatus(this,\'applied\')">&#10003; Applied</button>';
+  }} else {{
+    div.innerHTML =
+      '<button class="action-btn action-match" onclick="setJobStatus(this,\'matched\')">&#8629; Back to Matched</button>';
+  }}
+}}
+
+// ── Triage: call API then move card ──
+async function setJobStatus(btn, newStatus) {{
+  const card = btn.closest('.job-card');
+  const url  = card.dataset.url;
+  try {{
+    const resp = await fetch('/api/status', {{
+      method:  'POST',
+      headers: {{'Content-Type': 'application/json'}},
+      body:    JSON.stringify({{url, status: newStatus}}),
+    }});
+    if (!resp.ok) throw new Error('Server returned ' + resp.status);
+  }} catch(e) {{
+    alert('Status update failed — is server.py running?\n(' + e.message + ')');
+    return;
+  }}
+  const listId = newStatus === 'matched'  ? 'job-list'
+               : newStatus === 'ignored'  ? 'ignored-list'
+               :                            'applied-list';
+  document.getElementById(listId).prepend(card);
+  renderTriageBtns(card, newStatus);
+  updateTabCounts();
 }}
 
 // ── Description toggle ──
@@ -1221,8 +1359,8 @@ function applyFilters() {{
     }}
   }});
 
-  const label = visible === 1 ? '1 job shown' : visible + ' jobs shown';
-  document.getElementById('results-count').textContent = label;
+  document.getElementById('results-count').textContent =
+    visible + ' job' + (visible === 1 ? '' : 's') + ' shown';
 }}
 
 // ── Init: restore persisted state then render ──
