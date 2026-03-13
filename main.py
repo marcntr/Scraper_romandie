@@ -55,6 +55,48 @@ _OTHER_WORKERS = 20
 
 
 # ---------------------------------------------------------------------------
+# Config validation
+# ---------------------------------------------------------------------------
+
+# Required fields per ATS type (beyond "name" and "ats" which are always needed)
+_REQUIRED_FIELDS: dict[str, list[str]] = {
+    "workable":        ["slug"],
+    "workday":         ["tenant", "instance", "portal"],
+    "paylocity":       ["company_guid", "company_slug"],
+    "greenhouse":      ["board_token"],
+    "successfactors":  ["careers_url"],
+    "smartrecruiters": ["company_id"],
+    "generic":         ["careers_url"],
+}
+
+
+def _validate_companies(companies: list[dict]) -> None:
+    """Log an error for every company config that is missing required fields.
+
+    Does not raise — a misconfigured company is skipped at scrape time, not at
+    startup, so a single bad entry never blocks the rest of the run.
+    """
+    errors: list[str] = []
+    for cfg in companies:
+        name = cfg.get("name") or "(unnamed)"
+        ats  = cfg.get("ats")
+        if not ats:
+            errors.append(f"  {name}: missing 'ats' field")
+            continue
+        for field in _REQUIRED_FIELDS.get(ats, []):
+            if not cfg.get(field):
+                errors.append(f"  {name} ({ats}): missing required field '{field}'")
+
+    if errors:
+        logger.error(
+            "Config validation failed — %d error(s):\n%s",
+            len(errors), "\n".join(errors),
+        )
+    else:
+        logger.info("Config validation: all %d companies OK", len(companies))
+
+
+# ---------------------------------------------------------------------------
 # Scraper factory
 # ---------------------------------------------------------------------------
 
@@ -265,6 +307,7 @@ def _scrape_one(
 
 def run(show_all: bool = False) -> list[Job]:
     job_cache.load()
+    _validate_companies(COMPANIES)
     # Snapshot pre-run cache so export_html can mark genuinely new jobs.
     pre_run_urls = job_cache.known_urls()
 

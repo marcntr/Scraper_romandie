@@ -124,9 +124,7 @@ class MichaelPageScraper(BaseScraper):
             parent   = h3.parent
             paras    = parent.find_all("p") if parent else []
             raw_loc  = paras[0].get_text(strip=True) if paras else ""
-            location = raw_loc if raw_loc else "Switzerland"
-            if "switzerland" not in location.lower():
-                location = f"{location}, Switzerland"
+            location = self._ensure_switzerland(raw_loc)
 
             jobs.append(Job(
                 title=title,

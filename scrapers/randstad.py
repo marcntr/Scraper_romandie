@@ -140,11 +140,4 @@ class RandstadScraper(BaseScraper):
             span.decompose()
 
         location = loc_li.get_text(strip=True)
-        if not location:
-            return "Switzerland"
-
-        # Ensure "switzerland" is present for the LOCATION_FILTERS pre-filter
-        if "switzerland" not in location.lower():
-            location = f"{location}, Switzerland"
-
-        return location
+        return BaseScraper._ensure_switzerland(location)

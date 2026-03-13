@@ -139,11 +139,7 @@ class HaysScraper(BaseScraper):
         attrs = card.select(".search__result__job__attribute")
         raw_location = attrs[1].get_text(strip=True) if len(attrs) > 1 else ""
 
-        location = raw_location
-        if location and "switzerland" not in location.lower():
-            location = f"{location}, Switzerland"
-        if not location:
-            location = "Switzerland"
+        location = self._ensure_switzerland(raw_location)
 
         return Job(
             title=title,

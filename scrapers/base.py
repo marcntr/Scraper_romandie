@@ -196,6 +196,20 @@ class BaseScraper(ABC):
         return None
 
     @staticmethod
+    def _ensure_switzerland(location: str) -> str:
+        """Return *location* with ', Switzerland' appended if not already present.
+
+        Returns 'Switzerland' for blank input so callers never produce an
+        empty location string.  Used by all HTML-scraper subclasses that parse
+        location text from pages where the country name is implicit.
+        """
+        if not location:
+            return "Switzerland"
+        if "switzerland" not in location.lower():
+            return f"{location}, Switzerland"
+        return location
+
+    @staticmethod
     def _strip_html(html: str) -> str:
         """Strip HTML tags and normalise whitespace. Caps output at 8 000 chars."""
         if not html:

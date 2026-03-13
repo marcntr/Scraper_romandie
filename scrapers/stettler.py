@@ -164,10 +164,7 @@ class StettlerScraper(BaseScraper):
             p = spans[2].find("p")
             location = p.get_text(strip=True) if p else spans[2].get_text(strip=True)
 
-        if not location:
-            location = "Switzerland"
-        elif "switzerland" not in location.lower():
-            location = f"{location}, Switzerland"
+        location = self._ensure_switzerland(location)
 
         return Job(
             title=title,

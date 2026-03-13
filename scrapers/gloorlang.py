@@ -111,8 +111,4 @@ class GloorLangScraper(BaseScraper):
         raw_region = m.group(1).strip()
         region = _REGION_MAP.get(raw_region, raw_region)
 
-        # Ensure "switzerland" substring is present so LOCATION_FILTERS passes
-        if "switzerland" not in region.lower():
-            region = f"{region}, Switzerland"
-
-        return region
+        return self._ensure_switzerland(region)
