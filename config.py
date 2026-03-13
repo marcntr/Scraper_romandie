@@ -67,6 +67,22 @@ TITLE_FILTERS: list[str] = [
     # Field & advisory
     "field application scientist",
     "scientific advisor",
+    # Preclinical & biology
+    "preclinical development",
+    "preclinical strategy",
+    "immuno-oncology",
+    "spatial biology",
+    "assay development",
+    "computational biology",
+    "bioinformatics",
+    # Commercial strategy
+    "competitive intelligence",
+    "new product planning",
+    "npp",
+    # Communications
+    "scientific communications",
+    "medical communications",
+    "medical writer",
 ]
 
 # ---------------------------------------------------------------------------
