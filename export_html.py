@@ -349,7 +349,7 @@ def _job_card(job: Job, idx: int, is_new: bool = False) -> str:
     raw_desc = job.description or ""
     has_desc = bool(raw_desc)
     toggle_btn = (
-        f'<button class="toggle-btn" onclick="toggleDesc({idx})">▸ Description</button>'
+        f'<button class="toggle-btn" onclick="toggleDesc(this,{idx})">▸ Description</button>'
         if has_desc else ""
     )
     desc_structured = (
@@ -1116,11 +1116,11 @@ a {{ color: inherit; text-decoration: none; }}
 </div>
 
 <div class="tab-bar">
-  <button id="tab-btn-matched" class="tab-btn active" onclick="showTab('matched')">Matched Jobs ({n_matched})</button>
-  <button id="tab-btn-ignored" class="tab-btn" onclick="showTab('ignored')">Ignored ({n_ignored})</button>
-  <button id="tab-btn-applied" class="tab-btn" onclick="showTab('applied')">Applied ({n_applied})</button>
-  {f'<button class="tab-btn" onclick="showTab(\'alerts\')">Alerts ({n_alerts})</button>' if n_alerts else ''}
-  <button class="tab-btn" onclick="showTab('companies')">Companies ({n_monitored})</button>
+  <button id="tab-btn-matched" class="tab-btn active" onclick="showTab(this,'matched')">Matched Jobs ({n_matched})</button>
+  <button id="tab-btn-ignored" class="tab-btn" onclick="showTab(this,'ignored')">Ignored ({n_ignored})</button>
+  <button id="tab-btn-applied" class="tab-btn" onclick="showTab(this,'applied')">Applied ({n_applied})</button>
+  {f'<button class="tab-btn" onclick="showTab(this,\'alerts\')">Alerts ({n_alerts})</button>' if n_alerts else ''}
+  <button class="tab-btn" onclick="showTab(this,'companies')">Companies ({n_monitored})</button>
 </div>
 
 <div class="content">
@@ -1211,11 +1211,11 @@ a {{ color: inherit; text-decoration: none; }}
 
 <script>
 // ── Tab switching ──
-function showTab(name) {{
+function showTab(btn, name) {{
   document.querySelectorAll('.tab-panel').forEach(p => p.classList.remove('active'));
   document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
   document.getElementById('tab-' + name).classList.add('active');
-  event.target.classList.add('active');
+  btn.classList.add('active');
 }}
 
 // ── Triage: update tab counters ──
@@ -1268,9 +1268,8 @@ async function setJobStatus(btn, newStatus) {{
 }}
 
 // ── Description toggle ──
-function toggleDesc(id) {{
+function toggleDesc(btn, id) {{
   const div = document.getElementById('desc-more-' + id);
-  const btn = event.target;
   if (div.hidden) {{
     div.hidden = false;
     btn.textContent = '▾ Description';
