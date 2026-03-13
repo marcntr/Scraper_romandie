@@ -1022,7 +1022,12 @@ SCORE_POSITIVE: list[str] = [
     "PhD",
     "Post-doc",
     "Postdoc",
+    "postdoctoral",
+    "post-doctoral",
     "MSc",
+    "Master's degree",
+    "Masters degree",
+    "Master of Science",
     # Single-cell / genomics
     "Cancer Biology",
     "Single-cell RNA sequencing",
