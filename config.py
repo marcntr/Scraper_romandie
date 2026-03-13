@@ -1018,51 +1018,68 @@ EXCLUDE_TITLE_PATTERNS: list[str] = [
 # Scoring — positive keywords (+1 per unique match, title + description)
 # ---------------------------------------------------------------------------
 SCORE_POSITIVE: list[str] = [
+    # Qualifications
     "PhD",
     "Post-doc",
     "Postdoc",
+    "MSc",
+    # Single-cell / genomics
     "Cancer Biology",
-    "Life Sciences Engineering",
     "Single-cell RNA sequencing",
     "scRNA-seq",
     "10x Genomics",
-    "SCENIC",
     "Seurat",
+    "genomics",
+    "spatial transcriptomics",
+    "Perturb-seq",
+    "computational biology",
+    "bioinformatics",
+    "high-dimensional data",
+    # Molecular / lab
     "molecular biology",
     "lentiviral production",
     "QuPath",
-    # Biopharma / biomarker terms
+    "Life Sciences Engineering",
+    "in vitro",
+    "in vivo",
+    "organoid",
+    "CRISPR",
+    "multiplex immunofluorescence",
+    "spectral flow cytometry",
+    # Biopharma / biomarker
     "immunology",
     "oncology",
-    "in vitro",
     "proteomics",
-    "genomics",
-    "spatial transcriptomics",
     "assay development",
     "drug discovery",
     "translational research",
-    # Core profile — drug development, translational, medical
-    "translational medicine",
     "pharmacology",
     "drug development",
-    "medical affairs",
     "clinical pharmacology",
-    # CV-derived: immuno-oncology expertise
+    "biomarker strategy",
+    "biomarker discovery",
+    "spatial biology",
+    "digital pathology",
+    # Translational / medical
+    "translational medicine",
+    "medical affairs",
+    # Immuno-oncology
     "tumor microenvironment",
     "immuno-oncology",
     "innate immunity",
     "stromal biology",
     "metastasis",
-    # CV-derived: preclinical / in vivo
+    "cancer-associated fibroblasts",
+    "CAFs",
+    "T-cell exhaustion",
+    "macrophages",
+    # Preclinical
     "preclinical",
-    "in vivo",
-    "organoid",
-    # CV-derived: technical skills
-    "CRISPR",
-    "multiplex immunofluorescence",
-    "spectral flow cytometry",
-    "Perturb-seq",
-    # Bioinformatics and machine learning left out intentionally — not primary domain
+    # Strategy / intelligence
+    "search and evaluation",
+    "competitive intelligence",
+    "scientific diligence",
+    "new product planning",
 ]
 
 # ---------------------------------------------------------------------------
@@ -1071,6 +1088,8 @@ SCORE_POSITIVE: list[str] = [
 SCORE_NEGATIVE_PHRASES: list[str] = [
     "clinical trial management",
     "clinical operations",
+    "clinical research coordinator",
+    "CRA",
 ]
 
 # ---------------------------------------------------------------------------
@@ -1081,7 +1100,7 @@ SCORE_NEGATIVE_PHRASES: list[str] = [
 #                   "minimum 2 years of direct clinical research"
 # ---------------------------------------------------------------------------
 SCORE_NEGATIVE_REGEX: list[str] = [
-    r"\d+\+?\s*years?\s+(?:of\s+)?(?:direct\s+)?clinical\s+research\s+experience",
+    r"\b\d+\s+years?\s+(?:of\s+)?clinical\s+research\s+experience\b",
     r"minimum\s+\d+\s+years?\s+(?:of\s+)?clinical\s+research",
 ]
 
