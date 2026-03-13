@@ -55,7 +55,7 @@
     "keywords": "medical advisor,scientist"
   },
   "_generic:Becton Dickinson": {
-    "keywords": "business development,regulatory,regulatory affairs"
+    "keywords": "business development,health economics,regulatory,regulatory affairs"
   },
   "_generic:Galapagos": {
     "keywords": "scientist"
@@ -64,10 +64,10 @@
     "keywords": "regulatory"
   },
   "_generic:MoonLake Immunotherapeutics": {
-    "keywords": "medical affairs"
+    "keywords": "clinical development,medical affairs"
   },
   "_generic:BioLizard": {
-    "keywords": "data science,scientist"
+    "keywords": "clinical development,data science,scientist"
   },
   "_generic:Veeva Systems": {
     "keywords": "regulatory"
@@ -76,31 +76,31 @@
     "keywords": "business development,precision medicine"
   },
   "_generic:Araris Biotech": {
-    "keywords": "business development,regulatory,regulatory affairs"
+    "keywords": "alliance management,business development,clinical development,immuno-oncology,licensing,portfolio,regulatory,regulatory affairs,scientific advisor"
   },
   "_generic:BC Platforms": {
-    "keywords": "data science,precision medicine,scientist"
+    "keywords": "clinical development,data science,evidence generation,precision medicine,scientist"
   },
   "_generic:ABCDx": {
-    "keywords": "biomarker"
+    "keywords": "biomarker,portfolio"
   },
   "_generic:Owkin": {
-    "keywords": "data science,regulatory,scientist"
+    "keywords": "data science,portfolio,regulatory,scientist"
   },
   "_generic:Insilico Medicine": {
     "keywords": "business development,scientist"
   },
   "_generic:Biognosys": {
-    "keywords": "biomarker"
+    "keywords": "biomarker,immuno-oncology"
   },
   "_generic:Tempus": {
-    "keywords": "precision medicine"
+    "keywords": "clinical development,precision medicine"
   },
   "_generic:HAYA Therapeutics": {
     "keywords": "data science,precision medicine,regulatory,scientist"
   },
   "_generic:Seven Bridges / Velsera": {
-    "keywords": "precision medicine,regulatory,scientist"
+    "keywords": "assay development,bioinformatics,precision medicine,regulatory,scientist"
   },
   "_generic:Astellas Pharma": {
     "keywords": "medical affairs,precision medicine"
@@ -112,7 +112,7 @@
     "keywords": "business development,medical affairs,regulatory,regulatory affairs"
   },
   "_generic:+ND Capital": {
-    "keywords": "data science"
+    "keywords": "bioinformatics,data science,portfolio"
   },
   "/job/Basel/Senior--Principal-Scientist---Peptide-parenteral-formulation-development_202506-114896": {
     "description": "At Roche you can show up as yourself, embraced for the unique qualities you bring. Our culture encourages personal expression, open dialogue, and genuine connections,  where you are valued, accepted and respected for who you are, allowing you to thrive both personally and professionally. This is how we aim to prevent, stop and cure diseases and ensure everyone has access to healthcare today and for generations to come. Join Roche, where every voice matters. The Position At Roche, we have an exciting opportunity for an expert in peptide parenteral formulation. You will be working on multiple innovative projects with cutting edge technologies that will have a meaningful impact on millions of lives. As a Principal Scientist in Pharmaceutical Development, you are part of the Department “Pharmaceutical Development” in Pharma Technical Development (PTD) in Basel, Switzerland. The department Pharmaceutical Development is responsible for the development of parenteral drug products (Synthetic molecules and Biologics) from Phase 1 through Launch. Activities encompass formulation and manufacturing process development for parenteral drug products for all clinical stages and the market , the transfer of product and process to commercial manufacturing sites,as well as line extension development. The Opportunity As an expert in the development and launch of parenteral peptide formulations, your major responsibilities in this position are the following: Drive the pharmaceutical development of cutting-edge peptide parenteral formulations, from clinical development all the way to market launch, including line extensions. Development of robust manufacturing processes for both liquid and lyophilized peptide and small molecule formulations, overseeing scale-up, process characterization & validation, and seamless transfer to our global commercial manufacturing sites. Act as Pharmaceutical Project Leader representing Pharmaceutical Development, in global CMC (Chemistry, Manufacturing, and Controls) teams, cross-functional initiatives, and international committees within Roche. You will play a pivotal role in shaping global regulatory submissions for all phases (Phase 1-3) and market approvals (MAA/NDA), making a direct impact on bringing life-changing medicines to patients. Who you are As the successful candidate you hold a Ph.D. or master degree in chemistry, chemical/process engineering or related fields and bring a minimum of 6 years of professional experience (industry) in formulation and process development drug product manufacturing related fields of parenteral dosage forms for peptides parenterals. Proven experience authoring drug product sections of an NDA for a peptide product and expert in developing and launching peptides as a combination product for parenteral use. Strong expertise in chemistry, solid state characterization and its related field. Experience in peptide analytical techniques, aseptic manufacturing process, scale-up, tech transfers and related regulatory and quality requirements Direct experience in writing/reviewing regulatory CMC source and submission documents and demonstrated ability to evaluate program risk and submission risk from a drug product formulation and manufacturing standpoint. Excellent communication skills and collaborative behaviors, with end-to-end and global thinking, as well as excellent stakeholder management skills If you are an expert in peptide formulations and enjoy driving innovation, we would love to hear from you. Who we are A healthier future drives us to innovate. Together, more than 100’000 employees across the globe are dedicated to advance science, ensuring everyone has access to healthcare today and for generations to come. Our efforts result in more than 26 million people treated with our medicines and over 30 billion tests conducted using our Diagnostics products. We empower each other to explore new possibilities, foster creativity, and keep our ambitions high, so we can deliver life-changing healthcare solutions that make a global impact. Let’s build a healthier future, together. Roche is an Equal Opportunity Employer.",
@@ -218,12 +218,297 @@
     "description": "The Global Publication Manager is responsible for the strategic planning, development, and execution of global publication activities across assigned therapeutic areas. This role ensures alignment with the Global Publication Plan and the overarching Medical Strategy, while upholding the highest scientific and ethical standards. Lead the implementation of the global publication plan for assigned products or indications, including HQ-driven and affiliate-supported publication. Manage the end-to-end publication process: concept development, author engagement, internal review, and submission of abstracts, posters, and manuscripts. Ensure compliance with GPP, ICMJE guidelines, and internal SOPs Collaborate cross-functionally with Medical Affairs, Regulatory, Legal, Compliance, Biostatistics, and external partners to ensure scientific accuracy and alignment Represent the publication function in internal and external meetings, including Joint Publication Teams with partner companies Maintain publication tracking systems and provide regular updates to the Global Publication Team Support the annual global publication workshop and contribute to the development of best practices",
     "external_url": "https://jobs.smartrecruiters.com/Sobi/744000095713719-global-publication-manager?oga=true"
   },
-  "https://api.smartrecruiters.com/v1/companies/AbbVie/postings/3743990012130696": {
-    "description": "Allergan Aesthetics, an AbbVie company (AA) has a duty to provide training on the safe and effective, on-label use of our products. The Allergan Aesthetics Clinical Specialist (CS) is an HCP-facing role within Allergan Medical Institute® (AMI) who facilitates HCP understanding of key learnings in-clinic. The CS will be trained to a high level of competency and skill, although, a clinical background/qualification is highly recommended for this role due to the clinical content and technical aspects covered with Healthcare Professionals (HCPs). The CS DACH (Germany, Austria and Switzerland) offers 1:1 in-clinic facilitation for Healthcare Professionals tailored to educational need and aligned to the AMI Educational Journey. The CS DACH will guide on patient and facial assessment. The CS will also cover related anatomy, ageing, plus the implementation of injection techniques covered within the relevant AMI Curriculum undertaken. Experienced in consultative patient facilitation, they assess educational need aiming to fill knowledge and skills gaps. Taking the theory learned from the AMI educational programmes, they support implementation into practice in the clinical setting on completion of relevant and/or required AMI content dedicated for HCPs. Educational needs will be specific to the individual and based on mutually agreed knowledge/skills gaps. This needs assessment determines the individualized facilitation pathway for each HCP, and in relevant markets, other in-clinic staff such as Beauty Consultants and Patient Coordinators. The CS will facilitate learning using approved AMI, and locally relevant, educational materials with an aim to support a standardised, repeatable methodology for patient assessment and treatment planning and for injection procedures aligned to defined AMI Infinity programme curricula related to Allergan Aesthetics brands. The CS DACH is also responsible for independently organizing and executing on AMI educational events as determined by the AMI Lead. KEY/ACCOUNTABILITIES 1.  Delivers In-Clinic Services for Clinic Chains (Key Accounts)                               60% Identifies educational need and develops recommendations to enhance clinical practice in aesthetic practices through delivering a bespoke educational journey for clinic chains (KA accounts). Number of supported HCPs within clinic chains will be ~30 but aligned with Affiliate-level strategic need; HCPs will be selected through cross-functional alignment between the National Sales Manager / KA head and the AMI Lead. Facilitation is hands-off and the HCP retains clinical judgement and responsibility for patient treatment. Focus will be Beginner and Intermediate HCPs, but other segments may require support as determined on educational need by the Area & Affiliate AMI Lead. Maintains a high level of service through reliable and timely follow-up after any interaction with HCPs and records all activity in VEEVA CRM to allow for KPI monitoring. Assess educational needs and deliver customized, fast-track training programs aligned with account priorities and specific patient profiles. Provide expert training in Hylacross and Vycross, including midface lift, skin quality/boosters, lips, and basic aesthetic treatments. Support beginner and intermediate HCPs, particularly those with limited consultation time and high patient volumes. Facilitate learning using approved AMI and locally relevant materials, emphasizing standard, repeatable methodologies for patient assessment and treatment planning. Work in close collaboration with Key Account Managers to develop and implement training strategies that address KA priorities and target patient groups. Maintain high levels of adaptability and organization to meet diverse account needs. 2. Supports Education via AMI Digital World 20% As a fundamental part of the, guides HCP educational curricula utilising AA AMI Digital World (AMI FIT) to help improve the level of clinical knowledge around AA products for clinicians. This channel is the core AMI offering for Beginner injectors but holds value for all HCPs that a CS interacts with as part of their role. 3. Supports AMI Lead in AMI Event Delivery                                                              20% Organize and execute AMI educational events, participate in industry conferences, and assist in preparation and development of key projects and materials as directed by the AMI Lead. If the CS has an appropriate clinical qualification, may also be requested to act as ‘First Assist’ for Faculty during live technical workshops.",
-    "external_url": "https://jobs.smartrecruiters.com/AbbVie/3743990012130696-clinical-specialist-dach-all-genders-?oga=true"
-  },
   "/job/Lengnau-Switzerland/Scientist-Microbiological-Quality-Control_R-01344554": {
     "description": "Work Schedule Standard (Mon-Fri) Environmental Conditions Adherence to all Good Manufacturing Practices (GMP) Safety Standards Job Description As part of the Thermo Fisher Scientific team, you’ll discover meaningful work that makes a positive impact on a global scale. Join our colleagues in bringing our Mission to life every single day to enable our customers to make the world healthier, cleaner and safer. We provide our global teams with the resources needed to achieve individual career goals while helping to take science a step beyond by developing solutions for some of the world’s toughest challenges, like protecting the environment, making sure our food is safe or helping find cures for cancer. Description: Join our team at Thermo Fisher Scientific as a Lead QC Technician, where you'll help make the world healthier, cleaner and safer. In this important role, you'll ensure quality standards are met through testing and inspection of products in a cGMP environment. You'll coordinate quality control activities, lead a team of QC technicians, and collaborate with cross-functional teams to maintain the highest quality standards. You'll perform analytical testing, document results, and support continuous improvement initiatives while mentoring team members. Responsibilities : Responsible for the organization of daily operations in the Microbiological QC (MBQC) laboratory and to maintain the laboratory operational (incl. maintenance of equipment). Responsible for the creation and revision of guidance documents such as SOPs/Wls and other related documents. System Matter Expert (SME) for Bioburden, Growth Promotion, Micro Identifications and Endotoxin testing method and related quality events. Participates in the transfer, development and verification/validation of microbiological methods including qualification of equipment needed for analysis. Testing of final and intermediate products, in process samples, samples from cleaning validation, utilities and environmental monitoring samples as back up. Supports the GMP Inspection Readiness of QC to ensure the fully compliance of relevant Quality System and Procedural documents. Supports of the QC teams (MBQC and Service and Support) in the ordering of material, logistic of samples and inventory management of the QC labs. Acts as Biosafety officer at the Thermo Fisher Scientific Lengnau site in accordance with the Swiss law (SAMV, ESV). Requirements: Minimum 4 years of experience in quality control within a regulated environment (pharmaceutical/medical device preferred) Preferred Fields of Study: Chemistry, Biology, or related scientific field Demonstrated proficiency with analytical testing equipment and techniques (HPLC, GC, spectrophotometry) Strong understanding of cGMP requirements and quality systems Experience with quality documentation and data review Proven ability to lead and mentor others while maintaining quality standards Excellent attention to detail and organizational skills Strong verbal and written communication abilities Proficiency with standard office software and LIMS systems Ability to work in cleanroom environments and follow gowning procedures Physical ability to stand for extended periods, lift up to 25 lbs occasionally Flexibility to work various shifts as needed Problem-solving skills and ability to troubleshoot technical issues Experience writing and reviewing SOPs and technical documentation",
     "external_url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Lengnau-Switzerland/Scientist-Microbiological-Quality-Control_R-01344554"
+  },
+  "https://job-boards.greenhouse.io/isomorphiclabs/jobs/5460704004": {
+    "description": "<div class=\"content-intro\"><p>Isomorphic Labs is applying frontier AI to help unlock deeper scientific insights, faster breakthroughs, and life-changing medicines with an ambition to solve all disease.</p>\n<p>The future is coming. A future enabled and enriched by the incredible power of machine learning. A future in which diseases are curtailed or cured starting with better and faster drug discovery.&nbsp;</p>\n<p>Come and be part of an interdisciplinary team driving groundbreaking innovation and play a meaningful role in contributing towards us achieving our ambitious goals, while being a part of an inspiring and collaborative culture.</p>\n<p>The world we want tomorrow is the one we’re building today. It starts with the culture at this company. It starts with you.&nbsp;</p>\n<h3><strong>About Iso</strong></h3>\n<p>Isomorphic Labs (IsoLabs) was launched in 2021 to advance human health by building on and beyond the Nobel-winning AlphaFold system. Since then, our interdisciplinary team of drug discovery experts and machine learning specialists has built powerful new predictive and generative AI models that accelerate scientific discovery at digital speed.</p>\n<p>Our name comes from the belief that there is an underlying symmetry between biology and information science. By harnessing AI’s powerful capabilities, we can use it to model complex biological phenomena to help design novel molecules, anticipate how drugs will perform and develop innovative medicines to treat and cure some of the world’s most devastating diseases.</p>\n<p>We have built a world-leading drug design engine comprising AI models that are capable of working across multiple therapeutic areas and drug modalities. We are continually innovating on model architecture and developing cutting-edge capabilities to advance rational drug design.</p>\n<p>Every day, and with each new breakthrough, we’re getting closer to the promise of digital biology, and achieving our ambitious mission to one day solve all disease with the help of AI.</p>\n<p>&nbsp;</p></div><h3><strong>Research Scientist (Machine Learning), Lausanne</strong></h3>\n<h3><strong>Your impact&nbsp;</strong></h3>\n<p>As a Research Scientist in machine learning (ML), you will play an exciting role in building greenfield machine learning based models and algorithms that will power our platform to transform the drug discovery world as we know it.&nbsp;</p>\n<p>Working in a highly creative, fast-paced and interdisciplinary environment, you will be partnering with leading engineers and scientists to conceive, design, and develop cutting edge machine learning algorithms to unlock new modelling and predictive power which will be critical to the organisation’s success. You will draw upon your existing deep research experience whilst learning from those around you, to apply novel techniques and ideas to newly encountered computational biology and chemistry problems.</p>\n<p><strong>Depending on your experience:</strong></p>\n<p>You will create and lead projects, bringing together a variety of disciplined scientists and engineers to pursue some of the most ambitious modelling problems with deep learning - as well as providing technical mentorship and people management for others in the ML community at Isomorphic Labs</p>\n<p>You will be instrumental in leading greenfield machine learning based research projects, building the models, and algorithms that will power our platform to transform the drug discovery world as we know it.</p>\n<h3><strong>What you will do</strong></h3>\n<ul>\n<li>Contribute to our research directions in machine learning by using your extensive knowledge of the field to apply world-leading ML algorithms to drug discovery.</li>\n<li>Identify and create novel ML techniques and the required data to train.</li>\n<li>Develop the architectures and training algorithms of machine learning models.</li>\n<li>Analyse and tune experimental results to inform future experimental directions.</li>\n<li>Implement and scale training and inference engineering frameworks.</li>\n<li>Report and present research findings and developments clearly and efficiently, to both other ML scientists and scientists of different disciplines.</li>\n<li>Iterate collaboratively with scientists and domain experts, sharing your own domain experience.</li>\n<li>Suggest and engage in team collaborations to meet ambitious research goals.<br><br><strong>Depending on your experience:</strong></li>\n<li>Provide technical mentorship and guidance to the ML research community, advising on projects, and shaping our research roadmap based on your deep technical expertise.</li>\n<li>Provide developmental support to other ML research scientists.</li>\n<li>Create, lead, and run ML research projects, fostering collaborative and diverse teams to solve high priority modelling problems.Cultivate a diverse and inclusive research culture.</li>\n</ul>\n<h3><strong>Skills and qualifications&nbsp;</strong></h3>\n<p><strong>Essential</strong></p>\n<ul>\n<li>PhD or equivalent practical experience in a technical field.</li>\n<li>A proven track record in machine learning using deep learning techniques, including designing new architectures, hands-on experimentation, analysis, and visualisation.</li>\n<li>Strong knowledge of linear algebra, calculus and statistics.</li>\n<li>Experience using ML frameworks such as JAX, PyTorch, or TensorFlow, and scientific software such as NumPy, SciPy, or Pandas.</li>\n<li>A passion for applying ML research to real world problems.</li>\n<li>Depending on your experience: project supervision, leadership, or management.</li>\n</ul>\n<p><strong>Nice to have</strong></p>\n<ul>\n<li>PhD in machine learning or computer science.</li>\n<li>Relevant research experience to the position such as post doctoral roles, a proven track record of publications, or contributions to machine learning codebases.</li>\n<li>Experience working in a scientific environment across disciplines (particularly biology, chemistry, physics).</li>\n<li>Experience working with biological or chemical data and biological or chemistry software.</li>\n<li>Experience working with real-world datasets.</li>\n<li>Experience with ML on accelerators.</li>\n<li>Experience in any of: large scale deep learning, generative models, graph neural networks, deep learning for drug discovery, deep learning for computer vision, 3D graphics/robotics, real-world applied RL.</li>\n</ul><div class=\"content-conclusion\"><h3><strong><br>Culture and values</strong></h3>\n<p>We are guided by our shared values. It's not about finding people who think and act in the same way. These values help to guide our work and will continue to strengthen it.&nbsp;</p>\n<p><strong>Thoughtful<br></strong><span style=\"font-weight: 400;\">Thoughtful at Iso is about curiosity, creativity and care. It is about good people doing good, rigorous and future-making science every single day.</span></p>\n<p><strong>Brave<br></strong><span style=\"font-weight: 400;\">Brave at Iso is about fearlessness, but it’s also about initiative and integrity. The scale of the challenge demands nothing less.</span></p>\n<p><strong>Determined<br></strong><span style=\"font-weight: 400;\">Determined at Iso is the way we pursue our goal. It’s a confidence in our hypothesis, as well as the urgency and agility needed to deliver on it. Because disease won’t wait, so neither should we.</span></p>\n<p><strong>Together<br></strong><span style=\"font-weight: 400;\">Together at Iso is about connection, collaboration across fields and catalytic relationships. It’s knowing that transformation is a group project, and remembering that what we’re doing will have a real impact on real people everywhere.</span></p>\n<h3><strong><br>Creating an extraordinary company</strong></h3>\n<p>We believe that to be successful we need a team with a range of skills and talents. We're building an environment where collaboration is fundamental, learning is shared and every employee feels supported and able to thrive. We value unique experiences, kno",
+    "external_url": "https://job-boards.greenhouse.io/isomorphiclabs/jobs/5460704004",
+    "status": "matched"
+  },
+  "https://job-boards.greenhouse.io/isomorphiclabs/jobs/5797365004": {
+    "description": "<div class=\"content-intro\"><p>Isomorphic Labs is applying frontier AI to help unlock deeper scientific insights, faster breakthroughs, and life-changing medicines with an ambition to solve all disease.</p>\n<p>The future is coming. A future enabled and enriched by the incredible power of machine learning. A future in which diseases are curtailed or cured starting with better and faster drug discovery.&nbsp;</p>\n<p>Come and be part of an interdisciplinary team driving groundbreaking innovation and play a meaningful role in contributing towards us achieving our ambitious goals, while being a part of an inspiring and collaborative culture.</p>\n<p>The world we want tomorrow is the one we’re building today. It starts with the culture at this company. It starts with you.&nbsp;</p>\n<h3><strong>About Iso</strong></h3>\n<p>Isomorphic Labs (IsoLabs) was launched in 2021 to advance human health by building on and beyond the Nobel-winning AlphaFold system. Since then, our interdisciplinary team of drug discovery experts and machine learning specialists has built powerful new predictive and generative AI models that accelerate scientific discovery at digital speed.</p>\n<p>Our name comes from the belief that there is an underlying symmetry between biology and information science. By harnessing AI’s powerful capabilities, we can use it to model complex biological phenomena to help design novel molecules, anticipate how drugs will perform and develop innovative medicines to treat and cure some of the world’s most devastating diseases.</p>\n<p>We have built a world-leading drug design engine comprising AI models that are capable of working across multiple therapeutic areas and drug modalities. We are continually innovating on model architecture and developing cutting-edge capabilities to advance rational drug design.</p>\n<p>Every day, and with each new breakthrough, we’re getting closer to the promise of digital biology, and achieving our ambitious mission to one day solve all disease with the help of AI.</p>\n<p>&nbsp;</p></div><h3><strong>About the Exploratory Sciences Team</strong></h3>\n<p>Join our expanding Exploratory Sciences team, focused on tackling proteins which are critical for disease biology, but have been traditionally considered intractable. We are a small, multi-disciplinary team within the Drug Design and Medical Research function at Isomorphic Labs. We work at the interface of machine learning, chemical biology and drug discovery to apply our platform to some of the toughest problems in drug discovery, and we collaborate closely with multiple teams across Isomorphic Labs. We have a strong growth mindset and prioritise continued development and learning as we hope to build the next generation of drug discovery scientists.</p>\n<p>We are expanding and investing in our multi-disciplinary Peptides team within Exploratory Sciences, looking to recruit more talented scientists to drive projects towards the clinic. This role is for an In-vitro / Cellular Pharmacologist specialising in peptides, within the Exploratory Sciences Biology team.</p>\n<p>&nbsp;</p>\n<h3><strong>Your impact&nbsp;</strong></h3>\n<p>This role is ideal for experienced In-vitro / Cellular Pharmacologists with significant working knowledge of biophysical, biochemical and / or cell-based functional assays, and extensive experience of providing quantitative in-vitro pharmacology expertise, especially within peptide-based drug discovery projects. You will deliver the development and application of a state-of-the-art peptide design platform. This will involve applying our platform in novel ways, and critically driving portfolio projects towards the clinic. You will need to design and execute on bold strategies to tackle problems that are currently considered impossible. Working alongside world leading AI/ML and Drug Design Platform teams, you will deliver scientific expertise and strategic direction to drive both improvements in the Platform and help to solve unsolved drug design problems.</p>\n<p>Ready to elevate your scientific career? Isomorphic Labs offers a unique environment to tackle stimulating challenges, pushing your boundaries and accelerating your personal and professional growth. If you are a skilled and ambitious scientist looking to take the next step in your career, joining Isomorphic Labs will challenge you with novel problems and provide an amazing opportunity for professional growth and development.</p>\n<p>&nbsp;</p>\n<h3><strong>What you will do</strong></h3>\n<ul>\n<li>Design efficient and comprehensive biological screening cascades for a variety of internal and partnered peptide drug design programs.</li>\n<li>Work with CROs to design decision-making experiments, and deliver the highest quality biological data to inform the path to the clinic.</li>\n<li>Collaborate internally and with third party organisations, interacting within multidisciplinary teams to support data-driven delivery of high quality scientific solutions. This will require understanding the fundamentals of diverse disciplines including ML, Biology, Chemistry and DMPK, and communicating effectively with experts in those fields.</li>\n<li>Represent the company externally, interacting with existing and prospective collaborators and contract research organisations (CROs).</li>\n<li>Prepare detailed scientific proposals and reports to support new and ongoing programs.</li>\n<li>Embrace and champion our culture of inclusion and continuous professional development.</li>\n</ul>\n<h3><strong><br>Skills and qualifications&nbsp;</strong></h3>\n<h4><strong>Essential:</strong></h4>\n<ul>\n<li>PhD, MSc or BSc in Biology or a related technical field, or equivalent industrial experience.</li>\n<li>3+ years’ professional experience in a Biology role, either operating within a biotech or pharma setting, or within a Post Doc position.</li>\n<li>Experience in the design and implementation of biological screening cascades applied to drug design projects, from hit identification to candidate selection phases.</li>\n<li>Experience in the characterisation of peptide molecules for drug discovery applications.</li>\n<li>Working knowledge of experimental in-vitro pharmacology techniques including biophysical, biochemical and/or cellular assays.</li>\n<li>Experience working with CROs in acquiring and interpreting high quality biological data in a timely manner.</li>\n<li>Dynamic, agile, and flexible approach with ability to work across multiple projects and therapeutic areas.</li>\n<li>Excellent communication (written and verbal) and interpersonal skills, with an ability to work effectively in a cross-functional, collaborative team environment.</li>\n<li>Track record of creative problem solving with a strong growth mindset, adaptability, and eagerness to learn new concepts and techniques.</li>\n</ul>\n<h4><strong>Nice to have:</strong></h4>\n<ul>\n<li>Experience of leading biology within drug discovery programs, ideally from inception to clinical candidate delivery.</li>\n<li>Previous experience of structural biology and/or display-based techniques for peptide HitID.</li>\n<li>Experience of working with Data Science groups in setting up systems for the ingestion of biological data.</li>\n<li>Track record of contributing to drug design projects which have then delivered Clinical Candidates.</li>\n<li>General knowledge of machine learning modelling applied to biological systems and drug discovery.</li>\n<li>Experience of target identification, validation and selection approaches.</li>\n<li>Track record of authorship of relevant scientific manuscripts.</li>\n<li>Experience of coding in Python, or a willingness to learn in-role.</li>\n</ul><div class=\"content-conclusion\"><h3><strong><br>Culture and values</strong></h3>\n<p>We are guided by our shared values. It's not about finding people who think and act in the same way. These values help to guide our work and will continue to strengthen it.&nbsp;</p>\n<p><strong>Thoughtful<br></strong><span style=\"font-weight: 400;\">Though",
+    "external_url": "https://job-boards.greenhouse.io/isomorphiclabs/jobs/5797365004",
+    "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/AbbVie/postings/3743990012137176": {
+    "description": "Allergan Aesthetics, an AbbVie company (AA) has a duty to provide training on the safe and effective, on-label use of our products. The Allergan Aesthetics Clinical Specialist (CS) is an HCP-facing role within Allergan Medical Institute® (AMI) who facilitates HCP understanding of key learnings in-clinic. The CS will be trained to a high level of competency and skill, although, a clinical background/qualification is highly recommended for this role due to the clinical content and technical aspects covered with Healthcare Professionals (HCPs). The CS DACH (Germany, Austria and Switzerland) offers 1:1 in-clinic facilitation for Healthcare Professionals tailored to educational need and aligned to the AMI Educational Journey. The CS DACH will guide on patient and facial assessment. The CS will also cover related anatomy, ageing, plus the implementation of injection techniques covered within the relevant AMI Curriculum undertaken. Experienced in consultative patient facilitation, they assess educational need aiming to fill knowledge and skills gaps. Taking the theory learned from the AMI educational programmes, they support implementation into practice in the clinical setting on completion of relevant and/or required AMI content dedicated for HCPs. Educational needs will be specific to the individual and based on mutually agreed knowledge/skills gaps. This needs assessment determines the individualized facilitation pathway for each HCP, and in relevant markets, other in-clinic staff such as Beauty Consultants and Patient Coordinators. The CS will facilitate learning using approved AMI, and locally relevant, educational materials with an aim to support a standardised, repeatable methodology for patient assessment and treatment planning and for injection procedures aligned to defined AMI Infinity programme curricula related to Allergan Aesthetics brands. The CS DACH is also responsible for independently organizing and executing on AMI educational events as determined by the AMI Lead. KEY/ACCOUNTABILITIES 1.  Delivers In-Clinic Services for Clinic Chains (Key Accounts)                               60% Identifies educational need and develops recommendations to enhance clinical practice in aesthetic practices through delivering a bespoke educational journey for clinic chains (KA accounts). Number of supported HCPs within clinic chains will be ~30 but aligned with Affiliate-level strategic need; HCPs will be selected through cross-functional alignment between the National Sales Manager / KA head and the AMI Lead. Facilitation is hands-off and the HCP retains clinical judgement and responsibility for patient treatment. Focus will be Beginner and Intermediate HCPs, but other segments may require support as determined on educational need by the Area & Affiliate AMI Lead. Maintains a high level of service through reliable and timely follow-up after any interaction with HCPs and records all activity in VEEVA CRM to allow for KPI monitoring. Assess educational needs and deliver customized, fast-track training programs aligned with account priorities and specific patient profiles. Provide expert training in Hylacross and Vycross, including midface lift, skin quality/boosters, lips, and basic aesthetic treatments. Support beginner and intermediate HCPs, particularly those with limited consultation time and high patient volumes. Facilitate learning using approved AMI and locally relevant materials, emphasizing standard, repeatable methodologies for patient assessment and treatment planning. Work in close collaboration with Key Account Managers to develop and implement training strategies that address KA priorities and target patient groups. Maintain high levels of adaptability and organization to meet diverse account needs. 2. Supports Education via AMI Digital World 20% As a fundamental part of the, guides HCP educational curricula utilising AA AMI Digital World (AMI FIT) to help improve the level of clinical knowledge around AA products for clinicians. This channel is the core AMI offering for Beginner injectors but holds value for all HCPs that a CS interacts with as part of their role. 3. Supports AMI Lead in AMI Event Delivery                                                              20% Organize and execute AMI educational events, participate in industry conferences, and assist in preparation and development of key projects and materials as directed by the AMI Lead. If the CS has an appropriate clinical qualification, may also be requested to act as ‘First Assist’ for Faculty during live technical workshops.",
+    "external_url": "https://jobs.smartrecruiters.com/AbbVie/3743990012137176-clinical-specialist-dach-all-genders-?oga=true",
+    "status": "matched"
+  },
+  "https://apply.workable.com/sophia-genetics/j/92BB3A7C3A/": {
+    "description": "Are you an experienced clinical biomarker professional who can bridge science and commercial strategy? Do you enjoy working cross-functionally—engaging directly with oncologists, pathologists, and internal stakeholders—to translate real-world clinical needs into revenue-generating partnerships? If this sounds like you and you are driven by purpose, join the SOPHiA GENETICS BioPharma Solutions team as our Clinical Biomarker Expert , and enable us to make a positive impact on the outcomes for cancer and rare disease patients worldwide. This is a field based role, within UK/EU5. You will spend your time working from home-office, or travelling for customer meetings, conference & events (20-25%). Proximity to one of our corporate offices in France (Bidart) or Switzerland (Rolle) is valuable, but not a requirment. In most instances, we look for individuals already living in-territory, but welcome those actively relocating to the area. Our mission We believe there is a smarter, more data-driven way to make decisions in healthcare and our cloud-native AI powered SOPHiA DDM Platform makes that vision a reality on a daily basis. You will have direct input to our mission to democratize data-driven medicine for the ultimate benefit of cancer and rare disease patients across the globe. Through a decentralized global network and patented algorithms, we give the BioPharma community access to high quality NGS solutions, Biomarker Discovery, Clinical Trial Assays and CDx leveraging the SOPHiA DDM™ platform, including the ctDNA-based LBx solution MSK ACCESS® powered with SOPHiA DDM™. This role sits as part of our BioPharma Diagnostics Team. Learn more about SOPHiA DDM™ BioPharma Solutions here. Your mission Reporting to the Director, Head of CDx BioPharma Programmes, you will serve as a key scientific and clinical-facing partner within our biopharma ecosystem—helping connect our clinical network with biopharma needs to shape evidence generation and multimodal real-world data initiatives. You will help \"harvest\" insights from the field and translate them into clear narratives and opportunities that support project development and revenue growth. The value you add: Engage directly with oncologists, pathologists, and clinical stakeholders—often alongside clinical sales—to gather insights on clinically meaningful biomarkers, unmet needs, and adoption drivers. Support evidence generation and multimodal real-world data initiatives by helping connect biopharma questions with feasible approaches across our clinical network. Act as a scientific \"face of credibility\" in external conversations, ensuring discussions are grounded in clinical relevance and aligned to stakeholder expectations. Partner closely with internal teams (e.g., clinical sales, BD) to feed field intelligence back into positioning, project concepts, and customer engagement strategies. Contribute to revenue impact by helping identify, shape, and progress opportunities that translate clinical insights into compelling biopharma value propositions. We know that every background is different, but to be best set for success we see you bringing: 5 years of experience in biomarker strategy, translational medicine, medical affairs, precision oncology, companion diagnostics, or clinical evidence generation. Strong understanding of NGS clinical biomarkers and diagnostic concepts (IHC knowledge is a plus), with the ability to quickly learn SOPHiA GENETICS' offerings and communicate their value. A commercial mindset, able to connect scientific/clinical discussions to opportunity creations and revenue impact. Previous exposure to commercial conversations for an NGS Dx or CDx product highly sought. Strong technical knowledge combined with creativity and problem-solving skills to design and propose custom solutions tailored to client needs Proven ability to engage credibly with oncologists, pathologists, KOLs, and clinical networks, and to translate clinical insights into clear, actionable business and project inputs. Fully fluent in English; additional european languages (Italian, Spanish) valuable As a public organisation facing ongoing commercial growth, you will bring a success-orientated and solutions-focused mindset that embraces team collaborations, change, growth and inclusion. As an international organisation, English is our primary business language and as part of your recruitment journey, you should expect to meet English-only speakers. For best chances of success, you should include your CV in English. Unfortunately, non-English CVs have a high likelihood of being rejected at application stage. You will be joining an organisation with the patient at the heart of every decision and action, driven by purpose as we pursue exponential growth. Business recognition and accolades include: World's most innovative companies (Top 10) World's smartest companies (Top 50) 100 Best Places to Work in Boston Top 10 European Tech Startup Top 10 European biotechs startup to watch Top 25 East-Coast Biotech to watch Our benefits package is comprehensive, but varies internationally in-line with local standards and laws. You can discuss a full breakdown with us, but as a brief overview: CH: Sickness and Accident coverage through Helsana Meal Vouchers at 90CHF PM with our partner cafeteria A fun and engaging work environment, with Rest & Entertainment space, full stocked free coffee machine and free fruit Free parking in an easy to access location A strong social committee whose purpose is to make SOPHiA GENETICs both enjoyable as well as rewarding As our global HQ, you’ll have direct interaction and exposure to senior leadership and our executive team locally FR: Forfait-Jour working types Health benefits for you and your family covered by 80% employer contributions Life Insurance and pensions contribution SWILE meal vouchers and home office allowances Our DNA Like the strands of DNA itself, SOPHiA GENETICS and the team are deeply interconnected and reliant on each other to deliver. There are common threads across the team. Things that bind us together. Those things are Relentless Curious; Resilient & Nimble and Fearlessly Adventurous Our Virtues At SOPHiA GENETICS we established our 7 Virtues to clarify how our principles show up each day through action.  We decide; We do; We Collaborate; We Innovate; We Empower; We Adapt and We Learn. At the centre of our Virtues is our Mantra, We Care, which provides a constant reminder of the compassionate, benevolent, and hopeful nature of our mission and how it should be threaded through each of our Virtues and everything we do. Learn more about our DNA and Virtues on our Careers portal The process We use the power of AI to help our partners make decisions. If you’re utilising AI in your search and application process, why not use some of these prompts, or read our AI guide. ‘What impact can I expect to have on the world by working at SOPHiA GENETICS?’ ‘I have an interview with SOPHiA GENETICS. What should I know before I meet with them?’ ‘I am a *job title* - What can SOPHiA GENETICS offer my career?’ Apply now with your CV and any supporting information. For a fair, consistent and transparent process, we request all candidates should complete an application through our career page or an external job posting. Whilst we aim to respond to message and enquiries about vacancies, we cannot accept applications through email or messages on another platform (i.e. LinkedIn; Xing) alone. We are aware of some third-party organisations republishing both current and expired job postings without our consent, in the interest of collecting personal information. If you have any concerns about the legitimacy of this job posting, or any other vacancy, you can compare it to open postings directly on our careers page ( https://careers.sophiagenetics.com/jobs/search ). Suitably qualified candidates will be invited through an interview and screening process where you will speak with members of our Talent Acquisition",
+    "external_url": "https://apply.workable.com/sophia-genetics/j/92BB3A7C3A/",
+    "status": "matched"
+  },
+  "_generic:Idorsia": {
+    "keywords": "portfolio"
+  },
+  "_generic:Molecular Partners": {
+    "keywords": "scientific advisor"
+  },
+  "_generic:Basilea Pharmaceutica": {
+    "keywords": "portfolio"
+  },
+  "_generic:Zühlke": {
+    "keywords": "npp"
+  },
+  "_generic:Immunos Therapeutics": {
+    "keywords": "immuno-oncology,scientific advisor"
+  },
+  "_generic:Incyte": {
+    "keywords": "portfolio"
+  },
+  "_generic:Cutiss": {
+    "keywords": "clinical development"
+  },
+  "https://jobs.boehringer-ingelheim.com/job/Basel-Portfolio-Key-Account-Manager-%28Region-West%29%2C-%28mfd%29-Swit/1289694501/": {
+    "description": "The position We are seeking a seasoned professional to lead and advance Key Account Management in Region West, ensuring a unified customer experience and broad, rapid patient access. The role centers on developing and executing Key Account strategies across the full portfolio - leveraging crossfunctional insights, securing timely formulary inclusion, cocreating initiatives that enhance care pathways, and building strong relationships with key hospital and procurement stakeholders. Tasks & responsibilities As the primary coordinator, lead the development and execution of assigned Key Account plans, in close collaboration with Asset Teams and FieldForce (Medical and Sales) Analyze and synthesize information from multiple sources to understand potential, pressure and the holistic needs of the  accounts; derive meaningful actions based on these insights Prepare and deliver compelling business cases to secure timely formulary inclusion and maximize uptake of BI medicines Identify and co-create initiatives with accounts that optimize care pathways and improve patient outcomes, supporting evidence generation Builds trustful relationships with key account through ongoing collaboration centered on improving patient outcomes and delivering joint value for the customer and Boehringer Ingelheim by ensuring patients and HCPs have access to treatment options Requirements At least 8 years in pharmaceutical sales, market access, or key account management Strong knowledge of Swiss healthcare system, hospital procurement, reimbursement processes, in combination with a strong network with accounts in region WEST Very strong negotiations and communication skills, coupled with the ability to develop clear and crisp account plans Matrix leadership and x-functional mindset: coordinate with various internal teams and operate across different Business Units to deliver a unified customer experience Proven track record of successful development and implementation of multi-stakeholder projects in the healthcare setting Proficiency in German, French and English; Italian is considered a plus Boehringer Ingelheim Switzerland: This is a field-based role in Region WEST - a valid driver’s license and willingness to travel extensively within Switzerland is required Nevertheless, a strong collaboration with the office-based colleagues as well as regular presence in the office of Boehringer Ingelheim Switzerland in Basel is expected Your Benefits Flexible working time models: home office and flexible working hours, depending on department and position – many things are possible with us. Since this is a field-base position, office-time either at the offices or at home is possible in agreement with line manager and job expectations. Learning & development: diverse training and development opportunities for your personal and professional growth. Because: you never stop learning. Attractive and competitive salary package with Performance-based bonus Assigned sales territory with minimal overnight travel Mental health support (EAP, coaching) Collaborative environment with strong team support despite field‑based work Regular team meetings, sales events and kick‑off sessions Appreciative culture with recognition programs Opportunity to actively shape customer relationships and regional market presence We are looking forward to receiving your application online! By uploading your application documents via our application portal, we can treat your data confidentially and in compliance with the GDPR. On our career site you will find further information about Boehringer Ingelheim as an employer as well as information about the application process and our different departments. Would you like to know what makes our employees special? What they tell about their motivation and their everyday work? Watch this video and hear for yourself what our colleagues have to share.",
+    "external_url": "https://jobs.boehringer-ingelheim.com/job/Basel-Portfolio-Key-Account-Manager-%28Region-West%29%2C-%28mfd%29-Swit/1289694501/",
+    "status": "matched"
+  },
+  "https://jobs.boehringer-ingelheim.com/job/Basel-Portfolio-Key-Account-Manager-%28Region-East%29%2C-%28mfd%29-Swit/1289694901/": {
+    "description": "The position We are seeking a seasoned professional to lead and advance Key Account Management in Region EAST, ensuring a unified customer experience and broad, rapid patient access. The role centers on developing and executing Key Account strategies across the full portfolio—leveraging crossfunctional insights, securing timely formulary inclusion, cocreating initiatives that enhance care pathways, and building strong relationships with key hospital and procurement stakeholders. Tasks & responsibilities As the primary coordinator, lead the development and execution of assigned Key Account plans, in close collaboration with Asset Teams and FieldForce (Medical and Sales) Analyze and synthesize information from multiple sources to understand potential, pressure and the holistic needs of the accounts; derive meaningful actions based on these insights Prepare and deliver compelling business cases to secure timely formulary inclusion and maximize uptake of BI medicines Identify and co-create initiatives with accounts that optimize care pathways and improve patient outcomes, supporting evidence generation Builds trustful relationships with key accounts through ongoing collaboration centered on improving patient outcomes and delivering joint value for the customer and Boehringer Ingelheim by ensuring patients and HCPs have access to treatment options Requirements At least 8 years in pharmaceutical sales, market access, or key account management Strong knowledge of Swiss healthcare system, hospital procurement, reimbursement processes, in combination with a strong network with accounts in region EAST Very strong negotiations and communication skills, coupled with the ability to develop clear and crisp account plans Matrix leadership and x-functional mindset: coordinate with various internal teams and operate across different Business Units to deliver a unified customer experience Proven track record of successful development and implementation of multi-stakeholder projects in the healthcare setting Proficiency in German and English; French and Italian are considered a plus Boehringer Ingelheim Switzerland: This is a field-based role in Region EAST - a valid driver’s license and willingness to travel extensively within Switzerland is required Nevertheless, a strong collaboration with the office-based colleagues as well as regular presence in the office of Boehringer Ingelheim Switzerland in Basel is expected Your Benefits Flexible working time models: home office and flexible working hours, depending on department and position – many things are possible with us. Since this is a field-base position, office-time either at the offices or at home is possible in agreement with line manager and job expectations. Learning & development: diverse training and development opportunities for your personal and professional growth. Because: you never stop learning. Attractive and competitive salary package with Performance-based bonus Assigned sales territory with minimal overnight travel Mental health support (EAP, coaching) Collaborative environment with strong team support despite field‑based work Regular team meetings, sales events and kick‑off sessions Appreciative culture with recognition programs Opportunity to actively shape customer relationships and regional market presence We are looking forward to receiving your application online! By uploading your application documents via our application portal, we can treat your data confidentially and in compliance with the GDPR. On our career site you will find further information about Boehringer Ingelheim as an employer as well as information about the application process and our different departments. Would you like to know what makes our employees special? What they tell about their motivation and their everyday work? Watch this video and hear for yourself what our colleagues have to share.",
+    "external_url": "https://jobs.boehringer-ingelheim.com/job/Basel-Portfolio-Key-Account-Manager-%28Region-East%29%2C-%28mfd%29-Swit/1289694901/",
+    "status": "matched"
+  },
+  "https://jobs.boehringer-ingelheim.com/job/Basel-Medical-Science-Liaison-Oncology-%28Lung-Cancer%29-%28mfd%29-Swit/1293209501/": {
+    "description": "The position We are seeking a committed MSL who is ready to break new ground with us. As a Medical Scientific Liaison (MSL) for Oncology , you serve as the central interface at Boehringer Ingelheim for external specialists and health care professionals within Switzerland. In this key role, you promote scientific exchange, support the safe use of our products in clinical practice, and make an important contribution to ongoing medical education. You take on both proactive and reactive tasks, actively bringing your expertise into internal and external working groups. Tasks & responsibilities Act as the main contact for clinical professionals and centers in Switzerland and leading local medical-scientific activities Drive cross-functional projects in close collaboration with teams from Marketing, Medical Affairs, Sales, and Market Access Take on medical-scientific support for our soon-to-be-approved products and/or indications Inform clinical professionals and the specialist audience about the latest clinical study results and product characteristics Design workshops, symposia, and training sessions Seek advice from regional advisory boards Ensure successful events with your professional competence Work closely with the internal teams to select suitable clinical trial centers Represent our company and contribute to the planning and implementation of internal and external training sessions at (inter-)national professional congresses Requirements Successfully completed medical or scientific degree, ideally with a doctorate (PhD, MD) At least several years of professional experience in Medical Affairs (MSL, Scientific/Medical Advisor, etc.), clinical research, complemented by solid product and literature knowledge as well as sound medical fundamentals in the lung cancer space Strong professional and analytical expertise, combined with excellent communication skills and empathy for the perspectives of professionals and colleagues Ability to work independently Cooperative and goal-oriented working style, paired with outstanding management and organizational talents Flexibility and high willingness to travel Fluent in German and English, both spoken and written (French or Italian is a plus) Your Benefits Flexible working time models: Home office and flexible working hours, depending on department and position – many things are possible with us. Since this is a field-based position, office-time either at the offices or at home is possible in agreement with line manager and job expectations Learning & development: diverse training and development opportunities for your personal and professional growth. Because: you never stop learning Attractive and competitive salary package Mental health support (Employee Assistance Program, coaching) Collaborative environment with strong team support despite field‑based work Appreciative culture Opportunity to actively shape customer relationships and regional market presence We are looking forward to receiving your application online! By uploading your application documents via our application portal, we can treat your data confidentially and in compliance with the GDPR. On our career site you will find further information about Boehringer Ingelheim as an employer as well as information about the application process and our different departments. Would you like to know what makes our employees special? What they tell about their motivation and their everyday work? Watch this video and hear for yourself what our colleagues have to share.",
+    "external_url": "https://jobs.boehringer-ingelheim.com/job/Basel-Medical-Science-Liaison-Oncology-%28Lung-Cancer%29-%28mfd%29-Swit/1293209501/",
+    "status": "matched"
+  },
+  "_facets:ferring:Ferring": {
+    "facets": {},
+    "search_texts": [
+      "Switzerland"
+    ],
+    "cached_at": "2026-03-13"
+  },
+  "_facets:roche:roche-ext": {
+    "facets": {},
+    "search_texts": [
+      "Basel",
+      "Kaiseraugst"
+    ],
+    "cached_at": "2026-03-13"
+  },
+  "/job/Basel/Internship-in-Computational-Biology-and-Medicine---Ophthalmology--for-6-month-in-Basel-_202603-106192": {
+    "description": "At Roche you can show up as yourself, embraced for the unique qualities you bring. Our culture encourages personal expression, open dialogue, and genuine connections,  where you are valued, accepted and respected for who you are, allowing you to thrive both personally and professionally. This is how we aim to prevent, stop and cure diseases and ensure everyone has access to healthcare today and for generations to come. Join Roche, where every voice matters. The Position In Roche's Pharma Research and Early Development (pRED) and Genentech Research and Early Development (gRED) organisations , we make transformative medicines for patients in order to tackle some of the world’s toughest unmet healthcare needs. At pRED and gRED, we are united by our mission to transform science into medicines. Together, we create a culture defined by curiosity, responsibility and humility, where our talented people are empowered and inspired to bring forward extraordinary life-changing innovation at speed. The Computational Sciences Centre of Excellence (CS CoE) is a global organisation enabling Roche’s Research and Early Development units to develop novel therapeutics that will have an impact on patient lives. Within the CS CoE, the Computational Biology and Medicine (CBM) department focuses on furthering our understanding of disease pathogenesis, patient populations, and target biology by having access to the largest Pharma R&D datasets in the world. In partnership with our scientists across pRED and gRED, we create better medicines by augmenting every part of R&D through our data-driven culture. The Opportunity: You will be a member of an interdisciplinary team dedicated to advancing our understanding of ocular diseases through the analysis of complex high-dimensional datasets. Your work will contribute to identifying novel biomarkers and potentially novel therapeutic targets by interpreting data from the Aqueous Humour (AH) Atlas. This project is part of the Ophthalmology Precision Medicine (OPM) initiative, involving protein and metabolite expression data from several hundred individuals. You will be responsible for performing pQTL and mQTL analyses, including pre-analytical data management and quality control of phenotypic and genetic data. The role involves post-processing the results to summarize, interpret, and present them in a collaborative and professional manner. You will gain experience in Data Analysis and Insight Generation, specifically focusing on high-dimensional datasets, biomarker development, and data-driven insight generation. You will develop skills in Collaboration and Strategy while working in a team culture that values a collaborative workplace, scientific rigor, open feedback, and scientific growth. Who you are: We are seeking a highly motivated computational intern to join our CBM Neuroscience & Ophthalmology group. You should be enrolled in a Master’s program or be a recent graduate in computational biology, computer science, statistics, or a related field. Candidates must have strong coding skills in R or Python along with experience using version control systems like git. Prior experience working with Omics datasets, such as gene, protein, or metabolite expression data, is considered an important requirement for this role. You should possess a research-driven mindset, where prior research project experience or publications are considered a plus. We are looking for an independent, analytical, and collaborative individual with a passion for translating data into real patient impact. Proficiency in English, both written and verbal, is required to ensure effective communication within our international team. Working knowledge of a Linux/Unix environment and experience processing data on an HPC cluster, as well as prior experience in neuroscience, ophthalmology, or biomarker analyses, are a plus. Application Process: Please upload both your CV and a motivation letter with your application. A certificate of enrolment (if you are currently studying). If you want to use this opportunity to do a Master’s or Diploma thesis, please highlight this in your application. Non-EU/EFTA citizens must attach a confirmation from the university to the application documents, stating that a mandatory internship is part of the education. Additional Information: This position is based in Basel, Switzerland. Duration: 6 months. If you are passionate about collaboration and innovation, Roche is the place for you! Every role at Roche plays a part in making a difference in patients’ lives. Apply now and join us in making an impact! Who we are A healthier future drives us to innovate. Together, more than 100’000 employees across the globe are dedicated to advance science, ensuring everyone has access to healthcare today and for generations to come. Our efforts result in more than 26 million people treated with our medicines and over 30 billion tests conducted using our Diagnostics products. We empower each other to explore new possibilities, foster creativity, and keep our ambitions high, so we can deliver life-changing healthcare solutions that make a global impact. Let’s build a healthier future, together. Roche is an Equal Opportunity Employer.",
+    "external_url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Internship-in-Computational-Biology-and-Medicine---Ophthalmology--for-6-month-in-Basel-_202603-106192",
+    "status": "matched"
+  },
+  "_facets:novartis:Novartis_Careers": {
+    "facets": {},
+    "search_texts": [
+      "Basel",
+      "Stein"
+    ],
+    "cached_at": "2026-03-13"
+  },
+  "_facets:sanofi:SanofiCareers": {
+    "facets": {},
+    "search_texts": [
+      "Switzerland"
+    ],
+    "cached_at": "2026-03-13"
+  },
+  "_facets:abbott:abbottcareers": {
+    "facets": {},
+    "search_texts": [
+      "Switzerland"
+    ],
+    "cached_at": "2026-03-13"
+  },
+  "/job/Switzerland---Basel/Senior-Manager-HEOR_31134799": {
+    "description": "JOB DESCRIPTION: Shape the Future of Healthcare with Abbott Abbott is a global healthcare leader dedicated to helping people live their best lives at every stage. Our portfolio spans life-changing technologies in diagnostics, medical devices, nutrition, and branded generic medicines. With 114,000 colleagues serving patients in 160+ countries , we are committed to advancing health worldwide. Are you passionate about driving evidence-based strategies that improve patient outcomes? At Abbott’s Established Pharmaceutical Division (EPD) , we are looking for a Senior Manager in Health Economics & Outcomes Research to shape global initiatives that make a real impact. About the Role Join us as a Senior Manager in Health Economics & Outcomes Research (HEOR) and help shape access to life-saving therapies in oncology and immunology. This is a unique opportunity to make a global impact while working in a collaborative, inclusive environment that values diverse perspectives. Reporting to the Director, Global HEOR , you will lead strategic and hands-on initiatives across emerging markets (Latin America, Middle East, Asia-Pacific, China, Russia, India, and Africa). Your work will directly influence patient access and affordability, ensuring innovative treatments reach those who need them most. What You’ll Do Lead with purpose : Oversee HEOR projects with external partners, ensuring scientific rigor and timely delivery. Empower teams globally : Co-create country-level HEOR plans and mentor local professionals to build capabilities. Drive innovation : Adapt economic models and guide Real-World Evidence (RWE) studies to meet diverse market needs. Communicate impact : Translate complex data into clear, compelling value stories for HTA submissions and payer negotiations. Collaborate across cultures : Work with cross-functional teams and external stakeholders to strengthen global access strategies. Champion visibility : Lead publication planning and represent HEOR at international congresses. About You 8+ years’ experience in the biotech, pharma or healthcare sector (incl. consulting) with strong focus in Health Economics, Market Access, or related functions/fields Experience across multiple global regions, especially emerging markets Deep knowledge of healthcare system and evolving trends of the major HTA countries and Emerging countries Strong knowledge of health economic modeling and RWE. Proven leadership in cross-functional or cross-country initiatives. Advanced degree (MSc, PhD, PharmD, MPH) in health economics, public health, epidemiology, or related field. Oncology and/or immunology experience preferred. Passion for improving patient access and affordability. What We Offer Inclusive culture : We value diversity and encourage different perspectives to drive innovation. Career growth : Leadership development, mentoring, and exposure to strategic decision-making. Impactful work : Contribute to therapies that change lives worldwide. Do you like the sound of this job and think you’ve got what it takes? Then send us your CV today. We look forward to receiving your application as pdf . (If you want to upload several documents, don`t save in between uploading them to be able to do so. Once you save your uploads, you will not be able to add more documents) The base pay for this position is N/A In specific locations, the pay range may vary from the range posted. JOB FAMILY: Market Access DIVISION: EPD Established Pharma LOCATION: Switzerland > Allschwil : H-127 ADDITIONAL LOCATIONS: WORK SHIFT: Standard TRAVEL: Not specified MEDICAL SURVEILLANCE: Not Applicable SIGNIFICANT WORK ACTIVITIES: Not Applicable",
+    "external_url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Switzerland---Basel/Senior-Manager-HEOR_31134799",
+    "status": "matched"
+  },
+  "_facets:pfizer:PfizerCareers": {
+    "facets": {},
+    "search_texts": [
+      "Switzerland"
+    ],
+    "cached_at": "2026-03-13"
+  },
+  "_facets:gsk:GSKCareers": {
+    "facets": {},
+    "search_texts": [
+      "Switzerland"
+    ],
+    "cached_at": "2026-03-13"
+  },
+  "_facets:astrazeneca:Careers": {
+    "facets": {},
+    "search_texts": [
+      "Switzerland"
+    ],
+    "cached_at": "2026-03-13"
+  },
+  "_facets:amgen:Careers": {
+    "facets": {},
+    "search_texts": [
+      "Switzerland"
+    ],
+    "cached_at": "2026-03-13"
+  },
+  "_facets:gilead:gileadcareers": {
+    "facets": {},
+    "search_texts": [
+      "Switzerland"
+    ],
+    "cached_at": "2026-03-13"
+  },
+  "_facets:modernatx:M_tx": {
+    "facets": {},
+    "search_texts": [
+      "Switzerland"
+    ],
+    "cached_at": "2026-03-13"
+  },
+  "_facets:takeda:External": {
+    "facets": {},
+    "search_texts": [
+      "Zurich",
+      "Zug",
+      "Glattpark"
+    ],
+    "cached_at": "2026-03-13"
+  },
+  "_facets:beigene:BeiGene": {
+    "facets": {},
+    "search_texts": [
+      "Switzerland"
+    ],
+    "cached_at": "2026-03-13"
+  },
+  "_facets:msd:SearchJobs": {
+    "facets": {},
+    "search_texts": [
+      "Switzerland"
+    ],
+    "cached_at": "2026-03-13"
+  },
+  "_facets:vrtx:Vertex_Careers": {
+    "facets": {},
+    "search_texts": [
+      "Switzerland"
+    ],
+    "cached_at": "2026-03-13"
+  },
+  "_facets:lonza:Lonza_Careers": {
+    "facets": {},
+    "search_texts": [
+      "Basel",
+      "Visp",
+      "Stein"
+    ],
+    "cached_at": "2026-03-13"
+  },
+  "_facets:csl:CSL_External": {
+    "facets": {},
+    "search_texts": [
+      "Bern",
+      "Villars-sur-Gl",
+      "St. Gallen",
+      "Romont"
+    ],
+    "cached_at": "2026-03-13"
+  },
+  "_facets:alcon:careers_alcon": {
+    "facets": {},
+    "search_texts": [
+      "Geneva",
+      "Hünenberg",
+      "Zurich"
+    ],
+    "cached_at": "2026-03-13"
+  },
+  "_facets:galderma:External": {
+    "facets": {},
+    "search_texts": [
+      "Zug",
+      "La Tour-de-Peilz",
+      "Lausanne"
+    ],
+    "cached_at": "2026-03-13"
+  },
+  "_facets:iqvia:IQVIA": {
+    "facets": {},
+    "search_texts": [
+      "Switzerland"
+    ],
+    "cached_at": "2026-03-13"
+  },
+  "_facets:icon:broadbean_external": {
+    "facets": {},
+    "search_texts": [
+      "Switzerland"
+    ],
+    "cached_at": "2026-03-13"
+  },
+  "_facets:parexel:Parexel_External_Careers": {
+    "facets": {},
+    "search_texts": [
+      "Switzerland"
+    ],
+    "cached_at": "2026-03-13"
+  },
+  "_facets:syneoshealth:Syneos_Health_External_Site": {
+    "facets": {},
+    "search_texts": [
+      "Switzerland"
+    ],
+    "cached_at": "2026-03-13"
+  },
+  "_facets:myhrabc:Global": {
+    "facets": {},
+    "search_texts": [
+      "Switzerland"
+    ],
+    "cached_at": "2026-03-13"
+  },
+  "_facets:thermofisher:ThermoFisherCareers": {
+    "facets": {},
+    "search_texts": [
+      "Switzerland"
+    ],
+    "cached_at": "2026-03-13"
+  },
+  "_facets:danaher:DanaherJobs": {
+    "facets": {},
+    "search_texts": [
+      "Switzerland"
+    ],
+    "cached_at": "2026-03-13"
+  },
+  "_facets:illumina:illumina-careers": {
+    "facets": {},
+    "search_texts": [
+      "Switzerland"
+    ],
+    "cached_at": "2026-03-13"
+  },
+  "_facets:qiagen:QIAGEN": {
+    "facets": {},
+    "search_texts": [
+      "Switzerland"
+    ],
+    "cached_at": "2026-03-13"
+  },
+  "_facets:agilent:Agilent_Careers": {
+    "facets": {},
+    "search_texts": [
+      "Switzerland"
+    ],
+    "cached_at": "2026-03-13"
+  },
+  "_facets:jsrglobal:KBI_Biopharma": {
+    "facets": {},
+    "search_texts": [
+      "Switzerland"
+    ],
+    "cached_at": "2026-03-13"
   }
 }
