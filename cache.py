@@ -30,16 +30,45 @@ Pruning contract:
 
 import json
 import logging
+import os
 import threading
 from pathlib import Path
 
 logger = logging.getLogger(__name__)
 
 _CACHE_FILE = Path("seen_jobs.json")
+_TMP_FILE   = Path("seen_jobs.json.tmp")
 
 # In-memory store — populated by load(), mutated by put(), read by get().
 _store: dict[str, dict] = {}
+# Reverse index: external_url → cache key — kept in sync with _store so that
+# get_status() / set_status() run in O(1) instead of O(N).
+_url_to_key: dict[str, str] = {}
 _lock = threading.Lock()
+
+
+def _rebuild_index() -> None:
+    """Rebuild _url_to_key from _store.  Caller must hold _lock."""
+    global _url_to_key
+    _url_to_key = {
+        v["external_url"]: k
+        for k, v in _store.items()
+        if "external_url" in v
+    }
+
+
+def _atomic_write(data: dict) -> None:
+    """Serialize *data* to a .tmp file then atomically replace the cache file.
+
+    Using os.replace() guarantees the on-disk file is never in a partial state:
+    if the process crashes mid-write, the original seen_jobs.json is untouched
+    and only the .tmp file may be left behind.
+    """
+    _TMP_FILE.write_text(
+        json.dumps(data, indent=2, ensure_ascii=False),
+        encoding="utf-8",
+    )
+    os.replace(_TMP_FILE, _CACHE_FILE)
 
 
 def load() -> None:
@@ -56,6 +85,7 @@ def load() -> None:
     except (json.JSONDecodeError, OSError) as exc:
         logger.warning("Cache: failed to load %s (%s) — starting empty", _CACHE_FILE, exc)
         _store = {}
+    _rebuild_index()
 
 
 def known_urls() -> set[str]:
@@ -84,6 +114,7 @@ def put(key: str, description: str, external_url: str) -> None:
     with _lock:
         existing_status = _store.get(key, {}).get("status", "matched")
         _store[key] = {"description": description, "external_url": external_url, "status": existing_status}
+        _url_to_key[external_url] = key
 
 
 def get_generic_alert(company: str) -> str | None:
@@ -101,33 +132,39 @@ def put_generic_alert(company: str, keywords_str: str) -> None:
 
 
 def get_status(external_url: str) -> str:
-    """Return the triage status for a job, defaulting to 'matched'."""
+    """Return the triage status for a job, defaulting to 'matched'.
+
+    O(1) via the _url_to_key reverse index.
+    """
     with _lock:
-        for v in _store.values():
-            if v.get("external_url") == external_url:
-                return v.get("status", "matched")
-        return "matched"
+        key = _url_to_key.get(external_url)
+        if key:
+            return _store.get(key, {}).get("status", "matched")
+        # Fallback: check the _statuses dict (used by generic monitor jobs)
+        return _store.get("_statuses", {}).get(external_url, "matched")
 
 
 def set_status(external_url: str, status: str) -> None:
-    """Update the triage status for a job identified by its public URL."""
+    """Update the triage status for a job identified by its public URL.
+
+    O(1) via the _url_to_key reverse index.
+    """
     with _lock:
-        for v in _store.values():
-            if v.get("external_url") == external_url:
-                v["status"] = status
-                return
-        # URL not yet in cache (e.g. generic monitor job) — store in a fallback dict
-        if "_statuses" not in _store:
-            _store["_statuses"] = {}
-        _store["_statuses"][external_url] = status
+        key = _url_to_key.get(external_url)
+        if key:
+            _store[key]["status"] = status
+        else:
+            # URL not in main cache (e.g. generic monitor job)
+            if "_statuses" not in _store:
+                _store["_statuses"] = {}
+            _store["_statuses"][external_url] = status
 
 
 def save() -> None:
     """Persist the current in-memory cache to disk without pruning."""
     with _lock:
         try:
-            with _CACHE_FILE.open("w", encoding="utf-8") as fh:
-                json.dump(_store, fh, indent=2, ensure_ascii=False)
+            _atomic_write(_store)
             logger.info("Cache: saved to %s", _CACHE_FILE)
         except OSError as exc:
             logger.error("Cache: failed to write %s: %s", _CACHE_FILE, exc)
@@ -160,9 +197,9 @@ def prune_and_save(active_urls: set[str]) -> None:
                 "Cache: pruned %d stale entr%s (%d active remain)",
                 pruned, "y" if pruned == 1 else "ies", len(_store),
             )
+        _rebuild_index()
         try:
-            with _CACHE_FILE.open("w", encoding="utf-8") as fh:
-                json.dump(_store, fh, indent=2, ensure_ascii=False)
+            _atomic_write(_store)
             logger.info("Cache: saved %d entr%s to %s",
                         len(_store), "y" if len(_store) == 1 else "ies", _CACHE_FILE)
         except OSError as exc:

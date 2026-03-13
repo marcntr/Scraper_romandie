@@ -18,9 +18,8 @@ Phase 2 — Per-job detail fetch (description only).
 
 import json
 import logging
-import random
 import re
-import time
+from concurrent.futures import ThreadPoolExecutor, as_completed
 
 import requests
 
@@ -35,8 +34,7 @@ _BASE          = "https://recruiting.paylocity.com"
 _LISTING_URL   = _BASE + "/recruiting/jobs/All/{company_guid}/{company_slug}"
 _DETAIL_URL    = _BASE + "/Recruiting/Jobs/Details/{job_id}"
 
-# Rate-limiting constants
-_DETAIL_DELAY = 1.0   # seconds between per-job detail fetches
+_PHASE2_WORKERS = 4   # concurrent detail fetches
 
 
 class PaylocityScraper(BaseScraper):
@@ -99,28 +97,48 @@ class PaylocityScraper(BaseScraper):
         if not candidates:
             return []
 
-        # ── Phase 2: fetch description for each candidate ─────────────────
+        # ── Phase 2: fetch descriptions concurrently ──────────────────────
         jobs: list[Job] = []
-        fetch_count = 0
-        for raw in candidates:
-            job_id = raw.get("JobId") or ""
-            cached = job_cache.get(job_id) if job_id else None
-            if cached:
-                job = self._parse_job(raw, "", description=cached["description"])
-            else:
-                if fetch_count > 0:
-                    time.sleep(random.uniform(_DETAIL_DELAY, _DETAIL_DELAY * 2))
-                detail_html = self._fetch_detail(session, job_id)
-                fetch_count += 1
-                job = self._parse_job(raw, detail_html)
-                if job and job_id:
-                    job_cache.put(job_id, job.description, job.url)
-            if job:
-                jobs.append(job)
+        with ThreadPoolExecutor(max_workers=_PHASE2_WORKERS,
+                                thread_name_prefix="paylocity") as pool:
+            futures = {
+                pool.submit(self._fetch_one, raw): raw
+                for raw in candidates
+            }
+            for future in as_completed(futures):
+                try:
+                    job = future.result()
+                    if job:
+                        jobs.append(job)
+                except Exception as exc:
+                    raw = futures[future]
+                    logger.warning("[%s] Detail fetch raised for job %s: %s",
+                                   self.company, raw.get("JobId"), exc)
 
         logger.info("[%s] Phase 2 complete: %d jobs with descriptions",
                     self.company, len(jobs))
         return jobs
+
+    # ------------------------------------------------------------------
+    # Per-job detail fetch (called from thread pool)
+    # ------------------------------------------------------------------
+
+    def _fetch_one(self, raw: dict) -> Job | None:
+        """Fetch description for a single candidate and return a Job.
+
+        Each thread builds its own session to avoid sharing connection state
+        across concurrent requests.  Cache hits skip the network entirely.
+        """
+        job_id = raw.get("JobId") or ""
+        cached = job_cache.get(job_id) if job_id else None
+        if cached:
+            return self._parse_job(raw, "", description=cached["description"])
+        session     = self.build_session()
+        detail_html = self._fetch_detail(session, job_id)
+        job         = self._parse_job(raw, detail_html)
+        if job and job_id:
+            job_cache.put(job_id, job.description, job.url)
+        return job
 
     # ------------------------------------------------------------------
     # Parsing helpers
