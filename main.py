@@ -294,6 +294,7 @@ def _scrape_one(
     matched = [score_job(j) for j in matched]
     for j in matched:
         j.status = job_cache.get_status(j.url)
+        job_cache.update_snapshot(j.url, j)
     logger.info(
         "[%s] %d total open | %d passed filters",
         cfg["name"], len(all_jobs), len(matched),
@@ -377,6 +378,15 @@ def run(show_all: bool = False) -> list[Job]:
         if date_val is None:
             return (1, 0, 0)
         return (0, -date_val.timestamp(), -j.score)
+
+    # ── Applied archive: re-inject jobs no longer live but previously applied ─
+    # These are excluded from all_scraped_urls so prune_and_save would normally
+    # remove them — but the immortality rule in prune_and_save keeps them in
+    # seen_jobs.json.  We re-hydrate them here so the Applied tab stays intact.
+    live_urls = {j.url for j in all_matched}
+    for j in job_cache.get_applied_archive():
+        if j.url not in live_urls:
+            all_matched.append(j)
 
     all_matched.sort(key=_sort_key)
     _print_job_table(all_matched, "FILTERED & SCORED MATCHES (location + title)")

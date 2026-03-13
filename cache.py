@@ -111,11 +111,73 @@ def get(key: str) -> dict | None:
 
 
 def put(key: str, description: str, external_url: str) -> None:
-    """Store or update an entry, preserving existing status."""
+    """Store or update an entry, preserving existing status and snapshot fields."""
     with _lock:
-        existing_status = _store.get(key, {}).get("status", "matched")
-        _store[key] = {"description": description, "external_url": external_url, "status": existing_status}
+        existing = _store.get(key, {})
+        _store[key] = {
+            **existing,
+            "description":  description,
+            "external_url": external_url,
+            "status":       existing.get("status", "matched"),
+        }
         _url_to_key[external_url] = key
+
+
+def update_snapshot(external_url: str, job) -> None:
+    """Persist scored job metadata so the Applied archive can reconstruct
+    full job cards without re-scraping.
+
+    Called once per matched job after scoring.  Creates a new stub entry
+    if none exists yet (e.g. for HTML scrapers that never call put()).
+    Never overwrites an existing status value.
+    """
+    with _lock:
+        key = _url_to_key.get(external_url)
+        if key is None:
+            # HTML scraper — no description cache entry yet; create a stub.
+            key = external_url
+            _store[key] = {"external_url": external_url, "status": "matched"}
+            _url_to_key[external_url] = key
+        _store[key].update({
+            "title":             job.title,
+            "company":           job.company,
+            "location":          job.location,
+            "posted_date":       job.posted_date,
+            "department":        job.department,
+            "score":             job.score,
+            "matched_keywords":  sorted(job.matched_keywords),
+            "deducted_keywords": sorted(job.deducted_keywords),
+        })
+
+
+def get_applied_archive() -> list:
+    """Return Job objects for every 'applied' cache entry that has a snapshot.
+
+    Used by main.py to populate the Applied tab with archived jobs that are
+    no longer live on the web.  Entries without a ``title`` field are stubs
+    (status was set before a snapshot was taken) and are skipped.
+    """
+    from models import Job  # local import — avoids circular dependency at module level
+    jobs: list[Job] = []
+    with _lock:
+        for v in _store.values():
+            if v.get("status") != "applied" or not v.get("title"):
+                continue
+            j = Job(
+                title=v.get("title", ""),
+                company=v.get("company", ""),
+                location=v.get("location", ""),
+                url=v.get("external_url", ""),
+                posted_date=v.get("posted_date", ""),
+                department=v.get("department", ""),
+                description=v.get("description", ""),
+                score=v.get("score", 0),
+                status="applied",
+            )
+            j.matched_keywords  = set(v.get("matched_keywords",  []))
+            j.deducted_keywords = set(v.get("deducted_keywords", []))
+            jobs.append(j)
+    return jobs
 
 
 _FACET_TTL_DAYS = 7
@@ -223,7 +285,9 @@ def prune_and_save(active_urls: set[str]) -> None:
         before = len(_store)
         _store = {
             k: v for k, v in _store.items()
-            if k.startswith("_") or v.get("external_url") in active_urls
+            if k.startswith("_")
+            or v.get("external_url") in active_urls
+            or v.get("status") == "applied"   # applied entries are immortal
         }
         pruned = before - len(_store)
         if pruned:
