@@ -9,6 +9,7 @@ import os
 import re
 from datetime import datetime
 
+from config import TITLE_FILTERS
 from models import Job
 
 
@@ -672,8 +673,8 @@ def export_html(
     alert_cards_html = "\n".join(_alert_card(c, a) for c, a in alerts)
     company_rows_html = "\n".join(_company_row(cfg) for cfg in all_cfgs)
 
-    company_options = "\n".join(
-        f'<option value="{_esc(c)}">{_esc(c)}</option>' for c in job_companies
+    title_filter_items = "\n".join(
+        f'      <li>{_esc(t)}</li>' for t in TITLE_FILTERS
     )
 
     page = f"""<!DOCTYPE html>
@@ -1099,6 +1100,15 @@ a {{ color: inherit; text-decoration: none; }}
   text-align: center;
   font-size: 13px;
 }}
+/* ── Screening filters tab ── */
+#tab-screening li {{
+  background: #1e293b;
+  border: 1px solid #334155;
+  border-radius: 6px;
+  padding: 5px 12px;
+  font-size: 13px;
+  color: #cbd5e1;
+}}
 </style>
 </head>
 <body>
@@ -1106,13 +1116,6 @@ a {{ color: inherit; text-decoration: none; }}
 <div class="header">
   <h1>Biopharma Job Dashboard</h1>
   <div class="subtitle">Run: {_esc(timestamp)}</div>
-  <div class="stats">
-    <div class="stat-chip"><strong>{n_matched}</strong> matched jobs</div>
-    <div class="stat-chip"><strong>{n_ignored}</strong> ignored</div>
-    <div class="stat-chip"><strong>{n_applied}</strong> applied</div>
-    <div class="stat-chip"><strong>{n_alerts}</strong> alerts</div>
-    <div class="stat-chip"><strong>{n_monitored}</strong> companies monitored</div>
-  </div>
 </div>
 
 <div class="tab-bar">
@@ -1121,34 +1124,13 @@ a {{ color: inherit; text-decoration: none; }}
   <button id="tab-btn-applied" class="tab-btn" onclick="showTab(this,'applied')">Applied ({n_applied})</button>
   {f'<button class="tab-btn" onclick="showTab(this,\'alerts\')">Alerts ({n_alerts})</button>' if n_alerts else ''}
   <button class="tab-btn" onclick="showTab(this,'companies')">Companies ({n_monitored})</button>
+  <button class="tab-btn" onclick="showTab(this,'screening')">Screening ({len(TITLE_FILTERS)})</button>
 </div>
 
 <div class="content">
 
   <!-- ── Matched Jobs tab ── -->
   <div id="tab-matched" class="tab-panel active">
-    <div class="filter-bar">
-      <input type="text" id="filter-text" placeholder="Search title, company, keywords…" oninput="applyFilters()">
-      <select id="filter-company" onchange="applyFilters()">
-        <option value="">All companies</option>
-        {company_options}
-      </select>
-      <select id="filter-score" onchange="applyFilters()">
-        <option value="">Any score</option>
-        <option value="6">Score ≥ 6</option>
-        <option value="3">Score ≥ 3</option>
-        <option value="1">Score ≥ 1</option>
-        <option value="0">Score ≥ 0</option>
-      </select>
-      <select id="filter-location" onchange="applyFilters()">
-        <option value="">All locations</option>
-        <option value="romandie">Romandie</option>
-        <option value="switzerland">Switzerland</option>
-      </select>
-      <button class="sort-btn active" id="sort-date-btn" onclick="setSort('date')">Date ↓</button>
-      <button class="sort-btn" id="sort-score-btn" onclick="setSort('score')">Score ↓</button>
-    </div>
-    <div class="results-count" id="results-count">{n_matched} job{'s' if n_matched != 1 else ''} shown</div>
     <div id="job-list">
       {job_cards_html if job_cards_html.strip() else '<div class="triage-empty">No matched jobs this run.</div>'}
     </div>
@@ -1170,6 +1152,14 @@ a {{ color: inherit; text-decoration: none; }}
 
   <!-- ── Alerts tab (only rendered when there are alerts) ── -->
   {f'<div id="tab-alerts" class="tab-panel">{alert_cards_html}</div>' if n_alerts else ''}
+
+  <!-- ── Screening Filters tab ── -->
+  <div id="tab-screening" class="tab-panel">
+    <h3 style="margin-bottom:16px;font-size:15px;color:#e2e8f0">Title filters ({len(TITLE_FILTERS)} terms)</h3>
+    <ul style="list-style:none;display:flex;flex-wrap:wrap;gap:8px">
+{title_filter_items}
+    </ul>
+  </div>
 
   <!-- ── Companies tab ── -->
   <div id="tab-companies" class="tab-panel">
@@ -1226,8 +1216,6 @@ function updateTabCounts() {{
   document.getElementById('tab-btn-matched').textContent = 'Matched Jobs (' + nM + ')';
   document.getElementById('tab-btn-ignored').textContent = 'Ignored (' + nI + ')';
   document.getElementById('tab-btn-applied').textContent = 'Applied (' + nA + ')';
-  document.getElementById('results-count').textContent =
-    nM + ' job' + (nM === 1 ? '' : 's') + ' shown';
 }}
 
 // ── Triage: rebuild action buttons after a status change ──
@@ -1297,89 +1285,8 @@ function filterCompanies() {{
     visible + ' compan' + (visible === 1 ? 'y' : 'ies') + ' monitored';
 }}
 
-// ── Sort ──
-let currentSort = 'date';
-
-function setSort(s) {{
-  currentSort = s;
-  document.getElementById('sort-date-btn').classList.toggle('active', s === 'date');
-  document.getElementById('sort-score-btn').classList.toggle('active', s === 'score');
-  localStorage.setItem('jd_sort', s);
-  applyFilters();
-}}
-
-// ── Jobs filter + sort ──
-function applyFilters() {{
-  const text    = document.getElementById('filter-text').value.toLowerCase();
-  const company = document.getElementById('filter-company').value;
-  const score   = document.getElementById('filter-score').value;
-  const loc     = document.getElementById('filter-location').value;
-
-  // Persist filter state
-  localStorage.setItem('jd_text',     document.getElementById('filter-text').value);
-  localStorage.setItem('jd_company',  company);
-  localStorage.setItem('jd_score',    score);
-  localStorage.setItem('jd_location', loc);
-
-  const list  = document.getElementById('job-list');
-  const cards = Array.from(list.querySelectorAll('.job-card'));
-
-  // Sort cards in DOM before applying visibility
-  cards.sort((a, b) => {{
-    if (currentSort === 'score') {{
-      const sd = parseInt(b.dataset.score, 10) - parseInt(a.dataset.score, 10);
-      if (sd !== 0) return sd;
-      return (b.dataset.date || '').localeCompare(a.dataset.date || '');
-    }} else {{
-      const dd = (b.dataset.date || '').localeCompare(a.dataset.date || '');
-      if (dd !== 0) return dd;
-      return parseInt(b.dataset.score, 10) - parseInt(a.dataset.score, 10);
-    }}
-  }});
-  cards.forEach(card => list.appendChild(card));
-
-  // Apply visibility filters
-  let visible = 0;
-  cards.forEach(card => {{
-    const cardText    = card.dataset.text || '';
-    const cardCompany = card.dataset.company || '';
-    const cardScore   = parseInt(card.dataset.score, 10);
-    const cardLoc     = card.dataset.location || '';
-
-    const matchText    = !text    || cardText.includes(text);
-    const matchCompany = !company || cardCompany === company;
-    const matchScore   = !score   || cardScore >= parseInt(score, 10);
-    const matchLoc     = !loc     || cardLoc === loc;
-
-    if (matchText && matchCompany && matchScore && matchLoc) {{
-      card.style.display = '';
-      visible++;
-    }} else {{
-      card.style.display = 'none';
-    }}
-  }});
-
-  document.getElementById('results-count').textContent =
-    visible + ' job' + (visible === 1 ? '' : 's') + ' shown';
-}}
-
-// ── Init: restore persisted state then render ──
+// ── Init: restore triage statuses persisted from previous sessions ──
 (function init() {{
-  const txt = localStorage.getItem('jd_text');
-  const co  = localStorage.getItem('jd_company');
-  const sc  = localStorage.getItem('jd_score');
-  const lo  = localStorage.getItem('jd_location');
-  const so  = localStorage.getItem('jd_sort');
-  if (txt) document.getElementById('filter-text').value = txt;
-  if (co)  document.getElementById('filter-company').value = co;
-  if (sc)  document.getElementById('filter-score').value = sc;
-  if (lo)  document.getElementById('filter-location').value = lo;
-  if (so) {{
-    currentSort = so;
-    document.getElementById('sort-date-btn').classList.toggle('active', so === 'date');
-    document.getElementById('sort-score-btn').classList.toggle('active', so === 'score');
-  }}
-  // Restore triage statuses persisted from previous sessions
   document.querySelectorAll('.job-card').forEach(card => {{
     const saved = localStorage.getItem('jd_s_' + card.dataset.url);
     if (!saved || saved === card.dataset.status) return;
@@ -1390,7 +1297,6 @@ function applyFilters() {{
     renderTriageBtns(card, saved);
   }});
   updateTabCounts();
-  applyFilters();
 }})();
 </script>
 

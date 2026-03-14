@@ -86,6 +86,8 @@ TITLE_FILTERS: list[str] = [
     # Implementation / professional services (relevant for life science SaaS)
     "implementation manager",
     "implementation specialist",
+    # Research scientist variants
+    "investigator",
 ]
 
 # ---------------------------------------------------------------------------
@@ -844,12 +846,11 @@ COMPANIES: list[dict] = [
         "careers_url": "https://insilico.com/careers/",
         "keywords": TITLE_FILTERS,
     },
-    # Owkin (French AI biomarker company; Swiss pharma partners)
+    # Owkin (French AI biomarker company; Swiss pharma partners) — Ashby board
     {
         "name": "Owkin",
-        "ats": "generic",
-        "careers_url": "https://owkin.com/jobs/",
-        "keywords": TITLE_FILTERS,
+        "ats": "ashby",
+        "slug": "owkin",
     },
     # DNAnexus (genomics cloud; possible Swiss affiliate roles)
     {
@@ -870,6 +871,21 @@ COMPANIES: list[dict] = [
         "name": "Tempus",
         "ats": "generic",
         "careers_url": "https://www.tempus.com/careers/",
+        "keywords": TITLE_FILTERS,
+    },
+    # IGI Innovate / Ichnos Sciences (Epalinges, Vaud — bispecific antibodies)
+    # SuccessFactors hosted at career41.sapsf.com via careers.iginnovate.com
+    {
+        "name": "IGI Innovate / Ichnos Sciences",
+        "ats": "successfactors",
+        "careers_url": "https://careers.iginnovate.com",
+        "location_terms": ["switzerland"],
+    },
+    # Nanolive (Tolochenaz, Vaud — live cell imaging; plain WordPress jobs page)
+    {
+        "name": "Nanolive",
+        "ats": "generic",
+        "careers_url": "https://www.nanolive.com/about/jobs/",
         "keywords": TITLE_FILTERS,
     },
     # ── Not yet scrapable / no public careers page ────────────────────────────
