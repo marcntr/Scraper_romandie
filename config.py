@@ -83,6 +83,9 @@ TITLE_FILTERS: list[str] = [
     "scientific communications",
     "medical communications",
     "medical writer",
+    # Implementation / professional services (relevant for life science SaaS)
+    "implementation manager",
+    "implementation specialist",
 ]
 
 # ---------------------------------------------------------------------------
@@ -270,12 +273,10 @@ COMPANIES: list[dict] = [
         "location_terms": ["switzerland"],
     },
     # ── Phase 6: Greenhouse ──────────────────────────────────────────────────
-    # Benchling Greenhouse board token returns 404 — converted to generic monitor.
     {
         "name": "Benchling",
-        "ats": "generic",
-        "careers_url": "https://www.benchling.com/careers",
-        "keywords": TITLE_FILTERS,
+        "ats": "ashby",
+        "slug": "benchling",
     },
     # ── Phase 6: SmartRecruiters API ─────────────────────────────────────────
     # AbbVie (Cham) — SmartRecruiters public API, country=ch filter
@@ -1018,6 +1019,10 @@ EXCLUDE_TITLE_PATTERNS: list[str] = [
 # Scoring — positive keywords (+1 per unique match, title + description)
 # ---------------------------------------------------------------------------
 SCORE_POSITIVE: list[str] = [
+    # Language skills
+    "French",
+    "bilingual",
+    "francophone",
     # Qualifications
     "PhD",
     "Post-doc",

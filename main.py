@@ -21,6 +21,7 @@ from filters import apply_filters, score_job
 from models import Job
 from scrapers.generic_monitor import GenericMonitor
 from scrapers.alecallan import AlecAllanScraper
+from scrapers.ashby import AshbyScraper
 from scrapers.gloorlang import GloorLangScraper
 from scrapers.greenhouse import GreenhouseScraper
 from scrapers.hayatx import HayaTxScraper
@@ -66,6 +67,7 @@ _REQUIRED_FIELDS: dict[str, list[str]] = {
     "greenhouse":      ["board_token"],
     "successfactors":  ["careers_url"],
     "smartrecruiters": ["company_id"],
+    "ashby":           ["slug"],
     "generic":         ["careers_url"],
 }
 
@@ -211,6 +213,14 @@ def _build_scraper(cfg: dict):
             company=name,
             location_terms=LOCATION_FILTERS,
             title_terms=TITLE_FILTERS,
+        )
+
+    if ats == "ashby":
+        return AshbyScraper(
+            company=name,
+            slug=cfg["slug"],
+            location_terms=LOCATION_FILTERS,
+            title_terms=cfg.get("title_terms", TITLE_FILTERS),
         )
 
     if ats == "generic":
