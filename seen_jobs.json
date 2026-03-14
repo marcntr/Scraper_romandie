@@ -5,7 +5,7 @@
     "title": "Machine Learning Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-03-06",
+    "posted_date": "2026-03-05",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -20,7 +20,7 @@
     "title": "Scientist, Antibiotics Discovery",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-02-27",
+    "posted_date": "2026-02-26",
     "department": "",
     "score": 8,
     "matched_keywords": [
@@ -41,7 +41,7 @@
     "title": "(Sr.) Scientist, Development (Parenteral Drug Product)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-03-07",
+    "posted_date": "2026-03-06",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -53,7 +53,7 @@
     "title": "Post Doctorate Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-02-26",
+    "posted_date": "2026-02-25",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -69,7 +69,7 @@
     "title": "Post Doctorate Scientist (Organoid Systems Biology) - Institute of Human Biology",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-02-24",
+    "posted_date": "2026-02-23",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -84,7 +84,7 @@
     "title": "Senior Scientist - Mucosal Immunology",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-02-14",
+    "posted_date": "2026-02-13",
     "department": "",
     "score": 8,
     "matched_keywords": [
@@ -126,7 +126,7 @@
     "title": "Senior Scientist – Small Scale Oligonucleotide Synthesis (80-100%*)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-02-26",
+    "posted_date": "2026-02-25",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -155,7 +155,7 @@
     "title": "Associate Director, EUCAN Regulatory Lead - Oncology",
     "company": "Takeda",
     "location": "Zurich, Switzerland",
-    "posted_date": "2026-02-13",
+    "posted_date": "2026-02-12",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -170,7 +170,7 @@
     "title": "Associate Director, EUCAN Regulatory Lead - GI and Inflammation",
     "company": "Takeda",
     "location": "Zurich, Switzerland",
-    "posted_date": "2026-03-03",
+    "posted_date": "2026-03-02",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -199,7 +199,7 @@
     "title": "Senior Scientist, Material Qualification & Release (QC GMP)",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-02-14",
+    "posted_date": "2026-02-13",
     "department": "",
     "score": -1,
     "matched_keywords": [
@@ -432,7 +432,7 @@
     "title": "Scientist Microbiological Quality Control",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-03-14",
+    "posted_date": "",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -577,7 +577,7 @@
     "title": "Internship in Computational Biology and Medicine - Ophthalmology (for 6 month in Basel)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-03-14",
+    "posted_date": "",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -976,5 +976,8 @@
     "deducted_keywords": [
       "location:Switzerland"
     ]
+  },
+  "_generic:dsm-firmenich": {
+    "keywords": "npp"
   }
 }
