@@ -2250,28 +2250,28 @@ function renderTriageBtns(card, status) {
   }
 }
 
-// ── Triage: call API then move card ──
-async function setJobStatus(btn, newStatus) {
-  const card = btn.closest('.job-card');
-  const url  = card.dataset.url;
-  try {
-    const resp = await fetch('/api/status', {
-      method:  'POST',
-      headers: {'Content-Type': 'application/json'},
-      body:    JSON.stringify({url, status: newStatus}),
-    });
-    if (!resp.ok) throw new Error('Server returned ' + resp.status);
-  } catch(e) {
-    alert('Status update failed — is server.py running?
-(' + e.message + ')');
-    return;
-  }
+// ── Triage: move card, persist locally, best-effort API sync ──
+function setJobStatus(btn, newStatus) {
+  const card   = btn.closest('.job-card');
+  const jobUrl = card.dataset.url;
+
+  // Move card immediately – works with or without server
   const listId = newStatus === 'matched'  ? 'job-list'
                : newStatus === 'ignored'  ? 'ignored-list'
                :                            'applied-list';
   document.getElementById(listId).prepend(card);
   renderTriageBtns(card, newStatus);
   updateTabCounts();
+
+  // Persist locally so status survives page refresh
+  try { localStorage.setItem('jd_s_' + jobUrl, newStatus); } catch(_) {}
+
+  // Best-effort sync to server.py if it happens to be running
+  fetch('/api/status', {
+    method:  'POST',
+    headers: {'Content-Type': 'application/json'},
+    body:    JSON.stringify({url: jobUrl, status: newStatus}),
+  }).catch(() => {});
 }
 
 // ── Description toggle ──
@@ -2385,6 +2385,17 @@ function applyFilters() {
     document.getElementById('sort-date-btn').classList.toggle('active', so === 'date');
     document.getElementById('sort-score-btn').classList.toggle('active', so === 'score');
   }
+  // Restore triage statuses persisted from previous sessions
+  document.querySelectorAll('.job-card').forEach(card => {
+    const saved = localStorage.getItem('jd_s_' + card.dataset.url);
+    if (!saved || saved === card.dataset.status) return;
+    const listId = saved === 'matched' ? 'job-list'
+                 : saved === 'ignored' ? 'ignored-list'
+                 :                       'applied-list';
+    document.getElementById(listId).prepend(card);
+    renderTriageBtns(card, saved);
+  });
+  updateTabCounts();
   applyFilters();
 })();
 </script>

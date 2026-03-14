@@ -143,11 +143,11 @@ def score_job(job: Job) -> Job:
 
     # -- Geographic bonus: +4 Romandie, 0 major hubs, -2 elsewhere ----------
     loc = job.location.lower()
-    matched_loc = next((t for t in SCORE_LOCATION_POSITIVE if t in loc), None)
+    matched_loc = next((t for t in SCORE_LOCATION_POSITIVE if t.lower() in loc), None)
     if matched_loc:
         job.score += 4
         job.matched_keywords.add(f"location:{matched_loc}")
-    elif not any(t in loc for t in SCORE_LOCATION_NEUTRAL):
+    elif not any(t.lower() in loc for t in SCORE_LOCATION_NEUTRAL):
         job.score -= 2
         job.deducted_keywords.add(f"location:{job.location}")
 

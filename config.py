@@ -1116,7 +1116,7 @@ SCORE_NEGATIVE_REGEX: list[str] = [
 #    0  : location matches a major Swiss hub outside the primary target
 #   -2  : location matches neither list (elsewhere / unrecognised)
 #
-# "remote" is in the positive list — remote Swiss roles score +2.
+# "remote" is in the positive list — remote Swiss roles score +4 (same as Romandie).
 # ---------------------------------------------------------------------------
 SCORE_LOCATION_POSITIVE: list[str] = [
     "geneva", "genève",

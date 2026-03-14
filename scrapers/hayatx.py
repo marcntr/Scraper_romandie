@@ -109,6 +109,9 @@ class HayaTxScraper(BaseScraper):
         logger.info("[%s] Nonce extracted: %s…", self.company, nonce[:6])
 
         # Phase 2: AJAX call to load all jobs
+        # WordPress admin-ajax.php requires form-encoded POST (not JSON),
+        # so we use session.post(data=...) directly rather than _post_with_retry
+        # which always sends application/json.
         payload = {
             "action":          "load_jobs_filter",
             "filter":          "all",
@@ -120,9 +123,16 @@ class HayaTxScraper(BaseScraper):
             "fixed_height":    "0",
             "gallery":         "0",
         }
-        ajax_resp = self._post_with_retry(session, _AJAX_URL, data=payload)
-        if ajax_resp is None:
-            logger.error("[%s] AJAX request failed", self.company)
+        try:
+            ajax_resp = session.post(
+                _AJAX_URL,
+                data=payload,
+                timeout=30,
+                headers=self._browser_headers(referer=_CAREERS_URL),
+            )
+            ajax_resp.raise_for_status()
+        except Exception as exc:
+            logger.error("[%s] AJAX request failed: %s", self.company, exc)
             return []
 
         # Phase 3: parse jobs from the HTML fragment in the response

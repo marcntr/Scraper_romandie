@@ -85,6 +85,14 @@ def load() -> None:
         logger.info("Cache: loaded %d entries from %s", len(_store), _CACHE_FILE)
     except (json.JSONDecodeError, OSError) as exc:
         logger.warning("Cache: failed to load %s (%s) — starting empty", _CACHE_FILE, exc)
+        # Preserve the corrupt file so data isn't silently destroyed on next save.
+        if _CACHE_FILE.exists():
+            backup = _CACHE_FILE.with_suffix(".corrupt.json")
+            try:
+                _CACHE_FILE.rename(backup)
+                logger.warning("Cache: corrupt file preserved as %s", backup)
+            except OSError as rename_exc:
+                logger.warning("Cache: could not rename corrupt file: %s", rename_exc)
         _store = {}
     _rebuild_index()
 
@@ -180,7 +188,8 @@ def get_applied_archive() -> list:
     return jobs
 
 
-_FACET_TTL_DAYS = 7
+FACET_TTL_DAYS = 7
+_FACET_TTL_DAYS = FACET_TTL_DAYS  # backwards-compat alias
 
 
 def get_facets(tenant: str, portal: str) -> dict | None:

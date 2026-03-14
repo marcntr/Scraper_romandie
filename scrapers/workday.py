@@ -396,7 +396,7 @@ class WorkdayScraper(BaseScraper):
                 self._search_texts = search_texts
             logger.info(
                 "[%s] Using cached location facets (≤ %d days old)",
-                self.company, job_cache._FACET_TTL_DAYS,
+                self.company, job_cache.FACET_TTL_DAYS,
             )
             return cached.get("facets") or {}
 
