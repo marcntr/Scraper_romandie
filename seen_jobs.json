@@ -979,5 +979,8 @@
   },
   "_generic:dsm-firmenich": {
     "keywords": "npp"
+  },
+  "_generic:PerkinElmer / Revvity": {
+    "keywords": "bioinformatics,portfolio,regulatory,scientist"
   }
 }
