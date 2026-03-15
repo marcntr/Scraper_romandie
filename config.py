@@ -90,6 +90,8 @@ TITLE_FILTERS: list[str] = [
     "investigator",
     # Consulting
     "life sciences strategy consultant",
+    "strategy consultant",
+    "associate consultant",
 ]
 
 # ---------------------------------------------------------------------------
