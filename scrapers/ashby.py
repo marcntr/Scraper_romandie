@@ -37,7 +37,11 @@ their job board on jobs.ashbyhq.com:
     }
 """
 
+import json
 import logging
+import subprocess
+
+import requests
 
 import cache as job_cache
 from models import Job
@@ -46,6 +50,41 @@ from scrapers.base import BaseScraper
 logger = logging.getLogger(__name__)
 
 _API_URL = "https://api.ashbyhq.com/posting-api/job-board/{slug}"
+
+
+def _fetch_ashby_json(url: str, company: str) -> dict | None:
+    """Fetch Ashby board JSON, falling back to curl if requests is blocked.
+
+    The Ashby API sits behind Cloudflare.  GitHub Actions IPs (Azure) are
+    often challenged by Cloudflare when using Python's TLS fingerprint, so
+    we first try a plain requests.get and fall back to subprocess curl which
+    presents a different TLS profile that Cloudflare typically allows.
+    """
+    # Attempt 1: plain requests (no browser-impersonation headers)
+    try:
+        resp = requests.get(url, timeout=20)
+        if resp.status_code == 200:
+            ct = resp.headers.get("content-type", "")
+            if "application/json" in ct or resp.text.strip().startswith("{"):
+                return resp.json()
+        logger.warning("[%s] requests returned %d — trying curl fallback",
+                       company, resp.status_code)
+    except Exception as exc:
+        logger.warning("[%s] requests failed (%s) — trying curl fallback", company, exc)
+
+    # Attempt 2: subprocess curl (different TLS fingerprint bypasses Cloudflare bot check)
+    try:
+        result = subprocess.run(
+            ["curl", "-s", "--max-time", "20", "-H", "Accept: application/json", url],
+            capture_output=True, text=True, timeout=25,
+        )
+        if result.returncode == 0 and result.stdout.strip().startswith("{"):
+            return json.loads(result.stdout)
+        logger.error("[%s] curl fallback failed (rc=%d)", company, result.returncode)
+    except Exception as exc:
+        logger.error("[%s] curl fallback exception: %s", company, exc)
+
+    return None
 
 
 class AshbyScraper(BaseScraper):
@@ -70,18 +109,11 @@ class AshbyScraper(BaseScraper):
 
     def fetch_jobs(self) -> list[Job]:
         """Fetch all published jobs from the Ashby job board API."""
-        session = self.build_session()
         url = _API_URL.format(slug=self.slug)
 
-        resp = self._get_with_retry(session, url)
-        if resp is None:
+        data = _fetch_ashby_json(url, self.company)
+        if data is None:
             logger.error("[%s] Failed to fetch Ashby board — returning empty", self.company)
-            return []
-
-        try:
-            data = resp.json()
-        except ValueError as exc:
-            logger.error("[%s] Failed to parse Ashby JSON: %s", self.company, exc)
             return []
 
         raw_jobs: list[dict] = data.get("jobs", [])
