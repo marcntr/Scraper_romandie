@@ -33,7 +33,25 @@ def _careers_url(cfg: dict) -> str:
         guid = cfg.get("company_guid", "")
         slug = cfg.get("company_slug", "")
         return f"https://recruiting.paylocity.com/recruiting/jobs/All/{guid}/{slug}"
-    # successfactors and generic both store careers_url directly
+    if ats == "smartrecruiters":
+        return f"https://careers.smartrecruiters.com/{cfg.get('company_id', '')}"
+    if ats == "ashby":
+        return f"https://jobs.ashbyhq.com/{cfg.get('slug', '')}"
+    if ats == "randstad":
+        return "https://www.randstad.ch/en/jobs/"
+    if ats == "gloorlang":
+        return "https://www.gloorlang.com/en/job-opportunities/"
+    if ats == "stettler":
+        return "https://www.stettlerconsulting.ch/en/find-jobs/"
+    if ats == "alecallan":
+        return "https://www.alecallan.com/our-job-offers/?lang=en"
+    if ats == "hays":
+        return "https://www.hays.ch/en/jobsearch/job-offers"
+    if ats == "michaelpage":
+        return "https://www.michaelpage.ch/jobs/switzerland"
+    if ats == "hayatx":
+        return "https://www.hayatx.com/careers/"
+    # successfactors, nestlehealthscience, and generic store careers_url directly
     return cfg.get("careers_url", "")
 
 HTML_PATH = os.path.join(os.path.dirname(__file__), "latest_jobs.html")
