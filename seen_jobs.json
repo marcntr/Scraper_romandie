@@ -521,8 +521,10 @@
     "location": "Basel, Switzerland, Basel-Stadt",
     "posted_date": "",
     "department": "",
-    "score": 0,
-    "matched_keywords": [],
+    "score": 1,
+    "matched_keywords": [
+      "French"
+    ],
     "deducted_keywords": []
   },
   "https://jobs.boehringer-ingelheim.com/job/Basel-Portfolio-Key-Account-Manager-%28Region-East%29%2C-%28mfd%29-Swit/1289694901/": {
@@ -534,8 +536,10 @@
     "location": "Basel, Switzerland, Basel-Stadt",
     "posted_date": "",
     "department": "",
-    "score": 0,
-    "matched_keywords": [],
+    "score": 1,
+    "matched_keywords": [
+      "French"
+    ],
     "deducted_keywords": []
   },
   "https://jobs.boehringer-ingelheim.com/job/Basel-Medical-Science-Liaison-Oncology-%28Lung-Cancer%29-%28mfd%29-Swit/1293209501/": {
@@ -547,8 +551,9 @@
     "location": "Basel, Switzerland, Basel-Stadt",
     "posted_date": "",
     "department": "",
-    "score": 3,
+    "score": 4,
     "matched_keywords": [
+      "French",
       "PhD",
       "medical affairs",
       "oncology"
@@ -982,5 +987,25 @@
   },
   "_generic:PerkinElmer / Revvity": {
     "keywords": "bioinformatics,portfolio,regulatory,scientist"
+  },
+  "_generic:Medpace": {
+    "keywords": "npp"
+  },
+  "_generic:Nanolive": {
+    "keywords": "immuno-oncology"
+  },
+  "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-deviation-investigator-manager-visp-863146/1": {
+    "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-deviation-investigator-manager-visp-863146/1",
+    "status": "matched",
+    "title": "Deviation Investigator Manager(m/f/d)",
+    "company": "Hays Switzerland",
+    "location": "Visp, Switzerland",
+    "posted_date": "",
+    "department": "",
+    "score": -2,
+    "matched_keywords": [],
+    "deducted_keywords": [
+      "location:Visp, Switzerland"
+    ]
   }
 }
