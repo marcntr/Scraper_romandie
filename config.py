@@ -88,6 +88,8 @@ TITLE_FILTERS: list[str] = [
     "implementation specialist",
     # Research scientist variants
     "investigator",
+    # Consulting
+    "life sciences strategy consultant",
 ]
 
 # ---------------------------------------------------------------------------
@@ -871,6 +873,14 @@ COMPANIES: list[dict] = [
         "name": "Tempus",
         "ats": "generic",
         "careers_url": "https://www.tempus.com/careers/",
+        "keywords": TITLE_FILTERS,
+    },
+    # Executive Insight (Basel/Zurich — healthcare consulting for biopharma launch)
+    # Uses Breezy HR at executive-insight.breezy.hr — no structured scraper
+    {
+        "name": "Executive Insight",
+        "ats": "generic",
+        "careers_url": "https://executive-insight.breezy.hr/",
         "keywords": TITLE_FILTERS,
     },
     # IGI Innovate / Ichnos Sciences (Epalinges, Vaud — bispecific antibodies)
