@@ -971,6 +971,13 @@ COMPANIES: list[dict] = [
     {"name": "TargImmune Therapeutics","ats": "greenhouse", "board_token": "targimmune"},
     {"name": "Tolremo Therapeutics",   "ats": "greenhouse", "board_token": "tolremo"},
     {"name": "Ymmunobio",              "ats": "greenhouse", "board_token": "ymmunobio"},
+    # Limula (Lausanne — microfluidics / cell therapy manufacturing)
+    {
+        "name": "Limula",
+        "ats": "generic",
+        "careers_url": "https://limula.com/",
+        "keywords": TITLE_FILTERS,
+    },
     # KBI Biopharma (CDMO; JSR Group Workday tenant)
     {
         "name": "KBI Biopharma",
