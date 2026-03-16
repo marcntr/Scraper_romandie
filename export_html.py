@@ -1118,6 +1118,26 @@ a {{ color: inherit; text-decoration: none; }}
   text-align: center;
   font-size: 13px;
 }}
+/* ── Sort bar ── */
+.sort-bar {{
+  display: flex;
+  gap: 8px;
+  margin-bottom: 16px;
+}}
+.sort-btn {{
+  background: #1e293b;
+  border: 1px solid #334155;
+  border-radius: 6px;
+  color: #94a3b8;
+  cursor: pointer;
+  font-size: 13px;
+  padding: 6px 14px;
+}}
+.sort-btn.active {{
+  background: #1d4ed8;
+  border-color: #1d4ed8;
+  color: #fff;
+}}
 /* ── Screening filters tab ── */
 #tab-screening li {{
   background: #1e293b;
@@ -1149,6 +1169,10 @@ a {{ color: inherit; text-decoration: none; }}
 
   <!-- ── Matched Jobs tab ── -->
   <div id="tab-matched" class="tab-panel active">
+    <div class="sort-bar">
+      <button class="sort-btn active" id="sort-date-btn" onclick="setSort('date')">Date ↓</button>
+      <button class="sort-btn" id="sort-score-btn" onclick="setSort('score')">Score ↓</button>
+    </div>
     <div id="job-list">
       {job_cards_html if job_cards_html.strip() else '<div class="triage-empty">No matched jobs this run.</div>'}
     </div>
@@ -1286,6 +1310,27 @@ function toggleDesc(btn, id) {{
   }}
 }}
 
+// ── Sort ──
+let currentSort = 'date';
+
+function setSort(s) {{
+  currentSort = s;
+  document.getElementById('sort-date-btn').classList.toggle('active', s === 'date');
+  document.getElementById('sort-score-btn').classList.toggle('active', s === 'score');
+  localStorage.setItem('jd_sort', s);
+  const list  = document.getElementById('job-list');
+  const cards = Array.from(list.querySelectorAll('.job-card'));
+  cards.sort((a, b) => {{
+    if (s === 'score') {{
+      const sd = parseInt(b.dataset.score, 10) - parseInt(a.dataset.score, 10);
+      return sd !== 0 ? sd : (b.dataset.date || '').localeCompare(a.dataset.date || '');
+    }}
+    const dd = (b.dataset.date || '').localeCompare(a.dataset.date || '');
+    return dd !== 0 ? dd : parseInt(b.dataset.score, 10) - parseInt(a.dataset.score, 10);
+  }});
+  cards.forEach(card => list.appendChild(card));
+}}
+
 // ── Companies filter ──
 function filterCompanies() {{
   const q   = document.getElementById('co-search').value.toLowerCase();
@@ -1303,8 +1348,15 @@ function filterCompanies() {{
     visible + ' compan' + (visible === 1 ? 'y' : 'ies') + ' monitored';
 }}
 
-// ── Init: restore triage statuses persisted from previous sessions ──
+// ── Init: restore sort preference and triage statuses ──
 (function init() {{
+  const so = localStorage.getItem('jd_sort');
+  if (so) {{
+    currentSort = so;
+    document.getElementById('sort-date-btn').classList.toggle('active', so === 'date');
+    document.getElementById('sort-score-btn').classList.toggle('active', so === 'score');
+    setSort(so);
+  }}
   document.querySelectorAll('.job-card').forEach(card => {{
     const saved = localStorage.getItem('jd_s_' + card.dataset.url);
     if (!saved || saved === card.dataset.status) return;
