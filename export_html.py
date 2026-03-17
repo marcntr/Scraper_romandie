@@ -557,6 +557,10 @@ _COMPANY_TYPES: dict[str, str] = {
     # Consumer Health
     "Nestlé Health Science":          "Consumer Health",
     "dsm-firmenich":                  "Consumer Health",
+    # International organisations
+    "CERN":                           "International Org",
+    "WHO":                            "International Org",
+    "United Nations":                 "International Org",
     # IP / Patent law firms & offices
     "P&TS":                           "IP / Law",
     "Katzarov":                       "IP / Law",
@@ -588,6 +592,7 @@ _TYPE_BADGE: dict[str, tuple[str, str]] = {
     "Consumer Health":   ("#064e3b", "#34d399"),   # emerald
     "Distribution":      ("#1f2937", "#9ca3af"),   # gray
     "IP / Law":          ("#1c1917", "#d6d3d1"),   # stone
+    "International Org": ("#172554", "#93c5fd"),   # blue-900 / blue-300
 }
 
 

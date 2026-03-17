@@ -297,6 +297,12 @@ COMPANIES: list[dict] = [
         "ats": "smartrecruiters",
         "company_id": "AbbVie",
     },
+    # CERN (Geneva — particle physics research org; SmartRecruiters, country=ch filter)
+    {
+        "name": "CERN",
+        "ats": "smartrecruiters",
+        "company_id": "CERN",
+    },
     # Galapagos — migrated from Recruitee to workatgalapagos.com
     {
         "name": "Galapagos",
@@ -1114,6 +1120,20 @@ COMPANIES: list[dict] = [
         "name": "Lavoix",
         "ats": "generic",
         "careers_url": "https://www.lavoix.eu/?page_id=9163&lang=en",
+        "keywords": TITLE_FILTERS,
+    },
+    # WHO — World Health Organization (Geneva; Oracle Taleo — generic monitor)
+    {
+        "name": "WHO",
+        "ats": "generic",
+        "careers_url": "https://careers.who.int/careersection/ex/jobsearch.ftl",
+        "keywords": TITLE_FILTERS,
+    },
+    # United Nations (Geneva/New York; Inspira/PeopleSoft — generic monitor)
+    {
+        "name": "United Nations",
+        "ats": "generic",
+        "careers_url": "https://careers.un.org/",
         "keywords": TITLE_FILTERS,
     },
     # IPI — Institut fédéral de la propriété intellectuelle (Swiss federal IP office, Bern)
