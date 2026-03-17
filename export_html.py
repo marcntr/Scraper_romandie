@@ -561,6 +561,9 @@ _COMPANY_TYPES: dict[str, str] = {
     "CERN":                           "International Org",
     "WHO":                            "International Org",
     "United Nations":                 "International Org",
+    # Law firms
+    "MLL Legal":                      "IP / Law",
+    "Lenz & Staehelin":               "IP / Law",
     # IP / Patent law firms & offices
     "P&TS":                           "IP / Law",
     "Katzarov":                       "IP / Law",

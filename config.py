@@ -1136,6 +1136,20 @@ COMPANIES: list[dict] = [
         "careers_url": "https://careers.un.org/",
         "keywords": TITLE_FILTERS,
     },
+    # MLL Legal (Swiss commercial law firm, Zurich/Geneva/Zug/Lausanne — own WordPress site)
+    {
+        "name": "MLL Legal",
+        "ats": "generic",
+        "careers_url": "https://mll-legal.com/careers/?lang=en",
+        "keywords": TITLE_FILTERS,
+    },
+    # Lenz & Staehelin (Switzerland's largest independent law firm — own WordPress site)
+    {
+        "name": "Lenz & Staehelin",
+        "ats": "generic",
+        "careers_url": "https://www.lenzstaehelin.com/careers/job-openings/",
+        "keywords": TITLE_FILTERS,
+    },
     # IPI — Institut fédéral de la propriété intellectuelle (Swiss federal IP office, Bern)
     # Jobs are rendered inside a JS-loaded iframe (careercenter-pms); the generic monitor
     # fetches the outer page and may not see iframe content — treat alerts as best-effort.
