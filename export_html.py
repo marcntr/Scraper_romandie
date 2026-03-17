@@ -457,7 +457,7 @@ _COMPANY_TYPES: dict[str, str] = {
     "Eli Lilly":                      "Big Pharma",
     "MSD":                            "Big Pharma",
     "Merck Group":                    "Big Pharma",
-    "Johnson & Johnson / Janssen":    "Big Pharma",
+    # J&J removed (Phenom People SPA — no scraper coverage)
     # Specialty Pharma
     "Debiopharm":                     "Specialty Pharma",
     "Ferring Pharmaceuticals":        "Specialty Pharma",
@@ -468,7 +468,7 @@ _COMPANY_TYPES: dict[str, str] = {
     "OM Pharma":                      "Specialty Pharma",
     "Servier Suisse":                 "Specialty Pharma",
     "Basilea Pharmaceutica":          "Specialty Pharma",
-    "UCB":                            "Specialty Pharma",
+    # UCB removed (Talentlink SPA — no scraper coverage)
     # Biotech
     "ADC Therapeutics":               "Biotech",
     "Isomorphic Labs":                "Biotech",
@@ -536,7 +536,7 @@ _COMPANY_TYPES: dict[str, str] = {
     # Medical Devices
     "Alcon":                          "Medical Devices",
     "Galderma":                       "Medical Devices",
-    "Becton Dickinson":               "Medical Devices",
+    # BD removed (TalentBrew/Workday SPA — no scraper coverage)
     "Straumann":                      "Medical Devices",
     # AI / Data
     "Owkin":                          "AI / Data",
@@ -559,8 +559,7 @@ _COMPANY_TYPES: dict[str, str] = {
     "dsm-firmenich":                  "Consumer Health",
     # International organisations
     "CERN":                           "International Org",
-    "WHO":                            "International Org",
-    "United Nations":                 "International Org",
+    # WHO / UN removed (Oracle Taleo / Inspira SPAs — no scraper coverage)
     # Law firms
     "MLL Legal":                      "IP / Law",
     "Lenz & Staehelin":               "IP / Law",
@@ -572,11 +571,11 @@ _COMPANY_TYPES: dict[str, str] = {
     "Lavoix":                         "IP / Law",
     # New additions
     "Daiichi Sankyo":                 "Big Pharma",
-    "Astellas Pharma":                "Big Pharma",
+    # Astellas removed (Avature SPA)
     "Blueprint Medicines":            "Biotech",
     "KBI Biopharma":                  "CDMO",
     "Dotmatics":                      "Life Science Tools",
-    "Certara":                        "Life Science Tools",
+    # Certara removed (iCIMS SPA)
     "CDD Vault":                      "Life Science Tools",
     "Scailyte":                       "AI / Data",
     "Telix Pharmaceuticals":          "Specialty Pharma",

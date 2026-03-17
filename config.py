@@ -557,20 +557,8 @@ COMPANIES: list[dict] = [
         "board_token": "roivantsciences",
     },
     # ── Phase 7: Generic monitors (own ATS / unsupported platform) ────────────
-    # J&J uses Phenom People (jobs.jnj.com) — no structured scraper
-    {
-        "name": "Johnson & Johnson / Janssen",
-        "ats": "generic",
-        "careers_url": "https://jobs.jnj.com/jobs",
-        "keywords": TITLE_FILTERS,
-    },
-    # UCB uses custom career portal (careers.ucb.com) — own ATS
-    {
-        "name": "UCB",
-        "ats": "generic",
-        "careers_url": "https://careers.ucb.com/global/en",
-        "keywords": TITLE_FILTERS,
-    },
+    # J&J (Phenom People SPA), UCB (Talentlink SPA) — JS-rendered, no job content
+    # in static HTML.  Removed: GenericMonitor fetches an empty shell.
     # Charles River Labs uses own ATS at jobs.criver.com
     {
         "name": "Charles River Laboratories",
@@ -578,13 +566,7 @@ COMPANIES: list[dict] = [
         "careers_url": "https://jobs.criver.com/job-search-results/",
         "keywords": TITLE_FILTERS,
     },
-    # BD uses region-specific Workday portals; monitoring EMEA careers page
-    {
-        "name": "Becton Dickinson",
-        "ats": "generic",
-        "careers_url": "https://jobs.bd.com/en/search-jobs",
-        "keywords": TITLE_FILTERS,
-    },
+    # BD (TalentBrew SPA over Workday) — JS-rendered, removed (no static job content).
     # Tecan (Männedorf, Swiss lab automation) — SuccessFactors (career5.successfactors.eu, companyId: tecantradi)
     {
         "name": "Tecan",
@@ -1015,20 +997,7 @@ COMPANIES: list[dict] = [
         "ats": "successfactors",
         "careers_url": "https://jobs.daiichi-sankyo.eu/",
     },
-    # Astellas Pharma (Japanese pharma; global/EMEA careers on Avature — generic)
-    {
-        "name": "Astellas Pharma",
-        "ats": "generic",
-        "careers_url": "https://astellas.avature.net/en_GB/careers",
-        "keywords": TITLE_FILTERS,
-    },
-    # Certara (PBPK/drug development software; iCIMS ATS — generic monitor)
-    {
-        "name": "Certara",
-        "ats": "generic",
-        "careers_url": "https://careers.certara.com/jobs",
-        "keywords": TITLE_FILTERS,
-    },
+    # Astellas (Avature SPA), Certara (iCIMS SPA) — JS-rendered, removed.
     # CDD Vault / Collaborative Drug Discovery (drug discovery informatics — no ATS)
     {
         "name": "CDD Vault",
@@ -1057,14 +1026,7 @@ COMPANIES: list[dict] = [
         "careers_url": "https://telixpharma.com/careers/find-a-job/",
         "keywords": TITLE_FILTERS,
     },
-    # LHH / Lee Hecht Harrison (Adecco Group; Swiss life science placements — JS-rendered,
-    # generic monitor is best-effort)
-    {
-        "name": "LHH",
-        "ats": "generic",
-        "careers_url": "https://www.lhh.com/ch/en/search-jobs/",
-        "keywords": TITLE_FILTERS,
-    },
+    # LHH (JS-rendered SPA) — removed.
     # Randstad (staffing agency; Swiss life science placements)
     {
         "name": "Randstad",
@@ -1124,20 +1086,7 @@ COMPANIES: list[dict] = [
         "careers_url": "https://www.lavoix.eu/?page_id=9163&lang=en",
         "keywords": TITLE_FILTERS,
     },
-    # WHO — World Health Organization (Geneva; Oracle Taleo — generic monitor)
-    {
-        "name": "WHO",
-        "ats": "generic",
-        "careers_url": "https://careers.who.int/careersection/ex/jobsearch.ftl",
-        "keywords": TITLE_FILTERS,
-    },
-    # United Nations (Geneva/New York; Inspira/PeopleSoft — generic monitor)
-    {
-        "name": "United Nations",
-        "ats": "generic",
-        "careers_url": "https://careers.un.org/",
-        "keywords": TITLE_FILTERS,
-    },
+    # WHO (Oracle Taleo SPA), United Nations (Inspira/PeopleSoft SPA) — JS-rendered, removed.
     # MLL Legal (Swiss commercial law firm, Zurich/Geneva/Zug/Lausanne — own WordPress site)
     {
         "name": "MLL Legal",
