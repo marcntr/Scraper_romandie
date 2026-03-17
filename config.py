@@ -97,6 +97,7 @@ TITLE_FILTERS: list[str] = [
     "patent attorney",
     "patent analyst",
     "patent examiner",
+    "patent expert",
 ]
 
 # ---------------------------------------------------------------------------
@@ -1098,6 +1099,15 @@ COMPANIES: list[dict] = [
         "name": "Novagraaf",
         "ats": "generic",
         "careers_url": "https://www.novagraaf.com/en/careers/vacancies/",
+        "keywords": TITLE_FILTERS,
+    },
+    # IPI — Institut fédéral de la propriété intellectuelle (Swiss federal IP office, Bern)
+    # Jobs are rendered inside a JS-loaded iframe (careercenter-pms); the generic monitor
+    # fetches the outer page and may not see iframe content — treat alerts as best-effort.
+    {
+        "name": "IPI",
+        "ats": "generic",
+        "careers_url": "https://www.ige.ch/fr/portrait/travailler-pour-lipi/offres-demploi",
         "keywords": TITLE_FILTERS,
     },
 ]

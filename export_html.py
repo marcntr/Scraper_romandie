@@ -557,10 +557,11 @@ _COMPANY_TYPES: dict[str, str] = {
     # Consumer Health
     "Nestlé Health Science":          "Consumer Health",
     "dsm-firmenich":                  "Consumer Health",
-    # IP / Patent law firms
+    # IP / Patent law firms & offices
     "P&TS":                           "IP / Law",
     "Katzarov":                       "IP / Law",
     "Novagraaf":                      "IP / Law",
+    "IPI":                            "IP / Law",
     # New additions
     "Daiichi Sankyo":                 "Big Pharma",
     "Astellas Pharma":                "Big Pharma",
