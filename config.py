@@ -585,19 +585,17 @@ COMPANIES: list[dict] = [
         "careers_url": "https://jobs.bd.com/en/search-jobs",
         "keywords": TITLE_FILTERS,
     },
-    # Tecan uses own ATS (careers.tecan.com) — Swiss company
+    # Tecan (Männedorf, Swiss lab automation) — SuccessFactors (career5.successfactors.eu, companyId: tecantradi)
     {
         "name": "Tecan",
-        "ats": "generic",
-        "careers_url": "https://careers.tecan.com/viewalljobs/",
-        "keywords": TITLE_FILTERS,
+        "ats": "successfactors",
+        "careers_url": "https://careers.tecan.com",
     },
-    # Idorsia (Allschwil, Basel) uses own ATS (careers.idorsia.com)
+    # Idorsia (Allschwil, Basel) — SuccessFactors (career2.successfactors.eu, companyId: gaiushragP4)
     {
         "name": "Idorsia",
-        "ats": "generic",
-        "careers_url": "https://careers.idorsia.com/",
-        "keywords": TITLE_FILTERS,
+        "ats": "successfactors",
+        "careers_url": "https://careers.idorsia.com",
     },
     # Sobi — SmartRecruiters public API (16 CH postings confirmed)
     {
@@ -619,12 +617,11 @@ COMPANIES: list[dict] = [
         "careers_url": "https://www.molecularpartners.com/careers/",
         "keywords": TITLE_FILTERS,
     },
-    # MoonLake Immunotherapeutics (Zug) — small Swiss biotech
+    # MoonLake Immunotherapeutics (Zug) — small Swiss biotech — Personio XML feed
     {
         "name": "MoonLake Immunotherapeutics",
-        "ats": "generic",
-        "careers_url": "https://moonlaketx.com/careers/",
-        "keywords": TITLE_FILTERS,
+        "ats": "personio",
+        "subdomain": "moonlaketx",
     },
     # dsm-firmenich (Kaiseraugst, Swiss HQ) — merged specialty ingredients co.
     {
@@ -652,12 +649,11 @@ COMPANIES: list[dict] = [
         "careers_url": "https://www.revvity.com/careers/",
         "keywords": TITLE_FILTERS,
     },
-    # Merck Group = EMD / Merck KGaA (German) — distinct from MSD (US Merck)
+    # Merck Group = EMD / Merck KGaA (German) — distinct from MSD (US Merck) — SuccessFactors
     {
         "name": "Merck Group",
-        "ats": "generic",
-        "careers_url": "https://careers.merckgroup.com/global/en/",
-        "keywords": TITLE_FILTERS,
+        "ats": "successfactors",
+        "careers_url": "https://careers.merckgroup.com",
     },
     # BioNTech (Mainz, DE) — may have Swiss-based openings
     {
@@ -708,33 +704,29 @@ COMPANIES: list[dict] = [
         "careers_url": "https://www.servier.com/en/careers/",
         "keywords": TITLE_FILTERS,
     },
-    # OM Pharma (Geneva — subsidiary of Vifor/CSL, immunotherapy)
+    # OM Pharma (Geneva — subsidiary of Vifor/CSL, immunotherapy) — SuccessFactors
     {
         "name": "OM Pharma",
-        "ats": "generic",
-        "careers_url": "https://careers.ompharma.com/",
-        "keywords": TITLE_FILTERS,
+        "ats": "successfactors",
+        "careers_url": "https://careers.ompharma.com",
     },
-    # Octapharma (Lachen, Swiss plasma protein products company)
+    # Octapharma (Lachen, Swiss plasma protein products) — SuccessFactors
     {
         "name": "Octapharma",
-        "ats": "generic",
-        "careers_url": "https://careers.octapharma.com/",
-        "keywords": TITLE_FILTERS,
+        "ats": "successfactors",
+        "careers_url": "https://careers.octapharma.com",
     },
-    # Veeva Systems (pharma SaaS; has Swiss presence)
+    # Veeva Systems (pharma SaaS; has Swiss presence) — Greenhouse
     {
         "name": "Veeva Systems",
-        "ats": "generic",
-        "careers_url": "https://www.veeva.com/company/careers/",
-        "keywords": TITLE_FILTERS,
+        "ats": "greenhouse",
+        "board_token": "veeva",
     },
-    # Palantir (Zürich office — data analytics)
+    # Palantir (Zürich office — data analytics) — Greenhouse
     {
         "name": "Palantir",
-        "ats": "generic",
-        "careers_url": "https://www.palantir.com/careers/",
-        "keywords": TITLE_FILTERS,
+        "ats": "greenhouse",
+        "board_token": "palantir",
     },
     # EPAM Systems (IT consulting; Swiss clients in pharma)
     {
@@ -757,12 +749,11 @@ COMPANIES: list[dict] = [
         "careers_url": "https://www.acimmune.com/careers/",
         "keywords": TITLE_FILTERS,
     },
-    # Basilea Pharmaceutica (Basel — antibiotics, antifungals)
+    # Basilea Pharmaceutica (Basel — antibiotics, antifungals) — Personio XML feed
     {
         "name": "Basilea Pharmaceutica",
-        "ats": "generic",
-        "careers_url": "https://www.basilea.com/careers/",
-        "keywords": TITLE_FILTERS,
+        "ats": "personio",
+        "subdomain": "basilea",
     },
     # Araris Biotech (Basel — ADC linker technology)
     {
@@ -856,13 +847,8 @@ COMPANIES: list[dict] = [
         "careers_url": "https://biognosys.com/careers/",
         "keywords": TITLE_FILTERS,
     },
-    # Genedata (Basel — bioinformatics software; now part of Danaher)
-    {
-        "name": "Genedata",
-        "ats": "generic",
-        "careers_url": "https://jobs.danaher.com/global/en/genedata",
-        "keywords": TITLE_FILTERS,
-    },
+    # Genedata (Basel — bioinformatics software; part of Danaher since 2022)
+    # Jobs posted under Danaher's Workday portal — covered by the Danaher entry above.
     # Insilico Medicine (AI drug discovery; EU presence)
     {
         "name": "Insilico Medicine",
@@ -883,12 +869,11 @@ COMPANIES: list[dict] = [
         "careers_url": "https://www.dnanexus.com/careers/",
         "keywords": TITLE_FILTERS,
     },
-    # Velsera (formerly Seven Bridges; bioinformatics platform)
+    # Velsera (formerly Seven Bridges; bioinformatics platform) — Workable
     {
         "name": "Seven Bridges / Velsera",
-        "ats": "generic",
-        "careers_url": "https://velsera.com/careers/",
-        "keywords": TITLE_FILTERS,
+        "ats": "workable",
+        "slug": "velsera",
     },
     # Tempus AI (US precision medicine; EU expansion)
     {
