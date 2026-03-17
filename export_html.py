@@ -560,6 +560,7 @@ _COMPANY_TYPES: dict[str, str] = {
     # IP / Patent law firms
     "P&TS":                           "IP / Law",
     "Katzarov":                       "IP / Law",
+    "Novagraaf":                      "IP / Law",
     # New additions
     "Daiichi Sankyo":                 "Big Pharma",
     "Astellas Pharma":                "Big Pharma",

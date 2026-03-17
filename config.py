@@ -96,6 +96,7 @@ TITLE_FILTERS: list[str] = [
     "trainee patent attorney",
     "patent attorney",
     "patent analyst",
+    "patent examiner",
 ]
 
 # ---------------------------------------------------------------------------
@@ -1090,6 +1091,13 @@ COMPANIES: list[dict] = [
         "name": "Katzarov",
         "ats": "generic",
         "careers_url": "https://katzarov.com/news/",
+        "keywords": TITLE_FILTERS,
+    },
+    # Novagraaf (pan-European IP firm; custom CMS — generic monitor)
+    {
+        "name": "Novagraaf",
+        "ats": "generic",
+        "careers_url": "https://www.novagraaf.com/en/careers/vacancies/",
         "keywords": TITLE_FILTERS,
     },
 ]
