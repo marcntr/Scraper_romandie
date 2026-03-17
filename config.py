@@ -630,24 +630,25 @@ COMPANIES: list[dict] = [
         "careers_url": "https://careers.dsm-firmenich.com/en/careers.html",
         "keywords": TITLE_FILTERS,
     },
-    # Straumann (Basel) — Swiss dental implants company
+    # Straumann (Basel) — Swiss dental implants company — SmartRecruiters
     {
         "name": "Straumann",
-        "ats": "generic",
-        "careers_url": "https://www.straumann.com/group/en/home/careers.html",
-        "keywords": TITLE_FILTERS,
+        "ats": "smartrecruiters",
+        "company_id": "StraumannGroup1",
     },
     # Nestlé Health Science (Vevey) — Drupal/Avature portal at nestlejobs.com
     {
         "name": "Nestlé Health Science",
         "ats": "nestlehealthscience",
     },
-    # PerkinElmer rebranded to Revvity in 2023 (life sciences instruments)
+    # PerkinElmer rebranded to Revvity in 2023 (life sciences instruments) — Workday
     {
         "name": "PerkinElmer / Revvity",
-        "ats": "generic",
-        "careers_url": "https://www.revvity.com/careers/",
-        "keywords": TITLE_FILTERS,
+        "ats": "workday",
+        "tenant": "revvity",
+        "instance": "wd103",
+        "portal": "External",
+        "location_facets": {},
     },
     # Merck Group = EMD / Merck KGaA (German) — distinct from MSD (US Merck) — SuccessFactors
     {
