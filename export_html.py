@@ -449,6 +449,7 @@ _COMPANY_TYPES: dict[str, str] = {
     "Amgen":                          "Big Pharma",
     "Gilead Sciences":                "Big Pharma",
     "Moderna":                        "Big Pharma",
+    "Biogen":                         "Big Pharma",
     "Takeda":                         "Big Pharma",
     "Bayer":                          "Big Pharma",
     "AbbVie":                         "Big Pharma",

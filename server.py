@@ -35,6 +35,7 @@ def update_status():
     status = data.get("status", "").strip()
     if not url or status not in ("matched", "ignored", "applied"):
         return jsonify({"error": "invalid request"}), 400
+    job_cache.load()  # re-sync with disk before mutating — scraper may have written new data since startup
     job_cache.set_status(url, status)
     job_cache.save()
     logger.info("Status updated: %s → %s", url, status)

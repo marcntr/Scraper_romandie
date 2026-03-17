@@ -122,11 +122,14 @@ def put(key: str, description: str, external_url: str) -> None:
     """Store or update an entry, preserving existing status and snapshot fields."""
     with _lock:
         existing = _store.get(key, {})
+        # Also check _statuses fallback so a status set via the server
+        # (when the URL was not yet in the main cache) is not lost.
+        fallback_status = _store.get("_statuses", {}).get(external_url, "matched")
         _store[key] = {
             **existing,
             "description":  description,
             "external_url": external_url,
-            "status":       existing.get("status", "matched"),
+            "status":       existing.get("status", fallback_status),
         }
         _url_to_key[external_url] = key
 

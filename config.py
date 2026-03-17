@@ -397,6 +397,14 @@ COMPANIES: list[dict] = [
         "portal": "Vertex_Careers",
         "location_facets": {},
     },
+    {
+        "name": "Biogen",
+        "ats": "workday",
+        "tenant": "biibhr",
+        "instance": "wd3",
+        "portal": "external",
+        "location_facets": {},
+    },
     # ── Phase 7: CDMO / contract mfg — Workday ───────────────────────────────
     {
         "name": "Lonza",
