@@ -562,6 +562,7 @@ _COMPANY_TYPES: dict[str, str] = {
     "Katzarov":                       "IP / Law",
     "Novagraaf":                      "IP / Law",
     "IPI":                            "IP / Law",
+    "Lavoix":                         "IP / Law",
     # New additions
     "Daiichi Sankyo":                 "Big Pharma",
     "Astellas Pharma":                "Big Pharma",

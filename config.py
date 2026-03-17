@@ -1101,6 +1101,13 @@ COMPANIES: list[dict] = [
         "careers_url": "https://www.novagraaf.com/en/careers/vacancies/",
         "keywords": TITLE_FILTERS,
     },
+    # Lavoix (Paris-based IP law firm — own WordPress site, no ATS)
+    {
+        "name": "Lavoix",
+        "ats": "generic",
+        "careers_url": "https://www.lavoix.eu/?page_id=9163&lang=en",
+        "keywords": TITLE_FILTERS,
+    },
     # IPI — Institut fédéral de la propriété intellectuelle (Swiss federal IP office, Bern)
     # Jobs are rendered inside a JS-loaded iframe (careercenter-pms); the generic monitor
     # fetches the outer page and may not see iframe content — treat alerts as best-effort.
