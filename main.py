@@ -33,6 +33,8 @@ from scrapers.randstad import RandstadScraper
 from scrapers.smartrecruiters import SmartRecruitersScraper
 from scrapers.stettler import StettlerScraper
 from scrapers.successfactors import SuccessFactorsScraper
+from scrapers.personio import PersonioScraper
+from scrapers.teamtailor import TeamtailorScraper
 from scrapers.workable import WorkableScraper
 from scrapers.workday import WorkdayScraper
 
@@ -68,6 +70,8 @@ _REQUIRED_FIELDS: dict[str, list[str]] = {
     "successfactors":  ["careers_url"],
     "smartrecruiters": ["company_id"],
     "ashby":           ["slug"],
+    "personio":        ["subdomain"],
+    "teamtailor":      ["subdomain", "api_token"],
     "generic":         ["careers_url"],
 }
 
@@ -221,6 +225,23 @@ def _build_scraper(cfg: dict):
             slug=cfg["slug"],
             location_terms=LOCATION_FILTERS,
             title_terms=cfg.get("title_terms", TITLE_FILTERS),
+        )
+
+    if ats == "personio":
+        return PersonioScraper(
+            company=name,
+            subdomain=cfg["subdomain"],
+            location_terms=LOCATION_FILTERS,
+            title_terms=TITLE_FILTERS,
+        )
+
+    if ats == "teamtailor":
+        return TeamtailorScraper(
+            company=name,
+            subdomain=cfg["subdomain"],
+            api_token=cfg["api_token"],
+            location_terms=LOCATION_FILTERS,
+            title_terms=TITLE_FILTERS,
         )
 
     if ats == "generic":

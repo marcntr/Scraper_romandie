@@ -920,6 +920,22 @@ COMPANIES: list[dict] = [
         "careers_url": "https://www.nanolive.com/about/jobs/",
         "keywords": TITLE_FILTERS,
     },
+    # ── Personio XML-feed scrapers ────────────────────────────────────────────
+    # Required fields: "subdomain"  (from https://{subdomain}.jobs.personio.com)
+    # Optional fields: none — language defaults to "en"
+    # Example:
+    # {"name": "Example Co", "ats": "personio", "subdomain": "example-co"},
+
+    # ── Teamtailor API scrapers ───────────────────────────────────────────────
+    # Required fields: "subdomain"  (from https://{subdomain}.teamtailor.com)
+    #                  "api_token"  (public embed token — find it in browser
+    #                               DevTools → Network while on the career site;
+    #                               look for requests to api.teamtailor.com and
+    #                               copy the "Token token=..." Authorization value)
+    # Example:
+    # {"name": "Example Co", "ats": "teamtailor", "subdomain": "example-co",
+    #  "api_token": "abc123..."},
+
     # ── Not yet scrapable / no public careers page ────────────────────────────
     # Note: chAIron SA uses a JS-rendered Framer site with no careers subpage;
     # GenericMonitor will scan the homepage but may miss dynamically loaded content.
