@@ -92,6 +92,10 @@ TITLE_FILTERS: list[str] = [
     "life sciences strategy consultant",
     "strategy consultant",
     "associate consultant",
+    # IP / Patent
+    "trainee patent attorney",
+    "patent attorney",
+    "patent analyst",
 ]
 
 # ---------------------------------------------------------------------------
@@ -1072,6 +1076,21 @@ COMPANIES: list[dict] = [
     {
         "name": "Michael Page Switzerland",
         "ats": "michaelpage",
+    },
+    # P&TS Ltd (Zürich/Neuchâtel patent & trademark firm — own WordPress site, no ATS)
+    {
+        "name": "P&TS",
+        "ats": "generic",
+        "careers_url": "https://www.patentattorneys.ch/en/career/",
+        "keywords": TITLE_FILTERS,
+    },
+    # Katzarov SA (Geneva patent & trademark firm — no dedicated careers page;
+    # monitor news page for hiring announcements)
+    {
+        "name": "Katzarov",
+        "ats": "generic",
+        "careers_url": "https://katzarov.com/news/",
+        "keywords": TITLE_FILTERS,
     },
 ]
 
