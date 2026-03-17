@@ -1049,6 +1049,14 @@ COMPANIES: list[dict] = [
         "careers_url": "https://telixpharma.com/careers/find-a-job/",
         "keywords": TITLE_FILTERS,
     },
+    # LHH / Lee Hecht Harrison (Adecco Group; Swiss life science placements — JS-rendered,
+    # generic monitor is best-effort)
+    {
+        "name": "LHH",
+        "ats": "generic",
+        "careers_url": "https://www.lhh.com/ch/en/search-jobs/",
+        "keywords": TITLE_FILTERS,
+    },
     # Randstad (staffing agency; Swiss life science placements)
     {
         "name": "Randstad",
