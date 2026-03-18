@@ -497,7 +497,7 @@ _COMPANY_TYPES: dict[str, str] = {
     "Tigen Pharma":                   "Biotech",
     "Leman Biotech":                  "Biotech",
     "Signal26":                       "Biotech",
-    "Novigenix":                      "Biotech",
+    # Novigenix removed (404)
     "Hurdle Bio":                     "Biotech",
     "Cutiss":                         "Biotech",
     "Molecular Partners":             "Biotech",
@@ -509,7 +509,7 @@ _COMPANY_TYPES: dict[str, str] = {
     "Parexel":                        "CRO",
     "Syneos Health":                  "CRO",
     "Charles River Laboratories":     "CRO",
-    "Medpace":                        "CRO",
+    # Medpace removed (iCIMS SPA)
     "PSI CRO":                        "CRO",
     # KCR removed (acquired by ICON)
     "BioLizard":                      "CRO",

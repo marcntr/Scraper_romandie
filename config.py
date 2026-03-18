@@ -187,12 +187,7 @@ COMPANIES: list[dict] = [
         "location_terms": ["switzerland"],
     },
     # ── Generic monitors (unstructured pages — keyword presence only) ─────────
-    {
-        "name": "Novigenix",
-        "ats": "generic",
-        "careers_url": "https://novigenix.com/career/",
-        "keywords": TITLE_FILTERS,
-    },
+    # Novigenix — career page returns 404, removed.
     {
         "name": "Tigen Pharma",
         "ats": "generic",
@@ -585,13 +580,7 @@ COMPANIES: list[dict] = [
         "ats": "smartrecruiters",
         "company_id": "Sobi",
     },
-    # Medpace uses own ATS (not Workday)
-    {
-        "name": "Medpace",
-        "ats": "generic",
-        "careers_url": "https://www.medpace.com/careers/",
-        "keywords": TITLE_FILTERS,
-    },
+    # Medpace — iCIMS SPA (uscareers-medpace.icims.com), JS-rendered, removed.
     # Molecular Partners (Zurich) — small Swiss biotech
     {
         "name": "Molecular Partners",
@@ -638,12 +627,11 @@ COMPANIES: list[dict] = [
         "ats": "successfactors",
         "careers_url": "https://careers.merckgroup.com",
     },
-    # BioNTech (Mainz, DE) — may have Swiss-based openings
+    # BioNTech (Mainz, DE) — SuccessFactors (jobs.biontech.com/sitemal.xml confirmed live)
     {
         "name": "BioNTech",
-        "ats": "generic",
+        "ats": "successfactors",
         "careers_url": "https://jobs.biontech.com",
-        "keywords": TITLE_FILTERS,
     },
     # Bio-Rad (Cressier, Switzerland manufacturing site)
     {
@@ -673,19 +661,20 @@ COMPANIES: list[dict] = [
         "company_id": "PSICRO",
     },
     # KCR — acquired by ICON plc August 2024, removed (ICON already in list)
-    # Alira Health (Boston / Swiss healthcare consulting)
+    # Alira Health (Boston / Swiss healthcare consulting) — Workday
     {
         "name": "Alira Health",
-        "ats": "generic",
-        "careers_url": "https://alirahealth.com/careers/",
-        "keywords": TITLE_FILTERS,
+        "ats": "workday",
+        "tenant": "alirahealth",
+        "instance": "wd3",
+        "portal": "AliraHealth",
+        "location_facets": {},
     },
-    # Servier Suisse (French pharma, Swiss commercial entity)
+    # Servier Suisse (French pharma) — SuccessFactors (jobs.servier.com/sitemal.xml confirmed live)
     {
         "name": "Servier Suisse",
-        "ats": "generic",
-        "careers_url": "https://www.servier.com/en/careers/",
-        "keywords": TITLE_FILTERS,
+        "ats": "successfactors",
+        "careers_url": "https://jobs.servier.com",
     },
     # OM Pharma (Geneva — subsidiary of Vifor/CSL, immunotherapy) — SuccessFactors
     {
