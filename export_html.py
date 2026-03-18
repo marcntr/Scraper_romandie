@@ -1388,13 +1388,30 @@ function filterCompanies() {{
 
   // Fetch statuses.json — works on both localhost (Flask serves it) and
   // GitHub Pages (static file committed alongside latest_jobs.html).
-  // Server state is written into localStorage so offline use stays correct too.
   fetch('./statuses.json')
     .then(r => r.json())
     .then(serverStatuses => {{
+      // Server → localStorage: server state takes priority for known entries.
       Object.entries(serverStatuses).forEach(([url, status]) => {{
         try {{ localStorage.setItem('jd_s_' + url, status); }} catch(_) {{}}
       }});
+
+      // localStorage → server: if this device has statuses the server doesn't
+      // know about yet (e.g. clicks made before server.py was running), sync
+      // them back so they propagate to GitHub Pages and other devices.
+      document.querySelectorAll('.job-card').forEach(card => {{
+        const url    = card.dataset.url;
+        const local  = localStorage.getItem('jd_s_' + url);
+        const remote = serverStatuses[url] || 'matched';
+        if (local && local !== 'matched' && local !== remote) {{
+          fetch('/api/status', {{
+            method:  'POST',
+            headers: {{'Content-Type': 'application/json'}},
+            body:    JSON.stringify({{url, status: local}}),
+          }}).catch(() => {{}});
+        }}
+      }});
+
       applyStatuses();
     }})
     .catch(() => applyStatuses());
