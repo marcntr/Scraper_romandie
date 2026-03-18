@@ -676,18 +676,6 @@
       "location:Schachen, Lucerne, Switzerland"
     ]
   },
-  "https://www.randstad.ch/en/jobs/technical-rd-senior-associate-scientist-mwd_basel_c16d64bf-7c46-41c9-b27d-fc7b06ecaa83/": {
-    "external_url": "https://www.randstad.ch/en/jobs/technical-rd-senior-associate-scientist-mwd_basel_c16d64bf-7c46-41c9-b27d-fc7b06ecaa83/",
-    "status": "matched",
-    "title": "Technical R&D Senior Associate Scientist (m/w/d)",
-    "company": "Randstad",
-    "location": "Basel, Basel-City, Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": 0,
-    "matched_keywords": [],
-    "deducted_keywords": []
-  },
   "https://gloorlang.starhunter.software/Headhunter/project/job-ad/hash/68b5a83b99a4d": {
     "external_url": "https://gloorlang.starhunter.software/Headhunter/project/job-ad/hash/68b5a83b99a4d",
     "status": "matched",
@@ -805,7 +793,7 @@
     "title": "Internship in Computational Biology and Medicine - Ophthalmology (for 6 month in Basel)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-03-18",
+    "posted_date": "",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -821,7 +809,7 @@
     "title": "Machine Learning Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-03-06",
+    "posted_date": "2026-03-05",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -837,7 +825,7 @@
     "title": "(Sr.) Scientist, Development (Parenteral Drug Product)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-03-07",
+    "posted_date": "2026-03-06",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -855,7 +843,7 @@
     "title": "Scientist, Antibiotics Discovery",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-02-27",
+    "posted_date": "2026-02-26",
     "department": "",
     "score": 8,
     "matched_keywords": [
@@ -877,7 +865,7 @@
     "title": "Post Doctorate Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-02-26",
+    "posted_date": "2026-02-25",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -916,7 +904,7 @@
     "title": "Post Doctorate Scientist (Organoid Systems Biology) - Institute of Human Biology",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-02-24",
+    "posted_date": "2026-02-23",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -992,7 +980,7 @@
     "title": "Associate Director, EUCAN Regulatory Lead - GI and Inflammation",
     "company": "Takeda",
     "location": "Zurich, Switzerland",
-    "posted_date": "2026-03-03",
+    "posted_date": "2026-03-02",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1054,7 +1042,7 @@
     "title": "Scientist Microbiological Quality Control",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-03-14",
+    "posted_date": "2026-03-13",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -1391,11 +1379,6 @@
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000111783367-hep-physicist-data-preservation-ep-fcc-2026-37-grap-?oga=true",
     "status": "matched"
   },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000111340333": {
-    "description": "As a graduate Electromechanical Technician, you will join the ATLAS Technical coordination team driving the daily infrastructure operations of the ATLAS Detector. You will contribute to the upgrade of the rack infrastructure, needed for the ATLAS Phase II upgrade, gaining hands-on experience with state-of-art industrial equipment in different electrical and mechanical domains. Your responsibilities: Decommission legacy rack infrastructure. Install and commission electrical industrial equipment such as distribution crates, supervision and monitoring equipment, cables, etc. Install and commission electromechanical industrial equipment such as cooling doors, rack ventilation units. Operate and maintain the equipment under ATLAS Technical Coordination responsibility, including component procurement and stock management. Support logistics organisation for sorting equipment and materials. Your profile: Basic experience of industrial electrical equipment. Basic experience of mechanical assemblies. Strong motivation to learn how to perform electromechanical installations as per CERN standards. Skills: Basic understanding of electromechanical diagrams and electrical components. Knowledge of electromechanical installation practices. Use of office software packages. Ability to work both independently and in a team environment. Attention to detail and methodical approach to work. Spoken and written English, with a commitment to learn French. Eligibility criteria: You are a national of a CERN Member or Associate Member State . By the application deadline, you have a maximum of two years of professional experience since graduation in Electrical and/or mechanical engineering (or a related field) and your highest educational qualification is a general secondary education diploma . You have never had a CERN fellow or graduate contract before. Applicants with a Bachelor's, Master's or PhD degree are not eligible.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000111340333-infrastructure-technician-ep-ado-so-2026-54-grae-?oga=true",
-    "status": "matched"
-  },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000110691965": {
     "description": "Introduction You will contribute to the design and delivery of scientific exhibitions by transforming complex content into accessible narratives and immersive experiences, coordinating projects, partners, and exhibition quality from concept to realisation. Functions Contribute to the design and delivery of scientific exhibitions, working with scientists, creative teams, and external partners. Translate scientific content into accessible narratives and visual, interactive, and multimedia experiences. Coordinate and manage exhibition projects, including documentation, tenders, production, installation, and dismantling. Ensure the quality, maintenance, safety, and conservation of exhibits over time. Assist in the coordination of object loans and in the application of preventive conservation and safety standards. Contribute to the evaluation, renewal, and documentation of exhibitions, integrating audience feedback. Apply sustainability, accessibility, and inclusion principles throughout the exhibition lifecycle. Co-manage a small team in charge of the exhibitions.",
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000110691965-exhibition-developer-sr-eco-vie-2026-51-ld-?oga=true",
@@ -1490,7 +1473,7 @@
     "title": "Research Scientist II",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-03-18",
+    "posted_date": "",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -1507,5 +1490,63 @@
       "Switzerland"
     ],
     "cached_at": "2026-03-17"
+  },
+  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000115416493": {
+    "description": "As a graduate Electromechanical Technician, you will join the ATLAS Technical coordination team driving the daily infrastructure operations of the ATLAS Detector. You will contribute to the upgrade of the rack infrastructure, needed for the ATLAS Phase II upgrade, gaining hands-on experience with state-of-art industrial equipment in different electrical and mechanical domains. Your responsibilities: Decommission legacy rack infrastructure. Install and commission electrical industrial equipment such as distribution crates, supervision and monitoring equipment, cables, etc. Install and commission electromechanical industrial equipment such as cooling doors, rack ventilation units. Operate and maintain the equipment under ATLAS Technical Coordination responsibility, including component procurement and stock management. Support logistics organisation for sorting equipment and materials. Your profile: Basic experience of industrial electrical equipment. Basic experience of mechanical assemblies. Strong motivation to learn how to perform electromechanical installations as per CERN standards. Skills: Basic understanding of electromechanical diagrams and electrical components. Knowledge of electromechanical installation practices. Use of office software packages. Ability to work both independently and in a team environment. Attention to detail and methodical approach to work. Spoken and written English, with a commitment to learn French. Eligibility criteria: You are a national of a CERN Member or Associate Member State . By the application deadline, you have a maximum of two years of professional experience since graduation in Electrical and/or mechanical engineering (or a related field) and your highest educational qualification is a general secondary education diploma . You have never had a CERN fellow or graduate contract before. Applicants with a Bachelor's, Master's or PhD degree are not eligible.",
+    "external_url": "https://jobs.smartrecruiters.com/CERN/744000115416493-infrastructure-technician-ep-ado-so-2026-54-grae-?oga=true",
+    "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000115373747": {
+    "description": "Within the HSE-ENV group, the selected Graduate will contribute to CERN's greenhouse gas accounting, decarbonisation strategy and energy regulatory monitoring. Your responsibilities 1. Carbon Footprint & Greenhouse Gas Accounting Support the annual update of CERN's greenhouse gas inventory (Scopes 1, 2 and 3). In collaboration with IPT, propose a solution to increase Scope 3 data granularity CERN Departments. Update emission factors. Contribute to the update of emission projections for the HL-LHC and FCC-ee phases. Support scenario analysis for future emission trajectories. 2. Decarbonisation Strategy Support Develop and implement procedures to ensure complete data traceability for decarbonisation initiatives. Support the assessment of reduction potentials and implementation feasibility. Investigate the potential of new decarbonisation specific KPIs. 3. Energy Management Support Lead the update of regulatory watch activities to ensure compliance with evolving energy standards and directives. Assist in the preparation of documentation related to ISO 50001. Contribute to audit preparation and follow-up of action plans. As required, support energy data analysis and energy review activities. 4. PESS & Project Support Contribute to weekly situation points. Your profile Skills Strong analytical and quantitative skills. Experience with data analysis tools (Excel, Python or similar). Knowledge of carbon accounting and/or LCA methodologies is an asset. Ability to work autonomously and interact with multiple stakeholders. Spoken and written English or French, with a commitment to learn the other language. Eligibility criteria: You are a national of a CERN Member or Associate Member State . By the application deadline, you have a maximum of two years of professional experience since graduation in Energy and Climate Engineering (Energy Systems, Climate Science), Environmental Engineering, Industrial Ecology (or a related field) and your highest educational qualification is either a Bachelor's or Master's degree . You have never had a CERN fellow or graduate contract before. Applicants without University degree are not eligible. Applicants with a PhD are not eligible.",
+    "external_url": "https://jobs.smartrecruiters.com/CERN/744000115373747-energy-climate-analyst-hse-env-ec-2026-71-grae-?oga=true",
+    "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000115376527": {
+    "description": "This role focuses on the LHCb VELO detector, covering its operation, maintenance, and future upgrades. During the Long Shutdown 3 (LS3) in late 2026, you will help prepare the detector, ensure its safe state, and coordinate maintenance activities. You will support the replacement and testing of VELO modules using a dedicated CERN test setup and assist external institutes with their module validation. In parallel, you will analyse Run 3 data to improve detector performance and simulations for Run 4. You will also contribute to VELO Upgrade II R&D activities, working on areas such as RF box design, vacuum systems, module design and cooling in collaboration with CERN experts. Your responsibilities Participate in preparing the VELO detector for LS3, including safe state procedures and intervention planning. Support the recommissioning of the CERN slice test setup (cooling, vacuum, slow control, DAQ, safety systems) for module testing. Analyse Run 3 VELO data to characterise detector performance, improve the understanding of its behaviour. Prepare Run 4 recommissioning. Contribute to VELO Upgrade II R&D, focusing on RF, vacuum, module cooling, or module design More information here . Your profile Commissioning and/or operating a large detector. Detector data analysis. Commissioning laboratory test setups including LV, HV, vacuum, or other associated systems. Experience with one field at the interface between the LHC and the VELO (ex. motion and safety system, impedance, vacuum, beam background, etc...). Skills Expertise in detector physics. Proficiency in programming (ideally python and C++, at least one of the two). Knowledge of SCADA system (WinCC, or other). Spoken and written English, with a commitment to learn French. Eligibility criteria: You are a national of a CERN Member or Associate Member State . You have a professional background in Particle Physics, Detector Physics (or a related field) and have either: a Master's degree with 2 to 6 years of post-graduation professional experience; or a PhD with no more than 3 years of post-graduation professional experience. You have never had a CERN fellow or graduate contract before.",
+    "external_url": "https://jobs.smartrecruiters.com/CERN/744000115376527-detector-physicist-lhcb-velo-ep-lcb-2026-62-grap-?oga=true",
+    "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/Sobi/postings/744000115373942": {
+    "description": "About the role As a GMS Project Manager, you will take ownership of the planning and execution of key cross-functional projects—including product launches, lifecycle management, technology transfers, and divestments. You will structure and lead project teams, ensuring that all deliverables are achieved on time, in full, and in alignment with Sobi’s patient-centric mission. You will collaborate closely with partners across Markets, Finance, TechOps, Commercial, External partners and Regulatory to ensure seamless execution and robust communication at all stages. You will also play an important role in developing and improving processes, tools, and ways of working that strengthen Sobi’s ability to launch and manage products with excellence. This position is hybrid and based at one of our Global Hubs in Stockholm - Sweden (HQ), Basel - Switzerland, Raleigh - US or Boston - US reporting directly to Head Global Manufacturing & Supply Project Management. Key Responsibilities Lead project management for global product launches and lifecycle initiatives with a strong focus on launch excellence, supply reliability, cost and patient impact. Create, for the assigned launch or project, an end to end vision from initiation to implementation, integrated into the product strategy. Partner with the Product Team Lead to align on priorities, stakeholders, project resources, and budget, and help remove obstacles to ensure successful execution. Drive proactive, transparent communication and collaboration with stakeholders across Markets, Regulatory, and all TechOps functions. Build and maintain strong, trust-based relationships across global and local teams. Identify and mitigate project risks to ensure robust and resilient delivery. Align closely with Commercial, Regulatory, and TechOps on supply and commercial strategies and translate market needs into manufacturing & supply capabilities. Contribute to the development of project reporting dashboards, ensuring accurate status tracking, KPIs, and resource visibility. Represent the GMS Project Management function in Product Teams and cross-functional forums across the Sobi organisation.",
+    "external_url": "https://jobs.smartrecruiters.com/Sobi/744000115373942-global-manufacturing-supply-project-manager?oga=true",
+    "status": "matched"
+  },
+  "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-qc-scientist-microbiology-lengnau-berne-864632/1": {
+    "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-qc-scientist-microbiology-lengnau-berne-864632/1",
+    "status": "matched",
+    "title": "QC Scientist Microbiology(m/f/d)",
+    "company": "Hays Switzerland",
+    "location": "Lengnau, Berne, Switzerland",
+    "posted_date": "",
+    "department": "",
+    "score": 0,
+    "matched_keywords": [],
+    "deducted_keywords": []
+  },
+  "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-data-scientist-basel-stadt-863771/1": {
+    "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-data-scientist-basel-stadt-863771/1",
+    "status": "matched",
+    "title": "Data Scientist(m/f/d)",
+    "company": "Hays Switzerland",
+    "location": "Basel Stadt, Switzerland",
+    "posted_date": "",
+    "department": "",
+    "score": 0,
+    "matched_keywords": [],
+    "deducted_keywords": []
+  },
+  "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-deviation-investigator-manager-visp-863146/1": {
+    "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-deviation-investigator-manager-visp-863146/1",
+    "status": "matched",
+    "title": "Deviation Investigator Manager(m/f/d)",
+    "company": "Hays Switzerland",
+    "location": "Visp, Switzerland",
+    "posted_date": "",
+    "department": "",
+    "score": -2,
+    "matched_keywords": [],
+    "deducted_keywords": [
+      "location:Visp, Switzerland"
+    ]
   }
 }
