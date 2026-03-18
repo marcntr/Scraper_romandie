@@ -252,6 +252,27 @@ def get_status(external_url: str) -> str:
         return _store.get("_statuses", {}).get(external_url, "matched")
 
 
+def all_statuses() -> dict[str, str]:
+    """Return {external_url: status} for every job not in the default 'matched' state.
+
+    Used by the dashboard to sync triage decisions across devices on page load.
+    """
+    with _lock:
+        result: dict[str, str] = {}
+        for v in _store.values():
+            if not isinstance(v, dict):
+                continue
+            url = v.get("external_url")
+            status = v.get("status", "matched")
+            if url and status != "matched":
+                result[url] = status
+        # Also include _statuses dict (generic monitor / pre-snapshot jobs)
+        for url, status in (_store.get("_statuses") or {}).items():
+            if status != "matched":
+                result[url] = status
+        return result
+
+
 def set_status(external_url: str, status: str) -> None:
     """Update the triage status for a job identified by its public URL.
 

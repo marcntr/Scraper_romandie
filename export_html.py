@@ -1372,16 +1372,31 @@ function filterCompanies() {{
     document.getElementById('sort-score-btn').classList.toggle('active', so === 'score');
     setSort(so);
   }}
-  document.querySelectorAll('.job-card').forEach(card => {{
-    const saved = localStorage.getItem('jd_s_' + card.dataset.url);
-    if (!saved || saved === card.dataset.status) return;
-    const listId = saved === 'matched' ? 'job-list'
-                 : saved === 'ignored' ? 'ignored-list'
-                 :                       'applied-list';
-    document.getElementById(listId).prepend(card);
-    renderTriageBtns(card, saved);
-  }});
-  updateTabCounts();
+
+  function applyStatuses() {{
+    document.querySelectorAll('.job-card').forEach(card => {{
+      const saved = localStorage.getItem('jd_s_' + card.dataset.url);
+      if (!saved || saved === card.dataset.status) return;
+      const listId = saved === 'matched' ? 'job-list'
+                   : saved === 'ignored' ? 'ignored-list'
+                   :                       'applied-list';
+      document.getElementById(listId).prepend(card);
+      renderTriageBtns(card, saved);
+    }});
+    updateTabCounts();
+  }}
+
+  // Fetch server statuses so triage decisions sync across devices.
+  // Server state is written into localStorage so offline use stays correct too.
+  fetch('/api/statuses')
+    .then(r => r.json())
+    .then(serverStatuses => {{
+      Object.entries(serverStatuses).forEach(([url, status]) => {{
+        try {{ localStorage.setItem('jd_s_' + url, status); }} catch(_) {{}}
+      }});
+      applyStatuses();
+    }})
+    .catch(() => applyStatuses());
 }})();
 </script>
 

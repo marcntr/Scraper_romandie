@@ -28,6 +28,13 @@ def index():
     return send_file(HTML_PATH)
 
 
+@app.route("/api/statuses", methods=["GET"])
+def get_all_statuses():
+    """Return all non-matched triage decisions so the dashboard can sync across devices."""
+    job_cache.load()
+    return jsonify(job_cache.all_statuses())
+
+
 @app.route("/api/status", methods=["POST"])
 def update_status():
     data = request.get_json(silent=True) or {}
