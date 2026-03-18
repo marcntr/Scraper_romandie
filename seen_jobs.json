@@ -700,44 +700,6 @@
     "matched_keywords": [],
     "deducted_keywords": []
   },
-  "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-qc-scientist-microbiology-lengnau-berne-864632/1": {
-    "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-qc-scientist-microbiology-lengnau-berne-864632/1",
-    "status": "matched",
-    "title": "QC Scientist Microbiology(m/f/d)",
-    "company": "Hays Switzerland",
-    "location": "Lengnau, Berne, Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": 0,
-    "matched_keywords": [],
-    "deducted_keywords": []
-  },
-  "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-data-scientist-basel-stadt-863771/1": {
-    "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-data-scientist-basel-stadt-863771/1",
-    "status": "matched",
-    "title": "Data Scientist(m/f/d)",
-    "company": "Hays Switzerland",
-    "location": "Basel Stadt, Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": 0,
-    "matched_keywords": [],
-    "deducted_keywords": []
-  },
-  "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-deviation-investigator-manager-visp-863146/1": {
-    "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-deviation-investigator-manager-visp-863146/1",
-    "status": "matched",
-    "title": "Deviation Investigator Manager(m/f/d)",
-    "company": "Hays Switzerland",
-    "location": "Visp, Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": -2,
-    "matched_keywords": [],
-    "deducted_keywords": [
-      "location:Visp, Switzerland"
-    ]
-  },
   "https://www.michaelpage.ch/job-detail/business-development-manager-defense-europe-mfd/ref/jn-122025-6902007": {
     "external_url": "https://www.michaelpage.ch/job-detail/business-development-manager-defense-europe-mfd/ref/jn-122025-6902007",
     "status": "matched",
@@ -843,7 +805,7 @@
     "title": "Internship in Computational Biology and Medicine - Ophthalmology (for 6 month in Basel)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-03-17",
+    "posted_date": "2026-03-18",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -859,7 +821,7 @@
     "title": "Machine Learning Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-03-05",
+    "posted_date": "2026-03-06",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -875,7 +837,7 @@
     "title": "(Sr.) Scientist, Development (Parenteral Drug Product)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-03-06",
+    "posted_date": "2026-03-07",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -893,7 +855,7 @@
     "title": "Scientist, Antibiotics Discovery",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-02-26",
+    "posted_date": "2026-02-27",
     "department": "",
     "score": 8,
     "matched_keywords": [
@@ -915,7 +877,7 @@
     "title": "Post Doctorate Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-02-25",
+    "posted_date": "2026-02-26",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -932,7 +894,7 @@
     "title": "Senior Scientist - Mucosal Immunology",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-02-15",
+    "posted_date": "2026-02-16",
     "department": "",
     "score": 8,
     "matched_keywords": [
@@ -954,7 +916,7 @@
     "title": "Post Doctorate Scientist (Organoid Systems Biology) - Institute of Human Biology",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-02-23",
+    "posted_date": "2026-02-24",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -975,7 +937,7 @@
     "title": "Non-Malignant Hematology in vitro/in vivo Scientist_1 year temporary contract",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-02-15",
+    "posted_date": "2026-02-16",
     "department": "",
     "score": 8,
     "matched_keywords": [
@@ -1012,7 +974,7 @@
     "title": "Senior Manager HEOR",
     "company": "Abbott",
     "location": "Switzerland - Basel",
-    "posted_date": "2026-02-15",
+    "posted_date": "2026-02-16",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -1030,7 +992,7 @@
     "title": "Associate Director, EUCAN Regulatory Lead - GI and Inflammation",
     "company": "Takeda",
     "location": "Zurich, Switzerland",
-    "posted_date": "2026-03-02",
+    "posted_date": "2026-03-03",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1045,7 +1007,7 @@
     "title": "Manager, International Clinical Trial Regulatory Lead",
     "company": "Takeda",
     "location": "Zurich, Switzerland",
-    "posted_date": "2026-02-15",
+    "posted_date": "2026-02-16",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1060,7 +1022,7 @@
     "title": "Associate Director, EUCAN Regulatory Lead - Oncology",
     "company": "Takeda",
     "location": "Zurich, Switzerland",
-    "posted_date": "2026-02-15",
+    "posted_date": "2026-02-16",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1076,7 +1038,7 @@
     "title": "Vice President, Regulatory Affairs, Europe and International",
     "company": "BeiGene",
     "location": "Basel",
-    "posted_date": "2026-02-15",
+    "posted_date": "2026-02-16",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1092,7 +1054,7 @@
     "title": "Scientist Microbiological Quality Control",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-03-13",
+    "posted_date": "2026-03-14",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -1107,7 +1069,7 @@
     "title": "Senior Scientist, Material Qualification & Release (QC GMP)",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-02-15",
+    "posted_date": "2026-02-16",
     "department": "",
     "score": -1,
     "matched_keywords": [
@@ -1157,7 +1119,7 @@
     "title": "Associate Director, Global Regulatory Strategy",
     "company": "Biogen",
     "location": "Baar, Switzerland",
-    "posted_date": "2026-02-15",
+    "posted_date": "2026-02-16",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -1175,7 +1137,7 @@
     "title": "Associate Director, Regulatory CMC Small Molecule Lead",
     "company": "Biogen",
     "location": "Baar, Switzerland",
-    "posted_date": "2026-02-15",
+    "posted_date": "2026-02-16",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -1528,7 +1490,7 @@
     "title": "Research Scientist II",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-03-17",
+    "posted_date": "2026-03-18",
     "department": "",
     "score": 4,
     "matched_keywords": [
