@@ -1162,6 +1162,87 @@ a {{ color: inherit; text-decoration: none; }}
   font-size: 13px;
   color: #cbd5e1;
 }}
+/* ── Gist sync button & modal ── */
+.sync-btn {{
+  position: fixed;
+  top: 14px;
+  right: 16px;
+  background: #1e293b;
+  border: 1px solid #334155;
+  border-radius: 20px;
+  padding: 6px 12px;
+  color: #94a3b8;
+  font-size: 13px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  z-index: 200;
+}}
+.sync-btn:hover {{ background: #334155; }}
+.sync-dot {{
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: #475569;
+  flex-shrink: 0;
+}}
+.sync-dot.ok    {{ background: #22c55e; }}
+.sync-dot.error {{ background: #ef4444; }}
+.sync-dot.busy  {{ background: #f59e0b; }}
+.modal-overlay {{
+  display: none;
+  position: fixed;
+  inset: 0;
+  background: rgba(0,0,0,.6);
+  z-index: 300;
+  align-items: center;
+  justify-content: center;
+}}
+.modal-overlay.open {{ display: flex; }}
+.modal-box {{
+  background: #1e293b;
+  border: 1px solid #334155;
+  border-radius: 10px;
+  padding: 24px;
+  width: min(420px, 92vw);
+  color: #e2e8f0;
+  font-size: 14px;
+}}
+.modal-box h3 {{ margin: 0 0 16px; font-size: 16px; color: #f1f5f9; }}
+.modal-box label {{ display: block; margin-bottom: 4px; color: #94a3b8; font-size: 12px; }}
+.modal-box input {{
+  width: 100%;
+  box-sizing: border-box;
+  background: #0f172a;
+  border: 1px solid #334155;
+  border-radius: 6px;
+  padding: 8px 10px;
+  color: #f1f5f9;
+  font-size: 13px;
+  margin-bottom: 14px;
+}}
+.modal-box .hint {{
+  font-size: 11px;
+  color: #64748b;
+  margin-top: -10px;
+  margin-bottom: 14px;
+  line-height: 1.5;
+}}
+.modal-row {{ display: flex; gap: 8px; flex-wrap: wrap; margin-top: 4px; }}
+.modal-row button {{
+  flex: 1;
+  padding: 8px 12px;
+  border-radius: 6px;
+  border: none;
+  cursor: pointer;
+  font-size: 13px;
+  font-weight: 600;
+}}
+.btn-save  {{ background: #2563eb; color: #fff; }}
+.btn-test  {{ background: #0f172a; border: 1px solid #334155 !important; color: #94a3b8; }}
+.btn-clear {{ background: #7f1d1d; color: #fca5a5; }}
+#sync-status-msg {{ font-size: 12px; color: #64748b; margin-top: 12px; min-height: 18px; }}
 </style>
 </head>
 <body>
@@ -1169,6 +1250,28 @@ a {{ color: inherit; text-decoration: none; }}
 <div class="header">
   <h1>Biopharma Job Dashboard</h1>
   <div class="subtitle">Run: {_esc(timestamp)}</div>
+</div>
+
+<button class="sync-btn" onclick="openSyncModal()">
+  <span class="sync-dot" id="sync-dot"></span>&#9881; Sync
+</button>
+
+<div class="modal-overlay" id="sync-modal" onclick="if(event.target===this)closeSyncModal()">
+  <div class="modal-box">
+    <h3>&#9881; Gist Sync Settings</h3>
+    <label>GitHub Personal Access Token</label>
+    <input type="password" id="sync-token" placeholder="ghp_…" autocomplete="off">
+    <div class="hint">Needs <code>gist</code> scope. <a href="https://github.com/settings/tokens/new?scopes=gist" target="_blank" style="color:#60a5fa">Create one here</a>.</div>
+    <label>Gist ID</label>
+    <input type="text" id="sync-gist-id" placeholder="abc123…" autocomplete="off">
+    <div class="hint">Create a secret Gist with a file named <code>statuses.json</code> containing <code>{{}}</code>, then paste the ID from the URL.</div>
+    <div class="modal-row">
+      <button class="btn-save" onclick="saveSyncSettings()">Save</button>
+      <button class="btn-test" onclick="testSyncSettings()">Test</button>
+      <button class="btn-clear" onclick="clearSyncSettings()">Clear</button>
+    </div>
+    <div id="sync-status-msg"></div>
+  </div>
 </div>
 
 <div class="tab-bar">
@@ -1289,12 +1392,122 @@ function renderTriageBtns(card, status) {{
   }}
 }}
 
-// ── Triage: move card, persist locally, best-effort API sync ──
+// ── GitHub Gist sync ──
+const _GIST_TOKEN_KEY = 'jd_gist_token';
+const _GIST_ID_KEY    = 'jd_gist_id';
+let _pushTimer = null;
+
+function _gistHeaders() {{
+  return {{
+    'Authorization':        'Bearer ' + localStorage.getItem(_GIST_TOKEN_KEY),
+    'Accept':               'application/vnd.github+json',
+    'X-GitHub-Api-Version': '2022-11-28',
+  }};
+}}
+function _gistUrl() {{
+  return 'https://api.github.com/gists/' + localStorage.getItem(_GIST_ID_KEY);
+}}
+function _hasGist() {{
+  return !!(localStorage.getItem(_GIST_TOKEN_KEY) && localStorage.getItem(_GIST_ID_KEY));
+}}
+function _setSyncDot(state) {{
+  const dot = document.getElementById('sync-dot');
+  if (dot) dot.className = 'sync-dot' + (state ? ' ' + state : '');
+}}
+function _buildCurrentStatuses() {{
+  const out = {{}};
+  document.querySelectorAll('.job-card').forEach(card => {{
+    const s = localStorage.getItem('jd_s_' + card.dataset.url);
+    if (s && s !== 'matched') out[card.dataset.url] = s;
+  }});
+  return out;
+}}
+function _schedulePush() {{
+  if (!_hasGist()) return;
+  if (_pushTimer) clearTimeout(_pushTimer);
+  _pushTimer = setTimeout(_doPush, 1500);
+}}
+function _doPush() {{
+  if (!_hasGist()) return;
+  _setSyncDot('busy');
+  const statuses = _buildCurrentStatuses();
+  fetch(_gistUrl(), {{
+    method:  'PATCH',
+    headers: _gistHeaders(),
+    body:    JSON.stringify({{files: {{'statuses.json': {{content: JSON.stringify(statuses, null, 2)}}}}}})
+  }})
+  .then(r => _setSyncDot(r.ok ? 'ok' : 'error'))
+  .catch(() => _setSyncDot('error'));
+}}
+function _fetchGistStatuses() {{
+  if (!_hasGist()) return Promise.resolve(null);
+  _setSyncDot('busy');
+  return fetch(_gistUrl(), {{headers: _gistHeaders()}})
+    .then(r => r.ok ? r.json() : Promise.reject(r.status))
+    .then(data => {{
+      _setSyncDot('ok');
+      const raw = data.files && data.files['statuses.json'];
+      if (!raw) return null;
+      try {{ return JSON.parse(raw.content || '{{}}'); }} catch(_) {{ return null; }}
+    }})
+    .catch(() => {{ _setSyncDot('error'); return null; }});
+}}
+function openSyncModal() {{
+  document.getElementById('sync-token').value   = localStorage.getItem(_GIST_TOKEN_KEY) || '';
+  document.getElementById('sync-gist-id').value = localStorage.getItem(_GIST_ID_KEY)    || '';
+  document.getElementById('sync-status-msg').textContent = '';
+  document.getElementById('sync-modal').classList.add('open');
+}}
+function closeSyncModal() {{
+  document.getElementById('sync-modal').classList.remove('open');
+}}
+function saveSyncSettings() {{
+  const t = document.getElementById('sync-token').value.trim();
+  const g = document.getElementById('sync-gist-id').value.trim();
+  if (t) localStorage.setItem(_GIST_TOKEN_KEY, t); else localStorage.removeItem(_GIST_TOKEN_KEY);
+  if (g) localStorage.setItem(_GIST_ID_KEY,    g); else localStorage.removeItem(_GIST_ID_KEY);
+  document.getElementById('sync-status-msg').textContent = 'Saved.';
+  _setSyncDot(_hasGist() ? '' : '');
+  closeSyncModal();
+}}
+function testSyncSettings() {{
+  const t = document.getElementById('sync-token').value.trim();
+  const g = document.getElementById('sync-gist-id').value.trim();
+  if (!t || !g) {{
+    document.getElementById('sync-status-msg').textContent = 'Enter token and Gist ID first.';
+    return;
+  }}
+  document.getElementById('sync-status-msg').textContent = 'Testing\u2026';
+  fetch('https://api.github.com/gists/' + g, {{
+    headers: {{
+      'Authorization':        'Bearer ' + t,
+      'Accept':               'application/vnd.github+json',
+      'X-GitHub-Api-Version': '2022-11-28',
+    }}
+  }})
+  .then(r => {{
+    document.getElementById('sync-status-msg').textContent =
+      r.ok ? '\u2713 Connected!' : '\u2717 Error ' + r.status;
+  }})
+  .catch(() => {{
+    document.getElementById('sync-status-msg').textContent = '\u2717 Network error';
+  }});
+}}
+function clearSyncSettings() {{
+  localStorage.removeItem(_GIST_TOKEN_KEY);
+  localStorage.removeItem(_GIST_ID_KEY);
+  document.getElementById('sync-token').value   = '';
+  document.getElementById('sync-gist-id').value = '';
+  document.getElementById('sync-status-msg').textContent = 'Cleared.';
+  _setSyncDot('');
+}}
+
+// ── Triage: move card, persist locally, sync to Gist ──
 function setJobStatus(btn, newStatus) {{
   const card   = btn.closest('.job-card');
   const jobUrl = card.dataset.url;
 
-  // Move card immediately – works with or without server
+  // Move card immediately
   const listId = newStatus === 'matched'  ? 'job-list'
                : newStatus === 'ignored'  ? 'ignored-list'
                :                            'applied-list';
@@ -1305,12 +1518,8 @@ function setJobStatus(btn, newStatus) {{
   // Persist locally so status survives page refresh
   try {{ localStorage.setItem('jd_s_' + jobUrl, newStatus); }} catch(_) {{}}
 
-  // Best-effort sync to server.py if it happens to be running
-  fetch('/api/status', {{
-    method:  'POST',
-    headers: {{'Content-Type': 'application/json'}},
-    body:    JSON.stringify({{url: jobUrl, status: newStatus}}),
-  }}).catch(() => {{}});
+  // Debounced push to Gist
+  _schedulePush();
 }}
 
 // ── Description toggle ──
@@ -1373,6 +1582,9 @@ function filterCompanies() {{
     setSort(so);
   }}
 
+  // Show sync dot grey if no credentials configured yet
+  if (!_hasGist()) _setSyncDot('');
+
   function applyStatuses() {{
     document.querySelectorAll('.job-card').forEach(card => {{
       const saved = localStorage.getItem('jd_s_' + card.dataset.url);
@@ -1386,32 +1598,16 @@ function filterCompanies() {{
     updateTabCounts();
   }}
 
-  // Fetch statuses.json — works on both localhost (Flask serves it) and
-  // GitHub Pages (static file committed alongside latest_jobs.html).
-  fetch('./statuses.json')
-    .then(r => r.json())
-    .then(serverStatuses => {{
-      // Server → localStorage: server state takes priority for known entries.
-      Object.entries(serverStatuses).forEach(([url, status]) => {{
-        try {{ localStorage.setItem('jd_s_' + url, status); }} catch(_) {{}}
-      }});
-
-      // localStorage → server: if this device has statuses the server doesn't
-      // know about yet (e.g. clicks made before server.py was running), sync
-      // them back so they propagate to GitHub Pages and other devices.
-      document.querySelectorAll('.job-card').forEach(card => {{
-        const url    = card.dataset.url;
-        const local  = localStorage.getItem('jd_s_' + url);
-        const remote = serverStatuses[url] || 'matched';
-        if (local && local !== 'matched' && local !== remote) {{
-          fetch('/api/status', {{
-            method:  'POST',
-            headers: {{'Content-Type': 'application/json'}},
-            body:    JSON.stringify({{url, status: local}}),
-          }}).catch(() => {{}});
-        }}
-      }});
-
+  // On load: fetch Gist if credentials are configured, apply to localStorage,
+  // then render.  Falls back to localStorage-only if no Gist configured or
+  // if the fetch fails.
+  _fetchGistStatuses()
+    .then(gistStatuses => {{
+      if (gistStatuses) {{
+        Object.entries(gistStatuses).forEach(([url, status]) => {{
+          try {{ localStorage.setItem('jd_s_' + url, status); }} catch(_) {{}}
+        }});
+      }}
       applyStatuses();
     }})
     .catch(() => applyStatuses());

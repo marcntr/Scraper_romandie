@@ -447,12 +447,6 @@ def run(show_all: bool = False) -> list[Job]:
     # cached descriptions and won't be re-fetched next run.
     job_cache.prune_and_save(all_scraped_urls)
 
-    # Write statuses.json so GitHub Pages stays in sync with triage decisions.
-    # This file is committed alongside latest_jobs.html on every push.
-    import json as _json
-    with open("statuses.json", "w", encoding="utf-8") as _fh:
-        _json.dump(job_cache.all_statuses(), _fh, indent=2)
-
     return all_matched
 
 
