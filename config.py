@@ -310,13 +310,13 @@ COMPANIES: list[dict] = [
         "careers_url": "https://www.workatgalapagos.com/join-us",
         "keywords": TITLE_FILTERS,
     },
-    # Monte Rosa Therapeutics — migrated from iCIMS to Workable
+    # Monte Rosa Therapeutics — migrated back to iCIMS (no public API/feed).
+    # Main careers page server-renders job title links, so keyword matching works.
     {
         "name": "Monte Rosa Therapeutics",
-        "ats": "workable",
-        "slug": "monte-rosa-therapeutics",
-        "location_terms": LOCATION_FILTERS,
-        "title_terms": TITLE_FILTERS,
+        "ats": "generic",
+        "careers_url": "https://www.monterosatx.com/careers",
+        "keywords": TITLE_FILTERS,
     },
     # Ridgeline Discovery uses Freshteam — no structured scraper.
     {
