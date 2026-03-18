@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Job Dashboard — 2026-03-18 18:55</title>
+<title>Job Dashboard — 2026-03-18 19:40</title>
 <style>
 /* ── Reset & base ── */
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
@@ -450,13 +450,116 @@ a { color: inherit; text-decoration: none; }
   font-size: 13px;
   color: #cbd5e1;
 }
+/* ── Gist sync button & modal ── */
+.sync-btn {
+  position: fixed;
+  top: 14px;
+  right: 16px;
+  background: #1e293b;
+  border: 1px solid #334155;
+  border-radius: 20px;
+  padding: 6px 12px;
+  color: #94a3b8;
+  font-size: 13px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  z-index: 200;
+}
+.sync-btn:hover { background: #334155; }
+.sync-dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: #475569;
+  flex-shrink: 0;
+}
+.sync-dot.ok    { background: #22c55e; }
+.sync-dot.error { background: #ef4444; }
+.sync-dot.busy  { background: #f59e0b; }
+.modal-overlay {
+  display: none;
+  position: fixed;
+  inset: 0;
+  background: rgba(0,0,0,.6);
+  z-index: 300;
+  align-items: center;
+  justify-content: center;
+}
+.modal-overlay.open { display: flex; }
+.modal-box {
+  background: #1e293b;
+  border: 1px solid #334155;
+  border-radius: 10px;
+  padding: 24px;
+  width: min(420px, 92vw);
+  color: #e2e8f0;
+  font-size: 14px;
+}
+.modal-box h3 { margin: 0 0 16px; font-size: 16px; color: #f1f5f9; }
+.modal-box label { display: block; margin-bottom: 4px; color: #94a3b8; font-size: 12px; }
+.modal-box input {
+  width: 100%;
+  box-sizing: border-box;
+  background: #0f172a;
+  border: 1px solid #334155;
+  border-radius: 6px;
+  padding: 8px 10px;
+  color: #f1f5f9;
+  font-size: 13px;
+  margin-bottom: 14px;
+}
+.modal-box .hint {
+  font-size: 11px;
+  color: #64748b;
+  margin-top: -10px;
+  margin-bottom: 14px;
+  line-height: 1.5;
+}
+.modal-row { display: flex; gap: 8px; flex-wrap: wrap; margin-top: 4px; }
+.modal-row button {
+  flex: 1;
+  padding: 8px 12px;
+  border-radius: 6px;
+  border: none;
+  cursor: pointer;
+  font-size: 13px;
+  font-weight: 600;
+}
+.btn-save  { background: #2563eb; color: #fff; }
+.btn-test  { background: #0f172a; border: 1px solid #334155 !important; color: #94a3b8; }
+.btn-clear { background: #7f1d1d; color: #fca5a5; }
+#sync-status-msg { font-size: 12px; color: #64748b; margin-top: 12px; min-height: 18px; }
 </style>
 </head>
 <body>
 
 <div class="header">
   <h1>Biopharma Job Dashboard</h1>
-  <div class="subtitle">Run: 2026-03-18 18:55</div>
+  <div class="subtitle">Run: 2026-03-18 19:40</div>
+</div>
+
+<button class="sync-btn" onclick="openSyncModal()">
+  <span class="sync-dot" id="sync-dot"></span>&#9881; Sync
+</button>
+
+<div class="modal-overlay" id="sync-modal" onclick="if(event.target===this)closeSyncModal()">
+  <div class="modal-box">
+    <h3>&#9881; Gist Sync Settings</h3>
+    <label>GitHub Personal Access Token</label>
+    <input type="password" id="sync-token" placeholder="ghp_…" autocomplete="off">
+    <div class="hint">Needs <code>gist</code> scope. <a href="https://github.com/settings/tokens/new?scopes=gist" target="_blank" style="color:#60a5fa">Create one here</a>.</div>
+    <label>Gist ID</label>
+    <input type="text" id="sync-gist-id" placeholder="abc123…" autocomplete="off">
+    <div class="hint">Create a secret Gist with a file named <code>statuses.json</code> containing <code>{}</code>, then paste the ID from the URL.</div>
+    <div class="modal-row">
+      <button class="btn-save" onclick="saveSyncSettings()">Save</button>
+      <button class="btn-test" onclick="testSyncSettings()">Test</button>
+      <button class="btn-clear" onclick="clearSyncSettings()">Clear</button>
+    </div>
+    <div id="sync-status-msg"></div>
+  </div>
 </div>
 
 <div class="tab-bar">
@@ -485,7 +588,7 @@ a { color: inherit; text-decoration: none; }
      data-location="romandie"
      data-url="https://job-boards.greenhouse.io/isomorphiclabs/jobs/5797365004"
      data-status="matched"
-     data-text="senior / research scientist (in-vitro / cellular pharmacology - peptides), london, lausanne isomorphic labs pharmacology phd msc drug discovery location:lausanne">
+     data-text="senior / research scientist (in-vitro / cellular pharmacology - peptides), london, lausanne isomorphic labs location:lausanne msc drug discovery phd pharmacology">
   <div class="card-header">
     <div class="card-left">
       <span class="score-badge score-green">+8</span>
@@ -501,7 +604,7 @@ a { color: inherit; text-decoration: none; }
     <span class="posted">Posted 2026-03-18</span>
   </div>
   <div class="card-keywords">
-    <span class="kw-label kw-plus">+</span><span class="kw-text">pharmacology  PhD  MSc  drug discovery  location:lausanne</span>
+    <span class="kw-label kw-plus">+</span><span class="kw-text">location:lausanne  MSc  drug discovery  PhD  pharmacology</span>
     &nbsp;&nbsp;
     <span class="kw-label kw-minus">−</span><span class="kw-text">(none)</span>
   </div>
@@ -572,7 +675,7 @@ a { color: inherit; text-decoration: none; }
      data-location="switzerland"
      data-url="https://jobs.ashbyhq.com/benchling/33b3deda-15df-442f-be7f-c01552906791"
      data-status="matched"
-     data-text="implementation manager - bilingual (english/french) benchling molecular biology bilingual bioinformatics immunology french">
+     data-text="implementation manager - bilingual (english/french) benchling french immunology bilingual molecular biology bioinformatics">
   <div class="card-header">
     <div class="card-left">
       <span class="score-badge score-lime">+5</span>
@@ -588,7 +691,7 @@ a { color: inherit; text-decoration: none; }
     <span class="posted">Posted 2026-03-17</span>
   </div>
   <div class="card-keywords">
-    <span class="kw-label kw-plus">+</span><span class="kw-text">molecular biology  bilingual  bioinformatics  immunology  French</span>
+    <span class="kw-label kw-plus">+</span><span class="kw-text">French  immunology  bilingual  molecular biology  bioinformatics</span>
     &nbsp;&nbsp;
     <span class="kw-label kw-minus">−</span><span class="kw-text">(none)</span>
   </div>
@@ -803,7 +906,7 @@ Benchling welcomes everyone</li><li>We believe diversity enriches our team so we
      data-location="romandie"
      data-url="https://jobs.smartrecruiters.com/CERN/744000114311568-scientific-associateship-theoretical-physics-?oga=true"
      data-status="matched"
-     data-text="scientific associateship (theoretical physics) cern location:geneva french">
+     data-text="scientific associateship (theoretical physics) cern french location:geneva">
   <div class="card-header">
     <div class="card-left">
       <span class="score-badge score-lime">+5</span>
@@ -819,7 +922,7 @@ Benchling welcomes everyone</li><li>We believe diversity enriches our team so we
     <span class="posted">Posted 2026-03-12</span>
   </div>
   <div class="card-keywords">
-    <span class="kw-label kw-plus">+</span><span class="kw-text">location:geneva  French</span>
+    <span class="kw-label kw-plus">+</span><span class="kw-text">French  location:geneva</span>
     &nbsp;&nbsp;
     <span class="kw-label kw-minus">−</span><span class="kw-text">(none)</span>
   </div>
@@ -877,7 +980,7 @@ Benchling welcomes everyone</li><li>We believe diversity enriches our team so we
      data-location="switzerland"
      data-url="https://jobs.ashbyhq.com/benchling/fd008c7e-bb3c-495f-90f1-215915fb4f3f"
      data-status="matched"
-     data-text="implementation manager benchling molecular biology bioinformatics immunology">
+     data-text="implementation manager benchling molecular biology immunology bioinformatics">
   <div class="card-header">
     <div class="card-left">
       <span class="score-badge score-lime">+3</span>
@@ -893,7 +996,7 @@ Benchling welcomes everyone</li><li>We believe diversity enriches our team so we
     <span class="posted">Posted 2026-03-11</span>
   </div>
   <div class="card-keywords">
-    <span class="kw-label kw-plus">+</span><span class="kw-text">molecular biology  bioinformatics  immunology</span>
+    <span class="kw-label kw-plus">+</span><span class="kw-text">molecular biology  immunology  bioinformatics</span>
     &nbsp;&nbsp;
     <span class="kw-label kw-minus">−</span><span class="kw-text">(none)</span>
   </div>
@@ -1114,7 +1217,7 @@ Benchling welcomes everyone</li><li>We believe diversity enriches our team so we
      data-location="switzerland"
      data-url="https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Scientist--Antibiotics-Discovery_202602-103968-1"
      data-status="matched"
-     data-text="scientist, antibiotics discovery roche molecular biology computational biology genomics preclinical phd postdoc assay development postdoctoral">
+     data-text="scientist, antibiotics discovery roche assay development computational biology molecular biology genomics preclinical postdoctoral phd postdoc">
   <div class="card-header">
     <div class="card-left">
       <span class="score-badge score-green">+8</span>
@@ -1130,7 +1233,7 @@ Benchling welcomes everyone</li><li>We believe diversity enriches our team so we
     <span class="posted">Posted 2026-02-26</span>
   </div>
   <div class="card-keywords">
-    <span class="kw-label kw-plus">+</span><span class="kw-text">molecular biology  computational biology  genomics  preclinical  PhD  Postdoc  assay development  postdoctoral</span>
+    <span class="kw-label kw-plus">+</span><span class="kw-text">assay development  computational biology  molecular biology  genomics  preclinical  postdoctoral  PhD  Postdoc</span>
     &nbsp;&nbsp;
     <span class="kw-label kw-minus">−</span><span class="kw-text">(none)</span>
   </div>
@@ -1154,7 +1257,7 @@ Benchling welcomes everyone</li><li>We believe diversity enriches our team so we
      data-location="switzerland"
      data-url="https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Post-Doctorate-Scientist--m-f-d-_202512-132221-1"
      data-status="matched"
-     data-text="post doctorate scientist roche molecular biology bioinformatics in vitro">
+     data-text="post doctorate scientist roche in vitro molecular biology bioinformatics">
   <div class="card-header">
     <div class="card-left">
       <span class="score-badge score-lime">+3</span>
@@ -1170,7 +1273,7 @@ Benchling welcomes everyone</li><li>We believe diversity enriches our team so we
     <span class="posted">Posted 2026-02-25</span>
   </div>
   <div class="card-keywords">
-    <span class="kw-label kw-plus">+</span><span class="kw-text">molecular biology  bioinformatics  in vitro</span>
+    <span class="kw-label kw-plus">+</span><span class="kw-text">in vitro  molecular biology  bioinformatics</span>
     &nbsp;&nbsp;
     <span class="kw-label kw-minus">−</span><span class="kw-text">(none)</span>
   </div>
@@ -1193,7 +1296,7 @@ Benchling welcomes everyone</li><li>We believe diversity enriches our team so we
      data-location="switzerland"
      data-url="https://jobs.ashbyhq.com/benchling/9fd85d81-dd64-4456-b0b6-08f8e8cb1f64"
      data-status="matched"
-     data-text="implementation manager benchling molecular biology bioinformatics immunology">
+     data-text="implementation manager benchling molecular biology immunology bioinformatics">
   <div class="card-header">
     <div class="card-left">
       <span class="score-badge score-lime">+3</span>
@@ -1209,7 +1312,7 @@ Benchling welcomes everyone</li><li>We believe diversity enriches our team so we
     <span class="posted">Posted 2026-02-25</span>
   </div>
   <div class="card-keywords">
-    <span class="kw-label kw-plus">+</span><span class="kw-text">molecular biology  bioinformatics  immunology</span>
+    <span class="kw-label kw-plus">+</span><span class="kw-text">molecular biology  immunology  bioinformatics</span>
     &nbsp;&nbsp;
     <span class="kw-label kw-minus">−</span><span class="kw-text">(none)</span>
   </div>
@@ -1306,7 +1409,7 @@ Benchling welcomes everyone</li><li>We believe diversity enriches our team so we
      data-location="switzerland"
      data-url="https://apply.workable.com/sophia-genetics/j/92BB3A7C3A/"
      data-status="matched"
-     data-text="clinical biomarker expert sophia genetics biomarker discovery oncology translational medicine biomarker strategy medical affairs">
+     data-text="clinical biomarker expert sophia genetics biomarker strategy translational medicine oncology medical affairs biomarker discovery">
   <div class="card-header">
     <div class="card-left">
       <span class="score-badge score-blue">+1</span>
@@ -1322,7 +1425,7 @@ Benchling welcomes everyone</li><li>We believe diversity enriches our team so we
     <span class="posted">Posted 2026-02-25</span>
   </div>
   <div class="card-keywords">
-    <span class="kw-label kw-plus">+</span><span class="kw-text">biomarker discovery  oncology  translational medicine  biomarker strategy  medical affairs</span>
+    <span class="kw-label kw-plus">+</span><span class="kw-text">biomarker strategy  translational medicine  oncology  medical affairs  biomarker discovery</span>
     &nbsp;&nbsp;
     <span class="kw-label kw-minus">−</span><span class="kw-text">CRA  location:United Kingdom / United Kingdom / France / Germany / Switzerland</span>
   </div>
@@ -1343,7 +1446,7 @@ Benchling welcomes everyone</li><li>We believe diversity enriches our team so we
      data-location="switzerland"
      data-url="https://apply.workable.com/sophia-genetics/j/92BB3A7C3A/"
      data-status="matched"
-     data-text="clinical biomarker expert sophia genetics biomarker discovery oncology translational medicine biomarker strategy medical affairs">
+     data-text="clinical biomarker expert sophia genetics biomarker strategy translational medicine oncology medical affairs biomarker discovery">
   <div class="card-header">
     <div class="card-left">
       <span class="score-badge score-blue">+1</span>
@@ -1359,7 +1462,7 @@ Benchling welcomes everyone</li><li>We believe diversity enriches our team so we
     <span class="posted">Posted 2026-02-25</span>
   </div>
   <div class="card-keywords">
-    <span class="kw-label kw-plus">+</span><span class="kw-text">biomarker discovery  oncology  translational medicine  biomarker strategy  medical affairs</span>
+    <span class="kw-label kw-plus">+</span><span class="kw-text">biomarker strategy  translational medicine  oncology  medical affairs  biomarker discovery</span>
     &nbsp;&nbsp;
     <span class="kw-label kw-minus">−</span><span class="kw-text">CRA  location:United Kingdom / United Kingdom / France / Germany / Switzerland</span>
   </div>
@@ -1419,7 +1522,7 @@ Benchling welcomes everyone</li><li>We believe diversity enriches our team so we
      data-location="switzerland"
      data-url="https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Senior-Scientist---Mucosal-Immunology_202602-103270-2"
      data-status="matched"
-     data-text="senior scientist - mucosal immunology roche post-doc preclinical pharmacology phd post-doctoral immunology drug discovery translational research">
+     data-text="senior scientist - mucosal immunology roche post-doc post-doctoral immunology translational research drug discovery preclinical phd pharmacology">
   <div class="card-header">
     <div class="card-left">
       <span class="score-badge score-green">+8</span>
@@ -1435,7 +1538,7 @@ Benchling welcomes everyone</li><li>We believe diversity enriches our team so we
     <span class="posted">Posted 2026-02-16</span>
   </div>
   <div class="card-keywords">
-    <span class="kw-label kw-plus">+</span><span class="kw-text">Post-doc  preclinical  pharmacology  PhD  post-doctoral  immunology  drug discovery  translational research</span>
+    <span class="kw-label kw-plus">+</span><span class="kw-text">Post-doc  post-doctoral  immunology  translational research  drug discovery  preclinical  PhD  pharmacology</span>
     &nbsp;&nbsp;
     <span class="kw-label kw-minus">−</span><span class="kw-text">(none)</span>
   </div>
@@ -1459,7 +1562,7 @@ Benchling welcomes everyone</li><li>We believe diversity enriches our team so we
      data-location="switzerland"
      data-url="https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Non-Malignant-Hematology-in-vitro-in-vivo-Scientist-1-year-temporary-contract_202602-102662-1"
      data-status="matched"
-     data-text="non-malignant hematology in vitro/in vivo scientist_1 year temporary contract roche molecular biology preclinical in vivo pharmacology phd in vitro immunology drug discovery">
+     data-text="non-malignant hematology in vitro/in vivo scientist_1 year temporary contract roche immunology drug discovery in vivo preclinical phd pharmacology in vitro molecular biology">
   <div class="card-header">
     <div class="card-left">
       <span class="score-badge score-green">+8</span>
@@ -1475,7 +1578,7 @@ Benchling welcomes everyone</li><li>We believe diversity enriches our team so we
     <span class="posted">Posted 2026-02-16</span>
   </div>
   <div class="card-keywords">
-    <span class="kw-label kw-plus">+</span><span class="kw-text">molecular biology  preclinical  in vivo  pharmacology  PhD  in vitro  immunology  drug discovery</span>
+    <span class="kw-label kw-plus">+</span><span class="kw-text">immunology  drug discovery  in vivo  preclinical  PhD  pharmacology  in vitro  molecular biology</span>
     &nbsp;&nbsp;
     <span class="kw-label kw-minus">−</span><span class="kw-text">(none)</span>
   </div>
@@ -1536,7 +1639,7 @@ Benchling welcomes everyone</li><li>We believe diversity enriches our team so we
      data-location="switzerland"
      data-url="https://takeda.wd3.myworkdayjobs.com/External/job/Zurich-Switzerland/Associate-Director--EUCAN-Regulatory-Lead---Oncology_R0174169"
      data-status="matched"
-     data-text="associate director, eucan regulatory lead - oncology takeda drug development oncology">
+     data-text="associate director, eucan regulatory lead - oncology takeda oncology drug development">
   <div class="card-header">
     <div class="card-left">
       <span class="score-badge score-blue">+2</span>
@@ -1552,7 +1655,7 @@ Benchling welcomes everyone</li><li>We believe diversity enriches our team so we
     <span class="posted">Posted 2026-02-16</span>
   </div>
   <div class="card-keywords">
-    <span class="kw-label kw-plus">+</span><span class="kw-text">drug development  oncology</span>
+    <span class="kw-label kw-plus">+</span><span class="kw-text">oncology  drug development</span>
     &nbsp;&nbsp;
     <span class="kw-label kw-minus">−</span><span class="kw-text">(none)</span>
   </div>
@@ -1575,7 +1678,7 @@ Benchling welcomes everyone</li><li>We believe diversity enriches our team so we
      data-location="switzerland"
      data-url="https://beigene.wd5.myworkdayjobs.com/BeiGene/job/Basel/Head-of-Regulatory-Affairs--Europe_R31198"
      data-status="matched"
-     data-text="vice president, regulatory affairs, europe and international beigene drug development oncology">
+     data-text="vice president, regulatory affairs, europe and international beigene oncology drug development">
   <div class="card-header">
     <div class="card-left">
       <span class="score-badge score-blue">+2</span>
@@ -1591,7 +1694,7 @@ Benchling welcomes everyone</li><li>We believe diversity enriches our team so we
     <span class="posted">Posted 2026-02-16</span>
   </div>
   <div class="card-keywords">
-    <span class="kw-label kw-plus">+</span><span class="kw-text">drug development  oncology</span>
+    <span class="kw-label kw-plus">+</span><span class="kw-text">oncology  drug development</span>
     &nbsp;&nbsp;
     <span class="kw-label kw-minus">−</span><span class="kw-text">(none)</span>
   </div>
@@ -1953,7 +2056,7 @@ Benchling welcomes everyone</li><li>We believe diversity enriches our team so we
      data-location="romandie"
      data-url="https://jobs.smartrecruiters.com/CERN/744000080108845-non-member-state-postdoc-fellowship-programme-theoretical-physics-?oga=true"
      data-status="matched"
-     data-text="non-member state postdoc fellowship programme (theoretical physics) cern location:geneva postdoctoral postdoc">
+     data-text="non-member state postdoc fellowship programme (theoretical physics) cern postdoctoral postdoc location:geneva">
   <div class="card-header">
     <div class="card-left">
       <span class="score-badge score-green">+6</span>
@@ -1969,7 +2072,7 @@ Benchling welcomes everyone</li><li>We believe diversity enriches our team so we
     <span class="posted">Posted 2025-09-05</span>
   </div>
   <div class="card-keywords">
-    <span class="kw-label kw-plus">+</span><span class="kw-text">location:geneva  postdoctoral  Postdoc</span>
+    <span class="kw-label kw-plus">+</span><span class="kw-text">postdoctoral  Postdoc  location:geneva</span>
     &nbsp;&nbsp;
     <span class="kw-label kw-minus">−</span><span class="kw-text">(none)</span>
   </div>
@@ -2067,7 +2170,7 @@ Benchling welcomes everyone</li><li>We believe diversity enriches our team so we
      data-location="switzerland"
      data-url="https://jobs.boehringer-ingelheim.com/job/Basel-Medical-Science-Liaison-Oncology-%28Lung-Cancer%29-%28mfd%29-Swit/1293209501/"
      data-status="matched"
-     data-text="medical science liaison oncology (lung cancer) (m/f/d) boehringer ingelheim phd oncology french medical affairs">
+     data-text="medical science liaison oncology (lung cancer) (m/f/d) boehringer ingelheim phd oncology medical affairs french">
   <div class="card-header">
     <div class="card-left">
       <span class="score-badge score-lime">+4</span>
@@ -2083,7 +2186,7 @@ Benchling welcomes everyone</li><li>We believe diversity enriches our team so we
     
   </div>
   <div class="card-keywords">
-    <span class="kw-label kw-plus">+</span><span class="kw-text">PhD  oncology  French  medical affairs</span>
+    <span class="kw-label kw-plus">+</span><span class="kw-text">PhD  oncology  medical affairs  French</span>
     &nbsp;&nbsp;
     <span class="kw-label kw-minus">−</span><span class="kw-text">(none)</span>
   </div>
@@ -2178,7 +2281,7 @@ Benchling welcomes everyone</li><li>We believe diversity enriches our team so we
      data-location="switzerland"
      data-url="https://careers.idorsia.com/job/Allschwil%2C-Basel-Area-Drug-Safety-Scientist-BL/1371651833/"
      data-status="matched"
-     data-text="drug safety scientist idorsia drug discovery pharmacology clinical pharmacology medical affairs">
+     data-text="drug safety scientist idorsia clinical pharmacology medical affairs drug discovery pharmacology">
   <div class="card-header">
     <div class="card-left">
       <span class="score-badge score-lime">+4</span>
@@ -2194,7 +2297,7 @@ Benchling welcomes everyone</li><li>We believe diversity enriches our team so we
     
   </div>
   <div class="card-keywords">
-    <span class="kw-label kw-plus">+</span><span class="kw-text">drug discovery  pharmacology  clinical pharmacology  medical affairs</span>
+    <span class="kw-label kw-plus">+</span><span class="kw-text">clinical pharmacology  medical affairs  drug discovery  pharmacology</span>
     &nbsp;&nbsp;
     <span class="kw-label kw-minus">−</span><span class="kw-text">(none)</span>
   </div>
@@ -3058,12 +3161,122 @@ function renderTriageBtns(card, status) {
   }
 }
 
-// ── Triage: move card, persist locally, best-effort API sync ──
+// ── GitHub Gist sync ──
+const _GIST_TOKEN_KEY = 'jd_gist_token';
+const _GIST_ID_KEY    = 'jd_gist_id';
+let _pushTimer = null;
+
+function _gistHeaders() {
+  return {
+    'Authorization':        'Bearer ' + localStorage.getItem(_GIST_TOKEN_KEY),
+    'Accept':               'application/vnd.github+json',
+    'X-GitHub-Api-Version': '2022-11-28',
+  };
+}
+function _gistUrl() {
+  return 'https://api.github.com/gists/' + localStorage.getItem(_GIST_ID_KEY);
+}
+function _hasGist() {
+  return !!(localStorage.getItem(_GIST_TOKEN_KEY) && localStorage.getItem(_GIST_ID_KEY));
+}
+function _setSyncDot(state) {
+  const dot = document.getElementById('sync-dot');
+  if (dot) dot.className = 'sync-dot' + (state ? ' ' + state : '');
+}
+function _buildCurrentStatuses() {
+  const out = {};
+  document.querySelectorAll('.job-card').forEach(card => {
+    const s = localStorage.getItem('jd_s_' + card.dataset.url);
+    if (s && s !== 'matched') out[card.dataset.url] = s;
+  });
+  return out;
+}
+function _schedulePush() {
+  if (!_hasGist()) return;
+  if (_pushTimer) clearTimeout(_pushTimer);
+  _pushTimer = setTimeout(_doPush, 1500);
+}
+function _doPush() {
+  if (!_hasGist()) return;
+  _setSyncDot('busy');
+  const statuses = _buildCurrentStatuses();
+  fetch(_gistUrl(), {
+    method:  'PATCH',
+    headers: _gistHeaders(),
+    body:    JSON.stringify({files: {'statuses.json': {content: JSON.stringify(statuses, null, 2)}}})
+  })
+  .then(r => _setSyncDot(r.ok ? 'ok' : 'error'))
+  .catch(() => _setSyncDot('error'));
+}
+function _fetchGistStatuses() {
+  if (!_hasGist()) return Promise.resolve(null);
+  _setSyncDot('busy');
+  return fetch(_gistUrl(), {headers: _gistHeaders()})
+    .then(r => r.ok ? r.json() : Promise.reject(r.status))
+    .then(data => {
+      _setSyncDot('ok');
+      const raw = data.files && data.files['statuses.json'];
+      if (!raw) return null;
+      try { return JSON.parse(raw.content || '{}'); } catch(_) { return null; }
+    })
+    .catch(() => { _setSyncDot('error'); return null; });
+}
+function openSyncModal() {
+  document.getElementById('sync-token').value   = localStorage.getItem(_GIST_TOKEN_KEY) || '';
+  document.getElementById('sync-gist-id').value = localStorage.getItem(_GIST_ID_KEY)    || '';
+  document.getElementById('sync-status-msg').textContent = '';
+  document.getElementById('sync-modal').classList.add('open');
+}
+function closeSyncModal() {
+  document.getElementById('sync-modal').classList.remove('open');
+}
+function saveSyncSettings() {
+  const t = document.getElementById('sync-token').value.trim();
+  const g = document.getElementById('sync-gist-id').value.trim();
+  if (t) localStorage.setItem(_GIST_TOKEN_KEY, t); else localStorage.removeItem(_GIST_TOKEN_KEY);
+  if (g) localStorage.setItem(_GIST_ID_KEY,    g); else localStorage.removeItem(_GIST_ID_KEY);
+  document.getElementById('sync-status-msg').textContent = 'Saved.';
+  _setSyncDot(_hasGist() ? '' : '');
+  closeSyncModal();
+}
+function testSyncSettings() {
+  const t = document.getElementById('sync-token').value.trim();
+  const g = document.getElementById('sync-gist-id').value.trim();
+  if (!t || !g) {
+    document.getElementById('sync-status-msg').textContent = 'Enter token and Gist ID first.';
+    return;
+  }
+  document.getElementById('sync-status-msg').textContent = 'Testing…';
+  fetch('https://api.github.com/gists/' + g, {
+    headers: {
+      'Authorization':        'Bearer ' + t,
+      'Accept':               'application/vnd.github+json',
+      'X-GitHub-Api-Version': '2022-11-28',
+    }
+  })
+  .then(r => {
+    document.getElementById('sync-status-msg').textContent =
+      r.ok ? '✓ Connected!' : '✗ Error ' + r.status;
+  })
+  .catch(() => {
+    document.getElementById('sync-status-msg').textContent = '✗ Network error';
+  });
+}
+function clearSyncSettings() {
+  localStorage.removeItem(_GIST_TOKEN_KEY);
+  localStorage.removeItem(_GIST_ID_KEY);
+  document.getElementById('sync-token').value   = '';
+  document.getElementById('sync-gist-id').value = '';
+  document.getElementById('sync-status-msg').textContent = 'Cleared.';
+  _setSyncDot('');
+}
+
+// ── Triage: move card, persist locally, sync to Gist ──
 function setJobStatus(btn, newStatus) {
   const card   = btn.closest('.job-card');
   const jobUrl = card.dataset.url;
 
-  // Move card immediately – works with or without server
+  // Move card immediately
   const listId = newStatus === 'matched'  ? 'job-list'
                : newStatus === 'ignored'  ? 'ignored-list'
                :                            'applied-list';
@@ -3074,12 +3287,8 @@ function setJobStatus(btn, newStatus) {
   // Persist locally so status survives page refresh
   try { localStorage.setItem('jd_s_' + jobUrl, newStatus); } catch(_) {}
 
-  // Best-effort sync to server.py if it happens to be running
-  fetch('/api/status', {
-    method:  'POST',
-    headers: {'Content-Type': 'application/json'},
-    body:    JSON.stringify({url: jobUrl, status: newStatus}),
-  }).catch(() => {});
+  // Debounced push to Gist
+  _schedulePush();
 }
 
 // ── Description toggle ──
@@ -3142,6 +3351,9 @@ function filterCompanies() {
     setSort(so);
   }
 
+  // Show sync dot grey if no credentials configured yet
+  if (!_hasGist()) _setSyncDot('');
+
   function applyStatuses() {
     document.querySelectorAll('.job-card').forEach(card => {
       const saved = localStorage.getItem('jd_s_' + card.dataset.url);
@@ -3155,15 +3367,16 @@ function filterCompanies() {
     updateTabCounts();
   }
 
-  // Fetch statuses.json — works on both localhost (Flask serves it) and
-  // GitHub Pages (static file committed alongside latest_jobs.html).
-  // Server state is written into localStorage so offline use stays correct too.
-  fetch('./statuses.json')
-    .then(r => r.json())
-    .then(serverStatuses => {
-      Object.entries(serverStatuses).forEach(([url, status]) => {
-        try { localStorage.setItem('jd_s_' + url, status); } catch(_) {}
-      });
+  // On load: fetch Gist if credentials are configured, apply to localStorage,
+  // then render.  Falls back to localStorage-only if no Gist configured or
+  // if the fetch fails.
+  _fetchGistStatuses()
+    .then(gistStatuses => {
+      if (gistStatuses) {
+        Object.entries(gistStatuses).forEach(([url, status]) => {
+          try { localStorage.setItem('jd_s_' + url, status); } catch(_) {}
+        });
+      }
       applyStatuses();
     })
     .catch(() => applyStatuses());
