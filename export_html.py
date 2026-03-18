@@ -1598,15 +1598,35 @@ function filterCompanies() {{
     updateTabCounts();
   }}
 
-  // On load: fetch Gist if credentials are configured, apply to localStorage,
-  // then render.  Falls back to localStorage-only if no Gist configured or
-  // if the fetch fails.
+  // On load: fetch Gist, merge with local statuses, push merged result back
+  // if this device had statuses the Gist didn't know about, then render.
   _fetchGistStatuses()
     .then(gistStatuses => {{
       if (gistStatuses) {{
-        Object.entries(gistStatuses).forEach(([url, status]) => {{
+        // Collect local statuses not yet in the Gist
+        const localOnly = {{}};
+        document.querySelectorAll('.job-card').forEach(card => {{
+          const url   = card.dataset.url;
+          const local = localStorage.getItem('jd_s_' + url);
+          if (local && local !== 'matched' && !(url in gistStatuses)) {{
+            localOnly[url] = local;
+          }}
+        }});
+        // Merge: Gist wins for conflicts; local-only entries are additive
+        const merged = Object.assign({{}}, localOnly, gistStatuses);
+        Object.entries(merged).forEach(([url, status]) => {{
           try {{ localStorage.setItem('jd_s_' + url, status); }} catch(_) {{}}
         }});
+        // Push back if this device contributed new entries
+        if (Object.keys(localOnly).length > 0) {{
+          fetch(_gistUrl(), {{
+            method:  'PATCH',
+            headers: _gistHeaders(),
+            body:    JSON.stringify({{files: {{'statuses.json': {{content: JSON.stringify(merged, null, 2)}}}}}})
+          }})
+          .then(r => _setSyncDot(r.ok ? 'ok' : 'error'))
+          .catch(() => _setSyncDot('error'));
+        }}
       }}
       applyStatuses();
     }})
