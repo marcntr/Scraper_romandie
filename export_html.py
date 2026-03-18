@@ -1386,9 +1386,10 @@ function filterCompanies() {{
     updateTabCounts();
   }}
 
-  // Fetch server statuses so triage decisions sync across devices.
+  // Fetch statuses.json — works on both localhost (Flask serves it) and
+  // GitHub Pages (static file committed alongside latest_jobs.html).
   // Server state is written into localStorage so offline use stays correct too.
-  fetch('/api/statuses')
+  fetch('./statuses.json')
     .then(r => r.json())
     .then(serverStatuses => {{
       Object.entries(serverStatuses).forEach(([url, status]) => {{
