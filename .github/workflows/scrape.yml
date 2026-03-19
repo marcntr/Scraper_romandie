@@ -2,7 +2,7 @@ name: Scrape Jobs
 
 on:
   schedule:
-    - cron: '0 */12 * * *'   # every 12 h — 00:00 and 12:00 UTC
+    - cron: '0 11,14,17,20,23,2 * * *'   # UTC
   workflow_dispatch:           # manual "Run workflow" button in the Actions tab
 
 permissions:
