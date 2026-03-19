@@ -1099,6 +1099,21 @@ COMPANIES: list[dict] = [
         "careers_url": "https://www.ige.ch/fr/portrait/travailler-pour-lipi/offres-demploi",
         "keywords": TITLE_FILTERS,
     },
+    # Siemens Healthineers — medical technology; Workday portal SHSJB
+    {
+        "name": "Siemens Healthineers",
+        "ats": "workday",
+        "tenant": "onehealthineers",
+        "instance": "wd3",
+        "portal": "SHSJB",
+    },
+    # Siemens — uses a proprietary careers platform; generic monitor
+    {
+        "name": "Siemens",
+        "ats": "generic",
+        "careers_url": "https://jobs.siemens.com/jobs?query=&location=Switzerland",
+        "keywords": TITLE_FILTERS,
+    },
 ]
 
 # ---------------------------------------------------------------------------

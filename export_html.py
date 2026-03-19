@@ -579,6 +579,8 @@ _COMPANY_TYPES: dict[str, str] = {
     "CDD Vault":                      "Life Science Tools",
     "Scailyte":                       "AI / Data",
     "Telix Pharmaceuticals":          "Specialty Pharma",
+    "Siemens Healthineers":           "MedTech",
+    "Siemens":                        "MedTech",
 }
 
 _TYPE_BADGE: dict[str, tuple[str, str]] = {
