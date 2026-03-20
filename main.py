@@ -6,16 +6,18 @@ Run:
 """
 
 import argparse
+import json
 import logging
 import os
 import random
 import sys
 import time
+import urllib.request
 from datetime import datetime
 from concurrent.futures import ThreadPoolExecutor, TimeoutError as FutureTimeoutError
 
 import cache as job_cache
-from config import COMPANIES, LOCATION_FILTERS, TITLE_FILTERS
+from config import COMPANIES, GIST_ID, LOCATION_FILTERS, TITLE_FILTERS
 from export_html import export_html
 from filters import apply_filters, score_job
 from models import Job
@@ -55,6 +57,40 @@ DIVIDER = "─" * 70
 # SuccessFactors, Workable, Generic).  These all hit independent domains so
 # there is no shared-IP rate-limit concern.
 _OTHER_WORKERS = 20
+
+
+# ---------------------------------------------------------------------------
+# Gist status sync — pull applied/ignored statuses into the cache so that
+# jobs marked from any device (phone etc.) survive scraper pruning.
+# ---------------------------------------------------------------------------
+
+def _sync_gist_statuses(gist_id: str) -> None:
+    """Fetch statuses.json from the Gist and apply any non-matched statuses
+    to the local cache.  Called once after cache.load(), before scraping.
+
+    Secret Gists are accessible anonymously when you know the ID, so no
+    authentication token is needed.  Any network or parse error is logged
+    and silently ignored so a Gist outage never blocks the scraper.
+    """
+    if not gist_id:
+        return
+    url = f"https://api.github.com/gists/{gist_id}"
+    try:
+        req = urllib.request.Request(url, headers={"Accept": "application/vnd.github+json"})
+        with urllib.request.urlopen(req, timeout=10) as resp:
+            data = json.loads(resp.read())
+        raw = data.get("files", {}).get("statuses.json", {}).get("content", "{}")
+        statuses: dict = json.loads(raw)
+    except Exception as exc:
+        logger.warning("Gist sync: could not fetch statuses — %s", exc)
+        return
+
+    applied = sum(1 for s in statuses.values() if s == "applied")
+    for job_url, status in statuses.items():
+        if status in ("matched", "ignored", "applied"):
+            job_cache.set_status(job_url, status)
+    logger.info("Gist sync: applied %d status(es) (%d applied) from Gist %s",
+                len(statuses), applied, gist_id)
 
 
 # ---------------------------------------------------------------------------
@@ -339,6 +375,7 @@ def _scrape_one(
 
 def run(show_all: bool = False) -> list[Job]:
     job_cache.load()
+    _sync_gist_statuses(GIST_ID)
     _validate_companies(COMPANIES)
     # Snapshot pre-run cache so export_html can mark genuinely new jobs.
     pre_run_urls = job_cache.known_urls()

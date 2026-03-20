@@ -1,4 +1,13 @@
 # ---------------------------------------------------------------------------
+# GitHub Gist ID for cross-device status sync.
+# The Gist must contain a file named "statuses.json".
+# Secret Gists are readable anonymously when you know the ID, so no token
+# is required here — the scraper fetches it read-only at startup.
+# Leave empty to disable Gist sync in the scraper.
+# ---------------------------------------------------------------------------
+GIST_ID: str = "ea195de21e26c8449a0b9539b93a0135"
+
+# ---------------------------------------------------------------------------
 # Location filters — case-insensitive substring match against job.location
 # ---------------------------------------------------------------------------
 LOCATION_FILTERS: list[str] = [
