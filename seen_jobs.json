@@ -709,7 +709,7 @@
     "title": "Internship in Computational Biology and Medicine - Ophthalmology (for 6 month in Basel)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-03-18",
+    "posted_date": "2026-03-17",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -725,7 +725,7 @@
     "title": "Machine Learning Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-03-06",
+    "posted_date": "2026-03-05",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -741,7 +741,7 @@
     "title": "(Sr.) Scientist, Development (Parenteral Drug Product)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-03-07",
+    "posted_date": "2026-03-06",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -759,7 +759,7 @@
     "title": "Scientist, Antibiotics Discovery",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-02-27",
+    "posted_date": "2026-02-26",
     "department": "",
     "score": 8,
     "matched_keywords": [
@@ -781,7 +781,7 @@
     "title": "Post Doctorate Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-02-26",
+    "posted_date": "2026-02-25",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -820,7 +820,7 @@
     "title": "Post Doctorate Scientist (Organoid Systems Biology) - Institute of Human Biology",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-02-24",
+    "posted_date": "2026-02-23",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -896,7 +896,7 @@
     "title": "Associate Director, EUCAN Regulatory Lead - GI and Inflammation",
     "company": "Takeda",
     "location": "Zurich, Switzerland",
-    "posted_date": "2026-03-03",
+    "posted_date": "2026-03-02",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -958,7 +958,7 @@
     "title": "Scientist Microbiological Quality Control",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-03-14",
+    "posted_date": "2026-03-13",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -1260,19 +1260,9 @@
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000111789941-applied-physicist-penning-trap-be-abp-pec-2026-38-grap-?oga=true",
     "status": "matched"
   },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000111787765": {
-    "description": "We are offering a position in the Rucio development team at CERN. Rucio is an open-source scientific data management system responsible to manage the data of some of the biggest scientific data producers in the world. Experiments such as ATLAS, CMS, Belle II, DUNE, and many others rely on Rucio, which manages world-wide distributed data in the multi exa-byte range. The work on this post will be carried out in the context of the European \"RI-SCALE Unlocking RI potential with Scalable AI and Data\" project, where Rucio will be used to manage the vast datasets of multiple European research infrastructures. You will join the Rucio core development team at CERN, a dedicated group of software engineers and computer scientists who work on the frontier of scientific big-data. You will contribute to the design and evolution of the system and collaborate with a variety of people at CERN and the diverse open-source community of Rucio. Your responsibilities Evolve the storage interaction workflows of Rucio in order to integrate new RI-SCALE research infrastructures. Evolve the authentication and authorisation workflows of Rucio. Design and develop features for the Rucio catalogue component. Participate in DevOps tasks in operating a Rucio deployment for the project. Participate in the evolution of the Rucio architecture at large. More information here . Your profile Experience with distributed storage technologies. Experience in the design and development of large distributed data management systems. Experience with SQL-based databases. Proven experience in software design, architecture, and continuous integration. Skills Excellent skills in the Python programming language. Strong knowledge in distributed systems, computer networks, databases. Knowledge of the scientific computing domain and deployments via Kubernetes is an advantage. Spoken and written English, with a commitment to learn French. Eligibility criteria: You are a national of a CERN Member or Associate Member State . You have a professional background in Computer Science, Software Engineering (or a related field) and have either: a Master's degree with 2 to 6 years of post-graduation professional experience; or a PhD with no more than 3 years of post-graduation professional experience. You have never had a CERN fellow or graduate contract before.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000111787765-software-engineer-in-distributed-storage-ep-sft-2026-36-grap-?oga=true",
-    "status": "matched"
-  },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000111553177": {
     "description": "You will contribute to the preparation of a world-leading plasma accelerator experiment within an international collaboration. The project focuses on advanced simulation and modelling for Run 2 of the AWAKE experiment, scheduled to restart proton-beam operations in 2029 after CERN's Long Shutdown 3. You will develop, benchmark and apply state-of-the-art plasma wakefield simulation tools to model beam-plasma interactions, including AWAKE's long proton drive bunches and high-quality electron acceleration. Tasks include optimisation studies, parameter scans, and start-to-end simulations, as well as exploratory studies of extended plasma stages supporting future particle physics applications. Your responsibilities Develop and advance wakefield simulations tailored to long, self-modulated proton drive bunches, addressing one of AWAKE's central modelling challenges. Carry out simulation studies of witness electron-beam acceleration, including optimisation of the electron, proton, and plasma parameters for Run 2. Evaluate electron beam quality after acceleration (energy, energy spread, emittance, charge) and investigate strategies for achieving controlled properties. Develop and conduct full start-to-end simulations of the Run 2 scenarios, from self-modulation development through electron injection through acceleration and extraction. Investigate electron beam acceleration in scalable plasma sources of several tens of meters, assessing beam characteristics for future particle physics applications. Contribute to the coordination AWAKE simulation activities, including alignment of tools, sharing of best practices, and support to junior collaborators working on simulations. Work in close collaboration with the experimental team to ensure that numerical studies accurately reflect operational conditions and provide input to design decisions and technical specifications. Your profile Background in computational physics, accelerator physics, plasma physics, or a closely related field. Experience with numerical simulations or particle-on-cell/beam-dynamics codes. Familiarity with plasma or accelerator modelling (e.g. PIC simulations, kinetic or fluid models, beam tracking codes) is an advantage. Prior exposure to high-performance computing environments is beneficial. Experience in working on large-scale or multi-institution scientific computing projects is beneficial. Skills Strong programming and scripting skills (e.g. Python, C++, Bash, or equivalent scientific computing languages). Understanding of numerical methods for plasma modelling, beam dynamics, or high-energy physics simulations. Interest in contribution to algorithmic improvements, code development, and long-term modelling strategies for advanced accelerator concepts. Ability to work independently on challenging technical topics while engaging effectively with a wider modelling community. Strong cross-disciplinary communication skills for efficient interaction with simulation and experimental teams. Spoken and written English or French, with a commitment to learn the other language. Eligibility criteria: You are a national of a CERN Member or Associate Member State . You have a professional background in Physics (applied, experimental, accelerator or a related field) and have either: a Master's degree with 2 to 6 years of post-graduation professional experience; or a PhD with no more than 3 years of post-graduation professional experience. You have never had a CERN fellow or graduate contract before.",
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000111553177-applied-physicist-plasma-simulations-be-abp-pec-2026-35-grap-?oga=true",
-    "status": "matched"
-  },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000111783367": {
-    "description": "Are you excited about giving a second life to a vintage but invaluable set of data, which has the potential to significantly enhance the quality of the preparation studies for the next flagship collider at CERN, the Future Circular Collider? The LEP data@EDM4HEP project aims at migrating the data collected and LEP in the 1990s, and the corresponding Monte Carlo simulated events, to a new common format developed for the next generation of HEP experiments. This would enable the use of the tools under development for the electron-positron collision phase of FCC, to be tested on real data. At the same time, the FAIR ness of the data sample would be enhanced by improving on Accessibility and Interoperability, mitigating the risk of losing access to the data. We are looking for a motivated particle physicist with software skills to continue the feasibility work prototyped so far using the ALEPH data. You will work as a member of the CERN EP-FCC group, in close contact with the Key4HEP team of the CERN EP-SFT group, the members of the DPHEP collaboration, and international teams at Brown University and MIT. Your responsibilities: Consolidate the extraction chain of the ALEPH data into EDM4hep. This includes ensuring the right data structures are used, possibly proposing/implementing modifications, and optimising the involved applications for performance and easy-of-use. Validate the above with a significant set of benchmark analysis, and apply the validated chain to the whole ALEPH data sample, including Monte Carlo simulated data, complemented with adequate documentation and help tools. Consolidate wokflows to produce new Monte Carlo events with the legacy ALEPH software, still available through containers and/or VMS, in particular in what concernes the use of recent event generators. Investigate ways to apply the same to DELPHI - and possibly OPAL - data. This will require contacts with the relevant DELPHI and OPAL people. Support users of the migrated data in their attempts using their feedback to improve the provided data set and tools. Present the result to relevant events. If needed, supervise students on specific tasks relevant for the project. Your profile: The ideal candidate is a particle physicist having in particular: Familiarity with HEP data sets and HEP event data models and their use in analysis. Familiarity in building data analysis libraries with C++, FORTRAN and Python. Familiarity working on large codebase open source projects. Familiarity with tools used in HEP analysis or data storage, such ROOT, and the Key4hep ecosystem. Skills: Proficient in Python, C++, Git, CMake. Familiar with FORTRAN 77. Flexible to learn new tools and techniques to a level adequate to the project needs. Optional, but considered a plus: Familiarity with Key4hep. Spoken and written English, with a commitment to learn French. Eligibility criteria: You are a national of a CERN Member or Associate Member State . You have a professional background in Computer Science, Physics, or similar (or a related field) and have either: a Master's degree with 2 to 6 years of post-graduation professional experience; or a PhD with no more than 3 years of post-graduation professional experience. You have never had a CERN fellow or graduate contract before.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000111783367-hep-physicist-data-preservation-ep-fcc-2026-37-grap-?oga=true",
     "status": "matched"
   },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000110691965": {
@@ -1468,7 +1458,7 @@
     "title": "Evidence Generation Manager",
     "company": "AstraZeneca",
     "location": "Switzerland - Baar",
-    "posted_date": "",
+    "posted_date": "2026-03-19",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -1586,7 +1576,7 @@
     "title": "Clinical Development Postgraduate Fellow CH",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-03-21",
+    "posted_date": "",
     "department": "",
     "score": 5,
     "matched_keywords": [
