@@ -1504,7 +1504,10 @@
     "keywords": "npp"
   },
   "_statuses": {
-    "https://www.michaelpage.ch/de/job-detail/senior-area-sales-manager-business-development-manager-dach/ref/jn-022026-6955718?lang=en": "ignored"
+    "https://www.michaelpage.ch/de/job-detail/senior-area-sales-manager-business-development-manager-dach/ref/jn-022026-6955718?lang=en": "ignored",
+    "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Lengnau-Switzerland/Senior-Scientist--Analytical-Instrument-Qualification---Validation--QC-_R-01338654-1": "ignored",
+    "https://gloorlang.starhunter.software/Headhunter/project/job-ad/hash/693ffd941548c": "ignored",
+    "https://gloorlang.starhunter.software/Headhunter/project/job-ad/hash/68b5a83b99a4d": "ignored"
   },
   "https://www.michaelpage.ch/de/job-detail/senior-area-sales-manager-business-development-manager-dach/ref/jn-022026-6955718?lang=en": {
     "external_url": "https://www.michaelpage.ch/de/job-detail/senior-area-sales-manager-business-development-manager-dach/ref/jn-022026-6955718?lang=en",
@@ -1589,5 +1592,29 @@
     "deducted_keywords": [
       "location:Denmark, Switzerland"
     ]
+  },
+  "https://gloorlang.starhunter.software/Headhunter/project/job-ad/hash/693ffd941548c": {
+    "external_url": "https://gloorlang.starhunter.software/Headhunter/project/job-ad/hash/693ffd941548c",
+    "status": "matched",
+    "title": "Senior Expert Regulatory Affairs - CMC/Biosimilars",
+    "company": "Gloor & Lang",
+    "location": "Zürich Region, Switzerland",
+    "posted_date": "",
+    "department": "",
+    "score": 0,
+    "matched_keywords": [],
+    "deducted_keywords": []
+  },
+  "https://gloorlang.starhunter.software/Headhunter/project/job-ad/hash/68b5a83b99a4d": {
+    "external_url": "https://gloorlang.starhunter.software/Headhunter/project/job-ad/hash/68b5a83b99a4d",
+    "status": "matched",
+    "title": "Regulatory Affairs Manager 80%",
+    "company": "Gloor & Lang",
+    "location": "Basel, Switzerland",
+    "posted_date": "",
+    "department": "",
+    "score": 0,
+    "matched_keywords": [],
+    "deducted_keywords": []
   }
 }
