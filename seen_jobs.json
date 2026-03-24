@@ -1164,11 +1164,6 @@
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000115376527-detector-physicist-lhcb-velo-ep-lcb-2026-62-grap-?oga=true",
     "status": "matched"
   },
-  "https://api.smartrecruiters.com/v1/companies/Sobi/postings/744000115373942": {
-    "description": "About the role As a GMS Project Manager, you will take ownership of the planning and execution of key cross-functional projects—including product launches, lifecycle management, technology transfers, and divestments. You will structure and lead project teams, ensuring that all deliverables are achieved on time, in full, and in alignment with Sobi’s patient-centric mission. You will collaborate closely with partners across Markets, Finance, TechOps, Commercial, External partners and Regulatory to ensure seamless execution and robust communication at all stages. You will also play an important role in developing and improving processes, tools, and ways of working that strengthen Sobi’s ability to launch and manage products with excellence. This position is hybrid and based at one of our Global Hubs in Stockholm - Sweden (HQ), Basel - Switzerland, Raleigh - US or Boston - US reporting directly to Head Global Manufacturing & Supply Project Management. Key Responsibilities Lead project management for global product launches and lifecycle initiatives with a strong focus on launch excellence, supply reliability, cost and patient impact. Create, for the assigned launch or project, an end to end vision from initiation to implementation, integrated into the product strategy. Partner with the Product Team Lead to align on priorities, stakeholders, project resources, and budget, and help remove obstacles to ensure successful execution. Drive proactive, transparent communication and collaboration with stakeholders across Markets, Regulatory, and all TechOps functions. Build and maintain strong, trust-based relationships across global and local teams. Identify and mitigate project risks to ensure robust and resilient delivery. Align closely with Commercial, Regulatory, and TechOps on supply and commercial strategies and translate market needs into manufacturing & supply capabilities. Contribute to the development of project reporting dashboards, ensuring accurate status tracking, KPIs, and resource visibility. Represent the GMS Project Management function in Product Teams and cross-functional forums across the Sobi organisation.",
-    "external_url": "https://jobs.smartrecruiters.com/Sobi/744000115373942-global-manufacturing-supply-project-manager?oga=true",
-    "status": "matched"
-  },
   "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-qc-scientist-microbiology-lengnau-berne-864632/1": {
     "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-qc-scientist-microbiology-lengnau-berne-864632/1",
     "status": "ignored",
@@ -1315,11 +1310,6 @@
       "Switzerland"
     ],
     "cached_at": "2026-03-19"
-  },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000115852832": {
-    "description": "Are you an expert in Data Acquisition Development and Particle Detectors? This is an opportunity to work in a mission-critical team providing real-time luminosity measurements for the updgrade of the CMS Detector. This system directly impacts the operation of the future High Luminosity LHC and the quality of many physics measurements, performed in CMS. Your responsibilities: Firmware development on FPGA backend boards. Lab testing and validation of backend electronics and frontend detectors. DAQ Software development. In more detail, you will: Finalise, test, and validate the firmware architecture for the tracker luminosity systems, online clustering for Inner Tracker, stub counting for the Outer Tracker, and BRIL Trigger Board for BRIL trigger generation. Develop, test, and finalise, the firmware for the FBCM backend system. Complete the development of the final BRIL replica testing system, which will reproduce the Phase 2 backend system. Develop, coordinate, and test the software interface and control of the BRIL Phase 2 backend system. Your profile: Experience in the field of applied physics, detector testing and DAQ is critical. Direct experience with real-time systems (FPGA, micro-controllers, system-on-chip, etc.) is highly valued. Experience in detector laboratories, electronics, prototyping and test beam is also valued. Skills: Teamwork. C/C++ and/or Python. Some knowledge of VHDL and/or other HDL. Ability to use standard lab tools such as scope/generators/NIM modules/detectors, etc. Understanding of electronics. Spoken and written English, with a commitment to learn French. Eligibility criteria: You are a national of a CERN Member or Associate Member State . You have a professional background in Electronics engineering/applied physics (or a related field) and have either: a Master's degree with 2 to 6 years of post-graduation professional experience; or a PhD with no more than 3 years of post-graduation professional experience. You have never had a CERN fellow or graduate contract before.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000115852832-daq-and-detector-developer-ep-cms-id-2026-71-grap-?oga=true",
-    "status": "matched"
   },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000115811362": {
     "description": "The Engineering Department (EN) at CERN pushes forward the limits of technology to provide innovative research tools to the physics and engineering worldwide community. The position is opened in the Mechanical and Materials Engineering (MME) Group, which owns, maintains and develops the 40-year-old know-how on the mechanical design, manufacturing and assembly of accelerator and detector devices. The EN Department is seeking an engineer with experience in Non-Destructive Testing ( NDT ) to join the Materials, Metrology and NDT Section in the MME Group. In this role, you will develop and apply state of the art advanced NDT techniques to inspect critical materials and assemblies for CERN's accelerators and detectors. Your work will directly support the reliability and safety of CERN's cutting-edge physics projects. Your responsibilities: Collaborate with an experienced NDT team and participate in inspection activities involving ultrasonic testing, digital radiography and computed tomography. Optimise Phased Array Ultrasonic Testing (PAUT) techniques for medium/thin austenitic welds to improve inspection reliability and expand current application domains. Develop the use of PAUT probes in an immersion setup to enhance inspection flexibility and capabilities. Support the implementation and development of an innovative mobile system for radiography and tomography based on collaborative robots. This first in the field system will enable in-situ inspections of accelerator components in the LHC tunnel and of medium-sized components in a bunker. Communicate inspection results to project engineers and document testing protocols and findings. Your profile: Experience in ultrasonic or digital radiographic techniques for NDT, with familiarity in both areas preferred. ISO 9712 certifications would be an advantage. Holding a valid certificate by Swiss or French authorities for handling X-ray electric generators for industrial radiography (CAMARI X by IRSN-ASNR/France, training SPG-SPZ-f by SUVA/Switzerland), would be an advantage. Skills: Configure parameters for manual, encoded, and automated PAUT systems, and use software for inspection simulation and result visualisation (e.g., UTstudio+, WeldSight, OmniPC, NDT SetupBuilder). Set up acquisitions and use 2D/3D visualization software for digital radiography and computed tomography (e.g., Industrex, D-TecX, Sherlock NDT, MetrotomOS, VGStudio). Familiarity with material science, welding processes, and international NDT standards. Strong technical writing skills for procedures and reports. Spoken and written English or French, with a commitment to learn the basics of the other language. Eligibility criteria: You are a national of a CERN Member or Associate Member State . You have a professional background in Materials Science/Welding Engineer/NDT (or a related field) and have either: a Master's degree with 2 to 6 years of post-graduation professional experience; or a PhD with no more than 3 years of post-graduation professional experience. You have never had a CERN fellow or graduate contract before.",
@@ -1529,7 +1519,7 @@
   },
   "https://www.michaelpage.ch/job-detail/business-development-manager-defense-europe-mfd/ref/jn-122025-6902007": {
     "external_url": "https://www.michaelpage.ch/job-detail/business-development-manager-defense-europe-mfd/ref/jn-122025-6902007",
-    "status": "matched",
+    "status": "ignored",
     "title": "Business Development Manager - Defense Europe (m/f/d)",
     "company": "Michael Page Switzerland",
     "location": "Switzerland",
@@ -1543,7 +1533,7 @@
   },
   "https://www.michaelpage.ch/de/job-detail/business-development-specialist-100/ref/jn-032026-6968386?lang=en": {
     "external_url": "https://www.michaelpage.ch/de/job-detail/business-development-specialist-100/ref/jn-032026-6968386?lang=en",
-    "status": "matched",
+    "status": "ignored",
     "title": "Business Development Specialist (a) 100%",
     "company": "Michael Page Switzerland",
     "location": "Switzerland",
@@ -1557,7 +1547,7 @@
   },
   "https://www.michaelpage.ch/de/job-detail/senior-area-sales-manager-business-development-manager-dach/ref/jn-022026-6955718?lang=en": {
     "external_url": "https://www.michaelpage.ch/de/job-detail/senior-area-sales-manager-business-development-manager-dach/ref/jn-022026-6955718?lang=en",
-    "status": "matched",
+    "status": "ignored",
     "title": "Senior Area Sales Manager & Business Development Manager - DACH",
     "company": "Michael Page Switzerland",
     "location": "Switzerland",
@@ -1571,7 +1561,7 @@
   },
   "https://www.michaelpage.ch/de/job-detail/product-business-development-manager/ref/jn-032026-6970319?lang=en": {
     "external_url": "https://www.michaelpage.ch/de/job-detail/product-business-development-manager/ref/jn-032026-6970319?lang=en",
-    "status": "matched",
+    "status": "ignored",
     "title": "Product & Business Development Manager",
     "company": "Michael Page Switzerland",
     "location": "Switzerland",
@@ -1585,7 +1575,7 @@
   },
   "https://www.michaelpage.ch/job-detail/business-development-manager-medical-devices-mfd/ref/jn-032026-6964024": {
     "external_url": "https://www.michaelpage.ch/job-detail/business-development-manager-medical-devices-mfd/ref/jn-032026-6964024",
-    "status": "matched",
+    "status": "ignored",
     "title": "Business Development Manager - Medical Devices (m/f/d)",
     "company": "Michael Page Switzerland",
     "location": "Switzerland",
@@ -1599,7 +1589,7 @@
   },
   "https://www.michaelpage.ch/job-detail/technical-regulatory-affairs-cmc/ref/jn-012026-6931099": {
     "external_url": "https://www.michaelpage.ch/job-detail/technical-regulatory-affairs-cmc/ref/jn-012026-6931099",
-    "status": "matched",
+    "status": "ignored",
     "title": "Technical Regulatory Affairs (CMC)",
     "company": "Michael Page Switzerland",
     "location": "Switzerland",
@@ -1613,7 +1603,7 @@
   },
   "https://www.michaelpage.ch/de/job-detail/business-development-manager-software-consulting-gn/ref/jn-012026-6917261?lang=en": {
     "external_url": "https://www.michaelpage.ch/de/job-detail/business-development-manager-software-consulting-gn/ref/jn-012026-6917261?lang=en",
-    "status": "matched",
+    "status": "ignored",
     "title": "Senior Business Development Manager - Software & Consulting (gn)",
     "company": "Michael Page Switzerland",
     "location": "Switzerland",
@@ -1628,7 +1618,7 @@
   "/job/Switzerland---Baar/Medical-Science-Liaison-CVRM_R-248648": {
     "description": "Medical Science Liaison - Cardiovascular, Renal and Metabolism (CVRM) Location: field work, Switzerland Do you have expertise in, and passion for Field Based Medical Affairs? Would you like to apply your expertise to impact the patients in a company that follows the science and turns ideas into life changing medicines? Then AstraZeneca might be the one for you! About AstraZeneca AstraZeneca is a global, science-led, patient-focused biopharmaceutical company that focuses on the discovery, development and commercialisation of prescription medicines for some most serious diseases. But we’re more than one of the world’s leading pharmaceutical companies. What you’ll do... Be a scientific expert in the field with a focus on engaging in high-level exchange, on building and maintaining peer-to-peer relationship with external experts and on understanding and uncovering unmet medical needs and on generating relevant insights. You will report directly into the Lead Medical Affairs CVRM. Develop the medical strategy and its implementation within the framework of the brand plan and Transform Health care delivery plan. Building peer level relationship with key external experts to support understanding of the Swiss market & clinical dynamics and to engage with the medical / scientific community in a highly credible, balanced, and objective manner, representing AstraZeneca’s dedication to and excellence in science. Work closely with Regulatory, Market Access, and Marketing and other functions on field-related medical issues thus helping support the renal compounds during the entire lifecycle, as well as supporting local, regional and global AstraZeneca clinical research program and externally sponsored research projects. Build meaningful real-world evidence data generation projects in collaboration with the brand team across the lifecycle of the brands in your therapeutic areas and provide medical-scientific expertise to medical and cross-functional activities that improve disease management and patient outcomes. Skills and experiences: · Professional experience of working in the pharmaceutical industry, preferentially as Field Medical or within Medical Affairs. · University degree in a health-related scientific field, such as MD or PhD. · Expertise around renal diseases and / or obesity strongly preferred. · Proficiency in German, French and English. · Strong communication and presentation skills to various audiences. · Active driving license and willingness to travel. We offer An international environment with plenty of opportunities to learn, grow and develop new skills. By joining our team, you will have the chance to create a real difference in the lives of patients every day. You'll work closely with internal and external experts, encouraging cross-functional collaboration and growing your professional network. We value empowerment and trust in our employees. Furthermore, you will craft processes and receive the appreciation and acknowledgment you deserve for your valuable contributions. Why AstraZeneca? We’re dedicated to being a Great Place to Work. Where you are empowered to push the boundaries of science and spark your entrepreneurial spirit. There’s no better place to make a difference to medicine, patients, and society. An inclusive culture that champions diversity and collaboration, and always committed to lifelong learning, growth and development. We’re on an exciting journey to pioneer the future of healthcare. Be among our employees who continue to make us an innovation-driven company that stands firmly among the leaders in biopharmaceuticals. Date Posted 24-Mar-2026 Closing Date 06-Apr-2026 AstraZeneca embraces diversity and equality of opportunity.  We are committed to building an inclusive and diverse team representing all backgrounds, with as wide a range of perspectives as possible, and harnessing industry-leading skills.  We believe that the more inclusive we are, the better our work will be.  We welcome and consider applications to join our team from all qualified candidates, regardless of their characteristics.  We comply with all applicable laws and regulations on non-discrimination in employment (and recruitment), as well as work authorization and employment eligibility verification requirements.",
     "external_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/Switzerland---Baar/Medical-Science-Liaison-CVRM_R-248648",
-    "status": "matched",
+    "status": "ignored",
     "title": "Medical Science Liaison CVRM",
     "company": "AstraZeneca",
     "location": "Switzerland - Baar",
@@ -1643,6 +1633,30 @@
     "deducted_keywords": [
       "CRA",
       "location:Switzerland - Baar"
+    ]
+  },
+  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000116404008": {
+    "description": "Introduction IT’s Compute and Devices Group is looking for a computing engineer to take over responsibility for the onsite High-Performance Compute (HPC) SLURM clusters which have established use cases in the Organisation including for the ATS sector and the Theory department. This position will be in the Compute and Configuration section, which is responsible for large scale compute, from the HPC farm through High Throughput Compute, Volunteer Computing and Configuration & Secret Management services. Functions Ensure service delivery for the SLURM HPC clusters to the user community as the primary service manager and technical lead of the service. Serve as the escalation point for the user community support requests, help to gather requirements and usage best practices. Configure, upgrade, monitor the clusters and provide ongoing maintenance. Ensure high utilisation of the resources by interfacing with HTCondor brokered backfill of resources. Define procedures and best practices for the wider team in order to promote operational support coverage. Look for synergies with other team members and teams for management of compute resources, or access to high performance compute resources for the community.",
+    "external_url": "https://jobs.smartrecruiters.com/CERN/744000116404008-high-performance-compute-hpc-engineer-it-cd-cc-2026-64-ld-?oga=true",
+    "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000116383492": {
+    "description": "Are you an expert in Data Acquisition Development and Particle Detectors? This is an opportunity to work in a mission-critical team providing real-time luminosity measurements for the upgrade of the CMS Detector. This system directly impacts the operation of the future High Luminosity LHC and the quality of many physics measurements, performed in CMS. Your responsibilities: Firmware development on FPGA backend boards. Lab testing and validation of backend electronics and frontend detectors. DAQ Software development. In more detail, you will: Finalise, test, and validate the firmware architecture for the tracker luminosity systems, online clustering for Inner Tracker, stub counting for the Outer Tracker, and BRIL Trigger Board for BRIL trigger generation. Develop, test, and finalise, the firmware for the FBCM backend system. Complete the development of the final BRIL replica testing system, which will reproduce the Phase 2 backend system. Develop, coordinate, and test the software interface and control of the BRIL Phase 2 backend system. Your profile: Experience in the field of applied physics, detector testing and DAQ is critical. Direct experience with real-time systems (FPGA, micro-controllers, system-on-chip, etc.) is highly valued. Experience in detector laboratories, electronics, prototyping and test beam is also valued. Skills: Teamwork. C/C++ and/or Python. Some knowledge of VHDL and/or other HDL. Ability to use standard lab tools such as scope/generators/NIM modules/detectors, etc. Understanding of electronics. Spoken and written English, with a commitment to learn French. Eligibility criteria: You are a national of a CERN Member or Associate Member State . You have a professional background in Electronics engineering/applied physics (or a related field) and have either: a Master's degree with 2 to 6 years of post-graduation professional experience; or a PhD with no more than 3 years of post-graduation professional experience. You have never had a CERN fellow or graduate contract before.",
+    "external_url": "https://jobs.smartrecruiters.com/CERN/744000116383492-daq-and-detector-developer-ep-cms-id-2026-71-grap-?oga=true",
+    "status": "matched"
+  },
+  "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-data-scientist-penzberg-867514/1": {
+    "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-data-scientist-penzberg-867514/1",
+    "status": "matched",
+    "title": "Data Scientist(m/f/d)",
+    "company": "Hays Switzerland",
+    "location": "Penzberg, Switzerland",
+    "posted_date": "",
+    "department": "",
+    "score": -2,
+    "matched_keywords": [],
+    "deducted_keywords": [
+      "location:Penzberg, Switzerland"
     ]
   }
 }
