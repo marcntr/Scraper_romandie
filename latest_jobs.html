@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Job Dashboard — 2026-03-24 04:34</title>
+<title>Job Dashboard — 2026-03-24 11:59</title>
 <style>
 /* ── Reset & base ── */
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
@@ -537,7 +537,7 @@ a { color: inherit; text-decoration: none; }
 
 <div class="header">
   <h1>Biopharma Job Dashboard</h1>
-  <div class="subtitle">Run: 2026-03-24 04:34</div>
+  <div class="subtitle">Run: 2026-03-24 11:59</div>
 </div>
 
 <button class="sync-btn" onclick="openSyncModal()">
@@ -563,8 +563,8 @@ a { color: inherit; text-decoration: none; }
 </div>
 
 <div class="tab-bar">
-  <button id="tab-btn-matched" class="tab-btn active" onclick="showTab(this,'matched')">Matched Jobs (1)</button>
-  <button id="tab-btn-ignored" class="tab-btn" onclick="showTab(this,'ignored')">Ignored (45)</button>
+  <button id="tab-btn-matched" class="tab-btn active" onclick="showTab(this,'matched')">Matched Jobs (2)</button>
+  <button id="tab-btn-ignored" class="tab-btn" onclick="showTab(this,'ignored')">Ignored (51)</button>
   <button id="tab-btn-applied" class="tab-btn" onclick="showTab(this,'applied')">Applied (1)</button>
   
   <button class="tab-btn" onclick="showTab(this,'companies')">Companies (157)</button>
@@ -582,13 +582,49 @@ a { color: inherit; text-decoration: none; }
     <div id="job-list">
       
 <div class="job-card"
+     data-company="AstraZeneca"
+     data-score="-1"
+     data-date="2026-03-24"
+     data-location="switzerland"
+     data-url="https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/Switzerland---Baar/Medical-Science-Liaison-CVRM_R-248648"
+     data-status="matched"
+     data-text="medical science liaison cvrm astrazeneca french phd medical affairs">
+  <div class="card-header">
+    <div class="card-left">
+      <span class="score-badge score-orange">-1</span>
+      <span class="new-badge">New</span>
+      <span class="job-title">Medical Science Liaison CVRM</span>
+    </div>
+    <a class="open-link" href="https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/Switzerland---Baar/Medical-Science-Liaison-CVRM_R-248648" target="_blank" rel="noopener">Open ↗</a>
+  </div>
+  <div class="card-meta">
+    <span class="company">AstraZeneca</span>
+    <span class="location">📍 Switzerland - Baar</span>
+    <span class="tag tag-swiss">Switzerland</span>
+    <span class="posted">Posted 2026-03-24</span>
+  </div>
+  <div class="card-keywords">
+    <span class="kw-label kw-plus">+</span><span class="kw-text">French  PhD  medical affairs</span>
+    &nbsp;&nbsp;
+    <span class="kw-label kw-minus">−</span><span class="kw-text">location:Switzerland - Baar  CRA</span>
+  </div>
+  <div class="card-desc">
+    <button class="toggle-btn" onclick="toggleDesc(this,0)">▸ Description</button>
+    <div id="desc-more-0" class="desc-structured" hidden><div class="desc-sec"><p class="desc-para">Medical Science Liaison - Cardiovascular, Renal and Metabolism (CVRM) Location: field work, Switzerland Do you have expertise in, and passion for Field Based Medical Affairs? Would you like to apply your expertise to impact the patients in a company that follows the science and turns ideas into life changing medicines? Then AstraZeneca might be the one for you! About AstraZeneca AstraZeneca is a global, science-led, patient-focused biopharmaceutical company that focuses on the discovery, development and commercialisation of prescription medicines for some most serious diseases. But we’re more than one of the world’s leading pharmaceutical companies. What you’ll do... Be a scientific expert in the field with a focus on engaging in high-level exchange, on building and maintaining peer-to-peer relationship with external experts and on understanding and uncovering unmet medical needs and on generating relevant insights. You will report directly into the Lead Medical Affairs CVRM. Develop the medical strategy and its implementation within the framework of the brand plan and Transform Health care delivery plan. Building peer level relationship with key external experts to support understanding of the Swiss market &amp; clinical dynamics and to engage with the medical / scientific community in a highly credible, balanced, and objective manner, representing AstraZeneca’s dedication to and excellence in science. Work closely with Regulatory, Market Access, and Marketing and other functions on field-related medical issues thus helping support the renal compounds during the entire lifecycle, as well as supporting local, regional and global AstraZeneca clinical research program and externally sponsored research projects. Build meaningful real-world evidence data generation projects in collaboration with the brand team across the lifecycle of the brands in your therapeutic areas and provide medical-scientific expertise to medical and cross-functional activities that improve disease management and patient outcomes. Skills and experiences: · Professional experience of working in the pharmaceutical industry, preferentially as Field Medical or within Medical Affairs. · University degree in a health-related scientific field, such as MD or PhD. · Expertise around renal diseases and / or obesity strongly preferred. · Proficiency in German, French and English. · Strong communication and presentation skills to various audiences. · Active driving license and willingness to travel. We offer An international environment with plenty of opportunities to learn, grow and develop new skills. By joining our team, you will have the chance to create a real difference in the lives of patients every day. You&#x27;ll work closely with internal and external experts, encouraging cross-functional collaboration and growing your professional network. We value empowerment and trust in our employees. Furthermore, you will craft processes and receive the appreciation and acknowledgment you deserve for your valuable contributions. Why AstraZeneca? We’re dedicated to being a Great Place to Work. Where you are empowered to push the boundaries of science and spark your entrepreneurial spirit. There’s no better place to make a difference to medicine, patients, and society. An inclusive culture that champions diversity and collaboration, and always committed to lifelong learning, growth and development. We’re on an exciting journey to pioneer the future of healthcare. Be among our employees who continue to make us an innovation-driven company that stands firmly among the leaders in biopharmaceuticals. Date Posted 24-Mar-2026 Closing Date 06-Apr-2026 AstraZeneca embraces diversity and equality of opportunity.  We are committed to building an inclusive and diverse team representing all backgrounds, with as wide a range of perspectives as possible, and harnessing industry-leading skills.  We believe that the more inclusive we are, the better our work will be.  We welcome and consider applications to join our team from all qualified candidates, regardless of their characteristics.  We comply with all applicable laws and regulations on non-discrimination in employment (and recruitment), as well as work authorization and employment eligibility verification requirements.</p></div></div>
+  </div>
+  <div class="card-actions">
+    <button class="action-btn action-ignore" onclick="setJobStatus(this,'ignored')">Ignore</button><button class="action-btn action-applied" onclick="setJobStatus(this,'applied')">&#10003; Applied</button>
+  </div>
+</div>
+
+<div class="job-card"
      data-company="Novartis"
      data-score="5"
-     data-date="2026-03-21"
+     data-date="2026-03-20"
      data-location="switzerland"
      data-url="https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Basel-City/Clinical-Development-Postgraduate-Fellow-CH_REQ-10074350"
      data-status="matched"
-     data-text="clinical development postgraduate fellow ch novartis post-doctoral phd oncology immunology post-doc">
+     data-text="clinical development postgraduate fellow ch novartis immunology post-doctoral oncology phd post-doc">
   <div class="card-header">
     <div class="card-left">
       <span class="score-badge score-lime">+5</span>
@@ -601,16 +637,16 @@ a { color: inherit; text-decoration: none; }
     <span class="company">Novartis</span>
     <span class="location">📍 Basel (City)</span>
     <span class="tag tag-swiss">Switzerland</span>
-    <span class="posted">Posted 2026-03-21</span>
+    <span class="posted">Posted 2026-03-20</span>
   </div>
   <div class="card-keywords">
-    <span class="kw-label kw-plus">+</span><span class="kw-text">post-doctoral  PhD  oncology  immunology  Post-doc</span>
+    <span class="kw-label kw-plus">+</span><span class="kw-text">immunology  post-doctoral  oncology  PhD  Post-doc</span>
     &nbsp;&nbsp;
     <span class="kw-label kw-minus">−</span><span class="kw-text">(none)</span>
   </div>
   <div class="card-desc">
-    <button class="toggle-btn" onclick="toggleDesc(this,0)">▸ Description</button>
-    <div id="desc-more-0" class="desc-structured" hidden><div class="desc-sec"><div class="desc-sh">About the Role</div><p class="desc-para">Summary Join our 2‑year Clinical Development Postgraduate Fellowship and gain hands‑on experience contributing to global clinical studies from protocol to results. With nearly 50’000 participants in clinical trials at Novartis, our vision in Clinical Development is to engage these participants, making sure we have the right participants, in the right trials, at the right sites, at the right time. After your Master’s, Doctoral, Post-doctoral or MD qualification, do you want to learn more about and gain more experience in Clinical Development at a leading global healthcare company and see how drugs are developed to help addressing unmet needs and reimagining medicine? Do you have a collaborative mindset and take ownership of assigned tasks, and are you able to quickly adapt to different multicultural teams and diverse concepts? Besides that, do you have excellent problem-solving skills? The Clinical Development Postgraduate Training Program is a unique opportunity to discover the science of Clinical Development in one of our development units: • Oncology • Neuroscience &amp; Gene Therapy • Global Health • Cardiovascular, Renal &amp; Metabolism • Immunology Start: September 1, 2026 Duration: 2 years Location: Basel, Switzerland</p></div>
+    <button class="toggle-btn" onclick="toggleDesc(this,1)">▸ Description</button>
+    <div id="desc-more-1" class="desc-structured" hidden><div class="desc-sec"><div class="desc-sh">About the Role</div><p class="desc-para">Summary Join our 2‑year Clinical Development Postgraduate Fellowship and gain hands‑on experience contributing to global clinical studies from protocol to results. With nearly 50’000 participants in clinical trials at Novartis, our vision in Clinical Development is to engage these participants, making sure we have the right participants, in the right trials, at the right sites, at the right time. After your Master’s, Doctoral, Post-doctoral or MD qualification, do you want to learn more about and gain more experience in Clinical Development at a leading global healthcare company and see how drugs are developed to help addressing unmet needs and reimagining medicine? Do you have a collaborative mindset and take ownership of assigned tasks, and are you able to quickly adapt to different multicultural teams and diverse concepts? Besides that, do you have excellent problem-solving skills? The Clinical Development Postgraduate Training Program is a unique opportunity to discover the science of Clinical Development in one of our development units: • Oncology • Neuroscience &amp; Gene Therapy • Global Health • Cardiovascular, Renal &amp; Metabolism • Immunology Start: September 1, 2026 Duration: 2 years Location: Basel, Switzerland</p></div>
 <div class="desc-sec"><div class="desc-sh">Key Responsibilities</div><ul class="desc-list"><li>include: • Acquiring an understanding of the organization, how Clinical Functions and Clinical Development Units work together to develop solutions that address unmet needs for patients and discover the science of clinical development • Contributing to development of trial-related documents (e.g., Clinical Trial Protocols (CTPs), informed consent form, case report forms, data analysis plan, data monitoring committee charters, reports, publications) for assigned clinical trial(s) consistent with the Clinical Development Plan</li><li>May include developing materials for trial-related advisory boards, data monitoring committees, investigators meetings, and protocol training meetings for Novartis local &amp; global medical organizations • Conducting ongoing medical, clinical, and scientific review of clinical trial data with Clinical Scientific Expert(s) with appropriate oversight from the Medical Lead • Managing &amp; preparing patient safety reports on trial data for use of safety and clinical boards (e.g., Safety Management Team, Global Clinical Team, Global Program Team) with appropriate oversight from the Medical Lead • Providing input into final analyses and interpretation including the development of the Clinical Study Report(s), publications, and internal/external presentations What you’ll bring to</li></ul></div>
 <div class="desc-sec"><div class="desc-sh">About the Role</div><p class="desc-para">• Advanced degree in life-sciences is required, such as: Master’s degree in one of the (bio) sciences, MPh, PhD, PharmD or MD, completed within the last 2 years • Concrete interest in clinical development as demonstrated by training/class module at university/institution, internships or specific courses • Seeking new and different experiences for learning in the pharmaceutical industry and curiosity about clinical development • Strong interpersonal skills i.e. can demonstrate your ability to communicate well and establish effective working relationships with people from a variety of backgrounds/cultures and at different hierarchical levels inside and outside the company Important information: Application deadline: April 6, 2026 Please note that we can only accept applicants who are eligible to work in Switzerland or have completed their studies at a Swiss University. Please submit a cover letter that includes your motivation for the program, explains which development unit(s) you are most interested in and confirms your availability for a start on September 1, 2026. Thank you. Skills Desired</p></div></div>
   </div>
@@ -626,51 +662,13 @@ a { color: inherit; text-decoration: none; }
     <div id="ignored-list">
       
 <div class="job-card"
-     data-company="Takeda"
-     data-score="1"
-     data-date="2026-03-24"
-     data-location="switzerland"
-     data-url="https://takeda.wd3.myworkdayjobs.com/External/job/Zurich-Switzerland/Associate-Director--Senior-International-Clinical-Trial-Regulatory-Lead_R0175889"
-     data-status="ignored"
-     data-text="associate director, senior international clinical trial regulatory lead takeda oncology">
-  <div class="card-header">
-    <div class="card-left">
-      <span class="score-badge score-blue">+1</span>
-      
-      <span class="job-title">Associate Director, Senior International Clinical Trial Regulatory Lead</span>
-    </div>
-    <a class="open-link" href="https://takeda.wd3.myworkdayjobs.com/External/job/Zurich-Switzerland/Associate-Director--Senior-International-Clinical-Trial-Regulatory-Lead_R0175889" target="_blank" rel="noopener">Open ↗</a>
-  </div>
-  <div class="card-meta">
-    <span class="company">Takeda</span>
-    <span class="location">📍 Zurich, Switzerland</span>
-    <span class="tag tag-swiss">Switzerland</span>
-    <span class="posted">Posted 2026-03-24</span>
-  </div>
-  <div class="card-keywords">
-    <span class="kw-label kw-plus">+</span><span class="kw-text">oncology</span>
-    &nbsp;&nbsp;
-    <span class="kw-label kw-minus">−</span><span class="kw-text">(none)</span>
-  </div>
-  <div class="card-desc">
-    <button class="toggle-btn" onclick="toggleDesc(this,1)">▸ Description</button>
-    <div id="desc-more-1" class="desc-structured" hidden><div class="desc-sec"><p class="desc-para">By clicking the “Apply” button, I understand that my employment application process with Takeda will commence and that the information I provide in my application will be processed in line with Takeda’s Privacy Notice and Terms of Use .  I further attest that all information I submit in my employment application is true to the best of my knowledge.</p></div>
-<div class="desc-sec"><div class="desc-sh">About the Role</div><p class="desc-para">Objective / Purpose: Contributes to the development of regulatory strategy for assigned clinical trials in Europe &amp; Canada (EUCAN) and Growth &amp; Emerging Markets (GEM) regions. Develops the operational implementation plan for clinical trial applications (CTAs) in EUCAN and GEM regions from initial submission throughout lifecycle, in alignment with the global submission strategy. This may concern trials across a variety of Therapeutic Areas, including oncology, gastrointestinal and inflammation, marketed products and neuroscience. Executes or oversees all activities related to the creation, submission, and maintenance of CTAs Globally (GEM and EUCAN region), in Europe through the EU Clinical Trial Information System (CTIS) or legacy processes in conformity with legal</p></div>
-<div class="desc-sec"><div class="desc-sh">requirements</div><ul class="desc-list"><li>and with Takeda’s global and regional internal procedures</li><li>Ensures oversight and tracking of CTA activities and eTMF updates performed by the CRO Regulatory Lead</li><li>Works in collaboration with CRO to ensure compliance</li><li>Provides strategic and tactical advice and guidance and CTA regulatory expertise to regional and global leadership teams on how to achieve timely and efficient conduct of assigned development programs while maintaining full compliance with applicable regulatory requirements</li><li>Manages or leads CTA interactions with regional health authorities under limited senior oversight</li><li>Mentors team members and provides direction, support, and strategic guidance to fulfil scope of project work, when applicable</li><li>Oversees CTA interactions with health authorities in the region during assessment of clinical trial applications</li><li>May act as deputy to Head International Regulatory Clinical Trials and Team Lead</li><li>Accountabilities: Demonstrates Takeda leadership behaviors and encourages the team to live up to the Takeda Code of Conduct and leadership behaviors</li><li>Independently manages, plans, and works closely with Takeda Global and Regional counterparts, as applicable to manage all aspects of assigned CTA regulatory activities throughout the development lifecycle</li><li>Presents regional CTA regulatory strategies to leadership/senior management</li><li>Identifies regional/national to support submissions of CTAs to Regulatory Authorities</li><li>Coordinates submission preparations process and creation of administrative documents to support initial CTAs or maintenance submissions for the assigned interventional trials (in collaboration with CROs where applicable), ensuring all necessary documentation is made available for submission and internally approved as appropriate</li><li>Coordinates submission preparations process and creation of administrative documents to support initial Non-Interventional Post-authorisation safety studies (PASS) and/or maintenance submissions (in collaboration with CROs where applicable), ensuring all necessary documentation is made available for submission and internally approved as appropriate</li><li>Proactively builds/strengthens external stakeholder (Regulatory Agency where applicable, external experts, industry organizations, etc.) contacts/influence to achieve Takeda strategic goals and objectives</li><li>Ensures accurate and timely submissions and proactive communication of key regulatory milestones throughout clinical trial lifecycle (e.g., submission and approval of initial CTA, amendment/modification, HA questions/responses etc.) Provides regulatory oversight of CRO activities as applicable to ensure that all submissions activities are tracked, and appropriate systems are maintained in a compliant manner (e.g., eTMF)</li><li>Supports non routine submission activities and deviation follow-up as needed (e.g., provision of Serious Breach submissions, submission of inspection reports, ad-hoc unexpected filings etc.)</li><li>Upon request, provides ad-hoc guidance to teams related to latest submission and experiences for clinical trials</li><li>Works as part of team to provide proactive solutions to problems arising during the CTA processes in conjunction with senior team member and/or Global/EU Regulatory Lead, as applicable</li><li>Contributes to the maintenance of appropriate internal regulatory knowledge data base on emerging information and trends with regulators for clinical trials</li><li>Coordinates submissions in the CTIS portal</li><li>May represent the Team in Workshops/cross-functional initiatives and contribute/lead from clinical trials’ perspective</li><li>Ensures involvement of Local Operating Companies (LOCs) RA representatives in HA interactions related to CTA activities, as appropriate</li><li>Participates in reviews and may co-author internal procedures and processes, as appropriate</li><li>Education &amp; Competencies (Technical and Behavioral): BSc</li><li>Advanced scientific related degree preferred; BA accepted based on experience</li><li>A minimum of 8 years of hands-on experience in regulatory affairs, including active involvement in the execution of clinical trials</li><li>Several years of experience in directly managing and leading a team</li><li>Demonstrated expertise in leading the preparation and submission of regulatory documents to support clinical trial applications and amendments within the EU regulatory framework</li><li>Strong understanding of the European pharmaceutical development lifecycle and associated regulatory standards; familiarity with non-EU regulatory landscapes is a plus</li><li>In-depth experience with regulatory submissions and comprehensive knowledge of the Clinical Trials Regulation (CTR) and Clinical Trials Information System (CTIS)</li><li>Excellent written and verbal communication abilities, with a proactive approach to sharing insights and fostering knowledge exchange</li><li>Recognized capability to lead cross-functional teams and cultivate effective, collaborative relationships across diverse organizational levels</li><li>Motivated to contribute to a dynamic, fast-growing team that values integrity, fairness, honesty, perseverance, and teamwork</li><li>Experience supporting regulatory authority inspections and proficiency in the conduct of GxP audits will be advantageous</li><li>Able to manage with limited supervision different types of regulatory development procedures in the region</li><li>Can speak up and is perceived as a natural, assertive authority whom peers trust for their advice</li><li>Communicates externally/with authorities in concise and respectful language</li><li>Develops concise strategic plans, understandably outlines the opportunities and risks of alternative scenarios before proposing a decision</li><li>Proposes risk mitigation plans</li><li>Acts as an ally to support individuals as a whole and promotes an inclusive culture</li><li>Practices active listening encourages open dialogue, feedback, and diverse opinions</li><li>Is able to prioritise activities and execute within reasonable time with limited supervision</li><li>Can take tactical decisions</li><li>Adapts to changing circumstances and is able to build and maintain relationships</li><li>Has their voice heard as remote participant to global or cross functional teams; influences meeting agendas &amp; outcomes to optimally integrate regional strategic needs</li><li>Receives and gives feedback; expresses ideas, questions, and disagreement</li><li>Is self-aware and able to function effectively while meeting the multiple challenges of daily life with a sense of energy, vitality, and confidence</li><li>Fluency in English Locations Zurich, Switzerland Worker Type Employee Worker Sub-Type Regular Time Type Full time</li></ul></div></div>
-  </div>
-  <div class="card-actions">
-    <button class="action-btn action-match" onclick="setJobStatus(this,'matched')">&#8629; Back to Matched</button>
-  </div>
-</div>
-
-<div class="job-card"
      data-company="CERN"
      data-score="5"
      data-date="2026-03-20"
      data-location="romandie"
      data-url="https://jobs.smartrecruiters.com/CERN/744000115872500-corresponding-associateship-theoretical-physics-?oga=true"
      data-status="ignored"
-     data-text="corresponding associateship (theoretical physics) cern location:geneva french">
+     data-text="corresponding associateship (theoretical physics) cern french location:geneva">
   <div class="card-header">
     <div class="card-left">
       <span class="score-badge score-lime">+5</span>
@@ -686,7 +684,7 @@ a { color: inherit; text-decoration: none; }
     <span class="posted">Posted 2026-03-20</span>
   </div>
   <div class="card-keywords">
-    <span class="kw-label kw-plus">+</span><span class="kw-text">location:geneva  French</span>
+    <span class="kw-label kw-plus">+</span><span class="kw-text">French  location:geneva</span>
     &nbsp;&nbsp;
     <span class="kw-label kw-minus">−</span><span class="kw-text">(none)</span>
   </div>
@@ -694,43 +692,6 @@ a { color: inherit; text-decoration: none; }
     <button class="toggle-btn" onclick="toggleDesc(this,2)">▸ Description</button>
     <div id="desc-more-2" class="desc-structured" hidden><div class="desc-sec"><div class="desc-sh">Key Responsibilities</div><ul class="desc-list"><li>You help keep abreast of developments in particle physics and related fields through scientific activities carried out within the CERN scientific environment</li><li>During your stay, you are on leave of absence from your home institute, pursue research or teaching-related scientific activities in your field of expertise, and contribute your experience and knowledge to the scientific life of the Organization</li><li>You carry out scientific work in theoretical particle physics or closely related fields</li><li>You follow and engage with current developments relevant to your area of theoretical research</li><li>You interact with researchers and scientific groups within the CERN theoretical physics community</li><li>You contribute to scientific discussions and exchanges during your stay</li></ul></div>
 <div class="desc-sec"><div class="desc-sh">Requirements</div><ul class="desc-list"><li>You hold an advanced academic background in theoretical particle physics or a closely related discipline</li><li>You have solid experience in research and/or teaching in theoretical physics</li><li>You are actively engaged in scientific work in your field of expertise</li><li>You are interested in maintaining close links with the international theoretical physics community</li><li>Your skills You demonstrate strong analytical and theoretical reasoning skills</li><li>You are able to engage in high-level scientific discussions and knowledge exchange</li><li>You work effectively in an international and collaborative research environment</li><li>You communicate clearly in a scientific context, in English and/or French</li></ul></div></div>
-  </div>
-  <div class="card-actions">
-    <button class="action-btn action-match" onclick="setJobStatus(this,'matched')">&#8629; Back to Matched</button>
-  </div>
-</div>
-
-<div class="job-card"
-     data-company="AstraZeneca"
-     data-score="-2"
-     data-date="2026-03-20"
-     data-location="switzerland"
-     data-url="https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/Switzerland---Baar/Evidence-Generation-Manager_R-248281"
-     data-status="ignored"
-     data-text="evidence generation manager astrazeneca ">
-  <div class="card-header">
-    <div class="card-left">
-      <span class="score-badge score-orange">-2</span>
-      
-      <span class="job-title">Evidence Generation Manager</span>
-    </div>
-    <a class="open-link" href="https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/Switzerland---Baar/Evidence-Generation-Manager_R-248281" target="_blank" rel="noopener">Open ↗</a>
-  </div>
-  <div class="card-meta">
-    <span class="company">AstraZeneca</span>
-    <span class="location">📍 Switzerland - Baar</span>
-    <span class="tag tag-swiss">Switzerland</span>
-    <span class="posted">Posted 2026-03-20</span>
-  </div>
-  <div class="card-keywords">
-    <span class="kw-label kw-plus">+</span><span class="kw-text">(none)</span>
-    &nbsp;&nbsp;
-    <span class="kw-label kw-minus">−</span><span class="kw-text">location:Switzerland - Baar</span>
-  </div>
-  <div class="card-desc">
-    <button class="toggle-btn" onclick="toggleDesc(this,3)">▸ Description</button>
-    <div id="desc-more-3" class="desc-structured" hidden><div class="desc-sec"><p class="desc-para">Evidence Generation Manager Location: Baar, Switzerland (hybrid) About AstraZeneca At AstraZeneca, we do things differently. We’re resetting expectations of what a bio-pharmaceutical company can be. This means we’re opening up new ways to work, groundbreaking innovative methods and bringing unexpected teams together. Here, we see the impact of our collective ideas and expertise, and the power of science to deliver them. Making the impossible a reality can mean taking a chance on an idea and investing in our outstanding capacity for innovation and discovery. We champion trying new things, and we nurture a test and learn culture that means we are always progressing close to our goals. Interested? Come and join our journey. What you’ll do... As part of the medical team, this role leads the design and analysis of Real-World Data (RWD) projects, ensuring that data-driven insights are central to decision-making across the portfolio. Responsibilities include driving integrated Evidence Generation plans and executing studies that support both established and emerging assets. Expertise in data analysis is essential for transforming complex data into actionable insights that align with business objectives. Your main tasks will include: Lead Swiss RWD platform (ATLAS) and governance: Own national dashboard curation and updates, ensure data quality and standards, deliver technical trainings, drive scientific outputs (abstracts/manuscripts), and represent Switzerland in global evidence forums. Design and deliver evidence studies across the lifecycle: Develop study designs, protocols, and statistical analysis plans to address priority evidence gaps pre- and post launch, partnering cross functionally. Transform data into actionable insights: Ingest, harmonize, and analyze multi source RWD (e.g., hospitalizations, mortality, claims), generate robust insights, and communicate findings through clear visualizations and stakeholder tailored narratives. Advance AI/analytics for evidence generation: Serve as subject matter expert on AI/ML applications and lead end-to-end data analysis across the Evidence team. Manage vendor ecosystem and data sourcing: Identify, assess, and onboard RWD vendors and datasets; continuously scan the Swiss landscape for new high value sources. Ensure compliance and scientific rigor: Champion methodological best practices, reproducibility, and documentation; align with privacy, ethics, and regulatory standards.</p></div>
-<div class="desc-sec"><div class="desc-sh">Requirements</div><ul class="desc-list"><li>Experience leading data projects, including programming skills in R and/or Python Degree in health sciences with a strong focus on quantitative methods Biostatistical skills and experience Knowledge of the Swiss health system and different available health databases Good understanding of GCP Previous experience in the pharmaceutical industry highly desired Proficiency in English language and preferably one of the national Swiss languages We offer When we put unexpected teams in the same room, we fuel ambitious thinking with the power to encourage life-changing medicines</li><li>In-person working gives us the platform we need to connect, work at pace and challenge perceptions</li><li>That’s why we work, on average, a minimum of three days per week from the office</li><li>But that doesn&#x27;t mean we’re not flexible</li><li>We balance the expectation of being in the office while respecting individual flexibility</li><li>Join us in our unique and ambitious world</li><li>Why AstraZeneca? At AstraZeneca, we are leading a transformation, fusing our digital and data capabilities with backing from the business to make it happen</li><li>We are leveraging our leading technologies and exploring data to make improved decisions and help the business to reach the right outcomes, quicker</li><li>We are a diverse team of technical experts, each bringing something different to the table</li><li>What unites us is our dedicated desire to learn</li><li>We partner across the business, getting involved in projects early on to ensure the right technologies are implemented</li><li>We&#x27;re recognized for the big contributions we make to AstraZeneca</li><li>As our data and digital capabilities expand every day, we know we&#x27;re playing our part in accelerating AstraZeneca&#x27;s growth</li><li>Ready to make a difference? Apply now and join us in our mission to build a better future for patients worldwide! We are looking forward to receiving your application in English! Date Posted 19-Mar-2026 Closing Date 25-Mar-2026 AstraZeneca embraces diversity and equality of opportunity</li><li>We are committed to building an inclusive and diverse team representing all backgrounds, with as wide a range of perspectives as possible, and harnessing industry-leading skills</li><li>We believe that the more inclusive we are, the better our work will be</li><li>We welcome and consider applications to join our team from all qualified candidates, regardless of their characteristics</li><li>We comply with all applicable laws and regulations on non-discrimination in employment (and recruitment), as well as work authorization and employment eligibility verification requirements</li></ul></div></div>
   </div>
   <div class="card-actions">
     <button class="action-btn action-match" onclick="setJobStatus(this,'matched')">&#8629; Back to Matched</button>
@@ -765,8 +726,8 @@ a { color: inherit; text-decoration: none; }
     <span class="kw-label kw-minus">−</span><span class="kw-text">(none)</span>
   </div>
   <div class="card-desc">
-    <button class="toggle-btn" onclick="toggleDesc(this,4)">▸ Description</button>
-    <div id="desc-more-4" class="desc-structured" hidden><div class="desc-sec"><p class="desc-para">The Associate Director Global Medical Affairs, will function as global medical lead for hematology, to build and execute the medical plan as well as support the necessary cross-functional launch preparations and lead Sobi toward the successful lifecycle management of our hematology medicines, while adhering to the highest scientific and ethical standards. Key Responsabilities Support the MPL (Hematology) to build and execute global medical strategy/plans, including the following deliverables Build and execute global medical strategy/plan and tactical plan Manage engagement of global KOLs in the field Co-leading evidence generation workshops Review and answer any Medical Information questions, as needed Support development of reactive slides decks for external use on relevant data Input to clinical studies in phase 3-4 Support scientific communications with internal cross functional colleagues Facilitate and support external and internal training and training material Give scientific input to external and internal scientific publications Support to cross-functional projects Provide scientific input, review and approval to the development of promotional material driven by the commercial team To be successful in these activities, the Associate Director Global Medical Affairs Hematology: Will possess and continue to develop a deep understanding and knowledge on PNH, ITP and aplastic anaemia and related haematology therapeutic areas Will develop productive relationships and contributions with key external stakeholders Will develop productive relationships and contributions within the cross-functional headquarter team, as well as with local affiliate offices, and collaborative partners Will role model the highest scientific and ethical standards, and work in accordance with applicable rules and regulations with regards medical activities</p></div></div>
+    <button class="toggle-btn" onclick="toggleDesc(this,3)">▸ Description</button>
+    <div id="desc-more-3" class="desc-structured" hidden><div class="desc-sec"><p class="desc-para">The Associate Director Global Medical Affairs, will function as global medical lead for hematology, to build and execute the medical plan as well as support the necessary cross-functional launch preparations and lead Sobi toward the successful lifecycle management of our hematology medicines, while adhering to the highest scientific and ethical standards. Key Responsabilities Support the MPL (Hematology) to build and execute global medical strategy/plans, including the following deliverables Build and execute global medical strategy/plan and tactical plan Manage engagement of global KOLs in the field Co-leading evidence generation workshops Review and answer any Medical Information questions, as needed Support development of reactive slides decks for external use on relevant data Input to clinical studies in phase 3-4 Support scientific communications with internal cross functional colleagues Facilitate and support external and internal training and training material Give scientific input to external and internal scientific publications Support to cross-functional projects Provide scientific input, review and approval to the development of promotional material driven by the commercial team To be successful in these activities, the Associate Director Global Medical Affairs Hematology: Will possess and continue to develop a deep understanding and knowledge on PNH, ITP and aplastic anaemia and related haematology therapeutic areas Will develop productive relationships and contributions with key external stakeholders Will develop productive relationships and contributions within the cross-functional headquarter team, as well as with local affiliate offices, and collaborative partners Will role model the highest scientific and ethical standards, and work in accordance with applicable rules and regulations with regards medical activities</p></div></div>
   </div>
   <div class="card-actions">
     <button class="action-btn action-match" onclick="setJobStatus(this,'matched')">&#8629; Back to Matched</button>
@@ -801,9 +762,46 @@ a { color: inherit; text-decoration: none; }
     <span class="kw-label kw-minus">−</span><span class="kw-text">(none)</span>
   </div>
   <div class="card-desc">
-    <button class="toggle-btn" onclick="toggleDesc(this,5)">▸ Description</button>
-    <div id="desc-more-5" class="desc-structured" hidden><div class="desc-sec"><p class="desc-para">The Director Global Medical Affairs will function as medical lead for dedicated projects driving the launch of Key Brand in Nephrology. This role focuses on building and executing the medical plan for launch activities and supporting cross-functional launch preparation ex-USA, while adhering to the highest scientific and ethical standards.</p></div>
+    <button class="toggle-btn" onclick="toggleDesc(this,4)">▸ Description</button>
+    <div id="desc-more-4" class="desc-structured" hidden><div class="desc-sec"><p class="desc-para">The Director Global Medical Affairs will function as medical lead for dedicated projects driving the launch of Key Brand in Nephrology. This role focuses on building and executing the medical plan for launch activities and supporting cross-functional launch preparation ex-USA, while adhering to the highest scientific and ethical standards.</p></div>
 <div class="desc-sec"><div class="desc-sh">Key Responsibilities</div><p class="desc-para">Lead medical strategy and serve as primary point of contact for the cross-functional global brand team Act as subject matter expert with deep knowledge of the therapeutic indication and relevant clinical data Build and execute global medical communication and tactical plans in collaboration with the medical team Manage and strengthen relationships with global key opinion leaders (KOLs) Develop and disseminate scientific communications, including support for the publication plan Provide scientific and medical input to materials developed by commercial, HEOR, Access, and patient engagement teams Create training materials and deliver internal and external scientific education Act as trusted representative of Sobi in interactions with external collaborators, stakeholders, and partners</p></div></div>
+  </div>
+  <div class="card-actions">
+    <button class="action-btn action-match" onclick="setJobStatus(this,'matched')">&#8629; Back to Matched</button>
+  </div>
+</div>
+
+<div class="job-card"
+     data-company="AstraZeneca"
+     data-score="-2"
+     data-date="2026-03-19"
+     data-location="switzerland"
+     data-url="https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/Switzerland---Baar/Evidence-Generation-Manager_R-248281"
+     data-status="ignored"
+     data-text="evidence generation manager astrazeneca ">
+  <div class="card-header">
+    <div class="card-left">
+      <span class="score-badge score-orange">-2</span>
+      
+      <span class="job-title">Evidence Generation Manager</span>
+    </div>
+    <a class="open-link" href="https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/Switzerland---Baar/Evidence-Generation-Manager_R-248281" target="_blank" rel="noopener">Open ↗</a>
+  </div>
+  <div class="card-meta">
+    <span class="company">AstraZeneca</span>
+    <span class="location">📍 Switzerland - Baar</span>
+    <span class="tag tag-swiss">Switzerland</span>
+    <span class="posted">Posted 2026-03-19</span>
+  </div>
+  <div class="card-keywords">
+    <span class="kw-label kw-plus">+</span><span class="kw-text">(none)</span>
+    &nbsp;&nbsp;
+    <span class="kw-label kw-minus">−</span><span class="kw-text">location:Switzerland - Baar</span>
+  </div>
+  <div class="card-desc">
+    <button class="toggle-btn" onclick="toggleDesc(this,5)">▸ Description</button>
+    <div id="desc-more-5" class="desc-structured" hidden><div class="desc-sec"><p class="desc-para">Evidence Generation Manager Location: Baar, Switzerland (hybrid) About AstraZeneca At AstraZeneca, we do things differently. We’re resetting expectations of what a bio-pharmaceutical company can be. This means we’re opening up new ways to work, groundbreaking innovative methods and bringing unexpected teams together. Here, we see the impact of our collective ideas and expertise, and the power of science to deliver them. Making the impossible a reality can mean taking a chance on an idea and investing in our outstanding capacity for innovation and discovery. We champion trying new things, and we nurture a test and learn culture that means we are always progressing close to our goals. Interested? Come and join our journey. What you’ll do... As part of the medical team, this role leads the design and analysis of Real-World Data (RWD) projects, ensuring that data-driven insights are central to decision-making across the portfolio. Responsibilities include driving integrated Evidence Generation plans and executing studies that support both established and emerging assets. Expertise in data analysis is essential for transforming complex data into actionable insights that align with business objectives. Your main tasks will include: Lead Swiss RWD platform (ATLAS) and governance: Own national dashboard curation and updates, ensure data quality and standards, deliver technical trainings, drive scientific outputs (abstracts/manuscripts), and represent Switzerland in global evidence forums. Design and deliver evidence studies across the lifecycle: Develop study designs, protocols, and statistical analysis plans to address priority evidence gaps pre- and post launch, partnering cross functionally. Transform data into actionable insights: Ingest, harmonize, and analyze multi source RWD (e.g., hospitalizations, mortality, claims), generate robust insights, and communicate findings through clear visualizations and stakeholder tailored narratives. Advance AI/analytics for evidence generation: Serve as subject matter expert on AI/ML applications and lead end-to-end data analysis across the Evidence team. Manage vendor ecosystem and data sourcing: Identify, assess, and onboard RWD vendors and datasets; continuously scan the Swiss landscape for new high value sources. Ensure compliance and scientific rigor: Champion methodological best practices, reproducibility, and documentation; align with privacy, ethics, and regulatory standards.</p></div>
+<div class="desc-sec"><div class="desc-sh">Requirements</div><ul class="desc-list"><li>Experience leading data projects, including programming skills in R and/or Python Degree in health sciences with a strong focus on quantitative methods Biostatistical skills and experience Knowledge of the Swiss health system and different available health databases Good understanding of GCP Previous experience in the pharmaceutical industry highly desired Proficiency in English language and preferably one of the national Swiss languages We offer When we put unexpected teams in the same room, we fuel ambitious thinking with the power to encourage life-changing medicines</li><li>In-person working gives us the platform we need to connect, work at pace and challenge perceptions</li><li>That’s why we work, on average, a minimum of three days per week from the office</li><li>But that doesn&#x27;t mean we’re not flexible</li><li>We balance the expectation of being in the office while respecting individual flexibility</li><li>Join us in our unique and ambitious world</li><li>Why AstraZeneca? At AstraZeneca, we are leading a transformation, fusing our digital and data capabilities with backing from the business to make it happen</li><li>We are leveraging our leading technologies and exploring data to make improved decisions and help the business to reach the right outcomes, quicker</li><li>We are a diverse team of technical experts, each bringing something different to the table</li><li>What unites us is our dedicated desire to learn</li><li>We partner across the business, getting involved in projects early on to ensure the right technologies are implemented</li><li>We&#x27;re recognized for the big contributions we make to AstraZeneca</li><li>As our data and digital capabilities expand every day, we know we&#x27;re playing our part in accelerating AstraZeneca&#x27;s growth</li><li>Ready to make a difference? Apply now and join us in our mission to build a better future for patients worldwide! We are looking forward to receiving your application in English! Date Posted 19-Mar-2026 Closing Date 25-Mar-2026 AstraZeneca embraces diversity and equality of opportunity</li><li>We are committed to building an inclusive and diverse team representing all backgrounds, with as wide a range of perspectives as possible, and harnessing industry-leading skills</li><li>We believe that the more inclusive we are, the better our work will be</li><li>We welcome and consider applications to join our team from all qualified candidates, regardless of their characteristics</li><li>We comply with all applicable laws and regulations on non-discrimination in employment (and recruitment), as well as work authorization and employment eligibility verification requirements</li></ul></div></div>
   </div>
   <div class="card-actions">
     <button class="action-btn action-match" onclick="setJobStatus(this,'matched')">&#8629; Back to Matched</button>
@@ -813,11 +811,11 @@ a { color: inherit; text-decoration: none; }
 <div class="job-card"
      data-company="Roche"
      data-score="2"
-     data-date="2026-03-18"
+     data-date="2026-03-17"
      data-location="switzerland"
      data-url="https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Internship-in-Computational-Biology-and-Medicine---Ophthalmology--for-6-month-in-Basel-_202603-106192"
      data-status="ignored"
-     data-text="internship in computational biology and medicine - ophthalmology (for 6 month in basel) roche computational biology high-dimensional data">
+     data-text="internship in computational biology and medicine - ophthalmology (for 6 month in basel) roche high-dimensional data computational biology">
   <div class="card-header">
     <div class="card-left">
       <span class="score-badge score-blue">+2</span>
@@ -830,10 +828,10 @@ a { color: inherit; text-decoration: none; }
     <span class="company">Roche</span>
     <span class="location">📍 Basel</span>
     <span class="tag tag-swiss">Switzerland</span>
-    <span class="posted">Posted 2026-03-18</span>
+    <span class="posted">Posted 2026-03-17</span>
   </div>
   <div class="card-keywords">
-    <span class="kw-label kw-plus">+</span><span class="kw-text">computational biology  high-dimensional data</span>
+    <span class="kw-label kw-plus">+</span><span class="kw-text">high-dimensional data  computational biology</span>
     &nbsp;&nbsp;
     <span class="kw-label kw-minus">−</span><span class="kw-text">(none)</span>
   </div>
@@ -892,7 +890,7 @@ a { color: inherit; text-decoration: none; }
 <div class="job-card"
      data-company="Thermo Fisher Scientific"
      data-score="-2"
-     data-date="2026-03-14"
+     data-date="2026-03-13"
      data-location="switzerland"
      data-url="https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Lengnau-Switzerland/Scientist-Microbiological-Quality-Control_R-01344554"
      data-status="ignored"
@@ -909,7 +907,7 @@ a { color: inherit; text-decoration: none; }
     <span class="company">Thermo Fisher Scientific</span>
     <span class="location">📍 Lengnau, Switzerland</span>
     <span class="tag tag-swiss">Switzerland</span>
-    <span class="posted">Posted 2026-03-14</span>
+    <span class="posted">Posted 2026-03-13</span>
   </div>
   <div class="card-keywords">
     <span class="kw-label kw-plus">+</span><span class="kw-text">(none)</span>
@@ -934,7 +932,7 @@ a { color: inherit; text-decoration: none; }
      data-location="romandie"
      data-url="https://jobs.smartrecruiters.com/CERN/744000114311568-scientific-associateship-theoretical-physics-?oga=true"
      data-status="ignored"
-     data-text="scientific associateship (theoretical physics) cern location:geneva french">
+     data-text="scientific associateship (theoretical physics) cern french location:geneva">
   <div class="card-header">
     <div class="card-left">
       <span class="score-badge score-lime">+5</span>
@@ -950,7 +948,7 @@ a { color: inherit; text-decoration: none; }
     <span class="posted">Posted 2026-03-12</span>
   </div>
   <div class="card-keywords">
-    <span class="kw-label kw-plus">+</span><span class="kw-text">location:geneva  French</span>
+    <span class="kw-label kw-plus">+</span><span class="kw-text">French  location:geneva</span>
     &nbsp;&nbsp;
     <span class="kw-label kw-minus">−</span><span class="kw-text">(none)</span>
   </div>
@@ -971,7 +969,7 @@ a { color: inherit; text-decoration: none; }
      data-location="switzerland"
      data-url="https://jobs.ashbyhq.com/benchling/fd008c7e-bb3c-495f-90f1-215915fb4f3f"
      data-status="ignored"
-     data-text="implementation manager benchling immunology bioinformatics molecular biology">
+     data-text="implementation manager benchling molecular biology immunology bioinformatics">
   <div class="card-header">
     <div class="card-left">
       <span class="score-badge score-lime">+3</span>
@@ -987,7 +985,7 @@ a { color: inherit; text-decoration: none; }
     <span class="posted">Posted 2026-03-11</span>
   </div>
   <div class="card-keywords">
-    <span class="kw-label kw-plus">+</span><span class="kw-text">immunology  bioinformatics  molecular biology</span>
+    <span class="kw-label kw-plus">+</span><span class="kw-text">molecular biology  immunology  bioinformatics</span>
     &nbsp;&nbsp;
     <span class="kw-label kw-minus">−</span><span class="kw-text">(none)</span>
   </div>
@@ -1086,7 +1084,7 @@ Benchling welcomes everyone</li><li>We believe diversity enriches our team so we
 <div class="job-card"
      data-company="Roche"
      data-score="0"
-     data-date="2026-03-07"
+     data-date="2026-03-06"
      data-location="switzerland"
      data-url="https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/XMLNAME--Sr--Scientist--Development--Parenteral-Drug-Product-_202602-102987"
      data-status="ignored"
@@ -1103,7 +1101,7 @@ Benchling welcomes everyone</li><li>We believe diversity enriches our team so we
     <span class="company">Roche</span>
     <span class="location">📍 Basel</span>
     <span class="tag tag-swiss">Switzerland</span>
-    <span class="posted">Posted 2026-03-07</span>
+    <span class="posted">Posted 2026-03-06</span>
   </div>
   <div class="card-keywords">
     <span class="kw-label kw-plus">+</span><span class="kw-text">(none)</span>
@@ -1126,11 +1124,11 @@ Benchling welcomes everyone</li><li>We believe diversity enriches our team so we
 <div class="job-card"
      data-company="Roche"
      data-score="2"
-     data-date="2026-03-06"
+     data-date="2026-03-05"
      data-location="switzerland"
      data-url="https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Machine-Learning-Scientist_202602-105076-1"
      data-status="ignored"
-     data-text="machine learning scientist roche phd drug discovery">
+     data-text="machine learning scientist roche drug discovery phd">
   <div class="card-header">
     <div class="card-left">
       <span class="score-badge score-blue">+2</span>
@@ -1143,10 +1141,10 @@ Benchling welcomes everyone</li><li>We believe diversity enriches our team so we
     <span class="company">Roche</span>
     <span class="location">📍 Basel</span>
     <span class="tag tag-swiss">Switzerland</span>
-    <span class="posted">Posted 2026-03-06</span>
+    <span class="posted">Posted 2026-03-05</span>
   </div>
   <div class="card-keywords">
-    <span class="kw-label kw-plus">+</span><span class="kw-text">PhD  drug discovery</span>
+    <span class="kw-label kw-plus">+</span><span class="kw-text">drug discovery  PhD</span>
     &nbsp;&nbsp;
     <span class="kw-label kw-minus">−</span><span class="kw-text">(none)</span>
   </div>
@@ -1165,7 +1163,7 @@ Benchling welcomes everyone</li><li>We believe diversity enriches our team so we
 <div class="job-card"
      data-company="Takeda"
      data-score="1"
-     data-date="2026-03-03"
+     data-date="2026-03-02"
      data-location="switzerland"
      data-url="https://takeda.wd3.myworkdayjobs.com/External/job/Zurich-Switzerland/Associate-Director--EUCAN-Regulatory-Lead---GI-and-Inflammation_R0175080"
      data-status="ignored"
@@ -1182,7 +1180,7 @@ Benchling welcomes everyone</li><li>We believe diversity enriches our team so we
     <span class="company">Takeda</span>
     <span class="location">📍 Zurich, Switzerland</span>
     <span class="tag tag-swiss">Switzerland</span>
-    <span class="posted">Posted 2026-03-03</span>
+    <span class="posted">Posted 2026-03-02</span>
   </div>
   <div class="card-keywords">
     <span class="kw-label kw-plus">+</span><span class="kw-text">drug development</span>
@@ -1204,11 +1202,11 @@ Benchling welcomes everyone</li><li>We believe diversity enriches our team so we
 <div class="job-card"
      data-company="Roche"
      data-score="8"
-     data-date="2026-02-27"
+     data-date="2026-02-26"
      data-location="switzerland"
      data-url="https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Scientist--Antibiotics-Discovery_202602-103968-1"
      data-status="ignored"
-     data-text="scientist, antibiotics discovery roche preclinical assay development postdoctoral molecular biology postdoc phd computational biology genomics">
+     data-text="scientist, antibiotics discovery roche postdoctoral postdoc computational biology molecular biology preclinical genomics phd assay development">
   <div class="card-header">
     <div class="card-left">
       <span class="score-badge score-green">+8</span>
@@ -1221,10 +1219,10 @@ Benchling welcomes everyone</li><li>We believe diversity enriches our team so we
     <span class="company">Roche</span>
     <span class="location">📍 Basel</span>
     <span class="tag tag-swiss">Switzerland</span>
-    <span class="posted">Posted 2026-02-27</span>
+    <span class="posted">Posted 2026-02-26</span>
   </div>
   <div class="card-keywords">
-    <span class="kw-label kw-plus">+</span><span class="kw-text">preclinical  assay development  postdoctoral  molecular biology  Postdoc  PhD  computational biology  genomics</span>
+    <span class="kw-label kw-plus">+</span><span class="kw-text">postdoctoral  Postdoc  computational biology  molecular biology  preclinical  genomics  PhD  assay development</span>
     &nbsp;&nbsp;
     <span class="kw-label kw-minus">−</span><span class="kw-text">(none)</span>
   </div>
@@ -1244,11 +1242,11 @@ Benchling welcomes everyone</li><li>We believe diversity enriches our team so we
 <div class="job-card"
      data-company="Roche"
      data-score="3"
-     data-date="2026-02-26"
+     data-date="2026-02-25"
      data-location="switzerland"
      data-url="https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Post-Doctorate-Scientist--m-f-d-_202512-132221-1"
      data-status="ignored"
-     data-text="post doctorate scientist roche in vitro bioinformatics molecular biology">
+     data-text="post doctorate scientist roche molecular biology bioinformatics in vitro">
   <div class="card-header">
     <div class="card-left">
       <span class="score-badge score-lime">+3</span>
@@ -1261,10 +1259,10 @@ Benchling welcomes everyone</li><li>We believe diversity enriches our team so we
     <span class="company">Roche</span>
     <span class="location">📍 Basel</span>
     <span class="tag tag-swiss">Switzerland</span>
-    <span class="posted">Posted 2026-02-26</span>
+    <span class="posted">Posted 2026-02-25</span>
   </div>
   <div class="card-keywords">
-    <span class="kw-label kw-plus">+</span><span class="kw-text">in vitro  bioinformatics  molecular biology</span>
+    <span class="kw-label kw-plus">+</span><span class="kw-text">molecular biology  bioinformatics  in vitro</span>
     &nbsp;&nbsp;
     <span class="kw-label kw-minus">−</span><span class="kw-text">(none)</span>
   </div>
@@ -1287,7 +1285,7 @@ Benchling welcomes everyone</li><li>We believe diversity enriches our team so we
      data-location="switzerland"
      data-url="https://apply.workable.com/sophia-genetics/j/92BB3A7C3A/"
      data-status="ignored"
-     data-text="clinical biomarker expert sophia genetics medical affairs biomarker discovery oncology biomarker strategy translational medicine">
+     data-text="clinical biomarker expert sophia genetics biomarker discovery oncology translational medicine medical affairs biomarker strategy">
   <div class="card-header">
     <div class="card-left">
       <span class="score-badge score-blue">+1</span>
@@ -1303,9 +1301,9 @@ Benchling welcomes everyone</li><li>We believe diversity enriches our team so we
     <span class="posted">Posted 2026-02-25</span>
   </div>
   <div class="card-keywords">
-    <span class="kw-label kw-plus">+</span><span class="kw-text">medical affairs  biomarker discovery  oncology  biomarker strategy  translational medicine</span>
+    <span class="kw-label kw-plus">+</span><span class="kw-text">biomarker discovery  oncology  translational medicine  medical affairs  biomarker strategy</span>
     &nbsp;&nbsp;
-    <span class="kw-label kw-minus">−</span><span class="kw-text">CRA  location:United Kingdom / United Kingdom / France / Germany / Switzerland</span>
+    <span class="kw-label kw-minus">−</span><span class="kw-text">location:United Kingdom / United Kingdom / France / Germany / Switzerland  CRA</span>
   </div>
   <div class="card-desc">
     <button class="toggle-btn" onclick="toggleDesc(this,16)">▸ Description</button>
@@ -1324,7 +1322,7 @@ Benchling welcomes everyone</li><li>We believe diversity enriches our team so we
      data-location="switzerland"
      data-url="https://apply.workable.com/sophia-genetics/j/92BB3A7C3A/"
      data-status="ignored"
-     data-text="clinical biomarker expert sophia genetics medical affairs biomarker discovery oncology biomarker strategy translational medicine">
+     data-text="clinical biomarker expert sophia genetics biomarker discovery oncology translational medicine medical affairs biomarker strategy">
   <div class="card-header">
     <div class="card-left">
       <span class="score-badge score-blue">+1</span>
@@ -1340,9 +1338,9 @@ Benchling welcomes everyone</li><li>We believe diversity enriches our team so we
     <span class="posted">Posted 2026-02-25</span>
   </div>
   <div class="card-keywords">
-    <span class="kw-label kw-plus">+</span><span class="kw-text">medical affairs  biomarker discovery  oncology  biomarker strategy  translational medicine</span>
+    <span class="kw-label kw-plus">+</span><span class="kw-text">biomarker discovery  oncology  translational medicine  medical affairs  biomarker strategy</span>
     &nbsp;&nbsp;
-    <span class="kw-label kw-minus">−</span><span class="kw-text">CRA  location:United Kingdom / United Kingdom / France / Germany / Switzerland</span>
+    <span class="kw-label kw-minus">−</span><span class="kw-text">location:United Kingdom / United Kingdom / France / Germany / Switzerland  CRA</span>
   </div>
   <div class="card-desc">
     <button class="toggle-btn" onclick="toggleDesc(this,17)">▸ Description</button>
@@ -1357,11 +1355,11 @@ Benchling welcomes everyone</li><li>We believe diversity enriches our team so we
 <div class="job-card"
      data-company="Roche"
      data-score="2"
-     data-date="2026-02-24"
+     data-date="2026-02-23"
      data-location="switzerland"
      data-url="https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Post-Doctorate-Scientist--Organoid-Systems-Biology----Institute-of-Human-Biology_202602-104574-1"
      data-status="ignored"
-     data-text="post doctorate scientist (organoid systems biology) - institute of human biology roche organoid molecular biology">
+     data-text="post doctorate scientist (organoid systems biology) - institute of human biology roche molecular biology organoid">
   <div class="card-header">
     <div class="card-left">
       <span class="score-badge score-blue">+2</span>
@@ -1374,10 +1372,10 @@ Benchling welcomes everyone</li><li>We believe diversity enriches our team so we
     <span class="company">Roche</span>
     <span class="location">📍 Basel</span>
     <span class="tag tag-swiss">Switzerland</span>
-    <span class="posted">Posted 2026-02-24</span>
+    <span class="posted">Posted 2026-02-23</span>
   </div>
   <div class="card-keywords">
-    <span class="kw-label kw-plus">+</span><span class="kw-text">organoid  molecular biology</span>
+    <span class="kw-label kw-plus">+</span><span class="kw-text">molecular biology  organoid</span>
     &nbsp;&nbsp;
     <span class="kw-label kw-minus">−</span><span class="kw-text">(none)</span>
   </div>
@@ -1400,7 +1398,7 @@ Benchling welcomes everyone</li><li>We believe diversity enriches our team so we
      data-location="switzerland"
      data-url="https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Senior-Scientist---Mucosal-Immunology_202602-103270-2"
      data-status="ignored"
-     data-text="senior scientist - mucosal immunology roche preclinical post-doctoral translational research phd immunology post-doc drug discovery pharmacology">
+     data-text="senior scientist - mucosal immunology roche translational research immunology post-doctoral drug discovery preclinical pharmacology phd post-doc">
   <div class="card-header">
     <div class="card-left">
       <span class="score-badge score-green">+8</span>
@@ -1416,7 +1414,7 @@ Benchling welcomes everyone</li><li>We believe diversity enriches our team so we
     <span class="posted">Posted 2026-02-22</span>
   </div>
   <div class="card-keywords">
-    <span class="kw-label kw-plus">+</span><span class="kw-text">preclinical  post-doctoral  translational research  PhD  immunology  Post-doc  drug discovery  pharmacology</span>
+    <span class="kw-label kw-plus">+</span><span class="kw-text">translational research  immunology  post-doctoral  drug discovery  preclinical  pharmacology  PhD  Post-doc</span>
     &nbsp;&nbsp;
     <span class="kw-label kw-minus">−</span><span class="kw-text">(none)</span>
   </div>
@@ -1440,7 +1438,7 @@ Benchling welcomes everyone</li><li>We believe diversity enriches our team so we
      data-location="switzerland"
      data-url="https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Non-Malignant-Hematology-in-vitro-in-vivo-Scientist-1-year-temporary-contract_202602-102662-1"
      data-status="ignored"
-     data-text="non-malignant hematology in vitro/in vivo scientist_1 year temporary contract roche preclinical in vitro in vivo molecular biology phd immunology drug discovery pharmacology">
+     data-text="non-malignant hematology in vitro/in vivo scientist_1 year temporary contract roche in vivo immunology in vitro molecular biology drug discovery preclinical pharmacology phd">
   <div class="card-header">
     <div class="card-left">
       <span class="score-badge score-green">+8</span>
@@ -1456,7 +1454,7 @@ Benchling welcomes everyone</li><li>We believe diversity enriches our team so we
     <span class="posted">Posted 2026-02-22</span>
   </div>
   <div class="card-keywords">
-    <span class="kw-label kw-plus">+</span><span class="kw-text">preclinical  in vitro  in vivo  molecular biology  PhD  immunology  drug discovery  pharmacology</span>
+    <span class="kw-label kw-plus">+</span><span class="kw-text">in vivo  immunology  in vitro  molecular biology  drug discovery  preclinical  pharmacology  PhD</span>
     &nbsp;&nbsp;
     <span class="kw-label kw-minus">−</span><span class="kw-text">(none)</span>
   </div>
@@ -1479,7 +1477,7 @@ Benchling welcomes everyone</li><li>We believe diversity enriches our team so we
      data-location="switzerland"
      data-url="https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Switzerland---Basel/Senior-Manager-HEOR_31134799"
      data-status="ignored"
-     data-text="senior manager heor abbott oncology phd msc immunology">
+     data-text="senior manager heor abbott oncology phd immunology msc">
   <div class="card-header">
     <div class="card-left">
       <span class="score-badge score-lime">+4</span>
@@ -1495,7 +1493,7 @@ Benchling welcomes everyone</li><li>We believe diversity enriches our team so we
     <span class="posted">Posted 2026-02-22</span>
   </div>
   <div class="card-keywords">
-    <span class="kw-label kw-plus">+</span><span class="kw-text">oncology  PhD  MSc  immunology</span>
+    <span class="kw-label kw-plus">+</span><span class="kw-text">oncology  PhD  immunology  MSc</span>
     &nbsp;&nbsp;
     <span class="kw-label kw-minus">−</span><span class="kw-text">(none)</span>
   </div>
@@ -1704,42 +1702,6 @@ Benchling welcomes everyone</li><li>We believe diversity enriches our team so we
 <div class="job-card"
      data-company="Sobi"
      data-score="0"
-     data-date="2026-02-03"
-     data-location="switzerland"
-     data-url="https://jobs.smartrecruiters.com/Sobi/744000107051356-director-global-heor?oga=true"
-     data-status="ignored"
-     data-text="director global heor sobi ">
-  <div class="card-header">
-    <div class="card-left">
-      <span class="score-badge score-slate">0</span>
-      
-      <span class="job-title">Director Global HEOR</span>
-    </div>
-    <a class="open-link" href="https://jobs.smartrecruiters.com/Sobi/744000107051356-director-global-heor?oga=true" target="_blank" rel="noopener">Open ↗</a>
-  </div>
-  <div class="card-meta">
-    <span class="company">Sobi</span>
-    <span class="location">📍 Basel, Switzerland</span>
-    <span class="tag tag-swiss">Switzerland</span>
-    <span class="posted">Posted 2026-02-03</span>
-  </div>
-  <div class="card-keywords">
-    <span class="kw-label kw-plus">+</span><span class="kw-text">(none)</span>
-    &nbsp;&nbsp;
-    <span class="kw-label kw-minus">−</span><span class="kw-text">(none)</span>
-  </div>
-  <div class="card-desc">
-    <button class="toggle-btn" onclick="toggleDesc(this,27)">▸ Description</button>
-    <div id="desc-more-27" class="desc-structured" hidden><div class="desc-sec"><p class="desc-para">The Global Health Economics and Outcomes Research (HEOR) Director is responsible for the development, delivery and management of Global HEOR deliverables for the assigned Therapeutic Area (TA). These activities include but are not limited to cost effectiveness and comparative effectiveness analyses, real world evidence generation, patient reported outcomes, epidemiological initiatives, development of core value dossiers, and HTA/Reimbursement strategies for in-line and development compounds. The Director will support the Global Head of HEOR through implementation of HEOR strategic objectives in line with the Brand strategies. This position requires strong interpersonal and matrix team skills, project and vendor management skills, and expertise in HEOR principles, pharmaceutical research design and methods. Specifically, this individual will Develop and lead health economic and outcomes projects that are innovative, medically relevant, scientifically valid and appropriately planned, managed, executed lead effective collaborations with internal stakeholders by understanding medical and commercial needs and developing and implementing strategies that addresses these needs; and be a key collaborator with external stakeholders and HEOR experts to ensure that SOBI sponsored Global HEOR initiatives are clinically relevant and support the needs of patients, health care providers and payers. Main Job Responsibilities: Inform and implement the HEOR strategy for assigned TA  or product (s) across all SOBI commercial territories Be an integral part of the overall Global Patient Access group, securing tight liaison and collaboration with other members of the group, both globally and locally in-country Work closely with the in-country patient access leads to ensure that that country level health outcome and value tactical plans align with the global Patient Access strategic plans for each brand Support Global HEOR business objectives and budgetary plans with a 3-5 year perspective through HEOR evidence generation, synthesis, dissemination, communication and refinement Identify, design, develop, and lead Global HEOR projects including leading strategies for prospective and retrospective protocol  development, economic models, scientific publications, and vendor supplied research proposals in assigned therapeutic area for both in-line and development products Closely monitor the changing healthcare and economic landscape to anticipate and address potential impact on the business Play a key role in Global HEOR business planning process that is aligned with the therapeutic area/product strategy and contribute to the brand Global Value Dossier in line with local HTA needs for the assigned therapy areas Represent SOBI at external HEOR conferences and meetings The HEOR Director is responsible for developing the evidence to support reimbursement and the value proposition for SOBI products throughout the product’s lifecycle. The HEOR Director will support multiple projects (5-15) and HTA (1-10) and/or reimbursement submissions per year with several products across the SOBI portfolio.</p></div></div>
-  </div>
-  <div class="card-actions">
-    <button class="action-btn action-match" onclick="setJobStatus(this,'matched')">&#8629; Back to Matched</button>
-  </div>
-</div>
-
-<div class="job-card"
-     data-company="Sobi"
-     data-score="0"
      data-date="2026-01-22"
      data-location="switzerland"
      data-url="https://jobs.smartrecruiters.com/Sobi/744000105024766-global-regulatory-cmc-lead?oga=true"
@@ -1765,8 +1727,8 @@ Benchling welcomes everyone</li><li>We believe diversity enriches our team so we
     <span class="kw-label kw-minus">−</span><span class="kw-text">(none)</span>
   </div>
   <div class="card-desc">
-    <button class="toggle-btn" onclick="toggleDesc(this,28)">▸ Description</button>
-    <div id="desc-more-28" class="desc-structured" hidden><div class="desc-sec"><p class="desc-para">The Global Regulatory CMC Lead develops and executes global regulatory CMC strategy for assigned Sobi assets in development, prepares CMC sections of IND/IMPD, MAA, NDA/BLA as well as assesses global filing strategy for post approval changes.</p></div>
+    <button class="toggle-btn" onclick="toggleDesc(this,27)">▸ Description</button>
+    <div id="desc-more-27" class="desc-structured" hidden><div class="desc-sec"><p class="desc-para">The Global Regulatory CMC Lead develops and executes global regulatory CMC strategy for assigned Sobi assets in development, prepares CMC sections of IND/IMPD, MAA, NDA/BLA as well as assesses global filing strategy for post approval changes.</p></div>
 <div class="desc-sec"><div class="desc-sh">About the Role</div><p class="desc-para">holder works closely with Global Manufacturing Sciences subject matter experts, Quality representatives, and cross-functional stakeholders in Regulatory Affairs. The Global Regulatory CMC Lead also supports Global Manufacturing and Supply where R&amp;D deliverables are needed for regulatory submissions.</p></div>
 <div class="desc-sec"><div class="desc-sh">Key Responsibilities</div><p class="desc-para">Develop global regulatory CMC strategies to ensure acceptance, rapid review and approval of marketing applications, supplements/variations, clinical trial applications and other submissions which include CMC information Write and compile CMC sections of regulatory submissions including clinical trial applications and variations/supplements as well as registration submissions worldwide Lead team of SMEs through extensive knowledge of eCTD</p></div>
 <div class="desc-sec"><div class="desc-sh">requirements</div><p class="desc-para">for Quality modules with respect to marketing authorization, post approval changes and clinical trial applications globally Review data provided to support dossier preparation; identify gaps and risks and work with stakeholders to understand regulatory impact of the risks identified to aid with mitigation and informed decision making Manage answers to questions from the Health Authorities in a timely and effective manner to ensure early approval Interact and negotiate with Health Authorities on CMC issues Develop and maintain project plans and schedules for CMC submissions Evaluate proposed manufacturing changes for global impact assessments and provide regulatory strategies that support change implementation Provide guidance on ICH, FDA, and EU CMC guidelines Develop and maintain strong relationships with internal functional groups, contract manufacturing organizations and other relevant partners to ensure alignment of regulatory CMC strategies and successfully accomplish regulatory objectives Represent the Regulatory Affairs CMC function on assigned cross-functional project teams Ensure all CMC dossiers and relevant regulatory information are stored in Veeva according to Sobi’s guidelines</p></div></div>
@@ -1804,8 +1766,8 @@ Benchling welcomes everyone</li><li>We believe diversity enriches our team so we
     <span class="kw-label kw-minus">−</span><span class="kw-text">(none)</span>
   </div>
   <div class="card-desc">
-    <button class="toggle-btn" onclick="toggleDesc(this,29)">▸ Description</button>
-    <div id="desc-more-29" class="desc-structured" hidden><div class="desc-sec"><p class="desc-para">The Global Product Safety Scientist (GPSS) is responsible for providing safety scientific expertise and works with the Global Product Safety Science Lead (GPSSL) to develop and implement the Safety Science strategy for assigned Sobi products. The GPSS works collaboratively together with the GPSSL and other members of the Sobi Global Pharmacovigilance team, together with other functions across Sobi, to ensure that safety science activities are delivered to ethical and safety quality standards to ensure safety of patients, and compliance with GVP, GCP and worldwide regulatory requirements.</p></div>
+    <button class="toggle-btn" onclick="toggleDesc(this,28)">▸ Description</button>
+    <div id="desc-more-28" class="desc-structured" hidden><div class="desc-sec"><p class="desc-para">The Global Product Safety Scientist (GPSS) is responsible for providing safety scientific expertise and works with the Global Product Safety Science Lead (GPSSL) to develop and implement the Safety Science strategy for assigned Sobi products. The GPSS works collaboratively together with the GPSSL and other members of the Sobi Global Pharmacovigilance team, together with other functions across Sobi, to ensure that safety science activities are delivered to ethical and safety quality standards to ensure safety of patients, and compliance with GVP, GCP and worldwide regulatory requirements.</p></div>
 <div class="desc-sec"><div class="desc-sh">Key Responsibilities</div><ul class="desc-list"><li>Collaborate with the Global Product Safety Science Lead (GPSSL) to develop and implement Safety Science strategy for assigned Sobi products</li><li>Participate in and support the Benefit Risk Team (BRT) to drive signal detection, analysis, risk management, and safety labeling</li><li>Contribute to clinical study teams, providing safety input for design, conduct, data analysis, and interpretation</li><li>May serve as study-level Safety Lead</li><li>Support the creation and maintenance of safety documentation, including Safety Management Plans, Risk Management Plans (RMPs), and periodic reports (e.g., PSURs, DSURs)</li><li>Monitor, analyze, and evaluate incoming safety information to identify potential safety signals</li><li>Provide safety expertise for regulatory submissions, interactions, and product expansion activities</li><li>Collaborate with cross-functional teams to ensure compliance with GVP, GCP, and worldwide regulatory requirements</li><li>Contribute to the development and maintenance of safety-related systems, processes, and procedural documents</li><li>Support audits and inspections related to product safety</li><li>Review scientific literature and contribute to worldwide literature review strategies</li></ul></div></div>
   </div>
   <div class="card-actions">
@@ -1841,8 +1803,8 @@ Benchling welcomes everyone</li><li>We believe diversity enriches our team so we
     <span class="kw-label kw-minus">−</span><span class="kw-text">(none)</span>
   </div>
   <div class="card-desc">
-    <button class="toggle-btn" onclick="toggleDesc(this,30)">▸ Description</button>
-    <div id="desc-more-30" class="desc-structured" hidden><div class="desc-sec"><p class="desc-para">The Global Product Safety Scientist (GPSS) is responsible for providing safety scientific expertise and works with the Global Product Safety Science Lead (GPSSL) to develop and implement the Safety Science strategy for assigned Sobi products. The GPSS works collaboratively together with the GPSSL and other members of the Sobi Global Pharmacovigilance team, together with other functions across Sobi, to ensure that safety science activities are delivered to ethical and safety quality standards to ensure safety of patients, and compliance with GVP, GCP and worldwide regulatory requirements.</p></div>
+    <button class="toggle-btn" onclick="toggleDesc(this,29)">▸ Description</button>
+    <div id="desc-more-29" class="desc-structured" hidden><div class="desc-sec"><p class="desc-para">The Global Product Safety Scientist (GPSS) is responsible for providing safety scientific expertise and works with the Global Product Safety Science Lead (GPSSL) to develop and implement the Safety Science strategy for assigned Sobi products. The GPSS works collaboratively together with the GPSSL and other members of the Sobi Global Pharmacovigilance team, together with other functions across Sobi, to ensure that safety science activities are delivered to ethical and safety quality standards to ensure safety of patients, and compliance with GVP, GCP and worldwide regulatory requirements.</p></div>
 <div class="desc-sec"><div class="desc-sh">Key Responsibilities</div><ul class="desc-list"><li>Collaborate with the Global Product Safety Science Lead (GPSSL) to develop and implement the Safety Science strategy for assigned Sobi products</li><li>Lead the Benefit Risk Team (BRT) activities, including signal detection, analysis, validation, risk management, and safety labelling</li><li>Contribute to clinical study teams, providing safety input for design, conduct, data analysis, and interpretation</li><li>May act as study-level Safety Lead</li><li>Support safety science interactions with partner companies, ensuring information sharing and collaborative functioning of the Joint Safety Management Team (JSMT)</li><li>Drive monitoring, review, and evaluation of safety information, highlighting potential safety signals</li><li>Lead the preparation of periodic reports (e.g., PSURs and DSURs) and risk management plans (RMPs)</li><li>Provide safety expertise for regulatory submissions, interactions, and product expansion activities</li><li>Contribute to the development and maintenance of safety-related systems, processes, and procedural documents</li><li>Support audits and inspections related to pharmacovigilance activities</li><li>Collaborate with cross-functional teams to ensure compliance with GVP, GCP, and worldwide regulatory requirements</li></ul></div></div>
   </div>
   <div class="card-actions">
@@ -1878,8 +1840,46 @@ Benchling welcomes everyone</li><li>We believe diversity enriches our team so we
     <span class="kw-label kw-minus">−</span><span class="kw-text">(none)</span>
   </div>
   <div class="card-desc">
+    <button class="toggle-btn" onclick="toggleDesc(this,30)">▸ Description</button>
+    <div id="desc-more-30" class="desc-structured" hidden><div class="desc-sec"><p class="desc-para">Welcome to the Non-Member State Postdoc Fellowship Programme (Theoretical Physics) Two postdoctoral fellowships are awarded each year by the Non-Member State Fellowship Programme in Theoretical Physics. The Fellowship is granted for two years and can exceptionally be extended to a third year.</p></div></div>
+  </div>
+  <div class="card-actions">
+    <button class="action-btn action-match" onclick="setJobStatus(this,'matched')">&#8629; Back to Matched</button>
+  </div>
+</div>
+
+<div class="job-card"
+     data-company="Takeda"
+     data-score="1"
+     data-date=""
+     data-location="switzerland"
+     data-url="https://takeda.wd3.myworkdayjobs.com/External/job/Zurich-Switzerland/Associate-Director--Senior-International-Clinical-Trial-Regulatory-Lead_R0175889"
+     data-status="ignored"
+     data-text="associate director, senior international clinical trial regulatory lead takeda oncology">
+  <div class="card-header">
+    <div class="card-left">
+      <span class="score-badge score-blue">+1</span>
+      
+      <span class="job-title">Associate Director, Senior International Clinical Trial Regulatory Lead</span>
+    </div>
+    <a class="open-link" href="https://takeda.wd3.myworkdayjobs.com/External/job/Zurich-Switzerland/Associate-Director--Senior-International-Clinical-Trial-Regulatory-Lead_R0175889" target="_blank" rel="noopener">Open ↗</a>
+  </div>
+  <div class="card-meta">
+    <span class="company">Takeda</span>
+    <span class="location">📍 Zurich, Switzerland</span>
+    <span class="tag tag-swiss">Switzerland</span>
+    
+  </div>
+  <div class="card-keywords">
+    <span class="kw-label kw-plus">+</span><span class="kw-text">oncology</span>
+    &nbsp;&nbsp;
+    <span class="kw-label kw-minus">−</span><span class="kw-text">(none)</span>
+  </div>
+  <div class="card-desc">
     <button class="toggle-btn" onclick="toggleDesc(this,31)">▸ Description</button>
-    <div id="desc-more-31" class="desc-structured" hidden><div class="desc-sec"><p class="desc-para">Welcome to the Non-Member State Postdoc Fellowship Programme (Theoretical Physics) Two postdoctoral fellowships are awarded each year by the Non-Member State Fellowship Programme in Theoretical Physics. The Fellowship is granted for two years and can exceptionally be extended to a third year.</p></div></div>
+    <div id="desc-more-31" class="desc-structured" hidden><div class="desc-sec"><p class="desc-para">By clicking the “Apply” button, I understand that my employment application process with Takeda will commence and that the information I provide in my application will be processed in line with Takeda’s Privacy Notice and Terms of Use .  I further attest that all information I submit in my employment application is true to the best of my knowledge.</p></div>
+<div class="desc-sec"><div class="desc-sh">About the Role</div><p class="desc-para">Objective / Purpose: Contributes to the development of regulatory strategy for assigned clinical trials in Europe &amp; Canada (EUCAN) and Growth &amp; Emerging Markets (GEM) regions. Develops the operational implementation plan for clinical trial applications (CTAs) in EUCAN and GEM regions from initial submission throughout lifecycle, in alignment with the global submission strategy. This may concern trials across a variety of Therapeutic Areas, including oncology, gastrointestinal and inflammation, marketed products and neuroscience. Executes or oversees all activities related to the creation, submission, and maintenance of CTAs Globally (GEM and EUCAN region), in Europe through the EU Clinical Trial Information System (CTIS) or legacy processes in conformity with legal</p></div>
+<div class="desc-sec"><div class="desc-sh">requirements</div><ul class="desc-list"><li>and with Takeda’s global and regional internal procedures</li><li>Ensures oversight and tracking of CTA activities and eTMF updates performed by the CRO Regulatory Lead</li><li>Works in collaboration with CRO to ensure compliance</li><li>Provides strategic and tactical advice and guidance and CTA regulatory expertise to regional and global leadership teams on how to achieve timely and efficient conduct of assigned development programs while maintaining full compliance with applicable regulatory requirements</li><li>Manages or leads CTA interactions with regional health authorities under limited senior oversight</li><li>Mentors team members and provides direction, support, and strategic guidance to fulfil scope of project work, when applicable</li><li>Oversees CTA interactions with health authorities in the region during assessment of clinical trial applications</li><li>May act as deputy to Head International Regulatory Clinical Trials and Team Lead</li><li>Accountabilities: Demonstrates Takeda leadership behaviors and encourages the team to live up to the Takeda Code of Conduct and leadership behaviors</li><li>Independently manages, plans, and works closely with Takeda Global and Regional counterparts, as applicable to manage all aspects of assigned CTA regulatory activities throughout the development lifecycle</li><li>Presents regional CTA regulatory strategies to leadership/senior management</li><li>Identifies regional/national to support submissions of CTAs to Regulatory Authorities</li><li>Coordinates submission preparations process and creation of administrative documents to support initial CTAs or maintenance submissions for the assigned interventional trials (in collaboration with CROs where applicable), ensuring all necessary documentation is made available for submission and internally approved as appropriate</li><li>Coordinates submission preparations process and creation of administrative documents to support initial Non-Interventional Post-authorisation safety studies (PASS) and/or maintenance submissions (in collaboration with CROs where applicable), ensuring all necessary documentation is made available for submission and internally approved as appropriate</li><li>Proactively builds/strengthens external stakeholder (Regulatory Agency where applicable, external experts, industry organizations, etc.) contacts/influence to achieve Takeda strategic goals and objectives</li><li>Ensures accurate and timely submissions and proactive communication of key regulatory milestones throughout clinical trial lifecycle (e.g., submission and approval of initial CTA, amendment/modification, HA questions/responses etc.) Provides regulatory oversight of CRO activities as applicable to ensure that all submissions activities are tracked, and appropriate systems are maintained in a compliant manner (e.g., eTMF)</li><li>Supports non routine submission activities and deviation follow-up as needed (e.g., provision of Serious Breach submissions, submission of inspection reports, ad-hoc unexpected filings etc.)</li><li>Upon request, provides ad-hoc guidance to teams related to latest submission and experiences for clinical trials</li><li>Works as part of team to provide proactive solutions to problems arising during the CTA processes in conjunction with senior team member and/or Global/EU Regulatory Lead, as applicable</li><li>Contributes to the maintenance of appropriate internal regulatory knowledge data base on emerging information and trends with regulators for clinical trials</li><li>Coordinates submissions in the CTIS portal</li><li>May represent the Team in Workshops/cross-functional initiatives and contribute/lead from clinical trials’ perspective</li><li>Ensures involvement of Local Operating Companies (LOCs) RA representatives in HA interactions related to CTA activities, as appropriate</li><li>Participates in reviews and may co-author internal procedures and processes, as appropriate</li><li>Education &amp; Competencies (Technical and Behavioral): BSc</li><li>Advanced scientific related degree preferred; BA accepted based on experience</li><li>A minimum of 8 years of hands-on experience in regulatory affairs, including active involvement in the execution of clinical trials</li><li>Several years of experience in directly managing and leading a team</li><li>Demonstrated expertise in leading the preparation and submission of regulatory documents to support clinical trial applications and amendments within the EU regulatory framework</li><li>Strong understanding of the European pharmaceutical development lifecycle and associated regulatory standards; familiarity with non-EU regulatory landscapes is a plus</li><li>In-depth experience with regulatory submissions and comprehensive knowledge of the Clinical Trials Regulation (CTR) and Clinical Trials Information System (CTIS)</li><li>Excellent written and verbal communication abilities, with a proactive approach to sharing insights and fostering knowledge exchange</li><li>Recognized capability to lead cross-functional teams and cultivate effective, collaborative relationships across diverse organizational levels</li><li>Motivated to contribute to a dynamic, fast-growing team that values integrity, fairness, honesty, perseverance, and teamwork</li><li>Experience supporting regulatory authority inspections and proficiency in the conduct of GxP audits will be advantageous</li><li>Able to manage with limited supervision different types of regulatory development procedures in the region</li><li>Can speak up and is perceived as a natural, assertive authority whom peers trust for their advice</li><li>Communicates externally/with authorities in concise and respectful language</li><li>Develops concise strategic plans, understandably outlines the opportunities and risks of alternative scenarios before proposing a decision</li><li>Proposes risk mitigation plans</li><li>Acts as an ally to support individuals as a whole and promotes an inclusive culture</li><li>Practices active listening encourages open dialogue, feedback, and diverse opinions</li><li>Is able to prioritise activities and execute within reasonable time with limited supervision</li><li>Can take tactical decisions</li><li>Adapts to changing circumstances and is able to build and maintain relationships</li><li>Has their voice heard as remote participant to global or cross functional teams; influences meeting agendas &amp; outcomes to optimally integrate regional strategic needs</li><li>Receives and gives feedback; expresses ideas, questions, and disagreement</li><li>Is self-aware and able to function effectively while meeting the multiple challenges of daily life with a sense of energy, vitality, and confidence</li><li>Fluency in English Locations Zurich, Switzerland Worker Type Employee Worker Sub-Type Regular Time Type Full time</li></ul></div></div>
   </div>
   <div class="card-actions">
     <button class="action-btn action-match" onclick="setJobStatus(this,'matched')">&#8629; Back to Matched</button>
@@ -1893,7 +1893,7 @@ Benchling welcomes everyone</li><li>We believe diversity enriches our team so we
      data-location="switzerland"
      data-url="https://jobs.boehringer-ingelheim.com/job/Basel-Medical-Science-Liaison-Oncology-%28Lung-Cancer%29-%28mfd%29-Swit/1293209501/"
      data-status="ignored"
-     data-text="medical science liaison oncology (lung cancer) (m/f/d) boehringer ingelheim oncology phd medical affairs french">
+     data-text="medical science liaison oncology (lung cancer) (m/f/d) boehringer ingelheim french phd oncology medical affairs">
   <div class="card-header">
     <div class="card-left">
       <span class="score-badge score-lime">+4</span>
@@ -1909,7 +1909,7 @@ Benchling welcomes everyone</li><li>We believe diversity enriches our team so we
     
   </div>
   <div class="card-keywords">
-    <span class="kw-label kw-plus">+</span><span class="kw-text">oncology  PhD  medical affairs  French</span>
+    <span class="kw-label kw-plus">+</span><span class="kw-text">French  PhD  oncology  medical affairs</span>
     &nbsp;&nbsp;
     <span class="kw-label kw-minus">−</span><span class="kw-text">(none)</span>
   </div>
@@ -2004,7 +2004,7 @@ Benchling welcomes everyone</li><li>We believe diversity enriches our team so we
      data-location="switzerland"
      data-url="https://careers.idorsia.com/job/Allschwil%2C-Basel-Area-Drug-Safety-Scientist-BL/1371651833/"
      data-status="ignored"
-     data-text="drug safety scientist idorsia clinical pharmacology medical affairs drug discovery pharmacology">
+     data-text="drug safety scientist idorsia medical affairs drug discovery clinical pharmacology pharmacology">
   <div class="card-header">
     <div class="card-left">
       <span class="score-badge score-lime">+4</span>
@@ -2020,7 +2020,7 @@ Benchling welcomes everyone</li><li>We believe diversity enriches our team so we
     
   </div>
   <div class="card-keywords">
-    <span class="kw-label kw-plus">+</span><span class="kw-text">clinical pharmacology  medical affairs  drug discovery  pharmacology</span>
+    <span class="kw-label kw-plus">+</span><span class="kw-text">medical affairs  drug discovery  clinical pharmacology  pharmacology</span>
     &nbsp;&nbsp;
     <span class="kw-label kw-minus">−</span><span class="kw-text">(none)</span>
   </div>
@@ -2042,7 +2042,7 @@ Benchling welcomes everyone</li><li>We believe diversity enriches our team so we
      data-location="switzerland"
      data-url="https://careers.idorsia.com/job/Basel-Senior-Technical-Regulatory-Affairs-Manager-BS/1372172333/"
      data-status="ignored"
-     data-text="senior technical regulatory affairs manager idorsia phd msc drug discovery">
+     data-text="senior technical regulatory affairs manager idorsia drug discovery phd msc">
   <div class="card-header">
     <div class="card-left">
       <span class="score-badge score-lime">+3</span>
@@ -2058,7 +2058,7 @@ Benchling welcomes everyone</li><li>We believe diversity enriches our team so we
     
   </div>
   <div class="card-keywords">
-    <span class="kw-label kw-plus">+</span><span class="kw-text">PhD  MSc  drug discovery</span>
+    <span class="kw-label kw-plus">+</span><span class="kw-text">drug discovery  PhD  MSc</span>
     &nbsp;&nbsp;
     <span class="kw-label kw-minus">−</span><span class="kw-text">(none)</span>
   </div>
@@ -2395,6 +2395,258 @@ Benchling welcomes everyone</li><li>We believe diversity enriches our team so we
     <button class="action-btn action-match" onclick="setJobStatus(this,'matched')">&#8629; Back to Matched</button>
   </div>
 </div>
+
+<div class="job-card"
+     data-company="Michael Page Switzerland"
+     data-score="-2"
+     data-date=""
+     data-location="switzerland"
+     data-url="https://www.michaelpage.ch/job-detail/business-development-manager-defense-europe-mfd/ref/jn-122025-6902007"
+     data-status="ignored"
+     data-text="business development manager - defense europe (m/f/d) michael page switzerland ">
+  <div class="card-header">
+    <div class="card-left">
+      <span class="score-badge score-orange">-2</span>
+      
+      <span class="job-title">Business Development Manager - Defense Europe (m/f/d)</span>
+    </div>
+    <a class="open-link" href="https://www.michaelpage.ch/job-detail/business-development-manager-defense-europe-mfd/ref/jn-122025-6902007" target="_blank" rel="noopener">Open ↗</a>
+  </div>
+  <div class="card-meta">
+    <span class="company">Michael Page Switzerland</span>
+    <span class="location">📍 Switzerland</span>
+    <span class="tag tag-swiss">Switzerland</span>
+    
+  </div>
+  <div class="card-keywords">
+    <span class="kw-label kw-plus">+</span><span class="kw-text">(none)</span>
+    &nbsp;&nbsp;
+    <span class="kw-label kw-minus">−</span><span class="kw-text">location:Switzerland</span>
+  </div>
+  <div class="card-desc">
+    
+    
+  </div>
+  <div class="card-actions">
+    <button class="action-btn action-match" onclick="setJobStatus(this,'matched')">&#8629; Back to Matched</button>
+  </div>
+</div>
+
+<div class="job-card"
+     data-company="Michael Page Switzerland"
+     data-score="-2"
+     data-date=""
+     data-location="switzerland"
+     data-url="https://www.michaelpage.ch/de/job-detail/business-development-specialist-100/ref/jn-032026-6968386?lang=en"
+     data-status="ignored"
+     data-text="business development specialist (a) 100% michael page switzerland ">
+  <div class="card-header">
+    <div class="card-left">
+      <span class="score-badge score-orange">-2</span>
+      
+      <span class="job-title">Business Development Specialist (a) 100%</span>
+    </div>
+    <a class="open-link" href="https://www.michaelpage.ch/de/job-detail/business-development-specialist-100/ref/jn-032026-6968386?lang=en" target="_blank" rel="noopener">Open ↗</a>
+  </div>
+  <div class="card-meta">
+    <span class="company">Michael Page Switzerland</span>
+    <span class="location">📍 Switzerland</span>
+    <span class="tag tag-swiss">Switzerland</span>
+    
+  </div>
+  <div class="card-keywords">
+    <span class="kw-label kw-plus">+</span><span class="kw-text">(none)</span>
+    &nbsp;&nbsp;
+    <span class="kw-label kw-minus">−</span><span class="kw-text">location:Switzerland</span>
+  </div>
+  <div class="card-desc">
+    
+    
+  </div>
+  <div class="card-actions">
+    <button class="action-btn action-match" onclick="setJobStatus(this,'matched')">&#8629; Back to Matched</button>
+  </div>
+</div>
+
+<div class="job-card"
+     data-company="Michael Page Switzerland"
+     data-score="-2"
+     data-date=""
+     data-location="switzerland"
+     data-url="https://www.michaelpage.ch/de/job-detail/senior-area-sales-manager-business-development-manager-dach/ref/jn-022026-6955718?lang=en"
+     data-status="ignored"
+     data-text="senior area sales manager &amp; business development manager - dach michael page switzerland ">
+  <div class="card-header">
+    <div class="card-left">
+      <span class="score-badge score-orange">-2</span>
+      
+      <span class="job-title">Senior Area Sales Manager &amp; Business Development Manager - DACH</span>
+    </div>
+    <a class="open-link" href="https://www.michaelpage.ch/de/job-detail/senior-area-sales-manager-business-development-manager-dach/ref/jn-022026-6955718?lang=en" target="_blank" rel="noopener">Open ↗</a>
+  </div>
+  <div class="card-meta">
+    <span class="company">Michael Page Switzerland</span>
+    <span class="location">📍 Switzerland</span>
+    <span class="tag tag-swiss">Switzerland</span>
+    
+  </div>
+  <div class="card-keywords">
+    <span class="kw-label kw-plus">+</span><span class="kw-text">(none)</span>
+    &nbsp;&nbsp;
+    <span class="kw-label kw-minus">−</span><span class="kw-text">location:Switzerland</span>
+  </div>
+  <div class="card-desc">
+    
+    
+  </div>
+  <div class="card-actions">
+    <button class="action-btn action-match" onclick="setJobStatus(this,'matched')">&#8629; Back to Matched</button>
+  </div>
+</div>
+
+<div class="job-card"
+     data-company="Michael Page Switzerland"
+     data-score="-2"
+     data-date=""
+     data-location="switzerland"
+     data-url="https://www.michaelpage.ch/de/job-detail/product-business-development-manager/ref/jn-032026-6970319?lang=en"
+     data-status="ignored"
+     data-text="product &amp; business development manager michael page switzerland ">
+  <div class="card-header">
+    <div class="card-left">
+      <span class="score-badge score-orange">-2</span>
+      
+      <span class="job-title">Product &amp; Business Development Manager</span>
+    </div>
+    <a class="open-link" href="https://www.michaelpage.ch/de/job-detail/product-business-development-manager/ref/jn-032026-6970319?lang=en" target="_blank" rel="noopener">Open ↗</a>
+  </div>
+  <div class="card-meta">
+    <span class="company">Michael Page Switzerland</span>
+    <span class="location">📍 Switzerland</span>
+    <span class="tag tag-swiss">Switzerland</span>
+    
+  </div>
+  <div class="card-keywords">
+    <span class="kw-label kw-plus">+</span><span class="kw-text">(none)</span>
+    &nbsp;&nbsp;
+    <span class="kw-label kw-minus">−</span><span class="kw-text">location:Switzerland</span>
+  </div>
+  <div class="card-desc">
+    
+    
+  </div>
+  <div class="card-actions">
+    <button class="action-btn action-match" onclick="setJobStatus(this,'matched')">&#8629; Back to Matched</button>
+  </div>
+</div>
+
+<div class="job-card"
+     data-company="Michael Page Switzerland"
+     data-score="-2"
+     data-date=""
+     data-location="switzerland"
+     data-url="https://www.michaelpage.ch/job-detail/business-development-manager-medical-devices-mfd/ref/jn-032026-6964024"
+     data-status="ignored"
+     data-text="business development manager - medical devices (m/f/d) michael page switzerland ">
+  <div class="card-header">
+    <div class="card-left">
+      <span class="score-badge score-orange">-2</span>
+      
+      <span class="job-title">Business Development Manager - Medical Devices (m/f/d)</span>
+    </div>
+    <a class="open-link" href="https://www.michaelpage.ch/job-detail/business-development-manager-medical-devices-mfd/ref/jn-032026-6964024" target="_blank" rel="noopener">Open ↗</a>
+  </div>
+  <div class="card-meta">
+    <span class="company">Michael Page Switzerland</span>
+    <span class="location">📍 Switzerland</span>
+    <span class="tag tag-swiss">Switzerland</span>
+    
+  </div>
+  <div class="card-keywords">
+    <span class="kw-label kw-plus">+</span><span class="kw-text">(none)</span>
+    &nbsp;&nbsp;
+    <span class="kw-label kw-minus">−</span><span class="kw-text">location:Switzerland</span>
+  </div>
+  <div class="card-desc">
+    
+    
+  </div>
+  <div class="card-actions">
+    <button class="action-btn action-match" onclick="setJobStatus(this,'matched')">&#8629; Back to Matched</button>
+  </div>
+</div>
+
+<div class="job-card"
+     data-company="Michael Page Switzerland"
+     data-score="-2"
+     data-date=""
+     data-location="switzerland"
+     data-url="https://www.michaelpage.ch/job-detail/technical-regulatory-affairs-cmc/ref/jn-012026-6931099"
+     data-status="ignored"
+     data-text="technical regulatory affairs (cmc) michael page switzerland ">
+  <div class="card-header">
+    <div class="card-left">
+      <span class="score-badge score-orange">-2</span>
+      
+      <span class="job-title">Technical Regulatory Affairs (CMC)</span>
+    </div>
+    <a class="open-link" href="https://www.michaelpage.ch/job-detail/technical-regulatory-affairs-cmc/ref/jn-012026-6931099" target="_blank" rel="noopener">Open ↗</a>
+  </div>
+  <div class="card-meta">
+    <span class="company">Michael Page Switzerland</span>
+    <span class="location">📍 Switzerland</span>
+    <span class="tag tag-swiss">Switzerland</span>
+    
+  </div>
+  <div class="card-keywords">
+    <span class="kw-label kw-plus">+</span><span class="kw-text">(none)</span>
+    &nbsp;&nbsp;
+    <span class="kw-label kw-minus">−</span><span class="kw-text">location:Switzerland</span>
+  </div>
+  <div class="card-desc">
+    
+    
+  </div>
+  <div class="card-actions">
+    <button class="action-btn action-match" onclick="setJobStatus(this,'matched')">&#8629; Back to Matched</button>
+  </div>
+</div>
+
+<div class="job-card"
+     data-company="Michael Page Switzerland"
+     data-score="-2"
+     data-date=""
+     data-location="switzerland"
+     data-url="https://www.michaelpage.ch/de/job-detail/business-development-manager-software-consulting-gn/ref/jn-012026-6917261?lang=en"
+     data-status="ignored"
+     data-text="senior business development manager - software &amp; consulting (gn) michael page switzerland ">
+  <div class="card-header">
+    <div class="card-left">
+      <span class="score-badge score-orange">-2</span>
+      
+      <span class="job-title">Senior Business Development Manager - Software &amp; Consulting (gn)</span>
+    </div>
+    <a class="open-link" href="https://www.michaelpage.ch/de/job-detail/business-development-manager-software-consulting-gn/ref/jn-012026-6917261?lang=en" target="_blank" rel="noopener">Open ↗</a>
+  </div>
+  <div class="card-meta">
+    <span class="company">Michael Page Switzerland</span>
+    <span class="location">📍 Switzerland</span>
+    <span class="tag tag-swiss">Switzerland</span>
+    
+  </div>
+  <div class="card-keywords">
+    <span class="kw-label kw-plus">+</span><span class="kw-text">(none)</span>
+    &nbsp;&nbsp;
+    <span class="kw-label kw-minus">−</span><span class="kw-text">location:Switzerland</span>
+  </div>
+  <div class="card-desc">
+    
+    
+  </div>
+  <div class="card-actions">
+    <button class="action-btn action-match" onclick="setJobStatus(this,'matched')">&#8629; Back to Matched</button>
+  </div>
+</div>
     </div>
   </div>
 
@@ -2409,7 +2661,7 @@ Benchling welcomes everyone</li><li>We believe diversity enriches our team so we
      data-location="switzerland"
      data-url="https://jobs.ashbyhq.com/benchling/33b3deda-15df-442f-be7f-c01552906791"
      data-status="applied"
-     data-text="implementation manager - bilingual (english/french) benchling molecular biology immunology bioinformatics bilingual french">
+     data-text="implementation manager - bilingual (english/french) benchling bilingual immunology french molecular biology bioinformatics">
   <div class="card-header">
     <div class="card-left">
       <span class="score-badge score-lime">+5</span>
@@ -2425,13 +2677,13 @@ Benchling welcomes everyone</li><li>We believe diversity enriches our team so we
     <span class="posted">Posted 2026-03-17</span>
   </div>
   <div class="card-keywords">
-    <span class="kw-label kw-plus">+</span><span class="kw-text">molecular biology  immunology  bioinformatics  bilingual  French</span>
+    <span class="kw-label kw-plus">+</span><span class="kw-text">bilingual  immunology  French  molecular biology  bioinformatics</span>
     &nbsp;&nbsp;
     <span class="kw-label kw-minus">−</span><span class="kw-text">(none)</span>
   </div>
   <div class="card-desc">
-    <button class="toggle-btn" onclick="toggleDesc(this,46)">▸ Description</button>
-    <div id="desc-more-46" class="desc-structured" hidden><div class="desc-sec"><p class="desc-para">Biotechnology is rewriting life as we know it, from the medicines we take, to the crops we grow, the materials we wear, and the household goods that we rely on every day. But moving at the new speed of science requires better technology.
+    <button class="toggle-btn" onclick="toggleDesc(this,53)">▸ Description</button>
+    <div id="desc-more-53" class="desc-structured" hidden><div class="desc-sec"><p class="desc-para">Biotechnology is rewriting life as we know it, from the medicines we take, to the crops we grow, the materials we wear, and the household goods that we rely on every day. But moving at the new speed of science requires better technology.
 
 Benchling’s mission is to unlock the power of biotechnology. The world’s most innovative biotech companies use Benchling’s R&amp;D Cloud to power the development of breakthrough products and accelerate time to milestone and market.
 
