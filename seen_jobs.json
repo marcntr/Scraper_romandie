@@ -9,7 +9,7 @@
     "keywords": "scientist"
   },
   "_generic:Charles River Laboratories": {
-    "keywords": "regulatory"
+    "keywords": "regulatory,scientist"
   },
   "_generic:MoonLake Immunotherapeutics": {
     "keywords": "clinical development,medical affairs"
@@ -563,7 +563,7 @@
     "title": "Internship in Computational Biology and Medicine - Ophthalmology (for 6 month in Basel)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-03-17",
+    "posted_date": "2026-03-18",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -579,7 +579,7 @@
     "title": "Machine Learning Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-03-05",
+    "posted_date": "2026-03-06",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -595,7 +595,7 @@
     "title": "(Sr.) Scientist, Development (Parenteral Drug Product)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-03-06",
+    "posted_date": "2026-03-07",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -613,7 +613,7 @@
     "title": "Scientist, Antibiotics Discovery",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-02-26",
+    "posted_date": "2026-02-27",
     "department": "",
     "score": 8,
     "matched_keywords": [
@@ -635,7 +635,7 @@
     "title": "Post Doctorate Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-02-25",
+    "posted_date": "2026-02-26",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -652,7 +652,7 @@
     "title": "Senior Scientist - Mucosal Immunology",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-02-23",
+    "posted_date": "2026-02-24",
     "department": "",
     "score": 8,
     "matched_keywords": [
@@ -674,7 +674,7 @@
     "title": "Post Doctorate Scientist (Organoid Systems Biology) - Institute of Human Biology",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-02-23",
+    "posted_date": "2026-02-24",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -695,7 +695,7 @@
     "title": "Non-Malignant Hematology in vitro/in vivo Scientist_1 year temporary contract",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-02-23",
+    "posted_date": "2026-02-24",
     "department": "",
     "score": 8,
     "matched_keywords": [
@@ -722,7 +722,7 @@
     "title": "Senior Manager HEOR",
     "company": "Abbott",
     "location": "Switzerland - Basel",
-    "posted_date": "2026-02-23",
+    "posted_date": "2026-02-24",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -740,7 +740,7 @@
     "title": "Associate Director, EUCAN Regulatory Lead - GI and Inflammation",
     "company": "Takeda",
     "location": "Zurich, Switzerland",
-    "posted_date": "2026-03-02",
+    "posted_date": "2026-03-03",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -755,7 +755,7 @@
     "title": "Manager, International Clinical Trial Regulatory Lead",
     "company": "Takeda",
     "location": "Zurich, Switzerland",
-    "posted_date": "2026-02-23",
+    "posted_date": "2026-02-24",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -770,7 +770,7 @@
     "title": "Associate Director, EUCAN Regulatory Lead - Oncology",
     "company": "Takeda",
     "location": "Zurich, Switzerland",
-    "posted_date": "2026-02-23",
+    "posted_date": "2026-02-24",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -786,7 +786,7 @@
     "title": "Vice President, Regulatory Affairs, Europe and International",
     "company": "BeiGene",
     "location": "Basel",
-    "posted_date": "2026-02-23",
+    "posted_date": "2026-02-24",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -802,7 +802,7 @@
     "title": "Scientist Microbiological Quality Control",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-03-13",
+    "posted_date": "2026-03-14",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -845,7 +845,7 @@
     "title": "Associate Director, Global Regulatory Strategy",
     "company": "Biogen",
     "location": "Baar, Switzerland",
-    "posted_date": "2026-02-23",
+    "posted_date": "2026-02-24",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -863,7 +863,7 @@
     "title": "Associate Director, Regulatory CMC Small Molecule Lead",
     "company": "Biogen",
     "location": "Baar, Switzerland",
-    "posted_date": "2026-02-23",
+    "posted_date": "2026-02-24",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -1174,7 +1174,7 @@
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-03-18"
+    "cached_at": "2026-03-26"
   },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000115506267": {
     "description": "You will assist waste producers from the LHC experiments and participate in the operation of the CERN radioactive waste treatment centre, gaining experience in assessing the technical and financial impacts of end-of-life management for the engineering of radioactive components. This involves developing the ability to advise waste producers on the safe, effective, and efficient handling, packaging, interim storage, and transport of a wide range of spent experimental equipment, from extremely low-activated items to intermediate-level waste. Your responsibilities Advise radioactive waste producers. Assist with the reception of radioactive waste items. Measure the physical properties of radioactive waste items affecting their safe handling, interim storage, and elimination. Ensure traceability of radioactive waste characteristics and of the actions performed on them (measurements, transport, processing). Define appropriate interim storage conditions and processing pathways. Monitor and control radiation protection and the technical operability of radioactive waste interim storage and processing facilities. Contribute to the radiological classification of waste packages. Verify compliance of final waste packages with applicable specifications. Draft engineering and technical documentation in English and/or French. Your profile Educational background in health physics or radiation protection, with a solid understanding of radiation protection principles and applicable regulatory frameworks. Hands-on experience using radiation detection and measurement instruments, acquired through academic laboratories, internships, or early professional assignments, including detection and quantification of ionising radiation. Introductory experience with quality management systems (QMS), including basic control, verification, traceability, and documentation practices. Foundational knowledge of operational process analysis, including consideration of performance, risk, and safety aspects, developed through academic projects or initial professional experience. Exposure to radioactive waste management and/or decommissioning projects would be considered an asset. Skills Strong foundation in health physics, with particular emphasis on radiation protection principles and regulatory compliance. Solid knowledge of radiation detection and measurement techniques, including interpretation of measurement results. Good understanding of quality assurance principles and tools, including documentation control, traceability, and basic verification processes. Understanding of engineering process performance and safety assessment methodologies, with attention to risk analysis and operational safety. Ability to prepare clear and structured technical documentation, including procedures, reports, and technical notes. Spoken and written English or French, with a commitment to learn the basics of the other language. Eligibility criteria: You are a national of a CERN Member or Associate Member State . By the application deadline, you have a maximum of two years of professional experience since graduation in Radiation Protection (or a related field) and your highest educational qualification is either a Bachelor's or Master's degree . You have never had a CERN fellow or graduate contract before. Applicants without University degree are not eligible. Applicants with a PhD are not eligible.",
@@ -1344,7 +1344,8 @@
     "https://www.michaelpage.ch/job-detail/business-development-manager-medical-devices-mfd/ref/jn-032026-6964024": "ignored",
     "https://www.michaelpage.ch/job-detail/technical-regulatory-affairs-cmc/ref/jn-012026-6931099": "ignored",
     "https://www.michaelpage.ch/de/job-detail/business-development-manager-software-consulting-gn/ref/jn-012026-6917261?lang=en": "ignored",
-    "https://jobs.smartrecruiters.com/Sobi/744000104847945-global-safety-scientist?oga=true": "ignored"
+    "https://jobs.smartrecruiters.com/Sobi/744000104847945-global-safety-scientist?oga=true": "ignored",
+    "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/Switzerland---Baar/Evidence-Generation-Manager_R-248281": "ignored"
   },
   "/job/Basel-City/Principal-Scientist---Mid-Large-Scale-Oligonucleotide-Synthesis--xRNA-Therapeutics_REQ-10071560-2": {
     "description": "Job Description Summary Location: Basel, Switzerland #onsite Role Purpose: Novartis xRNA Therapeutics is seeking a passionate and experienced PhD-level scientist to lead mid/large scale oligonucleotides synthesis and manage a team in Basel to support our xRNA Therapeutics development. This role requires extensive collaboration within a multidisciplinary environment, bridging research and development to enable the discovery and advancement of innovative siRNA therapies that address significant unmet medical needs. Job Description Key Responsibilities Plan and execute medium- and large-scale solid-phase synthesis, purification, and analysis of chemically modified oligonucleotides and conjugates. Oversee a state-of-the-art oligonucleotide synthesis facility, including efficient management of capital and consumables budgets. Lead and mentor a team of scientists specializing in oligonucleotide synthesis, purification, analysis, and downstream processing at the millimole scale to support our growing siRNA portfolio. Ensure timely delivery of high-quality siRNA materials for in vitro screening and in vivo studies within drug candidate pipelines. Collaborate with discovery xRNA oligonucleotide synthesis teams in Basel and Cambridge. Provide technical leadership to the scale-up team, optimizing methodologies and processes for enhanced oligonucleotide synthesis efficiency. Partner with synthetic chemists and project teams to scale up new siRNA chemistries that address key scientific challenges and enable seamless progression into development. Document and clearly communicate scientific findings and insights to internal and external stakeholders through patent applications and scientific publications. Mentor, train, and support team members by sharing technical expertise and hands-on experience. Demonstrate strong problem‑solving skills and a solution-oriented mindset. Minimum Requirements - What you will bring to the role: Ph.D. in Chemistry with a focus on oligonucleotide synthesis, plus 2–3 years of industry experience. Proven track record in mid/large‑scale oligonucleotide solid‑phase synthesis using automated synthesizers, and downstream processing including expertise in process development. Demonstrated leadership capabilities and experience developing scientific teams. Ability to promote and implement innovative ideas within a global team environment. Strong independent problem-solving skills. Highly collaborative mindset. Ability to manage multiple priorities effectively while maintaining focus on key objectives. Excellent verbal and written communication skills. Accessibility and accommodation: Novartis is committed to working with and providing reasonable accommodation to all individuals. If, because of a medical condition or disability, you need a reasonable accommodation for any part of the recruitment process, or in order to receive more detailed information about the essential functions of a position, please send an e-mail to inclusion.switzerland@novartis.com and let us know the nature of your request and your contact information. Please include the job requisition number in your message. Skills Desired",
@@ -1358,7 +1359,7 @@
     "title": "Clinical Development Postgraduate Fellow CH",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-03-20",
+    "posted_date": "2026-03-21",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -1447,7 +1448,7 @@
     "title": "Associate Director, Senior International Clinical Trial Regulatory Lead",
     "company": "Takeda",
     "location": "Zurich, Switzerland",
-    "posted_date": "2026-03-23",
+    "posted_date": "2026-03-24",
     "department": "",
     "score": 1,
     "matched_keywords": [
