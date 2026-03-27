@@ -563,7 +563,7 @@
     "title": "Machine Learning Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-03-06",
+    "posted_date": "2026-03-05",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -579,7 +579,7 @@
     "title": "(Sr.) Scientist, Development (Parenteral Drug Product)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-03-07",
+    "posted_date": "2026-03-06",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -597,7 +597,7 @@
     "title": "Scientist, Antibiotics Discovery",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-02-27",
+    "posted_date": "2026-02-26",
     "department": "",
     "score": 8,
     "matched_keywords": [
@@ -619,7 +619,7 @@
     "title": "Post Doctorate Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-02-26",
+    "posted_date": "2026-02-25",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -714,7 +714,7 @@
     "title": "Associate Director, EUCAN Regulatory Lead - GI and Inflammation",
     "company": "Takeda",
     "location": "Zurich, Switzerland",
-    "posted_date": "2026-03-03",
+    "posted_date": "2026-03-02",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -776,7 +776,7 @@
     "title": "Scientist Microbiological Quality Control",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-03-14",
+    "posted_date": "2026-03-13",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -1034,11 +1034,6 @@
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000111789941": {
     "description": "You will contribute to improving the performance of a Penning trap used in the HIE-ISOLDE post-accelerator to accumulate, cool and bunch high-intensity radioactive ion beams prior to charge breeding and acceleration. The work includes mechanical design and modification of internal trap components, production follow-up and quality assurance, as well as assembly and functional testing. You will also perform simulations of non-neutral plasmas and participate in experimental studies with Paul traps. Working within a small, collaborative team, you will apply and expand expertise in ion-trapping physics through both theoretical and hands-on activities. Your responsibilities Be in charge of producing a complete spare of the internal drift-tube structure of a Penning trap. Investigate and identify the reason for the occasional discharges occurring inside the Penning trap and thereafter suggest and implement mitigating actions. Suggest modifications to the injection stage in order to increase the general transmission efficiency from a present value of ~50% up to >80%. Implement models of a Penning trap and Electron Beam Ion Source in the particle tracking program RF-Track and perform space-charge investigations. Follow the acceptance test of an externally purchased superconducting solenoid that should act as spare, with focus on the magnetic field measurements and the operational aspects of the new magnet. Participate in cooling and bunching tests of light ions inside an RFQ cooler-buncher of Paul trap type. More information here . Your profile Profound experience from operation of Penning traps and hardware intervention of such. Previous work with CAD programs. Experience from Particle-In-Cell simulation programs or similar for charged particles. Familiarity of high-voltage installations. Knowledge of RFQ cooler-bunchers / Paul traps. Skills In-depth understanding of Penning traps and non-neutral plasmas. Knowhow about mechanical design and BricsCAD, CATIA or similar design programs. Proficiency in Python. CST particle tracking, RF-track or similar charged particle simulation packages. Spoken and written English or French, with a commitment to learn the basics of the other language. Eligibility criteria: You are a national of a CERN Member or Associate Member State . You have a professional background in Physics (applied, experimental or accelerator (or a related field) and have either: a Master's degree with 2 to 6 years of post-graduation professional experience; or a PhD with no more than 3 years of post-graduation professional experience. You have never had a CERN fellow or graduate contract before.",
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000111789941-applied-physicist-penning-trap-be-abp-pec-2026-38-grap-?oga=true",
-    "status": "matched"
-  },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000111553177": {
-    "description": "You will contribute to the preparation of a world-leading plasma accelerator experiment within an international collaboration. The project focuses on advanced simulation and modelling for Run 2 of the AWAKE experiment, scheduled to restart proton-beam operations in 2029 after CERN's Long Shutdown 3. You will develop, benchmark and apply state-of-the-art plasma wakefield simulation tools to model beam-plasma interactions, including AWAKE's long proton drive bunches and high-quality electron acceleration. Tasks include optimisation studies, parameter scans, and start-to-end simulations, as well as exploratory studies of extended plasma stages supporting future particle physics applications. Your responsibilities Develop and advance wakefield simulations tailored to long, self-modulated proton drive bunches, addressing one of AWAKE's central modelling challenges. Carry out simulation studies of witness electron-beam acceleration, including optimisation of the electron, proton, and plasma parameters for Run 2. Evaluate electron beam quality after acceleration (energy, energy spread, emittance, charge) and investigate strategies for achieving controlled properties. Develop and conduct full start-to-end simulations of the Run 2 scenarios, from self-modulation development through electron injection through acceleration and extraction. Investigate electron beam acceleration in scalable plasma sources of several tens of meters, assessing beam characteristics for future particle physics applications. Contribute to the coordination AWAKE simulation activities, including alignment of tools, sharing of best practices, and support to junior collaborators working on simulations. Work in close collaboration with the experimental team to ensure that numerical studies accurately reflect operational conditions and provide input to design decisions and technical specifications. Your profile Background in computational physics, accelerator physics, plasma physics, or a closely related field. Experience with numerical simulations or particle-on-cell/beam-dynamics codes. Familiarity with plasma or accelerator modelling (e.g. PIC simulations, kinetic or fluid models, beam tracking codes) is an advantage. Prior exposure to high-performance computing environments is beneficial. Experience in working on large-scale or multi-institution scientific computing projects is beneficial. Skills Strong programming and scripting skills (e.g. Python, C++, Bash, or equivalent scientific computing languages). Understanding of numerical methods for plasma modelling, beam dynamics, or high-energy physics simulations. Interest in contribution to algorithmic improvements, code development, and long-term modelling strategies for advanced accelerator concepts. Ability to work independently on challenging technical topics while engaging effectively with a wider modelling community. Strong cross-disciplinary communication skills for efficient interaction with simulation and experimental teams. Spoken and written English or French, with a commitment to learn the other language. Eligibility criteria: You are a national of a CERN Member or Associate Member State . You have a professional background in Physics (applied, experimental, accelerator or a related field) and have either: a Master's degree with 2 to 6 years of post-graduation professional experience; or a PhD with no more than 3 years of post-graduation professional experience. You have never had a CERN fellow or graduate contract before.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000111553177-applied-physicist-plasma-simulations-be-abp-pec-2026-35-grap-?oga=true",
     "status": "matched"
   },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000103064566": {
@@ -1309,7 +1304,7 @@
     "title": "Clinical Development Postgraduate Fellow CH",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-03-21",
+    "posted_date": "2026-03-20",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -1398,7 +1393,7 @@
     "title": "Associate Director, Senior International Clinical Trial Regulatory Lead",
     "company": "Takeda",
     "location": "Zurich, Switzerland",
-    "posted_date": "2026-03-24",
+    "posted_date": "2026-03-23",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1516,7 +1511,7 @@
     "title": "Medical Science Liaison CVRM",
     "company": "AstraZeneca",
     "location": "Switzerland - Baar",
-    "posted_date": "2026-03-25",
+    "posted_date": "2026-03-24",
     "department": "",
     "score": -1,
     "matched_keywords": [
@@ -1602,7 +1597,7 @@
     "title": "Student Internship in Technical Regulatory Affairs (starting in September 2026, 12 Months, in Basel)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-03-27",
+    "posted_date": "",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1634,7 +1629,7 @@
     "title": "Senior Scientist, Translational Medicine Oncology (Hematology)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-03-27",
+    "posted_date": "",
     "department": "",
     "score": 12,
     "matched_keywords": [
@@ -1650,6 +1645,49 @@
       "preclinical",
       "translational medicine",
       "translational research"
+    ],
+    "deducted_keywords": []
+  },
+  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000117246552": {
+    "description": "Our team develops, operates, and supports industrial control system solutions used across CERN, including accelerators, technical infrastructure, and experimental facilities. We provide integration services for heterogeneous equipment and promotes standardised approaches to ensure reliability, scalability, and maintainability of control systems. In this role, you will contribute to the delivery, operation, and continuous improvement of control system integration services, with a strong focus on OPC UA-based systems and CAN Open devices. Your responsibilities Support the integration of industrial devices and subsystems into CERN control systems using OPC-UA standards. Contribute to the operation and support lifecycle, including incident analysis, feedback loops, and continuous service enhancement. Supporting integration and diagnostics of fieldbus-based systems, including CAN and CANopen, where applicable. Work in a highly heterogeneous environment involving both commercial and custom-built systems, where reliability and maintainability are critical. Contribute to the development, maintenance, and operation of validation and testing tools, primarily based on Python. Design and execute automated validation workflows and test campaigns to ensure compliance, robustness, and performance of integrated systems. Analyse system behaviour and troubleshoot integration and production issues across a diverse set of deployed systems. Support users by providing technical expertise, documentation, and guidance on integration solutions and tools. Your profile Initial experience or strong academic background in industrial control systems, distributed systems or automation. Exposure to OPC-UA or similar industrial communication protocols, including basic configuration and testing. Exposure to version control systems (e.g. Git) and structured development workflows. Experience working on technical projects (academic or professional) involving system integration or automation. Experience with OPC-UA is preferred. Skills Strong software engineering fundamentals (requirements analysis, version control, lifecycle management). Initial experience with Python development. Initial experience with modern C++ (minimum C++17). Familiarity with software testing practices (unit and integration testing). Familiarity with CI/CD concepts and automated testing environments. Problem-solving skills in diagnostics, debugging and system analysis. Knowledge of CAN bus and CANopen protocols is preferred. Familiarity with industrial communication protocols or field systems is preferred. Exposure to large-scale or mission-critical systems is preferred. Ability to learn quickly, follow technical guidelines and collaborate within a team. Spoken and written English, with a commitment to learn French. Eligibility criteria: You are a national of a CERN Member or Associate Member State . By the application deadline, you have a maximum of two years of professional experience since graduation in Software Engineering, Automation (or a related field) and your highest educational qualification is either a Bachelor's or Master's degree . You have never had a CERN fellow or graduate contract before. Applicants without University degree are not eligible. Applicants with a PhD are not eligible.",
+    "external_url": "https://jobs.smartrecruiters.com/CERN/744000117246552-systems-integration-engineer-be-ics-tma-2026-91-grae-?oga=true",
+    "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000117226307": {
+    "description": "Introduction You will join the talent pool for Limited Duration research positions within the CERN Theoretical Physics Department (CERN-TH), bringing together pre-assessed and endorsed candidates for future hiring opportunities based on organisational needs. As an outstanding researcher in theoretical particle physics, you will contribute to the development of new theoretical ideas aimed at understanding the fundamental constituents and forces of nature, while ensuring their relevance to CERN’s experimental programme and taking full advantage of the unique environment of a large international laboratory. You will also contribute to CERN’s scientific culture through active participation in training programmes and the promotion of scientific events on site. Functions Making significant contributions to theoretical research related to elementary particle physics; Participating in and initiating a large variety of activities within the Theoretical Physics Department and possibly in collaboration with the experimental physicists working at CERN; Taking part in CERN committees and study groups; Helping maintain continued contacts with the outside scientific community.",
+    "external_url": "https://jobs.smartrecruiters.com/CERN/744000117226307-theoretical-physicist-th-sp-2026-68-ld-?oga=true",
+    "status": "matched",
+    "title": "Theoretical Physicist (TH-SP-2026-68-LD)",
+    "company": "CERN",
+    "location": "Geneva, Switzerland",
+    "posted_date": "2026-03-27",
+    "department": "Research",
+    "score": 4,
+    "matched_keywords": [
+      "location:geneva"
+    ],
+    "deducted_keywords": []
+  },
+  "/job/Basel-City/Computational-biologist-Expert-I-Data-Science--80-100--_REQ-10064113-1": {
+    "description": "Job Description Summary Novartis is unable to offer relocation support for this role: please only apply if this location is accessible for you. Location: Basel, Switzerland #LI-Hybrid (12 days/month in office) Join a team that’s transforming cancer care through radioligand therapy (RLT)—a cutting-edge approach delivering targeted radiation directly to cancer cells. As a Computational Biologist/Expert I in Data Science, you’ll help translate complex molecular data into real-world breakthroughs, driving target identification, drug development, and biomarker discovery. Your insights will shape the future of oncology, contributing to therapies that could impact millions of lives globally. Job Description Key Responsibilities: Collaborate with cross-functional teams of biologists, chemists, and data scientists to support drug discovery efforts focused on novel cell surface targets for radioligand therapy. Analyze and interpret high-dimensional biological data, such as NGS, spatial transcriptomics, and high-throughput screens, to inform experimental design and target selection. Apply bioinformatics and machine learning techniques to enable identification of therapeutic targets, biomarkers, and mechanisms of action relevant to RLT. Mine and integrate diverse datasets, including public repositories and real-world clinical data, to generate actionable insights. Develop and refine analytical workflows and visualization tools to support emerging technologies and communicate complex findings effectively. Present key findings to diverse scientific audiences, contributing to collaborative decision-making and project advancement. Essential Requirements M.Sc. in bioinformatics, computer science or related field, with two years of relevant experience. Proficiency in Python or R for bioinformatics applications; experience with UNIX/Linux environments. Demonstrated expertise in processing and visualizing complex multidimensional omics datasets, encompassing transcriptomics and single-cell data. Familiarity with version control and reproducible workflow practices. Knowledge of cancer genomics, proteomics or immuno-oncology is advantageous. Strong communication skills and ability to explain complex concepts to diverse audiences. Fluency in English (oral and written) Commitment to Diversity and Inclusion: Novartis is committed to building an outstanding, inclusive work environment and diverse teams representative of the patients and communities we serve Join our Novartis Network: If this role is not suitable to your experience or career goals but you wish to stay connected to learn more about Novartis and our career opportunities, join the Novartis Network here: https://talentnetwork.novartis.com/network Accessibility and accommodation: Novartis is committed to working with and providing reasonable accommodation to all individuals. If, because of a medical condition or disability, you need a reasonable accommodation for any part of the recruitment process, or in order to receive more detailed information about the essential functions of a position, please send an e-mail to inclusion.switzerland@novartis.com and let us know the nature of your request and your contact information. Please include the job requisition number in your message. Skills Desired Biostatistics, Computer Programming, Data Analysis, Databases, Data Management, Data Mining, Data Quality, Data Visualization, Deep Learning, Graph Algorithms, High-Performance Computing, Logistic Regression Model, Machine Learning (ML), Master Data Management, Pandas (Python), Python (Programming Language), R (Programming Language), Random Forest Algorithm, Sql (Structured Query Language), Statistical Modeling, Time Series Analysis",
+    "external_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Basel-City/Computational-biologist-Expert-I-Data-Science--80-100--_REQ-10064113-1",
+    "status": "matched",
+    "title": "Computational biologist/Expert I Data Science (80-100%) (Junior position)",
+    "company": "Novartis",
+    "location": "Basel (City)",
+    "posted_date": "2026-03-27",
+    "department": "",
+    "score": 9,
+    "matched_keywords": [
+      "bioinformatics",
+      "biomarker discovery",
+      "drug development",
+      "drug discovery",
+      "genomics",
+      "immuno-oncology",
+      "oncology",
+      "proteomics",
+      "spatial transcriptomics"
     ],
     "deducted_keywords": []
   }
