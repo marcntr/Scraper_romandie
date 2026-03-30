@@ -581,7 +581,7 @@
     "title": "Associate Director, EUCAN Regulatory Lead - GI and Inflammation",
     "company": "Takeda",
     "location": "Zurich, Switzerland",
-    "posted_date": "2026-03-03",
+    "posted_date": "2026-03-02",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -643,7 +643,7 @@
     "title": "Scientist Microbiological Quality Control",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-03-14",
+    "posted_date": "2026-03-13",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -888,16 +888,6 @@
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000112110618-talent-acquisition-officer-hr-ta-2026-57-grae-?oga=true",
     "status": "matched"
   },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000112101787": {
-    "description": "Join our teams and contribute to the renovation and development of real-time software for the LHC and injector Beam Loss Monitors (BLMs). Your work will focus on re-engineering existing codebases and updating hardware access mechanisms to support reliable beam instrumentation. Given the systems' critical role in accelerator protection, you will emphasise comprehensive testing, validation, and robust design. You will also design tools and graphical interfaces for expert users across CERN's accelerators. Your responsibilities Re-engineer and refactor low-level C++ code across all BLM systems (LINAC4, PS, Booster, SPS, and LHC) to homogenise codebases and improve long-term maintainability. Conceive, design, and develop software for Continuous Integration testing and validation, including hardware‑in‑the‑loop test benches. Add extended diagnostic and logging functionality to help analyse real-time software behaviour. Develop new Python tools and PyQt6 GUIs (graphical user interfaces) for system monitoring. Support the teams during commissioning and deployment within the accelerator control system. More information here . Your profile Hands‑on experience in low‑level and real-time software development using C and C++. Experience in GUI development and data analysis with Python. Familiarity with unit testing, Continuous Integration, and hardware‑in‑the‑loop development is an advantage. Experience using tools such as code assistants, particularly in the domain of code refactoring and continuous integration, is an advantage. Skills C++ and Python. Knowledge of real-time principles. Good understanding of Object-Oriented Programming. Spoken and written English or French, with a commitment to learn the basics of the other language. Eligibility criteria: You are a national of a CERN Member or Associate Member State . By the application deadline, you have a maximum of two years of professional experience since graduation in Software Engineering (or a related field) and your highest educational qualification is either a Bachelor's or Master's degree . You have never had a CERN fellow or graduate contract before. Applicants without University degree are not eligible. Applicants with a PhD are not eligible.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000112101787-real-time-software-engineer-sy-bi-bl-2026-56-grae-?oga=true",
-    "status": "matched"
-  },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000111789941": {
-    "description": "You will contribute to improving the performance of a Penning trap used in the HIE-ISOLDE post-accelerator to accumulate, cool and bunch high-intensity radioactive ion beams prior to charge breeding and acceleration. The work includes mechanical design and modification of internal trap components, production follow-up and quality assurance, as well as assembly and functional testing. You will also perform simulations of non-neutral plasmas and participate in experimental studies with Paul traps. Working within a small, collaborative team, you will apply and expand expertise in ion-trapping physics through both theoretical and hands-on activities. Your responsibilities Be in charge of producing a complete spare of the internal drift-tube structure of a Penning trap. Investigate and identify the reason for the occasional discharges occurring inside the Penning trap and thereafter suggest and implement mitigating actions. Suggest modifications to the injection stage in order to increase the general transmission efficiency from a present value of ~50% up to >80%. Implement models of a Penning trap and Electron Beam Ion Source in the particle tracking program RF-Track and perform space-charge investigations. Follow the acceptance test of an externally purchased superconducting solenoid that should act as spare, with focus on the magnetic field measurements and the operational aspects of the new magnet. Participate in cooling and bunching tests of light ions inside an RFQ cooler-buncher of Paul trap type. More information here . Your profile Profound experience from operation of Penning traps and hardware intervention of such. Previous work with CAD programs. Experience from Particle-In-Cell simulation programs or similar for charged particles. Familiarity of high-voltage installations. Knowledge of RFQ cooler-bunchers / Paul traps. Skills In-depth understanding of Penning traps and non-neutral plasmas. Knowhow about mechanical design and BricsCAD, CATIA or similar design programs. Proficiency in Python. CST particle tracking, RF-track or similar charged particle simulation packages. Spoken and written English or French, with a commitment to learn the basics of the other language. Eligibility criteria: You are a national of a CERN Member or Associate Member State . You have a professional background in Physics (applied, experimental or accelerator (or a related field) and have either: a Master's degree with 2 to 6 years of post-graduation professional experience; or a PhD with no more than 3 years of post-graduation professional experience. You have never had a CERN fellow or graduate contract before.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000111789941-applied-physicist-penning-trap-be-abp-pec-2026-38-grap-?oga=true",
-    "status": "matched"
-  },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000103064566": {
     "description": "Your responsibilities Join us in a place that can be hotter than the centre of the sun, and colder than the vacuum of space, at the very same time. This is the smartest way to learn more than you can imagine and see your work travel at the speed of light. Almost. This is the fastest way to give your career momentum. This is your Origin. Where your career begins. Take part! All our currently available projects are published individually on our career site here . If none of these opened projects match your profile and if you meet all eligibility criteria below, you can apply here spontaneously. Your profile may then be considered for unpublished projects or extra needs. Please note this is not mandatory nor a guarantee that you will be contacted by hiring managers for an interview. Eligibility criteria: You are a national of a CERN Member or Associate Member State . You have a maximum of two years of professional experience since graduation by the application deadline . Your highest educational qualification is a general secondary education diploma . You have never had a CERN fellow or graduate contract before. Applicants with a Bachelor’s, Master’s or PhD degree are not eligible.",
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000103064566-early-career-professionals-technical-field-spontaneous-applications?oga=true",
@@ -953,32 +943,6 @@
     "score": 0,
     "matched_keywords": [],
     "deducted_keywords": []
-  },
-  "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-data-scientist-basel-stadt-863771/1": {
-    "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-data-scientist-basel-stadt-863771/1",
-    "status": "ignored",
-    "title": "Data Scientist(m/f/d)",
-    "company": "Hays Switzerland",
-    "location": "Basel Stadt, Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": 0,
-    "matched_keywords": [],
-    "deducted_keywords": []
-  },
-  "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-deviation-investigator-manager-visp-863146/1": {
-    "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-deviation-investigator-manager-visp-863146/1",
-    "status": "ignored",
-    "title": "Deviation Investigator Manager(m/f/d)",
-    "company": "Hays Switzerland",
-    "location": "Visp, Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": -2,
-    "matched_keywords": [],
-    "deducted_keywords": [
-      "location:Visp, Switzerland"
-    ]
   },
   "_facets:alirahealth:AliraHealth": {
     "facets": {},
@@ -1206,7 +1170,7 @@
     "title": "Associate Director, Senior International Clinical Trial Regulatory Lead",
     "company": "Takeda",
     "location": "Zurich, Switzerland",
-    "posted_date": "2026-03-24",
+    "posted_date": "2026-03-23",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1324,7 +1288,7 @@
     "title": "Medical Science Liaison CVRM",
     "company": "AstraZeneca",
     "location": "Switzerland - Baar",
-    "posted_date": "2026-03-25",
+    "posted_date": "2026-03-24",
     "department": "",
     "score": -1,
     "matched_keywords": [
@@ -1410,7 +1374,7 @@
     "title": "Student Internship in Technical Regulatory Affairs (starting in September 2026, 12 Months, in Basel)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-03-27",
+    "posted_date": "2026-03-26",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1442,7 +1406,7 @@
     "title": "Senior Scientist, Translational Medicine Oncology (Hematology)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-03-27",
+    "posted_date": "2026-03-26",
     "department": "",
     "score": 12,
     "matched_keywords": [
@@ -1550,7 +1514,7 @@
     "title": "Clinical Development Postgraduate Fellow CH",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-03-21",
+    "posted_date": "2026-03-20",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -1569,7 +1533,7 @@
     "title": "Computational biologist/Expert I Data Science (80-100%) (Junior position)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-03-28",
+    "posted_date": "2026-03-27",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -1592,7 +1556,7 @@
     "title": "(Sr.) Scientist, Development (Parenteral Drug Product)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-03-07",
+    "posted_date": "2026-03-06",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1605,7 +1569,7 @@
     "title": "Machine Learning Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-03-06",
+    "posted_date": "2026-03-05",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1638,23 +1602,6 @@
       "molecular biology",
       "postdoctoral",
       "preclinical"
-    ],
-    "deducted_keywords": []
-  },
-  "/job/Basel/Post-Doctorate-Scientist--m-f-d-_202512-132221-1": {
-    "description": "At Roche you can show up as yourself, embraced for the unique qualities you bring. Our culture encourages personal expression, open dialogue, and genuine connections,  where you are valued, accepted and respected for who you are, allowing you to thrive both personally and professionally. This is how we aim to prevent, stop and cure diseases and ensure everyone has access to healthcare today and for generations to come. Join Roche, where every voice matters. The Position We are seeking a highly skilled and motivated Post Doctorate Scientist with expertise in next-generation sequencing (NGS) and molecular biology to join our dynamic research team. The ideal candidate will have a strong track record in developing and optimizing complex NGS workflows, protein biochemistry, and molecular assays, with a passion for translating experimental data into actionable insights. The opportunity Develop, prepare, and optimize complex NGS workflows, including protocols for Illumina platforms, particularly from low-input RNA samples, ensuring reproducibility and high data quality. Execute a broad range of molecular biology and biochemical techniques, including PCR, RT-qPCR, cloning, in vitro transcription, and western blotting. Perform protein expression, purification (e.g., affinity, ion exchange chromatography using systems like ÄKTA), and characterization to support experimental goals. Design, troubleshoot, and optimize experimental protocols to achieve high-quality results and meet project objectives. Conduct in vitro protein-nucleic acid interaction assays such as Bind-n-Seq, CLIP, SELEX, EMSA, or related techniques. Analyze NGS datasets using Python or R, applying bioinformatics skills and familiarity with machine learning concepts where appropriate. Collaborate effectively with cross-functional teams to design experiments, interpret results, and contribute to scientific publications. Who you are Ph.D. or equivalent experience in Molecular Biology, Biochemistry, Genetics, or a related field. Demonstrable expertise in NGS library preparation and workflow optimization with focus on protein-RNA interaction such as RIP-seq or CLIP-seq. Strong foundation in RNA biology focusing on RNA interference or antisense oligonucleotides (ASOs, miRNAs and siRNAs). Proficiency in general molecular biology techniques such as NGS, PCR, RT-qPCR and western blotting. Hands-on experience with cell culture and molecular biology methods. Demonstrated skills in designing and performing experiments in hypothesis-driven research, and in establishing innovative techniques. Solid foundation in bioinformatics, with experience analyzing NGS data using Python or R; working knowledge of machine learning concepts is a plus. We are looking forward to your application! Who we are A healthier future drives us to innovate. Together, more than 100’000 employees across the globe are dedicated to advance science, ensuring everyone has access to healthcare today and for generations to come. Our efforts result in more than 26 million people treated with our medicines and over 30 billion tests conducted using our Diagnostics products. We empower each other to explore new possibilities, foster creativity, and keep our ambitions high, so we can deliver life-changing healthcare solutions that make a global impact. Let’s build a healthier future, together. Roche is an Equal Opportunity Employer.",
-    "external_url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Post-Doctorate-Scientist--m-f-d-_202512-132221-1",
-    "status": "ignored",
-    "title": "Post Doctorate Scientist",
-    "company": "Roche",
-    "location": "Basel",
-    "posted_date": "2026-02-28",
-    "department": "",
-    "score": 3,
-    "matched_keywords": [
-      "bioinformatics",
-      "in vitro",
-      "molecular biology"
     ],
     "deducted_keywords": []
   },
@@ -1715,6 +1662,78 @@
       "molecular biology",
       "pharmacology",
       "preclinical"
+    ],
+    "deducted_keywords": []
+  },
+  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000117615032": {
+    "description": "Join the CAFEIN platform team at CERN and help shape the next generation of federated AI technologies used in some of the world's most advanced scientific environments. In this role, you'll contribute to R&D on state-of-the-art machine learning, designing, implementing, and evaluating advanced algorithms end to end. The work spans large-scale data pipelines and applied solutions in medical AI, anomaly detection, and complex systems modelling from exploratory research through to deployment. Your responsibilities Translate real-world challenges, medical data analysis, anomaly detection, complex systems modelling, into well-defined ML problems. Design, implement, and evaluate state-of-the-art ML models using Python and frameworks such as PyTorch, TensorFlow, JAX, scikit-learn, and Hugging Face. Contribute to the research and development of federated learning methods, agentic AI, and applied ML solutions for tabular, image and signal data. Develop applied ML solutions for diverse domains including medical imaging, anomaly detection, and predictive maintenance. Perform exploratory data analysis, feature engineering, and visualisation to support model development and identify new use cases. Document methods, write clear reports, publish findings, and communicate results within multidisciplinary R&D teams. This role includes team supervision responsibilities. Your profile Strong background in machine learning, statistics, and data science fundamentals. Excellent proficiency in Python for ML research and experimentation, with hands-on experience with major frameworks and libraries (PyTorch, TensorFlow, JAX, scikit-learn, Hugging Face). Demonstrated experience designing, implementing, and evaluating state-of-the-art ML algorithms, including transformer-based and agentic architectures. Experience conducting ML experiments, benchmarking models, and interpreting results across diverse data modalities (tabular, medical imaging and signal data). Practical exposure to federated learning concepts and privacy-preserving or distributed ML approaches is a plus. Strong scientific mindset with a track record of reading, understanding, and contributing to research literature. Good communication skills to document methods, present results, and collaborate within multidisciplinary R&D teams. Skills Expert knowledge of Python, deep learning frameworks (PyTorch, TensorFlow, JAX, Hugging Face), and machine learning algorithms. Professional knowledge of anomaly detection algorithms, LLMs, RAG systems, Generative AI, and agentic AI approaches. Professional knowledge of image segmentation techniques and Graph Neural Networks (GNNs). Familiarity with federated learning tools and distributed ML environments. Strong communication skills for documenting methods, presenting results, and collaborating in multidisciplinary R&D teams. Knowledge of particle accelerator systems or healthcare applications would be an advantage. Spoken and written English, with a commitment to learn French. Eligibility criteria: You are a national of a CERN Member or Associate Member State . You have a professional background in Data science, IT, Mathematics (or a related field) and have either: a Master's degree with 2 to 6 years of post-graduation professional experience; or a PhD with no more than 3 years of post-graduation professional experience. You have never had a CERN fellow or graduate contract before.",
+    "external_url": "https://jobs.smartrecruiters.com/CERN/744000117615032-data-scientist-te-dps-aim-2026-76-grap-?oga=true",
+    "status": "matched",
+    "title": "Data Scientist (TE-DPS-AIM-2026-76-GRAP)",
+    "company": "CERN",
+    "location": "Geneva, Switzerland",
+    "posted_date": "2026-03-30",
+    "department": "Research",
+    "score": 7,
+    "matched_keywords": [
+      "French",
+      "Master's degree",
+      "PhD",
+      "location:geneva"
+    ],
+    "deducted_keywords": []
+  },
+  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000117611022": {
+    "description": "You will help support and run machine learning applications on the CAFEIN platform at CERN. Your work will focus on keeping ML systems running smoothly, reliably, and at scale. This junior role involves learning and applying MLOps and DevOps practices, such as turning trained models into production services, managing data and training pipelines, and helping integrate federated learning tools across distributed systems. Your responsibilities: Implement machine learning algorithms in Python using TensorFlow, PyTorch, or scikit‑learn. Develop and deploy federated learning software. Support the CAFEIN microservices platform using Kubernetes. Manage data flows between databases and backend systems using tools like Spark. Perform data analysis and EDA to identify insights and new use cases. Your profile: Experience implementing ML/DL models in Python. Experience with anomaly detection, segmentation, or GNNs. Experience with Generative AI, LLMs, or RAG systems. Experience with federated learning tools or algorithms. Experience deploying services using Kubernetes and microservices. Experience with distributed data processing or managing backend data flows. Experience in particle accelerators or healthcare applications (advantage). Skills: Strong Python skills and proficiency with ML/DL frameworks. Knowledge of anomaly detection, image segmentation, and GNN concepts. Understanding of Generative AI, agentic AI, LLMs, and RAG. Understanding of federated learning and privacy-preserving ML. Knowledge of Docker, Kubernetes, microservices, and CI/CD practices. Familiarity with distributed data processing and data pipelines (e.g., Spark). Basic understanding of applied ML domains (medical, industrial, anomaly detection). Spoken and written English, with a commitment to learn French. Eligibility criteria: You are a national of a CERN Member or Associate Member State . By the application deadline, you have a maximum of two years of professional experience since graduation in Data science, IT (or a related field) and your highest educational qualification is either a Bachelor's or Master's degree . You have never had a CERN fellow or graduate contract before. Applicants without University degree are not eligible. Applicants with a PhD are not eligible.",
+    "external_url": "https://jobs.smartrecruiters.com/CERN/744000117611022-machine-learning-engineer-te-dps-aim-2026-94-grae-?oga=true",
+    "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000117610379": {
+    "description": "Do you want to apply your Data Science and AI expertise to one of the world's most complex scientific and engineering environments? Join CERN and take a leading role in developing an AI driven prescriptive maintenance and operational assistance platform for the Large Hadron Collider (LHC). In this position, you will drive the full lifecycle of an innovative AI solution designed to improve the reliability and performance of accelerator systems. Your work will span requirements gathering, data preparation, model development and lifecycle management, integration of safety considerations, creation of AI-assisted diagnostics tools, and the implementation of robust data and API pipelines. You will develop a proof of concept using LHC Run 3 data, then lead testing and validation on representative systems within the TE Department, with the goal of achieving full deployment for Run 4. Your contribution will enable CERN to harness advanced AI methods to reduce unplanned downtime, strengthen operational resilience, and support data-driven decision making across critical accelerator infrastructure. Your responsibilities Collect and formalise operational use cases and user stories with engineers and maintenance experts; translate them into functional and technical specifications. Define system requirements and draft solution architecture for an AI-driven prescriptive maintenance platform. Design and implement scalable data pipelines for ingesting and processing operational data (e.g. time series, logs, equipment metadata, technical documentation) using distributed processing frameworks. Perform data pre-processing, feature engineering, and exploratory analysis to prepare datasets for modelling. Design and execute machine learning experiments for anomaly detection, failure prediction, and prescriptive recommendations. Implement experiment tracking, model validation, and reproducibility practices using ML lifecycle management tools (e.g. MLflow or similar). Package and deploy models into production environments through APIs and containerised services (e.g. Podman), supporting orchestration platforms such as Kubernetes. Contribute to system integration, testing, performance monitoring, and iterative improvement of deployed models. Produce clear technical documentation, specifications, and user-oriented material to ensure maintainability and knowledge transfer. This role includes team supervision responsibilities. Your profile Academic background in Data Science, Computer Science, Engineering, Applied Mathematics, or a related quantitative field. Experience working on applied machine learning or data-driven projects addressing real-world operational or engineering problems. Experience with version control systems (e.g. Git) and collaborative development workflows. Skills Proficiency in Python for data analysis and machine learning (e.g. NumPy, pandas, scikit-learn, PyTorch or similar frameworks). Understanding of machine learning techniques relevant to time series analysis, anomaly detection, and predictive modelling. Knowledge of data pre-processing, feature engineering, and exploratory data analysis (EDA). Familiarity with distributed data processing tools (e.g. Apache Spark) or similar big data frameworks. Good knowledge of experiment tracking and ML lifecycle management tools (e.g. MLflow or equivalent). Understanding of REST APIs and model serving concepts. Familiarity with containerisation technologies (e.g. Podman) and basic concepts of orchestration platforms (e.g. Kubernetes). Ability to write structured technical documentation and maintain reproducible code. Ability to structure complex, ambiguous problems into well-defined analytical approaches. Spoken and written English, with a commitment to learn French. Eligibility criteria: You are a national of a CERN Member or Associate Member State . You have a professional background in Data Science, Computer Science, Mathematics (or a related field) and have either: a Master's degree with 2 to 6 years of post-graduation professional experience; or a PhD with no more than 3 years of post-graduation professional experience. You have never had a CERN fellow or graduate contract before.",
+    "external_url": "https://jobs.smartrecruiters.com/CERN/744000117610379-data-scientist-te-dps-aim-2026-75-grap-?oga=true",
+    "status": "matched",
+    "title": "Data Scientist (TE-DPS-AIM-2026-75-GRAP)",
+    "company": "CERN",
+    "location": "Geneva, Switzerland",
+    "posted_date": "2026-03-30",
+    "department": "Research",
+    "score": 7,
+    "matched_keywords": [
+      "French",
+      "Master's degree",
+      "PhD",
+      "location:geneva"
+    ],
+    "deducted_keywords": []
+  },
+  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000117574963": {
+    "description": "Introduction: You will join the IT Department’s Fabric and Communication Systems (FCS) Group within the Data Centres (DC) Section, where you will contribute to the operation and support of CERN’s Data Centres and associated computing facilities. The section is responsible for managing the full lifecycle of computing equipment, as well as developing, maintaining, and integrating software applications with existing facility monitoring systems. During CERN’s Accelerator Long Shutdown 3 (LS3) and beyond, you will support major data centre expansion and upgrade projects aimed at almost tripling the current hosting capacity, which is required to support future LHC runs and their increasing computing demands. Your role will focus on automating computing hardware diagnostics and improving repair service efficiency by implementing and enhancing operational procedures. Functions: Develop and implement automation tools for hardware problem diagnostics to improve response times and operational efficiency. Work closely with other computing services to maintain and enhance the automated commissioning system for computing hardware. Provide and maintain clear procedures and guidelines to support the hardware repair team, ensuring efficient and consistent repair workflows. Support data centre expansion and upgrade projects, assisting with installation and testing of new equipment and decommissioning of obsolete hardware. Maintain accurate documentation of infrastructure assets, configurations, and procedures. Collaborate with IT teams, facilities staff, and external partners to deliver operational improvements and incident responses.",
+    "external_url": "https://jobs.smartrecruiters.com/CERN/744000117574963-data-centre-technical-engineer-it-fcs-dc-2026-69-ld-?oga=true",
+    "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000117571688": {
+    "description": "Introduction You will join the IT Department’s Fabric and Communication Systems (FCS) Group within the Data Centres (DC) Section, where you will contribute to the operation and support of CERN’s Data Centres and associated computing facilities. The section is responsible for managing the full lifecycle of computing equipment, as well as developing, maintaining, and integrating software applications with existing facility monitoring systems. During CERN’s Accelerator Long Shutdown 3 (LS3) and beyond, you will support major data centre expansion and upgrade projects aimed at almost tripling the current hosting capacity, which is required to support future LHC runs and their increasing computing demands. Your role will involve assisting with infrastructure deployment, system integration, and operational readiness to support future computing requirements. Functions Support data centre expansion and upgrade projects during Long Shutdown 3 (LS3). Collaborate with IT teams, facilities engineers, and external partners to deliver infrastructure improvements and provide operational support. Design and implement the next-generation computing hardware monitoring system. Maintain and improve existing data centre management tools. Assist with the installation, configuration, and lifecycle management of computing, storage, and networking equipment. Monitor data centre systems, infrastructure performance, and environmental conditions to ensure high availability and reliability. Maintain and update operational procedures and contribute to the continuous expansion of the knowledge base to support effective data centre management",
+    "external_url": "https://jobs.smartrecruiters.com/CERN/744000117571688-data-centre-engineer-it-fcs-dc-2026-70-ld-?oga=true",
+    "status": "matched"
+  },
+  "/job/Basel/Post-Doctorate-Scientist-in-Intestinal-Inflammation---at-the-Institute-of-Human-Biology--IHB-_202603-107400": {
+    "description": "At Roche you can show up as yourself, embraced for the unique qualities you bring. Our culture encourages personal expression, open dialogue, and genuine connections,  where you are valued, accepted and respected for who you are, allowing you to thrive both personally and professionally. This is how we aim to prevent, stop and cure diseases and ensure everyone has access to healthcare today and for generations to come. Join Roche, where every voice matters. The Position The Institute of Human Biology (IHB), embedded within Roche’s Pharma Research and Early Development (pRED) Division, is a leading research institute focused on accelerating the development of transformative medicines. It specializes in developing novel and robust human model systems that functionally resemble human physiology and disease. By bridging the gap between academic discovery and industrial application, IHB facilitates the rapid translation of groundbreaking science into patient-focused solutions. The Opportunity As a Post Doctorate Scientist in Intestinal Inflammation at the IHB, you will focus on deconstructing inflammatory bowel disease pathobiology using advanced human model systems. The duration of the position is initially set for two years, with the possibility of extension. You will be based in Basel, Switzerland. In this position you will: Drive a project to create high fidelity in vitro models of inflammatory bowel disease, by combining primary human samples, organoids, tissue-resident/infiltrating immune cells and microfabrication technology to recreate the cellular environment of the diseased intestine Collaborate with multidisciplinary teams to improve the ability of in vitro models to 1) recapitulate inflammatory disease, 2) understand the underlying molecular and cellular mechanisms, 3) identify strategies to mitigate these pathogenic pathways Generate top quality results for high-impact publications Who you are You are a scientist with a PhD in the field of immunology and a profound understanding of mucosal biology. Furthermore, you have great interpersonal and communication skills. Your experience and investigative attitude allow you to collaboratively design, perform, and interpret experiments, and build on experimental observations to drive the research project towards meaningful and impactful biological insight. Fundamental to this position is a proactive mindset and a willingness to learn, explore and master new techniques and technologies. You have been actively engaged in scientific research continuously since your PhD and are ready to start this postdoctoral position no later than 4 years after your PhD. Knowledge or experience in any of the following areas would be considered a significant asset: Deep understanding of the properties and phenotypes of mucosal immune cells Experience in handling, manipulating and phenotyping myeloid cells Handling of large data, including the generation, analysis and interpretation of scRNA-seq, and spatial omics Handling of human intestinal tissue samples, particularly inflammatory bowel disease samples 3D culture Ready to drive the future of mucosal biology? Apply now to join our team in Basel! The start date of this position is 1st September 2026. The application needs to include a CV with a publication list, as well as a cover letter detailing your motivation for applying. If you still have questions, then please check our FAQs and videos on https://careers.roche.com/global/en/ch-faq Who we are A healthier future drives us to innovate. Together, more than 100’000 employees across the globe are dedicated to advance science, ensuring everyone has access to healthcare today and for generations to come. Our efforts result in more than 26 million people treated with our medicines and over 30 billion tests conducted using our Diagnostics products. We empower each other to explore new possibilities, foster creativity, and keep our ambitions high, so we can deliver life-changing healthcare solutions that make a global impact. Let’s build a healthier future, together. Roche is an Equal Opportunity Employer.",
+    "external_url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Post-Doctorate-Scientist-in-Intestinal-Inflammation---at-the-Institute-of-Human-Biology--IHB-_202603-107400",
+    "status": "matched",
+    "title": "Post Doctorate Scientist in Intestinal Inflammation - at the Institute of Human Biology (IHB)",
+    "company": "Roche",
+    "location": "Basel",
+    "posted_date": "2026-03-30",
+    "department": "",
+    "score": 7,
+    "matched_keywords": [
+      "PhD",
+      "Postdoc",
+      "immunology",
+      "in vitro",
+      "organoid",
+      "postdoctoral",
+      "scRNA-seq"
     ],
     "deducted_keywords": []
   }
