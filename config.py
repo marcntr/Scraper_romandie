@@ -35,6 +35,7 @@ LOCATION_FILTERS: list[str] = [
 # Title filters — case-insensitive substring match against job.title
 # ---------------------------------------------------------------------------
 TITLE_FILTERS: list[str] = [
+    "translational science",
     "translational medicine",
     "precision medicine",
     "biomarker science",
@@ -86,6 +87,7 @@ TITLE_FILTERS: list[str] = [
     "bioinformatics",
     # Commercial strategy
     "competitive intelligence",
+    "intelligence analyst",
     "new product planning",
     "npp",
     # Communications
@@ -1121,6 +1123,42 @@ COMPANIES: list[dict] = [
         "name": "Siemens",
         "ats": "generic",
         "careers_url": "https://jobs.siemens.com/jobs?query=&location=Switzerland",
+        "keywords": TITLE_FILTERS,
+    },
+    # AliveDx (Geneva — AI-powered cardiac diagnostics)
+    {
+        "name": "AliveDx",
+        "ats": "generic",
+        "careers_url": "https://jobs.alivedx.com/search/",
+        "keywords": TITLE_FILTERS,
+    },
+    # SIB Swiss Institute of Bioinformatics (Lausanne HQ — bioinformatics research)
+    # Uses Refline ATS; no dedicated scraper — generic monitor on the job listing page
+    {
+        "name": "SIB Swiss Institute of Bioinformatics",
+        "ats": "generic",
+        "careers_url": "https://apply.refline.ch/499599/search.html",
+        "keywords": TITLE_FILTERS,
+    },
+    # EPM Scientific (global life sciences recruitment / staffing)
+    {
+        "name": "EPM Scientific",
+        "ats": "generic",
+        "careers_url": "https://www.epmscientific.com/en-us/jobs",
+        "keywords": TITLE_FILTERS,
+    },
+    # Swiss Cancer Institute (Bern — national cancer research network; uses Ostendis ATS)
+    {
+        "name": "Swiss Cancer Institute",
+        "ats": "generic",
+        "careers_url": "https://www.swisscancerinstitute.ch/en/about-us/career/#jobs",
+        "keywords": TITLE_FILTERS,
+    },
+    # Ludwig Cancer Research (international; posts jobs directly on about page)
+    {
+        "name": "Ludwig Cancer Research",
+        "ats": "generic",
+        "careers_url": "https://www.ludwigcancerresearch.org/about/#careers",
         "keywords": TITLE_FILTERS,
     },
 ]
