@@ -77,6 +77,12 @@ TITLE_FILTERS: list[str] = [
     # Field & advisory
     "field application scientist",
     "scientific advisor",
+    # Scientific leadership / R&D strategy
+    "scientific lead",
+    "lead scientist",
+    "r&d strategy",
+    "research lead",
+    "scientific strategy",
     # Preclinical & biology
     "preclinical development",
     "preclinical strategy",
