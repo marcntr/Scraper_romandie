@@ -624,6 +624,14 @@ COMPANIES: list[dict] = [
         "ats": "smartrecruiters",
         "company_id": "StraumannGroup1",
     },
+    # Nestlé (Vevey HQ) — SuccessFactors feed at jobdetails.nestle.com
+    # Location format in feed: "City, CH" — use ", CH" to match Swiss postings
+    {
+        "name": "Nestlé",
+        "ats": "successfactors",
+        "careers_url": "https://jobdetails.nestle.com",
+        "location_terms": [", CH"],
+    },
     # Nestlé Health Science (Vevey) — Drupal/Avature portal at nestlejobs.com
     {
         "name": "Nestlé Health Science",
