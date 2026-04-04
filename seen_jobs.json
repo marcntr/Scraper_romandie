@@ -490,7 +490,7 @@
     "title": "Senior Manager HEOR",
     "company": "Abbott",
     "location": "Switzerland - Basel",
-    "posted_date": "2026-03-04",
+    "posted_date": "2026-03-05",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -508,7 +508,7 @@
     "title": "Associate Director, EUCAN Regulatory Lead - GI and Inflammation",
     "company": "Takeda",
     "location": "Zurich, Switzerland",
-    "posted_date": "2026-03-04",
+    "posted_date": "2026-03-05",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -523,7 +523,7 @@
     "title": "Manager, International Clinical Trial Regulatory Lead",
     "company": "Takeda",
     "location": "Zurich, Switzerland",
-    "posted_date": "2026-03-04",
+    "posted_date": "2026-03-05",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -538,7 +538,7 @@
     "title": "Associate Director, EUCAN Regulatory Lead - Oncology",
     "company": "Takeda",
     "location": "Zurich, Switzerland",
-    "posted_date": "2026-03-04",
+    "posted_date": "2026-03-05",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -554,7 +554,7 @@
     "title": "Vice President, Regulatory Affairs, Europe and International",
     "company": "BeiGene",
     "location": "Basel",
-    "posted_date": "2026-03-31",
+    "posted_date": "2026-04-01",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -570,7 +570,7 @@
     "title": "Scientist Microbiological Quality Control",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-03-13",
+    "posted_date": "2026-03-14",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -613,7 +613,7 @@
     "title": "Associate Director, Regulatory CMC Small Molecule Lead",
     "company": "Biogen",
     "location": "Baar, Switzerland",
-    "posted_date": "2026-03-04",
+    "posted_date": "2026-03-05",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -864,7 +864,7 @@
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-03-27"
+    "cached_at": "2026-04-04"
   },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000115811362": {
     "description": "The Engineering Department (EN) at CERN pushes forward the limits of technology to provide innovative research tools to the physics and engineering worldwide community. The position is opened in the Mechanical and Materials Engineering (MME) Group, which owns, maintains and develops the 40-year-old know-how on the mechanical design, manufacturing and assembly of accelerator and detector devices. The EN Department is seeking an engineer with experience in Non-Destructive Testing ( NDT ) to join the Materials, Metrology and NDT Section in the MME Group. In this role, you will develop and apply state of the art advanced NDT techniques to inspect critical materials and assemblies for CERN's accelerators and detectors. Your work will directly support the reliability and safety of CERN's cutting-edge physics projects. Your responsibilities: Collaborate with an experienced NDT team and participate in inspection activities involving ultrasonic testing, digital radiography and computed tomography. Optimise Phased Array Ultrasonic Testing (PAUT) techniques for medium/thin austenitic welds to improve inspection reliability and expand current application domains. Develop the use of PAUT probes in an immersion setup to enhance inspection flexibility and capabilities. Support the implementation and development of an innovative mobile system for radiography and tomography based on collaborative robots. This first in the field system will enable in-situ inspections of accelerator components in the LHC tunnel and of medium-sized components in a bunker. Communicate inspection results to project engineers and document testing protocols and findings. Your profile: Experience in ultrasonic or digital radiographic techniques for NDT, with familiarity in both areas preferred. ISO 9712 certifications would be an advantage. Holding a valid certificate by Swiss or French authorities for handling X-ray electric generators for industrial radiography (CAMARI X by IRSN-ASNR/France, training SPG-SPZ-f by SUVA/Switzerland), would be an advantage. Skills: Configure parameters for manual, encoded, and automated PAUT systems, and use software for inspection simulation and result visualisation (e.g., UTstudio+, WeldSight, OmniPC, NDT SetupBuilder). Set up acquisitions and use 2D/3D visualization software for digital radiography and computed tomography (e.g., Industrex, D-TecX, Sherlock NDT, MetrotomOS, VGStudio). Familiarity with material science, welding processes, and international NDT standards. Strong technical writing skills for procedures and reports. Spoken and written English or French, with a commitment to learn the basics of the other language. Eligibility criteria: You are a national of a CERN Member or Associate Member State . You have a professional background in Materials Science/Welding Engineer/NDT (or a related field) and have either: a Master's degree with 2 to 6 years of post-graduation professional experience; or a PhD with no more than 3 years of post-graduation professional experience. You have never had a CERN fellow or graduate contract before.",
@@ -874,11 +874,6 @@
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000115851447": {
     "description": "In this role, you will operate, monitor and continuously improve the large-scale workflow management system that processes data for the CMS experiment at the Large Hadron Collider. You will oversee central production and validation workflows across a global distributed computing infrastructure, investigating and resolving issues to ensure efficient and reliable data processing. Through this work, you will contribute to the stability and future development of the experiments high-throughput computing operations. Your responsibilities Monitor workflow progress, investigate and triage stuck and failed workflows. Adjust the workflow management system to changed needs. Setup and configure processing agents and deploy micro-services. Maintain, improve, and develop the current workflow management system further. Communicate workflow issues and report workflow status at coordination meetings. Your profile Knowledge of Linux and shells. Knowledge of shell scripting and Python. Experience of web technologies, particularly React and FastAPI is a plus. Experiences with containers, Kubernetes, git, and continuous integration is a plus. Experience with ticketing systems and computing service support is a plus. Skills Ability to learn quickly and embrace the devops culture. Ability to strive in a multi-cultural environment. Excellent communication skills. Spoken and written English, with a commitment to learn French. Eligibility criteria: You are a national of a CERN Member or Associate Member State . By the application deadline, you have a maximum of two years of professional experience since graduation in Computer Science or Engineering (or a related field) and your highest educational qualification is either a Bachelor's or Master's degree . You have never had a CERN fellow or graduate contract before. Applicants without University degree are not eligible. Applicants with a PhD are not eligible.",
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000115851447-computing-devops-engineer-ep-cms-2026-77-grae-?oga=true",
-    "status": "matched"
-  },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000115843982": {
-    "description": "Introduction Could you help realise the dream of science clusters across Europe collaborating on common tools and infrastructure? Drive CERN’s participation in major EC multi-science research infrastructure projects to make this a reality! Functions Lead CERN’s participation in the ESCAPE (European Science Cluster of Astronomy & Particle Physics ESFRIs) Collaboration, steering and shaping the activities towards the needs of High Energy Physics and multi-science initiatives. Represent CERN in the ESCAPE Collaboration board, strengthening CERN’s leadership in the ESCAPE governance. Drive the ESCAPE science cluster to converge on a common vision for Open Science. Engage with other European science clusters to foster alignment of infrastructure projects for research activities and open science. Coordinate CERN’s participation in the next major EC funding round oriented towards Scientific Clusters with the ambition for CERN to lead some of the proposals.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000115843982-senior-ec-project-coordinator-it-di-2026-62-ld-?oga=true",
     "status": "matched"
   },
   "_generic:Release Therapeutics": {
@@ -995,7 +990,7 @@
     "title": "Associate Director, Senior International Clinical Trial Regulatory Lead",
     "company": "Takeda",
     "location": "Zurich, Switzerland",
-    "posted_date": "2026-03-23",
+    "posted_date": "2026-03-24",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1024,7 +1019,7 @@
     "title": "Medical Science Liaison CVRM",
     "company": "AstraZeneca",
     "location": "Switzerland - Baar",
-    "posted_date": "2026-03-24",
+    "posted_date": "2026-03-25",
     "department": "",
     "score": -1,
     "matched_keywords": [
@@ -1110,7 +1105,7 @@
     "title": "Student Internship in Technical Regulatory Affairs (starting in September 2026, 12 Months, in Basel)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-03-26",
+    "posted_date": "2026-03-27",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1142,7 +1137,7 @@
     "title": "Senior Scientist, Translational Medicine Oncology (Hematology)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-03-26",
+    "posted_date": "2026-03-27",
     "department": "",
     "score": 12,
     "matched_keywords": [
@@ -1250,7 +1245,7 @@
     "title": "Clinical Development Postgraduate Fellow CH",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-03-20",
+    "posted_date": "2026-03-21",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -1269,7 +1264,7 @@
     "title": "Computational biologist/Expert I Data Science (80-100%) (Junior position)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-03-27",
+    "posted_date": "2026-03-28",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -1292,7 +1287,7 @@
     "title": "(Sr.) Scientist, Development (Parenteral Drug Product)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-03-06",
+    "posted_date": "2026-03-07",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1305,7 +1300,7 @@
     "title": "Machine Learning Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-03-05",
+    "posted_date": "2026-03-06",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1326,7 +1321,7 @@
     "title": "Scientist, Antibiotics Discovery",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-03-04",
+    "posted_date": "2026-03-05",
     "department": "",
     "score": 8,
     "matched_keywords": [
@@ -1348,7 +1343,7 @@
     "title": "Senior Scientist - Mucosal Immunology",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-03-04",
+    "posted_date": "2026-03-05",
     "department": "",
     "score": 8,
     "matched_keywords": [
@@ -1370,7 +1365,7 @@
     "title": "Post Doctorate Scientist (Organoid Systems Biology) - Institute of Human Biology",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-03-04",
+    "posted_date": "2026-03-05",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1386,7 +1381,7 @@
     "title": "Non-Malignant Hematology in vitro/in vivo Scientist_1 year temporary contract",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-03-04",
+    "posted_date": "2026-03-05",
     "department": "",
     "score": 8,
     "matched_keywords": [
@@ -1459,7 +1454,7 @@
     "title": "Post Doctorate Scientist in Intestinal Inflammation - at the Institute of Human Biology (IHB)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-03-30",
+    "posted_date": "2026-03-31",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -1525,7 +1520,7 @@
     "title": "Partnering and Portfolio Analytics Lead",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-03-31",
+    "posted_date": "2026-04-01",
     "department": "",
     "score": -1,
     "matched_keywords": [
@@ -1542,7 +1537,7 @@
     "title": "Senior Scientist, Material Qualification & Release (QC GMP)",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-03-31",
+    "posted_date": "2026-04-01",
     "department": "",
     "score": -1,
     "matched_keywords": [
@@ -1559,7 +1554,7 @@
     "title": "Director, Medical Affairs",
     "company": "Gilead Sciences",
     "location": "Switzerland - Zug",
-    "posted_date": "2026-03-31",
+    "posted_date": "2026-04-01",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1600,7 +1595,7 @@
     "title": "Senior Scientist, Comparative Digital Pathology, Computational Biology and Medicine",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-01",
+    "posted_date": "2026-04-02",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -1620,7 +1615,7 @@
     "title": "Associate Scientist in Analytical Development for Synthetic Molecules",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-01",
+    "posted_date": "2026-04-02",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1636,7 +1631,7 @@
     "title": "Scientist – QC Lab Systems & CSV (GMP)",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-04-01",
+    "posted_date": "2026-04-02",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -1651,7 +1646,7 @@
     "title": "Senior Scientist – Manufacturing Science & Technology (Biologics USP/DSP)",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-04-01",
+    "posted_date": "2026-04-02",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -1669,7 +1664,7 @@
     "title": "Scientist Bio-/Chemical Quality Control",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-04-01",
+    "posted_date": "2026-04-02",
     "department": "",
     "score": -1,
     "matched_keywords": [
@@ -1748,7 +1743,7 @@
     "title": "Franchise Lead COPD (Inhaled + Biologic portfolio)",
     "company": "AstraZeneca",
     "location": "Switzerland - Baar",
-    "posted_date": "2026-04-01",
+    "posted_date": "2026-04-02",
     "department": "",
     "score": 1,
     "matched_keywords": [
