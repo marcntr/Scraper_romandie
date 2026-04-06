@@ -554,7 +554,7 @@
     "title": "Vice President, Regulatory Affairs, Europe and International",
     "company": "BeiGene",
     "location": "Basel",
-    "posted_date": "2026-04-01",
+    "posted_date": "2026-03-31",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -570,7 +570,7 @@
     "title": "Scientist Microbiological Quality Control",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-03-14",
+    "posted_date": "2026-03-13",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -701,19 +701,9 @@
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000113182697-electronic-technician-for-pcb-assembly-be-cem-epr-2026-64-grae-?oga=true",
     "status": "matched"
   },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000113173020": {
-    "description": "In this role, you will contribute to a major upgrade program of CERN's accelerator complex by maintaining, replacing, and installing beam instrumentation systems. Your day-to-day work involves removing and installing equipment components across accelerator facilities, tracking interventions using CERN's management tools, and coordinating on-site progress with engineers and technicians Your responsibilities Remove equipment components for refurbishment or replacement. Install new instrumentation systems and upgrades throughout the accelerator complex. Track your tasks using CERN's management tools and provide updates in team meetings. Coordinate with engineers, technicians, and other groups to keep everyone informed of on-site progress. Work across different areas of CERN's accelerator facilities, following all safety protocols and ensuring precise, clean execution of technical interventions. Your profile Comfortable using standard hand tools and basic technical equipment. No prior experience with particle accelerators or beam instrumentation required. We will train you on CERN-specific systems. Skills Quick learner comfortable adapting to new tools, procedures, and technical environments. Attention to detail and careful approach when working with sensitive electronic and electromechanical equipment. Good communicator who works well with diverse technical teams. Practical problem-solving mindset. Spoken and written English, with a commitment to learn French. Eligibility criteria: You are a national of a CERN Member or Associate Member State . By the application deadline, you have a maximum of two years of professional experience since graduation in Mechanical or Electrical (or a related field) and your highest educational qualification is a general secondary education diploma . You have never had a CERN fellow or graduate contract before. Applicants with a Bachelor's, Master's or PhD degree are not eligible.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000113173020-installation-and-maintenance-technician-sy-bi-bl-2026-63-grae-?oga=true",
-    "status": "matched"
-  },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000113173430": {
     "description": "This position will contribute to the development and deployment of robotic solutions for experimental facilities at CERN, supporting installation, maintenance, and intervention activities in constrained environments. The role is embedded within the HL-LHC project, supporting the robotic activities required for the installation and maintenance of the Vacuum Assembly for Experimental area (VAX) in the CMS and ATLAS experiments. You will oversee the development, testing, and commissioning of the CRANEbot robotic system, contribute to the preparation, testing and execution of the ATLAS shielding modification, implementing offline industrial robot control for machining operations and define and support intervention procedures. Your responsibilities: Implement control of robotic bases, manipulators, and end-effectors, including homing procedures and predefined operating positions. Develop and test robot-environment interfaces to ensure system stability during operation. Test and validate connections to hardware modules, including cameras, motors, encoders, routers, computers, and other sensors. Develop and test robotic machining strategies using offline programming and closed-loop vibration control. Contribute to the definition of procedures and documentation and prepare test plans for missions and system validation. Communicate regularly with end-users and stakeholders to gather requirements and provide technical support. Supervise student projects related to the above activities. Your profile: Proven experience with industrial communication protocols (e.g. EtherCAT, CANopen). Proficiency in C++ programming and use of open-source robotics libraries/tools. Familiarity with Git, GitLab, CMake, and collaborative development environments. Understanding of CI/CD pipelines and their application in robotics development. Knowledge of motion control algorithms and robotics fundamentals (kinematics, dynamics, trajectory planning, control). Proficiency in CAD/CAM software. Experience with offline programming and simulation tools (e.g. RoboDK, KUKA.Sim). Experience in technical project management, overseeing complex robotic systems development. Skills: Working in team. Problem-solving mindset and ability to work under deadlines. Strong communication skills across multidisciplinary teams. Spoken and written English, with a commitment to learn French. Eligibility criteria: You are a national of a CERN Member or Associate Member State . You have a professional background in Mechatronics, Robotics, Computing (or a related field) and have either: a Master's degree with 2 to 6 years of post-graduation professional experience; or a PhD with no more than 3 years of post-graduation professional experience. You have never had a CERN fellow or graduate contract before.",
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000113173430-mechatronics-engineer-be-cem-mro-2026-40-grap-?oga=true",
-    "status": "matched"
-  },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000113105568": {
-    "description": "Introduction Within the environmental protection group, attached to the laboratory, you will carry out sampling and physicochemical analyses to assess the quality of CERN's water discharges in compliance with the regulations of the two host countries. Functions Collect environmental samples and carry out physicochemical measurement campaigns in effluents and river water, from CERN sites and surrounding natural environments. Prepare samples for physicochemical analysis. Conduct physicochemical analyses such as Ionic chromatography, Inductively coupled plasma mass spectrometry (ICP-MS), High Pressure Liquid chromatography–mass spectrometry (HPLCMS-MS), and photometry. Supervise the installation, maintenance and qualification of laboratory analysis and quality control (QC) equipment. Manage laboratory stocks and inventory. Draft technical documents and reports, including tables of analytical results. Ensure the accuracy and reliability of data and analytical reports to meet the needs of internal stakeholders. Conduct on-site investigations in case of environmental events. Follow the trends of the physicochemical continuous monitoring of CERN’s effluents.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000113105568-laboratory-technician-hse-env-pm-2026-54-ld-?oga=true",
     "status": "matched"
   },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000112847851": {
@@ -985,7 +975,7 @@
     "title": "Associate Director, Senior International Clinical Trial Regulatory Lead",
     "company": "Takeda",
     "location": "Zurich, Switzerland",
-    "posted_date": "2026-03-24",
+    "posted_date": "2026-03-23",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1014,7 +1004,7 @@
     "title": "Medical Science Liaison CVRM",
     "company": "AstraZeneca",
     "location": "Switzerland - Baar",
-    "posted_date": "2026-03-25",
+    "posted_date": "2026-03-24",
     "department": "",
     "score": -1,
     "matched_keywords": [
@@ -1100,7 +1090,7 @@
     "title": "Student Internship in Technical Regulatory Affairs (starting in September 2026, 12 Months, in Basel)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-03-27",
+    "posted_date": "2026-03-26",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1132,7 +1122,7 @@
     "title": "Senior Scientist, Translational Medicine Oncology (Hematology)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-03-27",
+    "posted_date": "2026-03-26",
     "department": "",
     "score": 12,
     "matched_keywords": [
@@ -1240,7 +1230,7 @@
     "title": "Clinical Development Postgraduate Fellow CH",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-03-21",
+    "posted_date": "2026-03-20",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -1259,7 +1249,7 @@
     "title": "Computational biologist/Expert I Data Science (80-100%) (Junior position)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-03-28",
+    "posted_date": "2026-03-27",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -1449,7 +1439,7 @@
     "title": "Post Doctorate Scientist in Intestinal Inflammation - at the Institute of Human Biology (IHB)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-03-31",
+    "posted_date": "2026-03-30",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -1515,7 +1505,7 @@
     "title": "Partnering and Portfolio Analytics Lead",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-01",
+    "posted_date": "2026-03-31",
     "department": "",
     "score": -1,
     "matched_keywords": [
@@ -1532,7 +1522,7 @@
     "title": "Senior Scientist, Material Qualification & Release (QC GMP)",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-04-01",
+    "posted_date": "2026-03-31",
     "department": "",
     "score": -1,
     "matched_keywords": [
@@ -1549,7 +1539,7 @@
     "title": "Director, Medical Affairs",
     "company": "Gilead Sciences",
     "location": "Switzerland - Zug",
-    "posted_date": "2026-04-01",
+    "posted_date": "2026-03-31",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1590,7 +1580,7 @@
     "title": "Senior Scientist, Comparative Digital Pathology, Computational Biology and Medicine",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-02",
+    "posted_date": "2026-04-01",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -1610,7 +1600,7 @@
     "title": "Associate Scientist in Analytical Development for Synthetic Molecules",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-02",
+    "posted_date": "2026-04-01",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1626,7 +1616,7 @@
     "title": "Scientist – QC Lab Systems & CSV (GMP)",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-04-02",
+    "posted_date": "2026-04-01",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -1641,7 +1631,7 @@
     "title": "Senior Scientist – Manufacturing Science & Technology (Biologics USP/DSP)",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-04-02",
+    "posted_date": "2026-04-01",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -1659,7 +1649,7 @@
     "title": "Scientist Bio-/Chemical Quality Control",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-04-02",
+    "posted_date": "2026-04-01",
     "department": "",
     "score": -1,
     "matched_keywords": [
@@ -1738,7 +1728,7 @@
     "title": "Franchise Lead COPD (Inhaled + Biologic portfolio)",
     "company": "AstraZeneca",
     "location": "Switzerland - Baar",
-    "posted_date": "2026-04-02",
+    "posted_date": "2026-04-01",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1794,7 +1784,7 @@
     "title": "PTD Synthetic Molecules ADQC - Analytical Scientist in the Lab  (2 year fixed term contract)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-03",
+    "posted_date": "2026-04-02",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1807,7 +1797,7 @@
     "title": "Manager Quality System & Regulatory Compliance",
     "company": "Abbott",
     "location": "Switzerland - Zurich",
-    "posted_date": "2026-04-03",
+    "posted_date": "2026-04-02",
     "department": "",
     "score": 0,
     "matched_keywords": [],
