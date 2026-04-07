@@ -9,7 +9,7 @@
     "keywords": "scientist"
   },
   "_generic:Charles River Laboratories": {
-    "keywords": "regulatory"
+    "keywords": "regulatory,scientist"
   },
   "_generic:MoonLake Immunotherapeutics": {
     "keywords": "clinical development,medical affairs"
@@ -1890,5 +1890,10 @@
     "deducted_keywords": [
       "location:Tolochenaz, Switzerland"
     ]
+  },
+  "/job/Basel-City/Principal-Scientist---Oncology-Translational-Research_REQ-10067104": {
+    "description": "Job Description Summary Location: Basel, Switzerland Full time, onsite, #LI-Onsite The Oncology Translational Research (OTR) group within Novartis Biomedical Research seeks a highly motivated lab head to drive the translational strategy for early clinical radioligand therapy (RLT) programs. The role involves collaborative work with various groups across the drug development spectrum, including drug discovery, data science, and early clinical development groups. The successful candidate will be responsible for leading a team and will be tasked with the design & execution of preclinical translational studies and clinical biomarker plans. Job Description About the role: The Oncology Translational Research (OTR) group within Novartis Biomedical Research seeks a highly motivated lab head to drive the translational strategy for early clinical radioligand therapy (RLT) programs. The role involves collaborative work with various groups across the drug development spectrum, including drug discovery, data science, and early clinical development groups. The successful candidate will be responsible for leading a team and will be tasked with the design & execution of preclinical translational studies and clinical biomarker plans. Key responsibilities: Lead a research team and collaborate with groups across BR Oncology Contribute to biomarker strategies and supervise translational experimental plans for various RLT drug discovery programs Design and conduct translational studies, dissect the biological mechanisms driving response and resistance to RLT, and develop rational drug combinations. Mentor and develop associates with various levels of experience Essential Requirements: Ph.D. in molecular, cellular, cancer biology or related fields. Minimum 2 years of Postdoctoral and/or industry experience in an Oncology/Cancer biology relevant field Recognised academic publication record Deep understanding of cancer cell biology, familiarity with innovative cell and molecular biology techniques. Excellent creative thinking and problem-solving skills, scientific curiosity. Proficiency in working collaboratively and flexibly on various projects Strong communication skills, at ease with conveying complex scientific concepts Desirable Requirements: Strong foundational knowledge and experience working on cell death mechanisms, experience in the field of DNA damage response and repair, radiobiology or RLT. Expertise in prostate cancer biology Proficiency with data mining and computational skills. Track record in managing a research team and scientific projects Accessibility and accommodation Novartis is committed to working with and providing reasonable accommodation to all individuals. If, because of a medical condition or disability, you need a reasonable accommodation for any part of the recruitment process, or in order to receive more detailed information about the essential functions of a position, please send an e-mail to diversity.inclusion_ch@novartis.com and let us know the nature of your request and your contact information. Please include the job requisition number in your message Skills Desired Biomedical Research, Cancer Biology, Cancer Cell Biology, Cancer Cells, Cell and Molecular Biology, Cell Biology, Cell Death, DNA Damage, Drug Development, Molecular Biology",
+    "external_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Basel-City/Principal-Scientist---Oncology-Translational-Research_REQ-10067104",
+    "status": "matched"
   }
 }
