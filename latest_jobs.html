@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Job Dashboard — 2026-04-08 12:07</title>
+<title>Job Dashboard — 2026-04-08 15:25</title>
 <style>
 /* ── Reset & base ── */
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
@@ -537,7 +537,7 @@ a { color: inherit; text-decoration: none; }
 
 <div class="header">
   <h1>Biopharma Job Dashboard</h1>
-  <div class="subtitle">Run: 2026-04-08 12:07</div>
+  <div class="subtitle">Run: 2026-04-08 15:25</div>
 </div>
 
 <button class="sync-btn" onclick="openSyncModal()">
@@ -563,8 +563,8 @@ a { color: inherit; text-decoration: none; }
 </div>
 
 <div class="tab-bar">
-  <button id="tab-btn-matched" class="tab-btn active" onclick="showTab(this,'matched')">Matched Jobs (2)</button>
-  <button id="tab-btn-ignored" class="tab-btn" onclick="showTab(this,'ignored')">Ignored (59)</button>
+  <button id="tab-btn-matched" class="tab-btn active" onclick="showTab(this,'matched')">Matched Jobs (3)</button>
+  <button id="tab-btn-ignored" class="tab-btn" onclick="showTab(this,'ignored')">Ignored (58)</button>
   <button id="tab-btn-applied" class="tab-btn" onclick="showTab(this,'applied')">Applied (1)</button>
   
   <button class="tab-btn" onclick="showTab(this,'companies')">Companies (163)</button>
@@ -582,13 +582,52 @@ a { color: inherit; text-decoration: none; }
     <div id="job-list">
       
 <div class="job-card"
+     data-company="Roche"
+     data-score="7"
+     data-date="2026-04-08"
+     data-location="switzerland"
+     data-url="https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Computational-Biology---Oncology_202603-108158-1"
+     data-status="matched"
+     data-text="computational biology - oncology roche bioinformatics computational biology phd cancer biology drug discovery genomics oncology">
+  <div class="card-header">
+    <div class="card-left">
+      <span class="score-badge score-green">+7</span>
+      <span class="new-badge">New</span>
+      <span class="job-title">Computational Biology - Oncology</span>
+    </div>
+    <a class="open-link" href="https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Computational-Biology---Oncology_202603-108158-1" target="_blank" rel="noopener">Open ↗</a>
+  </div>
+  <div class="card-meta">
+    <span class="company">Roche</span>
+    <span class="location">📍 Basel</span>
+    <span class="tag tag-swiss">Switzerland</span>
+    <span class="posted">Posted 2026-04-08</span>
+  </div>
+  <div class="card-keywords">
+    <span class="kw-label kw-plus">+</span><span class="kw-text">bioinformatics  computational biology  PhD  Cancer Biology  drug discovery  genomics  oncology</span>
+    &nbsp;&nbsp;
+    <span class="kw-label kw-minus">−</span><span class="kw-text">(none)</span>
+  </div>
+  <div class="card-desc">
+    <button class="toggle-btn" onclick="toggleDesc(this,0)">▸ Description</button>
+    <div id="desc-more-0" class="desc-structured" hidden><div class="desc-sec"><p class="desc-para">At Roche you can show up as yourself, embraced for the unique qualities you bring. Our culture encourages personal expression, open dialogue, and genuine connections,  where you are valued, accepted and respected for who you are, allowing you to thrive both personally and professionally. This is how we aim to prevent, stop and cure diseases and ensure everyone has access to healthcare today and for generations to come. Join Roche, where every voice matters.</p></div>
+<div class="desc-sec"><div class="desc-sh">About the Role</div><p class="desc-para">In Roche’s Pharmaceutical Research and Early Development organization (pRED ) ​, we make transformative medicines for patients in order to tackle some of the world’s toughest unmet healthcare needs. At pRED, we are united by our mission to transform science into medicines. Together, we create a culture defined by curiosity, responsibility and humility, where our talented people are empowered and inspired to bring forward extraordinary life-changing innovation at speed. The Computational Sciences Centre of Excellence is a global organisation enabling Roche’s Research and Early Development units to become more data-driven, more digitally adept and better prepared for the challenges of the future. Within the Computational Sciences Centre of Excellence , the Computational Biology department focuses on furthering our understanding of disease, patient populations, and target biology by having access to the largest Pharma R&amp;D datasets in the world. In partnership with our scientists across pRED, we create better medicines by augmenting every part of R&amp;D through our data-driven culture. The Opportunity We are seeking a highly motivated computational scientist to join our Research Oncology sub-unit of Computational Biology. You will be a member of a team of world-leading computational scientists with the express aim of developing a competitive advantage for pRED through the application of computational biology in the Oncology space.  You will also be part of the wider Computational Biology and Medicine unit within the Computational Sciences Centre of Excellence drawing on the shared experience and expertise of colleagues globally. To ensure successful delivery for the portfolio, you collaborate with other subunits in Computation Biology and/or Computational Medicine where needed. Our collective success in the Oncology sub-unit and our contribution to pRED/Pharma goals will be the measure of your impact. In this role, you will: Drive and execute the data and analytics strategy for your area, working closely with stakeholders to focus on the highest-impact opportunities. Generate clear, high-value insights from complex data to support decision-making and help advance projects toward meaningful patient impact. Act as a trusted partner to scientists and cross-functional teams, collaborating to shape priorities and deliver on shared goals. Contribute to a collaborative and inclusive team environment by sharing expertise, supporting peers, and actively engaging in a feedback-rich culture. Contribute to continuously improving how we work, helping to strengthen Computational Biology as a key driver of innovation and impact within pRED</p></div>
+<div class="desc-sec"><div class="desc-sh">Requirements</div><ul class="desc-list"><li>You hold a PhD in Bioinformatics, Biostatistics, or a related quantitative field, with a strong foundation in data-driven problem solving, statistical modeling, and machine learning</li><li>You bring a solid understanding of cancer biology and are motivated to apply data science to drive impact in drug discovery and decision-making</li><li>You have strong expertise in AI/ML and modern AI-driven workflows, ideally including hands-on experience with LLMs, AI-assisted coding, or agentic workflows applied to biological problems</li><li>You are proficient in R and/or Python and comfortable working in Linux/Unix environments, including processing data on HPC/cloud platforms</li><li>You have experience working with large-scale biological datasets (e.g., genomics, transcriptomics, spatial omics/imaging), ideally including cancer cell dependency, perturbation, or drug-response data, and enjoy integrating diverse data types</li><li>You communicate clearly and effectively, create impactful visualizations, and thrive in collaborative, multidisciplinary environments where you take ownership and work closely with experimental scientists</li><li>Ready to take the next step? We&#x27;d love to hear from you</li><li>Apply now to explore this exciting opportunity!</li></ul></div>
+<div class="desc-sec"><div class="desc-sh">About the Role</div><p class="desc-para">A healthier future drives us to innovate. Together, more than 100’000 employees across the globe are dedicated to advance science, ensuring everyone has access to healthcare today and for generations to come. Our efforts result in more than 26 million people treated with our medicines and over 30 billion tests conducted using our Diagnostics products. We empower each other to explore new possibilities, foster creativity, and keep our ambitions high, so we can deliver life-changing healthcare solutions that make a global impact. Let’s build a healthier future, together. Roche is an Equal Opportunity Employer.</p></div></div>
+  </div>
+  <div class="card-actions">
+    <button class="action-btn action-ignore" onclick="setJobStatus(this,'ignored')">Ignore</button><button class="action-btn action-applied" onclick="setJobStatus(this,'applied')">&#10003; Applied</button>
+  </div>
+</div>
+
+<div class="job-card"
      data-company="Bio-Techne / Lunaphore"
      data-score="1"
      data-date=""
      data-location="switzerland"
      data-url="https://biotechne.wd5.myworkdayjobs.com/Biotechne/job/Tolochenaz-Switzerland/Project-Manager---Spatial-Biology-Product-Development--8-9-months-contract-_JR101679"
      data-status="matched"
-     data-text="project manager – spatial biology product development (8-9 months contract) bio-techne / lunaphore spatial biology msc french">
+     data-text="project manager – spatial biology product development (8-9 months contract) bio-techne / lunaphore french spatial biology msc">
   <div class="card-header">
     <div class="card-left">
       <span class="score-badge score-blue">+1</span>
@@ -604,13 +643,13 @@ a { color: inherit; text-decoration: none; }
     
   </div>
   <div class="card-keywords">
-    <span class="kw-label kw-plus">+</span><span class="kw-text">spatial biology  MSc  French</span>
+    <span class="kw-label kw-plus">+</span><span class="kw-text">French  spatial biology  MSc</span>
     &nbsp;&nbsp;
     <span class="kw-label kw-minus">−</span><span class="kw-text">location:Tolochenaz, Switzerland</span>
   </div>
   <div class="card-desc">
-    <button class="toggle-btn" onclick="toggleDesc(this,0)">▸ Description</button>
-    <div id="desc-more-0" class="desc-structured" hidden><div class="desc-sec"><p class="desc-para">By joining Bio-Techne, you’ll join a company with a powerful and positive purpose of enabling cutting-edge research in Life Sciences and Clinical Diagnostics. Bio-Techne, and all of its brands, provides tools for researchers to further treat and prevent disease worldwide.</p></div>
+    <button class="toggle-btn" onclick="toggleDesc(this,1)">▸ Description</button>
+    <div id="desc-more-1" class="desc-structured" hidden><div class="desc-sec"><p class="desc-para">By joining Bio-Techne, you’ll join a company with a powerful and positive purpose of enabling cutting-edge research in Life Sciences and Clinical Diagnostics. Bio-Techne, and all of its brands, provides tools for researchers to further treat and prevent disease worldwide.</p></div>
 <div class="desc-sec"><div class="desc-sh">About the Role</div><p class="desc-para">We are looking for an experienced Project Manager to cover a maternity leave in our Project Management team for 8-9 months. This role is cross-functional at the interface of the R&amp;D, Marketing, Product Management, Operations, QA/RA as well as Scientific Affairs departments.</p></div>
 <div class="desc-sec"><div class="desc-sh">Key Responsibilities</div><ul class="desc-list"><li>will be to manage and coordinate activities of multidisciplinary Product Development projects in order to achieve project goals on time and within pre-defined scope</li><li>Projects in scope include the development of new assays and reagent kits for our Spatial Biology Division product portfolio, as well as their sustaining post launch</li><li>Essential Functions: As a member of the Project Management Office (PMO), the Project Manager will be responsible for the following: Plan, monitor and manage cross-departmental projects</li><li>Coordinate the projects among the different stakeholders and ensure smooth communication</li><li>Collaborate effectively with the R&amp;D, Product Management, Marketing, Customer support, Manufacturing, QA/RA and Scientific Affairs teams in order to achieve the goals of the projects</li><li>Maintain the team awareness of potential interdependencies with other projects and their impact</li><li>Manage project risks</li><li>Monitor overall progress and use of resources</li><li>Report project progresses in clear and detailed manner</li><li>Liaise with other Bio-Techne divisions located in the US</li></ul></div>
 <div class="desc-sec"><div class="desc-sh desc-sh--required">Essential Requirements</div><ul class="desc-list"><li>and skills: A validated experience of at least 3 years in a similar position, PMP certification or similar is a plus</li><li>MSc. in biomedical engineering, life science, biology or similar field</li><li>Working knowledge of project management tools</li><li>Proficiency in English (at least C1), French is a plus</li><li>Required soft skills Organizational skills and attention to detail, capacity to work on 5-8 projects in parallel</li><li>Ability to interact with multidisciplinary teams and to work in a team</li><li>Capacity to adapt in a constantly changing environment</li><li>Strong communication and negotiation skills</li><li>Flexibility in working schedule with the ability to have meetings with US West Coast regularly</li><li>Supportive, proactive team player with a willingness to assist colleagues and contribute to occasional tasks outside the core job scope to ensure overall project and team success</li><li>Bio-Techne is committed to product quality, customer satisfaction, continued improvement, minimising environmental impacts and conserving natural resources</li><li>Environmental and quality management is an integral core value and vital part of the Bio-Techne culture</li><li>Why Join Bio-Techne: We offer competitive wages along with extensive benefits for employees and their families</li><li>We invest in our employees’ financial futures through retirement programs and an employee stock purchase plan</li><li>We help our employees develop their careers through mentorship, promotional opportunities, training and development, internship programs, and more</li><li>We offer an international and diverse working environment, enriched by employee resource groups; volunteer and charity events; and employee events that build a culture of caring and belonging</li><li>We foster a culture of empowerment and innovation, where employees feel valued and encouraged to bring their new ideas to the table</li><li>Bio-Techne is an Equal Opportunity Employer</li><li>All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or status as a protected veteran</li><li>To protect the interests of all, Bio-Techne will not accept unsolicited resumes from any source other than a candidate application</li><li>Any unsolicited resumes sent to Bio-Techne will be considered Bio-Techne property</li></ul></div></div>
@@ -648,8 +687,8 @@ a { color: inherit; text-decoration: none; }
     <span class="kw-label kw-minus">−</span><span class="kw-text">(none)</span>
   </div>
   <div class="card-desc">
-    <button class="toggle-btn" onclick="toggleDesc(this,1)">▸ Description</button>
-    <div id="desc-more-1" class="desc-structured" hidden><div class="desc-sec"><p class="desc-para">Nestlé Institute of Strategic Research Operations Welcome to Nestlé Research, a global organization, with most of our passionate team located in Lausanne, Switzerland! Our work is powered by five specialized Nestlé Institutes and key strategic units. Here, we embrace fresh thinking and collaborate to create amazing solutions. How about taking a step inside our organization and discover the exciting research activities and expertise that drive us forward? Want to learn more ! At Nestlé Research, we place people at the core of everything we do, driven by a passion for innovation that inspires us to embrace change. Our commitment to staying at the forefront of science allows us to make a meaningful impact on our world , fostering a culture of creativity and growth . Join us in our mission to inspire people and ignite innovation as we work together to shape a better future. Position Snapshot: Your opportunity to #breakthrough with us! Location: Nestlé Research, Lausanne, Switzerland Institute: Nestlé Institute of Strategic Research Operations Company: Société des Produits Nestlé S.A. Act. Rate: Full-Time Act. Rate 100% Type of contract: Permanent contract</p></div>
+    <button class="toggle-btn" onclick="toggleDesc(this,2)">▸ Description</button>
+    <div id="desc-more-2" class="desc-structured" hidden><div class="desc-sec"><p class="desc-para">Nestlé Institute of Strategic Research Operations Welcome to Nestlé Research, a global organization, with most of our passionate team located in Lausanne, Switzerland! Our work is powered by five specialized Nestlé Institutes and key strategic units. Here, we embrace fresh thinking and collaborate to create amazing solutions. How about taking a step inside our organization and discover the exciting research activities and expertise that drive us forward? Want to learn more ! At Nestlé Research, we place people at the core of everything we do, driven by a passion for innovation that inspires us to embrace change. Our commitment to staying at the forefront of science allows us to make a meaningful impact on our world , fostering a culture of creativity and growth . Join us in our mission to inspire people and ignite innovation as we work together to shape a better future. Position Snapshot: Your opportunity to #breakthrough with us! Location: Nestlé Research, Lausanne, Switzerland Institute: Nestlé Institute of Strategic Research Operations Company: Société des Produits Nestlé S.A. Act. Rate: Full-Time Act. Rate 100% Type of contract: Permanent contract</p></div>
 <div class="desc-sec"><div class="desc-sh">What we offer</div><p class="desc-para">at Nestlé Exciting opportunities to develop your career your way Flexible working arrangements - facilitating creativity and collaboration. A culture of respect, with diversity, equity and inclusion at its core. A dynamic international environment empowering you to learn, develop and grow. Don’t hesitate to connect with us during the recruitment process to learn more</p></div>
 <div class="desc-sec"><div class="desc-sh">About the Role</div><p class="desc-para">As a Foresight and Scientific Intelligence Analyst you will be responsible for shaping and managing Nestlé’s scientific information ecosystem while delivering research outputs for scientific foresight and scientific intelligence insights to support strategic decision-making. In this role, you will ensure high-quality access to scientific publications across the entire Nestlé R&amp;D, NHS, and Purina Petcare. This encompasses contractual relationships with major publishing houses, service providers for subscription management and document delivery. Further to that you will lead intelligence for scientific foresight, scientific landscaping and intelligence with the purpose to keep track of emerging scientific trends, to identify potential future collaboration partners and ecosystems. Further to that you work closely with scientists, IT, procurement, legal functions and external partners, and contribute to future-proofing Nestlé’s scientific intelligence capabilities and informing mid- to long-term research, innovation, and partnership strategies. A Day in the Life of a Foresight and Scientific Intelligence Analyst Manage scientific publication services and subscriptions supporting global Nestlé research and innovation communities. Collaborate with external publishers and providers to optimize databases, platforms, and document delivery solutions. Perform global usage analyses and define strategies to adapt the scientific subscription portfolio. Monitor scientific publication markets to identify future-proof opportunities and system evolution needs. Develop and apply foresight and scientific intelligence methodologies across emerging science and technologies. Analyze scientific trends, key researchers, and collaboration networks to inform research priorities. Conduct competitive and benchmark analyses on external R&amp;D pipelines, partnerships, and IP strategies. Deliver clear intelligence briefs and partnership insights to senior leadership and stakeholders. What Will Make You Successful Advanced degree in engineering, life sciences, information science, data science, or a related scientific field. A PhD degree is of interest but not required. Willingness to get professional and proficient in scientific information management, intelligence, foresight, or research analytics. Strong analytical, synthesis, and communication skills with ability to translate data into clear recommendations. Ability to collaborate effectively across multidisciplinary and international stakeholder groups. Experience working with scientific databases, publication platforms, and external service providers. Strategic mindset with curiosity for emerging science, technology trends, and competitive landscapes. Fluency in English. Additional languages are an advantage. Exciting Opportunity Ahead! After submitting your application, you will receive an invitation to create a short video introduction, guided by a few specific questions. This is your chance to showcase your personality and passion. We kindly ask that you submit your video within 7 days of your application to ensure we can assess</p></div>
 <div class="desc-sec"><div class="desc-sh">Requirements</div><ul class="desc-list"><li>Please note that if this step is not completed within the specified time, we will assume you have chosen to withdraw your application, Nestlé is committed to the accessibility of its recruitment process</li><li>If you require an adaptation during the recruitment process, please do let us know so we can support you effectively</li><li>All information will be treated confidentially</li><li>At Nestlé, we want to help shape a better and healthier world, inspire people to live healthier lives and deliver impact at a scale and pace that makes a difference</li><li>We do this by fostering a diverse, friendly, supportive, and collaborative environment, that creates positive disruption, embraces innovation, and empowers people and teams to win</li><li>We aim to hire friendly, respectful, inspiring people who care about the people’s lives that we touch every single day</li><li>Be a force for good</li><li>Join Nestlé and visit us on www.nestle.com </li></ul></div></div>
@@ -672,7 +711,7 @@ a { color: inherit; text-decoration: none; }
      data-location="switzerland"
      data-url="https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Basel-City/Director-International-Medical-Affairs--Immunology_REQ-10074267-1"
      data-status="ignored"
-     data-text="director international medical affairs, immunology novartis immuno-oncology medical affairs immunology phd oncology">
+     data-text="director international medical affairs, immunology novartis immunology phd immuno-oncology oncology medical affairs">
   <div class="card-header">
     <div class="card-left">
       <span class="score-badge score-lime">+5</span>
@@ -688,13 +727,13 @@ a { color: inherit; text-decoration: none; }
     <span class="posted">Posted 2026-04-06</span>
   </div>
   <div class="card-keywords">
-    <span class="kw-label kw-plus">+</span><span class="kw-text">immuno-oncology  medical affairs  immunology  PhD  oncology</span>
+    <span class="kw-label kw-plus">+</span><span class="kw-text">immunology  PhD  immuno-oncology  oncology  medical affairs</span>
     &nbsp;&nbsp;
     <span class="kw-label kw-minus">−</span><span class="kw-text">(none)</span>
   </div>
   <div class="card-desc">
-    <button class="toggle-btn" onclick="toggleDesc(this,2)">▸ Description</button>
-    <div id="desc-more-2" class="desc-structured" hidden><div class="desc-sec"><div class="desc-sh">About the Role</div><p class="desc-para">Summary Location: Basel, Switzerland #LI-Hybrid Purpose of The International Medical Affairs (IMA) team represents the voice of the International markets, with a focus on our top priority markets and addresses their needs across pre-launch, launch, life-cycle management and in-market. We are seeking a Medical Affairs Director Immunology, to provide aligned input from the top priority International markets into IEP and is responsible for the implementation of the scientific communications and medical education strategy, as well as relevant medical standards in these markets. This role will support the planning and execution at International for the medical/scientific engagement strategy (MSL/ Field Medical Affairs strategy, medical education programs, scientific publication planning and Medical Expert network development) addressing and delivering strategic pre-launch and launch medical activities needs for patient, clinical, access and value to health care systems. Acting as a subject matter expert in the development of overarching International strategies, you will provide input during program design and throughout end to end execution. You will also serve as a strategic partner to International Commercial, International Value and Access, Global, Regional and US Medical Affairs, and Development. This is a full-time position based in Basel, Switzerland. If you are driven by a commitment to making a difference in the lives of patients and possess the expertise to lead a dynamic team, we would love to hear from you. This role reports into the Head International Medical Affairs Immunology. Major Accountabilities Lead the International Medical Affairs strategy for priority Immunology assets and indications, ensuring international market needs are reflected in medical priorities and plans. Represent and translate the perspectives of priority international markets into actionable medical strategies, evidence requirements, and execution plans that enhance readiness and impact. Shape integrated evidence plans and evidence‑generation priorities to ensure timely availability of data supporting scientific exchange, clinical adoption, and access-related decision-making. Provide strategic input into field medical and medical engagement priorities, ensuring country insights and scientific</p></div>
+    <button class="toggle-btn" onclick="toggleDesc(this,3)">▸ Description</button>
+    <div id="desc-more-3" class="desc-structured" hidden><div class="desc-sec"><div class="desc-sh">About the Role</div><p class="desc-para">Summary Location: Basel, Switzerland #LI-Hybrid Purpose of The International Medical Affairs (IMA) team represents the voice of the International markets, with a focus on our top priority markets and addresses their needs across pre-launch, launch, life-cycle management and in-market. We are seeking a Medical Affairs Director Immunology, to provide aligned input from the top priority International markets into IEP and is responsible for the implementation of the scientific communications and medical education strategy, as well as relevant medical standards in these markets. This role will support the planning and execution at International for the medical/scientific engagement strategy (MSL/ Field Medical Affairs strategy, medical education programs, scientific publication planning and Medical Expert network development) addressing and delivering strategic pre-launch and launch medical activities needs for patient, clinical, access and value to health care systems. Acting as a subject matter expert in the development of overarching International strategies, you will provide input during program design and throughout end to end execution. You will also serve as a strategic partner to International Commercial, International Value and Access, Global, Regional and US Medical Affairs, and Development. This is a full-time position based in Basel, Switzerland. If you are driven by a commitment to making a difference in the lives of patients and possess the expertise to lead a dynamic team, we would love to hear from you. This role reports into the Head International Medical Affairs Immunology. Major Accountabilities Lead the International Medical Affairs strategy for priority Immunology assets and indications, ensuring international market needs are reflected in medical priorities and plans. Represent and translate the perspectives of priority international markets into actionable medical strategies, evidence requirements, and execution plans that enhance readiness and impact. Shape integrated evidence plans and evidence‑generation priorities to ensure timely availability of data supporting scientific exchange, clinical adoption, and access-related decision-making. Provide strategic input into field medical and medical engagement priorities, ensuring country insights and scientific</p></div>
 <div class="desc-sec"><div class="desc-sh">requirements</div><ul class="desc-list"><li>inform high‑quality, market‑relevant plans</li><li>Drive external scientific engagement and communication strategies, including medical education, major congress activities, symposia, and other high-impact key scientific exchange initiatives</li><li>Build and strengthen strategic relationships with healthcare professionals, scientific societies, and other stakeholders to advance scientific leadership and medical impact in Immunology</li><li>Serve as a strategic medical partner to International Commercial, International Value &amp; Access, Global, Regional, and Country Medical Affairs, Development, and other cross‑functional teams to ensure aligned, high‑quality plans and execution</li><li>Provide proactive medical leadership for lifecycle management and future therapeutic opportunities, identifying where medical strategy, evidence and stakeholder engagement can drive the greatest value and impact</li><li>Ensure all International Medical Affairs activities meet the highest standards of medical quality, ethics, and compliance, including appropriate support for access‑related and patient‑focused initiatives</li></ul></div>
 <div class="desc-sec"><div class="desc-sh desc-sh--required">Essential Requirements</div><p class="desc-para">Advanced scientific degree (MD, PhD, or PharmD) in Health or Life Sciences Full professional proficiency in English In depth experience in the pharmaceutical industry, in Medical Affairs or Clinical Development Deep understanding of health care systems and key external stakeholders Experience working in matrix organizations and leading cross-functional medical projects, with the ability to influence and collaborate across functions and geographies Strong track record of leading complex medical affairs initiatives with clear impact on timelines, quality, and strategic outcomes Additional training, certification or experience in Dermatology and/or Rheumatology is a plus Desirable</p></div>
 <div class="desc-sec"><div class="desc-sh">Requirements</div><ul class="desc-list"><li>Significant medical affairs pre-launch and launch experience in a major International market Significant medical affairs pre-launch and launch experience in Immunology or Immuno-oncology Experience in developing and executing “Best in Class” processes at scale Why Novartis? Helping people with disease and their families takes more than innovative science</li><li>It takes a community of smart, passionate people like you</li><li>Collaborating, supporting and inspiring each other</li><li>Combining to achieve breakthroughs that change patients’ lives</li><li>Ready to create a brighter future together? https://www.novartis.com/about/strategy/people-and-culture Disclaimer*: Some restrictions on flexible working options may apply and will be discussed during interview if applicable Benefits and Rewards: Read our handbook to learn about all the ways we’ll help you thrive personally and professionally: https://www.novartis.com/careers/benefits-rewards Commitment to Diversity and Inclusion / EEO: Novartis is committed to building an outstanding, inclusive work environment and diverse teams representative of the patients and communities we serve</li><li>Accessibility and accommodation: Novartis is committed to working with and providing reasonable accommodation to all individuals</li><li>If, because of a medical condition or disability, you need a reasonable accommodation for any part of the recruitment process, or in order to receive more detailed information about the essential functions of a position, please send an e-mail to diversity.inclusion_ch@novartis.com and let us know the nature of your request and your contact information</li><li>Please include the job requisition number in your message</li><li>Join our Novartis Network : If this role is not suitable to your experience or career goals but you wish to stay connected to hear more about Novartis and our career opportunities, join the Novartis Network here: https://talentnetwork.novartis.com/network Skills Desired</li></ul></div></div>
@@ -732,8 +771,8 @@ a { color: inherit; text-decoration: none; }
     <span class="kw-label kw-minus">−</span><span class="kw-text">(none)</span>
   </div>
   <div class="card-desc">
-    <button class="toggle-btn" onclick="toggleDesc(this,3)">▸ Description</button>
-    <div id="desc-more-3" class="desc-structured" hidden><div class="desc-sec"><p class="desc-para">At Roche you can show up as yourself, embraced for the unique qualities you bring. Our culture encourages personal expression, open dialogue, and genuine connections,  where you are valued, accepted and respected for who you are, allowing you to thrive both personally and professionally. This is how we aim to prevent, stop and cure diseases and ensure everyone has access to healthcare today and for generations to come. Join Roche, where every voice matters.</p></div>
+    <button class="toggle-btn" onclick="toggleDesc(this,4)">▸ Description</button>
+    <div id="desc-more-4" class="desc-structured" hidden><div class="desc-sec"><p class="desc-para">At Roche you can show up as yourself, embraced for the unique qualities you bring. Our culture encourages personal expression, open dialogue, and genuine connections,  where you are valued, accepted and respected for who you are, allowing you to thrive both personally and professionally. This is how we aim to prevent, stop and cure diseases and ensure everyone has access to healthcare today and for generations to come. Join Roche, where every voice matters.</p></div>
 <div class="desc-sec"><div class="desc-sh">About the Role</div><p class="desc-para">Behind each product in clinical trials or sold by Roche is the involvement of Pharma Global Technical Operations, a team of more than 10,000 employees worldwide. Within this organization, Pharma Technical Development (PTD) is dedicated to developing new medicines to meet patients&#x27; needs through innovation and teamwork. Our specific department, Synthetic Molecules Technical Development (PTDC), brings a broad range of experience across drug substance, drug product, and analytical sciences. We collaborate closely with partners in research and commercial sectors to develop our synthetic molecules pipeline and manufacture supplies for clinical studies. The Scientist in the Lab is an entry-level position located within the Analytical Development and Quality Control (ADQC) unit. In this role, you will be responsible for developing resource- and cost-efficient analytical methods using state-of-the-art techniques such as HPLC, GC, and mass spectrometry. Your ultimate goal is to establish robust control strategies to release products for clinical trials and commercial supply. The Opportunity Develop and implement phase-appropriate control strategies for drug substances and drug products. Coordinate all analytical activities, including generating physical and chemical data for materials. Develop, improve, and validate analytical test methods and controls to ensure quality standards. Act as the central project contact for information exchange and collaborate effectively with cross-functional stakeholders. Ensure all work complies with cGMP (where applicable), safety, and regulatory requirements. Evaluate new technologies and methods to support innovation projects. Ensure timely delivery and thorough documentation of all analytical results.</p></div>
 <div class="desc-sec"><div class="desc-sh">Requirements</div><ul class="desc-list"><li>You hold a Ph.D. in (analytical) chemistry, biochemistry, biotechnology, pharmacy, or a related field</li><li>Expertise in key analytical techniques such as HPLC, UPLC, and GC, with a strong interest in analytical development for synthetic molecules</li><li>Digital savviness to support transformation initiatives; familiarity with statistical analysis of analytical data is advantageous</li><li>Goal-oriented and open-minded, with a strong quality mindset and the ability to work in a fast-developing environment</li><li>Excellent command of English (German is a plus) and the ability to collaborate respectfully with team members and stakeholders</li><li>Ready for the next step? We look forward to hearing from you</li><li>Apply now with a current CV and Motivation Letter to discover this exciting opportunity!</li></ul></div>
 <div class="desc-sec"><div class="desc-sh">About the Role</div><p class="desc-para">A healthier future drives us to innovate. Together, more than 100’000 employees across the globe are dedicated to advance science, ensuring everyone has access to healthcare today and for generations to come. Our efforts result in more than 26 million people treated with our medicines and over 30 billion tests conducted using our Diagnostics products. We empower each other to explore new possibilities, foster creativity, and keep our ambitions high, so we can deliver life-changing healthcare solutions that make a global impact. Let’s build a healthier future, together. Roche is an Equal Opportunity Employer.</p></div></div>
@@ -771,48 +810,10 @@ a { color: inherit; text-decoration: none; }
     <span class="kw-label kw-minus">−</span><span class="kw-text">(none)</span>
   </div>
   <div class="card-desc">
-    <button class="toggle-btn" onclick="toggleDesc(this,4)">▸ Description</button>
-    <div id="desc-more-4" class="desc-structured" hidden><div class="desc-sec"><div class="desc-sh">About the Role</div><p class="desc-para">Thoratec Switzerland GmbH , part of Abbott Laboratories , is a global leader in implantable and extracorporeal blood pump systems. Our lifesaving medical devices, developed and manufactured at our Zurich site, support patients with severe heart disease worldwide. Our Zurich team of approximately 150 colleagues brings together expertise across R&amp;D, manufacturing, quality, and regulatory functions. As we continue to expand our innovative and high-impact work, we are looking for an experienced Manager Quality System &amp; Regulatory Compliance who is motivated by purpose, collaboration, and continuous improvement. In this role, you will shape and strengthen our Quality Management Systems while leading and developing a team of Quality System specialists. You will work closely with colleagues across Operations, R&amp;D, Engineering, and Regulatory Affairs to ensure our products and processes meet the highest regulatory and quality standards — always with patient safety at the center. This position offers the opportunity to combine people leadership, strategic influence, and hands-on quality expertise in a global, regulated medical device environment. What You’ll Do Lead &amp; Inspire Lead, support, and develop a team of Quality System specialists, setting clear goals aligned with company objectives and regulatory</p></div>
+    <button class="toggle-btn" onclick="toggleDesc(this,5)">▸ Description</button>
+    <div id="desc-more-5" class="desc-structured" hidden><div class="desc-sec"><div class="desc-sh">About the Role</div><p class="desc-para">Thoratec Switzerland GmbH , part of Abbott Laboratories , is a global leader in implantable and extracorporeal blood pump systems. Our lifesaving medical devices, developed and manufactured at our Zurich site, support patients with severe heart disease worldwide. Our Zurich team of approximately 150 colleagues brings together expertise across R&amp;D, manufacturing, quality, and regulatory functions. As we continue to expand our innovative and high-impact work, we are looking for an experienced Manager Quality System &amp; Regulatory Compliance who is motivated by purpose, collaboration, and continuous improvement. In this role, you will shape and strengthen our Quality Management Systems while leading and developing a team of Quality System specialists. You will work closely with colleagues across Operations, R&amp;D, Engineering, and Regulatory Affairs to ensure our products and processes meet the highest regulatory and quality standards — always with patient safety at the center. This position offers the opportunity to combine people leadership, strategic influence, and hands-on quality expertise in a global, regulated medical device environment. What You’ll Do Lead &amp; Inspire Lead, support, and develop a team of Quality System specialists, setting clear goals aligned with company objectives and regulatory</p></div>
 <div class="desc-sec"><div class="desc-sh">requirements</div><ul class="desc-list"><li>Foster a collaborative, inclusive, and accountable team environment Support performance development through coaching, feedback, and training Quality &amp; Compliance Leadership Ensure effective execution and continuous improvement of the site’s Quality Management Systems Maintain compliance with applicable international standards and regulations (e.g</li><li>ISO 13485, FDA QSR, EU MDR) Prepare and support the site during external audits and regulatory inspections (e.g</li><li>FDA, Notified Bodies) Act as a key quality partner for Operations, R&amp;D, Engineering, and Regulatory Affairs Continuous Improvement &amp; Problem Solving Identify opportunities to improve processes, compliance, and efficiency across the organization Lead or contribute to global quality improvement initiatives Own and drive corrective and preventive actions (CAPA), including root cause analysis and sustainable solutions Collaboration &amp; Communication Operate effectively in a matrixed, international environment Build trusted relationships with global and regional stakeholders Communicate clearly and confidently across technical and non‑technical audiences Your Expertise Required Master’s degree in science, engineering, or another relevant technical discipline 3–5 years of experience in quality systems within the medical device industry (or similarly regulated environment) Strong working knowledge of ISO 13485, FDA 21 CFR Part 820, EU MDD/MDR, MDSAP Experience leading teams or guiding others in a regulated setting Strong communication skills in English and German What Helps You Succeed You balance attention to detail with a pragmatic, solution‑oriented mindset You enjoy developing people and helping teams perform at their best You are comfortable influencing in a matrix organization You value high ethical standards and taking ownership I f you don’t meet every but believe this role is a strong fit for your experience and aspirations, we encourage you to apply</li></ul></div>
 <div class="desc-sec"><div class="desc-sh">What We Offer</div><p class="desc-para">Meaningful work that directly impacts patient lives A stable and growing company in a resilient industry A collaborative, respectful, and international working environment Flat hierarchies with open and transparent communication Opportunities for personal and professional development within Abbott A modern workplace in the center of Zurich, with R&amp;D and manufacturing on site Ready to Apply? We look forward to receiving your application (CV and motivation letter in PDF format). All qualified applicants are encouraged to apply — we value diversity and believe it strengthens our teams and our impact. The base pay for this position is N/A In specific locations, the pay range may vary from the range posted. JOB FAMILY: Operations Quality DIVISION: HF Heart Failure LOCATION: Switzerland : Technoparkstrass 1 CH 8005 ADDITIONAL LOCATIONS: WORK SHIFT: Standard TRAVEL: Yes, 10 % of the Time MEDICAL SURVEILLANCE: Not Applicable SIGNIFICANT WORK ACTIVITIES: Not Applicable</p></div></div>
-  </div>
-  <div class="card-actions">
-    <button class="action-btn action-match" onclick="setJobStatus(this,'matched')">&#8629; Back to Matched</button>
-  </div>
-</div>
-
-<div class="job-card"
-     data-company="Roche"
-     data-score="6"
-     data-date="2026-04-01"
-     data-location="switzerland"
-     data-url="https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Senior-Scientist--Comparative-Digital-Pathology--Computational-Biology-and-Medicine_202601-101410"
-     data-status="ignored"
-     data-text="senior scientist, comparative digital pathology, computational biology and medicine roche digital pathology bioinformatics drug discovery phd computational biology translational research">
-  <div class="card-header">
-    <div class="card-left">
-      <span class="score-badge score-green">+6</span>
-      
-      <span class="job-title">Senior Scientist, Comparative Digital Pathology, Computational Biology and Medicine</span>
-    </div>
-    <a class="open-link" href="https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Senior-Scientist--Comparative-Digital-Pathology--Computational-Biology-and-Medicine_202601-101410" target="_blank" rel="noopener">Open ↗</a>
-  </div>
-  <div class="card-meta">
-    <span class="company">Roche</span>
-    <span class="location">📍 Basel</span>
-    <span class="tag tag-swiss">Switzerland</span>
-    <span class="posted">Posted 2026-04-01</span>
-  </div>
-  <div class="card-keywords">
-    <span class="kw-label kw-plus">+</span><span class="kw-text">digital pathology  bioinformatics  drug discovery  PhD  computational biology  translational research</span>
-    &nbsp;&nbsp;
-    <span class="kw-label kw-minus">−</span><span class="kw-text">(none)</span>
-  </div>
-  <div class="card-desc">
-    <button class="toggle-btn" onclick="toggleDesc(this,5)">▸ Description</button>
-    <div id="desc-more-5" class="desc-structured" hidden><div class="desc-sec"><p class="desc-para">At Roche you can show up as yourself, embraced for the unique qualities you bring. Our culture encourages personal expression, open dialogue, and genuine connections,  where you are valued, accepted and respected for who you are, allowing you to thrive both personally and professionally. This is how we aim to prevent, stop and cure diseases and ensure everyone has access to healthcare today and for generations to come. Join Roche, where every voice matters.</p></div>
-<div class="desc-sec"><div class="desc-sh">About the Role</div><p class="desc-para">A healthier future. It’s what drives us to innovate. To continuously advance science and ensure everyone has access to the healthcare they need today and for generations to come. Creating a world where we all have more time with the people we love. That’s what makes us Roche. In Roche´s Pharma Research and Early Development organisation (pRED), we make transformative medicines for patients in order to tackle some of the world’s toughest unmet healthcare needs. At pRED, we are united by our mission to transform science into medicines. Together, we create a culture defined by curiosity, responsibility and humility, where our talented people are empowered and inspired to bring forward extraordinary life-changing innovation at speed. The Computational Sciences Center of Excellence organisation will enable pRED to become more data-driven, more digitally adept and better prepared for the challenges of the future. Within the Center of Excellence, the Computational Biology and Medicine 9CBM) department focuses on utilising and creating the latest Analytics &amp; AI/ML approaches to improve our understanding of disease, disease progression, and individual patient response to treatment by having access to the largest Pharma R&amp;D datasets in the world. In partnership with our scientists across Roche, we create better medicines by digitally augmenting every part of R&amp;D through our data-driven culture. The Opportunity: This position will ensure that pRED is supported and enabled with world-leading computational biology capabilities.  You will contribute to the BEAT (Biological Exploration and Analytics Technologies) subunit of CBM.  This unit will be responsible for our contribution to the development, optimisation, and standardisation of workflows and advanced analytics approaches for core and emerging technologies in close collaboration with functional units including pRED PS Pathology.  Together with your stakeholders you will contribute with the express aim of developing a competitive advantage for pRED through the application of computational biology to veterinary comparative digital pathology.  Your success is measured by your contribution to the pRED/Pharma goals. Digital pathology is a cornerstone of the ongoing digital revolution in pharmaceutical research. By enabling global collaboration, integrating AI-driven insights, and enhancing efficiency, digital pathology is reshaping how comparative pathologists contribute to drug discovery and development. As a computational scientist, your work would focus on developing and optimizing the technologies that underpin these advancements, ensuring they align with the unique needs of veterinary comparative pathology while driving innovation in pharmaceutical research. In this position you will: Inform data and analytics strategy as a technical expert in collaboration with your primary stakeholders; Co-development and execution of pre-clinical pathology workflows for toxicologic pathology and research pathology to enable cross-species and translational research Represent BEAT as a trusted partner to our wider stakeholder ecosystem. You will follow the broader digital pathology research activities in the Center of Excellence. Commit to fostering an inclusive, purpose-driven, and collegiate workplace with a focus on collective action. Develop collaborative relationships with critical stakeholders to realise and elevate their strategic ambitions. Generate objective, high-value insights that inform and influence a continuously evolving strategy designed to ensure Computational Biology is a competitive advantage for pRED to deliver for the portfolio, and for patients. Provide technical guidance for a strategy for algorithm validation in the context of GLP and health authorities (e.g. FDA) guidelines/regulations; Maintain active awareness of technological and methodological developments to inform and direct strategic capability investment.  Apply cutting edge multimodal approaches, including most recent computer vision technologies. Contribute to the optimisation of digital pathology business processes between digitisation, image management repositories and cloud compute solutions by operating with teams maintaining and developing these systems. Ensure data is reusable in an efficient way, alongside structured and accessible code, documentation, and reporting is essential.  To ensure the traceability, integrity, and validation of the business process.</p></div>
-<div class="desc-sec"><div class="desc-sh">Requirements</div><ul class="desc-list"><li>PhD in a scientific or technical field with 5+ years of experience in pharmaceutical R&amp;D with deep knowledge in bioinformatics and biostatistics, data science, or related field</li><li>You have a deep and diverse understanding of biological profiling technologies, research microscopy, and workflow development</li><li>Knowledge of model species, comparative anatomy, and research applications is required</li><li>Experience in analysis of whole slide images (WSI),  including HE, IHC, ISH, and multiplex, is a benefit Demonstrable evidence of contributing to high-performing and multidisciplinary teams</li><li>You contribute actively to create an inclusive, purpose-driven workplace</li><li>Strong ability to communicate and advise from your domain expertise within a dynamic setting Expertise in using biological data analysis to impact decision-making along the value chain; demonstrated ability to quickly grasp topics, formulate problem statements, and achieve successful outcomes You operate in a process-oriented way with your critical stakeholders in mind</li><li>Toolbox: Image Data Analysis and Optical Signal Processing Expertise in image processing techniques such as noise reduction, segmentation, and feature extraction from microscopy images, including brightfield, fluorescence, confocal, and electron microscopy</li><li>Strong proficiency in Python for data analysis and machine learning (e.g., libraries such as NumPy, SciPy, scikit-learn, TensorFlow, or PyTorch) is essential</li><li>Experience with R or MATLAB for statistical modeling and algorithm development</li><li>Experience with high-performance, parallel computing frameworks for handling large-scale imaging is essential</li><li>Familiarity with image analysis tools such as OpenCV, Fiji/ImageJ, and scikit-image for biological data and experience with commercial tools including Halo AI and Visiopharm AI is of benefit Ability to develop and apply deep learning models, like convolutional neural networks (CNNs), specifically for histopathological image analysis</li><li>Experience with model training for tasks such as tumor/lesion detection, grading, and feature extraction</li><li>Derivation of human interpretable features from WSI using deep learning models Supervised, weakly supervised, and unsupervised machine learning for the automated detection,classification, and quantification of cellular and tissue structures</li><li>Application of graph-based methods to derive relational insights from WSI</li><li>Performance evaluation: reproducibility, accuracy Familiarity with workflow development and optimization in cloud and distributed computational environments Familiarity with systems implemented to manage or migrate digitised slides Unwavering focus, collaborative teamwork, and exceptional delivery are key behaviors that drive our mission of doing now what patients need next</li><li>Together, we can be transformative</li><li>If you are passionate about contributing to a committed team and have the dedication to partnership and innovation, Roche is the place for you! Every role at Roche plays a part in making a difference in patients’ lives</li></ul></div></div>
   </div>
   <div class="card-actions">
     <button class="action-btn action-match" onclick="setJobStatus(this,'matched')">&#8629; Back to Matched</button>
@@ -865,7 +866,7 @@ a { color: inherit; text-decoration: none; }
      data-location="switzerland"
      data-url="https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/Switzerland---Baar/Franchise-Lead-COPD--R-I-Swizerland-_R-246153"
      data-status="ignored"
-     data-text="franchise lead copd (inhaled + biologic portfolio) astrazeneca drug development immunology french">
+     data-text="franchise lead copd (inhaled + biologic portfolio) astrazeneca french immunology drug development">
   <div class="card-header">
     <div class="card-left">
       <span class="score-badge score-blue">+1</span>
@@ -881,7 +882,7 @@ a { color: inherit; text-decoration: none; }
     <span class="posted">Posted 2026-04-01</span>
   </div>
   <div class="card-keywords">
-    <span class="kw-label kw-plus">+</span><span class="kw-text">drug development  immunology  French</span>
+    <span class="kw-label kw-plus">+</span><span class="kw-text">French  immunology  drug development</span>
     &nbsp;&nbsp;
     <span class="kw-label kw-minus">−</span><span class="kw-text">location:Switzerland - Baar</span>
   </div>
@@ -1134,7 +1135,7 @@ a { color: inherit; text-decoration: none; }
      data-location="switzerland"
      data-url="https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Post-Doctorate-Scientist-in-Intestinal-Inflammation---at-the-Institute-of-Human-Biology--IHB-_202603-107400"
      data-status="ignored"
-     data-text="post doctorate scientist in intestinal inflammation - at the institute of human biology (ihb) roche organoid postdoc immunology in vitro phd postdoctoral scrna-seq">
+     data-text="post doctorate scientist in intestinal inflammation - at the institute of human biology (ihb) roche immunology in vitro phd postdoc postdoctoral scrna-seq organoid">
   <div class="card-header">
     <div class="card-left">
       <span class="score-badge score-green">+7</span>
@@ -1150,7 +1151,7 @@ a { color: inherit; text-decoration: none; }
     <span class="posted">Posted 2026-03-30</span>
   </div>
   <div class="card-keywords">
-    <span class="kw-label kw-plus">+</span><span class="kw-text">organoid  Postdoc  immunology  in vitro  PhD  postdoctoral  scRNA-seq</span>
+    <span class="kw-label kw-plus">+</span><span class="kw-text">immunology  in vitro  PhD  Postdoc  postdoctoral  scRNA-seq  organoid</span>
     &nbsp;&nbsp;
     <span class="kw-label kw-minus">−</span><span class="kw-text">(none)</span>
   </div>
@@ -1173,7 +1174,7 @@ a { color: inherit; text-decoration: none; }
      data-location="romandie"
      data-url="https://jobs.smartrecruiters.com/CERN/744000117615032-data-scientist-te-dps-aim-2026-76-grap-?oga=true"
      data-status="ignored"
-     data-text="data scientist (te-dps-aim-2026-76-grap) cern master&#x27;s degree location:geneva phd french">
+     data-text="data scientist (te-dps-aim-2026-76-grap) cern french master&#x27;s degree phd location:geneva">
   <div class="card-header">
     <div class="card-left">
       <span class="score-badge score-green">+7</span>
@@ -1189,7 +1190,7 @@ a { color: inherit; text-decoration: none; }
     <span class="posted">Posted 2026-03-30</span>
   </div>
   <div class="card-keywords">
-    <span class="kw-label kw-plus">+</span><span class="kw-text">Master&#x27;s degree  location:geneva  PhD  French</span>
+    <span class="kw-label kw-plus">+</span><span class="kw-text">French  Master&#x27;s degree  PhD  location:geneva</span>
     &nbsp;&nbsp;
     <span class="kw-label kw-minus">−</span><span class="kw-text">(none)</span>
   </div>
@@ -1211,7 +1212,7 @@ a { color: inherit; text-decoration: none; }
      data-location="romandie"
      data-url="https://jobs.smartrecruiters.com/CERN/744000117610379-data-scientist-te-dps-aim-2026-75-grap-?oga=true"
      data-status="ignored"
-     data-text="data scientist (te-dps-aim-2026-75-grap) cern master&#x27;s degree location:geneva phd french">
+     data-text="data scientist (te-dps-aim-2026-75-grap) cern french master&#x27;s degree phd location:geneva">
   <div class="card-header">
     <div class="card-left">
       <span class="score-badge score-green">+7</span>
@@ -1227,7 +1228,7 @@ a { color: inherit; text-decoration: none; }
     <span class="posted">Posted 2026-03-30</span>
   </div>
   <div class="card-keywords">
-    <span class="kw-label kw-plus">+</span><span class="kw-text">Master&#x27;s degree  location:geneva  PhD  French</span>
+    <span class="kw-label kw-plus">+</span><span class="kw-text">French  Master&#x27;s degree  PhD  location:geneva</span>
     &nbsp;&nbsp;
     <span class="kw-label kw-minus">−</span><span class="kw-text">(none)</span>
   </div>
@@ -1286,7 +1287,7 @@ a { color: inherit; text-decoration: none; }
      data-location="switzerland"
      data-url="https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Senior-Scientist--Translational-Medicine-Oncology--Hematology-_202603-107538-1"
      data-status="ignored"
-     data-text="senior scientist, translational medicine oncology (hematology) roche bioinformatics molecular biology biomarker strategy immunology phd drug development post-doctoral post-doc translational medicine preclinical oncology translational research">
+     data-text="senior scientist, translational medicine oncology (hematology) roche bioinformatics immunology post-doctoral phd translational medicine preclinical translational research post-doc molecular biology biomarker strategy drug development oncology">
   <div class="card-header">
     <div class="card-left">
       <span class="score-badge score-green">+12</span>
@@ -1302,7 +1303,7 @@ a { color: inherit; text-decoration: none; }
     <span class="posted">Posted 2026-03-26</span>
   </div>
   <div class="card-keywords">
-    <span class="kw-label kw-plus">+</span><span class="kw-text">bioinformatics  molecular biology  biomarker strategy  immunology  PhD  drug development  post-doctoral  Post-doc  translational medicine  preclinical  oncology  translational research</span>
+    <span class="kw-label kw-plus">+</span><span class="kw-text">bioinformatics  immunology  post-doctoral  PhD  translational medicine  preclinical  translational research  Post-doc  molecular biology  biomarker strategy  drug development  oncology</span>
     &nbsp;&nbsp;
     <span class="kw-label kw-minus">−</span><span class="kw-text">(none)</span>
   </div>
@@ -1402,7 +1403,7 @@ a { color: inherit; text-decoration: none; }
      data-location="romandie"
      data-url="https://job-boards.greenhouse.io/isomorphiclabs/jobs/5741392004"
      data-status="ignored"
-     data-text="team / research leader (translational oncology), london, lausanne isomorphic labs organoid drug discovery pharmacology cancer biology in vivo phd tumor microenvironment preclinical computational biology translational medicine location:lausanne oncology">
+     data-text="team / research leader (translational oncology), london, lausanne isomorphic labs computational biology phd translational medicine cancer biology tumor microenvironment pharmacology drug discovery preclinical location:lausanne oncology in vivo organoid">
   <div class="card-header">
     <div class="card-left">
       <span class="score-badge score-green">+15</span>
@@ -1418,7 +1419,7 @@ a { color: inherit; text-decoration: none; }
     <span class="posted">Posted 2026-03-20</span>
   </div>
   <div class="card-keywords">
-    <span class="kw-label kw-plus">+</span><span class="kw-text">organoid  drug discovery  pharmacology  Cancer Biology  in vivo  PhD  tumor microenvironment  preclinical  computational biology  translational medicine  location:lausanne  oncology</span>
+    <span class="kw-label kw-plus">+</span><span class="kw-text">computational biology  PhD  translational medicine  Cancer Biology  tumor microenvironment  pharmacology  drug discovery  preclinical  location:lausanne  oncology  in vivo  organoid</span>
     &nbsp;&nbsp;
     <span class="kw-label kw-minus">−</span><span class="kw-text">(none)</span>
   </div>
@@ -1483,7 +1484,7 @@ a { color: inherit; text-decoration: none; }
      data-location="romandie"
      data-url="https://job-boards.greenhouse.io/isomorphiclabs/jobs/5741351004"
      data-status="ignored"
-     data-text="team / research leader, computational drug design, london, lausanne isomorphic labs drug discovery location:lausanne phd">
+     data-text="team / research leader, computational drug design, london, lausanne isomorphic labs location:lausanne drug discovery phd">
   <div class="card-header">
     <div class="card-left">
       <span class="score-badge score-green">+6</span>
@@ -1499,7 +1500,7 @@ a { color: inherit; text-decoration: none; }
     <span class="posted">Posted 2026-03-20</span>
   </div>
   <div class="card-keywords">
-    <span class="kw-label kw-plus">+</span><span class="kw-text">drug discovery  location:lausanne  PhD</span>
+    <span class="kw-label kw-plus">+</span><span class="kw-text">location:lausanne  drug discovery  PhD</span>
     &nbsp;&nbsp;
     <span class="kw-label kw-minus">−</span><span class="kw-text">(none)</span>
   </div>
@@ -1836,7 +1837,7 @@ Benchling welcomes everyone</li><li>We believe diversity enriches our team so we
      data-location="switzerland"
      data-url="https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Senior-Scientist---Mucosal-Immunology_202602-103270-2"
      data-status="ignored"
-     data-text="senior scientist - mucosal immunology roche drug discovery pharmacology immunology phd post-doctoral post-doc preclinical translational research">
+     data-text="senior scientist - mucosal immunology roche immunology post-doctoral phd preclinical pharmacology drug discovery post-doc translational research">
   <div class="card-header">
     <div class="card-left">
       <span class="score-badge score-green">+8</span>
@@ -1852,7 +1853,7 @@ Benchling welcomes everyone</li><li>We believe diversity enriches our team so we
     <span class="posted">Posted 2026-03-09</span>
   </div>
   <div class="card-keywords">
-    <span class="kw-label kw-plus">+</span><span class="kw-text">drug discovery  pharmacology  immunology  PhD  post-doctoral  Post-doc  preclinical  translational research</span>
+    <span class="kw-label kw-plus">+</span><span class="kw-text">immunology  post-doctoral  PhD  preclinical  pharmacology  drug discovery  Post-doc  translational research</span>
     &nbsp;&nbsp;
     <span class="kw-label kw-minus">−</span><span class="kw-text">(none)</span>
   </div>
@@ -1876,7 +1877,7 @@ Benchling welcomes everyone</li><li>We believe diversity enriches our team so we
      data-location="switzerland"
      data-url="https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Non-Malignant-Hematology-in-vitro-in-vivo-Scientist-1-year-temporary-contract_202602-102662-1"
      data-status="ignored"
-     data-text="non-malignant hematology in vitro/in vivo scientist_1 year temporary contract roche molecular biology drug discovery pharmacology in vivo immunology in vitro phd preclinical">
+     data-text="non-malignant hematology in vitro/in vivo scientist_1 year temporary contract roche immunology in vitro phd preclinical pharmacology drug discovery molecular biology in vivo">
   <div class="card-header">
     <div class="card-left">
       <span class="score-badge score-green">+8</span>
@@ -1892,7 +1893,7 @@ Benchling welcomes everyone</li><li>We believe diversity enriches our team so we
     <span class="posted">Posted 2026-03-09</span>
   </div>
   <div class="card-keywords">
-    <span class="kw-label kw-plus">+</span><span class="kw-text">molecular biology  drug discovery  pharmacology  in vivo  immunology  in vitro  PhD  preclinical</span>
+    <span class="kw-label kw-plus">+</span><span class="kw-text">immunology  in vitro  PhD  preclinical  pharmacology  drug discovery  molecular biology  in vivo</span>
     &nbsp;&nbsp;
     <span class="kw-label kw-minus">−</span><span class="kw-text">(none)</span>
   </div>
@@ -1915,7 +1916,7 @@ Benchling welcomes everyone</li><li>We believe diversity enriches our team so we
      data-location="switzerland"
      data-url="https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Switzerland---Basel/Senior-Manager-HEOR_31134799"
      data-status="ignored"
-     data-text="senior manager heor abbott immunology oncology msc phd">
+     data-text="senior manager heor abbott oncology immunology msc phd">
   <div class="card-header">
     <div class="card-left">
       <span class="score-badge score-lime">+4</span>
@@ -1931,7 +1932,7 @@ Benchling welcomes everyone</li><li>We believe diversity enriches our team so we
     <span class="posted">Posted 2026-03-09</span>
   </div>
   <div class="card-keywords">
-    <span class="kw-label kw-plus">+</span><span class="kw-text">immunology  oncology  MSc  PhD</span>
+    <span class="kw-label kw-plus">+</span><span class="kw-text">oncology  immunology  MSc  PhD</span>
     &nbsp;&nbsp;
     <span class="kw-label kw-minus">−</span><span class="kw-text">(none)</span>
   </div>
@@ -1992,7 +1993,7 @@ Benchling welcomes everyone</li><li>We believe diversity enriches our team so we
      data-location="switzerland"
      data-url="https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Post-Doctorate-Scientist--Organoid-Systems-Biology----Institute-of-Human-Biology_202602-104574-1"
      data-status="ignored"
-     data-text="post doctorate scientist (organoid systems biology) - institute of human biology roche organoid molecular biology">
+     data-text="post doctorate scientist (organoid systems biology) - institute of human biology roche molecular biology organoid">
   <div class="card-header">
     <div class="card-left">
       <span class="score-badge score-blue">+2</span>
@@ -2008,7 +2009,7 @@ Benchling welcomes everyone</li><li>We believe diversity enriches our team so we
     <span class="posted">Posted 2026-03-09</span>
   </div>
   <div class="card-keywords">
-    <span class="kw-label kw-plus">+</span><span class="kw-text">organoid  molecular biology</span>
+    <span class="kw-label kw-plus">+</span><span class="kw-text">molecular biology  organoid</span>
     &nbsp;&nbsp;
     <span class="kw-label kw-minus">−</span><span class="kw-text">(none)</span>
   </div>
@@ -2224,7 +2225,7 @@ Benchling welcomes everyone</li><li>We believe diversity enriches our team so we
      data-location="romandie"
      data-url="https://jobs.smartrecruiters.com/CERN/744000080108845-non-member-state-postdoc-fellowship-programme-theoretical-physics-?oga=true"
      data-status="ignored"
-     data-text="non-member state postdoc fellowship programme (theoretical physics) cern postdoctoral location:geneva postdoc">
+     data-text="non-member state postdoc fellowship programme (theoretical physics) cern postdoc postdoctoral location:geneva">
   <div class="card-header">
     <div class="card-left">
       <span class="score-badge score-green">+6</span>
@@ -2240,7 +2241,7 @@ Benchling welcomes everyone</li><li>We believe diversity enriches our team so we
     <span class="posted">Posted 2025-09-05</span>
   </div>
   <div class="card-keywords">
-    <span class="kw-label kw-plus">+</span><span class="kw-text">postdoctoral  location:geneva  Postdoc</span>
+    <span class="kw-label kw-plus">+</span><span class="kw-text">Postdoc  postdoctoral  location:geneva</span>
     &nbsp;&nbsp;
     <span class="kw-label kw-minus">−</span><span class="kw-text">(none)</span>
   </div>
@@ -2371,7 +2372,7 @@ Benchling welcomes everyone</li><li>We believe diversity enriches our team so we
      data-location="switzerland"
      data-url="https://careers.idorsia.com/job/Allschwil%2C-Basel-Area-Global-Regulatory-Lead-BL/1378499733/"
      data-status="ignored"
-     data-text="global regulatory lead idorsia master&#x27;s degree drug discovery drug development">
+     data-text="global regulatory lead idorsia master&#x27;s degree drug development drug discovery">
   <div class="card-header">
     <div class="card-left">
       <span class="score-badge score-lime">+3</span>
@@ -2387,7 +2388,7 @@ Benchling welcomes everyone</li><li>We believe diversity enriches our team so we
     
   </div>
   <div class="card-keywords">
-    <span class="kw-label kw-plus">+</span><span class="kw-text">Master&#x27;s degree  drug discovery  drug development</span>
+    <span class="kw-label kw-plus">+</span><span class="kw-text">Master&#x27;s degree  drug development  drug discovery</span>
     &nbsp;&nbsp;
     <span class="kw-label kw-minus">−</span><span class="kw-text">(none)</span>
   </div>
@@ -2409,7 +2410,7 @@ Benchling welcomes everyone</li><li>We believe diversity enriches our team so we
      data-location="switzerland"
      data-url="https://careers.idorsia.com/job/Allschwil%2C-Basel-Area-Drug-Safety-Scientist-BL/1371651833/"
      data-status="ignored"
-     data-text="drug safety scientist idorsia clinical pharmacology medical affairs drug discovery pharmacology">
+     data-text="drug safety scientist idorsia medical affairs pharmacology drug discovery clinical pharmacology">
   <div class="card-header">
     <div class="card-left">
       <span class="score-badge score-lime">+4</span>
@@ -2425,7 +2426,7 @@ Benchling welcomes everyone</li><li>We believe diversity enriches our team so we
     
   </div>
   <div class="card-keywords">
-    <span class="kw-label kw-plus">+</span><span class="kw-text">clinical pharmacology  medical affairs  drug discovery  pharmacology</span>
+    <span class="kw-label kw-plus">+</span><span class="kw-text">medical affairs  pharmacology  drug discovery  clinical pharmacology</span>
     &nbsp;&nbsp;
     <span class="kw-label kw-minus">−</span><span class="kw-text">(none)</span>
   </div>
@@ -2447,7 +2448,7 @@ Benchling welcomes everyone</li><li>We believe diversity enriches our team so we
      data-location="switzerland"
      data-url="https://careers.idorsia.com/job/Basel-Senior-Technical-Regulatory-Affairs-Manager-BS/1372172333/"
      data-status="ignored"
-     data-text="senior technical regulatory affairs manager idorsia drug discovery msc phd">
+     data-text="senior technical regulatory affairs manager idorsia msc phd drug discovery">
   <div class="card-header">
     <div class="card-left">
       <span class="score-badge score-lime">+3</span>
@@ -2463,7 +2464,7 @@ Benchling welcomes everyone</li><li>We believe diversity enriches our team so we
     
   </div>
   <div class="card-keywords">
-    <span class="kw-label kw-plus">+</span><span class="kw-text">drug discovery  MSc  PhD</span>
+    <span class="kw-label kw-plus">+</span><span class="kw-text">MSc  PhD  drug discovery</span>
     &nbsp;&nbsp;
     <span class="kw-label kw-minus">−</span><span class="kw-text">(none)</span>
   </div>
@@ -3068,7 +3069,7 @@ Benchling welcomes everyone</li><li>We believe diversity enriches our team so we
      data-location="switzerland"
      data-url="https://jobs.ashbyhq.com/benchling/33b3deda-15df-442f-be7f-c01552906791"
      data-status="applied"
-     data-text="implementation manager - bilingual (english/french) benchling bioinformatics molecular biology immunology bilingual french">
+     data-text="implementation manager - bilingual (english/french) benchling french bioinformatics immunology bilingual molecular biology">
   <div class="card-header">
     <div class="card-left">
       <span class="score-badge score-lime">+5</span>
@@ -3084,7 +3085,7 @@ Benchling welcomes everyone</li><li>We believe diversity enriches our team so we
     <span class="posted">Posted 2026-03-17</span>
   </div>
   <div class="card-keywords">
-    <span class="kw-label kw-plus">+</span><span class="kw-text">bioinformatics  molecular biology  immunology  bilingual  French</span>
+    <span class="kw-label kw-plus">+</span><span class="kw-text">French  bioinformatics  immunology  bilingual  molecular biology</span>
     &nbsp;&nbsp;
     <span class="kw-label kw-minus">−</span><span class="kw-text">(none)</span>
   </div>
