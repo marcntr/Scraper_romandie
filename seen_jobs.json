@@ -521,7 +521,7 @@
     "title": "Vice President, Regulatory Affairs, Europe and International",
     "company": "BeiGene",
     "location": "Basel",
-    "posted_date": "2026-04-01",
+    "posted_date": "2026-03-31",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -537,7 +537,7 @@
     "title": "Scientist Microbiological Quality Control",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-03-14",
+    "posted_date": "2026-03-13",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -573,11 +573,6 @@
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000114573028-electronics-technician-ep-ese-be-2026-69-grae-?oga=true",
     "status": "matched"
   },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000114384757": {
-    "description": "Introduction You will contribute to the Future Circular Collider (FCC)—the organisation’s next flagship project—by overseeing and coordinating the environmental evaluation studies required for the authorisation process, including the environmental impact assessments for a new cross-border particle accelerator project, in accordance with French and Swiss regulatory requirements. This includes managing and monitoring contracts with consulting firms. Functions Ensure technical and administrative coordination between the appointed consulting firms and guarantee the overall consistency of the environmental evaluation for both France and Switzerland. Ensure regulatory compliance of the environmental evaluation study in accordance with the French Environmental Code and Swiss legislation on environmental impact assessments (EIE). Organise and chair follow-up technical committees with experts and ensure the traceability of decisions. Contribute to the multi-criteria impact analysis, as well as the integration of avoidance, reduction and compensation measures. Seek and integrate the feedback of the French and Swiss authorities technically involved on the project. Monitor the schedule, budget and deliverables, ensuring the quality of the produced documents. Share knowledge, inform and proactively raise awareness among the Project Office and CERN management on the public concerns.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000114384757-environmental-engineer-environmental-impact-assessment-hse-env-ec-2026-59-ld-?oga=true",
-    "status": "matched"
-  },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000114407563": {
     "description": "Welcome to the Marie Sklodowska-Curie Actions As a recent graduate from university or advanced technical institute, you’re no doubt looking for the chance to make your mark. Here it is: we seek lively and inquiring minds with a heightened sense of curiosity to take part in projects of advanced development work, in a broad range of applied sciences and engineering fields. Marie Sklodowska-Curie Actions train young researchers, building the careers of tomorrow’s leaders in research and industry. What could be a better boost for your career than becoming an Early Career Stage Researcher in an Innovative Training Networks project within the framework of the prestigious Marie Sklodowska-Curie programs? The chosen candidate will during the time at CERN work on ion beam developments and techniques for the production and characterization of radioactive anions for the ISOLDE facility ( https://isolde.web.cern.ch ). The holder will contribute to the development of techniques to efficiently produce negative ions from radioactive species at ISOLDE through work in the offline laboratory, and will also participate in online experiments for their characterization. During the year at University of Gothenburg the student will join the Laser spectroscopy research  group” ( https://www.physics.gu.se/ english / research / laser spectroscopy) led by professor Dag Hanstorp.  Here the holder of the position will take courses, get basic training in laser and ion beam technologies and participate in research on photodetachment of negative ions.",
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000114407563-1-marie-curie-phd-position-in-physics-applications-of-negative-ions-panions-?oga=true",
@@ -586,11 +581,6 @@
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000114308507": {
     "description": "Introduction You will work at the interface between electronics development and operations, contributing to the full lifecycle of electronic boards and test equipment used in CERN’s large-scale power converter systems. Working closely with multidisciplinary teams, you will help ensure that electronic systems are reliable, testable, maintainable and well documented. You will also contribute to continuous improvement of testing methods, quality processes and long-term sustainability of electronic assets. Functions Design and develop analogue and digital electronics for production and repair test fixtures, from schematics and printed circuit board (PCB) layouts, ensuring compatibility with software and firmware. Be responsible for the full lifecycle of test equipment, ensuring high availability and maintaining complete technical documentation. Contribute to design for repairability and testability by analysing failure modes, sharing findings, and collaborating with development teams to integrate test and repair requirements into future designs. Act as technical point of contact for external repair teams, supporting and performing repair operations, organising activities and defining priorities to ensure long-term reliability of electronic assets. After appropriate training, you will also join our stand-by team, participating in interventions on operational power converters.",
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000114308507-electronics-technical-engineer-sy-epc-oms-2026-58-ld-?oga=true",
-    "status": "matched"
-  },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000113995977": {
-    "description": "Introduction You will contribute to showcasing CERN’s impact on society by supporting the implementation of the Procurement communication strategy. Through engaging digital content and media, you will help strengthen outreach to industry and stakeholders while enhancing the Procurement Service’s online presence. Functions Contribute to the implementation of the communication policy, with a particular focus on outreach to industry. Create and produce high-quality communication content across multiple formats (presentations, reports, articles, videos, brochures and social media) for internal and external audiences. Maintain the Procurement website (WordPress), ensuring content remains accurate, engaging and up to date. Strengthen the Procurement Service’s digital presence by supporting communication campaigns and managing social media channels. Prepare and conduct surveys and analyse results to assess and highlight CERN’s impact on industry.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000113995977-communication-support-officer-procurement-ipt-pi-se-2026-57-ld-?oga=true",
     "status": "matched"
   },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000112847851": {
@@ -708,11 +698,6 @@
     ],
     "cached_at": "2026-04-04"
   },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000115851447": {
-    "description": "In this role, you will operate, monitor and continuously improve the large-scale workflow management system that processes data for the CMS experiment at the Large Hadron Collider. You will oversee central production and validation workflows across a global distributed computing infrastructure, investigating and resolving issues to ensure efficient and reliable data processing. Through this work, you will contribute to the stability and future development of the experiments high-throughput computing operations. Your responsibilities Monitor workflow progress, investigate and triage stuck and failed workflows. Adjust the workflow management system to changed needs. Setup and configure processing agents and deploy micro-services. Maintain, improve, and develop the current workflow management system further. Communicate workflow issues and report workflow status at coordination meetings. Your profile Knowledge of Linux and shells. Knowledge of shell scripting and Python. Experience of web technologies, particularly React and FastAPI is a plus. Experiences with containers, Kubernetes, git, and continuous integration is a plus. Experience with ticketing systems and computing service support is a plus. Skills Ability to learn quickly and embrace the devops culture. Ability to strive in a multi-cultural environment. Excellent communication skills. Spoken and written English, with a commitment to learn French. Eligibility criteria: You are a national of a CERN Member or Associate Member State . By the application deadline, you have a maximum of two years of professional experience since graduation in Computer Science or Engineering (or a related field) and your highest educational qualification is either a Bachelor's or Master's degree . You have never had a CERN fellow or graduate contract before. Applicants without University degree are not eligible. Applicants with a PhD are not eligible.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000115851447-computing-devops-engineer-ep-cms-2026-77-grae-?oga=true",
-    "status": "matched"
-  },
   "_generic:Release Therapeutics": {
     "keywords": "npp"
   },
@@ -819,7 +804,7 @@
     "title": "Associate Director, Senior International Clinical Trial Regulatory Lead",
     "company": "Takeda",
     "location": "Zurich, Switzerland",
-    "posted_date": "2026-03-24",
+    "posted_date": "2026-03-23",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -913,7 +898,7 @@
     "title": "Senior Scientist, Translational Medicine Oncology (Hematology)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-03-27",
+    "posted_date": "2026-03-26",
     "department": "",
     "score": 12,
     "matched_keywords": [
@@ -1131,7 +1116,7 @@
     "title": "Post Doctorate Scientist in Intestinal Inflammation - at the Institute of Human Biology (IHB)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-03-31",
+    "posted_date": "2026-03-30",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -1197,7 +1182,7 @@
     "title": "Partnering and Portfolio Analytics Lead",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-01",
+    "posted_date": "2026-03-31",
     "department": "",
     "score": -1,
     "matched_keywords": [
@@ -1214,7 +1199,7 @@
     "title": "Senior Scientist, Material Qualification & Release (QC GMP)",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-04-01",
+    "posted_date": "2026-03-31",
     "department": "",
     "score": -1,
     "matched_keywords": [
@@ -1256,7 +1241,7 @@
     "title": "Associate Scientist in Analytical Development for Synthetic Molecules",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-02",
+    "posted_date": "2026-04-01",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1272,7 +1257,7 @@
     "title": "Scientist – QC Lab Systems & CSV (GMP)",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-04-02",
+    "posted_date": "2026-04-01",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -1287,7 +1272,7 @@
     "title": "Senior Scientist – Manufacturing Science & Technology (Biologics USP/DSP)",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-04-02",
+    "posted_date": "2026-04-01",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -1305,7 +1290,7 @@
     "title": "Scientist Bio-/Chemical Quality Control",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-04-02",
+    "posted_date": "2026-04-01",
     "department": "",
     "score": -1,
     "matched_keywords": [
@@ -1372,7 +1357,7 @@
     "title": "Franchise Lead COPD (Inhaled + Biologic portfolio)",
     "company": "AstraZeneca",
     "location": "Switzerland - Baar",
-    "posted_date": "2026-04-02",
+    "posted_date": "2026-04-01",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1383,16 +1368,6 @@
     "deducted_keywords": [
       "location:Switzerland - Baar"
     ]
-  },
-  "/job/Basel-City/Principal-Scientist-I-or-II----PK-Sciences-Therapeutic-Areas_REQ-10073942-2": {
-    "description": "Job Description Summary We are seeking an enthusiastic and motivated PK Sciences project team representative to develop and implement translational or clinical pharmacology strategies to support the pursuit of transformative new medicines through late clinical development. Our unique organizational structure enables colleagues to work seamlessly in the translational and/or clinical space, offering opportunities for development and bench-to-bedside-to-bench translation. Experience in late discovery into clinical development is preferred. The scope of the role potentially includes small molecules, biologics/therapeutic proteins, antibody drug-conjugates, radioligand therapies and/or cell therapies across major therapeutic areas in Novartis, including oncology, immunology, cardiovascular renal metabolism, neuroscience, and global health. This position drives close interdisciplinary collaboration among the PK Science disciplines, Drug Disposition (ADME, BA), Modeling & Simulation (M&S), and Operations through PK science sub-teams to achieve a holistic and integrative perspective of the ADME/clinical pharmacology properties of candidates and drugs. Collaborates effectively with broader, cross‑disciplinary project teams to ensure PKS strategies are well integrated into project plans and scientific discussions. Job Description #LI_Hybrid Location: Basel, Switzerland Key responsibilities: •    Represent the PK Sciences function in project teams, interactions with stakeholders within the organization and interactions with regulatory agencies, as appropriate •    Proactively contributes to developing drug candidates across Research Development and Commercial continuum, providing expert pharmacokinetic / drug metabolism and clinical pharmacology input •    Work with teams to elucidate the understanding of PK/PD relationships and develop dosing strategies and predictions •    Develop and execute clinical pharmacology strategies, including input into nonclinical and clinical study design, and analyzing PK and PK/PD data, to support compound development from discovery through late development •    Provide PK, dosage, and PK/PD components of study protocols, reports, project summaries and development plans, and author pharmacokinetic/clinical pharmacology/biopharmaceutics sections of IND/IMPDs and NDA/BLAs as well as prepare appropriate responses to Health Authority questions •    Drive close interdisciplinary collaboration among the PK Science disciplines, Drug Disposition (ADME, BA), Modeling & Simulation (M&S), through PK science sub-teams. •    Works in close collaboration with clinicians and clinical development colleagues to integrate PKS insights into study design, data interpretation, and project decision‑making •    Use of Artificial intelligence (AI) / Machine Learning (ML) approaches to enable model guided molecular design, preclinical and clinical data automation, authoring regulatory documents, and the use of predictive models This role reports to Therapeutic Area group in PK Sciences within Translational Medicine (TM) in Biomedical Research. PKS is a global organization situated within Translational Medicine (TM), the clinical research arm of Biomedical Research within Novartis. PK Sciences plays a pivotal role in bringing innovative medicines to patients, by building on research advances to develop new therapies, bridging drug discovery and clinical application. PK Science is an enterprise-wide organization, working across both Biomedical Research and the Development organizations to advance the scientific knowledge of pharmacokinetics, metabolism and clinical pharmacology. Essential requirements: •    Ph.D. / Pharm.D. with relevant experience in clinical pharmacology, drug metabolism and pharmacokinetics or a related background. •    A minimum of 0-2 years of experience in drug discovery and/or development in a relevant environment (academia, CRO, biotech or Pharma). 2+ years of experience preferably in a lead role overseeing ADME/DMPK project strategy, either in discovery or clinical development to be considered for Principal Scientist II •    Extensive and in-depth knowledge of pharmacokinetics including, drug metabolism and PK/PD evaluation, experience in working in project teams (preferably global) as well as sound awareness of recent developments in drug development and regulatory sciences. •    Exposure to working in a cross-functional, matrixed, project-team environment. •    Strong oral and written communication skills. Desirable Requirements: •    Hands-on project experience with Artificial intelligence (AI) / Machine Learning (ML) approaches is a plus Leadership / Novartis Behaviors in Action •    Delivers results through disciplined execution, continuous improvement, and a strong focus on value and outcomes. •    Demonstrates an enterprise mindset and strong ownership by prioritizing resources and decisions for maximum Novartis and patient impact. •    Role models Novartis leadership behaviors through visible actions, continuous self reflection, and openness to feedback •    Builds trust through transparent communication, clear accountability, and consistent delivery against commitments. AI fluency: •    Brings strong AI and digital fluency, using enterprise tools to enhance insight generation, decision making, and team productivity. **This is a dual level posting. The final level & title of the offer role would be determined by the hiring team based on the skills, experience & capabilities required to perform the role at the level the role has been offered. Skills Desired Chemistry, Clinical Pharmacology, Clinical Research, Drug Discovery, Initiative, Medical Research, Patient Care, Physiology, Quality Control, R&D (Research And Development), Simulation Software, Translational Medicine",
-    "external_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Basel-City/Principal-Scientist-I-or-II----PK-Sciences-Therapeutic-Areas_REQ-10073942-2",
-    "status": "matched"
-  },
-  "/job/Basel-City/Senior-Principal-Scientist-Associate-Director--PK-Sciences_REQ-10073941-1": {
-    "description": "Job Description Summary We are seeking an enthusiastic and motivated PK Sciences project team representative to develop and implement translational or clinical pharmacology strategies to support the pursuit of transformative new medicines through late clinical development. Our unique organizational structure enables colleagues to work seamlessly in the translational and/or clinical space, offering opportunities for development and bench-to-bedside-to-bench translation. Experience in late discovery and/or clinical area is preferred. The scope of the role potentially includes small molecules, biologics/therapeutic proteins, antibody drug-conjugates, radioligand therapies and/or cell therapies across major therapeutic areas in Novartis, including oncology, immunology, cardiovascular renal metabolism, neuroscience, and global health. This position drives close interdisciplinary collaboration among the PK Science disciplines, Drug Disposition (ADME, BA), Modeling & Simulation (M&S), and Operations through PK science sub-teams to achieve a holistic and integrative perspective of the ADME/clinical pharmacology properties of candidates and drugs Job Description #LI_Hybrid Location: Basel, Switzerland Key Responsibilities: •    Independently represent the PK Sciences function in cross-functional project teams, interactions with stakeholders within the organization and interactions with regulatory agencies, as appropriate •    Lead a PK Science Subteam with interdisciplinary representation of the major functions from within PK Science and beyond •    Ensures implementation of project strategies and monitors timelines, objectives, and budgets for assigned projects •    Present projects at various institutional review and approval boards •    Proactively contributes to developing drug candidates across Research Development and Commercial continuum, providing expert pharmacokinetic / drug metabolism and clinical pharmacology input •    Develop and execute clinical pharmacology strategies, including input into nonclinical and clinical study design, and analyzing PK and PK/PD data, to support compound development from discovery through late development •    Provide PK, dosage, PK/PD and M&S component of study protocols, reports, project summaries and development plans, and author pharmacokinetic/clinical pharmacology/biopharmaceutics sections/radiation dosimetry of IND/IMPDs and NDA/BLAs as well as prepare appropriate responses to global Health Authority questions •    Use of Artificial intelligence (AI) / Machine Learning (ML) approaches to enable model guided molecular design, preclinical and clinical data automation, authoring regulatory documents, and the use of predictive models •    Is a mentor to or manages junior associates in the organization This role reports to Therapeutic Area Head in PK Sciences within Translational Medicine (TM) in Biomedical Research. PKS is a global organization situated within Translational Medicine (TM), the clinical research arm of Biomedical Research within Novartis. PK Sciences plays a pivotal role in bringing innovative medicines to patients, by building on research advances to develop new therapies, bridging drug discovery and clinical application. PK Science is an enterprise-wide organization, working across both Biomedical Research and the Development organizations to advance the scientific knowledge of pharmacokinetics, metabolism and clinical pharmacology. Essential Requirements: •    Ph.D. / Pharm.D. with relevant experience •    Preferred candidates will have a minimum of 5+ yrs at the Senior Principal Scientist Level and 8+ years at the Associate Director level) in clinical pharmacology, drug metabolism and pharmacokinetics or a related background in an industry setting. •    Extensive and in-depth knowledge of pharmacokinetics including, drug metabolism and PK/PD evaluation, experience in working in project teams (preferably global) as well as sound awareness of recent developments in drug development and regulatory sciences. •    Demonstrated success in working in a cross-functional, matrixed, project-team environment. •    An influential Team player and talented negotiator with strong oral and written communication skills. •    Proven record of mentorship and/or people management Desirable Requirements: •    Hands-on project experience with Artificial intelligence (AI) / Machine Learning (ML) approaches is a plus Leadership / Novartis Behaviors in Action •    Delivers results through disciplined execution, continuous improvement, and a strong focus on value and outcomes. •    Demonstrates an enterprise mindset and strong ownership by prioritizing resources and decisions for maximum Novartis and patient impact. •    Role models Novartis leadership behaviors through visible actions, continuous self reflection, and openness to feedback •    Builds trust through transparent communication, clear accountability, and consistent delivery against commitments. •    Empowers others to innovate and improve while maintaining high scientific, ethical, and operational standards. AI fluency: •    Brings strong AI and digital fluency, using enterprise tools to enhance insight generation, decision making, and team productivity. •    Accountable for the ethical, transparent, and compliant use of AI in line with Novartis AI governance and data protection standards. External eminence: •    Acts as an external thought leader, advancing Novartis’ reputation in translational science and innovation. Operational excellence: •    Drives operational excellence through disciplined execution, continuous improvement, and effective use of resources to maximize PKS and enterprise value. •    Acts as a responsible steward of people, data, and digital capabilities, leveraging AI and automation to improve efficiency, quality, and decision speed. *This is a dual level posting. The final level & title of the offer role would be determined by the hiring team based on the skills, experience & capabilities required to perform the role at the level the role has been offered. Skills Desired Chemistry, Clinical Pharmacology, Clinical Research, Clinical Study Reports, Clinical Trials, Data Entry, Drug Discovery, Due Diligence, Electronic Components, Gene Therapy, Lifesciences, Medical Research, Microsoft Office, Modeling And Simulation, Patient Care, Physics, Translational Medicine, Waterfall Model",
-    "external_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Basel-City/Senior-Principal-Scientist-Associate-Director--PK-Sciences_REQ-10073941-1",
-    "status": "matched"
   },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000118377667": {
     "description": "Introduction: You will lead hands-on research and development activities for the FCC-ee experimental program, focusing on beam-induced backgrounds, machine–detector interface studies, and detector optimisation to achieve the desired systematic uncertainties in precision measurements at the Z pole. The role combines technical leadership with active involvement in simulation, detector development, computing, and experimental validation to advance the design and performance of future FCC detectors. Functions: Carry out and supervise research and development activities on the experimental environment of the future FCC electron–positron collider, with emphasis on beam-induced backgrounds (BIB) and their impact on detector performance, via the integration of realistic background conditions into detector simulation and data reconstruction workflows. Develop scalable workflows and software infrastructure ensuring optimal use of computing resources, to run large-scale and detailed beam-induced background simulations. Interpret the results of these simulations to quantify background sources originating from the accelerator,  assess their effects on particle detectors, readout strategies and data quality, and design and study strategies to mitigate these backgrounds in close collaboration with accelerator experts and detector designers. Develop methods to determine key limiting parameters directly from experimental data, towards enabling high-precision physics measurements at FCC-ee, including the definition of requirements for detector alignment, stability, and calibration needed to reach the targeted measurement precision. Contribute to the design and development of FCC-ee detector technologies, including hands-on work on prototypes, laboratory measurements and test-beam experiments, fostering collaboration between physicists, engineers, and software specialists. Present results in internal meetings, international workshops, and scientific conferences, and contribute to scientific publications and technical reports.",
@@ -1428,7 +1403,7 @@
     "title": "PTD Synthetic Molecules ADQC - Analytical Scientist in the Lab  (2 year fixed term contract)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-03",
+    "posted_date": "2026-04-02",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1441,7 +1416,7 @@
     "title": "Manager Quality System & Regulatory Compliance",
     "company": "Abbott",
     "location": "Switzerland - Zurich",
-    "posted_date": "2026-04-03",
+    "posted_date": "2026-04-02",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1605,11 +1580,6 @@
   "_generic:Oculis": {
     "keywords": "npp"
   },
-  "/job/Basel-City/Principal-Scientist---Translational-Intestinal-Immunology--80-100---_REQ-10074527-1": {
-    "description": "Job Description Summary Location: Basel, Switzerland Full time, onsite, #LI-Onsite In the Immunology group in Biomedical Research, We are developing the next generation of medicines for inflammatory bowel disease with the ambition to transform the lives of patients. This is an opportunity for you to bring your scientific talent and curiosity into a highly collaborative, interdisciplinary environment, where your work will turn complex human data into actionable therapy-relevant insights in a competitive and dynamic field. Job Description The Translational Inflammatory Bowel Disease (IBD) lab is integrated in the Immunology Research Disease Area and will accelerate target discovery and positioning of therapeutic compounds for IBD (Ulcerative Colitis, Crohn’s disease). To lead the lab research activities, we are looking for a scientist who has a strong background in mechanistic translational research in mucosal immunology. If you are passionate about the molecular basis of IBD and compound mode of action at the interface of preclinical and clinical research, we want you on our team. Key Responsibilities Design and execute mechanistic experiments hands-on , to link human disease biology to druggable targets within and beyond the immune system, and to accelerate preclinical compound development, strengthen understanding of drug modes of action, differentiate novel drugs to standard-of care treatment. Leverage human biosamples (e.g. blood, intestinal biopsies) to generate decision-making data and position candidate molecules for clinical trials (target validation, MoA studies, biomarker strategy). Partner closely with early clinical teams (Biomarker Development, Translational Medicine) to test clinical hypotheses for early clinical strategies (e.g. patient stratification). Champion data-driven target discovery , in collaboration with data scientists, in vivo biology labs and other groups in Novartis Biomedical Research to connect quantitative methods (e.g. ex vivo analyses, transcriptomics) to patient heterogeneity and outcomes. Drive a culture of collaboration , talent development and integrity. Minimum Requirements Ideally PhD or MD qualified in Mucosal Immunology, Gastroenterology, Barrier Immunology (skin/lung/intestine), or a related field with a strong track record of peer-reviewed publications. At least 3 years of relevant translational research expertise in an interdisciplinary setting in academia or industry, bridging clinical and preclinical evidence Hands-on mastery of routine immunological/ cell biology/ molecular biology assays (e.g. multi-parametric flow cytometry) and in vitro human models relevant to IBD and mucosal immunity (e.g. primary immune/epithelial cells, slice cultures). Proven ability to conduct experiments using in vitro human systems and biosamples (e.g., PBMCs, primary immune/epithelial cells, tissue explants), including sample-tracking best practices and consent/ethics). Experienced in collaboration with data scientists , ensuring high quality experimental design and reproducibility. Proven track record of completing projects on schedule in view of narrow timelines Additional Requirements Prior experience mentoring junior researchers would be an advantage Experience contributing to drug discovery programs in biotech/pharma or translational academic/clinical setting (e.g. in vitro pharmacology, biomarker studies) is a plus. Data Science literacy and confidence in interpreting multi‑omic outputs and statistical analyses is an additional asset. *Restrictions on flexible working requirements may apply and can be discussed at interview stages as necessary Accessibility and accommodation: Novartis is committed to working with and providing reasonable accommodation to all individuals. If, because of a medical condition or disability, you need a reasonable accommodation for any part of the recruitment process, or in order to receive more detailed information about the essential functions of a position, please send an e-mail to inclusion.switzerland@novartis.com and let us know the nature of your request and your contact information. Please include the job requisition number in your message. Skills Desired Gastroenterology, Gastrointestinal Disease, Inflammatory Bowel Diseases",
-    "external_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Basel-City/Principal-Scientist---Translational-Intestinal-Immunology--80-100---_REQ-10074527-1",
-    "status": "matched"
-  },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000119069707": {
     "description": "Join the Linux system administration team for the accelerator control system and contribute to the evolution of the core platform by implementing new storage services, based upon a high-end commercial storage appliance. You will work closely with experienced system administrators, infrastructure experts and software engineers, including collaborations with the CERN IT department and Computer Security team. This will be an opportunity to gain valuable experience in a unique and exciting environment. Your responsibilities Configure NetApp storage appliance and integrating it into the configuration management systems used by the sysadmin team. Establish appropriate access control and data segmentation to minimise cybersecurity risks associated with the network filesystems. Ensure that the configuration of the storage appliance includes a high level of redundancy, ensuring business continuity in the event of failures. Establish an appropriate data backup scheme and recovery plan. Ensure that the appliance provides appropriate storage for the control system Kubernetes infrastructure. Migrate control system data from existing NFS servers to the new appliance. This role includes team supervision responsibilities. More information here . Your profile Experience with Linux system administration is essential. Familiarity with common security issues affecting Linux systems. Experience with network filesystem management (such as NFS) is essential. Familiarity with object storage systems such as S3 is desired, but not mandatory. Skills Solid understanding of Git version control is essential. Knowledge of Ansible configuration management is desirable. Kubernetes container orchestration knowledge is desirable. Spoken and written English, with a commitment to learn French. Eligibility criteria: You are a national of a CERN Member or Associate Member State . You have a professional background in Software Engineer (or a related field) and have either: a Master's degree with 2 to 6 years of post-graduation professional experience; or a PhD with no more than 3 years of post-graduation professional experience. You have never had a CERN fellow or graduate contract before.",
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000119069707-linux-administrator-be-css-isa-2026-47-grap-?oga=true",
@@ -1647,7 +1617,7 @@
     "title": "Project Manager – Spatial Biology Product Development (8-9 months contract)",
     "company": "Bio-Techne / Lunaphore",
     "location": "Tolochenaz, Switzerland",
-    "posted_date": "2026-04-08",
+    "posted_date": "2026-04-07",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1658,11 +1628,6 @@
     "deducted_keywords": [
       "location:Tolochenaz, Switzerland"
     ]
-  },
-  "/job/Basel-City/Principal-Scientist---Oncology-Translational-Research_REQ-10067104": {
-    "description": "Job Description Summary Location: Basel, Switzerland Full time, onsite, #LI-Onsite The Oncology Translational Research (OTR) group within Novartis Biomedical Research seeks a highly motivated lab head to drive the translational strategy for early clinical radioligand therapy (RLT) programs. The role involves collaborative work with various groups across the drug development spectrum, including drug discovery, data science, and early clinical development groups. The successful candidate will be responsible for leading a team and will be tasked with the design & execution of preclinical translational studies and clinical biomarker plans. Job Description About the role: The Oncology Translational Research (OTR) group within Novartis Biomedical Research seeks a highly motivated lab head to drive the translational strategy for early clinical radioligand therapy (RLT) programs. The role involves collaborative work with various groups across the drug development spectrum, including drug discovery, data science, and early clinical development groups. The successful candidate will be responsible for leading a team and will be tasked with the design & execution of preclinical translational studies and clinical biomarker plans. Key responsibilities: Lead a research team and collaborate with groups across BR Oncology Contribute to biomarker strategies and supervise translational experimental plans for various RLT drug discovery programs Design and conduct translational studies, dissect the biological mechanisms driving response and resistance to RLT, and develop rational drug combinations. Mentor and develop associates with various levels of experience Essential Requirements: Ph.D. in molecular, cellular, cancer biology or related fields. Minimum 2 years of Postdoctoral and/or industry experience in an Oncology/Cancer biology relevant field Recognised academic publication record Deep understanding of cancer cell biology, familiarity with innovative cell and molecular biology techniques. Excellent creative thinking and problem-solving skills, scientific curiosity. Proficiency in working collaboratively and flexibly on various projects Strong communication skills, at ease with conveying complex scientific concepts Desirable Requirements: Strong foundational knowledge and experience working on cell death mechanisms, experience in the field of DNA damage response and repair, radiobiology or RLT. Expertise in prostate cancer biology Proficiency with data mining and computational skills. Track record in managing a research team and scientific projects Accessibility and accommodation Novartis is committed to working with and providing reasonable accommodation to all individuals. If, because of a medical condition or disability, you need a reasonable accommodation for any part of the recruitment process, or in order to receive more detailed information about the essential functions of a position, please send an e-mail to diversity.inclusion_ch@novartis.com and let us know the nature of your request and your contact information. Please include the job requisition number in your message Skills Desired Biomedical Research, Cancer Biology, Cancer Cell Biology, Cancer Cells, Cell and Molecular Biology, Cell Biology, Cell Death, DNA Damage, Drug Development, Molecular Biology",
-    "external_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Basel-City/Principal-Scientist---Oncology-Translational-Research_REQ-10067104",
-    "status": "matched"
   },
   "https://api.smartrecruiters.com/v1/companies/AbbVie/postings/3743990012504049": {
     "description": "Job summary: The AbbVie AG Responsible person (FvP) is responsible for providing leadership and oversight of Quality Compliance matters across the commercial entity within the affiliate in support of the quality system requirements associated with pharmaceutical products, medical devices, combination products, biologics and cosmetics. Specific areas include Storage and Distribution, Product Complaints, potential quality events/product shortage execution, Supplier Controls, Product Quality Review, Risk Management, Agency inspections/internal audits, CAPA, and overall Quality Manual requirements. By law, the Responsible person is directly accountable for the technical supervision of operations, guaranteeing the safety, efficacy, and quality of medicines. The FvP ensure proper handling of pharmaceutical products, as well as activities related to importing and wholesaling, all in strict compliance with Swiss law on Medicinal Products, AbbVie company policies, and the principles of Good Distribution Practice (GDP). We’re looking for a curious and driven individual to take on this role of critical importance, with the opportunity for future growth. Your development is not limited to this role but has open paths available both with AbbVie in Switzerland and internationally. Key responsibilities: Act as FvP for the Import and Wholesaling in accordance with the Swiss law on Medicinal Products (Heilmittelgesetz, HMG; Arzneimittel-Bewilligungsverordnung, AMBV) and Swissmedic technical interpretation I-SMI.TI.17 Responsible Person: requirements. The FvP has the authority to issue directives within the sphere of her/his responsibilities. Accountable for the integration and support of quality regulations at the affiliate:  drug, biologics, device and/or combination and cosmetics products driving the design of effective quality systems, procedures and/or processes within cross functional teams to ensure compliance as well as efficiency throughout our quality systems. Accountable for the management and oversight of an affiliate team, as applicable, including hiring, setting performance expectations, providing performance feedback, development of staff and handling of personnel issues.  Ensuring adequate resources and appropriate training to effectively support and meet changing business and compliance needs. Assure key affiliate metrics are being monitored (goals, CAPA, change plans etc.)  Use data and facts to make decisions and to pursue compliance/continuous improvement opportunities. Conduct management reviews as per plan. Partner with stakeholders across the enterprise to gain a better understanding of processes external to QA to determine best steps forward. Host internal, external and MoH audits.  Confidently knowing and understanding the affiliate business, licenses, distribution nodes, quality system applicability to support successful audits. Accountable for supplier qualification program including performance monitoring for key suppliers, QTA management and assessments. Accountable for all activities governed by Good Storage and Distribution Practices at the affiliate, including monitoring of controlled temperature and cold chain shipments. Represent affiliate QA or act as a lead in regional, global and cross functional teams, projects and programs, as appropriate. Ensure that a Quality Management System is available, implemented and maintained for the provision of work instructions, procedures and protocols for GMP and GDP-related processes. Ensure that the medicinal products are supplied and distributed into Switzerland according to the approved specifications and in accordance with the rules of Good Distribution Practice (GDP). Ensure that manufacturers of imported pharmaceutical products into Switzerland hold a valid GMP manufacturing license. Ensure the traceability of purchases and sales of pharmaceutical products and recording the necessary information concerning this. Ensure that the pharmaceutical products released onto the Swiss market meet the specifications in force and are manufactured in accordance with Good Manufacturing Practice (GMP). Release of commercial products for the Swiss market independent from management and commercial functions (primarily based on the release documents of the QP of the manufacturer / batch releasing site). Independently from management, decide whether a batch can be released for distribution to market and command stop of distribution and recall of batches if needed. Management of quality and compliance risks. Approval of all SOPs and other controlled documents in conjunction with the GMP/GDP batch release to the Swiss Market. Authorize the return to saleable stock or destruction of any returned medicines. Contact person for and approval of Technical/Quality Agreements related to the supply, transportation and wholesale of medicinal products marketed by AbbVie AG. Quality oversight /auditing of external service providers (e.g., external warehouse). Perform PQR review for all products marketed in Switzerland. Management of recalls. Oversight of product quality complaints (receipt, classification, forwarding to the manufacturer, tracking, information to customers, reconciliation). Report quality issues to Swissmedic according to requirements and within deadlines. Handle quality issues with the responsible Warehouse/Supplier/Manufacturing Site. Remain up-to-date with Swiss regulatory requirements, authority organization, processes and environment Awareness and implementation of applicable regulations and dissemination to relevant internal and external stakeholders. Act as contact person for all Quality issues for AbbVie AG for Swissmedic, the Cantonal Health Authority, RFS and Third-Party Manufactures. Planning and performing of internal audits. Ensure that Site Quality Compliance Metrics are reported periodically to the Site Management. Ensure that employees involved in distribution activities perform a GDP refresher training at the minimum with a yearly frequency. Participate in a course, seminar, congress or equivalent with focus on GMP/GDP at the minimum once a year to stay up to date with the current regulatory requirements and industry standards. Assess education and experience of the Deputy FvP and assign delegation.",
@@ -1686,7 +1651,7 @@
     "title": "Computational Biology - Oncology",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-09",
+    "posted_date": "2026-04-08",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -1737,7 +1702,7 @@
     "title": "Internship in Innovation & Sustainability - For students in the field of Computer Science, Informatics, Business Informatics, Data Science, Statistics, Mathematics, or Business Analytics",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "",
+    "posted_date": "2026-04-09",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1752,7 +1717,7 @@
     "title": "Internship in Innovation & Sustainability - For students in the field of Computer Science, Business Analytics, Data Engineering, Data Science, Data Governance or Data Management and Architecture",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "",
+    "posted_date": "2026-04-09",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1765,7 +1730,7 @@
     "title": "Internship in Innovation & Sustainability - For students in the field of Pharmacoepidemiology, Epidemiology, Biostatistics, Data Science, Health Informatics, or Public Health",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "",
+    "posted_date": "2026-04-09",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1780,7 +1745,7 @@
     "title": "Internship in Innovation & Sustainability - For students with a background in STEM, preferably in Chemistry, Pharmaceutical Sciences, Environmental Sciences and Engineering, or Data Science / Business Analytics with an understanding of chemistry",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "",
+    "posted_date": "2026-04-09",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1793,7 +1758,7 @@
     "title": "Internship in Innovation & Sustainability - For students in the field of Sustainability, Computer Science, or Data Science",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "",
+    "posted_date": "2026-04-09",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1806,7 +1771,7 @@
     "title": "Internship in Innovation & Sustainability - For students in the field of Computer Science / Data Science, Pharmaceutical Sciences / Pharmacy, Chemical-, Bioprocess-, Biomedical-, Industrial-, Process Engineering, (Bio)Chemistry",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "",
+    "posted_date": "2026-04-09",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1841,31 +1806,12 @@
     "title": "Internship in Innovation & Sustainability - For students in the field of Computational Chemistry, Data Science, Computer Science or a related quantitative discipline",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "",
+    "posted_date": "2026-04-09",
     "department": "",
     "score": 2,
     "matched_keywords": [
       "PhD",
       "drug discovery"
-    ],
-    "deducted_keywords": []
-  },
-  "/job/Basel-City/Director-International-Medical-Affairs--Immunology_REQ-10074267-1": {
-    "description": "Job Description Summary Location: Basel, Switzerland #LI-Hybrid Purpose of the role: The International Medical Affairs (IMA) team represents the voice of the International markets, with a focus on our top priority markets and addresses their needs across pre-launch, launch, life-cycle management and in-market. Job Description We are seeking a Medical Affairs Director Immunology, to provide aligned input from the top priority International markets into IEP and is responsible for the implementation of the scientific communications and medical education strategy, as well as relevant medical standards in these markets. This role will support the planning and execution at International for the medical/scientific engagement strategy (MSL/ Field Medical Affairs strategy, medical education programs, scientific publication planning and Medical Expert network development) addressing and delivering strategic pre-launch and launch medical activities needs for patient, clinical, access and value to health care systems. Acting as a subject matter expert in the development of overarching International strategies, you will provide input during program design and throughout end to end execution. You will also serve as a strategic partner to International Commercial, International Value and Access, Global, Regional and US Medical Affairs, and Development. This is a full-time position based in Basel, Switzerland. If you are driven by a commitment to making a difference in the lives of patients and possess the expertise to lead a dynamic team, we would love to hear from you. This role reports into the Head International Medical Affairs Immunology. Major Accountabilities Lead the International Medical Affairs strategy for priority Immunology assets and indications, ensuring international market needs are reflected in medical priorities and plans. Represent and translate the perspectives of priority international markets into actionable medical strategies, evidence requirements, and execution plans that enhance readiness and impact. Shape integrated evidence plans and evidence‑generation priorities to ensure timely availability of data supporting scientific exchange, clinical adoption, and access-related decision-making. Provide strategic input into field medical and medical engagement priorities, ensuring country insights and scientific requirements inform high‑quality, market‑relevant plans. Drive external scientific engagement and communication strategies, including medical education, major congress activities, symposia, and other high-impact key scientific exchange initiatives. Build and strengthen strategic relationships with healthcare professionals, scientific societies, and other stakeholders to advance scientific leadership and medical impact in Immunology. Serve as a strategic medical partner to International Commercial, International Value & Access, Global, Regional, and Country Medical Affairs, Development, and other cross‑functional teams to ensure aligned, high‑quality plans and execution. Provide proactive medical leadership for lifecycle management and future therapeutic opportunities, identifying where medical strategy, evidence and stakeholder engagement can drive the greatest value and impact. Ensure all International Medical Affairs activities meet the highest standards of medical quality, ethics, and compliance, including appropriate support for access‑related and patient‑focused initiatives. Essential Requirements Advanced scientific degree (MD, PhD, or PharmD) in Health or Life Sciences Full professional proficiency in English In depth experience in the pharmaceutical industry, in Medical Affairs or Clinical Development Deep understanding of health care systems and key external stakeholders Experience working in matrix organizations and leading cross-functional medical projects, with the ability to influence and collaborate across functions and geographies Strong track record of leading complex medical affairs initiatives with clear impact on timelines, quality, and strategic outcomes Additional training, certification or experience in Dermatology and/or Rheumatology is a plus Desirable Requirements Significant medical affairs pre-launch and launch experience in a major International market Significant medical affairs pre-launch and launch experience in Immunology or Immuno-oncology Experience in developing and executing “Best in Class” processes at scale Why Novartis? Helping people with disease and their families takes more than innovative science. It takes a community of smart, passionate people like you. Collaborating, supporting and inspiring each other. Combining to achieve breakthroughs that change patients’ lives. Ready to create a brighter future together? https://www.novartis.com/about/strategy/people-and-culture Disclaimer*: Some restrictions on flexible working options may apply and will be discussed during interview if applicable Benefits and Rewards: Read our handbook to learn about all the ways we’ll help you thrive personally and professionally: https://www.novartis.com/careers/benefits-rewards Commitment to Diversity and Inclusion / EEO: Novartis is committed to building an outstanding, inclusive work environment and diverse teams representative of the patients and communities we serve. Accessibility and accommodation: Novartis is committed to working with and providing reasonable accommodation to all individuals. If, because of a medical condition or disability, you need a reasonable accommodation for any part of the recruitment process, or in order to receive more detailed information about the essential functions of a position, please send an e-mail to diversity.inclusion_ch@novartis.com and let us know the nature of your request and your contact information. Please include the job requisition number in your message. Join our Novartis Network : If this role is not suitable to your experience or career goals but you wish to stay connected to hear more about Novartis and our career opportunities, join the Novartis Network here: https://talentnetwork.novartis.com/network Skills Desired",
-    "external_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Basel-City/Director-International-Medical-Affairs--Immunology_REQ-10074267-1",
-    "status": "ignored",
-    "title": "Director International Medical Affairs, Immunology",
-    "company": "Novartis",
-    "location": "Basel (City)",
-    "posted_date": "2026-04-07",
-    "department": "",
-    "score": 5,
-    "matched_keywords": [
-      "PhD",
-      "immuno-oncology",
-      "immunology",
-      "medical affairs",
-      "oncology"
     ],
     "deducted_keywords": []
   }
