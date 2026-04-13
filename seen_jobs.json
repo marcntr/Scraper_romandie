@@ -9,7 +9,7 @@
     "keywords": "scientist"
   },
   "_generic:Charles River Laboratories": {
-    "keywords": "regulatory"
+    "keywords": "regulatory,scientist"
   },
   "_generic:MoonLake Immunotherapeutics": {
     "keywords": "clinical development,medical affairs"
@@ -799,11 +799,6 @@
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000116404008": {
     "description": "Introduction IT’s Compute and Devices Group is looking for a computing engineer to take over responsibility for the onsite High-Performance Compute (HPC) SLURM clusters which have established use cases in the Organisation including for the ATS sector and the Theory department. This position will be in the Compute and Configuration section, which is responsible for large scale compute, from the HPC farm through High Throughput Compute, Volunteer Computing and Configuration & Secret Management services. Functions Ensure service delivery for the SLURM HPC clusters to the user community as the primary service manager and technical lead of the service. Serve as the escalation point for the user community support requests, help to gather requirements and usage best practices. Configure, upgrade, monitor the clusters and provide ongoing maintenance. Ensure high utilisation of the resources by interfacing with HTCondor brokered backfill of resources. Define procedures and best practices for the wider team in order to promote operational support coverage. Look for synergies with other team members and teams for management of compute resources, or access to high performance compute resources for the community.",
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000116404008-high-performance-compute-hpc-engineer-it-cd-cc-2026-64-ld-?oga=true",
-    "status": "matched"
-  },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000116383492": {
-    "description": "Are you an expert in Data Acquisition Development and Particle Detectors? This is an opportunity to work in a mission-critical team providing real-time luminosity measurements for the upgrade of the CMS Detector. This system directly impacts the operation of the future High Luminosity LHC and the quality of many physics measurements, performed in CMS. Your responsibilities: Firmware development on FPGA backend boards. Lab testing and validation of backend electronics and frontend detectors. DAQ Software development. In more detail, you will: Finalise, test, and validate the firmware architecture for the tracker luminosity systems, online clustering for Inner Tracker, stub counting for the Outer Tracker, and BRIL Trigger Board for BRIL trigger generation. Develop, test, and finalise, the firmware for the FBCM backend system. Complete the development of the final BRIL replica testing system, which will reproduce the Phase 2 backend system. Develop, coordinate, and test the software interface and control of the BRIL Phase 2 backend system. Your profile: Experience in the field of applied physics, detector testing and DAQ is critical. Direct experience with real-time systems (FPGA, micro-controllers, system-on-chip, etc.) is highly valued. Experience in detector laboratories, electronics, prototyping and test beam is also valued. Skills: Teamwork. C/C++ and/or Python. Some knowledge of VHDL and/or other HDL. Ability to use standard lab tools such as scope/generators/NIM modules/detectors, etc. Understanding of electronics. Spoken and written English, with a commitment to learn French. Eligibility criteria: You are a national of a CERN Member or Associate Member State . You have a professional background in Electronics engineering/applied physics (or a related field) and have either: a Master's degree with 2 to 6 years of post-graduation professional experience; or a PhD with no more than 3 years of post-graduation professional experience. You have never had a CERN fellow or graduate contract before.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000116383492-daq-and-detector-developer-ep-cms-id-2026-71-grap-?oga=true",
     "status": "matched"
   },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000116545198": {
@@ -1783,7 +1778,7 @@
   },
   "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-clinical-scientist-basel-stadt-865510/1": {
     "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-clinical-scientist-basel-stadt-865510/1",
-    "status": "matched",
+    "status": "ignored",
     "title": "Clinical Scientist(m/f/d)",
     "company": "Hays Switzerland",
     "location": "Basel Stadt, Switzerland",
@@ -1795,7 +1790,7 @@
   },
   "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-qc-scientist-microbiology-lengnau-berne-864632/1": {
     "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-qc-scientist-microbiology-lengnau-berne-864632/1",
-    "status": "matched",
+    "status": "ignored",
     "title": "QC Scientist Microbiology(m/f/d)",
     "company": "Hays Switzerland",
     "location": "Lengnau, Berne, Switzerland",
@@ -1807,7 +1802,7 @@
   },
   "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-data-scientist-penzberg-867514/1": {
     "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-data-scientist-penzberg-867514/1",
-    "status": "matched",
+    "status": "ignored",
     "title": "Data Scientist(m/f/d)",
     "company": "Hays Switzerland",
     "location": "Penzberg, Switzerland",
@@ -1818,5 +1813,28 @@
     "deducted_keywords": [
       "location:Penzberg, Switzerland"
     ]
+  },
+  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000120453276": {
+    "description": "Are you an expert in Data Acquisition Development and Particle Detectors? This is an opportunity to work in a mission-critical team providing real-time luminosity measurements for the upgrade of the CMS Detector. This system directly impacts the operation of the future High Luminosity LHC and the quality of many physics measurements, performed in CMS. Your responsibilities: Firmware development on FPGA backend boards. Lab testing and validation of backend electronics and frontend detectors. DAQ Software development. In more detail, you will: Finalise, test, and validate the firmware architecture for the tracker luminosity systems, online clustering for Inner Tracker, stub counting for the Outer Tracker, and BRIL Trigger Board for BRIL trigger generation. Develop, test, and finalise, the firmware for the FBCM backend system. Complete the development of the final BRIL replica testing system, which will reproduce the Phase 2 backend system. Develop, coordinate, and test the software interface and control of the BRIL Phase 2 backend system. Your profile: Experience in the field of applied physics, detector testing and DAQ is critical. Direct experience with real-time systems (FPGA, micro-controllers, system-on-chip, etc.) is highly valued. Experience in detector laboratories, electronics, prototyping and test beam is also valued. Skills: Teamwork. C/C++ and/or Python. Some knowledge of VHDL and/or other HDL. Ability to use standard lab tools such as scope/generators/NIM modules/detectors, etc. Understanding of electronics. Spoken and written English, with a commitment to learn French. Eligibility criteria: You are a national of a CERN Member or Associate Member State . You have a professional background in Electronics engineering/applied physics (or a related field) and have either: a Master's degree with 2 to 6 years of post-graduation professional experience; or a PhD with no more than 3 years of post-graduation professional experience. You have never had a CERN fellow or graduate contract before.",
+    "external_url": "https://jobs.smartrecruiters.com/CERN/744000120453276-daq-and-detector-developer-ep-cms-id-2026-71-grap-?oga=true",
+    "status": "matched"
+  },
+  "/job/Basel/Global-Medical-Affairs-Lead-Genomic-Profiling_202604-108771": {
+    "description": "At Roche you can show up as yourself, embraced for the unique qualities you bring. Our culture encourages personal expression, open dialogue, and genuine connections,  where you are valued, accepted and respected for who you are, allowing you to thrive both personally and professionally. This is how we aim to prevent, stop and cure diseases and ensure everyone has access to healthcare today and for generations to come. Join Roche, where every voice matters. The Position Join an experienced and collaborative team of dedicated Global Medical Affairs Leads in Clinical Development and Medical Affairs (CDMA) at Roche Diagnostics. Work with the International Business team for Foundation Medicine ex-US on the development and commercialization of Comprehensive Genomic Profiling and molecular diagnostics solutions in oncology and hematology. This is an unparalleled opportunity for career development and job satisfaction as you help advancements in personalized healthcare around the globe to improve patient experiences and outcomes. The position is based in Basel, Switzerland. The Opportunity Subject matter expertise in cancer genomics, oncology and hematology diagnostics to provide strategic medical and scientific input and leadership developing global medical strategies for integrated evidence generation, investigator-initiated studies, research collaborations and medical communications, as well as executing medical activities including advisory boards, scientific symposia, independent or sponsored medical education or training events. Build strong partnerships with medical and patient communities including global thought leaders, investigators, academic networks and professional societies to drive safe adoption of comprehensive genomic profiling solutions while ensuring operational excellence and compliance with industry regulations and HCP interaction guidelines. Develop and deliver content for timely and effective communication of science and clinical data within and outside the organization in educational programs, publications and congress presentations. Partner across functions, regions, cultures, and time zones to create an environment of belonging and identify mutual value and opportunities for collaborations. Champion patient and customer-centricity in mindset, behaviors and actions by always putting the needs of the patients and customers first. Model Roche’s values of integrity, courage, and passion and We@Roche Diagnostics (culture, mindset and behaviors) in everything you do. Act in line with legal, regulatory and company standards and codes of practice including Roche Code of Conduct and other relevant directives and guidelines. Ensure compliance with HCP interaction guidelines, handle compliance questions and considerations, complete all required training and specific responsibilities beyond the standard scope of work and oversee appropriate documentation and reporting. Work independently and autonomously, act as coach for colleagues with less experience. Who you are You’re someone who wants to advance healthcare globally and influence your own development. You’re looking for a company where you have the opportunity to pursue your interests across functions and geographies, where a job title is not considered the final definition of who you are, but the starting point. You have extensive knowledge and expertise in cancer genomics with an advanced degree (MD and/or PhD) in related disciplines, as well as 5+ years of industry experience in oncology and hematology medical affairs or development leading the design and implementation of clinical studies, scientific communication and educational efforts that help tailor treatment to individual patients. You have a deep understanding of molecular-guided therapeutic approaches and clinical practice guidelines, translating genomics and real-world data into clinically relevant actions in complex healthcare ecosystems. You have excellent English oral and written communication skills and demonstrated ability to develop medical content and confidently present to diverse audiences while delivering the message with energy, clarity, and impact. You are proactive and self-directed with a proven track record of leading programs in a global and cross-cultural matrix, strategic decision making, systems thinking, and adaptability to perform in a complex and rapidly evolving environment. You have a deep understanding of legal and regulatory considerations impacting the healthcare, biopharma and diagnostics industry. You are willing to travel up to 20% nationally or internationally. Ready for the next step? We look forward to hearing from you. Apply now to discover this exciting opportunity! Who we are A healthier future drives us to innovate. Together, more than 100’000 employees across the globe are dedicated to advance science, ensuring everyone has access to healthcare today and for generations to come. Our efforts result in more than 26 million people treated with our medicines and over 30 billion tests conducted using our Diagnostics products. We empower each other to explore new possibilities, foster creativity, and keep our ambitions high, so we can deliver life-changing healthcare solutions that make a global impact. Let’s build a healthier future, together. Roche is an Equal Opportunity Employer.",
+    "external_url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Global-Medical-Affairs-Lead-Genomic-Profiling_202604-108771",
+    "status": "matched",
+    "title": "Global Medical Affairs Lead Genomic Profiling",
+    "company": "Roche",
+    "location": "Basel",
+    "posted_date": "2026-04-13",
+    "department": "",
+    "score": 4,
+    "matched_keywords": [
+      "PhD",
+      "genomics",
+      "medical affairs",
+      "oncology"
+    ],
+    "deducted_keywords": []
   }
 }
