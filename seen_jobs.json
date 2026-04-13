@@ -521,7 +521,7 @@
     "title": "Vice President, Regulatory Affairs, Europe and International",
     "company": "BeiGene",
     "location": "Basel",
-    "posted_date": "2026-04-01",
+    "posted_date": "2026-03-31",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -669,11 +669,6 @@
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000115651898-firmware-developer-fpga-ep-cms-tdq-2026-66-grap-?oga=true",
     "status": "matched"
   },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000115662407": {
-    "description": "You will contribute to the administration, operation, support and development of Geographic Information System ( GIS ) applications, including web interfaces to share geospatial information. You will be part of the Geomatics team in charge of measuring, collecting and managing geospatial data related to CERN infrastructure and equipment, within the Site and Civil Engineering (SCE) Department. Your responsibilities: Collaborate with Future Collider Studies (e.g. FCC, Muon Collider) to ensure the reliability and continuous improvement of dedicated GIS applications. Implement additional developments and enhancements to current web applications. Maintain and support existing GIS web applications for CERN and external users. Perform computing tasks related to GIS infrastructure and databases. Your profile: Initial experience in the use of Geographic Information Systems (GIS), particularly the ESRI suite, and in managing geospatial data related to infrastructure and equipment. Initial experience in the development of web-based GIS applications and their maintenance. Initial experience in developing tools and scripts related to geospatial information and associated databases. Skills: Knowledge of and interest in geodesy. Strong foundations in GIS software (desktop and server), ideally the ESRI suite (ArcGIS Pro and ArcGIS Enterprise), and programming in Python and JavaScript/TypeScript. Practical knowledge of web technologies, including JavaScript, HTML5 and CSS, and of web services (SOAP/REST) for system integration, as well as version control systems (Git). Strong attention to detail and good organisational skills, with the ability to work autonomously and a proactive mindset. Spoken and written English or French, with a commitment to learn the basics of the other language. Eligibility criteria: You are a national of a CERN Member or Associate Member State . By the application deadline, you have a maximum of two years of professional experience since graduation in Geomatics, GIS, computing (or a related field) and your highest educational qualification is either a Bachelor's or Master's degree . You have never had a CERN fellow or graduate contract before. Applicants without University degree are not eligible. Applicants with a PhD are not eligible.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000115662407-gis-specialist-and-developer-sce-tod-go-2026-73-grae-?oga=true",
-    "status": "matched"
-  },
   "_facets:onehealthineers:SHSJB": {
     "facets": {},
     "search_texts": [
@@ -779,7 +774,7 @@
     "title": "Associate Director, Senior International Clinical Trial Regulatory Lead",
     "company": "Takeda",
     "location": "Zurich, Switzerland",
-    "posted_date": "2026-03-24",
+    "posted_date": "2026-03-23",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -809,11 +804,6 @@
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000116383492": {
     "description": "Are you an expert in Data Acquisition Development and Particle Detectors? This is an opportunity to work in a mission-critical team providing real-time luminosity measurements for the upgrade of the CMS Detector. This system directly impacts the operation of the future High Luminosity LHC and the quality of many physics measurements, performed in CMS. Your responsibilities: Firmware development on FPGA backend boards. Lab testing and validation of backend electronics and frontend detectors. DAQ Software development. In more detail, you will: Finalise, test, and validate the firmware architecture for the tracker luminosity systems, online clustering for Inner Tracker, stub counting for the Outer Tracker, and BRIL Trigger Board for BRIL trigger generation. Develop, test, and finalise, the firmware for the FBCM backend system. Complete the development of the final BRIL replica testing system, which will reproduce the Phase 2 backend system. Develop, coordinate, and test the software interface and control of the BRIL Phase 2 backend system. Your profile: Experience in the field of applied physics, detector testing and DAQ is critical. Direct experience with real-time systems (FPGA, micro-controllers, system-on-chip, etc.) is highly valued. Experience in detector laboratories, electronics, prototyping and test beam is also valued. Skills: Teamwork. C/C++ and/or Python. Some knowledge of VHDL and/or other HDL. Ability to use standard lab tools such as scope/generators/NIM modules/detectors, etc. Understanding of electronics. Spoken and written English, with a commitment to learn French. Eligibility criteria: You are a national of a CERN Member or Associate Member State . You have a professional background in Electronics engineering/applied physics (or a related field) and have either: a Master's degree with 2 to 6 years of post-graduation professional experience; or a PhD with no more than 3 years of post-graduation professional experience. You have never had a CERN fellow or graduate contract before.",
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000116383492-daq-and-detector-developer-ep-cms-id-2026-71-grap-?oga=true",
-    "status": "matched"
-  },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000116584277": {
-    "description": "Introduction: Are you a skilled and experienced Data Centre Engineer? Do you want to contribute to the unique challenge of making CERN’s particle accelerators function in an efficient and synchronised manner? Join the Controls Software & Services group, to work on the computing infrastructure needed to run the largest particle physics laboratory in the world. Take Part! The 24/7 availability of core control system services is critical to the operation of CERN’s particle accelerators, enabling the organisation to fulfil its central mission. Our team helps make this a success through the development, operation and evolution of the computing infrastructure in data centres and control rooms used to run the accelerator facilities. You will have the opportunity to contribute and influence the evolution of this complex and challenging infrastructure, imprinting your remarkable engineering skills on mission-critical solutions for CERN. You will join a passionate team of Data Centre Engineers and System Administrators and take an important role in the management and operation of CERN’s accelerator control system computing infrastructure. More information here . Functions: Management of data centre infrastructure, including servers, racks and their relationships with networking, powering and cooling. Management of desktop computers and wall screens in control rooms and technical buildings. Management of networked data-storage systems, ensuring that they are effectively backed up. System administration tasks for the Linux computers connected to the accelerator control system (control room - consoles, data centre servers, real-time embedded platforms and virtual machines). Investigation, diagnosis, and resolution of operational problems in collaboration with end-users ranging from equipment specialists to operations teams. Planning and coordination of annual installation work and replacement of obsolete equipment, in collaboration with other members of the system administration team. Close collaboration with engineers from the IT Department responsible for the general CERN IT infrastructure. Participation in the definition of hardware specifications for server and desktop computers.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000116584277-data-centre-engineer-be-css-isa-2026-56-ld-?oga=true",
     "status": "matched"
   },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000116545198": {
@@ -859,7 +849,7 @@
     "title": "Senior Scientist, Translational Medicine Oncology (Hematology)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-03-27",
+    "posted_date": "2026-03-26",
     "department": "",
     "score": 12,
     "matched_keywords": [
@@ -1077,7 +1067,7 @@
     "title": "Post Doctorate Scientist in Intestinal Inflammation - at the Institute of Human Biology (IHB)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-03-31",
+    "posted_date": "2026-03-30",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -1143,7 +1133,7 @@
     "title": "Partnering and Portfolio Analytics Lead",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-01",
+    "posted_date": "2026-03-31",
     "department": "",
     "score": -1,
     "matched_keywords": [
@@ -1160,7 +1150,7 @@
     "title": "Senior Scientist, Material Qualification & Release (QC GMP)",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-04-01",
+    "posted_date": "2026-03-31",
     "department": "",
     "score": -1,
     "matched_keywords": [
@@ -1202,7 +1192,7 @@
     "title": "Associate Scientist in Analytical Development for Synthetic Molecules",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-02",
+    "posted_date": "2026-04-01",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1218,7 +1208,7 @@
     "title": "Scientist – QC Lab Systems & CSV (GMP)",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-04-02",
+    "posted_date": "2026-04-01",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -1233,7 +1223,7 @@
     "title": "Senior Scientist – Manufacturing Science & Technology (Biologics USP/DSP)",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-04-02",
+    "posted_date": "2026-04-01",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -1251,7 +1241,7 @@
     "title": "Scientist Bio-/Chemical Quality Control",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-04-02",
+    "posted_date": "2026-04-01",
     "department": "",
     "score": -1,
     "matched_keywords": [
@@ -1345,7 +1335,7 @@
     "title": "PTD Synthetic Molecules ADQC - Analytical Scientist in the Lab  (2 year fixed term contract)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-03",
+    "posted_date": "2026-04-02",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1358,7 +1348,7 @@
     "title": "Manager Quality System & Regulatory Compliance",
     "company": "Abbott",
     "location": "Switzerland - Zurich",
-    "posted_date": "2026-04-03",
+    "posted_date": "2026-04-02",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1559,7 +1549,7 @@
     "title": "Project Manager – Spatial Biology Product Development (8-9 months contract)",
     "company": "Bio-Techne / Lunaphore",
     "location": "Tolochenaz, Switzerland",
-    "posted_date": "2026-04-08",
+    "posted_date": "2026-04-07",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1581,11 +1571,6 @@
     "external_url": "https://jobs.smartrecruiters.com/AbbVie/3743990012503946-qa-manager-fvp-responsible-person-?oga=true",
     "status": "matched"
   },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000119398587": {
-    "description": "As a Support Officer you will strengthen CERN Fire and Rescue Service ( CFRS ) by providing coordination and continuity for non-operational activities during a period of increased workload linked to Long Shutdown 3 ( LS3 ), innovation activities and Future Circular Collider ( FCC ) preparation. You will support diverse and international staff in relation to safety, preparedness and planning activities. Your responsibilities Support alarm reception activities, including acceptance tests and functional checks of fire and safety detection systems, particularly during LS3. Assist with preparatory work and site inspections related to LS3 activities, including preparation for worksite changes and follow up on incidents when they occur. Draft and update evacuation plans, verify the information on the plans, and support safety officers during evacuation exercises when requested. Support the preparation of emergency response arrangements for current accelerators in cooperation with third party emergency responders. Support FCC safety work for surface and underground infrastructure by contributing to emergency response concepts for the future accelerator, including robotics and proof of concept activities with CERN specialists and partners. Contribute to risk assessments and HSE follow up activities. Support budget tracking and coordination with relevant stakeholders. Maintain documentation and ensure proper follow up with CFRS and FCC stakeholders. Your profile Background or strong knowledge of emergency response environments. Experience with firefighting activities or support to incident commanders is considered an asset. Skills Practical understanding of rescue techniques and firefighting operations. Knowledge of incident command principles and emergency response structures. Ability to operate in safety critical and time sensitive environments. Ability to interact effectively across different organisational levels and with a wide range of stakeholders. Ability to propose pragmatic and well-reasoned solutions. High level of precision and reliability in daily work. Ability to document activities, decisions and follow up actions in a clear and structured manner. Spoken and written English or French, with a commitment to learn the basics of the other language. Eligibility criteria: You are a national of a CERN Member or Associate Member State . By the application deadline, you have a maximum of two years of professional experience since graduation in Emergency Management/Rescue (or a related field) and your highest educational qualification is either a Bachelor's or Master's degree . You have never had a CERN fellow or graduate contract before. Applicants without University degree are not eligible. Applicants with a PhD are not eligible.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000119398587-support-officer-fire-rescue-service-hse-frs-2026-68-grae-?oga=true",
-    "status": "matched"
-  },
   "/job/Basel/Computational-Biology---Oncology_202603-108158-1": {
     "description": "At Roche you can show up as yourself, embraced for the unique qualities you bring. Our culture encourages personal expression, open dialogue, and genuine connections,  where you are valued, accepted and respected for who you are, allowing you to thrive both personally and professionally. This is how we aim to prevent, stop and cure diseases and ensure everyone has access to healthcare today and for generations to come. Join Roche, where every voice matters. The Position In Roche’s Pharmaceutical Research and Early Development organization (pRED ) ​, we make transformative medicines for patients in order to tackle some of the world’s toughest unmet healthcare needs. At pRED, we are united by our mission to transform science into medicines. Together, we create a culture defined by curiosity, responsibility and humility, where our talented people are empowered and inspired to bring forward extraordinary life-changing innovation at speed. The Computational Sciences Centre of Excellence is a global organisation enabling Roche’s Research and Early Development units to become more data-driven, more digitally adept and better prepared for the challenges of the future. Within the Computational Sciences Centre of Excellence , the Computational Biology department focuses on furthering our understanding of disease, patient populations, and target biology by having access to the largest Pharma R&D datasets in the world. In partnership with our scientists across pRED, we create better medicines by augmenting every part of R&D through our data-driven culture. The Opportunity We are seeking a highly motivated computational scientist to join our Research Oncology sub-unit of Computational Biology. You will be a member of a team of world-leading computational scientists with the express aim of developing a competitive advantage for pRED through the application of computational biology in the Oncology space.  You will also be part of the wider Computational Biology and Medicine unit within the Computational Sciences Centre of Excellence drawing on the shared experience and expertise of colleagues globally. To ensure successful delivery for the portfolio, you collaborate with other subunits in Computation Biology and/or Computational Medicine where needed. Our collective success in the Oncology sub-unit and our contribution to pRED/Pharma goals will be the measure of your impact. In this role, you will: Drive and execute the data and analytics strategy for your area, working closely with stakeholders to focus on the highest-impact opportunities. Generate clear, high-value insights from complex data to support decision-making and help advance projects toward meaningful patient impact. Act as a trusted partner to scientists and cross-functional teams, collaborating to shape priorities and deliver on shared goals. Contribute to a collaborative and inclusive team environment by sharing expertise, supporting peers, and actively engaging in a feedback-rich culture. Contribute to continuously improving how we work, helping to strengthen Computational Biology as a key driver of innovation and impact within pRED Who you are You hold a PhD in Bioinformatics, Biostatistics, or a related quantitative field, with a strong foundation in data-driven problem solving, statistical modeling, and machine learning. You bring a solid understanding of cancer biology and are motivated to apply data science to drive impact in drug discovery and decision-making. You have strong expertise in AI/ML and modern AI-driven workflows, ideally including hands-on experience with LLMs, AI-assisted coding, or agentic workflows applied to biological problems. You are proficient in R and/or Python and comfortable working in Linux/Unix environments, including processing data on HPC/cloud platforms. You have experience working with large-scale biological datasets (e.g., genomics, transcriptomics, spatial omics/imaging), ideally including cancer cell dependency, perturbation, or drug-response data, and enjoy integrating diverse data types. You communicate clearly and effectively, create impactful visualizations, and thrive in collaborative, multidisciplinary environments where you take ownership and work closely with experimental scientists. Ready to take the next step? We'd love to hear from you. Apply now to explore this exciting opportunity! Who we are A healthier future drives us to innovate. Together, more than 100’000 employees across the globe are dedicated to advance science, ensuring everyone has access to healthcare today and for generations to come. Our efforts result in more than 26 million people treated with our medicines and over 30 billion tests conducted using our Diagnostics products. We empower each other to explore new possibilities, foster creativity, and keep our ambitions high, so we can deliver life-changing healthcare solutions that make a global impact. Let’s build a healthier future, together. Roche is an Equal Opportunity Employer.",
     "external_url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Computational-Biology---Oncology_202603-108158-1",
@@ -1593,7 +1578,7 @@
     "title": "Computational Biology - Oncology",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-09",
+    "posted_date": "2026-04-08",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -1644,7 +1629,7 @@
     "title": "Internship in Innovation & Sustainability - For students in the field of Computer Science, Informatics, Business Informatics, Data Science, Statistics, Mathematics, or Business Analytics",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-10",
+    "posted_date": "2026-04-09",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1659,7 +1644,7 @@
     "title": "Internship in Innovation & Sustainability - For students in the field of Computer Science, Business Analytics, Data Engineering, Data Science, Data Governance or Data Management and Architecture",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-10",
+    "posted_date": "2026-04-09",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1672,7 +1657,7 @@
     "title": "Internship in Innovation & Sustainability - For students in the field of Pharmacoepidemiology, Epidemiology, Biostatistics, Data Science, Health Informatics, or Public Health",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-10",
+    "posted_date": "2026-04-09",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1687,7 +1672,7 @@
     "title": "Internship in Innovation & Sustainability - For students with a background in STEM, preferably in Chemistry, Pharmaceutical Sciences, Environmental Sciences and Engineering, or Data Science / Business Analytics with an understanding of chemistry",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-10",
+    "posted_date": "2026-04-09",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1700,7 +1685,7 @@
     "title": "Internship in Innovation & Sustainability - For students in the field of Sustainability, Computer Science, or Data Science",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-10",
+    "posted_date": "2026-04-09",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1713,7 +1698,7 @@
     "title": "Internship in Innovation & Sustainability - For students in the field of Computer Science / Data Science, Pharmaceutical Sciences / Pharmacy, Chemical-, Bioprocess-, Biomedical-, Industrial-, Process Engineering, (Bio)Chemistry",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-10",
+    "posted_date": "2026-04-09",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1748,7 +1733,7 @@
     "title": "Internship in Innovation & Sustainability - For students in the field of Computational Chemistry, Data Science, Computer Science or a related quantitative discipline",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-10",
+    "posted_date": "2026-04-09",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1767,11 +1752,6 @@
     "external_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Basel-City/Principal-Scientist-I-or-II----PK-Sciences-Therapeutic-Areas_REQ-10073942-2",
     "status": "matched"
   },
-  "/job/Basel-City/Principal-Scientist---Oncology-Translational-Research_REQ-10067104": {
-    "description": "Job Description Summary Location: Basel, Switzerland Full time, onsite, #LI-Onsite The Oncology Translational Research (OTR) group within Novartis Biomedical Research seeks a highly motivated lab head to drive the translational strategy for early clinical radioligand therapy (RLT) programs. The role involves collaborative work with various groups across the drug development spectrum, including drug discovery, data science, and early clinical development groups. The successful candidate will be responsible for leading a team and will be tasked with the design & execution of preclinical translational studies and clinical biomarker plans. Job Description About the role: The Oncology Translational Research (OTR) group within Novartis Biomedical Research seeks a highly motivated lab head to drive the translational strategy for early clinical radioligand therapy (RLT) programs. The role involves collaborative work with various groups across the drug development spectrum, including drug discovery, data science, and early clinical development groups. The successful candidate will be responsible for leading a team and will be tasked with the design & execution of preclinical translational studies and clinical biomarker plans. Key responsibilities: Lead a research team and collaborate with groups across BR Oncology Contribute to biomarker strategies and supervise translational experimental plans for various RLT drug discovery programs Design and conduct translational studies, dissect the biological mechanisms driving response and resistance to RLT, and develop rational drug combinations. Mentor and develop associates with various levels of experience Essential Requirements: Ph.D. in molecular, cellular, cancer biology or related fields. Minimum 2 years of Postdoctoral and/or industry experience in an Oncology/Cancer biology relevant field Recognised academic publication record Deep understanding of cancer cell biology, familiarity with innovative cell and molecular biology techniques. Excellent creative thinking and problem-solving skills, scientific curiosity. Proficiency in working collaboratively and flexibly on various projects Strong communication skills, at ease with conveying complex scientific concepts Desirable Requirements: Strong foundational knowledge and experience working on cell death mechanisms, experience in the field of DNA damage response and repair, radiobiology or RLT. Expertise in prostate cancer biology Proficiency with data mining and computational skills. Track record in managing a research team and scientific projects Accessibility and accommodation Novartis is committed to working with and providing reasonable accommodation to all individuals. If, because of a medical condition or disability, you need a reasonable accommodation for any part of the recruitment process, or in order to receive more detailed information about the essential functions of a position, please send an e-mail to diversity.inclusion_ch@novartis.com and let us know the nature of your request and your contact information. Please include the job requisition number in your message Skills Desired Biomedical Research, Cancer Biology, Cancer Cell Biology, Cancer Cells, Cell and Molecular Biology, Cell Biology, Cell Death, DNA Damage, Drug Development, Molecular Biology",
-    "external_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Basel-City/Principal-Scientist---Oncology-Translational-Research_REQ-10067104",
-    "status": "matched"
-  },
   "/job/Basel-City/Senior-Principal-Scientist-Associate-Director--PK-Sciences_REQ-10073941-1": {
     "description": "Job Description Summary We are seeking an enthusiastic and motivated PK Sciences project team representative to develop and implement translational or clinical pharmacology strategies to support the pursuit of transformative new medicines through late clinical development. Our unique organizational structure enables colleagues to work seamlessly in the translational and/or clinical space, offering opportunities for development and bench-to-bedside-to-bench translation. Experience in late discovery and/or clinical area is preferred. The scope of the role potentially includes small molecules, biologics/therapeutic proteins, antibody drug-conjugates, radioligand therapies and/or cell therapies across major therapeutic areas in Novartis, including oncology, immunology, cardiovascular renal metabolism, neuroscience, and global health. This position drives close interdisciplinary collaboration among the PK Science disciplines, Drug Disposition (ADME, BA), Modeling & Simulation (M&S), and Operations through PK science sub-teams to achieve a holistic and integrative perspective of the ADME/clinical pharmacology properties of candidates and drugs Job Description #LI_Hybrid Location: Basel, Switzerland Key Responsibilities: •    Independently represent the PK Sciences function in cross-functional project teams, interactions with stakeholders within the organization and interactions with regulatory agencies, as appropriate •    Lead a PK Science Subteam with interdisciplinary representation of the major functions from within PK Science and beyond •    Ensures implementation of project strategies and monitors timelines, objectives, and budgets for assigned projects •    Present projects at various institutional review and approval boards •    Proactively contributes to developing drug candidates across Research Development and Commercial continuum, providing expert pharmacokinetic / drug metabolism and clinical pharmacology input •    Develop and execute clinical pharmacology strategies, including input into nonclinical and clinical study design, and analyzing PK and PK/PD data, to support compound development from discovery through late development •    Provide PK, dosage, PK/PD and M&S component of study protocols, reports, project summaries and development plans, and author pharmacokinetic/clinical pharmacology/biopharmaceutics sections/radiation dosimetry of IND/IMPDs and NDA/BLAs as well as prepare appropriate responses to global Health Authority questions •    Use of Artificial intelligence (AI) / Machine Learning (ML) approaches to enable model guided molecular design, preclinical and clinical data automation, authoring regulatory documents, and the use of predictive models •    Is a mentor to or manages junior associates in the organization This role reports to Therapeutic Area Head in PK Sciences within Translational Medicine (TM) in Biomedical Research. PKS is a global organization situated within Translational Medicine (TM), the clinical research arm of Biomedical Research within Novartis. PK Sciences plays a pivotal role in bringing innovative medicines to patients, by building on research advances to develop new therapies, bridging drug discovery and clinical application. PK Science is an enterprise-wide organization, working across both Biomedical Research and the Development organizations to advance the scientific knowledge of pharmacokinetics, metabolism and clinical pharmacology. Essential Requirements: •    Ph.D. / Pharm.D. with relevant experience •    Preferred candidates will have a minimum of 5+ yrs at the Senior Principal Scientist Level and 8+ years at the Associate Director level) in clinical pharmacology, drug metabolism and pharmacokinetics or a related background in an industry setting. •    Extensive and in-depth knowledge of pharmacokinetics including, drug metabolism and PK/PD evaluation, experience in working in project teams (preferably global) as well as sound awareness of recent developments in drug development and regulatory sciences. •    Demonstrated success in working in a cross-functional, matrixed, project-team environment. •    An influential Team player and talented negotiator with strong oral and written communication skills. •    Proven record of mentorship and/or people management Desirable Requirements: •    Hands-on project experience with Artificial intelligence (AI) / Machine Learning (ML) approaches is a plus Leadership / Novartis Behaviors in Action •    Delivers results through disciplined execution, continuous improvement, and a strong focus on value and outcomes. •    Demonstrates an enterprise mindset and strong ownership by prioritizing resources and decisions for maximum Novartis and patient impact. •    Role models Novartis leadership behaviors through visible actions, continuous self reflection, and openness to feedback •    Builds trust through transparent communication, clear accountability, and consistent delivery against commitments. •    Empowers others to innovate and improve while maintaining high scientific, ethical, and operational standards. AI fluency: •    Brings strong AI and digital fluency, using enterprise tools to enhance insight generation, decision making, and team productivity. •    Accountable for the ethical, transparent, and compliant use of AI in line with Novartis AI governance and data protection standards. External eminence: •    Acts as an external thought leader, advancing Novartis’ reputation in translational science and innovation. Operational excellence: •    Drives operational excellence through disciplined execution, continuous improvement, and effective use of resources to maximize PKS and enterprise value. •    Acts as a responsible steward of people, data, and digital capabilities, leveraging AI and automation to improve efficiency, quality, and decision speed. *This is a dual level posting. The final level & title of the offer role would be determined by the hiring team based on the skills, experience & capabilities required to perform the role at the level the role has been offered. Skills Desired Chemistry, Clinical Pharmacology, Clinical Research, Clinical Study Reports, Clinical Trials, Data Entry, Drug Discovery, Due Diligence, Electronic Components, Gene Therapy, Lifesciences, Medical Research, Microsoft Office, Modeling And Simulation, Patient Care, Physics, Translational Medicine, Waterfall Model",
     "external_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Basel-City/Senior-Principal-Scientist-Associate-Director--PK-Sciences_REQ-10073941-1",
@@ -1784,7 +1764,7 @@
     "title": "Director International Medical Affairs, Immunology",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-04-07",
+    "posted_date": "2026-04-06",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -1795,5 +1775,48 @@
       "oncology"
     ],
     "deducted_keywords": []
+  },
+  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000120315358": {
+    "description": "You will engage in the preparation and installation of beam line mechanical supports in beam line facilities (i.e Targets cavern). This includes participating in the fabrication follow-up, assembling tasks, logistics and installation. Your responsibilities Conduct the dismantling/assembling activities of the beam line equipment. Actively participate in all stages of the mechanical equipment readiness, from production to installation. Collaborate closely with engineers, coordination teams and other technicians. Communicate and report the advancement of the work to the supervisor and project managers. More information here: https://be-dep-ea.web.cern.ch/index.php/about-ea/experimental-areas-group-ea Your profile - Practical experience in mechanical assembling. - Experience in reading 2D drawings (ISO-GPS). - Knowledge of preparation of mechanical assembly work (orders, BOM, logistics... ) - Familiarity with 3D modeling software and Microsoft Office pack. Skills Design of mechanical equipment and structures. Knowledge and application of manufacturing methods and work preparation. Organization, planning and control of tasks. Installation of mechanical equipment. Knowledge of design codes and compliance verification of mechanical equipment. Spoken and written English or French, with a commitment to learn the basics of the other language. Eligibility criteria: You are a national of a CERN Member or Associate Member State . By the application deadline, you have a maximum of two years of professional experience since graduation in Mechanical Engineering (or a related field) and your highest educational qualification is a general secondary education diploma . You have never had a CERN fellow or graduate contract before. Applicants with a Bachelor's, Master's or PhD degree are not eligible.",
+    "external_url": "https://jobs.smartrecruiters.com/CERN/744000120315358-mechanical-technician-be-ea-dc-2026-102-grae-?oga=true",
+    "status": "matched"
+  },
+  "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-clinical-scientist-basel-stadt-865510/1": {
+    "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-clinical-scientist-basel-stadt-865510/1",
+    "status": "matched",
+    "title": "Clinical Scientist(m/f/d)",
+    "company": "Hays Switzerland",
+    "location": "Basel Stadt, Switzerland",
+    "posted_date": "",
+    "department": "",
+    "score": 0,
+    "matched_keywords": [],
+    "deducted_keywords": []
+  },
+  "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-qc-scientist-microbiology-lengnau-berne-864632/1": {
+    "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-qc-scientist-microbiology-lengnau-berne-864632/1",
+    "status": "matched",
+    "title": "QC Scientist Microbiology(m/f/d)",
+    "company": "Hays Switzerland",
+    "location": "Lengnau, Berne, Switzerland",
+    "posted_date": "",
+    "department": "",
+    "score": 0,
+    "matched_keywords": [],
+    "deducted_keywords": []
+  },
+  "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-data-scientist-penzberg-867514/1": {
+    "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-data-scientist-penzberg-867514/1",
+    "status": "matched",
+    "title": "Data Scientist(m/f/d)",
+    "company": "Hays Switzerland",
+    "location": "Penzberg, Switzerland",
+    "posted_date": "",
+    "department": "",
+    "score": -2,
+    "matched_keywords": [],
+    "deducted_keywords": [
+      "location:Penzberg, Switzerland"
+    ]
   }
 }
