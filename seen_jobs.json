@@ -521,7 +521,7 @@
     "title": "Vice President, Regulatory Affairs, Europe and International",
     "company": "BeiGene",
     "location": "Basel",
-    "posted_date": "2026-04-01",
+    "posted_date": "2026-03-31",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -566,11 +566,6 @@
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000115139827": {
     "description": "Introduction As a Radiation Protection Physicist in the RP Accelerators and Sites (RP-AS) Section, you will assess and enforce compliance of CERN’s activities with Radiation Protection regulations. It entails projects, studies and services aimed at protecting people and the environment from ionising radiation, specifically in the context of studies carried out for the Future Circular Collider (FCC). Functions Perform studies and contribute to design optimisations in collaboration with other groups for the FCC Project. Monitor project developments with an emphasis on radiation protection for the public and the environment. Calculate doses to members of the public using established environmental and radiological models. Lead or participate in RP research and development, particularly the development, use and maintenance of models, computer codes, state-of-the-art tools and methods for radiological environmental impact assessments for the FCC Project. Produce, contribute to, or edit legal, technical and scientific documentation, including rules, specifications, reports, notes, international publications and presentations for internal and external use. Provide expertise to CERN's departments and management on radiation protection and radiological environmental aspects of the design, operation and maintenance of future accelerators and experiments. Present assessments to host state authorities in the framework of the Tripartite agreement. Supervise or coordinate the work of postdocs and students.",
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000115139827-radiation-protection-physicist-hse-rp-as-2026-61-ld-?oga=true",
-    "status": "matched"
-  },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000114573028": {
-    "description": "In this role, you will support the operation and reliability of CERN's electronics pool equipment by testing, qualifying and maintaining a wide range of electronic instruments used in high-energy physics experiments and laboratories. You will maintain and improve test benches and procedures, troubleshoot equipment issues, and contribute to the evaluation of new devices. Through your work, you will help ensure the availability and performance of essential electronics systems for experimental teams. Your responsibilities Testing electronics equipment and instrumentation, identifying faults and carrying out firmware and hardware fixes, Creating and correcting test procedure documentation when required, Maintaining hardware and software of existing test benches in collaboration with the responsible technicians, Participating in the daily operations of the electronics pool service and provide occasional support to the service users. Your profile Interest in the field of electronics. Basic experience in testing, calibration and maintenance of laboratory equipment (including modular electronics and instrumentation). Experience in user support or customer-oriented services is considered an asset. Skills Knowledge and application of instrumentation and measurement techniques. Operation and maintenance of data-acquisition, monitoring and control systems. Application of modular low and high-voltage power supplies. Spoken and written English or French, with a commitment to learn the basics of the other language. Eligibility criteria: You are a national of a CERN Member or Associate Member State . By the application deadline, you have a maximum of two years of professional experience since graduation in Electronics (or a related field) and your highest educational qualification is a general secondary education diploma . You have never had a CERN fellow or graduate contract before. Applicants with a Bachelor's, Master's or PhD degree are not eligible.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000114573028-electronics-technician-ep-ese-be-2026-69-grae-?oga=true",
     "status": "matched"
   },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000114407563": {
@@ -728,21 +723,6 @@
     "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-data-scientist-penzberg-867514/1": "ignored",
     "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/Switzerland---Baar/Franchise-Lead-COPD--R-I-Swizerland-_R-246153": "ignored"
   },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000116158667": {
-    "description": "Within the HSE-ENV group, the selected Graduate will contribute to CERN's greenhouse gas accounting, decarbonisation strategy and energy regulatory monitoring. Your responsibilities 1. Carbon Footprint & Greenhouse Gas Accounting Support the annual update of CERN's greenhouse gas inventory (Scopes 1, 2 and 3). In collaboration with IPT, propose a solution to increase Scope 3 data granularity CERN Departments. Update emission factors. Contribute to the update of emission projections for the HL-LHC and FCC-ee phases. Support scenario analysis for future emission trajectories. 2. Decarbonisation Strategy Support Develop and implement procedures to ensure complete data traceability for decarbonisation initiatives. Support the assessment of reduction potentials and implementation feasibility. Investigate the potential of new decarbonisation specific KPIs. 3. Energy Management Support Lead the update of regulatory watch activities to ensure compliance with evolving energy standards and directives. Assist in the preparation of documentation related to ISO 50001. Contribute to audit preparation and follow-up of action plans. As required, support energy data analysis and energy review activities. 4. PESS & Project Support Contribute to weekly situation points. Your profile Skills Strong analytical and quantitative skills. Experience with data analysis tools (Excel, Python or similar). Knowledge of carbon accounting and/or LCA methodologies is an asset. Ability to work autonomously and interact with multiple stakeholders. Spoken and written English or French, with a commitment to learn the other language. Eligibility criteria: You are a national of a CERN Member or Associate Member State . By the application deadline, you have a maximum of two years of professional experience since graduation in Energy and Climate Engineering (Energy Systems, Climate Science), Environmental Engineering, Industrial Ecology (or a related field) and your highest educational qualification is either a Bachelor's or Master's degree . You have never had a CERN fellow or graduate contract before. Applicants without University degree are not eligible. Applicants with a PhD are not eligible.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000116158667-energy-climate-analyst-hse-env-ec-2026-71-grae-?oga=true",
-    "status": "matched"
-  },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000116117867": {
-    "description": "In this role you will operate the CMS Global Pool of computing resources. You will learn to monitor, maintain, and evolve the submission infrastructure of the experiment. Your responsibilities Monitor the HTCondor batch system used to realise the Global Pool. Adjust the pool paramaters to meet the experiments computing priorities/needs. Upgrade, configure, and troubleshoot components of the Global Pool. Communicate provisioning or scheduling issues and report the Global Pool status at coordination meetings. Your profile Knowledge in Linux service administration and management. Knowledge of python and shell scripting. Experience with distributed computing or high-performance computing is a plus. Experience with batch systems and high throughput computing on Grid/Cloud is a plus. Experience with Puppet (or other configuration management) software is a plus. Experience with software development and code design is a plus. Skills Ability to strive in a multi-cultural environment. Good communication skills. Spoken and written English, with a commitment to learn French. Eligibility criteria: You are a national of a CERN Member or Associate Member State . By the application deadline, you have a maximum of two years of professional experience since graduation in Computer Science or Engineering (or a related field) and your highest educational qualification is either a Bachelor's or Master's degree . You have never had a CERN fellow or graduate contract before. Applicants without University degree are not eligible. Applicants with a PhD are not eligible.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000116117867-computing-engineer-ep-cms-2026-80-grae-?oga=true",
-    "status": "matched"
-  },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000116153039": {
-    "description": "Are you a self-motivated communications professional with experience in scientific communication for a wide range of audiences - from policymakers to students and industry, as well as the general public? Would you like to join the team responsible for sharing the excitement of CERN openlab R&D projects, activities, and collaborative work, with the outside world? Are you skilled at producing simplified scientific materials across a variety of media (social media, videos, printed documents, web pages, etc.) and in organising events? Take part! CERN openlab is a unique public-private partnership that provides a structured and collaborative framework enabling industry and research organisations to engage directly with CERN researchers. Through this framework, CERN openlab not only fosters scientific and technological collaboration but also facilitates industry participation and strategic investment in cutting-edge research and innovation on ICT, including computing and storage technologies, AI and HPC. At its core, CERN openlab promotes the co-development of innovative solutions through close collaboration between scientific researchers and industry partners. Acting as an incubator for emerging technologies, it serves as a dynamic hub where CERN and its partners jointly push the boundaries of information and communication technologies. Your responsibilities: Develop and implement CERN openlab's strategic communication plan, ensuring alignment with CERN IT and central communications. Lead the creation, production, and dissemination of content across digital platforms, including social media (LinkedIn, X, Facebook and others), the CERN openlab website, and promotional materials. Develop, manage and evolve CERN openlab's website, ensuring high-quality content, strong visual identity, and effective user experience. Plan, create, and analyse social media campaigns from editorial planning to performance reporting, using appropriate multimedia and analytics tools. Conceptualise and produce high-quality publications and visual materials (annual reports, brochures, leaflets, promotional items) using professional design tools such as InDesign and Illustrator. Act as the communication interface between CERN openlab management, industry partners, researchers, and CERN central communication teams. Support and manage the communication of the CERN openlab Summer Student Programme, including promotion, lectures programme, and student-related communications. Your profile: Experience managing and creating websites using CMS platforms such as Drupal and WordPress. Experience creating visual assets and short-form videos using tools such as Canva, Premiere Pro, and CapCut. Demonstrated expertise in digital content creation and multimedia production. Editorial design skills using Adobe InDesign and Illustrator. Experience working with multiple stakeholders in international environments. Ability to translate technical or scientific topics into accessible and engaging narratives. Experience within scientific, research, innovation, or technology environments would be considered an asset. Skills: Strategic communications planning. Science communications. Audio-visual production. Social media. Spoken and written English, with a commitment to learn French. Eligibility criteria: You are a national of a CERN Member or Associate Member State . You have a professional background in Science Communication (or a related field) and have either: a Master's degree with 2 to 6 years of post-graduation professional experience; or a PhD with no more than 3 years of post-graduation professional experience. You have never had a CERN fellow or graduate contract before.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000116153039-cern-openlab-communications-officer-it-ce-cht-2026-72-grap-?oga=true",
-    "status": "matched"
-  },
   "https://gloorlang.starhunter.software/Headhunter/project/job-ad/hash/693ffd941548c": {
     "external_url": "https://gloorlang.starhunter.software/Headhunter/project/job-ad/hash/693ffd941548c",
     "status": "ignored",
@@ -774,7 +754,7 @@
     "title": "Associate Director, Senior International Clinical Trial Regulatory Lead",
     "company": "Takeda",
     "location": "Zurich, Switzerland",
-    "posted_date": "2026-03-24",
+    "posted_date": "2026-03-23",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -844,7 +824,7 @@
     "title": "Senior Scientist, Translational Medicine Oncology (Hematology)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-03-27",
+    "posted_date": "2026-03-26",
     "department": "",
     "score": 12,
     "matched_keywords": [
@@ -1062,7 +1042,7 @@
     "title": "Post Doctorate Scientist in Intestinal Inflammation - at the Institute of Human Biology (IHB)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-03-31",
+    "posted_date": "2026-03-30",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -1128,7 +1108,7 @@
     "title": "Partnering and Portfolio Analytics Lead",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-01",
+    "posted_date": "2026-03-31",
     "department": "",
     "score": -1,
     "matched_keywords": [
@@ -1145,7 +1125,7 @@
     "title": "Senior Scientist, Material Qualification & Release (QC GMP)",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-04-01",
+    "posted_date": "2026-03-31",
     "department": "",
     "score": -1,
     "matched_keywords": [
@@ -1187,7 +1167,7 @@
     "title": "Associate Scientist in Analytical Development for Synthetic Molecules",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-02",
+    "posted_date": "2026-04-01",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1203,7 +1183,7 @@
     "title": "Scientist – QC Lab Systems & CSV (GMP)",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-04-02",
+    "posted_date": "2026-04-01",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -1218,7 +1198,7 @@
     "title": "Senior Scientist – Manufacturing Science & Technology (Biologics USP/DSP)",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-04-02",
+    "posted_date": "2026-04-01",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -1236,7 +1216,7 @@
     "title": "Scientist Bio-/Chemical Quality Control",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-04-02",
+    "posted_date": "2026-04-01",
     "department": "",
     "score": -1,
     "matched_keywords": [
@@ -1330,7 +1310,7 @@
     "title": "PTD Synthetic Molecules ADQC - Analytical Scientist in the Lab  (2 year fixed term contract)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-03",
+    "posted_date": "2026-04-02",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1343,7 +1323,7 @@
     "title": "Manager Quality System & Regulatory Compliance",
     "company": "Abbott",
     "location": "Switzerland - Zurich",
-    "posted_date": "2026-04-03",
+    "posted_date": "2026-04-02",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1544,7 +1524,7 @@
     "title": "Project Manager – Spatial Biology Product Development (8-9 months contract)",
     "company": "Bio-Techne / Lunaphore",
     "location": "Tolochenaz, Switzerland",
-    "posted_date": "2026-04-08",
+    "posted_date": "2026-04-07",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1573,7 +1553,7 @@
     "title": "Computational Biology - Oncology",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-09",
+    "posted_date": "2026-04-08",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -1624,7 +1604,7 @@
     "title": "Internship in Innovation & Sustainability - For students in the field of Computer Science, Informatics, Business Informatics, Data Science, Statistics, Mathematics, or Business Analytics",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-10",
+    "posted_date": "2026-04-09",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1639,7 +1619,7 @@
     "title": "Internship in Innovation & Sustainability - For students in the field of Computer Science, Business Analytics, Data Engineering, Data Science, Data Governance or Data Management and Architecture",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-10",
+    "posted_date": "2026-04-09",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1652,7 +1632,7 @@
     "title": "Internship in Innovation & Sustainability - For students in the field of Pharmacoepidemiology, Epidemiology, Biostatistics, Data Science, Health Informatics, or Public Health",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-10",
+    "posted_date": "2026-04-09",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1667,7 +1647,7 @@
     "title": "Internship in Innovation & Sustainability - For students with a background in STEM, preferably in Chemistry, Pharmaceutical Sciences, Environmental Sciences and Engineering, or Data Science / Business Analytics with an understanding of chemistry",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-10",
+    "posted_date": "2026-04-09",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1680,7 +1660,7 @@
     "title": "Internship in Innovation & Sustainability - For students in the field of Sustainability, Computer Science, or Data Science",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-10",
+    "posted_date": "2026-04-09",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1693,7 +1673,7 @@
     "title": "Internship in Innovation & Sustainability - For students in the field of Computer Science / Data Science, Pharmaceutical Sciences / Pharmacy, Chemical-, Bioprocess-, Biomedical-, Industrial-, Process Engineering, (Bio)Chemistry",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-10",
+    "posted_date": "2026-04-09",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1728,7 +1708,7 @@
     "title": "Internship in Innovation & Sustainability - For students in the field of Computational Chemistry, Data Science, Computer Science or a related quantitative discipline",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-10",
+    "posted_date": "2026-04-09",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1759,7 +1739,7 @@
     "title": "Director International Medical Affairs, Immunology",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-04-07",
+    "posted_date": "2026-04-06",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -1826,7 +1806,7 @@
     "title": "Global Medical Affairs Lead Genomic Profiling",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-14",
+    "posted_date": "",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -1836,5 +1816,72 @@
       "oncology"
     ],
     "deducted_keywords": []
+  },
+  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000120617187": {
+    "description": "You will join the Controls Software & Services Group within the Beams department. Specifically, you will join a 4-developer team working on providing software solutions for the control and monitoring of all of the CERN particle accelerators, their transfer lines, associated experimental areas and various supporting technical infrastructure services. You will participate in developing a low-code platform, the Web-based Rapid Application Development (WRAP) platform which is a no-code solution, helping users throughout CERN create applications specific to their needs but based on the common underlying control system. It is paramount to modernising the way users interact with the thousands of devices that make up the accelerator complex. Your responsibilities Participate in the gathering of User Requirements. Contribute to the Analysis & Design of the tool with an emphasis on the UX aspects. Take part in the implementation of the full-stack including writing tests. Participate in the operational deployment and in user support. More information here . Your profile Initial experience using JavaScript/Typescript. Initial experience with one of the major Web frameworks (Angular, VueJS, React). Initial experience using Java. Familiarity with SpringBoot and Gradle. Skills Knowledge of Web frontend and backend technologies such as JavaScript/TypeScript, HTML/CSS. Knowledge of Web frontend frameworks, ideally Angular 2+ and familiarity with Angular Material. Knowledge of Java with Spring/Spring Boot. Knowledge of relational databases and SQL. Knowledge of Git and DevOps practices. Spoken and written English or French, with a commitment to learn the basics of the other language. Eligibility criteria: You are a national of a CERN Member or Associate Member State . By the application deadline, you have a maximum of two years of professional experience since graduation in Software Engineer (or a related field) and your highest educational qualification is either a Bachelor's or Master's degree . You have never had a CERN fellow or graduate contract before. Applicants without University degree are not eligible. Applicants with a PhD are not eligible.",
+    "external_url": "https://jobs.smartrecruiters.com/CERN/744000120617187-full-stack-web-developer-be-css-ide-2026-103-grae-?oga=true",
+    "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000120661447": {
+    "description": "Join the Vacuum, Surfaces and Coatings (VSC) Group, responsible for the design, construction, operation, maintenance, and continuous improvement of the Large Hadron Collider (LHC) vacuum system. As a Material and Surface Science Technician, you will contribute to the consolidation, upgrade, and maintenance of the LHC beam vacuum systems during Long Shutdown 3 (LS3), starting in 2026. Working as part of a dynamic operations team, you will play a key role in preparing the accelerator for its next phase of high-performance operation. Your responsibilities: Take part in on-site interventions in the LHC tunnel, contributing to helium leak detection, local heating operations, and the activation of non-evaporable getter (NEG) coatings. Carry out ultra-high vacuum pressure measurements and analyse residual gas composition with mass spectrometry, including identifying possible organic contaminants or air leaks. Assist in preparing and updating technical documentation, tracking the NEG performance of the LHC vacuum system during LS3 activities. Support quality assurance efforts by validating each step of the process and producing detailed intervention reports to ensure traceability and compliance Your profile: Basic understanding of ultra-high vacuum (UHV) principles. Awareness of outgassing phenomena in vacuum systems. Familiarity with simple techniques for creating and maintaining UHV environments. Basic knowledge of NEG (Non-Evaporable Getter) behaviour and use. Introductory know-how of quadrupole mass spectrometers (RGA) in UHV setups. Basic knowledge of helium leak detection methods. Skills Able to operate basic ultra-high vacuum (UHV) gauges and read their data. Able to assist with helium leak detection and note basic results. Able to help prepare and update simple technical documentation. Able to support on-site vacuum tasks, like NEG activation and checks. Spoken and written English or French, with a commitment to learn the basics of the other language. Eligibility criteria: You are a national of a CERN Member or Associate Member State . By the application deadline, you have a maximum of two years of professional experience since graduation in Material and Surface Science (or a related field) and your highest educational qualification is a general secondary education diploma . You have never had a CERN fellow or graduate contract before. Applicants with a Bachelor's, Master's or PhD degree are not eligible.",
+    "external_url": "https://jobs.smartrecruiters.com/CERN/744000120661447-vacuum-technician-te-vsc-bvo-2026-106-grae-?oga=true",
+    "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000120656437": {
+    "description": "In this role, you will support the operation and reliability of CERN's electronics pool equipment by testing, qualifying and maintaining a wide range of electronic instruments used in high-energy physics experiments and laboratories. You will maintain and improve test benches and procedures, troubleshoot equipment issues, and contribute to the evaluation of new devices. Through your work, you will help ensure the availability and performance of essential electronics systems for experimental teams. Your responsibilities Testing electronics equipment and instrumentation, identifying faults and carrying out firmware and hardware fixes, Creating and correcting test procedure documentation when required, Maintaining hardware and software of existing test benches in collaboration with the responsible technicians, Participating in the daily operations of the electronics pool service and provide occasional support to the service users. Your profile Interest in the field of electronics. Basic experience in testing, calibration and maintenance of laboratory equipment (including modular electronics and instrumentation). Experience in user support or customer-oriented services is considered an asset. Skills Knowledge and application of instrumentation and measurement techniques. Operation and maintenance of data-acquisition, monitoring and control systems. Application of modular low and high-voltage power supplies. Spoken and written English or French, with a commitment to learn the basics of the other language. Eligibility criteria: You are a national of a CERN Member or Associate Member State . By the application deadline, you have a maximum of two years of professional experience since graduation in Electronics (or a related field) and your highest educational qualification is a general secondary education diploma . You have never had a CERN fellow or graduate contract before. Applicants with a Bachelor's, Master's or PhD degree are not eligible.",
+    "external_url": "https://jobs.smartrecruiters.com/CERN/744000120656437-electronics-technician-ep-ese-be-2026-69-grae-?oga=true",
+    "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000120643462": {
+    "description": "You will take part in the fabrication and assembly of a wide range of electronic and opto-electronic test systems used to evaluate component performance. Using various machines in our mechanical workshop (CNC routers, milling machines, lathes, drill presses, etc.), you will manufacture parts to support the activities of the ESE group. You will also contribute to building wiring harnesses that connect devices to test systems, including for use in demanding environments such as radiation test facilities. In addition, you will assist in assembling and testing large-scale setups. Your responsibilities: Use machine tools to create mechanical parts for test setups. Assemble wiring and fibre harnesses. Solder electronic components onto PCBs. Design simple PCBs after receiving training if necessary. Carry out testing of cabling harnesses and assembled electronic circuits using a range of laboratory instruments. Your profile: Hands-on experience in mechanical parts manufacturing. Basic understanding of compact CNC machines. Familiarity with electronic board assembly, cable and wiring fabrication. Performed assembly, wiring, and testing of electromechanical assemblies. Skills: Ability to read and interpret mechanical drawings and Electronic schematics. Ability to operate conventional machine tools. Capable of building, wiring and testing Electromechanical assemblies. Working in teams: effective collaboration within multi-disciplinary teams. Spoken and written English, with a commitment to learn French. Eligibility criteria: You are a national of a CERN Member or Associate Member State . By the application deadline, you have a maximum of two years of professional experience since graduation in Technician in Mechatronic / Mec / Elect (or a related field) and your highest educational qualification is a general secondary education diploma . You have never had a CERN fellow or graduate contract before. Applicants with a Bachelor's, Master's or PhD degree are not eligible.",
+    "external_url": "https://jobs.smartrecruiters.com/CERN/744000120643462-mechatronics-technician-for-optical-link-ep-ese-be-2026-104-grae-?oga=true",
+    "status": "matched"
+  },
+  "/job/Basel/Sr-Scientist---Computational-Biology_202603-108151-1": {
+    "description": "At Roche you can show up as yourself, embraced for the unique qualities you bring. Our culture encourages personal expression, open dialogue, and genuine connections,  where you are valued, accepted and respected for who you are, allowing you to thrive both personally and professionally. This is how we aim to prevent, stop and cure diseases and ensure everyone has access to healthcare today and for generations to come. Join Roche, where every voice matters. The Position At Roche you can show up as yourself, embraced for the unique qualities you bring. Our culture encourages personal expression, open dialogue, and genuine connections, where you are valued, accepted and respected for who you are, allowing you to thrive both personally and professionally. This is how we aim to prevent, stop and cure diseases and ensure everyone has access to healthcare today and for generations to come. Join Roche, where every voice matters. A healthier future. It’s what drives us to innovate. To continuously advance science and ensure everyone has access to the healthcare they need today and for generations to come. Creating a world where we all have more time with the people we love. That’s what makes us Roche. The Computational Sciences Centre of Excellence is a global organisation enabling Roche’s Research and Early Development units to develop novel therapeutics that will have an impact on patient lives. Within the Computational Sciences Centre of Excellence, the Computational Biology and Medicine department focuses on furthering our understanding of disease pathogenesis, patient populations, and target biology by having access to the largest Pharma R&D datasets in the world. In partnership with our scientists across Roche, we create better medicines by augmenting every part of R&D through our data-driven culture. The Opportunity: We are seeking a highly motivated computational scientist to join our Neuroscience and Rare Diseases therapeutic area. In this role, you will be a key member of an interdisciplinary team dedicated to advancing our understanding of neurological diseases.  As Roche continues to build and advance its capabilities in computational and data-driven R&D, this position offers an integral role in our strategy. You will identify novel therapeutic targets and biomarkers by analyzing high-dimensional data. You will collaborate closely with leading laboratory scientists and clinicians, contributing directly to a pipeline of innovative medicines for patients with neurodegenerative and neuroinflammation diseases. You will also be part of the wider Computational Biology and Medicine unit of the Computational Sciences Centre of Excellence drawing on the shared experience and expertise of colleagues globally. Data Analysis & Insight Generation Lead the analysis of high-dimensional datasets such as single-cell, spatial, proteomics, metabolomics, and human genetics data to support therapeutic and biomarker development Collaborate closely with the AI/ML Foundation Model development teams and apply advanced quantitative methods, supporting drug discovery projects in Neuroscience and Rare Diseases. Deliver clear and objective data-driven insights to inform portfolio decision-making Collaboration & Strategy Contribute to the data and analytics strategy for Neuroscience and Rare Diseases efforts in collaboration with partners in the therapeutic area Develop effective working relationships with key stakeholders in the disease therapeutic area, laboratory teams, and computational teams Team & Culture Contribute to a collaborative workplace culture of scientific rigor, continuous improvement, and open feedback Support the scientific growth of team members by sharing knowledge and expertise Who you are You are a dedicated scientist with a strong background in applying computational methods to biological problems. You are motivated by scientific challenges and have a clear interest in translating data into meaningful biological insights. PhD in Bioinformatics, Biostatistics, Computational Biology, or a similar field with 3-5 years relevant work experience preferred. Demonstrated experience in drug discovery and/or translational research is highly valued Experience in disease biology is required; specific expertise in neurodegenerative diseases or neuro-immune interactions is a plus. Technical expertise in one or more of the following: analysis of high-dimensional Omic data (e.g., scRNA-seq, spatial data, proteomics, metabolomics), population statistical genetics, or integrative multi-omics from preclinical and/or clinical samples Evidenced scientific impact through primary author publications in scientific journals. Evidenced programming skills in R and/or Python. Working knowledge of a Linux/Unix environment and experience processing data on an HPC cluster Knowledge and experience in Statistical and Machine Learning methods Strong communication skills with the ability to present complex results clearly to both specialist and non-specialist audiences and the a bility to work effectively in a collaborative, cross-functional scientific environment. If you are passionate about contributing to a committed team and have the dedication to partnership and innovation, Roche is the place for you! Every role at Roche plays a part in making a difference in patients’ lives.  Unwavering focus, collaborative teamwork, and exceptional delivery are key behaviors that drive our mission of doing now what patients need next. Together, we can be transformative. Who we are A healthier future drives us to innovate. Together, more than 100’000 employees across the globe are dedicated to advance science, ensuring everyone has access to healthcare today and for generations to come. Our efforts result in more than 26 million people treated with our medicines and over 30 billion tests conducted using our Diagnostics products. We empower each other to explore new possibilities, foster creativity, and keep our ambitions high, so we can deliver life-changing healthcare solutions that make a global impact. Let’s build a healthier future, together. Roche is an Equal Opportunity Employer.",
+    "external_url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Sr-Scientist---Computational-Biology_202603-108151-1",
+    "status": "matched",
+    "title": "Sr. Scientist - Computational Biology",
+    "company": "Roche",
+    "location": "Basel",
+    "posted_date": "2026-04-14",
+    "department": "",
+    "score": 9,
+    "matched_keywords": [
+      "PhD",
+      "bioinformatics",
+      "computational biology",
+      "drug discovery",
+      "high-dimensional data",
+      "preclinical",
+      "proteomics",
+      "scRNA-seq",
+      "translational research"
+    ],
+    "deducted_keywords": []
+  },
+  "/job/Basel-City/Principal-Scientist---Oncology-Translational-Research_REQ-10067104": {
+    "description": "Job Description Summary Location: Basel, Switzerland Full time, onsite, #LI-Onsite The Oncology Translational Research (OTR) group within Novartis Biomedical Research seeks a highly motivated lab head to drive the translational strategy for early clinical radioligand therapy (RLT) programs. The role involves collaborative work with various groups across the drug development spectrum, including drug discovery, data science, and early clinical development groups. The successful candidate will be responsible for leading a team and will be tasked with the design & execution of preclinical translational studies and clinical biomarker plans. Job Description About the role: The Oncology Translational Research (OTR) group within Novartis Biomedical Research seeks a highly motivated lab head to drive the translational strategy for early clinical radioligand therapy (RLT) programs. The role involves collaborative work with various groups across the drug development spectrum, including drug discovery, data science, and early clinical development groups. The successful candidate will be responsible for leading a team and will be tasked with the design & execution of preclinical translational studies and clinical biomarker plans. Key responsibilities: Lead a research team and collaborate with groups across BR Oncology Contribute to biomarker strategies and supervise translational experimental plans for various RLT drug discovery programs Design and conduct translational studies, dissect the biological mechanisms driving response and resistance to RLT, and develop rational drug combinations. Mentor and develop associates with various levels of experience Essential Requirements: Ph.D. in molecular, cellular, cancer biology or related fields. Minimum 2 years of Postdoctoral and/or industry experience in an Oncology/Cancer biology relevant field Recognised academic publication record Deep understanding of cancer cell biology, familiarity with innovative cell and molecular biology techniques. Excellent creative thinking and problem-solving skills, scientific curiosity. Proficiency in working collaboratively and flexibly on various projects Strong communication skills, at ease with conveying complex scientific concepts Desirable Requirements: Strong foundational knowledge and experience working on cell death mechanisms, experience in the field of DNA damage response and repair, radiobiology or RLT. Expertise in prostate cancer biology Proficiency with data mining and computational skills. Track record in managing a research team and scientific projects Accessibility and accommodation Novartis is committed to working with and providing reasonable accommodation to all individuals. If, because of a medical condition or disability, you need a reasonable accommodation for any part of the recruitment process, or in order to receive more detailed information about the essential functions of a position, please send an e-mail to diversity.inclusion_ch@novartis.com and let us know the nature of your request and your contact information. Please include the job requisition number in your message Skills Desired Biomedical Research, Cancer Biology, Cancer Cell Biology, Cancer Cells, Cell and Molecular Biology, Cell Biology, Cell Death, DNA Damage, Drug Development, Molecular Biology",
+    "external_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Basel-City/Principal-Scientist---Oncology-Translational-Research_REQ-10067104",
+    "status": "matched"
+  },
+  "/job/Switzerland---Baar/Franchise-Lead-COPD--R-I-Swizerland-_R-246153": {
+    "description": "Franchise Lead COPD ( Inhaled + Biologic portfolio ) Location: Baar & Field based Competitive Salary & Excellent Company Benefits Who are we looking for? Do you have expertise in, and passion for, marketing and sales excellence? Would you like to apply your expertise and passion to transform the lives of patients with eosinophilic disorders, in a company that follows the science and turns ideas into life changing medicines? Then this position might be the one for you! About AstraZeneca AstraZeneca is a global, science-led, patient-focused biopharmaceutical company that focuses on the discovery, development and commercialisation of prescription medicines for some of the world’s most serious diseases. But we’re more than one of the world’s leading pharmaceutical companies. AstraZeneca’s Respiratory & Immunology (R&I) portfolio of existing and in-pipeline products encompasses therapies for Asthma, COPD ( chronic obstructive pulmonary disease ) and auto-immune diseases. We are seeking to strengthen the team with an eager and dedicated professional with experience in marketing and sales management. What you’ll do Reporting directly to the Business Unit Director R &I , you will be responsible for all brand and sales related activities to COPD and lead the marketing and sales te am You will l ead the COPD Franchise across all current and future indications (inha led + biologic) and be responsible for a near-term new product launch in collaboration with the cross-functional team You will develop the annual brand s trategy and operational plan and execute it cross-functionally. You are constantly informed about market conditions and incorporate them into your planning. You will collaborate with regulatory affairs, market access, medical and sales to ensure adequate implementation of the planned activities. Including (but not restricted to) promotional and non-promotional materials, omnichannel campaigns and educational events You will maintain contacts with opinion leaders and represent our company at scientific and promotional events. You will be responsible for the annual budgeting (costs and sales) and will supervise these goals on an ongoing basis. Your Profile You have at least 7 years’ experience in the pharmaceutical industry, and experience in both marketing and sales management. Previous experience in biologics, respiratory and/or specifically severe asthma is a plus. You are an innovative, goal-oriented personality with a high level of self-motivation. Strong analytical skills. Problem solving & solution oriented, you can safely handle complex tasks Confident communicator with excellent presentation skills. You know how to influence others and how to lead cross-functional partners at various seniority level Strong team player but you are determined and can succeed working with high level of autonomy You enjoy being close to the market and to your customers and facilitate a customer centric mindset in your team Ideally you have experience in working at global level and have an understanding of the drug development lifecycle, commercial as well as market access aspects. Languages: proficient in German and English is a requirement. French is a plus. Date Posted 14-Apr.-2026 Closing Date 29-Apr.-2026 AstraZeneca embraces diversity and equality of opportunity.  We are committed to building an inclusive and diverse team representing all backgrounds, with as wide a range of perspectives as possible, and harnessing industry-leading skills.  We believe that the more inclusive we are, the better our work will be.  We welcome and consider applications to join our team from all qualified candidates, regardless of their characteristics.  We comply with all applicable laws and regulations on non-discrimination in employment (and recruitment), as well as work authorization and employment eligibility verification requirements.",
+    "external_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/Switzerland---Baar/Franchise-Lead-COPD--R-I-Swizerland-_R-246153",
+    "status": "ignored",
+    "title": "Franchise Lead COPD (Inhaled + Biologic portfolio)",
+    "company": "AstraZeneca",
+    "location": "Switzerland - Baar",
+    "posted_date": "2026-04-14",
+    "department": "",
+    "score": 1,
+    "matched_keywords": [
+      "French",
+      "drug development",
+      "immunology"
+    ],
+    "deducted_keywords": [
+      "location:Switzerland - Baar"
+    ]
   }
 }
