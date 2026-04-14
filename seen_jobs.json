@@ -88,7 +88,7 @@
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-04-06"
+    "cached_at": "2026-04-14"
   },
   "_facets:roche:roche-ext": {
     "facets": {},
@@ -96,7 +96,7 @@
       "Basel",
       "Kaiseraugst"
     ],
-    "cached_at": "2026-04-06"
+    "cached_at": "2026-04-14"
   },
   "_facets:novartis:Novartis_Careers": {
     "facets": {},
@@ -104,63 +104,63 @@
       "Basel",
       "Stein"
     ],
-    "cached_at": "2026-04-06"
+    "cached_at": "2026-04-14"
   },
   "_facets:sanofi:SanofiCareers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-04-06"
+    "cached_at": "2026-04-14"
   },
   "_facets:abbott:abbottcareers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-04-06"
+    "cached_at": "2026-04-14"
   },
   "_facets:pfizer:PfizerCareers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-04-06"
+    "cached_at": "2026-04-14"
   },
   "_facets:gsk:GSKCareers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-04-06"
+    "cached_at": "2026-04-14"
   },
   "_facets:astrazeneca:Careers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-04-06"
+    "cached_at": "2026-04-14"
   },
   "_facets:amgen:Careers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-04-06"
+    "cached_at": "2026-04-14"
   },
   "_facets:gilead:gileadcareers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-04-06"
+    "cached_at": "2026-04-14"
   },
   "_facets:modernatx:M_tx": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-04-06"
+    "cached_at": "2026-04-14"
   },
   "_facets:takeda:External": {
     "facets": {},
@@ -169,28 +169,28 @@
       "Zug",
       "Glattpark"
     ],
-    "cached_at": "2026-04-06"
+    "cached_at": "2026-04-14"
   },
   "_facets:beigene:BeiGene": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-04-06"
+    "cached_at": "2026-04-14"
   },
   "_facets:msd:SearchJobs": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-04-06"
+    "cached_at": "2026-04-14"
   },
   "_facets:vrtx:Vertex_Careers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-04-06"
+    "cached_at": "2026-04-14"
   },
   "_facets:lonza:Lonza_Careers": {
     "facets": {},
@@ -199,7 +199,7 @@
       "Visp",
       "Stein"
     ],
-    "cached_at": "2026-04-06"
+    "cached_at": "2026-04-14"
   },
   "_facets:csl:CSL_External": {
     "facets": {},
@@ -209,7 +209,7 @@
       "St. Gallen",
       "Romont"
     ],
-    "cached_at": "2026-04-06"
+    "cached_at": "2026-04-14"
   },
   "_facets:alcon:careers_alcon": {
     "facets": {},
@@ -218,7 +218,7 @@
       "Hünenberg",
       "Zurich"
     ],
-    "cached_at": "2026-04-06"
+    "cached_at": "2026-04-14"
   },
   "_facets:galderma:External": {
     "facets": {},
@@ -227,70 +227,70 @@
       "La Tour-de-Peilz",
       "Lausanne"
     ],
-    "cached_at": "2026-04-06"
+    "cached_at": "2026-04-14"
   },
   "_facets:iqvia:IQVIA": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-04-06"
+    "cached_at": "2026-04-14"
   },
   "_facets:icon:broadbean_external": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-04-06"
+    "cached_at": "2026-04-14"
   },
   "_facets:parexel:Parexel_External_Careers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-04-06"
+    "cached_at": "2026-04-14"
   },
   "_facets:syneoshealth:Syneos_Health_External_Site": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-04-06"
+    "cached_at": "2026-04-14"
   },
   "_facets:myhrabc:Global": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-04-06"
+    "cached_at": "2026-04-14"
   },
   "_facets:thermofisher:ThermoFisherCareers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-04-06"
+    "cached_at": "2026-04-14"
   },
   "_facets:danaher:DanaherJobs": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-04-06"
+    "cached_at": "2026-04-14"
   },
   "_facets:illumina:illumina-careers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-04-06"
+    "cached_at": "2026-04-14"
   },
   "_facets:qiagen:QIAGEN": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-04-06"
+    "cached_at": "2026-04-14"
   },
   "_facets:agilent:Agilent_Careers": {
     "facets": {},
@@ -457,7 +457,7 @@
     "title": "Senior Manager HEOR",
     "company": "Abbott",
     "location": "Switzerland - Basel",
-    "posted_date": "2026-03-14",
+    "posted_date": "2026-03-15",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -475,7 +475,7 @@
     "title": "Associate Director, EUCAN Regulatory Lead - GI and Inflammation",
     "company": "Takeda",
     "location": "Zurich, Switzerland",
-    "posted_date": "2026-03-14",
+    "posted_date": "2026-03-15",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -490,7 +490,7 @@
     "title": "Manager, International Clinical Trial Regulatory Lead",
     "company": "Takeda",
     "location": "Zurich, Switzerland",
-    "posted_date": "2026-03-14",
+    "posted_date": "2026-03-15",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -505,7 +505,7 @@
     "title": "Associate Director, EUCAN Regulatory Lead - Oncology",
     "company": "Takeda",
     "location": "Zurich, Switzerland",
-    "posted_date": "2026-03-14",
+    "posted_date": "2026-03-15",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -521,7 +521,7 @@
     "title": "Vice President, Regulatory Affairs, Europe and International",
     "company": "BeiGene",
     "location": "Basel",
-    "posted_date": "2026-03-31",
+    "posted_date": "2026-04-01",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -537,7 +537,7 @@
     "title": "Scientist Microbiological Quality Control",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-03-14",
+    "posted_date": "2026-03-15",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -774,7 +774,7 @@
     "title": "Associate Director, Senior International Clinical Trial Regulatory Lead",
     "company": "Takeda",
     "location": "Zurich, Switzerland",
-    "posted_date": "2026-03-23",
+    "posted_date": "2026-03-24",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -844,7 +844,7 @@
     "title": "Senior Scientist, Translational Medicine Oncology (Hematology)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-03-26",
+    "posted_date": "2026-03-27",
     "department": "",
     "score": 12,
     "matched_keywords": [
@@ -952,7 +952,7 @@
     "title": "Machine Learning Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-03-14",
+    "posted_date": "2026-03-15",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -973,7 +973,7 @@
     "title": "Post Doctorate Scientist (Organoid Systems Biology) - Institute of Human Biology",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-03-14",
+    "posted_date": "2026-03-15",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -989,7 +989,7 @@
     "title": "Non-Malignant Hematology in vitro/in vivo Scientist_1 year temporary contract",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-03-14",
+    "posted_date": "2026-03-15",
     "department": "",
     "score": 8,
     "matched_keywords": [
@@ -1062,7 +1062,7 @@
     "title": "Post Doctorate Scientist in Intestinal Inflammation - at the Institute of Human Biology (IHB)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-03-30",
+    "posted_date": "2026-03-31",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -1128,7 +1128,7 @@
     "title": "Partnering and Portfolio Analytics Lead",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-03-31",
+    "posted_date": "2026-04-01",
     "department": "",
     "score": -1,
     "matched_keywords": [
@@ -1145,7 +1145,7 @@
     "title": "Senior Scientist, Material Qualification & Release (QC GMP)",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-03-31",
+    "posted_date": "2026-04-01",
     "department": "",
     "score": -1,
     "matched_keywords": [
@@ -1187,7 +1187,7 @@
     "title": "Associate Scientist in Analytical Development for Synthetic Molecules",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-01",
+    "posted_date": "2026-04-02",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1203,7 +1203,7 @@
     "title": "Scientist – QC Lab Systems & CSV (GMP)",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-04-01",
+    "posted_date": "2026-04-02",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -1218,7 +1218,7 @@
     "title": "Senior Scientist – Manufacturing Science & Technology (Biologics USP/DSP)",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-04-01",
+    "posted_date": "2026-04-02",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -1236,7 +1236,7 @@
     "title": "Scientist Bio-/Chemical Quality Control",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-04-01",
+    "posted_date": "2026-04-02",
     "department": "",
     "score": -1,
     "matched_keywords": [
@@ -1330,7 +1330,7 @@
     "title": "PTD Synthetic Molecules ADQC - Analytical Scientist in the Lab  (2 year fixed term contract)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-02",
+    "posted_date": "2026-04-03",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1343,7 +1343,7 @@
     "title": "Manager Quality System & Regulatory Compliance",
     "company": "Abbott",
     "location": "Switzerland - Zurich",
-    "posted_date": "2026-04-02",
+    "posted_date": "2026-04-03",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1544,7 +1544,7 @@
     "title": "Project Manager – Spatial Biology Product Development (8-9 months contract)",
     "company": "Bio-Techne / Lunaphore",
     "location": "Tolochenaz, Switzerland",
-    "posted_date": "2026-04-07",
+    "posted_date": "2026-04-08",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1573,7 +1573,7 @@
     "title": "Computational Biology - Oncology",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-08",
+    "posted_date": "2026-04-09",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -1624,7 +1624,7 @@
     "title": "Internship in Innovation & Sustainability - For students in the field of Computer Science, Informatics, Business Informatics, Data Science, Statistics, Mathematics, or Business Analytics",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-09",
+    "posted_date": "2026-04-10",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1639,7 +1639,7 @@
     "title": "Internship in Innovation & Sustainability - For students in the field of Computer Science, Business Analytics, Data Engineering, Data Science, Data Governance or Data Management and Architecture",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-09",
+    "posted_date": "2026-04-10",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1652,7 +1652,7 @@
     "title": "Internship in Innovation & Sustainability - For students in the field of Pharmacoepidemiology, Epidemiology, Biostatistics, Data Science, Health Informatics, or Public Health",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-09",
+    "posted_date": "2026-04-10",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1667,7 +1667,7 @@
     "title": "Internship in Innovation & Sustainability - For students with a background in STEM, preferably in Chemistry, Pharmaceutical Sciences, Environmental Sciences and Engineering, or Data Science / Business Analytics with an understanding of chemistry",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-09",
+    "posted_date": "2026-04-10",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1680,7 +1680,7 @@
     "title": "Internship in Innovation & Sustainability - For students in the field of Sustainability, Computer Science, or Data Science",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-09",
+    "posted_date": "2026-04-10",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1693,7 +1693,7 @@
     "title": "Internship in Innovation & Sustainability - For students in the field of Computer Science / Data Science, Pharmaceutical Sciences / Pharmacy, Chemical-, Bioprocess-, Biomedical-, Industrial-, Process Engineering, (Bio)Chemistry",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-09",
+    "posted_date": "2026-04-10",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1728,7 +1728,7 @@
     "title": "Internship in Innovation & Sustainability - For students in the field of Computational Chemistry, Data Science, Computer Science or a related quantitative discipline",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-09",
+    "posted_date": "2026-04-10",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1759,7 +1759,7 @@
     "title": "Director International Medical Affairs, Immunology",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-04-06",
+    "posted_date": "2026-04-07",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -1826,7 +1826,7 @@
     "title": "Global Medical Affairs Lead Genomic Profiling",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-13",
+    "posted_date": "2026-04-14",
     "department": "",
     "score": 4,
     "matched_keywords": [
