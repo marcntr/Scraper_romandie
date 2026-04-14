@@ -104,6 +104,7 @@ TITLE_FILTERS: list[str] = [
     "implementation manager",
     "implementation specialist",
     # Research scientist variants
+    "research fellow",
     "investigator",
     # Consulting
     "life sciences strategy consultant",
