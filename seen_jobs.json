@@ -521,7 +521,7 @@
     "title": "Vice President, Regulatory Affairs, Europe and International",
     "company": "BeiGene",
     "location": "Basel",
-    "posted_date": "2026-04-01",
+    "posted_date": "2026-03-31",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -557,11 +557,6 @@
       "Switzerland"
     ],
     "cached_at": "2026-04-10"
-  },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000115139827": {
-    "description": "Introduction As a Radiation Protection Physicist in the RP Accelerators and Sites (RP-AS) Section, you will assess and enforce compliance of CERN’s activities with Radiation Protection regulations. It entails projects, studies and services aimed at protecting people and the environment from ionising radiation, specifically in the context of studies carried out for the Future Circular Collider (FCC). Functions Perform studies and contribute to design optimisations in collaboration with other groups for the FCC Project. Monitor project developments with an emphasis on radiation protection for the public and the environment. Calculate doses to members of the public using established environmental and radiological models. Lead or participate in RP research and development, particularly the development, use and maintenance of models, computer codes, state-of-the-art tools and methods for radiological environmental impact assessments for the FCC Project. Produce, contribute to, or edit legal, technical and scientific documentation, including rules, specifications, reports, notes, international publications and presentations for internal and external use. Provide expertise to CERN's departments and management on radiation protection and radiological environmental aspects of the design, operation and maintenance of future accelerators and experiments. Present assessments to host state authorities in the framework of the Tripartite agreement. Supervise or coordinate the work of postdocs and students.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000115139827-radiation-protection-physicist-hse-rp-as-2026-61-ld-?oga=true",
-    "status": "matched"
   },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000114407563": {
     "description": "Welcome to the Marie Sklodowska-Curie Actions As a recent graduate from university or advanced technical institute, you’re no doubt looking for the chance to make your mark. Here it is: we seek lively and inquiring minds with a heightened sense of curiosity to take part in projects of advanced development work, in a broad range of applied sciences and engineering fields. Marie Sklodowska-Curie Actions train young researchers, building the careers of tomorrow’s leaders in research and industry. What could be a better boost for your career than becoming an Early Career Stage Researcher in an Innovative Training Networks project within the framework of the prestigious Marie Sklodowska-Curie programs? The chosen candidate will during the time at CERN work on ion beam developments and techniques for the production and characterization of radioactive anions for the ISOLDE facility ( https://isolde.web.cern.ch ). The holder will contribute to the development of techniques to efficiently produce negative ions from radioactive species at ISOLDE through work in the offline laboratory, and will also participate in online experiments for their characterization. During the year at University of Gothenburg the student will join the Laser spectroscopy research  group” ( https://www.physics.gu.se/ english / research / laser spectroscopy) led by professor Dag Hanstorp.  Here the holder of the position will take courses, get basic training in laser and ion beam technologies and participate in research on photodetachment of negative ions.",
@@ -653,11 +648,6 @@
       "medical affairs"
     ],
     "deducted_keywords": []
-  },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000115651898": {
-    "description": "Are you a passionate developer who enjoys solving complex problems and working with modern technologies? Join us in developing firmware for the next generation data acquisition and real-time processing system of the Compact Muon Solenoid (CMS) experiment at the LHC. We are upgrading the CMS level-1 (L1) trigger system built on custom FPGA logic to handle the high data rates expected in the upcoming High-Luminosity LHC phase, including a novel L1 Data Scouting system to analyse all events using coarse L1 information, and designing a next-generation data acquisition system for it. You will develop the FPGA firmware for this data acquisition system and help test the first prototypes of its custom electronics boards. This work is part of the NextGen Triggers project, a multi-year collaboration focused on applying AI and high-performance computing to trigger and data processing in LHC experiments. Your responsibilities Develop firmware for data acquisition and real-time processing in the L1 Data Scouting demonstrator system, and potentially the online software to control the system. Contribute to the development and testing of the first prototypes of the new data acquisition electronics boards. Contribute to the development and operations of a demonstration system for the L1 Data Scouting concept Collaborate closely with members of the CMS L1 trigger and data scouting groups at CERN. Present project work and results at CERN-hosted and international conferences and workshops. Your profile Experience with firmware development for AMD Xilinx FPGAs and Systems-on-chip (Versal, Zynq) is required. Experience with high-speed optical links and data acquisition / trigger systems of high energy physics experiments would be beneficial. Experience with electronics, e.g. reading schematics, configuring electronic components via I2C, etc., would be a plus. Skills Knowledge of VHDL and of the AMD Xilinx firmware development tools (Vivado) is required. Knowledge of C++, python, git and containerised software would be a plus. Spoken and written English, with a commitment to learn French. Eligibility criteria: You have a professional background in Electronics, Computer Science, Physics (or a related field) and have either: a Master's degree with 2 to 6 years of post-graduation professional experience; or a PhD with no more than 3 years of post-graduation professional experience. You have never had a CERN fellow or graduate contract before.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000115651898-firmware-developer-fpga-ep-cms-tdq-2026-66-grap-?oga=true",
-    "status": "matched"
   },
   "_facets:onehealthineers:SHSJB": {
     "facets": {},
@@ -753,7 +743,7 @@
     "title": "Associate Director, Senior International Clinical Trial Regulatory Lead",
     "company": "Takeda",
     "location": "Zurich, Switzerland",
-    "posted_date": "2026-03-24",
+    "posted_date": "2026-03-23",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -795,11 +785,6 @@
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000116542387-embedded-systems-engineer-ep-lcb-2026-89-grae-?oga=true",
     "status": "matched"
   },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000116625518": {
-    "description": "As a Project Coordination Officer ( HI-ECN3 ), you will be responsible for the planning and coordination of dismantling/installation activities associated to the HI-ECN3 project. The HI-ECN3 project has the mission to create a new High-Intensity facility that will be located in the ECN3 existing cavern in order to exploit fully the SPS complex availability into a new intensity frontier for Fixed Target physics in Run4 and beyond. With this in mind, and given that the HI-ECN3 project is already underway, a detailed coordination and planning (short, medium and long-term) is required in order to fit all the dismantling and installation activities within the time and resources available. You will have the opportunity to integrate a dynamic team in charge of the Injectors programmed stops, with a large view of CERN infrastructures. This position allows learning and understanding the general organisation of CERN accelerators during a Long Shutdown, to support major projects, but also the opportunity to learn about CERN infrastructures. You will also have the opportunity to work with project management tools like MS Project and other planning tools, and increase your technical and behavioral skills in an international environment. Your responsibilities: You will join the HI-ECN3 project coordination team and you will contribute to: A continuous and smooth communication with the different work package leaders, works and service supervisors, and on-site teams. The dismantling/installation preparation process, to evaluate the work progress and detect deviations with respect to the defined planning, integration and functional aspects. The understanding of needs towards converting an existing infrastructure in a new experimental area. The control of documentation (e.g. technical specifications, Engineering Change Requests, Space reservations) and to the integration checks from the coordination point of view. The written reports or presentations, especially for the Technical Design Report document. In collaboration with the different stakeholders, you will: Plan and coordinate dismantling and installation activities that will take place during the Long Shutdown 3, ensuring all activities are carried out within agreed overall schedule and space bounderies. Prepare all supporting documentation and liaise between the stakeholders. Identify and resolve conflicting co-activity issues with the stakeholders concerned and the Project Leader. Collect and structure information, perform analysis of the data collected and ensure a proper follow-up with the different stakeholders. Work in close collaboration with different work package leaders, works and services supervisor, to ensure their follow up and implementation. Your profile: Good understanding of interactions between different engineering domains. Demonstrated capability of dealing with unstructured information and changes along the path. Project management and coordination (university project, previous work). Working with project planning tools (MS project or similar). Organisation, planning and control processes. Skills: Structured thinking, organised and able to work independently. Efficient communication. Organisation, planning and control processes. Spoken and written English or French, with a commitment to learn the basics of the other language. Eligibility criteria: You are a national of a CERN Member or Associate Member State . By the application deadline, you have a maximum of two years of professional experience since graduation in Engineering (mechanical/electrical/industrial/aerospace) or a related field, and your highest educational qualification is either a Bachelor's or Master's degree . You have never had a CERN fellow or graduate contract before. Applicants without University degree are not eligible. Applicants with a PhD are not eligible.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000116625518-project-coordination-officer-hi-ecn3-en-ace-osi-2026-88-grae-?oga=true",
-    "status": "matched"
-  },
   "_generic:Hurdle Bio": {
     "keywords": "npp"
   },
@@ -823,7 +808,7 @@
     "title": "Senior Scientist, Translational Medicine Oncology (Hematology)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-03-27",
+    "posted_date": "2026-03-26",
     "department": "",
     "score": 12,
     "matched_keywords": [
@@ -984,7 +969,7 @@
     "title": "Post Doctorate Scientist in Intestinal Inflammation - at the Institute of Human Biology (IHB)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-03-31",
+    "posted_date": "2026-03-30",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -1006,11 +991,6 @@
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000117633982": {
     "description": "Introduction Are you interested in detector technologies and thin-film processing for Micro-Pattern Gas Detectors used in particle physics experiments? This hands-on role involves the development, processing, and characterisation of advanced detector components and thin-film coatings. The ideal candidate will have proven experience in detector processing techniques, thin-film deposition systems, and quality assurance procedures. A practical approach to problem solving and the ability to collaborate with technical teams and experiment collaborators are essential. If you are passionate about experimental detector development and thrive in a dynamic scientific environment, we would love to hear from you. Functions Contribute to the operation and development of thin-film processing and sputtering technologies used in detector production. Develop and optimise processes for new materials and detector technologies used in Micro-Pattern Gas Detectors. Support R&D activities for future detector technologies in collaboration with internal teams and international partners. Interact with collaborators to define technical requirements and provide advice on available technologies. Contribute to the preparation of technical documentation, offers and project specifications for detector production or processing. Participate in detector preparation, cleaning, recovery and refurbishment procedures for gaseous detectors. Carry out detector quality assurance procedures including microscopic inspections, adhesion tests, and thickness measurements.",
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000117633982-applied-physicist-micro-pattern-technologies-workshop-ep-dt-ef-2026-67-ld-?oga=true",
-    "status": "matched"
-  },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000117853837": {
-    "description": "You will develop and maintain Python services and libraries while supporting the team in DevOps-related activities. This includes ensuring reliable operation of development and production infrastructure running critical web applications used to operate CERN's power converters. You will take ownership of several services and maintain the DevOps environment, including local setups, CI/CD pipelines, and cluster configurations, while acting as the main contact with infrastructure teams providing the Kubernetes platform. Working in an agile team, you will contribute to product development during Scrum sprints and address operational issues as they arise. Your responsibilities: Develop and maintain libraries, background services, and REST APIs in Python. Maintain scripts in Bash and Python. Maintain Docker and Docker Compose development setups. Create and maintain CI/CD pipelines with GitLab CI. Configure and maintain application deployments using Kubernetes and Helm charts. Investigate and resolve issues related to development environments, CI/CD pipelines, and application deployments. More information here . Your profile: Experience designing and developing python libraries and services. Experience designing and developing web back-ends (especially REST APIs). Experience operating and troubleshooting containerised applications in development or production environments. Experience setting up and maintaining CI/CD pipelines. Knowledge of networking and modern web application architectures would be an advantage. Skills: Python (FastAPI, Pydantic, SQLAlchemy, asyncio). Docker and Docker Compose. Kubernetes and Helm. Git and GitLab CI/CD. Bash scripting. Spoken and written English, with a commitment to learn French. Eligibility criteria: You are a national of a CERN Member or Associate Member State . By the application deadline, you have a maximum of two years of professional experience since graduation in Computer Science, Software Engineering (or a related field) and your highest educational qualification is either a Bachelor's or Master's degree . You have never had a CERN fellow or graduate contract before. Applicants without University degree are not eligible. Applicants with a PhD are not eligible.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000117853837-software-engineer-python-devops-sy-epc-ccs-2026-86-grae-?oga=true",
     "status": "matched"
   },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000117803585": {
@@ -1050,7 +1030,7 @@
     "title": "Senior Scientist, Material Qualification & Release (QC GMP)",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-04-01",
+    "posted_date": "2026-03-31",
     "department": "",
     "score": -1,
     "matched_keywords": [
@@ -1092,7 +1072,7 @@
     "title": "Associate Scientist in Analytical Development for Synthetic Molecules",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-02",
+    "posted_date": "2026-04-01",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1108,7 +1088,7 @@
     "title": "Scientist – QC Lab Systems & CSV (GMP)",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-04-02",
+    "posted_date": "2026-04-01",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -1123,7 +1103,7 @@
     "title": "Senior Scientist – Manufacturing Science & Technology (Biologics USP/DSP)",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-04-02",
+    "posted_date": "2026-04-01",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -1141,7 +1121,7 @@
     "title": "Scientist Bio-/Chemical Quality Control",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-04-02",
+    "posted_date": "2026-04-01",
     "department": "",
     "score": -1,
     "matched_keywords": [
@@ -1218,7 +1198,7 @@
     "title": "PTD Synthetic Molecules ADQC - Analytical Scientist in the Lab  (2 year fixed term contract)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-03",
+    "posted_date": "2026-04-02",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1231,7 +1211,7 @@
     "title": "Manager Quality System & Regulatory Compliance",
     "company": "Abbott",
     "location": "Switzerland - Zurich",
-    "posted_date": "2026-04-03",
+    "posted_date": "2026-04-02",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1406,7 +1386,7 @@
     "title": "Project Manager – Spatial Biology Product Development (8-9 months contract)",
     "company": "Bio-Techne / Lunaphore",
     "location": "Tolochenaz, Switzerland",
-    "posted_date": "2026-04-08",
+    "posted_date": "2026-04-07",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1435,7 +1415,7 @@
     "title": "Computational Biology - Oncology",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-09",
+    "posted_date": "2026-04-08",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -1481,7 +1461,7 @@
     "title": "Internship in Innovation & Sustainability - For students in the field of Computer Science, Informatics, Business Informatics, Data Science, Statistics, Mathematics, or Business Analytics",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-10",
+    "posted_date": "2026-04-09",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1496,7 +1476,7 @@
     "title": "Internship in Innovation & Sustainability - For students in the field of Computer Science, Business Analytics, Data Engineering, Data Science, Data Governance or Data Management and Architecture",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-10",
+    "posted_date": "2026-04-09",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1509,7 +1489,7 @@
     "title": "Internship in Innovation & Sustainability - For students in the field of Pharmacoepidemiology, Epidemiology, Biostatistics, Data Science, Health Informatics, or Public Health",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-10",
+    "posted_date": "2026-04-09",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1524,7 +1504,7 @@
     "title": "Internship in Innovation & Sustainability - For students with a background in STEM, preferably in Chemistry, Pharmaceutical Sciences, Environmental Sciences and Engineering, or Data Science / Business Analytics with an understanding of chemistry",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-10",
+    "posted_date": "2026-04-09",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1537,7 +1517,7 @@
     "title": "Internship in Innovation & Sustainability - For students in the field of Sustainability, Computer Science, or Data Science",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-10",
+    "posted_date": "2026-04-09",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1550,7 +1530,7 @@
     "title": "Internship in Innovation & Sustainability - For students in the field of Computer Science / Data Science, Pharmaceutical Sciences / Pharmacy, Chemical-, Bioprocess-, Biomedical-, Industrial-, Process Engineering, (Bio)Chemistry",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-10",
+    "posted_date": "2026-04-09",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1585,7 +1565,7 @@
     "title": "Internship in Innovation & Sustainability - For students in the field of Computational Chemistry, Data Science, Computer Science or a related quantitative discipline",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-10",
+    "posted_date": "2026-04-09",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1616,7 +1596,7 @@
     "title": "Director International Medical Affairs, Immunology",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-04-07",
+    "posted_date": "2026-04-06",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -1669,7 +1649,7 @@
     "title": "Global Medical Affairs Lead Genomic Profiling",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "",
+    "posted_date": "2026-04-13",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -1704,7 +1684,7 @@
     "description": "At Roche you can show up as yourself, embraced for the unique qualities you bring. Our culture encourages personal expression, open dialogue, and genuine connections,  where you are valued, accepted and respected for who you are, allowing you to thrive both personally and professionally. This is how we aim to prevent, stop and cure diseases and ensure everyone has access to healthcare today and for generations to come. Join Roche, where every voice matters. The Position At Roche you can show up as yourself, embraced for the unique qualities you bring. Our culture encourages personal expression, open dialogue, and genuine connections, where you are valued, accepted and respected for who you are, allowing you to thrive both personally and professionally. This is how we aim to prevent, stop and cure diseases and ensure everyone has access to healthcare today and for generations to come. Join Roche, where every voice matters. A healthier future. It’s what drives us to innovate. To continuously advance science and ensure everyone has access to the healthcare they need today and for generations to come. Creating a world where we all have more time with the people we love. That’s what makes us Roche. The Computational Sciences Centre of Excellence is a global organisation enabling Roche’s Research and Early Development units to develop novel therapeutics that will have an impact on patient lives. Within the Computational Sciences Centre of Excellence, the Computational Biology and Medicine department focuses on furthering our understanding of disease pathogenesis, patient populations, and target biology by having access to the largest Pharma R&D datasets in the world. In partnership with our scientists across Roche, we create better medicines by augmenting every part of R&D through our data-driven culture. The Opportunity: We are seeking a highly motivated computational scientist to join our Neuroscience and Rare Diseases therapeutic area. In this role, you will be a key member of an interdisciplinary team dedicated to advancing our understanding of neurological diseases.  As Roche continues to build and advance its capabilities in computational and data-driven R&D, this position offers an integral role in our strategy. You will identify novel therapeutic targets and biomarkers by analyzing high-dimensional data. You will collaborate closely with leading laboratory scientists and clinicians, contributing directly to a pipeline of innovative medicines for patients with neurodegenerative and neuroinflammation diseases. You will also be part of the wider Computational Biology and Medicine unit of the Computational Sciences Centre of Excellence drawing on the shared experience and expertise of colleagues globally. Data Analysis & Insight Generation Lead the analysis of high-dimensional datasets such as single-cell, spatial, proteomics, metabolomics, and human genetics data to support therapeutic and biomarker development Collaborate closely with the AI/ML Foundation Model development teams and apply advanced quantitative methods, supporting drug discovery projects in Neuroscience and Rare Diseases. Deliver clear and objective data-driven insights to inform portfolio decision-making Collaboration & Strategy Contribute to the data and analytics strategy for Neuroscience and Rare Diseases efforts in collaboration with partners in the therapeutic area Develop effective working relationships with key stakeholders in the disease therapeutic area, laboratory teams, and computational teams Team & Culture Contribute to a collaborative workplace culture of scientific rigor, continuous improvement, and open feedback Support the scientific growth of team members by sharing knowledge and expertise Who you are You are a dedicated scientist with a strong background in applying computational methods to biological problems. You are motivated by scientific challenges and have a clear interest in translating data into meaningful biological insights. PhD in Bioinformatics, Biostatistics, Computational Biology, or a similar field with 3-5 years relevant work experience preferred. Demonstrated experience in drug discovery and/or translational research is highly valued Experience in disease biology is required; specific expertise in neurodegenerative diseases or neuro-immune interactions is a plus. Technical expertise in one or more of the following: analysis of high-dimensional Omic data (e.g., scRNA-seq, spatial data, proteomics, metabolomics), population statistical genetics, or integrative multi-omics from preclinical and/or clinical samples Evidenced scientific impact through primary author publications in scientific journals. Evidenced programming skills in R and/or Python. Working knowledge of a Linux/Unix environment and experience processing data on an HPC cluster Knowledge and experience in Statistical and Machine Learning methods Strong communication skills with the ability to present complex results clearly to both specialist and non-specialist audiences and the a bility to work effectively in a collaborative, cross-functional scientific environment. If you are passionate about contributing to a committed team and have the dedication to partnership and innovation, Roche is the place for you! Every role at Roche plays a part in making a difference in patients’ lives.  Unwavering focus, collaborative teamwork, and exceptional delivery are key behaviors that drive our mission of doing now what patients need next. Together, we can be transformative. Who we are A healthier future drives us to innovate. Together, more than 100’000 employees across the globe are dedicated to advance science, ensuring everyone has access to healthcare today and for generations to come. Our efforts result in more than 26 million people treated with our medicines and over 30 billion tests conducted using our Diagnostics products. We empower each other to explore new possibilities, foster creativity, and keep our ambitions high, so we can deliver life-changing healthcare solutions that make a global impact. Let’s build a healthier future, together. Roche is an Equal Opportunity Employer.",
     "external_url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Sr-Scientist---Computational-Biology_202603-108151-1",
     "status": "ignored",
-    "title": "Sr. Scientist - Computational Biology",
+    "title": "Sr. Scientist - Computational Biology - Neuroscience & Rare Diseases",
     "company": "Roche",
     "location": "Basel",
     "posted_date": "2026-04-15",
@@ -1735,7 +1715,7 @@
     "title": "Franchise Lead COPD (Inhaled + Biologic portfolio)",
     "company": "AstraZeneca",
     "location": "Switzerland - Baar",
-    "posted_date": "2026-04-15",
+    "posted_date": "",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1791,7 +1771,7 @@
     "title": "Post Doctorate Scientist – Vascularized Kidney Organoids - at the Institute of Human Biology (IHB)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-15",
+    "posted_date": "",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -1810,7 +1790,7 @@
     "title": "Internship for Students of Biology, Biochemistry in the Control Strategy Scientist Group",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-15",
+    "posted_date": "",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1826,7 +1806,7 @@
     "title": "Internship in Computational Biology: CVRM Genetics",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-15",
+    "posted_date": "",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -1844,7 +1824,7 @@
     "title": "Senior USP Labs Scientist",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-04-15",
+    "posted_date": "",
     "department": "",
     "score": -1,
     "matched_keywords": [
@@ -1952,6 +1932,23 @@
       "PhD",
       "location:lausanne"
     ],
+    "deducted_keywords": []
+  },
+  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000120883927": {
+    "description": "Are you a passionate developer who enjoys solving complex problems and working with modern technologies? Join us in developing firmware for the next generation data acquisition and real-time processing system of the Compact Muon Solenoid (CMS) experiment at the LHC. We are upgrading the CMS level-1 (L1) trigger system built on custom FPGA logic to handle the high data rates expected in the upcoming High-Luminosity LHC phase, including a novel L1 Data Scouting system to analyse all events using coarse L1 information, and designing a next-generation data acquisition system for it. You will develop the FPGA firmware for this data acquisition system and help test the first prototypes of its custom electronics boards. This work is part of the NextGen Triggers project, a multi-year collaboration focused on applying AI and high-performance computing to trigger and data processing in LHC experiments. Your responsibilities Develop firmware for data acquisition and real-time processing in the L1 Data Scouting demonstrator system, and potentially the online software to control the system. Contribute to the development and testing of the first prototypes of the new data acquisition electronics boards. Contribute to the development and operations of a demonstration system for the L1 Data Scouting concept Collaborate closely with members of the CMS L1 trigger and data scouting groups at CERN. Present project work and results at CERN-hosted and international conferences and workshops. Your profile Experience with firmware development for AMD Xilinx FPGAs and Systems-on-chip (Versal, Zynq) is required. Experience with high-speed optical links and data acquisition / trigger systems of high energy physics experiments would be beneficial. Experience with electronics, e.g. reading schematics, configuring electronic components via I2C, etc., would be a plus. Skills Knowledge of VHDL and of the AMD Xilinx firmware development tools (Vivado) is required. Knowledge of C++, python, git and containerised software would be a plus. Spoken and written English, with a commitment to learn French. Eligibility criteria: You have a professional background in Electronics, Computer Science, Physics (or a related field) and have either: a Master's degree with 2 to 6 years of post-graduation professional experience; or a PhD with no more than 3 years of post-graduation professional experience. You have never had a CERN fellow or graduate contract before.",
+    "external_url": "https://jobs.smartrecruiters.com/CERN/744000120883927-firmware-developer-fpga-ep-cms-tdq-2026-66-grap-?oga=true",
+    "status": "matched"
+  },
+  "https://www.randstad.ch/en/jobs/technical-rd-senior-associate-scientist-mwd_basel_35b0418a-ae4e-4841-abe0-a4c99a8531b1/": {
+    "external_url": "https://www.randstad.ch/en/jobs/technical-rd-senior-associate-scientist-mwd_basel_35b0418a-ae4e-4841-abe0-a4c99a8531b1/",
+    "status": "matched",
+    "title": "Technical R&D Senior Associate Scientist (m/w/d)",
+    "company": "Randstad",
+    "location": "Basel, Basel-City, Switzerland",
+    "posted_date": "",
+    "department": "",
+    "score": 0,
+    "matched_keywords": [],
     "deducted_keywords": []
   }
 }
