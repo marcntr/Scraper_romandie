@@ -9,7 +9,7 @@
     "keywords": "scientist"
   },
   "_generic:Charles River Laboratories": {
-    "keywords": "regulatory,scientist"
+    "keywords": "regulatory"
   },
   "_generic:MoonLake Immunotherapeutics": {
     "keywords": "clinical development,medical affairs"
@@ -395,11 +395,6 @@
     "external_url": "https://jobs.smartrecruiters.com/Sobi/744000108935175-key-account-manager-haematology-switzerland-?oga=true",
     "status": "matched"
   },
-  "https://api.smartrecruiters.com/v1/companies/Sobi/postings/744000108177445": {
-    "description": "The IT department, a part of IS/IT, are responsible for architecture, strategy, maintenance and support of Sobi information systems and IT infrastructure as clients, servers, network and other infrastructure equipment. IT department consist of four teams – IT Operations, Infrastructure & Cyber security, Digital Workplace and Automation & Integration.All IT activities are performed in accordance with Sobi’s quality framework (GxP) and applicable regulatory and authority requirements. Within this context, the Digital Workplace & AI function plays a key role in enabling secure, compliant, and scalable digital solutions across Sobi. Under the leadership of the Head of Digital Workplace & AI, the team is responsible for developing and advancing Sobi’s Digital Workplace, Microsoft 365 platform, and enterprise AI capabilities. This includes setting strategic direction, defining objectives, and delivering modern, AI-enabled tools that support collaboration, productivity, and innovation across the organization. Main responsibilities Develop and maintain enterprise-grade AI applications built on Azure OpenAI, including chat interfaces, document processing pipelines, and real-time collaboration features Design and implement Azure cloud solutions leveraging Azure Cosmos DB, Azure Cognitive Search, Azure Blob Storage, Azure Document Intelligence, and Microsoft Graph API Work with Digital Workplace & AI development activities, including service requests, change implementations, and roadmap deliverables aligned with team objectives Build and optimize full-stack applications using Next.js 14, React 18, TypeScript, and modern frontend/backend patterns (App Router, Server Components, Server Actions) Implement secure authentication and authorization using Azure AD OAuth2, NextAuth.js, and role-based access control (RBAC) in compliance with GxP requirements Develop real-time features using Azure SignalR Service and WebSocket technologies to enable collaborative user experiences Optimize AI/LLM integrations, including prompt engineering, token management, streaming completions, and multi-model AI orchestration Ensure code quality, security, and compliance through code reviews, testing, documentation, and adherence to Sobi's quality framework (GxP) Work proactively with ServiceNow to resolve incoming bug reports and other issues",
-    "external_url": "https://jobs.smartrecruiters.com/Sobi/744000108177445-it-operations-manager-full-stack-developer-azure-ai?oga=true",
-    "status": "matched"
-  },
   "https://jobs.boehringer-ingelheim.com/job/Basel-Portfolio-Key-Account-Manager-%28Region-East%29%2C-%28mfd%29-Swit/1289694901/": {
     "description": "The position We are seeking a seasoned professional to lead and advance Key Account Management in Region EAST, ensuring a unified customer experience and broad, rapid patient access. The role centers on developing and executing Key Account strategies across the full portfolio—leveraging crossfunctional insights, securing timely formulary inclusion, cocreating initiatives that enhance care pathways, and building strong relationships with key hospital and procurement stakeholders. Tasks & responsibilities As the primary coordinator, lead the development and execution of assigned Key Account plans, in close collaboration with Asset Teams and FieldForce (Medical and Sales) Analyze and synthesize information from multiple sources to understand potential, pressure and the holistic needs of the accounts; derive meaningful actions based on these insights Prepare and deliver compelling business cases to secure timely formulary inclusion and maximize uptake of BI medicines Identify and co-create initiatives with accounts that optimize care pathways and improve patient outcomes, supporting evidence generation Builds trustful relationships with key accounts through ongoing collaboration centered on improving patient outcomes and delivering joint value for the customer and Boehringer Ingelheim by ensuring patients and HCPs have access to treatment options Requirements At least 8 years in pharmaceutical sales, market access, or key account management Strong knowledge of Swiss healthcare system, hospital procurement, reimbursement processes, in combination with a strong network with accounts in region EAST Very strong negotiations and communication skills, coupled with the ability to develop clear and crisp account plans Matrix leadership and x-functional mindset: coordinate with various internal teams and operate across different Business Units to deliver a unified customer experience Proven track record of successful development and implementation of multi-stakeholder projects in the healthcare setting Proficiency in German and English; French and Italian are considered a plus Boehringer Ingelheim Switzerland: This is a field-based role in Region EAST - a valid driver’s license and willingness to travel extensively within Switzerland is required Nevertheless, a strong collaboration with the office-based colleagues as well as regular presence in the office of Boehringer Ingelheim Switzerland in Basel is expected Your Benefits Flexible working time models: home office and flexible working hours, depending on department and position – many things are possible with us. Since this is a field-base position, office-time either at the offices or at home is possible in agreement with line manager and job expectations. Learning & development: diverse training and development opportunities for your personal and professional growth. Because: you never stop learning. Attractive and competitive salary package with Performance-based bonus Assigned sales territory with minimal overnight travel Mental health support (EAP, coaching) Collaborative environment with strong team support despite field‑based work Regular team meetings, sales events and kick‑off sessions Appreciative culture with recognition programs Opportunity to actively shape customer relationships and regional market presence We are looking forward to receiving your application online! By uploading your application documents via our application portal, we can treat your data confidentially and in compliance with the GDPR. On our career site you will find further information about Boehringer Ingelheim as an employer as well as information about the application process and our different departments. Would you like to know what makes our employees special? What they tell about their motivation and their everyday work? Watch this video and hear for yourself what our colleagues have to share.",
     "external_url": "https://jobs.boehringer-ingelheim.com/job/Basel-Portfolio-Key-Account-Manager-%28Region-East%29%2C-%28mfd%29-Swit/1289694901/",
@@ -521,7 +516,7 @@
     "title": "Vice President, Regulatory Affairs, Europe and International",
     "company": "BeiGene",
     "location": "Basel",
-    "posted_date": "2026-04-01",
+    "posted_date": "2026-03-31",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -743,7 +738,7 @@
     "title": "Associate Director, Senior International Clinical Trial Regulatory Lead",
     "company": "Takeda",
     "location": "Zurich, Switzerland",
-    "posted_date": "2026-03-24",
+    "posted_date": "2026-03-23",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -768,11 +763,6 @@
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000116404008": {
     "description": "Introduction IT’s Compute and Devices Group is looking for a computing engineer to take over responsibility for the onsite High-Performance Compute (HPC) SLURM clusters which have established use cases in the Organisation including for the ATS sector and the Theory department. This position will be in the Compute and Configuration section, which is responsible for large scale compute, from the HPC farm through High Throughput Compute, Volunteer Computing and Configuration & Secret Management services. Functions Ensure service delivery for the SLURM HPC clusters to the user community as the primary service manager and technical lead of the service. Serve as the escalation point for the user community support requests, help to gather requirements and usage best practices. Configure, upgrade, monitor the clusters and provide ongoing maintenance. Ensure high utilisation of the resources by interfacing with HTCondor brokered backfill of resources. Define procedures and best practices for the wider team in order to promote operational support coverage. Look for synergies with other team members and teams for management of compute resources, or access to high performance compute resources for the community.",
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000116404008-high-performance-compute-hpc-engineer-it-cd-cc-2026-64-ld-?oga=true",
-    "status": "matched"
-  },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000116545198": {
-    "description": "You will be working on CERN's 5-Yearly Review, a strategic project that shapes our compensation and benefits policies. With the Compensation and Benefits team, you will analyse benchmarking results and contribute to assessing modifications to CERN's compensation structures and policies and model \"what if\" scenarios to evaluate the impact of policy changes. In addition, you will provide analytical support to the wider HR Department by developing dashboards and reports and occasionally support the analysis and determination of entry-level salaries in line with CERN's compensation framework. Your responsibilities: Participate in Compensation & Benefits benchmarking exercises, structural analysis and the review and development of related policies, including modelling of \"what-if\" scenarios. Perform data extraction, analysis and reporting to support compensation and benefits activities. Support operational activities in the area of entry salary calculations. Develop, maintain and improve dashboards, reports and data visualisations for the HR department. Ensure data quality and consistency by understanding underlying HR data and processes. Contribute to continuous improvement of data analytics tools and reporting, including the integration of AI tools. More information here . Your profile: Demonstrated ability to analyse, interpret and visualise data clearly. Good knowledge of Excel and Power BI (data manipulation, modeling and visualisation, and advanced functions). Understanding of HR data and processes. Experience with an HCM system, such as Oracle Fusion Cloud, would be an advantage. Skills: Strong analytical and problem-solving skills. Structured, detail-oriented and able to work independently. High level of integrity and confidentiality. Effective communication skills, with the ability to understand and translate requests from non-technical stakeholders and to communicate results clearly. Spoken and written English or French, with a commitment to learn the other language. Eligibility criteria: You are a national of a CERN Member or Associate Member State . You have a professional background in Human Resources, Business Administration (or a related field) and have either: a Master's degree with 2 to 6 years of post-graduation professional experience; or a PhD with no more than 3 years of post-graduation professional experience. You have never had a CERN fellow or graduate contract before.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000116545198--hr-data-analyst-hr-cbs-ra-2026-73-grap-?oga=true",
     "status": "matched"
   },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000116555976": {
@@ -808,7 +798,7 @@
     "title": "Senior Scientist, Translational Medicine Oncology (Hematology)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-03-27",
+    "posted_date": "2026-03-26",
     "department": "",
     "score": 12,
     "matched_keywords": [
@@ -969,7 +959,7 @@
     "title": "Post Doctorate Scientist in Intestinal Inflammation - at the Institute of Human Biology (IHB)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-03-31",
+    "posted_date": "2026-03-30",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -1030,7 +1020,7 @@
     "title": "Senior Scientist, Material Qualification & Release (QC GMP)",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-04-01",
+    "posted_date": "2026-03-31",
     "department": "",
     "score": -1,
     "matched_keywords": [
@@ -1072,7 +1062,7 @@
     "title": "Associate Scientist in Analytical Development for Synthetic Molecules",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-02",
+    "posted_date": "2026-04-01",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1088,7 +1078,7 @@
     "title": "Scientist – QC Lab Systems & CSV (GMP)",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-04-02",
+    "posted_date": "2026-04-01",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -1103,7 +1093,7 @@
     "title": "Senior Scientist – Manufacturing Science & Technology (Biologics USP/DSP)",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-04-02",
+    "posted_date": "2026-04-01",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -1121,7 +1111,7 @@
     "title": "Scientist Bio-/Chemical Quality Control",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-04-02",
+    "posted_date": "2026-04-01",
     "department": "",
     "score": -1,
     "matched_keywords": [
@@ -1198,7 +1188,7 @@
     "title": "PTD Synthetic Molecules ADQC - Analytical Scientist in the Lab  (2 year fixed term contract)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-03",
+    "posted_date": "2026-04-02",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1211,7 +1201,7 @@
     "title": "Manager Quality System & Regulatory Compliance",
     "company": "Abbott",
     "location": "Switzerland - Zurich",
-    "posted_date": "2026-04-03",
+    "posted_date": "2026-04-02",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1386,7 +1376,7 @@
     "title": "Project Manager – Spatial Biology Product Development (8-9 months contract)",
     "company": "Bio-Techne / Lunaphore",
     "location": "Tolochenaz, Switzerland",
-    "posted_date": "2026-04-08",
+    "posted_date": "2026-04-07",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1415,7 +1405,7 @@
     "title": "Computational Biology - Oncology",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-09",
+    "posted_date": "2026-04-08",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -1461,7 +1451,7 @@
     "title": "Internship in Innovation & Sustainability - For students in the field of Computer Science, Informatics, Business Informatics, Data Science, Statistics, Mathematics, or Business Analytics",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-10",
+    "posted_date": "2026-04-09",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1476,7 +1466,7 @@
     "title": "Internship in Innovation & Sustainability - For students in the field of Computer Science, Business Analytics, Data Engineering, Data Science, Data Governance or Data Management and Architecture",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-10",
+    "posted_date": "2026-04-09",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1489,7 +1479,7 @@
     "title": "Internship in Innovation & Sustainability - For students in the field of Pharmacoepidemiology, Epidemiology, Biostatistics, Data Science, Health Informatics, or Public Health",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-10",
+    "posted_date": "2026-04-09",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1504,7 +1494,7 @@
     "title": "Internship in Innovation & Sustainability - For students with a background in STEM, preferably in Chemistry, Pharmaceutical Sciences, Environmental Sciences and Engineering, or Data Science / Business Analytics with an understanding of chemistry",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-10",
+    "posted_date": "2026-04-09",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1517,7 +1507,7 @@
     "title": "Internship in Innovation & Sustainability - For students in the field of Sustainability, Computer Science, or Data Science",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-10",
+    "posted_date": "2026-04-09",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1530,7 +1520,7 @@
     "title": "Internship in Innovation & Sustainability - For students in the field of Computer Science / Data Science, Pharmaceutical Sciences / Pharmacy, Chemical-, Bioprocess-, Biomedical-, Industrial-, Process Engineering, (Bio)Chemistry",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-10",
+    "posted_date": "2026-04-09",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1565,7 +1555,7 @@
     "title": "Internship in Innovation & Sustainability - For students in the field of Computational Chemistry, Data Science, Computer Science or a related quantitative discipline",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-10",
+    "posted_date": "2026-04-09",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1596,7 +1586,7 @@
     "title": "Director International Medical Affairs, Immunology",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-04-07",
+    "posted_date": "2026-04-06",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -1625,7 +1615,7 @@
     "title": "Global Medical Affairs Lead Genomic Profiling",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-14",
+    "posted_date": "2026-04-13",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -1663,7 +1653,7 @@
     "title": "Sr. Scientist - Computational Biology - Neuroscience & Rare Diseases",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-16",
+    "posted_date": "",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -1691,7 +1681,7 @@
     "title": "Franchise Lead COPD (Inhaled + Biologic portfolio)",
     "company": "AstraZeneca",
     "location": "Switzerland - Baar",
-    "posted_date": "",
+    "posted_date": "2026-04-14",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1747,7 +1737,7 @@
     "title": "Post Doctorate Scientist – Vascularized Kidney Organoids - at the Institute of Human Biology (IHB)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "",
+    "posted_date": "2026-04-14",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -1766,7 +1756,7 @@
     "title": "Internship for Students of Biology, Biochemistry in the Control Strategy Scientist Group",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "",
+    "posted_date": "2026-04-14",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1782,7 +1772,7 @@
     "title": "Internship in Computational Biology: CVRM Genetics",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "",
+    "posted_date": "2026-04-14",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -1800,7 +1790,7 @@
     "title": "Senior USP Labs Scientist",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "",
+    "posted_date": "2026-04-14",
     "department": "",
     "score": -1,
     "matched_keywords": [
@@ -1926,5 +1916,54 @@
       "location:lausanne"
     ],
     "deducted_keywords": []
+  },
+  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000121114568": {
+    "description": "Are you ready to work at the intersection of cutting-edge electronics and photonics technologies with the forefront of particle physics? Join the Experimental Physics Department and contribute to our detector R&D programme for future High Energy Physics experiments at CERN. One of the key challenges for the next generation of detectors is transporting vast volumes of data off-detector while operating in extreme radiation environments, for which advanced optical links are an essential technology. Within the High Speed Links Work Package, we are developing the next generation of radiation-tolerant communication building blocks by combining custom high-speed ASICs and Silicon Photonics components that interoperate with off-the-shelf optical modules and FPGA systems as we move from component prototypes to full system demonstrators. We are looking for a Test Engineer to take a leading role in the evaluation and qualification of a prototype high-speed, radiation-tolerant communication ASIC, part of a Silicon Photonics system, delivering a 100 Gbps data stream. You will help bring up new hardware, build robust test setups, and generate high-quality measurement results that guide design iterations and qualification. Your responsibilities: Define and execute electrical and functional test plans for ASIC prototypes (bring-up, debugging, characterisation). Develop FPGA firmware and Python tools for test automation, data acquisition, and data analysis. Design, review, or improve high-speed test hardware (PCBs, fixtures, cabling), including signal-integrity considerations. Plan and support radiation qualification campaigns, including Single Event Effects (SEE) and Total Ionising Dose (TID) experiments. Your profile: Strong hands-on electronics lab skills (instrumentation, debugging, careful measurement practice). Experience in one or more of: FPGA development, Python (automation/DAQ/analysis), high-speed PCB design/simulation. A structured, rigorous approach to engineering work: test methodology, data quality, and clear documentation. Skills: Hands-on electronics laboratory measurement skills (oscilloscope, SMU, signal generators; disciplined debugging). FPGA firmware development and simulation. Python for test automation, data acquisition, analysis, and reporting. High-speed PCB knowledge (signal-integrity basics, layout constraints, fixtures/cabling for reliable measurements). Clear technical documentation (test plans, procedures, review-ready reports). Collaborative, structured engineering approach (root-cause analysis, reproducible experiments). Radiation qualification experience (SEE and TID) is a plus. Familiarity with ASIC design is a plus. Knowledge of the Ethernet networking stack is a plus. Spoken and written English, with a commitment to learn French. Eligibility criteria: You are a national of a CERN Member or Associate Member State . You have a professional background in Electronics Engineering (or a related field) and have either: a Master's degree with 2 to 6 years of post-graduation professional experience; or a PhD with no more than 3 years of post-graduation professional experience. You have never had a CERN fellow or graduate contract before.",
+    "external_url": "https://jobs.smartrecruiters.com/CERN/744000121114568-mixed-signal-ic-test-engineer-ep-ese-me-2026-64-grap-?oga=true",
+    "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000121108287": {
+    "description": "You will provide technical support to the Civil Engineering section within CERN's Site Asset Management group, contributing to a wide range of surface and underground infrastructure projects. You will support the implementation of design specifications on site, across civil engineering works including roads, networks, buildings and technical galleries, in a world-class, multicultural environment. Your responsibilities: Responsibility for work requests in the fields of civil engineering, roads, networks and buildings (concrete/metal structures, building envelope) for surface buildings, underground structures and technical galleries. Launch and follow-up of construction or renovation works in close cooperation with internal customers, including coordination of various technical and secondary trades. Regular control of safety rules enforcement on work sites, quality control of contractors' daily work, and control of works execution in line with best practices and technical specifications. Budget follow-up, including checking of quotes, launch of orders, control and validation of final measurements established by contractors, and use of CERN's computer tools. Your profile: Initial experience in building or underground structure construction, maintenance or renovation. First exposure to planning, organising and coordinating various trades. Basic knowledge of site measurements and cost control. Awareness of quality standards and site safety rules. Skills: Evidence-based problem-solving and proactivity. Teamwork and collaboration. Flexibility and continuous learning. Spoken and written English or French, with a commitment to learn the other language. Eligibility criteria: You are a national of a CERN Member or Associate Member State . By the application deadline, you have a maximum of two years of professional experience since graduation in Civil Engineering (or a related field) and your highest educational qualification is a general secondary education diploma . You have never had a CERN fellow or graduate contract before. Applicants with a Bachelor's, Master's or PhD degree are not eligible.",
+    "external_url": "https://jobs.smartrecruiters.com/CERN/744000121108287-civil-engineering-works-supervisor-sce-sam-ce-2026-113-grae-?oga=true",
+    "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000121176824": {
+    "description": "Join CERN's Database and Analytics group to operate and support the Database on Demand (DBOD) service, used by many IT services, and across CERN's experimental programme. The DBOD service provides more than one thousand MySQL, PostgreSQL, and InfluxDB instances, through multiple lifecycle environments, offering to its users administrative functionality and features such as configuration management, monitoring, backup and recovery, replication, and high availability. Your responsibilities As an early-career professional working in the Database Services (DB) team, you will contribute to the administration of the instances hosted in the DBOD service. You will participate in the evolution of the user interface (based on Angular and Flask). Participate in the service configuration and architecture design, database upgrades and patches campaigns. Work with hardware migrations, monitoring of systems health and performance to ensure high levels of performance, availability and security. You will also assist and advise users and play a role in the evolution of the DBOD service, discussing and working with the team on service enhancements including technical mentorship and cross-training to peers. Your role will include both operations tasks and software development in Python, bash, and Angular. You will be working with open-source software and gaining experience with the IT infrastructure stack used at CERN, such as AlmaLinux 9, OpenStack, Puppet, Prometheus, GitLab, etc. Your profile Experience working with MySQL, PostgreSQL, or TimescaleDB databases. Experience with SQL, Unix shell script and Python. Knowledge of Linux operating system. Knowledge of service administration and configuration tools like Puppet. Experience in the monitoring of system health and performance indicators. Experience with Rundeck automation or orchestration tools. Skills Familiarity with large-scale and high-availability database environments. Proficiency with Angular and Flask. Knowledge and understanding of containerisation/container orchestration. Knowledge of the ELK stack. Spoken and written English, with a commitment to learn French. Eligibility criteria: You are a national of a CERN Member or Associate Member State . By the application deadline, you have a maximum of two years of professional experience since graduation in Computer Science (or a related field) and your highest educational qualification is either a Bachelor's or Master's degree . You have never had a CERN fellow or graduate contract before. Applicants without University degree are not eligible. Applicants with a PhD are not eligible.",
+    "external_url": "https://jobs.smartrecruiters.com/CERN/744000121176824-database-platform-engineer-it-da-db-2026-111-grae-?oga=true",
+    "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000121113617": {
+    "description": "You will contribute to the delivery of civil engineering projects within CERN's Site Asset Management group, supporting both surface and underground infrastructure. You will be involved in the implementation of design specifications on site and contribute to the coordination, monitoring and continuous improvement of works across roads, networks, buildings and technical galleries, in a world-class, multicultural environment. Your responsibilities Contribute to the management of work requests in the fields of civil engineering, roads, networks and buildings (concrete/metal structures, building envelope) for surface buildings, underground structures and technical galleries. Coordinate and follow up construction and renovation works in close cooperation with internal customers and contractors, including coordination of various technical and secondary trades. Monitor safety rules enforcement, quality of contractors' work, and execution of works in line with best practices and technical specifications. Contribute to budget follow-up and project coordination, including checking of quotes, follow-up of orders and validation of final measurements established by contractors, and use of CERN's computer tools. More information here . Your profile Initial experience or academic background in building or underground structure construction, maintenance or renovation. First exposure to planning, organising and coordinating various trades. Knowledge of site measurements and cost control. Understanding of quality standards and site safety control. Skills Evidence-based problem-solving and proactivity. Teamwork and collaboration. Flexibility and continuous learning. Spoken and written English or French, with a commitment to learn the other language. Eligibility criteria: You are a national of a CERN Member or Associate Member State . By the application deadline, you have a maximum of two years of professional experience since graduation in Civil Engineering (or a related field) and your highest educational qualification is either a Bachelor's or Master's degree . You have never had a CERN fellow or graduate contract before. Applicants without University degree are not eligible. Applicants with a PhD are not eligible.",
+    "external_url": "https://jobs.smartrecruiters.com/CERN/744000121113617-civil-engineering-works-supervisor-sce-sam-ce-2026-112-grae-?oga=true",
+    "status": "matched"
+  },
+  "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-clinical-scientist-basel-stadt-865510/1": {
+    "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-clinical-scientist-basel-stadt-865510/1",
+    "status": "matched",
+    "title": "Clinical Scientist(m/f/d)",
+    "company": "Hays Switzerland",
+    "location": "Basel Stadt, Switzerland",
+    "posted_date": "",
+    "department": "",
+    "score": 0,
+    "matched_keywords": [],
+    "deducted_keywords": []
+  },
+  "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-qc-scientist-microbiology-lengnau-berne-864632/1": {
+    "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-qc-scientist-microbiology-lengnau-berne-864632/1",
+    "status": "matched",
+    "title": "QC Scientist Microbiology(m/f/d)",
+    "company": "Hays Switzerland",
+    "location": "Lengnau, Berne, Switzerland",
+    "posted_date": "",
+    "department": "",
+    "score": 0,
+    "matched_keywords": [],
+    "deducted_keywords": []
+  },
+  "/job/Basel/Principal-Scientist---PBS-Lab-Head-Basel_202603-107660": {
+    "description": "At Roche you can show up as yourself, embraced for the unique qualities you bring. Our culture encourages personal expression, open dialogue, and genuine connections,  where you are valued, accepted and respected for who you are, allowing you to thrive both personally and professionally. This is how we aim to prevent, stop and cure diseases and ensure everyone has access to healthcare today and for generations to come. Join Roche, where every voice matters. The Position At Roche you can show up as yourself, embraced for the unique qualities you bring. Our culture encourages personal expression, open dialogue, and genuine connections, where you are valued, accepted, and respected for who you are, allowing you to thrive both personally and professionally. This is how we aim to prevent, stop, and cure diseases and ensure everyone has access to healthcare today and for generations to come. Join Roche, where every voice matters. The Opportunity: Strategic Visionary: Contribute directly to the global Pharma Biosample Services (PBS) strategy, identifying high-impact technologies and process improvements with a long-term planning horizon. End-to-End Ownership: Take full accountability for all laboratory activities, ensuring operational excellence in sample receipt, tracking, accessioning, and high-quality processing. Leadership and Mentorship: Direct and line-manage a multi-disciplinary team of Scientific Researchers, providing coaching and fostering a culture of continuous learning and development. Scientific Innovation: Design and oversee complex scientific experiments and workflows, ensuring technical precision and high-caliber outcomes that drive clinical research forward. Advanced Technology Integration: Lead the implementation of advanced laboratory automation and integrated technologies to enhance productivity and maintain a competitive edge. Cross-Functional Collaboration: Partner with internal and external service providers, researchers, and study teams to decide on optimal sample processing pathways and resource allocation. Regulatory Stewardship: Ensure strict adherence to GCP/GCLP compliant processes and local health and safety (EHS) rules, maintaining the highest standards of data integrity and sample quality. Operational Management: Manage large-scale projects, budgets, and resource prioritization, demonstrating a sophisticated approach to balancing technical needs with business objectives. Who you are: Educated and Experienced Leader: You hold an MSc or PhD in Science or Healthcare with at least 5 years of leadership or supervisory experience in an academic or industrial laboratory setting. Molecular Expert: You possess significant expertise in LIMS systems and processing workflows, including molecular techniques such as DNA/RNA extraction, PCR, RT-PCR, and quantitation. Sample Management Authority: You have extensive knowledge of sample collection, storage, and processing protocols for various biological types within a regulated environment. Strategic Thinker: You have a proven track record of contributing to functional strategies, setting long-term lab directions, and making global functional decisions. Regulatory Guru: You demonstrate deep knowledge of GCP and GCLP standards and their specific application within clinical development and research activities. Collaborative Communicator: You are an expert team player with the ability to build relationships, negotiate, and influence stakeholders and leadership at all levels of the organization. Change Champion: You are a service-oriented leader who constantly seeks opportunities for innovation, with demonstrated experience in leading large-scale projects and change initiatives. Ready to bring your unique qualities to Roche and make an impact? Apply now and join us in our mission to shape the future of healthcare. Who we are A healthier future drives us to innovate. Together, more than 100’000 employees across the globe are dedicated to advance science, ensuring everyone has access to healthcare today and for generations to come. Our efforts result in more than 26 million people treated with our medicines and over 30 billion tests conducted using our Diagnostics products. We empower each other to explore new possibilities, foster creativity, and keep our ambitions high, so we can deliver life-changing healthcare solutions that make a global impact. Let’s build a healthier future, together. Roche is an Equal Opportunity Employer.",
+    "external_url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Principal-Scientist---PBS-Lab-Head-Basel_202603-107660",
+    "status": "matched"
   }
 }
