@@ -410,11 +410,6 @@
     ],
     "deducted_keywords": []
   },
-  "https://api.smartrecruiters.com/v1/companies/Sobi/postings/744000103858515": {
-    "description": "The Global Product Safety Science Lead (GPSSL) is responsible to strategically lead the Safety Science activities for assigned Sobi products. The GPSSL leads the safety science engagement throughout the product lifecycle including the development and maintenance of the clinical safety profile of the product, the ongoing safety surveillance and management, and the effective and timely communication of clinical safety to internal and external stakeholders. The GPSSL works collaboratively with the Global Product Safety Scientist (GPSS) and other members of the Sobi Global Pharmacovigilance team, together with other functions across Sobi, to ensure that safety science activities are delivered to ethical and safety quality standards to ensure safety of patients, and compliance with GVP, GCP and worldwide regulatory requirements. Key Responsibilities: Lead the product level multidisciplinary Benefit Risk Team (BRT) to drive signal detection, analysis, risk management, and safety labelling. Represent Safety Science at the product level Medical Development Team, providing pharmacovigilance and clinical safety expertise. Lead Safety Science contribution for clinical development, including input on design, conduct, data analysis, and interpretation. Oversee clinical safety science interactions with partner companies, ensuring sharing of safety information. Lead development and implementation of signal management activities. Provide medical and pharmacovigilance expertise for clinical safety strategy, Target Product Profile (TPP), and regulatory documents. Lead Safety Science input for post-marketing activities, including PASS-studies and additional risk minimisation measures. Support regulatory submissions, interactions, and product expansion activities. Respond to medical safety-related enquiries and support audits and inspections as required. Represent Global Pharmacovigilance in interactions with internal and external stakeholders, including Regulatory Authorities and Key Opinion Leaders.",
-    "external_url": "https://jobs.smartrecruiters.com/Sobi/744000103858515-global-product-safety-science-lead?oga=true",
-    "status": "matched"
-  },
   "https://www.stettlerconsulting.ch/en/current-vacancies/head-regulatory-medical-affairs-80-100-w-m/": {
     "external_url": "https://www.stettlerconsulting.ch/en/current-vacancies/head-regulatory-medical-affairs-80-100-w-m/",
     "status": "ignored",
@@ -1939,7 +1934,7 @@
   },
   "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-clinical-scientist-basel-stadt-865510/1": {
     "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-clinical-scientist-basel-stadt-865510/1",
-    "status": "matched",
+    "status": "ignored",
     "title": "Clinical Scientist(m/f/d)",
     "company": "Hays Switzerland",
     "location": "Basel Stadt, Switzerland",
@@ -1951,7 +1946,7 @@
   },
   "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-qc-scientist-microbiology-lengnau-berne-864632/1": {
     "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-qc-scientist-microbiology-lengnau-berne-864632/1",
-    "status": "matched",
+    "status": "ignored",
     "title": "QC Scientist Microbiology(m/f/d)",
     "company": "Hays Switzerland",
     "location": "Lengnau, Berne, Switzerland",
