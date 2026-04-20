@@ -465,7 +465,7 @@
     "title": "Vice President, Regulatory Affairs, Europe and International",
     "company": "BeiGene",
     "location": "Basel",
-    "posted_date": "2026-04-01",
+    "posted_date": "2026-03-31",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -505,11 +505,6 @@
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000114407563": {
     "description": "Welcome to the Marie Sklodowska-Curie Actions As a recent graduate from university or advanced technical institute, you’re no doubt looking for the chance to make your mark. Here it is: we seek lively and inquiring minds with a heightened sense of curiosity to take part in projects of advanced development work, in a broad range of applied sciences and engineering fields. Marie Sklodowska-Curie Actions train young researchers, building the careers of tomorrow’s leaders in research and industry. What could be a better boost for your career than becoming an Early Career Stage Researcher in an Innovative Training Networks project within the framework of the prestigious Marie Sklodowska-Curie programs? The chosen candidate will during the time at CERN work on ion beam developments and techniques for the production and characterization of radioactive anions for the ISOLDE facility ( https://isolde.web.cern.ch ). The holder will contribute to the development of techniques to efficiently produce negative ions from radioactive species at ISOLDE through work in the offline laboratory, and will also participate in online experiments for their characterization. During the year at University of Gothenburg the student will join the Laser spectroscopy research  group” ( https://www.physics.gu.se/ english / research / laser spectroscopy) led by professor Dag Hanstorp.  Here the holder of the position will take courses, get basic training in laser and ion beam technologies and participate in research on photodetachment of negative ions.",
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000114407563-1-marie-curie-phd-position-in-physics-applications-of-negative-ions-panions-?oga=true",
-    "status": "matched"
-  },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000114308507": {
-    "description": "Introduction You will work at the interface between electronics development and operations, contributing to the full lifecycle of electronic boards and test equipment used in CERN’s large-scale power converter systems. Working closely with multidisciplinary teams, you will help ensure that electronic systems are reliable, testable, maintainable and well documented. You will also contribute to continuous improvement of testing methods, quality processes and long-term sustainability of electronic assets. Functions Design and develop analogue and digital electronics for production and repair test fixtures, from schematics and printed circuit board (PCB) layouts, ensuring compatibility with software and firmware. Be responsible for the full lifecycle of test equipment, ensuring high availability and maintaining complete technical documentation. Contribute to design for repairability and testability by analysing failure modes, sharing findings, and collaborating with development teams to integrate test and repair requirements into future designs. Act as technical point of contact for external repair teams, supporting and performing repair operations, organising activities and defining priorities to ensure long-term reliability of electronic assets. After appropriate training, you will also join our stand-by team, participating in interventions on operational power converters.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000114308507-electronics-technical-engineer-sy-epc-oms-2026-58-ld-?oga=true",
     "status": "matched"
   },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000112847851": {
@@ -714,11 +709,6 @@
   "_generic:Ridgeline Discovery": {
     "keywords": "npp"
   },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000116903133": {
-    "description": "You will join the Product Management team within the Business Computing (BC) group, responsible for software in the domains of HR, Finance, Supply Chain and Site Management. The main assignment is the preparation and implementation of the organisation's ERP transformation covering Finance, Procurement and Logistics processes. The project will involve a preparation phase (planned until March 2027) and an implementation phase (2027-2029). The objective is to strengthen organisational maturity ahead of the ERP implementation by performing structured analyses and facilitating collaboration between business stakeholders, internal development teams, and the future Implementation Service Provider (ISP). Your responsibilities Collaborate with stakeholders and internal development teams to gather and prioritise business requirements. Draw and analyse business processes and systems to identify areas for improvement and optimisation. Conduct gap analyses between current custom developments and standard market ERP processes. Develop and maintain business process documentation (using BPMN and other business process modelling tools), including process flows and user requirements. Support workshops with business stakeholders and consolidate analysis outputs to support implementation. Support functional analysis activities and participate in working groups with the ISP. Assist in testing and validation phases, including user acceptance testing. Monitor and report on key performance indicators to track progress towards organisational goals. Your profile Experience or strong academic background in business analysis, information systems, business process modelling, or a related field. Experience with analytical work, process documentation, data analysis, or requirements gathering. Interest in large-scale system transformation projects and complex organisational environments is expected. Knowledge of enterprise systems (ERP, procurement, finance, or logistics systems) is an advantage. Familiarity with UX principles and methodologies would be an advantage. Skills Strong understanding of business modelling concepts and the ability to translate requirements into practical solutions. Analytical mindset with the ability to gather, analyse, and interpret data for actionable insights. Proactive problem-solving skills to address technical challenges and provide effective solutions. Excellent communication and collaboration skills, working effectively with multidisciplinary teams and presenting and justifying designs. Working autonomously while managing multiple projects simultaneously, adhering to deadlines, and adapting to changing priorities. Spoken and written English, with a commitment to learn French. Eligibility criteria: You are a national of a CERN Member or Associate Member State . You have a professional background in Software Engineering, Business Analysis (or a related field) and have either: a Master's degree with 2 to 6 years of post-graduation professional experience; or a PhD with no more than 3 years of post-graduation professional experience. You have never had a CERN fellow or graduate contract before.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000116903133-business-analyst-fap-bc-pm-2026-74-grap-?oga=true",
-    "status": "matched"
-  },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000116940807": {
     "description": "You will join a team that is responsible for the development and evolution of CERN's industrial control frameworks, JCOP and UNICOS, as well as for evaluating and validating new technologies for future control systems. These frameworks build on the commercial SCADA platform SIMATIC WinCC Open Architecture (WinCC OA) from Siemens, which forms the backbone of more than 800 mission-critical control systems. Starting in a few months, the LHC detectors will undergo major upgrades requiring new control systems and additional functionality in the JCOP Framework. In this context, you will contribute to the development and evolution of the JCOP Framework and support the implementation of detector control systems. Your responsibilities Contribute to the development and evolution of the JCOP Framework used by the LHC experiments. Implement and maintain software components, templates and tools based on WinCC OA and CERN control frameworks. Integrate devices into supervisory control systems. Design & Development of user interfaces with WinCC OA. Prototype and test new solutions to improve reliability, maintainability and scalability of the frameworks. Assist LHC experiments in the development, deployment and maintenance of their control systems. Participate in code reviews, debugging and troubleshooting of control system applications. Your profile Initial experience or exposure to software development in distributed or modular systems. Experience with modern programming languages and development tools (e.g. C/C++ or similar). Knowledge of software engineering principles (version control GIT, testing, code quality, documentation, CI/CD). Knowledge of Qt, Node.js or TypeScript would be an advantage. Familiarity with industrial control systems, SCADA technologies, or CERN experiment online systems would be an advantage. Skills Proficiency in C/C++ programming. Ability to learn and adapt to new technologies and frameworks quickly. Ability to design, implement and debug software components in complex systems. Strong analytical and problem-solving skills. Ability to work in multidisciplinary teams and interact with engineers and scientists. Good communication and documentation skills. Spoken and written English, with a commitment to learn French. Eligibility criteria: You are a national of a CERN Member or Associate Member State . By the application deadline, you have a maximum of two years of professional experience since graduation in Software Engineering (or a related field) and your highest educational qualification is either a Bachelor's or Master's degree . You have never had a CERN fellow or graduate contract before. Applicants without University degree are not eligible. Applicants with a PhD are not eligible.",
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000116940807-software-developer-for-control-systems-be-ics-stf-2026-85-grae-?oga=true",
@@ -731,7 +721,7 @@
     "title": "Senior Scientist, Translational Medicine Oncology (Hematology)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-03-27",
+    "posted_date": "2026-03-26",
     "department": "",
     "score": 12,
     "matched_keywords": [
@@ -892,7 +882,7 @@
     "title": "Post Doctorate Scientist in Intestinal Inflammation - at the Institute of Human Biology (IHB)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-03-31",
+    "posted_date": "2026-03-30",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -978,7 +968,7 @@
     "title": "Associate Scientist in Analytical Development for Synthetic Molecules",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-02",
+    "posted_date": "2026-04-01",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -994,7 +984,7 @@
     "title": "Scientist – QC Lab Systems & CSV (GMP)",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-04-02",
+    "posted_date": "2026-04-01",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -1009,7 +999,7 @@
     "title": "Senior Scientist – Manufacturing Science & Technology (Biologics USP/DSP)",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-04-02",
+    "posted_date": "2026-04-01",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -1027,7 +1017,7 @@
     "title": "Scientist Bio-/Chemical Quality Control",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-04-02",
+    "posted_date": "2026-04-01",
     "department": "",
     "score": -1,
     "matched_keywords": [
@@ -1104,7 +1094,7 @@
     "title": "PTD Synthetic Molecules ADQC - Analytical Scientist in the Lab  (2 year fixed term contract)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-03",
+    "posted_date": "2026-04-02",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1117,7 +1107,7 @@
     "title": "Manager Quality System & Regulatory Compliance",
     "company": "Abbott",
     "location": "Switzerland - Zurich",
-    "posted_date": "2026-04-03",
+    "posted_date": "2026-04-02",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1292,7 +1282,7 @@
     "title": "Project Manager – Spatial Biology Product Development (8-9 months contract)",
     "company": "Bio-Techne / Lunaphore",
     "location": "Tolochenaz, Switzerland",
-    "posted_date": "2026-04-08",
+    "posted_date": "2026-04-07",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1321,7 +1311,7 @@
     "title": "Computational Biology - Oncology",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-09",
+    "posted_date": "2026-04-08",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -1367,7 +1357,7 @@
     "title": "Internship in Innovation & Sustainability - For students in the field of Computer Science, Informatics, Business Informatics, Data Science, Statistics, Mathematics, or Business Analytics",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-10",
+    "posted_date": "2026-04-09",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1382,7 +1372,7 @@
     "title": "Internship in Innovation & Sustainability - For students in the field of Computer Science, Business Analytics, Data Engineering, Data Science, Data Governance or Data Management and Architecture",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-10",
+    "posted_date": "2026-04-09",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1395,7 +1385,7 @@
     "title": "Internship in Innovation & Sustainability - For students in the field of Pharmacoepidemiology, Epidemiology, Biostatistics, Data Science, Health Informatics, or Public Health",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-10",
+    "posted_date": "2026-04-09",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1410,7 +1400,7 @@
     "title": "Internship in Innovation & Sustainability - For students with a background in STEM, preferably in Chemistry, Pharmaceutical Sciences, Environmental Sciences and Engineering, or Data Science / Business Analytics with an understanding of chemistry",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-10",
+    "posted_date": "2026-04-09",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1423,7 +1413,7 @@
     "title": "Internship in Innovation & Sustainability - For students in the field of Sustainability, Computer Science, or Data Science",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-10",
+    "posted_date": "2026-04-09",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1436,7 +1426,7 @@
     "title": "Internship in Innovation & Sustainability - For students in the field of Computer Science / Data Science, Pharmaceutical Sciences / Pharmacy, Chemical-, Bioprocess-, Biomedical-, Industrial-, Process Engineering, (Bio)Chemistry",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-10",
+    "posted_date": "2026-04-09",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1471,7 +1461,7 @@
     "title": "Internship in Innovation & Sustainability - For students in the field of Computational Chemistry, Data Science, Computer Science or a related quantitative discipline",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-10",
+    "posted_date": "2026-04-09",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1512,7 +1502,7 @@
     "title": "Global Medical Affairs Lead Genomic Profiling",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-14",
+    "posted_date": "2026-04-13",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -1550,7 +1540,7 @@
     "title": "Sr. Scientist - Computational Biology - Neuroscience & Rare Diseases",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-16",
+    "posted_date": "2026-04-15",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -1573,7 +1563,7 @@
     "title": "Franchise Lead COPD (Inhaled + Biologic portfolio)",
     "company": "AstraZeneca",
     "location": "Switzerland - Baar",
-    "posted_date": "2026-04-15",
+    "posted_date": "2026-04-14",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1585,19 +1575,9 @@
       "location:Switzerland - Baar"
     ]
   },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000120733432": {
-    "description": "You will join the Occupational Health, Safety, and Environmental Protection Unit (HSE), which supports the organisation in implementing and enforcing its environmental policy. Within HSE, the Environment Group monitors the environmental impact of activities and advises on improvement measures. As part of the Prevention and Monitoring section, you will contribute to the EnNoMoS project, which aims to design and deploy a continuous environmental noise monitoring system across CERN sites. The system will provide 24/7 online monitoring and support environmental oversight by delivering reliable noise data for analysis and reporting. Your responsibilities: Manage, and contribute to upgrade our 24/7 noise monitoring infrastructure, ensuring continuous and reliable operation. Interpret monitoring data and produce clear, detailed noise reports for internal and external stakeholders. Conduct noise surveys to gather accurate and actionable data in the environment or at the workplace, including outside regular office hours (nighttime). Use industry-leading acoustic software to model noise impacts and support evidence-based decision-making. Lead noise studies across environmental, building, and workplace projects, driving best practices and compliance. Investigate noise complaints and raise awareness of environmental noise issues among all stakeholders, fostering a culture of environmentally responsible research. More information here . Your profile: Proven experience in acoustics or a related field, preferably gained in consultancy or similar technical environment. Experience in conducting environmental noise surveys, including advanced noise monitoring techniques such as noise power level measurement. Experience in the setup, calibration, maintenance, and data management of continuous (24/7) monitoring systems, ensuring reliable long-term operation and data quality. Proficiency in analysing and visualising large datasets using tools such as Excel or Power BI. Hands-on experience with environmental noise modelling software, such as CadnaA. Skills: Proficiency in analysing and visualising large acoustic datasets using tools such as Excel or Power BI. Strong ability to produce high-quality, well-structured acoustic and environmental noise reports. Spoken and written English or French, with a commitment to learn the other language. Eligibility criteria: You are a national of a CERN Member or Associate Member State . You have a professional background in Acoustics, Vibrations or equivalent (or a related field) and have either: a Master's degree with 2 to 6 years of post-graduation professional experience; or a PhD with no more than 3 years of post-graduation professional experience. You have never had a CERN fellow or graduate contract before.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000120733432-acoustic-engineer-hse-env-pm-2026-59-grap-?oga=true",
-    "status": "matched"
-  },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000120699422": {
     "description": "CERN is seeking a motivated software engineer to contribute to the development and operation of its Digital Preservation platform. This platform ensures the long-term preservation, accessibility, and integrity of digital assets produced at CERN, supporting both scientific and administrative domains. The successful candidate will join a team responsible for designing, maintaining, and evolving services that guarantee reliable and scalable preservation of data over time. Your responsibilities Develop and maintain web applications using Python on the backend and React on the frontend and implement new features to support the long term preservation of records. Write, test, and review code to ensure reliability, performance, and maintainability. Collaborate with software engineers and end users to understand requirements and translate them into technical solutions. Document technical solutions and contribute to user and developer documentation. Learn and apply best practices in software engineering, version control, and agile teamwork. Your profile Experience with Python and web application development (for example using Flask or similar frameworks). Basic knowledge of JavaScript and modern web interfaces (for example React or similar libraries). Familiarity with version control systems, such as Git. Ability to write clear, maintainable code and learn new technologies. Experience with relational databases, such as PostgreSQL. Familiarity with search or indexing technologies, such as Elasticsearch or OpenSearch. Exposure to container technologies, such as Docker, and container platforms (for example OpenShift). Experience contributing to or working with open-source software projects. Skills Required technical skills: Python, Django, JavaScript, React, Git. Nice to have technical skills: PostgreSQL, Elasticsearch/OpenSearch, Docker, OpenShift. Experience working on open source projects. Knowledge of digital preservation concepts is a plus, but not required. Ability to work both independently and collaboratively. Good communication skills in English (spoken and written). Proactive attitude and willingness to learn new technologies. Spoken and written English, with a commitment to learn French. Eligibility criteria: You are a national of a CERN Member or Associate Member State . By the application deadline, you have a maximum of two years of professional experience since graduation in computing science (or a related field) and your highest educational qualification is either a Bachelor's or Master's degree . You have never had a CERN fellow or graduate contract before. Applicants without University degree are not eligible. Applicants with a PhD are not eligible.",
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000120699422-full-stack-developer-it-ca-ir-2026-110-grae-?oga=true",
-    "status": "matched"
-  },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000120741028": {
-    "description": "Join the Linux system administration team for the accelerator control system and contribute to the evolution of the core platform by implementing new storage services, based upon a high-end commercial storage appliance. You will work closely with experienced system administrators, infrastructure experts and software engineers, including collaborations with the CERN IT department and Computer Security team. This will be an opportunity to gain valuable experience in a unique and exciting environment. Your responsibilities Configure NetApp storage appliance and integrating it into the configuration management systems used by the sysadmin team. Establish appropriate access control and data segmentation to minimise cybersecurity risks associated with the network filesystems. Ensure that the configuration of the storage appliance includes a high level of redundancy, ensuring business continuity in the event of failures. Establish an appropriate data backup scheme and recovery plan. Ensure that the appliance provides appropriate storage for the control system Kubernetes infrastructure. Migrate control system data from existing NFS servers to the new appliance. This role includes team supervision responsibilities. More information here . Your profile Experience with Linux system administration is essential. Familiarity with common security issues affecting Linux systems. Experience with network filesystem management (such as NFS) is essential. Familiarity with object storage systems such as S3 is desired, but not mandatory. Skills Solid understanding of Git version control is essential. Knowledge of Ansible configuration management is desirable. Kubernetes container orchestration knowledge is desirable. Spoken and written English, with a commitment to learn French. Eligibility criteria: You are a national of a CERN Member or Associate Member State . You have a professional background in Software Engineer (or a related field) and have either: a Master's degree with 2 to 6 years of post-graduation professional experience; or a PhD with no more than 3 years of post-graduation professional experience. You have never had a CERN fellow or graduate contract before.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000120741028-linux-administrator-be-css-isa-2026-47-grap-?oga=true",
     "status": "matched"
   },
   "https://apply.workable.com/debiopharm/j/1B593F4FBF/": {
@@ -1629,7 +1609,7 @@
     "title": "Post Doctorate Scientist – Vascularized Kidney Organoids - at the Institute of Human Biology (IHB)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-15",
+    "posted_date": "2026-04-14",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -1648,7 +1628,7 @@
     "title": "Internship for Students of Biology, Biochemistry in the Control Strategy Scientist Group",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-15",
+    "posted_date": "2026-04-14",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1664,7 +1644,7 @@
     "title": "Internship in Computational Biology: CVRM Genetics",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-15",
+    "posted_date": "2026-04-14",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -1682,7 +1662,7 @@
     "title": "Senior USP Labs Scientist",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-04-15",
+    "posted_date": "2026-04-14",
     "department": "",
     "score": -1,
     "matched_keywords": [
@@ -1756,7 +1736,7 @@
     "title": "International Medical Affairs Director Neuromuscular",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-04-18",
+    "posted_date": "2026-04-17",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1773,7 +1753,7 @@
     "title": "Associate Director, Senior International Clinical Trial Regulatory Lead",
     "company": "Takeda",
     "location": "Zurich, Switzerland",
-    "posted_date": "2026-03-24",
+    "posted_date": "2026-03-23",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1962,6 +1942,44 @@
     "department": "",
     "score": -2,
     "matched_keywords": [],
+    "deducted_keywords": [
+      "location:Lengnau, Switzerland"
+    ]
+  },
+  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000121753098": {
+    "description": "In this role, you will be a core member of the Web, DevOps and Authoring section in the IT -PW group. We provide, among others, services for web hosting, authoring and online collaboration tools such as Google Workspace, Confluence, SharePoint, TWiki and Discourse. By joining us, you will manage and contribute to the continuous improvement of these services. Your responsibilities: Management and configuration of 3rd party cloud services: SharePoint Online and Microsoft Forms. Maintenance, upgrades, troubleshooting and evolution of 3rd party solutions such as Confluence, TWiki and Discourse, deployed on premise on the PaaS (Platform-as-a-Service) backed by OKD4 (OpenShift) infrastructure. Contribution to global evolution of hosting infrastructure, including the future hosting for .NET Framework sites, and the migration and consolidation projects in the area of authoring and online collaboration tools. Providing user support to the CERN community. This role includes team supervision responsibilities. Your profile: Programming and system administration knowledge. Experience in managing on-premise services and cloud services. Strong problem-solving and analytical skills, with a proactive mindset to identify challenges and drive innovative solutions. Good communication and collaboration skills, with ability to work effectively within cross-functional teams. Strong commitment to user satisfaction, actively seeking feedback and collaborating with users to continuously improve services. Skills: Programming in Python and JavaScript. Linux and Bash scripting. Web technologies and protocols. Git, CI/CD tools, test and deployment automation. Kubernetes and/or OpenShift/OKD container technology and orchestration. Knowledge of SharePoint Online administration is a plus. Knowledge of Windows system administration and PowerShell is a plus. Spoken and written English, with a commitment to learn French. Eligibility criteria: You are a national of a CERN Member or Associate Member State . You have a professional background in Software or Computer Engineering (or a related field) and have either: a Master's degree with 2 to 6 years of post-graduation professional experience; or a PhD with no more than 3 years of post-graduation professional experience. You have never had a CERN fellow or graduate contract before.",
+    "external_url": "https://jobs.smartrecruiters.com/CERN/744000121753098-devops-engineer-it-service-manager-it-pw-wda-2026-78-grap-?oga=true",
+    "status": "matched"
+  },
+  "/job/Switzerland---Zug/XMLNAME--Sr-Manager---Associate-Director-Regulatory-Affairs---Swiss-Affiliate_R0051756-1": {
+    "description": "At Gilead, we’re creating a healthier world for all people. For more than 35 years, we’ve tackled diseases such as HIV, viral hepatitis, COVID-19 and cancer – working relentlessly to develop therapies that help improve lives and to ensure access to these therapies across the globe. We continue to fight against the world’s biggest health challenges, and our mission requires collaboration, determination and a relentless drive to make a difference. Every member of Gilead’s team plays a critical role in the discovery and development of life-changing scientific innovations. Our employees are our greatest asset as we work to achieve our bold ambitions, and we’re looking for the next wave of passionate and ambitious people ready to make a direct impact. We believe every employee deserves a great leader. People Leaders are the cornerstone to the employee experience at Gilead and Kite. As a people leader now or in the future, you are the key driver in evolving our culture and creating an environment where every employee feels included, developed and empowered to fulfil their aspirations. Join Gilead and help create possible, together. Job Description Sr Manager / Associate Director Regulatory Affairs - Swiss Affiliate Department: Regulatory Affairs Department, Gilead Sciences Switzerland Sàrl Location: Zug, Switzerland Reports to Director Regulatory Affairs Job Overview · Serves as a core member of the Swiss Affiliate Regulatory Team · Key cross functional business partner · Senior representative of the Regulatory function and Dev Ops at internal and external meetings · Ensures that Gilead complies with country’s applicable legislations and regulations linked to the MA / local license as MA Holder · Ensures that the medicinal products in his/her responsibility can be developed, authorized and maintained on the market · Serves as a core member or leads cross functional project teams locally, regionally and globally. May also serve as a core member in global cross-functional teams Job Responsibilities · Provides or contributes to the Vision and Direction for the RA organization in the sub-region and / or at the country level in line with global/Regional RA and the local Affiliate Visions and sets clear goals and objectives in line with the global Dev Ops strategy · Ensure that Gilead fulfills all relevant requirements linked to the MA / local license as MA Holder or as local legal representative of the MA Holder for the Affiliate · Support to Crisis management functional lead and leadership team in the Affiliate · Contributes to resource and budget planning and utilization · Lead or support for communicating important changes to the local Regulatory and Dev Ops function/activities · Leads the preparation of challenging regulatory submissions (initial MA Applications, line extensions, scientific advice, inspections, quality assurance related issues and risk management/minimisation activities) to local HA and leads the interaction, negotiations and communication internally and externally, coordinates cross function responses and act as the main point of contact for the local HA · Lead or support country/national scientific advice and / or pre-submission meeting preparation and follow-up · Accountable for managing the strict timelines associated with submission and/or variation approval. · Ensures compliant labeling for Gilead medicinal products (SmPC, PIL, packaging) and manage timely updates for assigned product(s). Provides regulatory expertise to labelling changes and to submission teams on specified topics. · Lead or provide Affiliate input to the International and global regulatory strategy, upon request, including input into clinical development programs · Ensures compliance with local law and regulation and consistency with global procedural documents including Quality Assurance matters such as acting as a subject matter expert or audit / inspection lead within the affiliate, ensuring essential licenses, contracts and agreement are in place · Initiates local improvements and contributes to local and/or global process improvements which have a significant impact for RA and other departments, assesses proposed changes to local procedural documents, sharing of best practice and impact on existing processes · Responsible for promotional material review, submission to HA, if applicable for assigned product(s) · Serves as a core member of the country brand/launch team or international working group as the representative of regulatory affiliate. · Acts as a consultant to local Affiliate, regional, Intl or Global RA teams on Affiliate matters · Takes a leadership role in conducting risk assessments on specific local regulatory issues and changes, and develops mitigation strategies as required · A regulatory expert in updating and preparing the Company for major changes in regulatory legislation and competitor information in the country, contributes to guideline and regulation development and develops strategies to optimize the outcome · Leads and/or is an ambassador for RA and Dev Ops at internal and external meetings or working parties building recognition as a thought leader · Lead work in additional countries eg distributor markets as required · Mentoring, training and coaching regulatory and non-regulatory staff Knowledge & Skills · Significant regulatory, quality, compliance or related experience in the biopharma industry. · Proven track record in effectively setting and directing the regulatory or related strategy to successful conclusion for one or more products. · Experience and proven effectiveness working and negotiating with regulatory authorities. · Proven abilities to manage complex negotiations with regulatory authorities, as evidenced by effectiveness in negotiating with internal · and external stakeholders in past roles. · Proven effectiveness in making appropriate decisions independently for relatively complex projects or related issues, as evidenced by past · decision-making track record. · Significant experience participating in cross-functional projects and teams with responsibilities related to clinical trials or other drug · development activities. · Demonstrated abilities to effectively delegate and manage others, as evidenced through either past people management or matrix · management responsibilities. · Line management (direct reports) experience is strongly preferred. · Experience working with one or more Gilead therapeutic areas and varying stages of drug development is strongly preferred. · Education & Experience · 10+ years of experience in RA or other relevant industry experience with BS/BA or 8+ years of experience in RA or other relevant industry experience with advanced degree. Degree in a scientific field is preferred. · Excellent knowledge and proven experience in understanding and implementing regulatory requirements in Pharmaceutical / Biotech Industry including ICH requirements and regional requirements and have an understanding of current trends in the local affiliate. · Must be capable of developing and implementing regulatory initiatives and of managing complex negotiations with Regulatory Authorities. · Knowledge in quality assurance, promotional and non-promotional review as well as Pharmacovigilance and market access are advantageous. · Excellent working knowledge regarding national/regional Regulatory Authorities essential (people, system and processes). Languages: German preferred mother tongue, English fluent, French and/or Italian advantageous Equal Employment Opportunity (EEO) It is the policy of Gilead Sciences, Inc. and its subsidiaries and affiliates (collectively \"Gilead\" or the \"Company\") to recruit select and employ the most qualified persons available for positions throughout the Company.  Except if otherwise provided by applicable law, all  employment actions relating to issues such as compensation, benefits, transfers, layoffs, returns from layoffs, company-sponsored training, education assistance, socia",
+    "external_url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/Switzerland---Zug/XMLNAME--Sr-Manager---Associate-Director-Regulatory-Affairs---Swiss-Affiliate_R0051756-1",
+    "status": "matched",
+    "title": "​Sr Manager / Associate Director Regulatory Affairs - Swiss Affiliate",
+    "company": "Gilead Sciences",
+    "location": "Switzerland - Zug",
+    "posted_date": "2026-04-20",
+    "department": "",
+    "score": 2,
+    "matched_keywords": [
+      "French",
+      "drug development"
+    ],
+    "deducted_keywords": []
+  },
+  "/job/Lengnau-Switzerland/Senior-Scientist--Material-Qualification-and-Release--QC-GMP-_R-01349179": {
+    "description": "Work Schedule Standard (Mon-Fri) Environmental Conditions Adherence to all Good Manufacturing Practices (GMP) Safety Standards, Office Job Description Are you ready to make a meaningful impact in the world of science? Join Thermo Fisher Scientific as a Senior Scientist, Material Qualification & Release (QC GMP) within our Quality Control organization at our Lengnau site. In this role, you will play a pivotal part in ensuring GMP compliance, material integrity, and operational excellence — directly contributing to our mission of enabling our customers to make the world healthier, cleaner, and safer. Discover Impactful Work As a Senior Scientist within Services & Support Quality Control, you will act as the subject matter expert for raw material qualification and release in a GMP-regulated manufacturing environment. You will ensure that materials meet regulatory requirements and remain in a continuous state of compliance. This position requires strong technical expertise, regulatory knowledge, and the ability to lead complex quality topics across internal and external laboratories. Key Responsibilities Material Qualification & Release Lead and execute the GMP-compliant release of raw materials used in manufacturing. Drive the QC-related aspects of material qualification to ensure full alignment with health authority and regulatory requirements. Serve as SME for raw material analytics, providing expert support during deviations, OOS/OOT investigations, troubleshooting, and continuous improvement initiatives. Collaborate with internal and external laboratories to ensure robust analytical execution and data integrity. Compliance & Regulatory Readiness Act as investigator for deviations and assigned change controls, ensuring timely and compliant resolution. Author, review, and maintain GMP-relevant documentation (SOPs, risk assessments, reports, protocols). Conduct gap assessments and define/implement remediation measures to maintain inspection readiness. Support and actively participate in health authority and customer inspections and audits. Who We Are Looking For Education Bachelor’s or Master’s degree in Chemistry, Biochemistry, Molecular Biology, Chemical Engineering, or a related scientific discipline. Equivalent professional experience in a GMP-regulated pharmaceutical or biopharmaceutical environment will be considered. Experience Minimum 5 years of experience in a GMP laboratory within the pharmaceutical or biopharmaceutical industry. Demonstrated expertise in raw material qualification and release within a GMP-regulated manufacturing environment. Strong working knowledge of health authority expectations and regulatory compliance. Proficiency in technical English (written and spoken). Skills & Competencies Strong commitment to quality, compliance, and data integrity. Structured, risk-based mindset with high attention to detail. Ability to work independently while effectively collaborating cross-functionally. Strong analytical thinking and problem-solving capabilities. Excellent communication, organizational, and prioritization skills. Interest in digitalization and modernization of analytical systems and QC processes. Continuous learning mindset with motivation to further develop technical and regulatory expertise.",
+    "external_url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Lengnau-Switzerland/Senior-Scientist--Material-Qualification-and-Release--QC-GMP-_R-01349179",
+    "status": "matched",
+    "title": "Senior Scientist, Material Qualification and Release (QC GMP)",
+    "company": "Thermo Fisher Scientific",
+    "location": "Lengnau, Switzerland",
+    "posted_date": "2026-04-20",
+    "department": "",
+    "score": -1,
+    "matched_keywords": [
+      "molecular biology"
+    ],
     "deducted_keywords": [
       "location:Lengnau, Switzerland"
     ]
