@@ -1917,10 +1917,26 @@
     ],
     "deducted_keywords": []
   },
-  "https://www.michaelpage.ch/de/job-detail/product-business-development-manager/ref/jn-032026-6970319?lang=en": {
-    "external_url": "https://www.michaelpage.ch/de/job-detail/product-business-development-manager/ref/jn-032026-6970319?lang=en",
+  "https://www.stettlerconsulting.ch/en/current-vacancies/head-regulatory-medical-affairs-80-100-w-m/": {
+    "external_url": "https://www.stettlerconsulting.ch/en/current-vacancies/head-regulatory-medical-affairs-80-100-w-m/",
     "status": "matched",
-    "title": "Product & Business Development Manager",
+    "title": "Head Regulatory & Medical Affairs (w/m) 80 – 100 %",
+    "company": "Stettler Consulting",
+    "location": "Region Ostschweiz, Switzerland",
+    "posted_date": "",
+    "department": "",
+    "score": -1,
+    "matched_keywords": [
+      "medical affairs"
+    ],
+    "deducted_keywords": [
+      "location:Region Ostschweiz, Switzerland"
+    ]
+  },
+  "https://www.michaelpage.ch/job-detail/business-development-manager-defense-europe-mfd/ref/jn-122025-6902007": {
+    "external_url": "https://www.michaelpage.ch/job-detail/business-development-manager-defense-europe-mfd/ref/jn-122025-6902007",
+    "status": "matched",
+    "title": "Business Development Manager - Defense Europe (m/f/d)",
     "company": "Michael Page Switzerland",
     "location": "Switzerland",
     "posted_date": "",
