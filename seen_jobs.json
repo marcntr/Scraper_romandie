@@ -372,11 +372,6 @@
     "external_url": "https://jobs.smartrecruiters.com/AbbVie/3743990011983802-affiliate-safety-representative-asr-?oga=true",
     "status": "matched"
   },
-  "https://api.smartrecruiters.com/v1/companies/Sobi/postings/744000114966673": {
-    "description": "As a Data Manager within Global Manufacturing and Supply (GMS) you will be the key person to build and manage the processes, governance and system landscape for our data. In other words, you shape the vision of our future data management set up and will be the driver of the data journey within GMS. In our view, good data needs to enable correct and on time supplies to patients and create positive business impact. You will be accountable that all key data of respective systems (e.g. ERP, APS) are created timely, are correct, maintained, synchronized among systems, and communicated to internal and external stakeholders at a high standard and that data quality is reported regularly to stakeholders. You will also partner with functions outside GMS and participate in projects that aim to enhance Sobi’s data management environment. This position is based at our Global Headquarters in Stockholm, Sweden or Global hub in Basel, Switzerland, reporting directly to Head Global Manufacturing & Supply Excellence. Key Responsibilities Define, implement, and further develop cross-functional processes and RACI (incl. governance) to create and update Master Data. Manage the identification, collection, consolidation and cleansing of master data from various sources. Create and update data points and ensure that data sharing among systems works uninterrupted. Ensure accurate and timely communication of master data to e.g. 3PL partners and/or Sobi affiliates. Define and map source system and user systems of each data point. Develop and coordinate / implement data integration strategies to ensure data consistency across systems. Collaborate well with various stakeholders within and outside GMS to define and implement ways of working. Develop and implement concepts to regularly report data quality, data sharing, and next improvement steps. Proactively initiate and potentially lead improvements on processes, systems and roles & responsibilities to enhance data management within GMS, TechOps and Sobi. E.g. Collaborate with IT and software teams to design and implement data solutions including data models, data structures and data interfaces. Visualize data points, working processes and systems to business impact (Sobi-TechOps-GMS strategy/value creation plan) and explain / train stakeholders on a) the importance of accurate and timely data management and b) how to collaborate in an efficient and effective way to forester a data-driven culture. Be accountable for data related chang controls, respective SOP updates and training / guiding documentation as applicable and set an efficient governance for updating documentation. Define a framework for self-inspection on data accuracy to ensure continuous data quality improvement.",
-    "external_url": "https://jobs.smartrecruiters.com/Sobi/744000114966673-data-manager-global-manufacturing-supply-?oga=true",
-    "status": "matched"
-  },
   "https://api.smartrecruiters.com/v1/companies/Sobi/postings/744000113687667": {
     "description": "As a Principal Medical Writer, you will provide communication expertise and lead a strategy-driven approach to authoring of key clinical and regulatory documents and regulatory submissions, to ensure clarity, credibility and consistency of clinical information throughout submission packages and clinical programs, to facilitate regulatory assessment, and to achieve a product label that fulfills commercial needs. Key responsibilities: Lead a strategy-driven approach to authoring of the clinical components of regulatory submissions, ensuring a clear, concise, complete, credible and compelling scientific content aligned with the objective of the regulatory document. Assume primary responsibility for preparation of key clinical and regulatory documents and documents supporting major regulatory submissions as well as responses to regulatory agencies/ health authorities. Provide leadership and project coordination to  cross-functional authoring teams, ensuring efficient delivery, high quality, and regulatory compliance of clinical regulatory documents. Liaise with senior project staff, prospectively develop a storyboard for the submission, and plan document development to provide optimal support for the proposed prescribing information. Assume a Product Medical Writer responsibility, providing strategic medical writing expertise and support to multiple projects in a clinical development program. Ensure high technical quality of the documents in compliance with in-house technical requirements. Coach and develop less experienced Medical Writers. Oversee and coordinate all Medical Writers assisting on documents under your responsibility, including in-house consultants and Medical Writers at CRO.",
     "external_url": "https://jobs.smartrecruiters.com/Sobi/744000113687667-principal-medical-writer?oga=true",
@@ -430,7 +425,7 @@
     "title": "Vice President, Regulatory Affairs, Europe and International",
     "company": "BeiGene",
     "location": "Basel",
-    "posted_date": "2026-04-01",
+    "posted_date": "2026-03-31",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -618,7 +613,8 @@
     "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Internship-in-Innovation---Sustainability---For-students-in-the-field-of-Computational-Chemistry--Data-Science--Computer-Science-or-a-related-quantitative-discipline_202604-108597": "ignored",
     "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Internship-in-Innovation---Sustainability---For-students-with-a-background-in-STEM--preferably-in-Chemistry--Pharmaceutical-Sciences--Environmental-Sciences-and-Engineering--or-Data-Science---Business-Analytics-with-an-understanding-of-chemistry_202604-108594-1": "ignored",
     "https://www.randstad.ch/en/jobs/technical-rd-senior-associate-scientist-mwd_basel_35b0418a-ae4e-4841-abe0-a4c99a8531b1/": "ignored",
-    "https://www.randstad.ch/en/jobs/scientist-laboratory-technician-qc-bioanalytical-lab_schachen_62c78a92-48c9-4212-8cff-37f7bad021ab/": "ignored"
+    "https://www.randstad.ch/en/jobs/scientist-laboratory-technician-qc-bioanalytical-lab_schachen_62c78a92-48c9-4212-8cff-37f7bad021ab/": "ignored",
+    "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-fund-portfolio-coordinator-geneva-871332/1": "ignored"
   },
   "https://gloorlang.starhunter.software/Headhunter/project/job-ad/hash/693ffd941548c": {
     "external_url": "https://gloorlang.starhunter.software/Headhunter/project/job-ad/hash/693ffd941548c",
@@ -644,16 +640,6 @@
     "matched_keywords": [],
     "deducted_keywords": []
   },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000116404008": {
-    "description": "Introduction IT’s Compute and Devices Group is looking for a computing engineer to take over responsibility for the onsite High-Performance Compute (HPC) SLURM clusters which have established use cases in the Organisation including for the ATS sector and the Theory department. This position will be in the Compute and Configuration section, which is responsible for large scale compute, from the HPC farm through High Throughput Compute, Volunteer Computing and Configuration & Secret Management services. Functions Ensure service delivery for the SLURM HPC clusters to the user community as the primary service manager and technical lead of the service. Serve as the escalation point for the user community support requests, help to gather requirements and usage best practices. Configure, upgrade, monitor the clusters and provide ongoing maintenance. Ensure high utilisation of the resources by interfacing with HTCondor brokered backfill of resources. Define procedures and best practices for the wider team in order to promote operational support coverage. Look for synergies with other team members and teams for management of compute resources, or access to high performance compute resources for the community.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000116404008-high-performance-compute-hpc-engineer-it-cd-cc-2026-64-ld-?oga=true",
-    "status": "matched"
-  },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000116555976": {
-    "description": "Introduction You will play a major role in the evolution of non-relational data stores and big data platforms, based on technologies such as Hadoop and Spark. You will apply your software engineering expertise to large and long-lived data platforms, high-throughput ingestion pipelines, performance-critical access patterns, and demanding reliability requirements. Your work will directly support the operation, monitoring, and analysis of particle accelerator systems through the management of multi-petabyte datasets accumulated over many years. Functions Drive the evolution of the CERN Accelerator Archival system (NXCALS). Design and develop the core components of the system, including ingestion pipelines (ETL), metadata services, data compaction mechanisms, data extraction algorithms, and APIs. Collaborate with different user communities to define and promote best practices for using NXCALS in the development of control applications for the CERN Control Centre. Work closely with the CERN IT department to select and validate evolution of the underlying storage technologies (e.g. HDFS, ClickHouse). Contribute to the operation, maintenance, and user support of the system. Keep watch on relevant big-data technologies and assess their applicability to NXCALS. Mentor and technically support junior software engineers contributing to these activities. Contribute to the development of other Controls data engineering platforms according to overall priorities.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000116555976-big-data-software-engineer-be-css-ide-2026-65-ld-?oga=true",
-    "status": "matched"
-  },
   "_generic:Hurdle Bio": {
     "keywords": "npp"
   },
@@ -672,7 +658,7 @@
     "title": "Senior Scientist, Translational Medicine Oncology (Hematology)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-03-27",
+    "posted_date": "2026-03-26",
     "department": "",
     "score": 12,
     "matched_keywords": [
@@ -754,7 +740,7 @@
     "title": "Post Doctorate Scientist in Intestinal Inflammation - at the Institute of Human Biology (IHB)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-03-31",
+    "posted_date": "2026-03-30",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -835,7 +821,7 @@
     "title": "Associate Scientist in Analytical Development for Synthetic Molecules",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-02",
+    "posted_date": "2026-04-01",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -851,7 +837,7 @@
     "title": "Scientist – QC Lab Systems & CSV (GMP)",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-04-02",
+    "posted_date": "2026-04-01",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -866,7 +852,7 @@
     "title": "Senior Scientist – Manufacturing Science & Technology (Biologics USP/DSP)",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-04-02",
+    "posted_date": "2026-04-01",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -884,7 +870,7 @@
     "title": "Scientist Bio-/Chemical Quality Control",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-04-02",
+    "posted_date": "2026-04-01",
     "department": "",
     "score": -1,
     "matched_keywords": [
@@ -954,19 +940,6 @@
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000118368582-head-of-security-sce-dho-2026-77-ld-?oga=true",
     "status": "matched"
   },
-  "/job/Basel/PTD-Synthetic-Molecules-ADQC---Analytical-Scientist-in-the-Lab---2-year-fixed-term-contract-_202603-107427-1": {
-    "description": "At Roche you can show up as yourself, embraced for the unique qualities you bring. Our culture encourages personal expression, open dialogue, and genuine connections,  where you are valued, accepted and respected for who you are, allowing you to thrive both personally and professionally. This is how we aim to prevent, stop and cure diseases and ensure everyone has access to healthcare today and for generations to come. Join Roche, where every voice matters. The Position Behind each product in clinical trials or sold by Roche is the involvement of Pharma Global Technical Operations, a team of more than 10,000 employees worldwide. Within this organization, Pharma Technical Development (PTD) is dedicated to developing new medicines to meet patients' needs through innovation and teamwork. Our specific department, Synthetic Molecules Technical Development (PTDC), brings a broad range of experience across drug substance, drug product, and analytical sciences. We collaborate closely with partners in research and commercial sectors to develop our synthetic molecules pipeline and manufacture supplies for clinical studies. The Scientist in the Lab is an entry-level position located within the Analytical Development and Quality Control (ADQC) unit. In this role, you will be responsible for developing resource- and cost-efficient analytical methods using state-of-the-art techniques such as HPLC, GC, and mass spectrometry. Your ultimate goal is to establish robust control strategies to release products for clinical trials and commercial supply. The Opportunity Develop and implement phase-appropriate control strategies for drug substances and drug products. Coordinate all analytical activities, including generating physical and chemical data for materials. Develop, improve, and validate analytical test methods and controls to ensure quality standards. Act as the central project contact for information exchange and collaborate effectively with cross-functional stakeholders. Ensure all work complies with cGMP (where applicable), safety, and regulatory requirements. Evaluate new technologies and methods to support innovation projects. Ensure timely delivery and thorough documentation of all analytical results. Who You Are You hold a Ph.D. in (analytical) chemistry, biochemistry, biotechnology, pharmacy, or a related field. Expertise in key analytical techniques such as HPLC, UPLC, and GC, with a strong interest in analytical development for synthetic molecules. Digital savviness to support transformation initiatives; familiarity with statistical analysis of analytical data is advantageous. Goal-oriented and open-minded, with a strong quality mindset and the ability to work in a fast-developing environment. Excellent command of English (German is a plus) and the ability to collaborate respectfully with team members and stakeholders. Ready for the next step? We look forward to hearing from you. Apply now with a current CV and Motivation Letter to discover this exciting opportunity! Who we are A healthier future drives us to innovate. Together, more than 100’000 employees across the globe are dedicated to advance science, ensuring everyone has access to healthcare today and for generations to come. Our efforts result in more than 26 million people treated with our medicines and over 30 billion tests conducted using our Diagnostics products. We empower each other to explore new possibilities, foster creativity, and keep our ambitions high, so we can deliver life-changing healthcare solutions that make a global impact. Let’s build a healthier future, together. Roche is an Equal Opportunity Employer.",
-    "external_url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/PTD-Synthetic-Molecules-ADQC---Analytical-Scientist-in-the-Lab---2-year-fixed-term-contract-_202603-107427-1",
-    "status": "ignored",
-    "title": "PTD Synthetic Molecules ADQC - Analytical Scientist in the Lab  (2 year fixed term contract)",
-    "company": "Roche",
-    "location": "Basel",
-    "posted_date": "2026-04-03",
-    "department": "",
-    "score": 0,
-    "matched_keywords": [],
-    "deducted_keywords": []
-  },
   "/job/Switzerland---Zurich/Manager-Quality-System---Regulatory-Compliance_31146008-1": {
     "description": "JOB DESCRIPTION: Thoratec Switzerland GmbH , part of Abbott Laboratories , is a global leader in implantable and extracorporeal blood pump systems. Our lifesaving medical devices, developed and manufactured at our Zurich site, support patients with severe heart disease worldwide. Our Zurich team of approximately 150 colleagues brings together expertise across R&D, manufacturing, quality, and regulatory functions. As we continue to expand our innovative and high-impact work, we are looking for an experienced Manager Quality System & Regulatory Compliance who is motivated by purpose, collaboration, and continuous improvement. The Role In this role, you will shape and strengthen our Quality Management Systems while leading and developing a team of Quality System specialists. You will work closely with colleagues across Operations, R&D, Engineering, and Regulatory Affairs to ensure our products and processes meet the highest regulatory and quality standards — always with patient safety at the center. This position offers the opportunity to combine people leadership, strategic influence, and hands-on quality expertise in a global, regulated medical device environment. What You’ll Do Lead & Inspire Lead, support, and develop a team of Quality System specialists, setting clear goals aligned with company objectives and regulatory requirements Foster a collaborative, inclusive, and accountable team environment Support performance development through coaching, feedback, and training Quality & Compliance Leadership Ensure effective execution and continuous improvement of the site’s Quality Management Systems Maintain compliance with applicable international standards and regulations (e.g. ISO 13485, FDA QSR, EU MDR) Prepare and support the site during external audits and regulatory inspections (e.g. FDA, Notified Bodies) Act as a key quality partner for Operations, R&D, Engineering, and Regulatory Affairs Continuous Improvement & Problem Solving Identify opportunities to improve processes, compliance, and efficiency across the organization Lead or contribute to global quality improvement initiatives Own and drive corrective and preventive actions (CAPA), including root cause analysis and sustainable solutions Collaboration & Communication Operate effectively in a matrixed, international environment Build trusted relationships with global and regional stakeholders Communicate clearly and confidently across technical and non‑technical audiences Your Expertise Required Master’s degree in science, engineering, or another relevant technical discipline 3–5 years of experience in quality systems within the medical device industry (or similarly regulated environment) Strong working knowledge of ISO 13485, FDA 21 CFR Part 820, EU MDD/MDR, MDSAP Experience leading teams or guiding others in a regulated setting Strong communication skills in English and German What Helps You Succeed You balance attention to detail with a pragmatic, solution‑oriented mindset You enjoy developing people and helping teams perform at their best You are comfortable influencing in a matrix organization You value high ethical standards and taking ownership I f you don’t meet every requirement but believe this role is a strong fit for your experience and aspirations, we encourage you to apply. What We Offer Meaningful work that directly impacts patient lives A stable and growing company in a resilient industry A collaborative, respectful, and international working environment Flat hierarchies with open and transparent communication Opportunities for personal and professional development within Abbott A modern workplace in the center of Zurich, with R&D and manufacturing on site Ready to Apply? We look forward to receiving your application (CV and motivation letter in PDF format). All qualified applicants are encouraged to apply — we value diversity and believe it strengthens our teams and our impact. The base pay for this position is N/A In specific locations, the pay range may vary from the range posted. JOB FAMILY: Operations Quality DIVISION: HF Heart Failure LOCATION: Switzerland : Technoparkstrass 1 CH 8005 ADDITIONAL LOCATIONS: WORK SHIFT: Standard TRAVEL: Yes, 10 % of the Time MEDICAL SURVEILLANCE: Not Applicable SIGNIFICANT WORK ACTIVITIES: Not Applicable",
     "external_url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Switzerland---Zurich/Manager-Quality-System---Regulatory-Compliance_31146008-1",
@@ -974,7 +947,7 @@
     "title": "Manager Quality System & Regulatory Compliance",
     "company": "Abbott",
     "location": "Switzerland - Zurich",
-    "posted_date": "2026-04-03",
+    "posted_date": "2026-04-02",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1057,7 +1030,7 @@
     "deducted_keywords": []
   },
   "_generic:SIB Swiss Institute of Bioinformatics": {
-    "keywords": "bioinformatics"
+    "keywords": "bioinformatics,scientist"
   },
   "_generic:AliveDx": {
     "keywords": "regulatory,regulatory affairs"
@@ -1121,7 +1094,7 @@
     "title": "Project Manager – Spatial Biology Product Development (8-9 months contract)",
     "company": "Bio-Techne / Lunaphore",
     "location": "Tolochenaz, Switzerland",
-    "posted_date": "2026-04-08",
+    "posted_date": "2026-04-07",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1150,7 +1123,7 @@
     "title": "Computational Biology - Oncology",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-09",
+    "posted_date": "2026-04-08",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -1184,11 +1157,6 @@
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000119538184-collaboration-services-manager-it-ca-ges-2026-71-ld-?oga=true",
     "status": "matched"
   },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000119528627": {
-    "description": "Introduction Are you an experienced Software Engineer passionate about full-stack web development and open-source technologies? Join a dynamic team at CERN, working on a large-scale open-source platform used daily by thousands of users worldwide. You will contribute to the evolution of the CERN Document Server (CDS), CERN’s institutional repository, as it transitions to a modern platform based on InvenioRDM. CDS preserves and disseminates CERN’s scientific, administrative, and multimedia output, ensuring long-term access to the organisation’s intellectual and historical record. In this role, you will work at the core of CERN’s digital repository ecosystem, helping to design, build, and operate a mission-critical service that supports Open Science at a global scale. Functions Designing and developing new modules and functionalities for the CERN Document Server (CDS), while contributing to its underlying open-source platform, InvenioRDM. Collaborating with stakeholders to ensure CDS meets functional, usability, and service requirements. Performing DevOps activities, including service configuration, deployment, monitoring, and maintenance. Sharing expertise and collaborating with the wider InvenioRDM developer and open-source community. Migrating content and services from the current CDS to the new InvenioRDM-based repository platform. Providing user support and technical assistance to CDS users. Managing and reviewing code contributions in line with open-source development best practices.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000119528627-full-stack-software-engineer-it-ca-ir-2026-66-ld-?oga=true",
-    "status": "matched"
-  },
   "/job/Basel/Internship-in-Innovation---Sustainability---For-students-in-the-field-of-Computer-Science--Informatics--Business-Informatics--Data-Science--Statistics--Mathematics--or-Business-Analytics_202604-108588": {
     "description": "At Roche you can show up as yourself, embraced for the unique qualities you bring. Our culture encourages personal expression, open dialogue, and genuine connections,  where you are valued, accepted and respected for who you are, allowing you to thrive both personally and professionally. This is how we aim to prevent, stop and cure diseases and ensure everyone has access to healthcare today and for generations to come. Join Roche, where every voice matters. The Position Our Global Internship Programme in Innovation & Sustainability (#IP2TIS) offers a unique opportunity for passionate individuals to gain hands-on experience in the pharmaceutical industry while making a positive impact on the world. Are you ready to join a global network spanning 20+ countries, where bright minds collaborate to tackle real-world challenges in Innovation & Sustainability? Do you want to work on impactful projects, shape the future, and drive change from within? As an intern, you will contribute to the development of an integrated Talent-to-Hire Funnel Cockpit for the Young Talent audience at Roche in Switzerland. The project aims to bring together existing data and KPIs from areas such as reputation, vocational training, employer branding, early in career, and recruiting into one meaningful dashboard. Within your first 3 months, you are expected to help create an overview of available data and relevant KPIs, prioritize key metrics across funnel phases, support cross-functional KPI harmonization, and develop an initial dashboard prototype. Your work will help make the effectiveness of each funnel stage measurable, identify opportunities for improvement, and strengthen data-driven collaboration across functions. This internship offers a valuable opportunity to gain insight into the candidate journey at Roche and explore how different business areas work together. The Opportunity Collect and structure existing data sources and metrics across the Young Talent funnel Formulate and prioritize relevant KPIs for each funnel phase Develop a conceptual design for the Roche Young Talent Funnel Cockpit Visualize key metrics, conversion rates, and funnel transitions in a clear and actionable way Create a cross-functional data dictionary for central KPIs, including measurement logic, data sources, frequency, and ownership Support the harmonization of KPIs across different departments Develop a simple proof of concept, for example in Excel, Power BI, or Tableau Consider different target groups in the dashboard, such as interns, students, postdocs, or graduates, and design suitable filter logic Who You Are You are enrolled or have completed your Bachelor’s or Master’s studies at a university, preferably in the field of Computer Science, Informatics, Business Informatics, Data Science, Statistics, Mathematics, or Business Analytics within the last 12 months and are interested in applying your knowledge in a modern working environment as part of an internship of at least 3 months. Furthermore you are Highly proficient in Power BI or Tableau and have advanced Excel skills Ideally also familiar with SQL, Python, or Snowflake A structured thinker who enjoys turning data into clear decision-making logic Strong in stakeholder communication and comfortable collaborating across functions Fluent in German; English is a plus If you meet most but not all qualifications, we still encourage you to apply. Additional information The internship is expected to start between 1 and 16 July 2026 and will last at least 3 months. For more information about IP2TIS and to explore other opportunities within the programme, please visit go.roche.com/ip2tis_26._ Who we are A healthier future drives us to innovate. Together, more than 100’000 employees across the globe are dedicated to advance science, ensuring everyone has access to healthcare today and for generations to come. Our efforts result in more than 26 million people treated with our medicines and over 30 billion tests conducted using our Diagnostics products. We empower each other to explore new possibilities, foster creativity, and keep our ambitions high, so we can deliver life-changing healthcare solutions that make a global impact. Let’s build a healthier future, together. Roche is an Equal Opportunity Employer.",
     "external_url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Internship-in-Innovation---Sustainability---For-students-in-the-field-of-Computer-Science--Informatics--Business-Informatics--Data-Science--Statistics--Mathematics--or-Business-Analytics_202604-108588",
@@ -1196,7 +1164,7 @@
     "title": "Praktikum in Innovation & Nachhaltigkeit - Für Studierende in den Bereichen Informatik, Wirtschaftsinformatik, Data Science, Statistik, Mathematik oder Business Analytics",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-23",
+    "posted_date": "",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1211,7 +1179,7 @@
     "title": "Internship in Innovation & Sustainability - For students in the field of Pharmacoepidemiology, Epidemiology, Biostatistics, Data Science, Health Informatics, or Public Health",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-10",
+    "posted_date": "2026-04-09",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1266,7 +1234,7 @@
     "title": "Global Medical Affairs Lead Genomic Profiling",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-14",
+    "posted_date": "2026-04-13",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -1304,7 +1272,7 @@
     "title": "Sr. Scientist - Computational Biology - Neuroscience & Rare Diseases",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-16",
+    "posted_date": "2026-04-15",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -1327,7 +1295,7 @@
     "title": "Franchise Lead COPD (Inhaled + Biologic portfolio)",
     "company": "AstraZeneca",
     "location": "Switzerland - Baar",
-    "posted_date": "2026-04-15",
+    "posted_date": "2026-04-14",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1373,7 +1341,7 @@
     "title": "Post Doctorate Scientist – Vascularized Kidney Organoids - at the Institute of Human Biology (IHB)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-15",
+    "posted_date": "2026-04-14",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -1392,7 +1360,7 @@
     "title": "Internship for Students of Biology, Biochemistry in the Control Strategy Scientist Group",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-15",
+    "posted_date": "2026-04-14",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1408,7 +1376,7 @@
     "title": "Internship in Computational Biology: CVRM Genetics",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-15",
+    "posted_date": "2026-04-14",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -1471,7 +1439,7 @@
     "title": "International Medical Affairs Director Neuromuscular",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-04-18",
+    "posted_date": "2026-04-17",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1549,7 +1517,7 @@
     "title": "Senior Scientist microbiological Quality Control",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-04-21",
+    "posted_date": "2026-04-20",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -1569,7 +1537,7 @@
     "title": "​Sr Manager / Associate Director Regulatory Affairs - Swiss Affiliate",
     "company": "Gilead Sciences",
     "location": "Switzerland - Zug",
-    "posted_date": "2026-04-21",
+    "posted_date": "2026-04-20",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1585,7 +1553,7 @@
     "title": "Senior Scientist, Material Qualification and Release (QC GMP)",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-04-21",
+    "posted_date": "2026-04-20",
     "department": "",
     "score": -1,
     "matched_keywords": [
@@ -1607,7 +1575,7 @@
     "title": "Medical Science Liaison CVRM",
     "company": "AstraZeneca",
     "location": "Switzerland - Baar",
-    "posted_date": "2026-04-21",
+    "posted_date": "2026-04-20",
     "department": "",
     "score": -1,
     "matched_keywords": [
@@ -1672,11 +1640,6 @@
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000121942188-eu-projects-financial-officer-sr-se-eui-2026-90-ld-?oga=true",
     "status": "matched"
   },
-  "https://api.smartrecruiters.com/v1/companies/Sobi/postings/744000122018467": {
-    "description": "About the role Global Quality plays a key role in making sure our medicines meet internal standards, regulatory expectations, and the commitments in our registration files. As an independent quality organisation, we bring the expertise to deliver on these commitments—while continuously strengthening our capabilities, developing our people, and evolving our quality system to support the business as we grow. As QA Analytical Specialist, you’ll be the quality partner for analytical activities and stability studies for products where Sobi is the MAH. You’ll ensure GMP-compliant methods and data support reliable release and stability testing for both clinical and commercial supply—working closely with internal stakeholders and external partners to keep quality, compliance, and patient impact at the centre of everything we do. It is a Hybrid role and can be based in either Stockholm or Basel, reporting to Head of Quality Product Lifecycle & Clinical Supply. Key Responsibilities Coordinator and Quality approver for deviations, CAPA and change controls. QA-approver for GMP-related analytical activities, e.g. validation and technology transfer of analytical methods used for in-process control, release and stability studies. Performance of quality evaluation of CLOs. QA contact for CLOs Provide Quality Assurance for stability studies for products where Sobi is the MAH, including approving plans and protocols. Perform QA review and approval of extension of expiry date of critical analytical material, including but not limited to reference standards and control samples. Perform QA review and approval of product specifications. Give support to Global Regulatory Affairs / CMC in analytical quality issues for variations and market expansions. Act as a representative of Global Quality and provide QA analytical guidance to support projects in order to ensure compliance with GMP Manage Quality Technical Agreements with CLOs. Author, review and approve SOPs and related documentation related to the position.",
-    "external_url": "https://jobs.smartrecruiters.com/Sobi/744000122018467-qa-analytical-specialist?oga=true",
-    "status": "matched"
-  },
   "/job/EMEA-CH-Kanton-Bern-Bern-CSL-Behring/Scientist---Technical-Operations_R-275519": {
     "description": "CSL Behring is a global biotherapeutics leader driven by its promise to save lives. In Bern, more than 1800 employees develop and deliver life-saving therapies to treat people with rare and serious medical conditions worldwide. For our location in Bern, we are currently looking for 2x Scientist - Technical Operations This role supports the discovery, development, and progression of new medicines for unmet medical needs from early research through clinical development and into commercialization. Responsibilities include conducting scientific analyses, ensuring that products meet clinical safety standards, and maintaining accurate research documentation and information systems. The position contributes to the design and execution of experimental and manufacturing processes, supports technology transfer activities, and performs testing across development stages to ensure effective process control. Collaboration with internal teams, external partners, and regulatory stakeholders is essential to ensure compliance, support program reporting, and advance project objectives. The role also assists in directing technical activities, supporting project and portfolio evaluations, and contributing to integrated strategies that enable efficient progression and decision‑making throughout the development lifecycle. Main Responsibilities & Accountabilities Provide scientific and technical expertise to advance technology platform capabilities and support the achievement of project objectives. Coordinate research and development activities at both global and local levels to ensure alignment, steady progress, and successful project delivery. Facilitate collaboration with other CSL sites and external partners to promote knowledge exchange and strengthen operational effectiveness. Apply advanced practical knowledge in relevant scientific fields to support experimental design, execution of technical work, and interpretation of data. Work independently under general supervision to meet operational targets and contribute directly to team and departmental outcomes. Address challenging technical or operational issues that may require an understanding of broader project or organizational factors. Support colleagues within the job area by clearly communicating scientific findings, established policies, and best practices. Job Specifications / Requirements Bachelor’s or postgraduate degree and/or substantial experience in a relevant scientific discipline. At least 3 years of laboratory experience with training in a relevant technical field, such as molecular and cellular biology, analytical biochemistry, or related areas. We look forward to receiving your application dossier, including your CV, cover letter, diplomas, and relevant work certificates. Please combine all documents into a single PDF file before submitting. About CSL Behring CSL Behring is a global biotherapeutics leader driven by our promise to save lives. Focused on serving patients’ needs by using the latest technologies, we discover, develop and deliver innovative therapies for people living with conditions in the immunology, hematology, cardiovascular and metabolic, respiratory, and transplant therapeutic areas. We use three strategic scientific platforms of plasma fractionation, recombinant protein technology, and cell and gene therapy to support continued innovation and continually refine ways in which products can address unmet medical needs and help patients lead full lives. CSL Behring operates one of the world’s largest plasma collection networks, CSL Plasma. Our parent company, CSL, headquartered in Melbourne, Australia, employs 32,000 people, and delivers its lifesaving therapies to people in more than 100 countries. To learn more about CSL, CSL Behring, CSL Seqirus and CSL Vifor  visit https://www.csl.com/ and CSL Plasma at https://www.cslplasma.com/ . Our Benefits For more information on CSL benefits visit How CSL Supports Your Well-being | CSL . You Belong at CSL At CSL, Inclusion and Belonging is at the core of our mission and who we are. It fuels our innovation day in and day out. By celebrating our differences and creating a culture of curiosity and empathy, we are able to better understand and connect with our patients and donors, foster strong relationships with our stakeholders, and sustain a diverse workforce that will move our company and industry into the future. To learn more about inclusion and belonging visit https://www.csl.com/careers/inclusion-and-belonging Equal Opportunity Employer CSL is an Equal Opportunity Employer. If you are an individual with a disability and need a reasonable accommodation for any part of the application process, please visit https://www.csl.com/accessibility-statement .",
     "external_url": "https://csl.wd1.myworkdayjobs.com/CSL_External/job/EMEA-CH-Kanton-Bern-Bern-CSL-Behring/Scientist---Technical-Operations_R-275519",
@@ -1684,7 +1647,7 @@
     "title": "2x Scientist - Technical Operations",
     "company": "CSL Behring / Vifor",
     "location": "EMEA, CH, Kanton Bern, Bern, CSL Behring",
-    "posted_date": "",
+    "posted_date": "2026-04-21",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1699,7 +1662,7 @@
     "title": "2x Scientist - Technical Operations",
     "company": "CSL Behring / Vifor",
     "location": "EMEA, CH, Kanton Bern, Bern, CSL Behring",
-    "posted_date": "",
+    "posted_date": "2026-04-21",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1720,23 +1683,6 @@
     "matched_keywords": [
       "MSc",
       "PhD",
-      "drug discovery"
-    ],
-    "deducted_keywords": []
-  },
-  "https://careers.idorsia.com/job/Allschwil%2C-Basel-Area-Global-Regulatory-Lead-BL/1378499733/": {
-    "description": "Headquartered near Basel, Switzerland – a European biotech hub – Idorsia has a highly experienced team of dedicated professionals, covering all disciplines from bench to bedside; QUVIVIQ™ (daridorexant), a different kind of insomnia treatment with the potential to revolutionize this mounting public health concern; strong partners to maximize the value of our portfolio; a promising in-house development pipeline; and a specialized drug discovery engine focused on small-molecule drugs that can change the treatment paradigm for many patients. Idorsia is listed on the SIX Swiss Exchange (ticker symbol: IDIA). Join a role where you’ll work in an international regulatory environment and support the development and lifecycle management of medicinal products across multiple markets. As Global Regulatory Lead, you will contribute to the development and execution of regulatory strategies in Europe and other regions. You’ll also represent Global Regulatory Affairs for assigned products in cross-functional and governance forums, collaborating with key stakeholders across labeling, safety, commercial, and affiliate teams to help ensure aligned and effective decision-making. Candidate Requirements Master's Degree in life sciences At least 5 years of regulatory experience or other job relevant drug development experience, including: Leading/delivering global and/or regional filings Reviews and approvals of major submissions to Health Authorities (HAs) Leading HA interactions In-depth knowledge of regulatory legislation and guidelines (ICH, US and EU) and good understanding of other regions Strong understanding of the regulatory aspects at various stages of development, from entry-into-man to post-approval activities over full lifecycle of products In-depth experience working, communicating and negotiating with the HAs, including coordinating and managing HA meetings Strong scientific competence and familiarity with clinical trial methodology and statistics Proven development experience Proven experience as successful leader in strategic cross-functional environment and matrix environment Excellent communication, interpersonal, negotiation and problem-solving skills Very good understanding of interrelationships between functions, departments and business priorities Effective team player, with experience working in cross-functional and global teams, but also able to work independently Ability to work within tight timelines with excellent project management skills Excellent spoken and written English Job Responsibilities: Regulatory Management: Define and provide optimal global regulatory strategies to support the development and approval of new compounds as well as product life cycle management activities for assigned product(s) Review critically all global promotional material prior to country-specific review Lead creation, review, finalization and maintenance of CCDS for assigned products including communication of changes (with supporting documentation) to affiliates or partners for implementation Ensure communication and regulatory support for other countries in collaboration with affiliate or partner and regulatory operations, as needed Regulatory Leadership: Lead the global submission planning process, creation, review and finalization of key regulatory documents intended for submission to HAs Represents GRA for assigned product(s) at LCT, management committees and governance related meetings e.g., Global Labeling Committee, Drug Safety and Document Committees, Commercial and Affiliate Leadership Team Collaborate closely with the US Regulatory Lead for regulatory considerations, strategy and key regulatory documents Provide consolidated interpretation of relevant HA regulatory guidelines for the development and approval of new drugs as well as product life cycle management Ensure compliance with relevant regulatory guidelines and processes worldwide and represents GRA (project-related) at audits and inspections Ensure that RA project milestones are achieved What we offer Development – opportunities to grow, learn, and expand your expertise in a dynamic and international organization A collaborative culture – a supportive, solution-oriented environment where teamwork, initiative, and new ideas are encouraged International exposure – work in a truly multicultural setting with colleagues and partners from around the world Work Location: Allschwil Country: Switzerland Business Area: Global Regulatory Affairs Schedule: Fulltime Job Type: Permanent Job ID: 4721 At Idorsia, we harness the power of difference, authenticity, and inclusion to achieve business success. We encourage all potential candidates with diverse backgrounds of race, color, religion, sexual orientation, gender identity, age, national origin, and disability to submit their job applications. All applicants will receive consideration. We are committed to fostering respect, fairness, and equal opportunities for all job applicants and our employees. Please be informed that if you are selected for this position, your employment will be subject to a pre-employment background screening process, of which you would be informed in greater detail in due course. Idorsia Pharmaceuticals Ltd (\"Idorsia\") is committed to a fair and transparent application process. In order to avoid any conflict of interest in line with Idorsia Code of Business Conduct, which would undermine such a commitment, the applicants  must disclose any personal, financial, or other outside interests interfering with the interests of Idorsia. Further, the applicant is obliged to disclose any and all relationships with close or affiliated persons, who are employees of Idorsia or are collaborating with Idorsia in any other contractual relationship. Please note Idorsia operates a strictly controlled list of preferred recruitment partners. For those partners who have no valid, signed Master Service Agreement in place with Idorsia, all unsolicited resumes, CVs, anonymous profiles, or any other candidate details submitted through our website or to personal e-mail accounts of employees of Idorsia Pharmaceuticals (including any of its subsidiaries, affiliates, or related companies) are considered the property of Idorsia Pharmaceuticals and are not subject to payment of any form of introduction, placement or referral fees.",
-    "external_url": "https://careers.idorsia.com/job/Allschwil%2C-Basel-Area-Global-Regulatory-Lead-BL/1378499733/",
-    "status": "ignored",
-    "title": "Global Regulatory Lead",
-    "company": "Idorsia",
-    "location": "Allschwil, Basel Area, BL, CH",
-    "posted_date": "",
-    "department": "",
-    "score": 3,
-    "matched_keywords": [
-      "Master's degree",
-      "drug development",
       "drug discovery"
     ],
     "deducted_keywords": []
@@ -1844,7 +1790,7 @@
     "title": "Analytical Molecular Characterization Team Lead and Mass Spectrometry Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-23",
+    "posted_date": "",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1870,23 +1816,9 @@
       "location:Region Ostschweiz, Switzerland"
     ]
   },
-  "https://www.michaelpage.ch/job-detail/business-development-manager-defense-europe-mfd/ref/jn-122025-6902007": {
-    "external_url": "https://www.michaelpage.ch/job-detail/business-development-manager-defense-europe-mfd/ref/jn-122025-6902007",
-    "status": "ignored",
-    "title": "Business Development Manager - Defense Europe (m/f/d)",
-    "company": "Michael Page Switzerland",
-    "location": "Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": -2,
-    "matched_keywords": [],
-    "deducted_keywords": [
-      "location:Switzerland"
-    ]
-  },
   "https://www.michaelpage.ch/de/job-detail/product-business-development-manager/ref/jn-032026-6970319?lang=en": {
     "external_url": "https://www.michaelpage.ch/de/job-detail/product-business-development-manager/ref/jn-032026-6970319?lang=en",
-    "status": "matched",
+    "status": "ignored",
     "title": "Product & Business Development Manager",
     "company": "Michael Page Switzerland",
     "location": "Switzerland",
@@ -1897,5 +1829,65 @@
     "deducted_keywords": [
       "location:Switzerland"
     ]
+  },
+  "https://api.smartrecruiters.com/v1/companies/Sobi/postings/744000122395283": {
+    "description": "About the role Global Quality plays a key role in making sure our medicines meet internal standards, regulatory expectations, and the commitments in our registration files. As an independent quality organisation, we bring the expertise to deliver on these commitments—while continuously strengthening our capabilities, developing our people, and evolving our quality system to support the business as we grow. As QA Analytical Specialist, you’ll be the quality partner for analytical activities and stability studies for products where Sobi is the MAH. You’ll ensure GMP-compliant methods and data support reliable release and stability testing for both clinical and commercial supply—working closely with internal stakeholders and external partners to keep quality, compliance, and patient impact at the centre of everything we do. It is a Hybrid role and can be based in either Stockholm or Basel, reporting to Head of Quality Product Lifecycle & Clinical Supply. Key Responsibilities Coordinator and Quality approver for deviations, CAPA and change controls. QA-approver for GMP-related analytical activities, e.g. validation and technology transfer of analytical methods used for in-process control, release and stability studies. Performance of quality evaluation of CLOs. QA contact for CLOs Provide Quality Assurance for stability studies for products where Sobi is the MAH, including approving plans and protocols. Perform QA review and approval of extension of expiry date of critical analytical material, including but not limited to reference standards and control samples. Perform QA review and approval of product specifications. Give support to Global Regulatory Affairs / CMC in analytical quality issues for variations and market expansions. Act as a representative of Global Quality and provide QA analytical guidance to support projects in order to ensure compliance with GMP Manage Quality Technical Agreements with CLOs. Author, review and approve SOPs and related documentation related to the position.",
+    "external_url": "https://jobs.smartrecruiters.com/Sobi/744000122395283-qa-analytical-specialist?oga=true",
+    "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/Sobi/postings/744000122394635": {
+    "description": "As a Data Manager within Global Manufacturing and Supply (GMS) you will be the key person to build and manage the processes, governance and system landscape for our data. In other words, you shape the vision of our future data management set up and will be the driver of the data journey within GMS. In our view, good data needs to enable correct and on time supplies to patients and create positive business impact. You will be accountable that all key data of respective systems (e.g. ERP, APS) are created timely, are correct, maintained, synchronized among systems, and communicated to internal and external stakeholders at a high standard and that data quality is reported regularly to stakeholders. You will also partner with functions outside GMS and participate in projects that aim to enhance Sobi’s data management environment. This position is based at our Global Headquarters in Stockholm, Sweden or Global hub in Basel, Switzerland, reporting directly to Head Global Manufacturing & Supply Excellence. Key Responsibilities Define, implement, and further develop cross-functional processes and RACI (incl. governance) to create and update Master Data. Manage the identification, collection, consolidation and cleansing of master data from various sources. Create and update data points and ensure that data sharing among systems works uninterrupted. Ensure accurate and timely communication of master data to e.g. 3PL partners and/or Sobi affiliates. Define and map source system and user systems of each data point. Develop and coordinate / implement data integration strategies to ensure data consistency across systems. Collaborate well with various stakeholders within and outside GMS to define and implement ways of working. Develop and implement concepts to regularly report data quality, data sharing, and next improvement steps. Proactively initiate and potentially lead improvements on processes, systems and roles & responsibilities to enhance data management within GMS, TechOps and Sobi. E.g. Collaborate with IT and software teams to design and implement data solutions including data models, data structures and data interfaces. Visualize data points, working processes and systems to business impact (Sobi-TechOps-GMS strategy/value creation plan) and explain / train stakeholders on a) the importance of accurate and timely data management and b) how to collaborate in an efficient and effective way to forester a data-driven culture. Be accountable for data related chang controls, respective SOP updates and training / guiding documentation as applicable and set an efficient governance for updating documentation. Define a framework for self-inspection on data accuracy to ensure continuous data quality improvement.",
+    "external_url": "https://jobs.smartrecruiters.com/Sobi/744000122394635-data-manager-global-manufacturing-supply-?oga=true",
+    "status": "matched"
+  },
+  "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-fund-portfolio-coordinator-geneva-871332/1": {
+    "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-fund-portfolio-coordinator-geneva-871332/1",
+    "status": "matched",
+    "title": "Fund Portfolio Coordinator(m/f/d)",
+    "company": "Hays Switzerland",
+    "location": "Geneva, Switzerland",
+    "posted_date": "",
+    "department": "",
+    "score": 4,
+    "matched_keywords": [
+      "location:geneva"
+    ],
+    "deducted_keywords": []
+  },
+  "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-clinical-medical-scientist-basel-stadt-871198/1": {
+    "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-clinical-medical-scientist-basel-stadt-871198/1",
+    "status": "matched",
+    "title": "Clinical/Medical Scientist(m/f/d)",
+    "company": "Hays Switzerland",
+    "location": "Basel Stadt, Switzerland",
+    "posted_date": "",
+    "department": "",
+    "score": 0,
+    "matched_keywords": [],
+    "deducted_keywords": []
+  },
+  "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-clinical-scientist-basel-stadt-865510/1": {
+    "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-clinical-scientist-basel-stadt-865510/1",
+    "status": "matched",
+    "title": "Clinical Scientist(m/f/d)",
+    "company": "Hays Switzerland",
+    "location": "Basel Stadt, Switzerland",
+    "posted_date": "",
+    "department": "",
+    "score": 0,
+    "matched_keywords": [],
+    "deducted_keywords": []
+  },
+  "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-qc-scientist-microbiology-lengnau-berne-864632/1": {
+    "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-qc-scientist-microbiology-lengnau-berne-864632/1",
+    "status": "matched",
+    "title": "QC Scientist Microbiology(m/f/d)",
+    "company": "Hays Switzerland",
+    "location": "Lengnau, Berne, Switzerland",
+    "posted_date": "",
+    "department": "",
+    "score": 0,
+    "matched_keywords": [],
+    "deducted_keywords": []
   }
 }
