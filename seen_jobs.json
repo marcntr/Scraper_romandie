@@ -441,7 +441,7 @@
     "title": "Scientist Microbiological Quality Control",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-03-24",
+    "posted_date": "2026-03-25",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -838,7 +838,7 @@
     "title": "Scientist – QC Lab Systems & CSV (GMP)",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-04-01",
+    "posted_date": "2026-04-02",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -853,7 +853,7 @@
     "title": "Senior Scientist – Manufacturing Science & Technology (Biologics USP/DSP)",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-04-01",
+    "posted_date": "2026-04-02",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -871,7 +871,7 @@
     "title": "Scientist Bio-/Chemical Quality Control",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-04-01",
+    "posted_date": "2026-04-02",
     "department": "",
     "score": -1,
     "matched_keywords": [
@@ -1170,21 +1170,6 @@
     "score": 1,
     "matched_keywords": [
       "Postdoc"
-    ],
-    "deducted_keywords": []
-  },
-  "/job/Basel/Internship-in-Innovation---Sustainability---For-students-in-the-field-of-Pharmacoepidemiology--Epidemiology--Biostatistics--Data-Science--Health-Informatics--or-Public-Health_202604-108581": {
-    "description": "At Roche you can show up as yourself, embraced for the unique qualities you bring. Our culture encourages personal expression, open dialogue, and genuine connections,  where you are valued, accepted and respected for who you are, allowing you to thrive both personally and professionally. This is how we aim to prevent, stop and cure diseases and ensure everyone has access to healthcare today and for generations to come. Join Roche, where every voice matters. The Position Our Global Internship Programme in Innovation & Sustainability (#IP2TIS) offers a unique opportunity for passionate individuals to gain hands-on experience in the pharmaceutical industry while making a positive impact on the world. Are you ready to join a global network spanning 20+ countries, where bright minds collaborate to tackle real-world challenges in Innovation & Sustainability? Do you want to work on impactful projects, shape the future, and drive change from within? As an intern, you will contribute to closing the evidence gap for a vulnerable patient population by evaluating mother-child linkages within a novel real-world data source. The project aims to establish a readiness framework for drug safety research. During the three-month internship, you will deliver a technical assessment of the cohort and develop clinical phenotyping algorithms and pilot causal inference methodologies for pregnancy-related analyses. Your work will establish scalable pipelines for generating clinically relevant evidence leveraging target trial emulation, ultimately supporting more equitable maternal and pediatric health outcomes. This role offers the opportunity to lead a high-impact project at the intersection of real-world data and patient-centered evidence generation for drug safety. The Opportunity Perform a quantitative assessment of a novel real-world data source to evaluate the quality, completeness, and representativeness of mother-child linkages for drug safety research Build and validate algorithms to define pregnancy timelines and accurately identify maternal and infant health outcomes Conduct a descriptive assessment of the linked cohort, including demographics, longitudinal follow-up, timing of clinical events, and data missingness Synthesize findings into a final technical report and presentation that outlines the readiness, strengths, and limitations of the dataset Create a documented code repository in R or Python to automate pregnancy-specific real-world data workflows in this data source Apply target trial emulation methods to evaluate a pregnancy-related safety question using causal inference frameworks Who You Are You are enrolled or have completed your Master’s or PhD studies at a university, preferably in the field of Pharmacoepidemiology, Epidemiology, Biostatistics, Data Science, Health Informatics, or Public Health within the last 12 months and are interested in applying your knowledge in a modern working environment as part of an internship of at least 3 months. Furthermore you are Proficient in SQL and experienced in querying large-scale databases and handling complex data extractions Strong in R programming; experience with Python and Git for version control is an advantage Familiar with medical vocabularies such as ICD-10 and with observational study designs, including common sources of bias Knowledgeable in causal inference frameworks, including the management of time-varying exposures and outcomes Detail-oriented, analytical, independent, collaborative, and able to communicate technical findings clearly in English If you meet most but not all qualifications, we still encourage you to apply. Additional information The internship is expected to start between 1 and 16 July 2026 and will last at least 3 months. For more information about IP2TIS and to explore other opportunities within the programme, please visit go.roche.com/ip2tis_26._ Who we are A healthier future drives us to innovate. Together, more than 100’000 employees across the globe are dedicated to advance science, ensuring everyone has access to healthcare today and for generations to come. Our efforts result in more than 26 million people treated with our medicines and over 30 billion tests conducted using our Diagnostics products. We empower each other to explore new possibilities, foster creativity, and keep our ambitions high, so we can deliver life-changing healthcare solutions that make a global impact. Let’s build a healthier future, together. Roche is an Equal Opportunity Employer.",
-    "external_url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Internship-in-Innovation---Sustainability---For-students-in-the-field-of-Pharmacoepidemiology--Epidemiology--Biostatistics--Data-Science--Health-Informatics--or-Public-Health_202604-108581",
-    "status": "ignored",
-    "title": "Internship in Innovation & Sustainability - For students in the field of Pharmacoepidemiology, Epidemiology, Biostatistics, Data Science, Health Informatics, or Public Health",
-    "company": "Roche",
-    "location": "Basel",
-    "posted_date": "2026-04-09",
-    "department": "",
-    "score": 1,
-    "matched_keywords": [
-      "PhD"
     ],
     "deducted_keywords": []
   },
@@ -1518,7 +1503,7 @@
     "title": "Senior Scientist microbiological Quality Control",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-04-20",
+    "posted_date": "2026-04-21",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -1554,7 +1539,7 @@
     "title": "Senior Scientist, Material Qualification and Release (QC GMP)",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-04-20",
+    "posted_date": "2026-04-21",
     "department": "",
     "score": -1,
     "matched_keywords": [
