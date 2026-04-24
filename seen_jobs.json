@@ -618,7 +618,8 @@
     "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/PTD-Synthetic-Molecules-ADQC---Analytical-Scientist-in-the-Lab---2-year-fixed-term-contract-_202603-107427-1": "ignored",
     "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Internship-in-Innovation---Sustainability---For-students-in-the-field-of-Pharmacoepidemiology--Epidemiology--Biostatistics--Data-Science--Health-Informatics--or-Public-Health_202604-108581": "ignored",
     "https://www.michaelpage.ch/job-detail/fund-portfolio-coordinator-9-months/ref/jn-042026-6999523": "ignored",
-    "https://www.michaelpage.ch/fr/job-detail/portfolio-manager-fr-eng-100-m-f/ref/jn-042026-6999371?lang=en": "ignored"
+    "https://www.michaelpage.ch/fr/job-detail/portfolio-manager-fr-eng-100-m-f/ref/jn-042026-6999371?lang=en": "ignored",
+    "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Senior-Scientist--Translational-Medicine-Oncology--Hematology-_202603-107538-1": "ignored"
   },
   "https://gloorlang.starhunter.software/Headhunter/project/job-ad/hash/693ffd941548c": {
     "external_url": "https://gloorlang.starhunter.software/Headhunter/project/job-ad/hash/693ffd941548c",
@@ -1925,7 +1926,7 @@
   },
   "https://www.michaelpage.ch/job-detail/fund-portfolio-coordinator-9-months/ref/jn-042026-6999523": {
     "external_url": "https://www.michaelpage.ch/job-detail/fund-portfolio-coordinator-9-months/ref/jn-042026-6999523",
-    "status": "matched",
+    "status": "ignored",
     "title": "Fund Portfolio Coordinator for 9 months",
     "company": "Michael Page Switzerland",
     "location": "Switzerland",
@@ -1939,7 +1940,7 @@
   },
   "https://www.michaelpage.ch/fr/job-detail/portfolio-manager-fr-eng-100-m-f/ref/jn-042026-6999371?lang=en": {
     "external_url": "https://www.michaelpage.ch/fr/job-detail/portfolio-manager-fr-eng-100-m-f/ref/jn-042026-6999371?lang=en",
-    "status": "matched",
+    "status": "ignored",
     "title": "Portfolio Manager FR / ENG 100% (m / f)",
     "company": "Michael Page Switzerland",
     "location": "Switzerland",
@@ -1953,7 +1954,7 @@
   },
   "https://www.michaelpage.ch/de/job-detail/business-development-specialist-100/ref/jn-032026-6968386?lang=en": {
     "external_url": "https://www.michaelpage.ch/de/job-detail/business-development-specialist-100/ref/jn-032026-6968386?lang=en",
-    "status": "matched",
+    "status": "ignored",
     "title": "Business Development Specialist (a) 100%",
     "company": "Michael Page Switzerland",
     "location": "Switzerland",
@@ -1967,7 +1968,7 @@
   },
   "https://www.michaelpage.ch/de/job-detail/senior-area-sales-manager-business-development-manager-dach/ref/jn-022026-6955718?lang=en": {
     "external_url": "https://www.michaelpage.ch/de/job-detail/senior-area-sales-manager-business-development-manager-dach/ref/jn-022026-6955718?lang=en",
-    "status": "matched",
+    "status": "ignored",
     "title": "Senior Area Sales Manager & Business Development Manager - DACH",
     "company": "Michael Page Switzerland",
     "location": "Switzerland",
@@ -1981,7 +1982,7 @@
   },
   "https://www.michaelpage.ch/job-detail/business-development-manager-medical-devices-mfd/ref/jn-032026-6964024": {
     "external_url": "https://www.michaelpage.ch/job-detail/business-development-manager-medical-devices-mfd/ref/jn-032026-6964024",
-    "status": "matched",
+    "status": "ignored",
     "title": "Business Development Manager - Medical Devices (m/f/d)",
     "company": "Michael Page Switzerland",
     "location": "Switzerland",
@@ -1995,7 +1996,7 @@
   },
   "https://www.michaelpage.ch/de/job-detail/product-business-development-manager/ref/jn-032026-6970319?lang=en": {
     "external_url": "https://www.michaelpage.ch/de/job-detail/product-business-development-manager/ref/jn-032026-6970319?lang=en",
-    "status": "matched",
+    "status": "ignored",
     "title": "Product & Business Development Manager",
     "company": "Michael Page Switzerland",
     "location": "Switzerland",
