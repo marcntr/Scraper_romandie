@@ -425,7 +425,7 @@
     "title": "Vice President, Regulatory Affairs, Europe and International",
     "company": "BeiGene",
     "location": "Basel",
-    "posted_date": "2026-04-01",
+    "posted_date": "2026-03-31",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -654,11 +654,6 @@
   "_generic:Ridgeline Discovery": {
     "keywords": "npp"
   },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000116940807": {
-    "description": "You will join a team that is responsible for the development and evolution of CERN's industrial control frameworks, JCOP and UNICOS, as well as for evaluating and validating new technologies for future control systems. These frameworks build on the commercial SCADA platform SIMATIC WinCC Open Architecture (WinCC OA) from Siemens, which forms the backbone of more than 800 mission-critical control systems. Starting in a few months, the LHC detectors will undergo major upgrades requiring new control systems and additional functionality in the JCOP Framework. In this context, you will contribute to the development and evolution of the JCOP Framework and support the implementation of detector control systems. Your responsibilities Contribute to the development and evolution of the JCOP Framework used by the LHC experiments. Implement and maintain software components, templates and tools based on WinCC OA and CERN control frameworks. Integrate devices into supervisory control systems. Design & Development of user interfaces with WinCC OA. Prototype and test new solutions to improve reliability, maintainability and scalability of the frameworks. Assist LHC experiments in the development, deployment and maintenance of their control systems. Participate in code reviews, debugging and troubleshooting of control system applications. Your profile Initial experience or exposure to software development in distributed or modular systems. Experience with modern programming languages and development tools (e.g. C/C++ or similar). Knowledge of software engineering principles (version control GIT, testing, code quality, documentation, CI/CD). Knowledge of Qt, Node.js or TypeScript would be an advantage. Familiarity with industrial control systems, SCADA technologies, or CERN experiment online systems would be an advantage. Skills Proficiency in C/C++ programming. Ability to learn and adapt to new technologies and frameworks quickly. Ability to design, implement and debug software components in complex systems. Strong analytical and problem-solving skills. Ability to work in multidisciplinary teams and interact with engineers and scientists. Good communication and documentation skills. Spoken and written English, with a commitment to learn French. Eligibility criteria: You are a national of a CERN Member or Associate Member State . By the application deadline, you have a maximum of two years of professional experience since graduation in Software Engineering (or a related field) and your highest educational qualification is either a Bachelor's or Master's degree . You have never had a CERN fellow or graduate contract before. Applicants without University degree are not eligible. Applicants with a PhD are not eligible.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000116940807-software-developer-for-control-systems-be-ics-stf-2026-85-grae-?oga=true",
-    "status": "matched"
-  },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000117226307": {
     "description": "Introduction You will join the talent pool for Limited Duration research positions within the CERN Theoretical Physics Department (CERN-TH), bringing together pre-assessed and endorsed candidates for future hiring opportunities based on organisational needs. As an outstanding researcher in theoretical particle physics, you will contribute to the development of new theoretical ideas aimed at understanding the fundamental constituents and forces of nature, while ensuring their relevance to CERN’s experimental programme and taking full advantage of the unique environment of a large international laboratory. You will also contribute to CERN’s scientific culture through active participation in training programmes and the promotion of scientific events on site. Functions Making significant contributions to theoretical research related to elementary particle physics; Participating in and initiating a large variety of activities within the Theoretical Physics Department and possibly in collaboration with the experimental physicists working at CERN; Taking part in CERN committees and study groups; Helping maintain continued contacts with the outside scientific community.",
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000117226307-theoretical-physicist-th-sp-2026-68-ld-?oga=true",
@@ -673,11 +668,6 @@
       "location:geneva"
     ],
     "deducted_keywords": []
-  },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000117323718": {
-    "description": "Introduction: Are you ready to work hands-on with the magnets that keep CERN’s accelerators running? The Magnets, Superconductors and Cryostats ( MSC ) group of the Technology Department ( TE ) designs, constructs and measures the superconducting and normal conducting magnets for the CERN accelerator complex. The group is also in charge of integrating magnets into the CERN accelerator complex, designing and procuring magnet cryostats and performing magnet quality control. In addition, it provides operational support for magnets, magnet performance and related devices such as current leads. Within MSC, the Normal Conducting Magnets ( NCM ) section is responsible for the design, construction, commissioning, maintenance, and upgrade of the normal conducting magnets for present and future CERN accelerators and beam lines. This is your chance to join a collaborative, international team, work with unique technologies, and contribute directly to the reliable performance of the world’s largest accelerator complex. Functions: As an electromechanical technician in the NCM section, you will participate in the consolidation of normal conducting accelerator magnets installed in the CERN complex, in the assembly of new magnets and in reception tests of new units or components from industry. You will: Participate in the refurbishment, manufacture and testing of normal conducting magnets in CERN workshops including the compilation of related quality control documents. Carry out preventive and corrective maintenance interventions on normal conducting magnets installed in the CERN accelerator complex. Contribute to the design, development, and procurement of dedicated tools, equipment and components required for both refurbishment activities and the production of new normal conducting magnets.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000117323718-electromechanical-technician-for-normal-conducting-magnets-te-msc-ncm-2025-201-ld-?oga=true",
-    "status": "matched"
   },
   "/job/Basel/Machine-Learning-Scientist_202602-105076-1": {
     "description": "At Roche you can show up as yourself, embraced for the unique qualities you bring. Our culture encourages personal expression, open dialogue, and genuine connections,  where you are valued, accepted and respected for who you are, allowing you to thrive both personally and professionally. This is how we aim to prevent, stop and cure diseases and ensure everyone has access to healthcare today and for generations to come. Join Roche, where every voice matters. The Position Advances in AI, data, and computational sciences are transforming drug discovery and development. Roche’s Research and Early Development organisations at Genentech ( gRED ) and Pharma ( pRED ) have demonstrated how these technologies accelerate R&D, leveraging data and novel computational models to drive impact. Seamless data sharing and access to models across gRED and pRED are essential to maximising these opportunities. The new Computational Sciences Center of Excellence (CoE) is a strategic, unified group whose goal is to harness the transformative power of data and Artificial Intelligence (AI) to assist our scientists in both pRED and gRED to deliver more innovative and transformative medicines for patients worldwide. ​ The Structure-Function ML group in Basel within Prescient Design (AI4DD), CoE ,  a division devoted to developing machine learning-based methods for de novo antibody design, seeks exceptional researchers who have a demonstrated research background in machine learning and protein structural biology and design, a passion for independent research and technical problem-solving, and a proven ability to develop and implement ideas from research into production. The Opportunity We are looking for talented ML Scientists to join Prescient Design/AI4DD. The successful candidate will contribute to our antibody design efforts, partner with biologists, technologists and drug discoverers to develop new machine learning methods for de novo protein design with special application to protein therapeutics. You will: Develop cutting-edge machine learning methods for modeling biological data, focusing on structural biology. Deliver deep learning-based software solutions that accelerate drug discovery and therapeutic development in support of our de novo antibody design and lab-in-the-loop efforts. Collaborate with AI/ML scientists and form close working relationships with global research teams. Write structured, tested, and maintainable code while participating in proactive code reviews. Actively shape and contribute to our collaborative and innovative team culture. Partner with biologists and technologists to develop new methods for de novo protein design. Who you are You hold an M.S. or PhD in Computer Science, Statistics, Physics, or a related technical field and p ossess 1+ years of hands-on experience designing and training machine learning models on large datasets. You are proficient in Python and at least one deep learning framework like PyTorch, TensorFlow, or JAX. You have experience with using MLOps frameworks like Hydra and Weights & Biases. You have a public portfolio of computational projects (available on e.g. GitHub) You have demonstrated experience with modern techniques, including geometric deep learning or sequence models. You bring prior experience or familiarity working with antibody sequence and structure data, which is a plus. You are an excellent communicator, fluent in English, with a passion for driving projects in cross-functional environments. Ready to take the next step? We'd love to hear from you. Apply now to explore this exciting opportunity! Who we are A healthier future drives us to innovate. Together, more than 100’000 employees across the globe are dedicated to advance science, ensuring everyone has access to healthcare today and for generations to come. Our efforts result in more than 26 million people treated with our medicines and over 30 billion tests conducted using our Diagnostics products. We empower each other to explore new possibilities, foster creativity, and keep our ambitions high, so we can deliver life-changing healthcare solutions that make a global impact. Let’s build a healthier future, together. Roche is an Equal Opportunity Employer.",
@@ -700,11 +690,6 @@
     "external_url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Senior---Principal-Scientist-in-Pharmaceutical-Development-of-Synthetic-Molecules--Drug-Product-_202603-105578-1",
     "status": "matched"
   },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000117574963": {
-    "description": "Introduction: You will join the IT Department’s Fabric and Communication Systems (FCS) Group within the Data Centres (DC) Section, where you will contribute to the operation and support of CERN’s Data Centres and associated computing facilities. The section is responsible for managing the full lifecycle of computing equipment, as well as developing, maintaining, and integrating software applications with existing facility monitoring systems. During CERN’s Accelerator Long Shutdown 3 (LS3) and beyond, you will support major data centre expansion and upgrade projects aimed at almost tripling the current hosting capacity, which is required to support future LHC runs and their increasing computing demands. Your role will focus on automating computing hardware diagnostics and improving repair service efficiency by implementing and enhancing operational procedures. Functions: Develop and implement automation tools for hardware problem diagnostics to improve response times and operational efficiency. Work closely with other computing services to maintain and enhance the automated commissioning system for computing hardware. Provide and maintain clear procedures and guidelines to support the hardware repair team, ensuring efficient and consistent repair workflows. Support data centre expansion and upgrade projects, assisting with installation and testing of new equipment and decommissioning of obsolete hardware. Maintain accurate documentation of infrastructure assets, configurations, and procedures. Collaborate with IT teams, facilities staff, and external partners to deliver operational improvements and incident responses.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000117574963-data-centre-technical-engineer-it-fcs-dc-2026-69-ld-?oga=true",
-    "status": "matched"
-  },
   "/job/Basel/Post-Doctorate-Scientist-in-Intestinal-Inflammation---at-the-Institute-of-Human-Biology--IHB-_202603-107400": {
     "description": "At Roche you can show up as yourself, embraced for the unique qualities you bring. Our culture encourages personal expression, open dialogue, and genuine connections,  where you are valued, accepted and respected for who you are, allowing you to thrive both personally and professionally. This is how we aim to prevent, stop and cure diseases and ensure everyone has access to healthcare today and for generations to come. Join Roche, where every voice matters. The Position The Institute of Human Biology (IHB), embedded within Roche’s Pharma Research and Early Development (pRED) Division, is a leading research institute focused on accelerating the development of transformative medicines. It specializes in developing novel and robust human model systems that functionally resemble human physiology and disease. By bridging the gap between academic discovery and industrial application, IHB facilitates the rapid translation of groundbreaking science into patient-focused solutions. The Opportunity As a Post Doctorate Scientist in Intestinal Inflammation at the IHB, you will focus on deconstructing inflammatory bowel disease pathobiology using advanced human model systems. The duration of the position is initially set for two years, with the possibility of extension. You will be based in Basel, Switzerland. In this position you will: Drive a project to create high fidelity in vitro models of inflammatory bowel disease, by combining primary human samples, organoids, tissue-resident/infiltrating immune cells and microfabrication technology to recreate the cellular environment of the diseased intestine Collaborate with multidisciplinary teams to improve the ability of in vitro models to 1) recapitulate inflammatory disease, 2) understand the underlying molecular and cellular mechanisms, 3) identify strategies to mitigate these pathogenic pathways Generate top quality results for high-impact publications Who you are You are a scientist with a PhD in the field of immunology and a profound understanding of mucosal biology. Furthermore, you have great interpersonal and communication skills. Your experience and investigative attitude allow you to collaboratively design, perform, and interpret experiments, and build on experimental observations to drive the research project towards meaningful and impactful biological insight. Fundamental to this position is a proactive mindset and a willingness to learn, explore and master new techniques and technologies. You have been actively engaged in scientific research continuously since your PhD and are ready to start this postdoctoral position no later than 4 years after your PhD. Knowledge or experience in any of the following areas would be considered a significant asset: Deep understanding of the properties and phenotypes of mucosal immune cells Experience in handling, manipulating and phenotyping myeloid cells Handling of large data, including the generation, analysis and interpretation of scRNA-seq, and spatial omics Handling of human intestinal tissue samples, particularly inflammatory bowel disease samples 3D culture Ready to drive the future of mucosal biology? Apply now to join our team in Basel! The start date of this position is 1st September 2026. The application needs to include a CV with a publication list, as well as a cover letter detailing your motivation for applying. If you still have questions, then please check our FAQs and videos on https://careers.roche.com/global/en/ch-faq Who we are A healthier future drives us to innovate. Together, more than 100’000 employees across the globe are dedicated to advance science, ensuring everyone has access to healthcare today and for generations to come. Our efforts result in more than 26 million people treated with our medicines and over 30 billion tests conducted using our Diagnostics products. We empower each other to explore new possibilities, foster creativity, and keep our ambitions high, so we can deliver life-changing healthcare solutions that make a global impact. Let’s build a healthier future, together. Roche is an Equal Opportunity Employer.",
     "external_url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Post-Doctorate-Scientist-in-Intestinal-Inflammation---at-the-Institute-of-Human-Biology--IHB-_202603-107400",
@@ -712,7 +697,7 @@
     "title": "Post Doctorate Scientist in Intestinal Inflammation - at the Institute of Human Biology (IHB)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-03-31",
+    "posted_date": "2026-03-30",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -781,22 +766,6 @@
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000118052637-legal-adviser-so-ls-ol-2026-76-ld-?oga=true",
     "status": "matched"
   },
-  "/job/Basel/Senior-Associate-Scientist-in-Analytical-Research-and-Development-for-Oligonucleotides_202511-130428-1": {
-    "description": "At Roche you can show up as yourself, embraced for the unique qualities you bring. Our culture encourages personal expression, open dialogue, and genuine connections,  where you are valued, accepted and respected for who you are, allowing you to thrive both personally and professionally. This is how we aim to prevent, stop and cure diseases and ensure everyone has access to healthcare today and for generations to come. Join Roche, where every voice matters. The Position Behind each product in clinical trials or sold by Roche is the involvement of Pharma Global Technical Operations. Pharma Global Technical Operations makes medicines with more than 10’000 employees at sites around the world. “Pharma Technical Development” is a global organization with over two thousand people dedicated to the development of new medicines to meet patients' needs. We actively collaborate and develop creative technical solutions to expertly deliver the pipeline and supply high quality products to patients. The group excels in its work through innovation, teamwork, dedication, and mutual respect and contributes every single day to bring new therapies to life and hope to patients. “Synthetic Molecules Technical Development” (PTDC) brings a broad range of experience across drug substance, drug product, and analytical sciences, and collaborates closely with partners in research and early development, Pharma Technical Development, and commercial. PTDC is responsible for the technical development of our synthetic molecules pipeline and the manufacture of clinical supplies for clinical studies. The position on offer is located in analytical development for synthetic molecules within Pharma Technical Development. Analytical development for synthetic molecules is responsible for the development of resource and cost efficient analytical methods by use of state of the art and innovative techniques such as high-performance liquid chromatography, gas or ion chromatography or mass spectrometry. The ultimate goal of our work is the development of a robust control strategy to release products for clinical trials, and finally for commercial supply. The opportunity The (Senior) Associate in Analytical Development for Synthetic Molecules is responsible for: Performing routine measurements for Oligonucleotides (mainly HPLC with UV and/or Single Quad MS detection) Use chromatographic data systems like Empower or OpenLab to control analytical instruments. Evaluate data with Genedata or Oligo Analysis Accelerator Thorough and efficient planning, execution and documentation of experiments in collaboration with the relevant team members, analytical project lead and your supervisor, following current GxP guidelines as well as the relevant SOP’s. Developing, improving, and validating analytical methods for the quality assessment of Oligonucleotides. Evaluation of new technologies/methods and support of innovation projects. Authoring of documents, e.g. analytical procedures, and validation reports. Who you are For this interesting challenge, you bring the following qualification: You have completed vocational scientific qualification (e.g. apprenticeship, Laborant EFZ or equivalent) with at least 1-3 years’ experience in the pharmaceutical industry with a strong focus on analytical methods development (i.e. chromatography). Further qualification (e.g. HFP, BSc) is a plus. This position is primarily focusing on lab work. Applications of MSc or PhD will not be considered. Hands-on experience in analytical instrumentation and techniques (e.g. HPLC, GC, KF) Experience with LC/MS measurements for oligonucleotides or peptides would be a plus. However, we encourage candidates who want to develop and learn these exciting techniques. A strong interest / background in analytical methods development A good scientific writing style and good documentation practice Excellent digital skills and innovative mindset Preparedness to learn, continuously improve and apply novel ideas, tools and processes to quickly adapt to a fast changing environment. Excellent command of English. Good command of German would be a plus. Routinely apply GxP requirements where necessary, and understand how to exert them in different clinical phases. Apply now -  we look forward to hearing from you! Who we are A healthier future drives us to innovate. Together, more than 100’000 employees across the globe are dedicated to advance science, ensuring everyone has access to healthcare today and for generations to come. Our efforts result in more than 26 million people treated with our medicines and over 30 billion tests conducted using our Diagnostics products. We empower each other to explore new possibilities, foster creativity, and keep our ambitions high, so we can deliver life-changing healthcare solutions that make a global impact. Let’s build a healthier future, together. Roche is an Equal Opportunity Employer.",
-    "external_url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Senior-Associate-Scientist-in-Analytical-Research-and-Development-for-Oligonucleotides_202511-130428-1",
-    "status": "ignored",
-    "title": "Associate Scientist in Analytical Development for Synthetic Molecules",
-    "company": "Roche",
-    "location": "Basel",
-    "posted_date": "2026-04-02",
-    "department": "",
-    "score": 2,
-    "matched_keywords": [
-      "MSc",
-      "PhD"
-    ],
-    "deducted_keywords": []
-  },
   "/job/Lengnau-Switzerland/Scientist---QC-Lab-Systems---CSV--GMP-_R-01347540": {
     "description": "Work Schedule Standard (Mon-Fri) Environmental Conditions Adherence to all Good Manufacturing Practices (GMP) Safety Standards, Laboratory Setting, Office, Some degree of PPE (Personal Protective Equipment) required (safety glasses, gowning, gloves, lab coat, ear plugs etc.) Job Description Join Thermo Fisher Scientific at our Lengnau site as a Scientist – QC Lab Systems & CSV (GMP) in the Quality Control department. In this role, you will contribute to ensuring GMP compliance, data integrity, and operational excellence of electronic laboratory systems and analytical equipment. You will support the lifecycle management, validation, and continuous improvement of QC applications, directly contributing to reliable product quality and regulatory compliance. Key Responsibilities Ensure lifecycle management of QC applications (e.g., SM LIMS, Empower, LabX, Tiamo), including administration and first- and second-level support Support qualification of analytical equipment, including Computerized System Validation (CSV) of electronic laboratory systems Coordinate activities between QC, QA, IT, and external vendors for system implementation, maintenance, and enhancements Create, review, and maintain GxP lifecycle documentation to ensure compliance with regulatory requirements Ensure compliant storage, handling, and integrity of laboratory raw data Support QC laboratories in deviation, change controls, and troubleshooting activities Participate in gap assessments and support actions to ensure inspection and audit readiness; actively contribute during audits Contribute to automation and digitalization initiatives, including implementation of automated data flows Collaborate with local and global teams to support continuous improvement (PPI) and system optimization Ensure adherence to cGMP, quality, and EHSS requirements Qualifications Bachelor’s or Master’s degree in Life Sciences (e.g., Chemistry, Biochemistry, Microbiology, Physics) or an IT/Automation background with experience in a GMP-regulated environment or similar education with experience in maintaining QC laboratory applications. Experience Minimum 3+ years of experience in a GMP-regulated laboratory or pharmaceutical environment. Hands-on experience with Computerized System Validation (CSV) and electronic laboratory systems is required. Experience with systems such as LIMS, Empower, Tiamo, LabXChromeleon, or similar platforms is advantageous. Basic knowledge of IT systems, databases is beneficial. Skills & Competencies Strong understanding of GMP, data integrity, and regulatory requirements for computerized systems Structured, detail-oriented, and risk-based approach to work Ability to work independently while collaborating across cross-functional teams Strong communication, organization, and prioritization skills Customer-focused mindset with a proactive approach to problem solving Interest in digitalization, automation, and continuous improvement (PPI) Fluency in technical English; German language skills are an advantage Thermo Fisher Scientific is an equal opportunity employer and values diversity and inclusion in the workplace.",
     "external_url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Lengnau-Switzerland/Scientist---QC-Lab-Systems---CSV--GMP-_R-01347540",
@@ -804,7 +773,7 @@
     "title": "Scientist – QC Lab Systems & CSV (GMP)",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-04-02",
+    "posted_date": "2026-04-01",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -819,7 +788,7 @@
     "title": "Senior Scientist – Manufacturing Science & Technology (Biologics USP/DSP)",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-04-02",
+    "posted_date": "2026-04-01",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -897,7 +866,7 @@
     "title": "Manager Quality System & Regulatory Compliance",
     "company": "Abbott",
     "location": "Switzerland - Zurich",
-    "posted_date": "2026-04-03",
+    "posted_date": "2026-04-02",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1011,7 +980,7 @@
     "title": "Project Manager – Spatial Biology Product Development (8-9 months contract)",
     "company": "Bio-Techne / Lunaphore",
     "location": "Tolochenaz, Switzerland",
-    "posted_date": "2026-04-08",
+    "posted_date": "2026-04-07",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1040,7 +1009,7 @@
     "title": "Computational Biology - Oncology",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-09",
+    "posted_date": "2026-04-08",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -1081,7 +1050,7 @@
     "title": "Praktikum in Innovation & Nachhaltigkeit - Für Studierende in den Bereichen Informatik, Wirtschaftsinformatik, Data Science, Statistik, Mathematik oder Business Analytics",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-23",
+    "posted_date": "2026-04-22",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1126,7 +1095,7 @@
     "title": "Global Medical Affairs Lead Genomic Profiling",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-14",
+    "posted_date": "2026-04-13",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -1164,7 +1133,7 @@
     "title": "Sr. Scientist - Computational Biology - Neuroscience & Rare Diseases",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-16",
+    "posted_date": "2026-04-15",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -1187,7 +1156,7 @@
     "title": "Franchise Lead COPD (Inhaled + Biologic portfolio)",
     "company": "AstraZeneca",
     "location": "Switzerland - Baar",
-    "posted_date": "2026-04-15",
+    "posted_date": "2026-04-14",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1233,7 +1202,7 @@
     "title": "Post Doctorate Scientist – Vascularized Kidney Organoids - at the Institute of Human Biology (IHB)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-15",
+    "posted_date": "2026-04-14",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -1245,22 +1214,6 @@
     ],
     "deducted_keywords": []
   },
-  "/job/Basel/Internship-for-Students-of-Biology--Biochemistry-in-the-Control-Strategy-Scientist-Group_202604-109555-1": {
-    "description": "At Roche you can show up as yourself, embraced for the unique qualities you bring. Our culture encourages personal expression, open dialogue, and genuine connections,  where you are valued, accepted and respected for who you are, allowing you to thrive both personally and professionally. This is how we aim to prevent, stop and cure diseases and ensure everyone has access to healthcare today and for generations to come. Join Roche, where every voice matters. The Position The Control Strategy Scientist (CSS) group provides analytical technical leadership and ownership of commercial End-to-End biologic analytical control systems. By providing enhanced product-specific analytical and stability expertise for launch products and post-marketing product regulatory submissions, the CSS group assures network-wide harmonization by proactive lifecycle management, drives analytical innovation including new technologies and provides QC-related solutions to further continuous improvement, standardization, automation, productivity and agility. The Opportunity Specifically, this internship focuses on: Collaborating with a global team of analytical scientists on product quality data of biologics across the commercial lifecycle. Quality Control insights into the Roche commercial portfolio of biologics Not involving laboratory work, although a strong protein science background from laboratory experience is considered a plus. Developing insights by working with data and exploring details in-depth. Contributing to innovative solutions in protein science and commercial lifecycle analysis. Who You Are You are currently enrolled pursuing a Bachelor’s or Master's degree in biology, biochemistry, pharmacy or related fields or have completed your studies (Bachelor or Master) within the last 12 months Strong Ethics & Relationship Building – High ethical standards and ability to foster sustainable relationships with stakeholders. Effective Communication & Collaboration – Excellent interpersonal, presentation, and English language skills in an international setting. Adaptability & Organizational Awareness – Ability to work in a matrix environment with shared responsibilities; knowledge of drug development and project management is a plus. Programming - Knowledge in programming languages such as Python or R as well as with agentic AI is considered as a plus. Additional Information Planned start date: 01.07.2026 Duration: 6 months Internship is only possible on a full-time basis A Master’s or Bachelor’s thesis cannot be completed as part of this internship Application Process Your application should include the following documents: An up-to-date CV and a motivation letter A certificate of enrollment (if you are currently studying) For non-EU/EFTA citizens: Due to legal requirements, you must provide a certificate issued by your university confirming that the internship is a mandatory part of your studies If you are passionate about data-driven insights, enjoy tackling complex scientific challenges, and want to contribute to the future of analytical solutions in a dynamic, global team, we would love to hear from you! Apply now to join us in transforming commercial biologic analytics. Who we are A healthier future drives us to innovate. Together, more than 100’000 employees across the globe are dedicated to advance science, ensuring everyone has access to healthcare today and for generations to come. Our efforts result in more than 26 million people treated with our medicines and over 30 billion tests conducted using our Diagnostics products. We empower each other to explore new possibilities, foster creativity, and keep our ambitions high, so we can deliver life-changing healthcare solutions that make a global impact. Let’s build a healthier future, together. Roche is an Equal Opportunity Employer.",
-    "external_url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Internship-for-Students-of-Biology--Biochemistry-in-the-Control-Strategy-Scientist-Group_202604-109555-1",
-    "status": "ignored",
-    "title": "Internship for Students of Biology, Biochemistry in the Control Strategy Scientist Group",
-    "company": "Roche",
-    "location": "Basel",
-    "posted_date": "2026-04-15",
-    "department": "",
-    "score": 2,
-    "matched_keywords": [
-      "Master's degree",
-      "drug development"
-    ],
-    "deducted_keywords": []
-  },
   "/job/Basel/Internship-in-Computational-Biology--CVRM-Genetics_202604-108959": {
     "description": "At Roche you can show up as yourself, embraced for the unique qualities you bring. Our culture encourages personal expression, open dialogue, and genuine connections,  where you are valued, accepted and respected for who you are, allowing you to thrive both personally and professionally. This is how we aim to prevent, stop and cure diseases and ensure everyone has access to healthcare today and for generations to come. Join Roche, where every voice matters. The Position The Computational Sciences Centre of Excellence (CS CoE) is a global organisation enabling Roche’s Research and Early Development units to develop novel therapeutics that will have an impact on patient lives. Within the CS CoE, the Computational Biology and Medicine (CBM) department focuses on furthering our understanding of disease pathogenesis, patient populations, and target biology by having access to the largest Pharma R&D datasets in the world. In partnership with our scientists across pRED and gRED, we create better medicines by augmenting every part of R&D through our data-driven culture. The Opportunity Within Roche Pharma Research & Early Development (pRED), the IMM & CVRM (Immunology, Cardiovascular, Renal and Metabolism) Computational Biology & Medicine group is seeking a highly-motivated Master student, dedicated to the development and application of data science tools and systems biology approaches to deepen disease insights and drive target discovery. This internship offers the most talented students the opportunity to gain valuable work experience with us. You will work with large-scale genomic data and produce Polygenic Risk Scores (PGS) to investigate the complex genetic architecture of chronic kidney disease (CKD) and metabolic dysfunction (i.e type 2 diabetes, obesity endotypes). As a member of a highly collaborative, multidisciplinary team, you will use your skills to generate significant contributions with practical impact for patients, and you will gain valuable expertise to advance your scientific career. You will be responsible for: building automated PGS workflows to map the complex genetic architecture of Cardio-Renal-Metabolic diseases. Defining mechanistic endotypes through patient clustering and identifying \"resilient\" outliers—individuals who remain healthy despite high genetic risk—to uncover protective modifiers. The role involves: Mining large-scale genomic, proteomics and electronic health record datasets to drive target discovery. Translating complex genetic architecture into actionable biological insights for drug development. You will gain experience in: high-throughput genomic analysis and advanced patient stratification at a population scale. Precision medicine methodologies and Pharmaceutical R&D workflows, learning how data science directly influences the selection of new therapeutic targets. You will develop skills in collaboration and strategy while working in a team culture that values a collaborative workplace, scientific rigor, open feedback, and scientific growth. Who You Are You are currently enrolled in or a recent graduate (less than a year) with a Master’s degree in Systems Biology, Life Sciences, Biotechnology, Bioengineering or related discipline. Furthermore, you… Bring strong coding experience in R and proficiency in git/version control, ideally complemented by Python or experience developing R packages. Possess hands-on experience with genetic data analysis tools such as Plink, BCFtools, or REGENIE, and a foundational understanding of GWAS or Polygenic Risk Scores (PGS). Demonstrate expertise in quantitative statistics and data modeling, including regression, linear models, and hypothesis testing. Are familiar with (or eager to work with) large biobanks (UK Biobank), proteomics data, and computationally intensive environments like HPC clusters, Docker, or Snakemake. Have a strong interest in human genetics and metabolic diseases, including the curiosity to apply AI tools (e.g., Gemini, ChatGPT) to novel biological methodologies. Are a creative problem-solver and quick learner who remains productive when dealing with ambiguity and experimenting with new approaches. Act as a strong collaborator with the organizational skills and initiative needed to drive projects toward team goals. Communicate effectively and clearly in English, both in writing and in spoken discussion. Application Process The preferred start for the internship is June 2026. Please upload both your CV and a motivation letter (merged in one document) along with your latest certificate of enrolment (if you are currently studying). Please clearly indicate your preferred starting date and duration of the internship on your motivation letter. Non-EU/EFTA citizens must attach a confirmation from the university to the application documents, stating that a mandatory internship is part of the education. Ready to take the next step? We'd love to hear from you. Apply now to explore this exciting opportunity! Who we are A healthier future drives us to innovate. Together, more than 100’000 employees across the globe are dedicated to advance science, ensuring everyone has access to healthcare today and for generations to come. Our efforts result in more than 26 million people treated with our medicines and over 30 billion tests conducted using our Diagnostics products. We empower each other to explore new possibilities, foster creativity, and keep our ambitions high, so we can deliver life-changing healthcare solutions that make a global impact. Let’s build a healthier future, together. Roche is an Equal Opportunity Employer.",
     "external_url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Internship-in-Computational-Biology--CVRM-Genetics_202604-108959",
@@ -1268,7 +1221,7 @@
     "title": "Internship in Computational Biology: CVRM Genetics",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-15",
+    "posted_date": "2026-04-14",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -1387,7 +1340,7 @@
     "title": "Senior Scientist microbiological Quality Control",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-04-21",
+    "posted_date": "2026-04-20",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -1407,7 +1360,7 @@
     "title": "​Sr Manager / Associate Director Regulatory Affairs - Swiss Affiliate",
     "company": "Gilead Sciences",
     "location": "Switzerland - Zug",
-    "posted_date": "2026-04-21",
+    "posted_date": "2026-04-20",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1423,7 +1376,7 @@
     "title": "Senior Scientist, Material Qualification and Release (QC GMP)",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-04-21",
+    "posted_date": "2026-04-20",
     "department": "",
     "score": -1,
     "matched_keywords": [
@@ -1455,7 +1408,7 @@
     "title": "2x Scientist - Technical Operations",
     "company": "CSL Behring / Vifor",
     "location": "EMEA, CH, Kanton Bern, Bern, CSL Behring",
-    "posted_date": "2026-04-22",
+    "posted_date": "2026-04-21",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1470,7 +1423,7 @@
     "title": "2x Scientist - Technical Operations",
     "company": "CSL Behring / Vifor",
     "location": "EMEA, CH, Kanton Bern, Bern, CSL Behring",
-    "posted_date": "2026-04-22",
+    "posted_date": "2026-04-21",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1520,7 +1473,7 @@
     "title": "Analytical Molecular Characterization Team Lead and Mass Spectrometry Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-23",
+    "posted_date": "2026-04-22",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1563,29 +1516,13 @@
     "title": "Internship in Global Medical Affairs (12 months)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-24",
+    "posted_date": "2026-04-23",
     "department": "",
     "score": 3,
     "matched_keywords": [
       "MSc",
       "drug development",
       "medical affairs"
-    ],
-    "deducted_keywords": []
-  },
-  "/job/EMEA-CH-Kanton-Bern-Bern-CSL-Behring/Scientist--Tech-Ops_R-275521": {
-    "description": "The Scientist, Process Development supports the execution of process development activities within Horizon 2 programs, contributing to the development and improvement of manufacturing processes for innovative therapies. The role performs laboratory‑based experimental work under the guidance of senior scientists, generating high‑quality data that supports process understanding, development decisions, and regulatory readiness. The Scientist applies established scientific principles, experimental techniques, and standard laboratory methods to execute defined studies, analyze results, and document outcomes in accordance with internal quality standards and regulatory expectations. The role contributes to Life‑Cycle Management (LCM) and Sustain & Improve activities through assigned tasks and supports the application of Quality by Design ( QbD ) principles by generating reliable data that informs process characterization and control strategies. Operating within a matrix project environment, the Scientist collaborates closely with colleagues across Process Development, Analytical, and other partner functions, while continuing to build technical expertise, scientific judgment, and independence in experimental execution. Main Responsibilities & Accountabilities Execute laboratory and process development experiments according to defined protocols, study plans, and timelines, under the guidance of senior scientists or technical leads. Apply established scientific methods and standard analytical and process‑development techniques to generate accurate, reliable, and reproducible data. Support Quality by Design ( QbD ) activities by contributing experimental data that informs understanding of process parameters, variability, and critical quality attributes (CQAs). Analyze experimental results, document observations, and contribute to the interpretation of data and preparation of technical summaries and development reports. Prepare and maintain high‑quality laboratory documentation (e.g., lab notebooks, protocols, reports) in compliance with internal quality systems, data integrity requirements, and regulatory expectations. Contribute to assigned Life‑Cycle Management (LCM) and Sustain & Improve activities through execution of defined experimental tasks. Collaborate effectively within project teams and laboratory groups, communicating results, issues, and learnings in a clear and timely manner. Adhere to all applicable safety, quality, compliance, and regulatory requirements while performing laboratory and development activities. Qualifications & Experience Requirements BS or MS in Biochemistry, Life Sciences, or a closely related discipline is required; PhD or equivalent experience preferred. 2+ years of industry and managerial experience in pharmaceutical or biological operations, including protein/biological process development. Ability to work cross‑functionally. About CSL Behring CSL Behring is a global biotherapeutics leader driven by our promise to save lives. Focused on serving patients’ needs by using the latest technologies, we discover, develop and deliver innovative therapies for people living with conditions in the immunology, hematology, cardiovascular and metabolic, respiratory, and transplant therapeutic areas. We use three strategic scientific platforms of plasma fractionation, recombinant protein technology, and cell and gene therapy to support continued innovation and continually refine ways in which products can address unmet medical needs and help patients lead full lives. CSL Behring operates one of the world’s largest plasma collection networks, CSL Plasma. Our parent company, CSL, headquartered in Melbourne, Australia, employs 32,000 people, and delivers its lifesaving therapies to people in more than 100 countries. To learn more about CSL, CSL Behring, CSL Seqirus and CSL Vifor  visit https://www.csl.com/ and CSL Plasma at https://www.cslplasma.com/ . Our Benefits For more information on CSL benefits visit How CSL Supports Your Well-being | CSL . You Belong at CSL At CSL, Inclusion and Belonging is at the core of our mission and who we are. It fuels our innovation day in and day out. By celebrating our differences and creating a culture of curiosity and empathy, we are able to better understand and connect with our patients and donors, foster strong relationships with our stakeholders, and sustain a diverse workforce that will move our company and industry into the future. To learn more about inclusion and belonging visit https://www.csl.com/careers/inclusion-and-belonging Equal Opportunity Employer CSL is an Equal Opportunity Employer. If you are an individual with a disability and need a reasonable accommodation for any part of the application process, please visit https://www.csl.com/accessibility-statement .",
-    "external_url": "https://csl.wd1.myworkdayjobs.com/CSL_External/job/EMEA-CH-Kanton-Bern-Bern-CSL-Behring/Scientist--Tech-Ops_R-275521",
-    "status": "ignored",
-    "title": "Scientist, Process Development, Tech Ops",
-    "company": "CSL Behring / Vifor",
-    "location": "EMEA, CH, Kanton Bern, Bern, CSL Behring",
-    "posted_date": "2026-04-28",
-    "department": "",
-    "score": 2,
-    "matched_keywords": [
-      "PhD",
-      "immunology"
     ],
     "deducted_keywords": []
   },
@@ -1596,7 +1533,7 @@
     "title": "Scientist, Tech Ops",
     "company": "CSL Behring / Vifor",
     "location": "EMEA, CH, Kanton Bern, Bern, CSL Behring",
-    "posted_date": "2026-04-24",
+    "posted_date": "2026-04-23",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1611,7 +1548,7 @@
     "title": "Scientist, Tech Ops",
     "company": "CSL Behring / Vifor",
     "location": "EMEA, CH, Kanton Bern, Bern, CSL Behring",
-    "posted_date": "2026-04-24",
+    "posted_date": "2026-04-23",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1626,7 +1563,7 @@
     "title": "Scientist, Tech Ops",
     "company": "CSL Behring / Vifor",
     "location": "EMEA, CH, Kanton Bern, Bern, CSL Behring",
-    "posted_date": "2026-04-24",
+    "posted_date": "2026-04-23",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1641,7 +1578,7 @@
     "title": "Scientist, Tech Ops",
     "company": "CSL Behring / Vifor",
     "location": "EMEA, CH, Kanton Bern, Bern, CSL Behring",
-    "posted_date": "2026-04-24",
+    "posted_date": "2026-04-23",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1666,7 +1603,7 @@
     "title": "Internship for Students of Computational Biology, Computational Chemistry,  Applied Mathematics (6 months)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-25",
+    "posted_date": "2026-04-24",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1777,7 +1714,7 @@
     "title": "Post Doctorate Scientist (IHB) - In Vitro Modeling Adaptive Immunologist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-25",
+    "posted_date": "2026-04-24",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -1800,7 +1737,7 @@
     "title": "Post Doctoral Scientist (IHB) - Computational Immunology",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-25",
+    "posted_date": "2026-04-24",
     "department": "",
     "score": 12,
     "matched_keywords": [
@@ -1836,7 +1773,7 @@
     "title": "International Medical Affairs Director Neuromuscular",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-04-28",
+    "posted_date": "",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -2006,7 +1943,7 @@
     "title": "Senior Scientist (Pathogen Safety Support)",
     "company": "CSL Behring / Vifor",
     "location": "EMEA, CH, Kanton Bern, Bern, CSL Behring",
-    "posted_date": "2026-04-28",
+    "posted_date": "",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -2023,7 +1960,7 @@
     "title": "Senior Scientist (Pathogen Safety Support)",
     "company": "CSL Behring / Vifor",
     "location": "EMEA, CH, Kanton Bern, Bern, CSL Behring",
-    "posted_date": "2026-04-28",
+    "posted_date": "",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -2064,7 +2001,7 @@
     "title": "Medical Science Liaison CVRM",
     "company": "AstraZeneca",
     "location": "Switzerland - Baar",
-    "posted_date": "2026-04-28",
+    "posted_date": "",
     "department": "",
     "score": -1,
     "matched_keywords": [
@@ -2076,5 +2013,30 @@
       "CRA",
       "location:Switzerland - Baar"
     ]
+  },
+  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000123357049": {
+    "description": "The Engineering Department (EN) at CERN pushes forward the limits of technology to provide innovative research tools to the physics and engineering worldwide community. The position is opened in the Mechanical and Materials Engineering (MME) Group, which owns, maintains and develops the 40-year-old know-how on the mechanical design, manufacturing and assembly of accelerator and detector devices. The EN Department is seeking an engineer with experience in Non-Destructive Testing ( NDT ) to join the Materials, Metrology and NDT Section in the MME Group. In this role, you will develop and apply state of the art advanced NDT techniques to inspect critical materials and assemblies for CERN's accelerators and detectors. Your work will directly support the reliability and safety of CERN's cutting-edge physics projects. Your responsibilities: Collaborate with an experienced NDT team and participate in inspection activities involving ultrasonic testing, digital radiography and computed tomography. Optimise Phased Array Ultrasonic Testing (PAUT) techniques for medium/thin austenitic welds to improve inspection reliability and expand current application domains. Develop the use of PAUT probes in an immersion setup to enhance inspection flexibility and capabilities. Support the implementation and development of an innovative mobile system for radiography and tomography based on collaborative robots. This first in the field system will enable in-situ inspections of accelerator components in the LHC tunnel and of medium-sized components in a bunker. Communicate inspection results to project engineers and document testing protocols and findings. Your profile: Experience in ultrasonic or digital radiographic techniques for NDT, with familiarity in both areas preferred. ISO 9712 certifications would be an advantage. Holding a valid certificate by Swiss or French authorities for handling X-ray electric generators for industrial radiography (CAMARI X by IRSN-ASNR/France, training SPG-SPZ-f by SUVA/Switzerland), would be an advantage. Skills: Configure parameters for manual, encoded, and automated PAUT systems, and use software for inspection simulation and result visualisation (e.g., UTstudio+, WeldSight, OmniPC, NDT SetupBuilder). Set up acquisitions and use 2D/3D visualization software for digital radiography and computed tomography (e.g., Industrex, D-TecX, Sherlock NDT, MetrotomOS, VGStudio). Familiarity with material science, welding processes, and international NDT standards. Strong technical writing skills for procedures and reports. Spoken and written English or French, with a commitment to learn the basics of the other language. Eligibility criteria: You are a national of a CERN Member or Associate Member State . You have a professional background in Materials Science/Welding Engineer/NDT (or a related field) and have either: a Master's degree with 2 to 6 years of post-graduation professional experience; or a PhD with no more than 3 years of post-graduation professional experience. You have never had a CERN fellow or graduate contract before.",
+    "external_url": "https://jobs.smartrecruiters.com/CERN/744000123357049-materials-engineer-ndt-specialist-en-mme-mm-2026-50-grap-?oga=true",
+    "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000123356159": {
+    "description": "Are you a rigorous and dynamic graduate, who thrives in fast-paced international environments? Ready to turn your passion for International Relations into action at the world's leading particle-physics laboratory? Are you eager to contribute to Protocol activities and to navigate diplomacy, logistics, and high-level stakeholders all at once? Come and join the Protocol Office in the Stakeholder Relations sector at CERN! The CERN Protocol Office (SR-SE-PRT) is a small team of three professionals responsible for ensuring compliance with protocol and etiquette standards at official events organised at CERN, hosted by the Director-General or members of the CERN Management. These engagements include technical visits, institutional meetings and exchanges with CERN scientists. The Protocol Office plays a key role in the preparation and coordination of these visits, working closely with high-level governmental and international scientific leaders. In 2025, the Protocol Office organised 132 official visits, including those of 4 Heads of State and 35 Ministers. The upcoming Long Shutdown 3 (LS3) of the CERN accelerators will begin in mid-2026 to enable the major upgrade of the Large Hadron Collider (LHC), paving the way for the High-Luminosity LHC to come into operation in 2030. Based on experience from previous Long Shutdown periods, LS3 is expected to significantly increase the level of institutional interest in CERN. As a result, the number of Protocol visits is anticipated to rise by almost 50%, along with an increase in the seniority and ranking of visiting delegations. With the European Strategy for Particle Physics expected to be approved shortly, the FCC project, CERN's flagship initiative, will play a central role in the Laboratory's institutional relations with its Host States, Switzerland and France. The successful candidate will therefore also be closely involved in the organisation and management of FCC-related protocol visits at the local level. As a Junior Protocol Officer , you will gain hands-on experience in a highly visible, international and multicultural environment at the interface between science, diplomacy and international relations. Your responsibilities: Under the supervision of the Chief of Protocol and in close collaboration with the members of the team, the successful candidate will: Contribute to the organisation and coordination of protocol visits linked to the FCC project, both on Swiss territory (Canton of Geneva) and in France (department of Haute-Savoie). Participate in the preparation and delivery of high-level international visits organised by the Protocol Office for the CERN Directorate. Prepare detailed visit programmes and ensure the complete logistical coordination of official visits. Liaise with and coordinate the participation of the relevant CERN services and stakeholders. Monitor the operational follow-up of visit programmes and ensure their smooth execution. Accompany delegations when required by protocol rank and, in this context, supervise technical aspects, ensure compliance with schedules and manage unforeseen or evolving situations. Contribute to the administrative, logistical and project-related activities of the Protocol Service. The selected candidate will receive on-the-job training within the team in CERN's protocol practices and procedures. Your profile: Previous experience in protocol-related activities, institutional relations or high-level event organisation would be an advantage. A strong connection to the local region and good knowledge of institutional stakeholders in the Canton of Geneva and Haute-Savoie would be an asset. Skills: Strong organisational and coordination skills. Ability to work methodically while remaining flexible and responsive in a dynamic environment. Ability to handle sensitive situations with discretion, tact and professionalism. Excellent communication and interpersonal skills, with the ability to interact effectively at all levels in a multicultural and multidisciplinary setting. Sound judgement, reactivity and capacity to work under time constraints. Spoken and written both English and French. Eligibility criteria: By the application deadline, you have a maximum of two years of professional experience since graduation in International Relations or related (or a related field) and your highest educational qualification is either a Bachelor's or Master's degree . You have never had a CERN fellow or graduate contract before. Applicants without University degree are not eligible. Applicants with a PhD are not eligible.",
+    "external_url": "https://jobs.smartrecruiters.com/CERN/744000123356159-junior-protocol-officer-sr-se-prt-2026-130-grae-?oga=true",
+    "status": "matched"
+  },
+  "/job/EMEA-CH-Kanton-Bern-Bern-CSL-Behring/Scientist--Tech-Ops_R-275241": {
+    "description": "SCIENTIST - TECHNICAL OPERATIONS This role supports the discovery, development, and progression of new medicines for unmet medical needs from early research to clinical development and commercialization. Responsibilities include executing experiments, conducting scientific analyses, maintaining accurate research documentation and ensuring that products meet clinical safety standards. The position contributes to the design and execution of experimental and manufacturing processes, supports technology transfer activities, and performs testing across development stages to ensure effective process control. Collaboration with internal teams, external partners, and regulatory stakeholders is essential to ensure compliance, support program reporting, and advance project objectives. The role also assists in directing technical activities, supporting project and portfolio evaluations, and contributing to integrated strategies that enable efficient progression and decision‑making throughout the development lifecycle. Main Responsibilities & Accountabilities Provide scientific and technical expertise to advance technology platform capabilities and support the achievement of project objectives. Support research and development activities at both global and local levels to ensure alignment, steady progress, and successful project delivery. Facilitate collaboration with other CSL sites and external partners to promote knowledge exchange and strengthen operational effectiveness. Apply advanced practical knowledge in relevant scientific fields to support experimental design, execution of technical work, and interpretation of data. Work independently under general supervision to meet operational targets and contribute directly to team and departmental outcomes. Address challenging technical or operational issues that may require an understanding of broader project or organizational factors. Support colleagues within the job area by clearly communicating scientific findings, established policies, and best practices. Job Specifications / Requirements Bachelor’s or postgraduate degree and/or substantial experience in a relevant scientific discipline. At least 3 years of laboratory experience with training in a relevant technical field, such as molecular and cellular biology, analytical biochemistry, or related areas. We look forward to receiving your your CV, cover letter, diplomas, and relevant work certificates. Please combine all documents into a single PDF file before submitting. About CSL Behring CSL Behring is a global biotherapeutics leader driven by our promise to save lives. Focused on serving patients’ needs by using the latest technologies, we discover, develop and deliver innovative therapies for people living with conditions in the immunology, hematology, cardiovascular and metabolic, respiratory, and transplant therapeutic areas. We use three strategic scientific platforms of plasma fractionation, recombinant protein technology, and cell and gene therapy to support continued innovation and continually refine ways in which products can address unmet medical needs and help patients lead full lives. CSL Behring operates one of the world’s largest plasma collection networks, CSL Plasma. Our parent company, CSL, headquartered in Melbourne, Australia, employs 32,000 people, and delivers its lifesaving therapies to people in more than 100 countries. To learn more about CSL, CSL Behring, CSL Seqirus and CSL Vifor  visit https://www.csl.com/ and CSL Plasma at https://www.cslplasma.com/ . Our Benefits For more information on CSL benefits visit How CSL Supports Your Well-being | CSL . You Belong at CSL At CSL, Inclusion and Belonging is at the core of our mission and who we are. It fuels our innovation day in and day out. By celebrating our differences and creating a culture of curiosity and empathy, we are able to better understand and connect with our patients and donors, foster strong relationships with our stakeholders, and sustain a diverse workforce that will move our company and industry into the future. To learn more about inclusion and belonging visit https://www.csl.com/careers/inclusion-and-belonging Equal Opportunity Employer CSL is an Equal Opportunity Employer. If you are an individual with a disability and need a reasonable accommodation for any part of the application process, please visit https://www.csl.com/accessibility-statement .",
+    "external_url": "https://csl.wd1.myworkdayjobs.com/CSL_External/job/EMEA-CH-Kanton-Bern-Bern-CSL-Behring/Scientist--Tech-Ops_R-275241",
+    "status": "matched",
+    "title": "Scientist (f/m/x) - Technical Operations",
+    "company": "CSL Behring / Vifor",
+    "location": "EMEA, CH, Kanton Bern, Bern, CSL Behring",
+    "posted_date": "2026-04-28",
+    "department": "",
+    "score": 1,
+    "matched_keywords": [
+      "immunology"
+    ],
+    "deducted_keywords": []
   }
 }
