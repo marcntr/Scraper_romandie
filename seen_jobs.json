@@ -1994,7 +1994,7 @@
   },
   "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-clinical-medical-scientist-basel-stadt-871198/1": {
     "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-clinical-medical-scientist-basel-stadt-871198/1",
-    "status": "matched",
+    "status": "ignored",
     "title": "Clinical/Medical Scientist(m/f/d)",
     "company": "Hays Switzerland",
     "location": "Basel Stadt, Switzerland",
@@ -2006,7 +2006,7 @@
   },
   "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-clinical-scientist-basel-stadt-865510/1": {
     "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-clinical-scientist-basel-stadt-865510/1",
-    "status": "matched",
+    "status": "ignored",
     "title": "Clinical Scientist(m/f/d)",
     "company": "Hays Switzerland",
     "location": "Basel Stadt, Switzerland",
@@ -2018,7 +2018,7 @@
   },
   "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-qc-scientist-microbiology-lengnau-berne-864632/1": {
     "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-qc-scientist-microbiology-lengnau-berne-864632/1",
-    "status": "matched",
+    "status": "ignored",
     "title": "QC Scientist Microbiology(m/f/d)",
     "company": "Hays Switzerland",
     "location": "Lengnau, Berne, Switzerland",
