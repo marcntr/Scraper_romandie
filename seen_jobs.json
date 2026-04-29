@@ -425,7 +425,7 @@
     "title": "Vice President, Regulatory Affairs, Europe and International",
     "company": "BeiGene",
     "location": "Basel",
-    "posted_date": "2026-04-01",
+    "posted_date": "2026-03-31",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -516,11 +516,6 @@
   "https://api.smartrecruiters.com/v1/companies/Sobi/postings/744000115640399": {
     "description": "The European Supply Chain Associate Director leads the supply chain topics, ensuring accurate demand planning, replenishment, and inventory management across European portfolio. They will also oversee business processes with the affiliates. The manager continuously improves the supply chain using digital and data-driven industry 4.0 standards, adding long-term value to the organization. Additionally, they require strong people development skills and a proactive learning approach. Key Responsibilities Execute cluster/affiliate Demand Planning meetings to align stakeholders on demand management, supply, and inventory levels; develop S&OP process, promote its tools cross-functionally, ensure consensus forecasts; manage supply escalations Maintain knowledge of supply chain components: demand management, replenishment, inventory, promotional planning, logistics, seasonal planning Report regionally driven KPIs; create additional metrics to support affiliate performance. Sharing with European leadership status and sharing innovative solutions to avoid business disruptions Participate in product launches: forecast accuracy for launches, track sales vs. forecast for 6-12 months post launch; recommend inventory strategy shifts, Support all financial cycles: forecasting, budget and LRP: providing in-depth analysis of the demand plan Build and maintain effective cross-functional relationships with business leaders, Global Supply Chain, Manufacturing, Regulatory, Quality, Finance and Commercial",
     "external_url": "https://jobs.smartrecruiters.com/Sobi/744000115640399-european-supply-chain-associate-director?oga=true",
-    "status": "matched"
-  },
-  "https://api.smartrecruiters.com/v1/companies/Sobi/postings/744000115645542": {
-    "description": "About the role To support our global Commercial and Medical organizations, we are looking for an experienced Veeva Commercial Cloud Manager to develop and enhance our Veeva Vault CRM platform within a fast growing, highly regulated pharmaceutical environment. Our IS/IT is managed in-house and acts as a strategic enabler for implementing, developing, and supporting business-critical systems across the organization. In this role, you will be responsible for solutions that support our global Commercial and Medical teams, working in close collaboration with stakeholders across affiliates, headquarters functions, and external partners. This is a hands-on, global role combining system administration, configuration, solution design, and platform evolution within the Veeva Commercial Cloud ecosystem. The position is part of a European team, with flexibility for remote work within the European time zone, reporting to the Head of Digital Commercial based in Stockholm. Your impact will include Act as the global System Administrator for the Veeva Vault CRM platform Configure and evolve core Vault CRM modules (e.g. Account Management, Call Reporting, CLM, Events Management, Campaign Manager, Approved Email, Surveys, Medical Inquiry, Cycle Plans, Event Meetings) Translate complex business needs into scalable, compliant system solutions Manage roles, permissions, security, and data governance Provide operational support, troubleshooting, and user enablement Develop and maintain technical documentation, configuration records, and training materials Lead integrations with downstream data platforms and external digital ecosystems Collaborate with Commercial, Medical Affairs, Compliance, Regulatory, and Data teams to streamline processes and improve field efficiency Identify and implement innovative solutions—including generative AI and predictive analytics—to enhance HCP engagement and field productivity. Partner with Data Science teams on proof-of-concept initiatives such as AI-powered call note summarization, smart segmentation, and next-best-action recommendations.",
-    "external_url": "https://jobs.smartrecruiters.com/Sobi/744000115645542-veeva-commercial-cloud-manager?oga=true",
     "status": "matched"
   },
   "https://api.smartrecruiters.com/v1/companies/Sobi/postings/744000115644068": {
@@ -701,7 +696,7 @@
     "title": "Post Doctorate Scientist in Intestinal Inflammation - at the Institute of Human Biology (IHB)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-03-31",
+    "posted_date": "2026-03-30",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -720,16 +715,6 @@
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000117650137-experimental-physicist-ep-di-2026-8-ic-?oga=true",
     "status": "matched"
   },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000117847117": {
-    "description": "Introduction: In this role, you will contribute to the operation of CERN’s unique cryogenic installations that enable the Large Hadron Collider and its particle detectors to operate. You will monitor and support the operation and maintenance of large-scale cryogenic systems as part of an international technical team. This is an opportunity to work with advanced industrial equipment and technologies in a highly specialised environment. Functions: Operate and monitor cryogenic installations used to cool accelerator systems and detectors during operation periods. Support preventive and corrective maintenance activities on cryogenic installations outside operation periods. Participate in a 24/7 shift team supervising process parameters and identifying operational anomalies. Carry out first-line troubleshooting and technical interventions on electrical, instrumentation, and control systems, on-site and remotely. Apply operating and safety procedures during interventions on industrial cryogenic equipment. Record incidents, interventions, and operational observations in technical documentation. Create and maintain operating procedures and intervention instructions when required. Work closely with technicians, operators, and engineers in an international technical team.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000117847117-process-operations-technician-te-crg-op-2026-75-ld-?oga=true",
-    "status": "matched"
-  },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000117842317": {
-    "description": "Introduction As a computing engineer specialised in Linux system administration, you will join a passionate team and take an important role in the operation of the CERN accelerator control system infrastructure. Furthermore, you will participate in numerous strategic projects for the future in terms of operating systems and container and orchestration technology. You will join: The BE Department, responsible for the beam generation, acceleration, diagnostics, controls and performance optimisation for the LHC and its injector accelerators. The CSS Group , responsible for providing and supporting the controls software and infrastructure used to operate and maintain these particle accelerators 24 hours a day. The ISA Section , a dynamic and quality-oriented agile team, responsible for the CERN Accelerator control system computing infrastructure and system administration. Functions Perform system administration tasks for the Linux computers connected to the accelerator control system (control room consoles, data centre servers, real-time embedded platforms and virtual machines). Communicate with end-users to understand their needs and help translate these into appropriate solutions. Investigate, diagnose, and resolve operational problems in collaboration with end-users ranging from equipment specialists to operations teams. Participate actively in the strategic evolution of the accelerator control system infrastructure towards container technology hosted upon Kubernetes.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000117842317-system-administrator-be-css-isa-2025-216-ld-?oga=true",
-    "status": "matched"
-  },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000117802887": {
     "description": "Introduction You will design, integrate, and operate advanced machine learning capabilities within CERN’s machine learning platform, enabling scalable, secure, and reusable ML services for scientific and IT workloads. Working closely with experiments and service teams to onboard their ML use cases in a reliable, performant and sustainable manner, you will build CERN’s next-generation LLM and AI agent platform, tuning models into secure, scalable services for scientific and operational use cases. You will be responsible for the design and integration of the selected tools after extensive due diligence and validation against CERN use cases in all departments. Functions Develop and operate the machine learning service of CERN IT, covering model training, hyper-parameter optimisation and serving, targeting optimal usage of accelerator resources. Integrate and operate LLM and AI agent capabilities within the CERN machine learning service, including scalable model serving, agent frameworks, and secure multi-tenant access. Extend existing MLOps workflows to cover deployment, observability and lifecycle management of models, agents and RAG pipelines targeting CERN and external data sources. Produce and present reference architectures, documentation and best practices to support CERN users and use cases. Ensure efficient collaboration with other groups in IT and in other departments, as well as constant alignment with the evolving landscape of external research and industry organisations.",
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000117802887-machine-learning-engineer-it-cd-pi-2026-63-ld-?oga=true",
@@ -738,11 +723,6 @@
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000117800787": {
     "description": "You will join the team working on oil-filled and cast-resin transformers for power converter applications. You will contribute to an ongoing renovation program aimed at progressively replacing oil-filled transformers with modern cast-resin transformers, driven by environmental considerations. The role is hands-on and site-based, involving close interaction with equipment in operation. You will collaborate closely with a team of engineers, technicians, and external contractors for the integration of transformers within complex power converter systems. The role also offers you exposure to advanced low-voltage and medium-voltage power systems, and it provides you with many opportunities to further develop your practical and diagnostic skills in a high-level technical environment. Your responsibilities Support installation and commissioning activities for new or refurbished transformers, including verification of protection, control, and interlock circuits. Contribute to the integration of transformers into upgraded power converter systems, ensuring correct connection and compatibility with control and protection equipment. Prepare basic 3D mechanical drawings or layouts for simple integration tasks when required. Contribute to technical documentation: electrical diagrams, test reports, installation procedures, and equipment inventory updates. Perform routine inspections, diagnostics and functional tests of oil-filled and cast-resin transformers. Carry out preventive and corrective maintenance activities on transformers. Your profile Initial experience working in electrical installations (low and/or high voltage). Initial experience in operation and maintenance of electrical systems and equipment. Practical experience with troubleshooting and diagnostics of electrical installations is considered an asset. Experience in the field of power transformers is an advantage. Skills Electrical safety awareness. Ability to read and understand electrical schematics and simple mechanical drawings. Familiarity with electrical measurements (multimeter, insulation tester, oscilloscope). Ability to work hands-on on site, in collaboration with technicians, engineers and contractors. Basic knowledge of 3D CAD tools is an asset. Spoken and written English, with a commitment to learn French. Eligibility criteria: You are a national of a CERN Member or Associate Member State . By the application deadline, you have a maximum of two years of professional experience since graduation in Electricity (or a related field) and your highest educational qualification is a general secondary education diploma . You have never had a CERN fellow or graduate contract before. Applicants with a Bachelor's, Master's or PhD degree are not eligible.",
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000117800787-electrical-technician-power-transformers-sy-epc-hpc-2026-95-grae-?oga=true",
-    "status": "matched"
-  },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000117797757": {
-    "description": "Introduction: You will join the Departmental and Project Support Group within the Departmental Administrative Services Section of the Technology Department, working closely with colleagues across the Organization. As a key member of the TE administrative team, you will be part of a team of assistants contributing to the management of a Group Secretariat, with a particular focus on information, communication, and organisational services. Working alongside administrative assistants, you will provide administrative, organisational, communication, and information management support, helping ensure effective coordination and the smooth running of day-to-day operations. Functions: Provide front-office and administrative support to group members throughout their appointments, including arrival and departure formalities and the organisation of official travel. Coordinate and support meetings, visits and events (e.g. conferences, workshops, internal meetings) using CERN tools and platforms. Liaise with internal stakeholders to support reporting and planning activities, contribute to information preparation and manage the group’s web content, documentation, and archives via relevant content management systems. Provide administrative support to the Group Leader, including agenda and mailbox management, meeting coordination, action follow-up, information preparation, and maintenance of personnel and budget dashboards. Ensure service continuity by covering for colleagues when required and contribute to the continuous improvement of administrative processes within the Group and the Department.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000117797757-personal-team-assistant-te-dps-das-2026-74-ld-?oga=true",
     "status": "matched"
   },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000118133218": {
@@ -777,7 +757,7 @@
     "title": "Scientist – QC Lab Systems & CSV (GMP)",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-04-02",
+    "posted_date": "2026-04-01",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -792,7 +772,7 @@
     "title": "Senior Scientist – Manufacturing Science & Technology (Biologics USP/DSP)",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-04-02",
+    "posted_date": "2026-04-01",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -870,7 +850,7 @@
     "title": "Manager Quality System & Regulatory Compliance",
     "company": "Abbott",
     "location": "Switzerland - Zurich",
-    "posted_date": "2026-04-03",
+    "posted_date": "2026-04-02",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -972,11 +952,6 @@
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000119117248-administrative-support-to-the-registrar-so-ijs-2026-84-ld-?oga=true",
     "status": "matched"
   },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000119112428": {
-    "description": "Ready to build AI platforms at the scale of CERN? Join the IT Platforms Infrastructure team and help power the next wave of scientific discovery with machine learning, large language models (LLMs), and emerging agentic AI systems. You will design and operate shared AI platforms used by experiments, researchers, and services across CERN - combining open-source innovation, cloud-native technologies, and high-performance computing to turn vast volumes of scientific data into insight. Your responsibilities: Design, develop, and operate shared AI platforms supporting machine learning, LLMs, and agentic systems, from training and fine-tuning to large-scale inference. Collaborate with CERN teams to identify, prototype, and benchmark AI use cases across heterogeneous computing infrastructures. Build and maintain an open-source-based AI/MLOps ecosystem, including model and agent lifecycle management, evaluation, monitoring, and engagement with open-source communities and industry partners. Your profile: Experience with machine learning systems and platforms, including practical operation of ML services. Strong knowledge of MLOps and cloud-native technologies, such as Kubernetes, containers, CI/CD, observability, and model lifecycle management. Experience with GPU or accelerator-based workloads, including performance optimisation for training and inference. Familiarity with open-source ecosystems, with an interest in evaluating and contributing to community projects. Skills Comfortable with Linux based systems. Knowledge of system configuration tools. Identification and selection of relevant emerging ICT technologies. Knowledge and application of software life-cycle tools and procedures. Spoken and written English, with a commitment to learn French. Eligibility criteria: You are a national of a CERN Member or Associate Member State . By the application deadline, you have a maximum of two years of professional experience since graduation in Computing Engineering (or a related field) and your highest educational qualification is either a Bachelor's or Master's degree . You have never had a CERN fellow or graduate contract before. Applicants without University degree are not eligible. Applicants with a PhD are not eligible.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000119112428-machine-learning-engineer-it-cd-pi-2026-98-grae-?oga=true",
-    "status": "matched"
-  },
   "/job/Tolochenaz-Switzerland/Project-Manager---Spatial-Biology-Product-Development--8-9-months-contract-_JR101679": {
     "description": "By joining Bio-Techne, you’ll join a company with a powerful and positive purpose of enabling cutting-edge research in Life Sciences and Clinical Diagnostics. Bio-Techne, and all of its brands, provides tools for researchers to further treat and prevent disease worldwide. Position Summary: We are looking for an experienced Project Manager to cover a maternity leave in our Project Management team for 8-9 months. This role is cross-functional at the interface of the R&D, Marketing, Product Management, Operations, QA/RA as well as Scientific Affairs departments. Your mission will be to manage and coordinate activities of multidisciplinary Product Development projects in order to achieve project goals on time and within pre-defined scope. Projects in scope include the development of new assays and reagent kits for our Spatial Biology Division product portfolio, as well as their sustaining post launch. Essential Functions: As a member of the Project Management Office (PMO), the Project Manager will be responsible for the following: Plan, monitor and manage cross-departmental projects. Coordinate the projects among the different stakeholders and ensure smooth communication. Collaborate effectively with the R&D, Product Management, Marketing, Customer support, Manufacturing, QA/RA and Scientific Affairs teams in order to achieve the goals of the projects. Maintain the team awareness of potential interdependencies with other projects and their impact. Manage project risks. Monitor overall progress and use of resources. Report project progresses in clear and detailed manner. Liaise with other Bio-Techne divisions located in the US. Required Qualifications and skills: Required qualifications A validated experience of at least 3 years in a similar position, PMP certification or similar is a plus. MSc. in biomedical engineering, life science, biology or similar field. Working knowledge of project management tools. Proficiency in English (at least C1), French is a plus. Required soft skills Organizational skills and attention to detail, capacity to work on 5-8 projects in parallel. Ability to interact with multidisciplinary teams and to work in a team. Capacity to adapt in a constantly changing environment. Strong communication and negotiation skills. Flexibility in working schedule with the ability to have meetings with US West Coast regularly. Supportive, proactive team player with a willingness to assist colleagues and contribute to occasional tasks outside the core job scope to ensure overall project and team success. Bio-Techne is committed to product quality, customer satisfaction, continued improvement, minimising environmental impacts and conserving natural resources. Environmental and quality management is an integral core value and vital part of the Bio-Techne culture. Why Join Bio-Techne: We offer competitive wages along with extensive benefits for employees and their families. We invest in our employees’ financial futures through retirement programs and an employee stock purchase plan. We help our employees develop their careers through mentorship, promotional opportunities, training and development, internship programs, and more. We offer an international and diverse working environment, enriched by employee resource groups; volunteer and charity events; and employee events that build a culture of caring and belonging. We foster a culture of empowerment and innovation, where employees feel valued and encouraged to bring their new ideas to the table. Bio-Techne is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or status as a protected veteran. To protect the interests of all, Bio-Techne will not accept unsolicited resumes from any source other than a candidate application. Any unsolicited resumes sent to Bio-Techne will be considered Bio-Techne property.",
     "external_url": "https://biotechne.wd5.myworkdayjobs.com/Biotechne/job/Tolochenaz-Switzerland/Project-Manager---Spatial-Biology-Product-Development--8-9-months-contract-_JR101679",
@@ -984,7 +959,7 @@
     "title": "Project Manager – Spatial Biology Product Development (8-9 months contract)",
     "company": "Bio-Techne / Lunaphore",
     "location": "Tolochenaz, Switzerland",
-    "posted_date": "2026-04-08",
+    "posted_date": "2026-04-07",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1013,7 +988,7 @@
     "title": "Computational Biology - Oncology",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-09",
+    "posted_date": "2026-04-08",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -1054,7 +1029,7 @@
     "title": "Praktikum in Innovation & Nachhaltigkeit - Für Studierende in den Bereichen Informatik, Wirtschaftsinformatik, Data Science, Statistik, Mathematik oder Business Analytics",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-23",
+    "posted_date": "2026-04-22",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1099,7 +1074,7 @@
     "title": "Global Medical Affairs Lead Genomic Profiling",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-14",
+    "posted_date": "2026-04-13",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -1137,7 +1112,7 @@
     "title": "Sr. Scientist - Computational Biology - Neuroscience & Rare Diseases",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-16",
+    "posted_date": "2026-04-15",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -1160,7 +1135,7 @@
     "title": "Franchise Lead COPD (Inhaled + Biologic portfolio)",
     "company": "AstraZeneca",
     "location": "Switzerland - Baar",
-    "posted_date": "2026-04-15",
+    "posted_date": "2026-04-14",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1206,7 +1181,7 @@
     "title": "Post Doctorate Scientist – Vascularized Kidney Organoids - at the Institute of Human Biology (IHB)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-15",
+    "posted_date": "2026-04-14",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -1321,7 +1296,7 @@
     "title": "Senior Scientist microbiological Quality Control",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-04-21",
+    "posted_date": "2026-04-20",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -1341,7 +1316,7 @@
     "title": "​Sr Manager / Associate Director Regulatory Affairs - Swiss Affiliate",
     "company": "Gilead Sciences",
     "location": "Switzerland - Zug",
-    "posted_date": "2026-04-21",
+    "posted_date": "2026-04-20",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1357,7 +1332,7 @@
     "title": "Senior Scientist, Material Qualification and Release (QC GMP)",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-04-21",
+    "posted_date": "2026-04-20",
     "department": "",
     "score": -1,
     "matched_keywords": [
@@ -1389,7 +1364,7 @@
     "title": "2x Scientist - Technical Operations",
     "company": "CSL Behring / Vifor",
     "location": "EMEA, CH, Kanton Bern, Bern, CSL Behring",
-    "posted_date": "2026-04-22",
+    "posted_date": "2026-04-21",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1404,7 +1379,7 @@
     "title": "2x Scientist - Technical Operations",
     "company": "CSL Behring / Vifor",
     "location": "EMEA, CH, Kanton Bern, Bern, CSL Behring",
-    "posted_date": "2026-04-22",
+    "posted_date": "2026-04-21",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1454,7 +1429,7 @@
     "title": "Analytical Molecular Characterization Team Lead and Mass Spectrometry Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-23",
+    "posted_date": "2026-04-22",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1497,7 +1472,7 @@
     "title": "Internship in Global Medical Affairs (12 months)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-24",
+    "posted_date": "2026-04-23",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1514,7 +1489,7 @@
     "title": "Scientist, Tech Ops",
     "company": "CSL Behring / Vifor",
     "location": "EMEA, CH, Kanton Bern, Bern, CSL Behring",
-    "posted_date": "2026-04-24",
+    "posted_date": "2026-04-23",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1529,7 +1504,7 @@
     "title": "Scientist, Tech Ops",
     "company": "CSL Behring / Vifor",
     "location": "EMEA, CH, Kanton Bern, Bern, CSL Behring",
-    "posted_date": "2026-04-24",
+    "posted_date": "2026-04-23",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1544,7 +1519,7 @@
     "title": "Scientist, Tech Ops",
     "company": "CSL Behring / Vifor",
     "location": "EMEA, CH, Kanton Bern, Bern, CSL Behring",
-    "posted_date": "2026-04-24",
+    "posted_date": "2026-04-23",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1559,7 +1534,7 @@
     "title": "Scientist, Tech Ops",
     "company": "CSL Behring / Vifor",
     "location": "EMEA, CH, Kanton Bern, Bern, CSL Behring",
-    "posted_date": "2026-04-24",
+    "posted_date": "2026-04-23",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1584,7 +1559,7 @@
     "title": "Internship for Students of Computational Biology, Computational Chemistry,  Applied Mathematics (6 months)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-25",
+    "posted_date": "2026-04-24",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1681,7 +1656,7 @@
     "title": "Post Doctorate Scientist (IHB) - In Vitro Modeling Adaptive Immunologist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-25",
+    "posted_date": "2026-04-24",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -1704,7 +1679,7 @@
     "title": "Post Doctoral Scientist (IHB) - Computational Immunology",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-25",
+    "posted_date": "2026-04-24",
     "department": "",
     "score": 12,
     "matched_keywords": [
@@ -1740,7 +1715,7 @@
     "title": "International Medical Affairs Director Neuromuscular",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "",
+    "posted_date": "2026-04-27",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1874,7 +1849,7 @@
     "title": "Senior Scientist (Pathogen Safety Support)",
     "company": "CSL Behring / Vifor",
     "location": "EMEA, CH, Kanton Bern, Bern, CSL Behring",
-    "posted_date": "",
+    "posted_date": "2026-04-27",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1891,7 +1866,7 @@
     "title": "Senior Scientist (Pathogen Safety Support)",
     "company": "CSL Behring / Vifor",
     "location": "EMEA, CH, Kanton Bern, Bern, CSL Behring",
-    "posted_date": "",
+    "posted_date": "2026-04-27",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1932,7 +1907,7 @@
     "title": "Medical Science Liaison CVRM",
     "company": "AstraZeneca",
     "location": "Switzerland - Baar",
-    "posted_date": "",
+    "posted_date": "2026-04-27",
     "department": "",
     "score": -1,
     "matched_keywords": [
@@ -1962,7 +1937,7 @@
     "title": "Scientist (f/m/x) - Technical Operations",
     "company": "CSL Behring / Vifor",
     "location": "EMEA, CH, Kanton Bern, Bern, CSL Behring",
-    "posted_date": "2026-04-29",
+    "posted_date": "",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2013,11 +1988,36 @@
     "title": "Global Regulatory Affairs Director (Neuroscience)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-04-29",
+    "posted_date": "",
     "department": "",
     "score": 1,
     "matched_keywords": [
       "MSc"
+    ],
+    "deducted_keywords": []
+  },
+  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000123644868": {
+    "description": "Introduction: You will join the CERN Staff Association (SA) Secretariat, which gives support to the SA elected delegates, and provides information to all members of the personnel. You will also play an active role promoting activities sponsored by the SA, such as SA clubs, the Nursery & School of the SA, and the CERN and ESO Pensioners Association. You will report directly to the Presidency of the SA and work with the SA elected delegates in a team of professionals dedicated to providing CERN-wide support for all SA activities and projects. Functions: Ensure the continued smooth operation of the Secretariat: welcoming visitors, answering phone calls, managing the CERN Staff Association (SA) mailbox. Production of the SA biweekly newsletter and update & development of the SA website. Help and give guidance to all members of personnel and SA representatives concerning working relations, employment conditions, disciplinary or appeals procedures, any rules and regulations. Translate various documents such as articles from French into English and vice-versa. Write minutes of meetings. Organise SA events (meetings with representatives of CERN Member States, public meetings, General Assembly meetings, exhibitions, conferences, etc.). Present the SA activities in various meetings.",
+    "external_url": "https://jobs.smartrecruiters.com/CERN/744000123644868-administrative-assistant-staff-association-secretariat-hr-sa-2025-257-ld-?oga=true",
+    "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000123642939": {
+    "description": "Introduction Work with us to evolve the CERN data storage systems used at the Large Hadron Collider (LHC) and at its international partners. CERN is the birthplace of the World Wide Web and one of the world’s leading laboratories for particle physics. Join the Storage and Data Management Group in CERN’s IT Department as a Software Engineer for a unique challenge as the next step in your career. CERN, take part! The CERN IT Storage and Data Management group operates the core services used by both LHC and non-LHC experiments for data collection, archival, reconstruction, analysis, and global distribution via the Worldwide LHC Computing Grid. As a Ceph Software Engineer, you will contribute to the design, evolution, and operation of large-scale distributed critical storage services for the CERN cloud and computing infrastructures. You will work hands-on with Ceph-based block, object, and filesystem solutions (including CephFS and NFS integrations), ensuring high availability, performance, and resilience across multi-datacenter environments. Your role will involve troubleshooting complex system-wide issues, optimising storage architectures for demanding workloads such as HPC and AI/ML, and continuously improving automation, deployment, and observability, aligned with modern DevOps practices. Leveraging strong Linux expertise and systems programming skills (e.g., C/C++, Go, or Rust) you will help evolve the distributed storage technology, while maintaining robust, scalable and secure systems. Functions Co-lead management and operations of distributed disk storage, block, object and filesystem services based on mainstream open-source technologies (Ceph, NFS). Participate in the evolution of architecture and design of storage services for CERN cloud and compute infrastructure, as well as core business applications (physics data processing, ML/AI, HPC use-cases). Integrate, troubleshoot and maintain distributed disk storage systems at scale, across multiple availability zones and data centres. Contribute to documentation, development, optimisation and further automation of storage services. Contribute to change management, incident response, and user support. Liaise with key stakeholders inside and outside of the IT department.",
+    "external_url": "https://jobs.smartrecruiters.com/CERN/744000123642939-ceph-software-engineer-it-sd-gss-2026-96-ld-?oga=true",
+    "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/Sobi/postings/744000123643407": {
+    "description": "Sobi is currently seeking a R&D and Medical Affairs (RDMA) Strategy and Portfolio Associate Director to join our RDMA Strategy and Operations (S&O) group. The position owns the development, execution, and continuous evolution of RDMA strategy and portfolio insights, acting as a thought partner to senior RDMA leadership. The position plays a central role in shaping portfolio‑level decisions, advancing digital and AI‑enabled capabilities, and strengthening RDMA governance and decision‑making. Main responsibilities: Partner with Head of RDMA S&O to define and implement RDMA strategy Lead the definition and execution of the RDMA digital and AI roadmap Shape and continuously improve RDMA operating model, governance, and decision processes Translate portfolio data into clear, decision‑ready insights for RDMA LT, ExCom, and Portfolio Review Committees Act as RDMA strategy lead in BD scouting and due diligence, ensuring consistency, comparability, and strategic fit Drive preparation of high‑impact materials for senior governance forums",
+    "external_url": "https://jobs.smartrecruiters.com/Sobi/744000123643407-rdma-strategy-and-portfolio-associate-director?oga=true",
+    "status": "matched",
+    "title": "RDMA Strategy and Portfolio Associate Director",
+    "company": "Sobi",
+    "location": "Basel, Switzerland",
+    "posted_date": "2026-04-29",
+    "department": "Product Management",
+    "score": 1,
+    "matched_keywords": [
+      "medical affairs"
     ],
     "deducted_keywords": []
   }
