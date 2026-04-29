@@ -407,7 +407,7 @@
     "title": "Senior Manager HEOR",
     "company": "Abbott",
     "location": "Switzerland - Basel",
-    "posted_date": "2026-03-29",
+    "posted_date": "2026-03-30",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -425,7 +425,7 @@
     "title": "Vice President, Regulatory Affairs, Europe and International",
     "company": "BeiGene",
     "location": "Basel",
-    "posted_date": "2026-03-31",
+    "posted_date": "2026-04-01",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -441,7 +441,7 @@
     "title": "Scientist Microbiological Quality Control",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-03-29",
+    "posted_date": "2026-03-30",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -776,7 +776,7 @@
     "title": "Scientist – QC Lab Systems & CSV (GMP)",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-04-01",
+    "posted_date": "2026-04-02",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -791,7 +791,7 @@
     "title": "Senior Scientist – Manufacturing Science & Technology (Biologics USP/DSP)",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-04-01",
+    "posted_date": "2026-04-02",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -869,7 +869,7 @@
     "title": "Manager Quality System & Regulatory Compliance",
     "company": "Abbott",
     "location": "Switzerland - Zurich",
-    "posted_date": "2026-04-02",
+    "posted_date": "2026-04-03",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1159,7 +1159,7 @@
     "title": "Franchise Lead COPD (Inhaled + Biologic portfolio)",
     "company": "AstraZeneca",
     "location": "Switzerland - Baar",
-    "posted_date": "2026-04-14",
+    "posted_date": "2026-04-15",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1217,29 +1217,6 @@
     ],
     "deducted_keywords": []
   },
-  "/job/Basel/Internship-in-Computational-Biology--CVRM-Genetics_202604-108959": {
-    "description": "At Roche you can show up as yourself, embraced for the unique qualities you bring. Our culture encourages personal expression, open dialogue, and genuine connections,  where you are valued, accepted and respected for who you are, allowing you to thrive both personally and professionally. This is how we aim to prevent, stop and cure diseases and ensure everyone has access to healthcare today and for generations to come. Join Roche, where every voice matters. The Position The Computational Sciences Centre of Excellence (CS CoE) is a global organisation enabling Roche’s Research and Early Development units to develop novel therapeutics that will have an impact on patient lives. Within the CS CoE, the Computational Biology and Medicine (CBM) department focuses on furthering our understanding of disease pathogenesis, patient populations, and target biology by having access to the largest Pharma R&D datasets in the world. In partnership with our scientists across pRED and gRED, we create better medicines by augmenting every part of R&D through our data-driven culture. The Opportunity Within Roche Pharma Research & Early Development (pRED), the IMM & CVRM (Immunology, Cardiovascular, Renal and Metabolism) Computational Biology & Medicine group is seeking a highly-motivated Master student, dedicated to the development and application of data science tools and systems biology approaches to deepen disease insights and drive target discovery. This internship offers the most talented students the opportunity to gain valuable work experience with us. You will work with large-scale genomic data and produce Polygenic Risk Scores (PGS) to investigate the complex genetic architecture of chronic kidney disease (CKD) and metabolic dysfunction (i.e type 2 diabetes, obesity endotypes). As a member of a highly collaborative, multidisciplinary team, you will use your skills to generate significant contributions with practical impact for patients, and you will gain valuable expertise to advance your scientific career. You will be responsible for: building automated PGS workflows to map the complex genetic architecture of Cardio-Renal-Metabolic diseases. Defining mechanistic endotypes through patient clustering and identifying \"resilient\" outliers—individuals who remain healthy despite high genetic risk—to uncover protective modifiers. The role involves: Mining large-scale genomic, proteomics and electronic health record datasets to drive target discovery. Translating complex genetic architecture into actionable biological insights for drug development. You will gain experience in: high-throughput genomic analysis and advanced patient stratification at a population scale. Precision medicine methodologies and Pharmaceutical R&D workflows, learning how data science directly influences the selection of new therapeutic targets. You will develop skills in collaboration and strategy while working in a team culture that values a collaborative workplace, scientific rigor, open feedback, and scientific growth. Who You Are You are currently enrolled in or a recent graduate (less than a year) with a Master’s degree in Systems Biology, Life Sciences, Biotechnology, Bioengineering or related discipline. Furthermore, you… Bring strong coding experience in R and proficiency in git/version control, ideally complemented by Python or experience developing R packages. Possess hands-on experience with genetic data analysis tools such as Plink, BCFtools, or REGENIE, and a foundational understanding of GWAS or Polygenic Risk Scores (PGS). Demonstrate expertise in quantitative statistics and data modeling, including regression, linear models, and hypothesis testing. Are familiar with (or eager to work with) large biobanks (UK Biobank), proteomics data, and computationally intensive environments like HPC clusters, Docker, or Snakemake. Have a strong interest in human genetics and metabolic diseases, including the curiosity to apply AI tools (e.g., Gemini, ChatGPT) to novel biological methodologies. Are a creative problem-solver and quick learner who remains productive when dealing with ambiguity and experimenting with new approaches. Act as a strong collaborator with the organizational skills and initiative needed to drive projects toward team goals. Communicate effectively and clearly in English, both in writing and in spoken discussion. Application Process The preferred start for the internship is June 2026. Please upload both your CV and a motivation letter (merged in one document) along with your latest certificate of enrolment (if you are currently studying). Please clearly indicate your preferred starting date and duration of the internship on your motivation letter. Non-EU/EFTA citizens must attach a confirmation from the university to the application documents, stating that a mandatory internship is part of the education. Ready to take the next step? We'd love to hear from you. Apply now to explore this exciting opportunity! Who we are A healthier future drives us to innovate. Together, more than 100’000 employees across the globe are dedicated to advance science, ensuring everyone has access to healthcare today and for generations to come. Our efforts result in more than 26 million people treated with our medicines and over 30 billion tests conducted using our Diagnostics products. We empower each other to explore new possibilities, foster creativity, and keep our ambitions high, so we can deliver life-changing healthcare solutions that make a global impact. Let’s build a healthier future, together. Roche is an Equal Opportunity Employer.",
-    "external_url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Internship-in-Computational-Biology--CVRM-Genetics_202604-108959",
-    "status": "ignored",
-    "title": "Internship in Computational Biology: CVRM Genetics",
-    "company": "Roche",
-    "location": "Basel",
-    "posted_date": "2026-04-14",
-    "department": "",
-    "score": 4,
-    "matched_keywords": [
-      "computational biology",
-      "drug development",
-      "immunology",
-      "proteomics"
-    ],
-    "deducted_keywords": []
-  },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000120883927": {
-    "description": "Are you a passionate developer who enjoys solving complex problems and working with modern technologies? Join us in developing firmware for the next generation data acquisition and real-time processing system of the Compact Muon Solenoid (CMS) experiment at the LHC. We are upgrading the CMS level-1 (L1) trigger system built on custom FPGA logic to handle the high data rates expected in the upcoming High-Luminosity LHC phase, including a novel L1 Data Scouting system to analyse all events using coarse L1 information, and designing a next-generation data acquisition system for it. You will develop the FPGA firmware for this data acquisition system and help test the first prototypes of its custom electronics boards. This work is part of the NextGen Triggers project, a multi-year collaboration focused on applying AI and high-performance computing to trigger and data processing in LHC experiments. Your responsibilities Develop firmware for data acquisition and real-time processing in the L1 Data Scouting demonstrator system, and potentially the online software to control the system. Contribute to the development and testing of the first prototypes of the new data acquisition electronics boards. Contribute to the development and operations of a demonstration system for the L1 Data Scouting concept Collaborate closely with members of the CMS L1 trigger and data scouting groups at CERN. Present project work and results at CERN-hosted and international conferences and workshops. Your profile Experience with firmware development for AMD Xilinx FPGAs and Systems-on-chip (Versal, Zynq) is required. Experience with high-speed optical links and data acquisition / trigger systems of high energy physics experiments would be beneficial. Experience with electronics, e.g. reading schematics, configuring electronic components via I2C, etc., would be a plus. Skills Knowledge of VHDL and of the AMD Xilinx firmware development tools (Vivado) is required. Knowledge of C++, python, git and containerised software would be a plus. Spoken and written English, with a commitment to learn French. Eligibility criteria: You have a professional background in Electronics, Computer Science, Physics (or a related field) and have either: a Master's degree with 2 to 6 years of post-graduation professional experience; or a PhD with no more than 3 years of post-graduation professional experience. You have never had a CERN fellow or graduate contract before.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000120883927-firmware-developer-fpga-ep-cms-tdq-2026-66-grap-?oga=true",
-    "status": "matched"
-  },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000121114568": {
     "description": "Are you ready to work at the intersection of cutting-edge electronics and photonics technologies with the forefront of particle physics? Join the Experimental Physics Department and contribute to our detector R&D programme for future High Energy Physics experiments at CERN. One of the key challenges for the next generation of detectors is transporting vast volumes of data off-detector while operating in extreme radiation environments, for which advanced optical links are an essential technology. Within the High Speed Links Work Package, we are developing the next generation of radiation-tolerant communication building blocks by combining custom high-speed ASICs and Silicon Photonics components that interoperate with off-the-shelf optical modules and FPGA systems as we move from component prototypes to full system demonstrators. We are looking for a Test Engineer to take a leading role in the evaluation and qualification of a prototype high-speed, radiation-tolerant communication ASIC, part of a Silicon Photonics system, delivering a 100 Gbps data stream. You will help bring up new hardware, build robust test setups, and generate high-quality measurement results that guide design iterations and qualification. Your responsibilities: Define and execute electrical and functional test plans for ASIC prototypes (bring-up, debugging, characterisation). Develop FPGA firmware and Python tools for test automation, data acquisition, and data analysis. Design, review, or improve high-speed test hardware (PCBs, fixtures, cabling), including signal-integrity considerations. Plan and support radiation qualification campaigns, including Single Event Effects (SEE) and Total Ionising Dose (TID) experiments. Your profile: Strong hands-on electronics lab skills (instrumentation, debugging, careful measurement practice). Experience in one or more of: FPGA development, Python (automation/DAQ/analysis), high-speed PCB design/simulation. A structured, rigorous approach to engineering work: test methodology, data quality, and clear documentation. Skills: Hands-on electronics laboratory measurement skills (oscilloscope, SMU, signal generators; disciplined debugging). FPGA firmware development and simulation. Python for test automation, data acquisition, analysis, and reporting. High-speed PCB knowledge (signal-integrity basics, layout constraints, fixtures/cabling for reliable measurements). Clear technical documentation (test plans, procedures, review-ready reports). Collaborative, structured engineering approach (root-cause analysis, reproducible experiments). Radiation qualification experience (SEE and TID) is a plus. Familiarity with ASIC design is a plus. Knowledge of the Ethernet networking stack is a plus. Spoken and written English, with a commitment to learn French. Eligibility criteria: You are a national of a CERN Member or Associate Member State . You have a professional background in Electronics Engineering (or a related field) and have either: a Master's degree with 2 to 6 years of post-graduation professional experience; or a PhD with no more than 3 years of post-graduation professional experience. You have never had a CERN fellow or graduate contract before.",
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000121114568-mixed-signal-ic-test-engineer-ep-ese-me-2026-64-grap-?oga=true",
@@ -1282,7 +1259,7 @@
     "title": "Associate Director, Senior International Clinical Trial Regulatory Lead",
     "company": "Takeda",
     "location": "Zurich, Switzerland",
-    "posted_date": "2026-03-29",
+    "posted_date": "2026-03-30",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1297,7 +1274,7 @@
     "title": "Associate Director, EUCAN Regulatory Lead - Oncology",
     "company": "Takeda",
     "location": "Zurich, Switzerland",
-    "posted_date": "2026-03-29",
+    "posted_date": "2026-03-30",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1313,7 +1290,7 @@
     "title": "Associate Director, EUCAN Regulatory Lead - GI and Inflammation",
     "company": "Takeda",
     "location": "Zurich, Switzerland",
-    "posted_date": "2026-03-29",
+    "posted_date": "2026-03-30",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1328,7 +1305,7 @@
     "title": "Manager, International Clinical Trial Regulatory Lead",
     "company": "Takeda",
     "location": "Zurich, Switzerland",
-    "posted_date": "2026-03-29",
+    "posted_date": "2026-03-30",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1343,7 +1320,7 @@
     "title": "Senior Scientist microbiological Quality Control",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-04-20",
+    "posted_date": "2026-04-21",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -1363,7 +1340,7 @@
     "title": "​Sr Manager / Associate Director Regulatory Affairs - Swiss Affiliate",
     "company": "Gilead Sciences",
     "location": "Switzerland - Zug",
-    "posted_date": "2026-04-20",
+    "posted_date": "2026-04-21",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1379,7 +1356,7 @@
     "title": "Senior Scientist, Material Qualification and Release (QC GMP)",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-04-20",
+    "posted_date": "2026-04-21",
     "department": "",
     "score": -1,
     "matched_keywords": [
@@ -1411,7 +1388,7 @@
     "title": "2x Scientist - Technical Operations",
     "company": "CSL Behring / Vifor",
     "location": "EMEA, CH, Kanton Bern, Bern, CSL Behring",
-    "posted_date": "2026-04-21",
+    "posted_date": "2026-04-22",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1426,7 +1403,7 @@
     "title": "2x Scientist - Technical Operations",
     "company": "CSL Behring / Vifor",
     "location": "EMEA, CH, Kanton Bern, Bern, CSL Behring",
-    "posted_date": "2026-04-21",
+    "posted_date": "2026-04-22",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1536,7 +1513,7 @@
     "title": "Scientist, Tech Ops",
     "company": "CSL Behring / Vifor",
     "location": "EMEA, CH, Kanton Bern, Bern, CSL Behring",
-    "posted_date": "2026-04-23",
+    "posted_date": "2026-04-24",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1551,7 +1528,7 @@
     "title": "Scientist, Tech Ops",
     "company": "CSL Behring / Vifor",
     "location": "EMEA, CH, Kanton Bern, Bern, CSL Behring",
-    "posted_date": "2026-04-23",
+    "posted_date": "2026-04-24",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1566,7 +1543,7 @@
     "title": "Scientist, Tech Ops",
     "company": "CSL Behring / Vifor",
     "location": "EMEA, CH, Kanton Bern, Bern, CSL Behring",
-    "posted_date": "2026-04-23",
+    "posted_date": "2026-04-24",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1581,7 +1558,7 @@
     "title": "Scientist, Tech Ops",
     "company": "CSL Behring / Vifor",
     "location": "EMEA, CH, Kanton Bern, Bern, CSL Behring",
-    "posted_date": "2026-04-23",
+    "posted_date": "2026-04-24",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1984,7 +1961,7 @@
     "title": "Scientist (f/m/x) - Technical Operations",
     "company": "CSL Behring / Vifor",
     "location": "EMEA, CH, Kanton Bern, Bern, CSL Behring",
-    "posted_date": "2026-04-28",
+    "posted_date": "2026-04-29",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2035,7 +2012,7 @@
     "title": "Global Regulatory Affairs Director (Neuroscience)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-04-28",
+    "posted_date": "2026-04-29",
     "department": "",
     "score": 1,
     "matched_keywords": [
