@@ -603,7 +603,8 @@
     "https://csl.wd1.myworkdayjobs.com/CSL_External/job/EMEA-CH-Kanton-Bern-Bern-CSL-Behring/Scientist--Tech-Ops_R-275521": "ignored",
     "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Internship-for-Students-of-Biology--Biochemistry-in-the-Control-Strategy-Scientist-Group_202604-109555-1": "ignored",
     "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Senior-Associate-Scientist-in-Analytical-Research-and-Development-for-Oligonucleotides_202511-130428-1": "ignored",
-    "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Internship-in-Computational-Biology--CVRM-Genetics_202604-108959": "ignored"
+    "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Internship-in-Computational-Biology--CVRM-Genetics_202604-108959": "ignored",
+    "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Switzerland---Basel/Senior-Manager-HEOR_31134799": "ignored"
   },
   "https://gloorlang.starhunter.software/Headhunter/project/job-ad/hash/693ffd941548c": {
     "external_url": "https://gloorlang.starhunter.software/Headhunter/project/job-ad/hash/693ffd941548c",
@@ -1575,20 +1576,6 @@
       "location:Switzerland"
     ]
   },
-  "https://www.michaelpage.ch/de/job-detail/business-development-specialist-100/ref/jn-032026-6968386?lang=en": {
-    "external_url": "https://www.michaelpage.ch/de/job-detail/business-development-specialist-100/ref/jn-032026-6968386?lang=en",
-    "status": "ignored",
-    "title": "Business Development Specialist (a) 100%",
-    "company": "Michael Page Switzerland",
-    "location": "Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": -2,
-    "matched_keywords": [],
-    "deducted_keywords": [
-      "location:Switzerland"
-    ]
-  },
   "https://www.michaelpage.ch/de/job-detail/senior-area-sales-manager-business-development-manager-dach/ref/jn-022026-6955718?lang=en": {
     "external_url": "https://www.michaelpage.ch/de/job-detail/senior-area-sales-manager-business-development-manager-dach/ref/jn-022026-6955718?lang=en",
     "status": "ignored",
@@ -2001,5 +1988,24 @@
   },
   "_generic:MLL Legal": {
     "keywords": "regulatory"
+  },
+  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000123737664": {
+    "description": "What you'll do You will join CERN’s civil engineering team working on the proposed Future Circular Collider (FCC) , a 91 km circumference machine planned to be housed in an underground complex up to 500 metres below ground in the Geneva Basin. As a senior civil/geotechnical engineer with proven expertise in the design and construction of underground civil engineering structures - such as tunnels, shafts, caverns - you will be responsible for all geotechnical aspects of the design and potential construction of the extensive and complex civil engineering required for the FCC. You will work on high-value, technically complex projects, including the preparation and management of large-scale contracts, while collaborating with other disciplines to develop robust civil engineering solutions. Your key tasks Undertake numerical studies to support the preliminary designs and optioneering studies for the FCC underground structures undertaken in-house at CERN. Oversee and critically assess the geotechnical work carried out by external consultants, contractors and specialist advisors. Prepare the geotechnical technical specifications including a geotechnical baseline report (GBR) required to support potential consultancy contracts related to the design and construction oversight of significant underground and surface structures envisaged for the FCC. These include over 100 kilometers of tunnels, eight large space caverns, 12 shafts at depths up to 400m and numerous other underground structures. Undertake the contract management of the consultancy and site investigation contracts to be put in place by CERN in order to obtain geotechnical data needed to inform subsequent design work. Manage the ongoing contract for external specialist support that CERN has with the ground engineering department of the University of Geneva. Work in close collaboration with the other members of the civil engineering team and provide them with expert support in the field of geotechnical engineering.",
+    "external_url": "https://jobs.smartrecruiters.com/CERN/744000123737664-senior-geotechnical-engineer-sce-ppm-2025-208-ld-?oga=true",
+    "status": "matched"
+  },
+  "https://www.michaelpage.ch/job-detail/fund-portfolio-coordinator-9-months/ref/jn-042026-6999523": {
+    "external_url": "https://www.michaelpage.ch/job-detail/fund-portfolio-coordinator-9-months/ref/jn-042026-6999523",
+    "status": "matched",
+    "title": "Fund Portfolio Coordinator for 9 months",
+    "company": "Michael Page Switzerland",
+    "location": "Switzerland",
+    "posted_date": "",
+    "department": "",
+    "score": -2,
+    "matched_keywords": [],
+    "deducted_keywords": [
+      "location:Switzerland"
+    ]
   }
 }
