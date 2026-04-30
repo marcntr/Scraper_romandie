@@ -407,7 +407,7 @@
     "title": "Vice President, Regulatory Affairs, Europe and International",
     "company": "BeiGene",
     "location": "Basel",
-    "posted_date": "2026-04-01",
+    "posted_date": "2026-03-31",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -682,19 +682,9 @@
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000117650137-experimental-physicist-ep-di-2026-8-ic-?oga=true",
     "status": "matched"
   },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000117802887": {
-    "description": "Introduction You will design, integrate, and operate advanced machine learning capabilities within CERN’s machine learning platform, enabling scalable, secure, and reusable ML services for scientific and IT workloads. Working closely with experiments and service teams to onboard their ML use cases in a reliable, performant and sustainable manner, you will build CERN’s next-generation LLM and AI agent platform, tuning models into secure, scalable services for scientific and operational use cases. You will be responsible for the design and integration of the selected tools after extensive due diligence and validation against CERN use cases in all departments. Functions Develop and operate the machine learning service of CERN IT, covering model training, hyper-parameter optimisation and serving, targeting optimal usage of accelerator resources. Integrate and operate LLM and AI agent capabilities within the CERN machine learning service, including scalable model serving, agent frameworks, and secure multi-tenant access. Extend existing MLOps workflows to cover deployment, observability and lifecycle management of models, agents and RAG pipelines targeting CERN and external data sources. Produce and present reference architectures, documentation and best practices to support CERN users and use cases. Ensure efficient collaboration with other groups in IT and in other departments, as well as constant alignment with the evolving landscape of external research and industry organisations.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000117802887-machine-learning-engineer-it-cd-pi-2026-63-ld-?oga=true",
-    "status": "matched"
-  },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000117800787": {
     "description": "You will join the team working on oil-filled and cast-resin transformers for power converter applications. You will contribute to an ongoing renovation program aimed at progressively replacing oil-filled transformers with modern cast-resin transformers, driven by environmental considerations. The role is hands-on and site-based, involving close interaction with equipment in operation. You will collaborate closely with a team of engineers, technicians, and external contractors for the integration of transformers within complex power converter systems. The role also offers you exposure to advanced low-voltage and medium-voltage power systems, and it provides you with many opportunities to further develop your practical and diagnostic skills in a high-level technical environment. Your responsibilities Support installation and commissioning activities for new or refurbished transformers, including verification of protection, control, and interlock circuits. Contribute to the integration of transformers into upgraded power converter systems, ensuring correct connection and compatibility with control and protection equipment. Prepare basic 3D mechanical drawings or layouts for simple integration tasks when required. Contribute to technical documentation: electrical diagrams, test reports, installation procedures, and equipment inventory updates. Perform routine inspections, diagnostics and functional tests of oil-filled and cast-resin transformers. Carry out preventive and corrective maintenance activities on transformers. Your profile Initial experience working in electrical installations (low and/or high voltage). Initial experience in operation and maintenance of electrical systems and equipment. Practical experience with troubleshooting and diagnostics of electrical installations is considered an asset. Experience in the field of power transformers is an advantage. Skills Electrical safety awareness. Ability to read and understand electrical schematics and simple mechanical drawings. Familiarity with electrical measurements (multimeter, insulation tester, oscilloscope). Ability to work hands-on on site, in collaboration with technicians, engineers and contractors. Basic knowledge of 3D CAD tools is an asset. Spoken and written English, with a commitment to learn French. Eligibility criteria: You are a national of a CERN Member or Associate Member State . By the application deadline, you have a maximum of two years of professional experience since graduation in Electricity (or a related field) and your highest educational qualification is a general secondary education diploma . You have never had a CERN fellow or graduate contract before. Applicants with a Bachelor's, Master's or PhD degree are not eligible.",
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000117800787-electrical-technician-power-transformers-sy-epc-hpc-2026-95-grae-?oga=true",
-    "status": "matched"
-  },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000118080333": {
-    "description": "Introduction Are you an experienced Software Engineer passionate about building user-centric, high-impact platforms? Join the Multimedia Platforms Team at CERN, where you will shape how thousands of researchers connect, collaborate, and share knowledge every day. In this role, you will design, develop, and operate reliable platforms that support the entire workflow of recording, processing, and streaming multimedia content for the CERN community. You also run a large scale videoconferencing platform serving tens of thousands of users across CERN and the wider HEP community. If you’re looking for a role where your work has tangible impact across a global scientific community, this is your opportunity. Functions Design and develop open source web platforms following clear UI/UX principles. Develop and maintain backend services for transferring, processing and publishing multimedia files. Maintain CERN’s webcast infrastructure (Wowza based) and manage its cloud multimedia CDN. Share the ownership of core software projects powering recording and webcasting operations: Encoders Manager, Recordings Manager, RAVEM, Webcast website, TTaaS. Manage and provide 3rd level support for the Videoconferencing service. Contribute to other applications in the section’s catalogue, including Indico and newdle. Engage with users and vendors; contribute to feature evaluations and procurement processes. Provide expert support, documentation and training to the user community. Mentor junior team members, including Summer/Technical Students and Graduates.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000118080333-computing-engineer-media-platforms-it-ca-cte-2026-73-ld-?oga=true",
     "status": "matched"
   },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000118110929": {
@@ -714,7 +704,7 @@
     "title": "Scientist – QC Lab Systems & CSV (GMP)",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-04-02",
+    "posted_date": "2026-04-01",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -729,7 +719,7 @@
     "title": "Senior Scientist – Manufacturing Science & Technology (Biologics USP/DSP)",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-04-02",
+    "posted_date": "2026-04-01",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -802,7 +792,7 @@
     "title": "Manager Quality System & Regulatory Compliance",
     "company": "Abbott",
     "location": "Switzerland - Zurich",
-    "posted_date": "2026-04-03",
+    "posted_date": "2026-04-02",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -911,7 +901,7 @@
     "title": "Project Manager – Spatial Biology Product Development (8-9 months contract)",
     "company": "Bio-Techne / Lunaphore",
     "location": "Tolochenaz, Switzerland",
-    "posted_date": "2026-04-08",
+    "posted_date": "2026-04-07",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -940,7 +930,7 @@
     "title": "Computational Biology - Oncology",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-09",
+    "posted_date": "2026-04-08",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -981,7 +971,7 @@
     "title": "Praktikum in Innovation & Nachhaltigkeit - Für Studierende in den Bereichen Informatik, Wirtschaftsinformatik, Data Science, Statistik, Mathematik oder Business Analytics",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-23",
+    "posted_date": "2026-04-22",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1026,7 +1016,7 @@
     "title": "Global Medical Affairs Lead Genomic Profiling",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-14",
+    "posted_date": "2026-04-13",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -1064,7 +1054,7 @@
     "title": "Sr. Scientist - Computational Biology - Neuroscience & Rare Diseases",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-16",
+    "posted_date": "2026-04-15",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -1114,7 +1104,7 @@
     "title": "Post Doctorate Scientist – Vascularized Kidney Organoids - at the Institute of Human Biology (IHB)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-15",
+    "posted_date": "2026-04-14",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -1229,7 +1219,7 @@
     "title": "Senior Scientist microbiological Quality Control",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-04-21",
+    "posted_date": "2026-04-20",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -1249,7 +1239,7 @@
     "title": "​Sr Manager / Associate Director Regulatory Affairs - Swiss Affiliate",
     "company": "Gilead Sciences",
     "location": "Switzerland - Zug",
-    "posted_date": "2026-04-21",
+    "posted_date": "2026-04-20",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1265,7 +1255,7 @@
     "title": "Senior Scientist, Material Qualification and Release (QC GMP)",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-04-21",
+    "posted_date": "2026-04-20",
     "department": "",
     "score": -1,
     "matched_keywords": [
@@ -1297,7 +1287,7 @@
     "title": "2x Scientist - Technical Operations",
     "company": "CSL Behring / Vifor",
     "location": "EMEA, CH, Kanton Bern, Bern, CSL Behring",
-    "posted_date": "2026-04-22",
+    "posted_date": "2026-04-21",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1312,7 +1302,7 @@
     "title": "2x Scientist - Technical Operations",
     "company": "CSL Behring / Vifor",
     "location": "EMEA, CH, Kanton Bern, Bern, CSL Behring",
-    "posted_date": "2026-04-22",
+    "posted_date": "2026-04-21",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1362,7 +1352,7 @@
     "title": "Analytical Molecular Characterization Team Lead and Mass Spectrometry Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-23",
+    "posted_date": "2026-04-22",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1405,7 +1395,7 @@
     "title": "Internship in Global Medical Affairs (12 months)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-24",
+    "posted_date": "2026-04-23",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1422,7 +1412,7 @@
     "title": "Scientist, Tech Ops",
     "company": "CSL Behring / Vifor",
     "location": "EMEA, CH, Kanton Bern, Bern, CSL Behring",
-    "posted_date": "2026-04-24",
+    "posted_date": "2026-04-23",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1437,7 +1427,7 @@
     "title": "Scientist, Tech Ops",
     "company": "CSL Behring / Vifor",
     "location": "EMEA, CH, Kanton Bern, Bern, CSL Behring",
-    "posted_date": "2026-04-24",
+    "posted_date": "2026-04-23",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1452,7 +1442,7 @@
     "title": "Scientist, Tech Ops",
     "company": "CSL Behring / Vifor",
     "location": "EMEA, CH, Kanton Bern, Bern, CSL Behring",
-    "posted_date": "2026-04-24",
+    "posted_date": "2026-04-23",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1467,7 +1457,7 @@
     "title": "Scientist, Tech Ops",
     "company": "CSL Behring / Vifor",
     "location": "EMEA, CH, Kanton Bern, Bern, CSL Behring",
-    "posted_date": "2026-04-24",
+    "posted_date": "2026-04-23",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1492,7 +1482,7 @@
     "title": "Internship for Students of Computational Biology, Computational Chemistry,  Applied Mathematics (6 months)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-25",
+    "posted_date": "2026-04-24",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1561,7 +1551,7 @@
     "title": "Post Doctorate Scientist (IHB) - In Vitro Modeling Adaptive Immunologist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-25",
+    "posted_date": "2026-04-24",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -1584,7 +1574,7 @@
     "title": "Post Doctoral Scientist (IHB) - Computational Immunology",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-25",
+    "posted_date": "2026-04-24",
     "department": "",
     "score": 12,
     "matched_keywords": [
@@ -1620,7 +1610,7 @@
     "title": "International Medical Affairs Director Neuromuscular",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-04-28",
+    "posted_date": "2026-04-27",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1728,20 +1718,6 @@
     "external_url": "https://jobdetails.nestle.com/job/Konolfingen-Data-Science-Specialist/1381829433/",
     "status": "matched"
   },
-  "https://www.michaelpage.ch/job-detail/business-development-manager-defense-europe-mfd/ref/jn-122025-6902007": {
-    "external_url": "https://www.michaelpage.ch/job-detail/business-development-manager-defense-europe-mfd/ref/jn-122025-6902007",
-    "status": "ignored",
-    "title": "Business Development Manager - Defense Europe (m/f/d)",
-    "company": "Michael Page Switzerland",
-    "location": "Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": -2,
-    "matched_keywords": [],
-    "deducted_keywords": [
-      "location:Switzerland"
-    ]
-  },
   "https://api.smartrecruiters.com/v1/companies/Sobi/postings/744000123177810": {
     "description": "Manufacturing Science and Technology  (MSAT) is part of the Global CMC, Science & Technology Department (GCSAT). GCSAT is responsible for optimization and life cycle management of Sobis clinical and commercial manufacturing processes from internal and external network. MSAT ensures compliant, reliable, cost effective and sustainable manufacturing of our products now and in future. The MSAT team holds the senior scientific and technical knowledge for the manufacturing of Sobis clinical and commercial products and is responsible for always keeping the internal and external manufacturing processes in a validated stage. Main responsibilities: Process owner of DS validation for Sobi products. Lead and execute MSAT projects such as manufacturing process and cost improvement as part of LCM. Participate in internal activities related to (external) manufacturing such as process changes, major/critical deviations, risk assessments and CAPAs. Issue, review and approve applicable internal and external SOP’s and manufacturing instructions. Review and supervise set up, execution and documentation of technical studies, qualifications and validations. Write and review applicable sections of the APR/PQR. Write and review applicable sections in registration files, variations and market expansion. Support in sourcing evaluation of new DS contract manufacturers and participation in developing supply and quality agreements. Lead the technical part of a product transfer, scale up activities, validations and oversees manufacturing of DS processes at external manufacturers for Sobi projects in clinical and commercial phase. Be aware of external biopharmaceutical manufacturing technology advancements, understand and introduce new technologies and how they may be applicable to process innovation, cost or yield improvement",
     "external_url": "https://jobs.smartrecruiters.com/Sobi/744000123177810-msat-technical-lead-drug-substance-biologics?oga=true",
@@ -1754,7 +1730,7 @@
     "title": "Senior Scientist (Pathogen Safety Support)",
     "company": "CSL Behring / Vifor",
     "location": "EMEA, CH, Kanton Bern, Bern, CSL Behring",
-    "posted_date": "2026-04-30",
+    "posted_date": "",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1771,7 +1747,7 @@
     "title": "Senior Scientist (Pathogen Safety Support)",
     "company": "CSL Behring / Vifor",
     "location": "EMEA, CH, Kanton Bern, Bern, CSL Behring",
-    "posted_date": "2026-04-30",
+    "posted_date": "",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1812,7 +1788,7 @@
     "title": "Medical Science Liaison CVRM",
     "company": "AstraZeneca",
     "location": "Switzerland - Baar",
-    "posted_date": "2026-04-28",
+    "posted_date": "2026-04-27",
     "department": "",
     "score": -1,
     "matched_keywords": [
@@ -1842,48 +1818,12 @@
     "title": "Scientist (f/m/x) - Technical Operations",
     "company": "CSL Behring / Vifor",
     "location": "EMEA, CH, Kanton Bern, Bern, CSL Behring",
-    "posted_date": "",
+    "posted_date": "2026-04-28",
     "department": "",
     "score": 1,
     "matched_keywords": [
       "immunology"
     ],
-    "deducted_keywords": []
-  },
-  "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-clinical-medical-scientist-basel-stadt-871198/1": {
-    "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-clinical-medical-scientist-basel-stadt-871198/1",
-    "status": "ignored",
-    "title": "Clinical/Medical Scientist(m/f/d)",
-    "company": "Hays Switzerland",
-    "location": "Basel Stadt, Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": 0,
-    "matched_keywords": [],
-    "deducted_keywords": []
-  },
-  "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-clinical-scientist-basel-stadt-865510/1": {
-    "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-clinical-scientist-basel-stadt-865510/1",
-    "status": "ignored",
-    "title": "Clinical Scientist(m/f/d)",
-    "company": "Hays Switzerland",
-    "location": "Basel Stadt, Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": 0,
-    "matched_keywords": [],
-    "deducted_keywords": []
-  },
-  "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-qc-scientist-microbiology-lengnau-berne-864632/1": {
-    "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-qc-scientist-microbiology-lengnau-berne-864632/1",
-    "status": "ignored",
-    "title": "QC Scientist Microbiology(m/f/d)",
-    "company": "Hays Switzerland",
-    "location": "Lengnau, Berne, Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": 0,
-    "matched_keywords": [],
     "deducted_keywords": []
   },
   "/job/Basel-City/Global-Regulatory-Affairs-Director--Neuroscience-_REQ-10076200": {
@@ -1893,7 +1833,7 @@
     "title": "Global Regulatory Affairs Director (Neuroscience)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "",
+    "posted_date": "2026-04-28",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1960,7 +1900,7 @@
   },
   "https://www.michaelpage.ch/de/job-detail/business-development-specialist-100/ref/jn-032026-6968386?lang=en": {
     "external_url": "https://www.michaelpage.ch/de/job-detail/business-development-specialist-100/ref/jn-032026-6968386?lang=en",
-    "status": "matched",
+    "status": "ignored",
     "title": "Business Development Specialist (a) 100%",
     "company": "Michael Page Switzerland",
     "location": "Switzerland",
@@ -1971,5 +1911,48 @@
     "deducted_keywords": [
       "location:Switzerland"
     ]
+  },
+  "https://api.smartrecruiters.com/v1/companies/AbbVie/postings/3743990012886109": {
+    "description": "We’re expanding! The Senior Government Affairs Manager drives AbbVie’s strategic engagement with key Swiss healthcare policy makers, particularly in Bern. The role leverages a strong network of policy influencers and stakeholders to advance AbbVie’s priorities within the Swiss healthcare landscape. With a highly strategic and execution-driven mindset, the Senior Government Affairs Manager collaborates across functions such as Market Access, Government Affairs, Communications, Patient Relations, and Regulatory Affairs to design, communicate, and execute impactful programs and initiatives representing AbbVie’s interests. Key responsibilities: Shapes and leads proactive government affairs strategies to drive and guide the evolution of healthcare and pharmaceutical policy, ensuring alignment and advancement of AbbVie’s business objectives. Actively builds, maintains, and strengthens relationships with policy makers and senior stakeholders in Bern, frequently meeting and working with organizations including Interpharma, FMH, pharmaSuisse, Prio.Swiss, scienceindustries, Swissmedic, BAG, and other relevant Swiss healthcare bodies. Proactively forms partnerships and coalitions through regular engagement with senior representatives of current and potential partner organizations, positioning AbbVie as a collaborative and trusted partner in sector-wide discussions and initiatives. Possesses deep knowledge of the Swiss healthcare system and understands national policy-making mechanisms. Leads priority programs, represents AbbVie to third-party stakeholders and senior public officials, organizing ongoing briefings to inform General Manager’s involvement in trade associations. Organizes and guides strategic stakeholder meetings and events at the national level, with frequent direct interactions, policy dialogues in Bern, and active participation in regional relationship-building. Collaborates closely with Market Access, Communications, Patient Relations, Regulatory Affairs, and other key internal teams for cohesive execution.",
+    "external_url": "https://jobs.smartrecruiters.com/AbbVie/3743990012886109-senior-government-affairs-manager?oga=true",
+    "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000123867509": {
+    "description": "As an Experienced Project Graduate, you will contribute to quality control and strategic materials development at CERN. In collaboration with international partners and industry, you will investigate microstructure-property relationships, failure mechanisms, and the impact of processing conditions on the performance of materials and components for next-generation high-field accelerator magnets and ultra-high vacuum systems, among others. In particular, for the High-Field Magnet (HFM), you will carry out microscopy examination of Nb3Sn wire samples. Using state-of-the-art microscopy, microanalysis, and X-ray diffraction (XRD) techniques, you will characterise materials , support design optimisation, and help guide research directions within the Organization and international collaborative programs. Your responsibilities: Working with colleagues to design and conduct interdisciplinary studies in the field of materials science and engineering. Perform advanced materials characterisation using electron microscopy, microanalysis, and X-ray diffraction techniques. Investigate phase transformations, diffusion mechanisms, and microstructural evolution during manufacturing and processing. Assess production and fabrication techniques related to materials, based on international standards or state-of-the-art practices. Carry out quantitative image and data analysis to extract relevant microstructural parameters to correlate them to performance in demanding environments. Collaborate with internal teams, manufacturers, and research institutes to interpret results and guide development. Summarise findings and present results in technical meetings and reports. Your profile: Experience in electron microscopy and materials characterisation. Strong background in materials science, including phase equilibria and microstructure-property relationships. Ability to work in an interdisciplinary and international environment. Would be considered as an asset: Experience with superconducting materials and/or vacuum-compatible materials. Knowledge of fabrication techniques (including but not limited to welding, soldering, brasing, forming). Experience in surface analysis, coatings, or interface characterisation. Skills: Hands-on experience with electron microscopy techniques (SEM + EDX). Experience with EBSD, FIB, STEM, XRD (desirable). Data analysis and scripting (e.g. Python). Strong analytical thinking and problem-solving. Ability to work both independently and collaboratively. Clear communication and presentation skills. Good organisational skills to manage experimental campaigns. Electrical and magnetic test experience would be an advantage. Spoken and written English, with a commitment to learn French. Eligibility criteria: You are a national of a CERN Member or Associate Member State . You have a professional background in Materials Science/Engineering (or a related field) and have either: a Master's degree with 2 to 6 years of post-graduation professional experience; or a PhD with no more than 3 years of post-graduation professional experience. You have never had a CERN fellow or graduate contract before.",
+    "external_url": "https://jobs.smartrecruiters.com/CERN/744000123867509-applied-scientist-in-materials-engineering-en-mme-mm-2026-83-grap-?oga=true",
+    "status": "matched",
+    "title": "Applied Scientist in Materials Engineering (EN-MME-MM-2026-83-GRAP)",
+    "company": "CERN",
+    "location": "Geneva, Switzerland",
+    "posted_date": "2026-04-30",
+    "department": "Engineering",
+    "score": 7,
+    "matched_keywords": [
+      "French",
+      "Master's degree",
+      "PhD",
+      "location:geneva"
+    ],
+    "deducted_keywords": []
+  },
+  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000123902240": {
+    "description": "Introduction As an electromechanical technical engineer, you will engage in the major upgrades of the CMS experiment at CERN, leading modification and consolidation work on the infrastructure and electrical services for the CMS detector, both underground and on the surface of the experimental area. Your responsibilities will cover a wide range of activities, from dismantling and decommissioning to the reinstallation of electronic racks, electrical distribution systems, cooling piping, power and signal cables, and building renovation. You will also have a coordination role within the CMS technical coordination team, defining needs and resources, placing orders, and closely supervising the work performed by technical service teams and subcontractors. Functions Supervise and follow up on the decommissioning and subsequent reinstallation of electronics and power racks in the underground area, coordinating different teams. Manage infrastructure projects deployed progressively, including the installation of services such as power distribution, HVAC, and building renovation. Take responsibility for the coordination and validation of infrastructure works in both the underground and surface experimental areas of the CMS experiment. Organise the required technical support from central technical teams for each work package you lead. Prepare and maintain field operation planning. Perform day-to-day follow-up of site activities carried out by technical support teams and subcontractors. Monitor work progress, report to CMS experiment management, and adjust plans and resources as required. Support projects with logistical and operational assistance. Act as the territorial safety officer for underground and/or surface buildings.",
+    "external_url": "https://jobs.smartrecruiters.com/CERN/744000123902240-electromechanical-technical-engineer-for-the-cms-experiment-ep-cms-ic-2026-98-ld-?oga=true",
+    "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000123904429": {
+    "description": "Introduction: As a mechanical technician, you will contribute to upgrade projects of the CMS detector, covering a broad range of responsibilities. These include workshop-based mechanical work, installation of detector systems, and the design and use of tooling for the removal and installation of CMS sub-detectors, as well as radioprotection duties in experimental areas and associated laboratories. You will also take on coordination and operational responsibilities within the CMS Technical Coordination team, working closely with sub-detector groups and CMS technical support teams. Functions: Take responsibility for activities related to safety and radioprotection for subdetector removal and installation, working with CMS safety officers and subdetector teams, operating in radioprotection-classified areas, and applying safety rules. Manage a mechanical workshop, advising and assisting CMS subdetector teams, ensuring the availability and proper use of equipment and tools, and supplying consumables. Provide technical support and hands-on assistance to CMS subdetector project teams operating within the CMS laboratories at CERN, in the fields of mechanical manufacturing, assembly, structures, and welding. Take part in the development, testing, on-site installation, and on-detector operation of custom tooling for subdetectors, working with subdetector technical teams. Operate and maintain hydraulic, mechanical, and electromechanical systems. Organise and supervise the storage of subdetector equipment in CMS-reserved spaces at CERN, ensuring proper inventory and space management. Assist the territorial safety officer of the building where the mechanical workshop is located, supervising work requested on infrastructure for general safety, and using a mobile crane and forklift when needed. Serve as the technical contact for mechanical activities with subdetector teams and for space areas under your responsibility, reporting regularly to the Technical Coordination managers.",
+    "external_url": "https://jobs.smartrecruiters.com/CERN/744000123904429-mechanical-technician-for-cms-detector-upgrades-ep-cms-ic-2026-97-ld-?oga=true",
+    "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000123894429": {
+    "description": "We are looking for someone curious to learn new surface treatment processes. You will perform specialised surface finishing treatment using wet chemistry for our particle accelerators components. This will include for example degreasing and etching of various substrates (stainless steel, aluminium, copper, etc.) as well as electroplating (Au, Rh, Ag, Cu, etc.). Your responsibilities: Perform specialised surface finishing work as precision cleaning for mechanical components for vacuum applications, etching, electroplating and electroforming on prototype and series parts for the CERN accelerators. Participate in the maintenance and monitoring of the workshop and the waste water treatment plant. Document your work by written procedures and presentations. Participate in the development of new processes and their characterisation in the context of new CERN projects. Your profile: Initial exposure to surface finishing processes such as metal cleaning, etching, or electroplating (through studies, internships, traineeships, or early work experience). Basic knowledge of analytical chemistry for bath quality follow-up. First experience working in a laboratory, production, or technical environment is an advantage but not mandatory. Skills: Ability to follow established procedures and work instructions accurately. Basic capability to document work through test procedures and test reports (training provided). Safety and quality oriented working mindset. Good attention to detail and careful execution of tasks. Ability to work effectively as part of a team. Spoken and written English or French, with a commitment to learn the other language. Eligibility criteria: You are a national of a CERN Member or Associate Member State . By the application deadline, you have a maximum of two years of professional experience since graduation in Surface Finishing/Surface Treatment (or a related field) and your highest educational qualification is a general secondary education diploma . You have never had a CERN fellow or graduate contract before. Applicants with a Bachelor's, Master's or PhD degree are not eligible.",
+    "external_url": "https://jobs.smartrecruiters.com/CERN/744000123894429-surface-finishing-technician-te-vsc-scc-2026-131-grae-?oga=true",
+    "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/Sobi/postings/744000123888995": {
+    "description": "The IT department, a part of IS/IT, are responsible for architecture, strategy, maintenance and support of Sobi information systems and IT infrastructure as clients, servers, network and other infrastructure equipment. The IT department consist of four teams – IT Operations, Infrastructure & Cyber security, Digital Workplace and Automation & Integration.All IT activities are performed in accordance with Sobi’s quality framework (GxP) and applicable regulatory and authority requirements. Within this context, the Digital Workplace & AI function plays a key role in enabling secure, compliant, and scalable digital solutions across Sobi. Under the leadership of the Head of Digital Workplace & AI, the team is responsible for developing and advancing Sobi’s Digital Workplace, Microsoft 365 platform, and enterprise AI capabilities. This includes setting strategic direction, defining objectives, and delivering modern, AI-enabled tools that support collaboration, productivity, and innovation across the organization. Main responsibilities: Develop and maintain enterprise-grade AI applications built on Azure OpenAI, including chat interfaces, document processing pipelines (RAG), and real-time collaboration features Design and implement Azure cloud solutions leveraging Azure Cosmos DB, Azure Cognitive Search, Azure Blob Storage, Azure Document Intelligence, and Azure AI Search Build and optimize full-stack applications using Next.js 14, React 18, TypeScript, and modern frontend/backend patterns (App Router, Server Components, Server Actions) Optimize AI/LLM integrations, including prompt engineering, token management, streaming completions, and multi-model AI orchestration Ensure code quality, security, and compliance through code reviews, testing, documentation, and adherence to Sobi's quality framework (GxP) Work proactively with ServiceNow to resolve incoming bug reports and other issues",
+    "external_url": "https://jobs.smartrecruiters.com/Sobi/744000123888995-it-operations-manager-full-stack-developer-azure-ai?oga=true",
+    "status": "matched"
   }
 }
