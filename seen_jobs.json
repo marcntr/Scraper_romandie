@@ -88,7 +88,7 @@
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-04-22"
+    "cached_at": "2026-04-30"
   },
   "_facets:roche:roche-ext": {
     "facets": {},
@@ -96,7 +96,7 @@
       "Basel",
       "Kaiseraugst"
     ],
-    "cached_at": "2026-04-22"
+    "cached_at": "2026-04-30"
   },
   "_facets:novartis:Novartis_Careers": {
     "facets": {},
@@ -651,22 +651,6 @@
     ],
     "deducted_keywords": []
   },
-  "/job/Basel/Machine-Learning-Scientist_202602-105076-1": {
-    "description": "At Roche you can show up as yourself, embraced for the unique qualities you bring. Our culture encourages personal expression, open dialogue, and genuine connections,  where you are valued, accepted and respected for who you are, allowing you to thrive both personally and professionally. This is how we aim to prevent, stop and cure diseases and ensure everyone has access to healthcare today and for generations to come. Join Roche, where every voice matters. The Position Advances in AI, data, and computational sciences are transforming drug discovery and development. Roche’s Research and Early Development organisations at Genentech ( gRED ) and Pharma ( pRED ) have demonstrated how these technologies accelerate R&D, leveraging data and novel computational models to drive impact. Seamless data sharing and access to models across gRED and pRED are essential to maximising these opportunities. The new Computational Sciences Center of Excellence (CoE) is a strategic, unified group whose goal is to harness the transformative power of data and Artificial Intelligence (AI) to assist our scientists in both pRED and gRED to deliver more innovative and transformative medicines for patients worldwide. ​ The Structure-Function ML group in Basel within Prescient Design (AI4DD), CoE ,  a division devoted to developing machine learning-based methods for de novo antibody design, seeks exceptional researchers who have a demonstrated research background in machine learning and protein structural biology and design, a passion for independent research and technical problem-solving, and a proven ability to develop and implement ideas from research into production. The Opportunity We are looking for talented ML Scientists to join Prescient Design/AI4DD. The successful candidate will contribute to our antibody design efforts, partner with biologists, technologists and drug discoverers to develop new machine learning methods for de novo protein design with special application to protein therapeutics. You will: Develop cutting-edge machine learning methods for modeling biological data, focusing on structural biology. Deliver deep learning-based software solutions that accelerate drug discovery and therapeutic development in support of our de novo antibody design and lab-in-the-loop efforts. Collaborate with AI/ML scientists and form close working relationships with global research teams. Write structured, tested, and maintainable code while participating in proactive code reviews. Actively shape and contribute to our collaborative and innovative team culture. Partner with biologists and technologists to develop new methods for de novo protein design. Who you are You hold an M.S. or PhD in Computer Science, Statistics, Physics, or a related technical field and p ossess 1+ years of hands-on experience designing and training machine learning models on large datasets. You are proficient in Python and at least one deep learning framework like PyTorch, TensorFlow, or JAX. You have experience with using MLOps frameworks like Hydra and Weights & Biases. You have a public portfolio of computational projects (available on e.g. GitHub) You have demonstrated experience with modern techniques, including geometric deep learning or sequence models. You bring prior experience or familiarity working with antibody sequence and structure data, which is a plus. You are an excellent communicator, fluent in English, with a passion for driving projects in cross-functional environments. Ready to take the next step? We'd love to hear from you. Apply now to explore this exciting opportunity! Who we are A healthier future drives us to innovate. Together, more than 100’000 employees across the globe are dedicated to advance science, ensuring everyone has access to healthcare today and for generations to come. Our efforts result in more than 26 million people treated with our medicines and over 30 billion tests conducted using our Diagnostics products. We empower each other to explore new possibilities, foster creativity, and keep our ambitions high, so we can deliver life-changing healthcare solutions that make a global impact. Let’s build a healthier future, together. Roche is an Equal Opportunity Employer.",
-    "external_url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Machine-Learning-Scientist_202602-105076-1",
-    "status": "ignored",
-    "title": "Machine Learning Scientist",
-    "company": "Roche",
-    "location": "Basel",
-    "posted_date": "2026-03-30",
-    "department": "",
-    "score": 2,
-    "matched_keywords": [
-      "PhD",
-      "drug discovery"
-    ],
-    "deducted_keywords": []
-  },
   "/job/Basel/Senior---Principal-Scientist-in-Pharmaceutical-Development-of-Synthetic-Molecules--Drug-Product-_202603-105578-1": {
     "description": "At Roche you can show up as yourself, embraced for the unique qualities you bring. Our culture encourages personal expression, open dialogue, and genuine connections,  where you are valued, accepted and respected for who you are, allowing you to thrive both personally and professionally. This is how we aim to prevent, stop and cure diseases and ensure everyone has access to healthcare today and for generations to come. Join Roche, where every voice matters. The Position In PTD, we collaborate to develop robust manufacturing processes and quality control systems to efficiently transform scientific ideas into products. We reliably deliver quality products to patients enrolled in clinical studies around the world. We excel in our work by creating an engaging and inclusive environment where everyone can bring their skills and talents to developing innovative medicines. This position is part of the Synthetic Molecule Pharmaceutical and Solid State Development organisation (PTDC-P). Within PTDC-P, we transform molecules to medicines through particle engineering, and develop and deliver customised clinical formulations and robust commercial drug products that benefit patients. The Opportunity As a Senior Scientist / Principal Scientist in Drug Product Development, you are responsible for developing robust formulations and lean manufacturing processes for oral dosage forms of new chemical entities. In this position, you work closely with international teams, including scientists and management from other disciplines (chemistry, analytics, quality, regulatory, and commercial production), and you represent the department on technical development teams (CMC) and scientific boards. Furthermore, you are driving scientific initiatives to ensure the department's scientific and technical excellence. The main responsibilities of this challenging position include: Development and optimisation of clinical as well as commercial formulations and manufacturing processes for oral solid drug products using various manufacturing technologies (i.e. batch and continuous mode), including the scale-up and transfers to commercial manufacturing sites to facilitate the successful process validation at the sites. Development and implementation of new and innovative drug delivery technologies that can be applied in regular portfolio projects. Application of statistical tools (e.g. DoEs), risk assessment tools for QbD (e.g. QRA, FMEA) and Modelling and Simulation tools. Regular review of scientific literature to extract relevant trends and integrate innovative concepts and technologies in the scientific strategy of the department. Active participation in scientific teams at Roche as well as external consortia. Authorship and review of technical reports, manufacturing instructions, process validation documents, and the CMC parts of regulatory submissions to support market authorisation. Contributing actively to the intellectual property values protection of our Roche products. Active sharing of own knowledge/experience with other scientists in regular exchange meetings and as a project consultant or mentor. Who you are You hold a PhD or Master’s in Pharmaceutical Technology or Chemical/Process Engineering, backed by 5–10 years of experience in the development of oral dosage forms. You possess broad expertise in the drug product lifecycle, including the authorship of CMC regulatory dossiers and a preference for direct, professional interaction with health authorities. You excel at managing external partnerships, demonstrating a strong ability to lead and collaborate effectively with CDMOs. You are a results-driven innovator who applies \"out of the box\" thinking to implement technical solutions and remains highly adaptable to organisational change. You combine a coaching mindset with excellent communication skills, thriving as a fair team player who can work both independently and cross-functionally. You demonstrate a high degree of professional flexibility, including a willingness to travel occasionally to meet project and stakeholder needs. Unwavering focus, collaborative teamwork and exceptional delivery are key behaviours that drive our mission of doing now, what patients need next. Together, we can be transformative. If you are passionate about contributing to a committed team and have the dedication to partnership and innovation, Roche is the place for you! Every role at Roche plays a part in making a difference in patients’ lives. Apply now and join us in making an impact! Please submit a CV and a Cover Letter to complete your application. Who we are A healthier future drives us to innovate. Together, more than 100’000 employees across the globe are dedicated to advance science, ensuring everyone has access to healthcare today and for generations to come. Our efforts result in more than 26 million people treated with our medicines and over 30 billion tests conducted using our Diagnostics products. We empower each other to explore new possibilities, foster creativity, and keep our ambitions high, so we can deliver life-changing healthcare solutions that make a global impact. Let’s build a healthier future, together. Roche is an Equal Opportunity Employer.",
     "external_url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Senior---Principal-Scientist-in-Pharmaceutical-Development-of-Synthetic-Molecules--Drug-Product-_202603-105578-1",
@@ -679,7 +663,7 @@
     "title": "Post Doctorate Scientist in Intestinal Inflammation - at the Institute of Human Biology (IHB)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-03-30",
+    "posted_date": "2026-03-31",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -794,11 +778,6 @@
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000118184655": {
     "description": "What you'll do You will spend up to 36 months working on your doctoral thesis in a truly unique environment where science, technology and innovation meet. You’ll be part of an international community of experts, gaining experience at the forefront of research and engineering. Your responsibilities · Carry out your doctoral research in collaboration with CERN and your home university. · Contribute to ongoing projects in domains such as applied physics, computing, engineering or related technical fields. · Present and document your work as part of your academic and research objectives. · Learn from and work alongside world-class scientists, engineers and technicians within an international and multidisciplinary team. Your profile · Your field of study is in Applied Physics, Engineering, Computing, or a related area. · You are motivated to develop your research in a hands-on, collaborative and innovative environment. · You enjoy teamwork and learning from others in a collaborative setting. Your skills · Solid theoretical foundation in your research area, combined with an interest in practical applications. · Curiosity, precision and a proactive attitude towards learning. · Good communication skills and ability to work effectively in a multicultural team.",
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000118184655-doctoral-student-programme-2026-3?oga=true",
-    "status": "matched"
-  },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000118163888": {
-    "description": "The project focuses on advanced beam dynamics studies. Building on beam tests at the LHC completed in 2025 as part of the TWOCRYST experiment, the work will analyse data from a fixed-target setup using bent crystals. You will support studies for a future experiment, including evaluating required machine modifications and timelines. Working with detector and instrumentation teams, you will investigate beam-matter interactions, crystal channeling, and background sources. After additional data-taking in 2026, you will analyse beam measurements and assess future performance, combining modelling, simulation, and experimental data contributing to the Physics Beyond Colliders initiative at CERN. Your responsibilities: Beam dynamics simulation of beam loss and collimation process. Data analysis of past and future LHC data collected with the double-crystal setup. Design of future layouts for future fixed-target setups. Your profile: Knowledge of Accelerator Physics in particular linear and non-linear beam dynamics. Experience with computing techniques for Accelerator Physics. Skills: Strong programming and scripting skills (e.g. Python, C++, or equivalent scientific computing languages). Ability to work independently on challenging technical topics while engaging effectively with a wider modelling community. Interest in beam collimation and beam loss studies for accelerators. Interest in contribution to design studies for future LHC fixed-target experiments. Spoken and written English or French, with a commitment to learn the basics of the other language. Eligibility criteria: You are a national of a CERN Member or Associate Member State . You have a professional background in Physics, Engineering (or a related field) and have either: a Master's degree with 2 to 6 years of post-graduation professional experience; or a PhD with no more than 3 years of post-graduation professional experience. You have never had a CERN fellow or graduate contract before.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000118163888-accelerator-physicist-be-abp-ndc-2026-77-grap-?oga=true",
     "status": "matched"
   },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000118196747": {
@@ -932,7 +911,7 @@
     "title": "Project Manager – Spatial Biology Product Development (8-9 months contract)",
     "company": "Bio-Techne / Lunaphore",
     "location": "Tolochenaz, Switzerland",
-    "posted_date": "2026-04-07",
+    "posted_date": "2026-04-08",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -961,7 +940,7 @@
     "title": "Computational Biology - Oncology",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-08",
+    "posted_date": "2026-04-09",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -1002,7 +981,7 @@
     "title": "Praktikum in Innovation & Nachhaltigkeit - Für Studierende in den Bereichen Informatik, Wirtschaftsinformatik, Data Science, Statistik, Mathematik oder Business Analytics",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-22",
+    "posted_date": "2026-04-23",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1047,7 +1026,7 @@
     "title": "Global Medical Affairs Lead Genomic Profiling",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-13",
+    "posted_date": "2026-04-14",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -1085,7 +1064,7 @@
     "title": "Sr. Scientist - Computational Biology - Neuroscience & Rare Diseases",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-15",
+    "posted_date": "2026-04-16",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -1135,7 +1114,7 @@
     "title": "Post Doctorate Scientist – Vascularized Kidney Organoids - at the Institute of Human Biology (IHB)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-14",
+    "posted_date": "2026-04-15",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -1383,7 +1362,7 @@
     "title": "Analytical Molecular Characterization Team Lead and Mass Spectrometry Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-22",
+    "posted_date": "2026-04-23",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1426,7 +1405,7 @@
     "title": "Internship in Global Medical Affairs (12 months)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-23",
+    "posted_date": "2026-04-24",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1513,7 +1492,7 @@
     "title": "Internship for Students of Computational Biology, Computational Chemistry,  Applied Mathematics (6 months)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-24",
+    "posted_date": "2026-04-25",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1582,7 +1561,7 @@
     "title": "Post Doctorate Scientist (IHB) - In Vitro Modeling Adaptive Immunologist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-24",
+    "posted_date": "2026-04-25",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -1605,7 +1584,7 @@
     "title": "Post Doctoral Scientist (IHB) - Computational Immunology",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-24",
+    "posted_date": "2026-04-25",
     "department": "",
     "score": 12,
     "matched_keywords": [
@@ -1969,6 +1948,20 @@
     "external_url": "https://www.michaelpage.ch/job-detail/fund-portfolio-coordinator-9-months/ref/jn-042026-6999523",
     "status": "ignored",
     "title": "Fund Portfolio Coordinator for 9 months",
+    "company": "Michael Page Switzerland",
+    "location": "Switzerland",
+    "posted_date": "",
+    "department": "",
+    "score": -2,
+    "matched_keywords": [],
+    "deducted_keywords": [
+      "location:Switzerland"
+    ]
+  },
+  "https://www.michaelpage.ch/de/job-detail/business-development-specialist-100/ref/jn-032026-6968386?lang=en": {
+    "external_url": "https://www.michaelpage.ch/de/job-detail/business-development-specialist-100/ref/jn-032026-6968386?lang=en",
+    "status": "matched",
+    "title": "Business Development Specialist (a) 100%",
     "company": "Michael Page Switzerland",
     "location": "Switzerland",
     "posted_date": "",
