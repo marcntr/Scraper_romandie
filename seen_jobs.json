@@ -658,7 +658,7 @@
     "title": "Post Doctorate Scientist in Intestinal Inflammation - at the Institute of Human Biology (IHB)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-03-31",
+    "posted_date": "2026-04-01",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -680,16 +680,6 @@
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000117800787": {
     "description": "You will join the team working on oil-filled and cast-resin transformers for power converter applications. You will contribute to an ongoing renovation program aimed at progressively replacing oil-filled transformers with modern cast-resin transformers, driven by environmental considerations. The role is hands-on and site-based, involving close interaction with equipment in operation. You will collaborate closely with a team of engineers, technicians, and external contractors for the integration of transformers within complex power converter systems. The role also offers you exposure to advanced low-voltage and medium-voltage power systems, and it provides you with many opportunities to further develop your practical and diagnostic skills in a high-level technical environment. Your responsibilities Support installation and commissioning activities for new or refurbished transformers, including verification of protection, control, and interlock circuits. Contribute to the integration of transformers into upgraded power converter systems, ensuring correct connection and compatibility with control and protection equipment. Prepare basic 3D mechanical drawings or layouts for simple integration tasks when required. Contribute to technical documentation: electrical diagrams, test reports, installation procedures, and equipment inventory updates. Perform routine inspections, diagnostics and functional tests of oil-filled and cast-resin transformers. Carry out preventive and corrective maintenance activities on transformers. Your profile Initial experience working in electrical installations (low and/or high voltage). Initial experience in operation and maintenance of electrical systems and equipment. Practical experience with troubleshooting and diagnostics of electrical installations is considered an asset. Experience in the field of power transformers is an advantage. Skills Electrical safety awareness. Ability to read and understand electrical schematics and simple mechanical drawings. Familiarity with electrical measurements (multimeter, insulation tester, oscilloscope). Ability to work hands-on on site, in collaboration with technicians, engineers and contractors. Basic knowledge of 3D CAD tools is an asset. Spoken and written English, with a commitment to learn French. Eligibility criteria: You are a national of a CERN Member or Associate Member State . By the application deadline, you have a maximum of two years of professional experience since graduation in Electricity (or a related field) and your highest educational qualification is a general secondary education diploma . You have never had a CERN fellow or graduate contract before. Applicants with a Bachelor's, Master's or PhD degree are not eligible.",
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000117800787-electrical-technician-power-transformers-sy-epc-hpc-2026-95-grae-?oga=true",
-    "status": "matched"
-  },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000118110929": {
-    "description": "The operation of the Large Hadron Collider (LHC) relies on thousands of superconducting magnets, which are powered in more than 1500 circuits. Ensuring the safe functionality of the magnet circuit protection and interlock systems is a critical aspect of the LHC hardware commissioning. As part of the Signal Monitoring (SigMon) project, you will design and develop Python-based software tools to automate large-scale data analysis. A strong focus is placed on modern software engineering practices, including continuous integration and testing within GitLab to ensure robust, maintainable and high-quality code. The role involves processing, analysing and visualising large datasets generated during hardware commissioning campaigns. Your responsibilities: Contribute to the development of automated data analysis tools using Python. Support the improvement and modernisation of software used for superconducting circuit and magnet protection analysis. Assist in building and maintaining web-based tools for storing and visualising analysis results. Participate in implementing automated testing and continuous integration workflows. Collaborate with team members through code reviews and shared development practices. Work closely with experts from diverse technical and cultural backgrounds. Your profile: Experience with Python development. Experience with GitLab (including version control and CI/CD workflows). Experience with data analysis and/or machine learning. Familiarity with JavaScript, HTML and Node.js. Skills: Proficiency in Python. Proficiency in GitLab. Good knowledge of Jupyter notebooks. Familiarity with JavaScript, HTML and Node.js. Experience in machine learning is considered a plus, but not mandatory. Spoken and written English or French, with a commitment to learn the basics of the other language. Eligibility criteria: You are a national of a CERN Member or Associate Member State . By the application deadline, you have a maximum of two years of professional experience since graduation in Data Science, Data Analytics, Computing (or a related field) and your highest educational qualification is either a Bachelor's or Master's degree . You have never had a CERN fellow or graduate contract before. Applicants without University degree are not eligible. Applicants with a PhD are not eligible.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000118110929-junior-software-engineer-data-analysis-automation-te-mpe-pe-2026-93-grae-?oga=true",
-    "status": "matched"
-  },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000118090747": {
-    "description": "The safe operation of superconducting magnet circuits for the High-Luminosity Large Hadron Collider (HL-LHC) relies on rigorous electrical qualification, both at room temperature and at cryogenic conditions (1.9 K). As part of the team, you will contribute to a variety of electrical test campaigns. This role offers an excellent opportunity for recent graduates or early-career engineers to gain hands-on experience in a highly collaborative, international research environment. You will be supported by experienced colleagues and encouraged to develop both your technical and analytical skills. Your responsibilities Participate in the preparation and execution of electrical tests on HL-LHC magnets, interconnections, components, and circuits in test facilities. Contribute to the improvement and documentation of test procedures. Support the investigation of non-conformities through fault diagnostics and data analysis. Assist in collecting, organising, and analysing electrical qualification data from internal teams and external collaborators. Process, analyse, and visualise measurement data from superconducting circuits. Your profile Familiarity with one or more of the following areas: Design or use of electrical test setups or laboratory equipment. Basic commissioning or maintenance of electrical systems. Electrical measurements and instrumentation. Data analysis, including introductory statistical methods. High-voltage testing or electrical integrity checks. Programming (e.g. Python, LabVIEW). Data management (e.g. SQL or databases). Technical documentation or report writing. Exposure to superconducting systems or cryogenic environments is nice to have. Experience developing measurement methods or test equipment is nice to have. Skills Interest in electrical testing and measurement techniques. Analytical thinking and problem-solving skills. Basic knowledge of data acquisition and signal analysis. Willingness to learn new tools and technologies. Spoken and written English or French, with a commitment to learn the basics of the other language. Eligibility criteria: You are a national of a CERN Member or Associate Member State . By the application deadline, you have a maximum of two years of professional experience since graduation in Electrical Engineering (or a related field) and your highest educational qualification is either a Bachelor's or Master's degree . You have never had a CERN fellow or graduate contract before. Applicants without University degree are not eligible. Applicants with a PhD are not eligible.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000118090747-electrical-engineer-quality-assurance-te-mpe-pe-2026-92-grae-?oga=true",
     "status": "matched"
   },
   "/job/Lengnau-Switzerland/Scientist---QC-Lab-Systems---CSV--GMP-_R-01347540": {
@@ -775,11 +765,6 @@
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000118377667-lead-experimental-particle-physicist-ep-fcc-2026-83-ld-?oga=true",
     "status": "matched"
   },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000118368582": {
-    "description": "Introduction Join CERN and lead the Security Service of the world’s largest particle physics laboratory. In this key leadership role within the Site and Civil Engineering (SCE) Department, you will shape and implement the Organisation’s security strategy, ensuring the protection of people, assets, and infrastructure across sites in France and Switzerland. This position offers a unique opportunity to contribute to a mission-driven, international environment where operational excellence and strategic foresight go hand in hand. Functions Define, maintain, and continuously develop CERN’s overall security strategy, preparing proposals and recommendations for the Directorate. Lead and organize the Security Service, ensuring effective team management, clear allocation of responsibilities, performance monitoring, and prioritisation of activities. Develop, obtain approval for, and oversee the implementation of CERN’s security policy, including principles governing site access rights. Plan, validate, and supervise special security arrangements for high-level visits and major events (e.g. official delegations, anniversaries, open days), ensuring appropriate prioritisation of resources. Represent the Security Service internally and externally, working closely with key internal and external stakeholders. Define the contractual strategy for security services, including the preparation, issuance, and lifecycle management of tenders and contracts, ensuring performance monitoring, service quality, continuous improvement, and compliance with agreed standards. Define security requirements and provide recommendations for new infrastructures and major renovation projects, including critical installations, while ensuring continuous monitoring of developments in security technologies, methodologies, and equipment, and proposing improvements adapted to CERN’s environment.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000118368582-head-of-security-sce-dho-2026-77-ld-?oga=true",
-    "status": "matched"
-  },
   "/job/Switzerland---Zurich/Manager-Quality-System---Regulatory-Compliance_31146008-1": {
     "description": "JOB DESCRIPTION: Thoratec Switzerland GmbH , part of Abbott Laboratories , is a global leader in implantable and extracorporeal blood pump systems. Our lifesaving medical devices, developed and manufactured at our Zurich site, support patients with severe heart disease worldwide. Our Zurich team of approximately 150 colleagues brings together expertise across R&D, manufacturing, quality, and regulatory functions. As we continue to expand our innovative and high-impact work, we are looking for an experienced Manager Quality System & Regulatory Compliance who is motivated by purpose, collaboration, and continuous improvement. The Role In this role, you will shape and strengthen our Quality Management Systems while leading and developing a team of Quality System specialists. You will work closely with colleagues across Operations, R&D, Engineering, and Regulatory Affairs to ensure our products and processes meet the highest regulatory and quality standards — always with patient safety at the center. This position offers the opportunity to combine people leadership, strategic influence, and hands-on quality expertise in a global, regulated medical device environment. What You’ll Do Lead & Inspire Lead, support, and develop a team of Quality System specialists, setting clear goals aligned with company objectives and regulatory requirements Foster a collaborative, inclusive, and accountable team environment Support performance development through coaching, feedback, and training Quality & Compliance Leadership Ensure effective execution and continuous improvement of the site’s Quality Management Systems Maintain compliance with applicable international standards and regulations (e.g. ISO 13485, FDA QSR, EU MDR) Prepare and support the site during external audits and regulatory inspections (e.g. FDA, Notified Bodies) Act as a key quality partner for Operations, R&D, Engineering, and Regulatory Affairs Continuous Improvement & Problem Solving Identify opportunities to improve processes, compliance, and efficiency across the organization Lead or contribute to global quality improvement initiatives Own and drive corrective and preventive actions (CAPA), including root cause analysis and sustainable solutions Collaboration & Communication Operate effectively in a matrixed, international environment Build trusted relationships with global and regional stakeholders Communicate clearly and confidently across technical and non‑technical audiences Your Expertise Required Master’s degree in science, engineering, or another relevant technical discipline 3–5 years of experience in quality systems within the medical device industry (or similarly regulated environment) Strong working knowledge of ISO 13485, FDA 21 CFR Part 820, EU MDD/MDR, MDSAP Experience leading teams or guiding others in a regulated setting Strong communication skills in English and German What Helps You Succeed You balance attention to detail with a pragmatic, solution‑oriented mindset You enjoy developing people and helping teams perform at their best You are comfortable influencing in a matrix organization You value high ethical standards and taking ownership I f you don’t meet every requirement but believe this role is a strong fit for your experience and aspirations, we encourage you to apply. What We Offer Meaningful work that directly impacts patient lives A stable and growing company in a resilient industry A collaborative, respectful, and international working environment Flat hierarchies with open and transparent communication Opportunities for personal and professional development within Abbott A modern workplace in the center of Zurich, with R&D and manufacturing on site Ready to Apply? We look forward to receiving your application (CV and motivation letter in PDF format). All qualified applicants are encouraged to apply — we value diversity and believe it strengthens our teams and our impact. The base pay for this position is N/A In specific locations, the pay range may vary from the range posted. JOB FAMILY: Operations Quality DIVISION: HF Heart Failure LOCATION: Switzerland : Technoparkstrass 1 CH 8005 ADDITIONAL LOCATIONS: WORK SHIFT: Standard TRAVEL: Yes, 10 % of the Time MEDICAL SURVEILLANCE: Not Applicable SIGNIFICANT WORK ACTIVITIES: Not Applicable",
     "external_url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Switzerland---Zurich/Manager-Quality-System---Regulatory-Compliance_31146008-1",
@@ -787,7 +772,7 @@
     "title": "Manager Quality System & Regulatory Compliance",
     "company": "Abbott",
     "location": "Switzerland - Zurich",
-    "posted_date": "2026-04-02",
+    "posted_date": "2026-04-03",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -896,7 +881,7 @@
     "title": "Project Manager – Spatial Biology Product Development (8-9 months contract)",
     "company": "Bio-Techne / Lunaphore",
     "location": "Tolochenaz, Switzerland",
-    "posted_date": "2026-04-07",
+    "posted_date": "2026-04-08",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -925,7 +910,7 @@
     "title": "Computational Biology - Oncology",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-08",
+    "posted_date": "2026-04-09",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -966,7 +951,7 @@
     "title": "Praktikum in Innovation & Nachhaltigkeit - Für Studierende in den Bereichen Informatik, Wirtschaftsinformatik, Data Science, Statistik, Mathematik oder Business Analytics",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-22",
+    "posted_date": "2026-04-23",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1011,7 +996,7 @@
     "title": "Global Medical Affairs Lead Genomic Profiling",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-13",
+    "posted_date": "2026-04-14",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -1044,7 +1029,7 @@
     "title": "Sr. Scientist - Computational Biology - Neuroscience & Rare Diseases",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-15",
+    "posted_date": "2026-04-16",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -1094,7 +1079,7 @@
     "title": "Post Doctorate Scientist – Vascularized Kidney Organoids - at the Institute of Human Biology (IHB)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-14",
+    "posted_date": "2026-04-15",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -1134,11 +1119,6 @@
   "/job/Basel/Principal-Real-World-Data-Scientist_202604-109153-1": {
     "description": "At Roche you can show up as yourself, embraced for the unique qualities you bring. Our culture encourages personal expression, open dialogue, and genuine connections,  where you are valued, accepted and respected for who you are, allowing you to thrive both personally and professionally. This is how we aim to prevent, stop and cure diseases and ensure everyone has access to healthcare today and for generations to come. Join Roche, where every voice matters. The Position A healthier future. It’s what drives us to innovate. To continuously advance science and ensure everyone has access to the healthcare they need today and for generations to come. Creating a world where we all have more time with the people we love. That’s what makes us Roche. In Roche's Research and Early Development organisations, we make transformative medicines for patients in order to tackle some of the world’s toughest unmet healthcare needs. We are united by our mission to transform science into medicines. Together, we create a culture defined by curiosity, responsibility and humility, where our talented people are empowered and inspired to bring forward extraordinary life-changing innovation at speed. The Computational Sciences Centre of Excellence is a global organisation enabling Roche’s Research and Early Development units (pRED and gRED) to become more data-driven, more digitally adept and better prepared for the challenges of the future. Within the Computational Sciences Centre of Excellence, Computational Medicine focuses on developing and applying innovative data analysis solutions to support clinical development furthering our understanding of disease, disease progression, and individual patient’s response to treatment by having access to the largest Pharma R&D datasets in the world. In partnership with our scientists across pRED and gRED, we create better medicines by augmenting every part of R&D through our data-driven culture. The Opportunity: This position will focus on delivering world-leading real-world data (RWD) analytical capabilities at scale. You will play a senior scientific role within the Real World Data Insights team in Computational Medicine. Together with other real-world data experts and collaboration partners, you will lead the design and execution of complex, high-impact RWD studies, improving our understanding of disease biology, informing biomarker strategies and generating actionable insights into patient populations and treatment outcome prediction. You will drive the integration of diverse real-world data sources (e.g., EHR, claims, registries, and linked datasets) and apply advanced analytical approaches to inform clinical development decisions. You will influence and optimize study designs, patient eligibility criteria, and endpoint strategies, ensuring that RWD is effectively leveraged across the drug development lifecycle. You will operate as a trusted strategic partner to senior stakeholders, translating complex analytical findings into impactful decisions. As part of the Computational Biology and Medicine department, you will contribute to the broader scientific and technical strategy, drawing on global expertise and driving best practices in RWD analysis. You will also play a key role in mentoring and developing talent, and establishing methodological standards and scalable analytical solutions. The Real World Data Insights team is collectively accountable for delivering critical insights for the portfolio. Your success is measured not only by your individual contributions but by your ability to lead, influence, and drive impact across teams and the broader organization, delivering high-value insights for the portfolio and ultimately for patients. In this role you will: Strategic Decision Support: Lead the design and execution of complex data analyses to guide investment and clinical decisions across early-phase programs. Methodological Excellence: Ensure all RWD outputs are reproducible, statistically rigorous, and built using scalable, reusable analytical frameworks. Innovative Trial Design: Utilize RWD to optimize Phase I/II settings through cohort definition, endpoint exploration, and the development of external control arms. Precision Medicine Integration: Combine RWD with biomarker and omics data to map patient trajectories and enable targeted, personalized treatment approaches. Team Mentorship: Act as a technical and scientific lead to develop junior talent and foster a high-performing, collaborative research culture. Cross-Functional Partnership: Serve as a trusted scientific liaison between data functions and clinical stakeholders to align evidence generation with portfolio priorities. Who you are: A PhD in Epidemiology, Biostatistics, Data Science, Bioinformatics, or a related field with 3+ years of experience applying real-world data analysis in pharmaceutical R&D or healthcare is required. Deep, hands-on expertise in real-world data analysis, with a strong focus on delivering impactful insights in early development applications, and strong understanding of disease biology and clinical development is required. Proven ability to connect data insights to decision-making is required. Solid programming skills in R and/or python, advanced AI/ML literacy, applied biostatistics, and strong expertise in data integration and visualisation is required. Deep familiarity with real-world data sources (e.g., EHR, claims, registries) and their strengths, limitations, and appropriate use in different research contexts is required. Demonstrable evidence of contributing to high-performing and multidisciplinary teams, and experience mentoring and developing others is preferred. Strong communication skills, with the ability to translate complex analyses into clear, actionable insights for diverse audiences is preferred. Demonstrated ability to build collaborative, trust-based relationships across functions and within the broader corporate ecosystem is preferred. Unwavering focus, collaborative teamwork, and exceptional delivery are key behaviors that drive our mission of doing now what patients need next. Together, we can be transformative. If you are passionate about contributing to a committed team and have the dedication to partnership and innovation, Roche is the place for you! Every role at Roche plays a part in making a difference in patients’ lives. Apply now and join us in making an impact! #ComputationCoE Who we are A healthier future drives us to innovate. Together, more than 100’000 employees across the globe are dedicated to advance science, ensuring everyone has access to healthcare today and for generations to come. Our efforts result in more than 26 million people treated with our medicines and over 30 billion tests conducted using our Diagnostics products. We empower each other to explore new possibilities, foster creativity, and keep our ambitions high, so we can deliver life-changing healthcare solutions that make a global impact. Let’s build a healthier future, together. Roche is an Equal Opportunity Employer.",
     "external_url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Principal-Real-World-Data-Scientist_202604-109153-1",
-    "status": "matched"
-  },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000121460417": {
-    "description": "In this role, you will contribute to the development of next-generation readout and control systems for the LHCb experiment, focusing on FPGA gateware and low-level embedded software in both bare-metal and Linux environments. You will participate in the design, implementation and testing of scalable and high-performance solutions that interface with detector electronics and data acquisition systems. Through this work, you will help evolve CERN's distributed control infrastructure to ensure reliable, efficient and safe operation of upgraded detector systems. Your responsibilities: Collaborate with hardware, firmware (FPGA), embedded software and control system engineers to define system requirements and interface specifications. Analyse current and future detector control workloads to define realistic performance benchmarks. Define and implement solutions that distribute control functions across FPGA logic and embedded processors to optimise performance, reliability and maintainability. Test, validate and refine prototypes in laboratory environments. Prepare clear technical documentation and guidelines to support developers and researchers integrating the solutions into their experiments. Your profile: Knowledge in developing, simulating and validating FPGA gateware. Experience in writing, profiling and optimising C code. Knowledge in hardware/software specification and co-design. Skills: VHDL 2008 (VUnit and UVVM experience is a plus). C for embedded applications and Linux device drivers (Rust is a plus). Intel Quartus or AMD Vivado toolchains (both is a plus). RISC-V instruction set architecture (experience with FPGA softcores like PicoRV32, Nios® V, Microblaze™ V is a plus). Low-level communication interfaces (I2C, JTAG, DDR, ...) (experience with lpGBT is a plus). Linux distributions for System-on-Chip FPGAs (Yocto, Petalinux, ...). Spoken and written English, with a commitment to learn French. Eligibility criteria: You are a national of a CERN Member or Associate Member State . By the application deadline, you have a maximum of two years of professional experience since graduation in Electronics Engineer (or a related field) and your highest educational qualification is either a Bachelor's or Master's degree . You have never had a CERN fellow or graduate contract before. Applicants without University degree are not eligible. Applicants with a PhD are not eligible.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000121460417-embedded-systems-engineer-ep-lcb-2026-89-grae-?oga=true",
     "status": "matched"
   },
   "/job/Zurich-Switzerland/Associate-Director--Senior-International-Clinical-Trial-Regulatory-Lead_R0175889": {
@@ -1229,7 +1209,7 @@
     "title": "​Sr Manager / Associate Director Regulatory Affairs - Swiss Affiliate",
     "company": "Gilead Sciences",
     "location": "Switzerland - Zug",
-    "posted_date": "2026-04-20",
+    "posted_date": "2026-04-21",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1342,7 +1322,7 @@
     "title": "Analytical Molecular Characterization Team Lead and Mass Spectrometry Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-22",
+    "posted_date": "2026-04-23",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1385,7 +1365,7 @@
     "title": "Internship in Global Medical Affairs (12 months)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-23",
+    "posted_date": "2026-04-24",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1472,7 +1452,7 @@
     "title": "Internship for Students of Computational Biology, Computational Chemistry,  Applied Mathematics (6 months)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-24",
+    "posted_date": "2026-04-25",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1541,7 +1521,7 @@
     "title": "Post Doctorate Scientist (IHB) - In Vitro Modeling Adaptive Immunologist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-24",
+    "posted_date": "2026-04-25",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -1564,7 +1544,7 @@
     "title": "Post Doctoral Scientist (IHB) - Computational Immunology",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-24",
+    "posted_date": "2026-04-25",
     "department": "",
     "score": 12,
     "matched_keywords": [
@@ -1600,7 +1580,7 @@
     "title": "International Medical Affairs Director Neuromuscular",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-04-27",
+    "posted_date": "2026-04-28",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1778,7 +1758,7 @@
     "title": "Medical Science Liaison CVRM",
     "company": "AstraZeneca",
     "location": "Switzerland - Baar",
-    "posted_date": "2026-04-27",
+    "posted_date": "2026-04-28",
     "department": "",
     "score": -1,
     "matched_keywords": [
@@ -1823,7 +1803,7 @@
     "title": "Global Regulatory Affairs Director (Neuroscience)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-04-28",
+    "posted_date": "2026-04-29",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2013,6 +1993,11 @@
   "/job/Basel-City/Head-of-Neurodegeneration--Translational-Medicine_REQ-10076275-1": {
     "description": "Job Description Summary #LI-Hybrid Internal job title: Executive Director Location: Basel, Switzerland As the Head of Neurodegeneration within Translational Medicine, you will serve as a senior scientific and strategic leader responsible for shaping and delivering the translational strategy for neurodegenerative therapeutic programs. You will provide expert guidance bridging research, early clinical development, and biomarker/experimental medicine innovation to advance assets from discovery through proof-of-concept and into full development. In addition, you will lead or integrate global, cross-functional teams to design, implement, and execute cutting-edge translational strategies, and act as an influential thought partner in neurodegenerative disease biology, clinical development, and emerging therapeutic modalities. Job Description Key Responsibilities: Strategic Leadership & Scientific Direction Define and oversee the long-term translational strategy for the Neurodegeneration Pillar, ensuring scientific excellence and alignment with broader BR and TM organizational priorities. Serve as a senior advisor and thought leader within neurodegeneration disorders, leveraging deep specialty expertise to inform program design, biomarker strategy, and patient-relevant endpoints. Program & Portfolio Leadership Lead global translational teams across Phase I–IIa (“Discovery” through TDP), driving implementation of high‑quality development strategies in single or multiple neurodegeneration indications. Represent TM on global program teams (GPT) and decision boards, ensuring that neurodegeneration programs meet quality, regulatory, and differentiation objectives. Translational & Clinical Development Excellence Lead the design and execution of First‑in‑Human (FIH) and Phase IIa studies, working collaboratively with clinical, regulatory, biomarker, and profiling partners. Leads the creation of clinical components of key documents e.g., Clinical Trial Protocols (CTPs), Investigator’s Brochures, Clinical Study Reports (CSRs), regulatory documents etc. with high levels of quality and consistency Leadership of People, Culture, and Matrix Teams Serve as a culture champion, promoting empowerment, innovation, and collaboration across TM and broader BR organizations. Mentor and develop scientific talent across translational and clinical functions. External Impact & Partnerships Lead interactions with external stakeholders (e.g., regulatory authorities, key opinion leaders, data monitoring committees, advisory boards etc.) and internal NVS stakeholders Contribute to opportunity assessments and due diligence for neurodegeneration and adjacent therapeutic areas. Governance, Compliance & Documentation Essential Requirements: MD and PhD required with clinical subspecialty training in neurological diseases with deep expertise in neurodegeneration disorders A minimum of 10+ years of extensive experience in translational medicine, early clinical development, or experimental therapeutics. Demonstrated success leading complex global programs and cross-functional scientific teams. Proven ability to shape development strategies, execute early clinical studies, and influence regulatory/packages supporting differentiation. Experience working in pharmaceutical/biotech company strongly preferred. Desirable Requirements: Direct people management experience Accessibility and Accommodation: Novartis is committed to working with and providing reasonable accommodation to all individuals. If, because of a medical condition or disability, you need a reasonable accommodation for any part of the recruitment process, or in order to receive more detailed information about the essential functions of a position, please send an e-mail to inclusion.switzerland@novartis.com and let us know the nature of your request and your contact information. Please include the job requisition number in your message. Skills Desired Active Directory, Artificial Intelligence (AI), Classification Systems, Computer Data Storage, Critical Thinking, Higher Education, Initiative, Merchandising, Selling Skills",
     "external_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Basel-City/Head-of-Neurodegeneration--Translational-Medicine_REQ-10076275-1",
+    "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000124077409": {
+    "description": "In this role, you will contribute to the development of next-generation readout and control systems for the LHCb experiment, focusing on FPGA gateware and low-level embedded software in both bare-metal and Linux environments. You will participate in the design, implementation and testing of scalable and high-performance solutions that interface with detector electronics and data acquisition systems. Through this work, you will help evolve CERN's distributed control infrastructure to ensure reliable, efficient and safe operation of upgraded detector systems. Your responsibilities: Collaborate with hardware, firmware (FPGA), embedded software and control system engineers to define system requirements and interface specifications. Analyse current and future detector control workloads to define realistic performance benchmarks. Define and implement solutions that distribute control functions across FPGA logic and embedded processors to optimise performance, reliability and maintainability. Test, validate and refine prototypes in laboratory environments. Prepare clear technical documentation and guidelines to support developers and researchers integrating the solutions into their experiments. Your profile: Knowledge in developing, simulating and validating FPGA gateware. Experience in writing, profiling and optimising C code. Knowledge in hardware/software specification and co-design. Skills: VHDL 2008 (VUnit and UVVM experience is a plus). C for embedded applications and Linux device drivers (Rust is a plus). Intel Quartus or AMD Vivado toolchains (both is a plus). RISC-V instruction set architecture (experience with FPGA softcores like PicoRV32, Nios® V, Microblaze™ V is a plus). Low-level communication interfaces (I2C, JTAG, DDR, ...) (experience with lpGBT is a plus). Linux distributions for System-on-Chip FPGAs (Yocto, Petalinux, ...). Spoken and written English, with a commitment to learn French. Eligibility criteria: You are a national of a CERN Member or Associate Member State . By the application deadline, you have a maximum of two years of professional experience since graduation in Electronics Engineer (or a related field) and your highest educational qualification is either a Bachelor's or Master's degree . You have never had a CERN fellow or graduate contract before. Applicants without University degree are not eligible. Applicants with a PhD are not eligible.",
+    "external_url": "https://jobs.smartrecruiters.com/CERN/744000124077409-embedded-systems-engineer-ep-lcb-2026-89-grae-?oga=true",
     "status": "matched"
   }
 }
