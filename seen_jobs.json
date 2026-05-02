@@ -407,7 +407,7 @@
     "title": "Vice President, Regulatory Affairs, Europe and International",
     "company": "BeiGene",
     "location": "Basel",
-    "posted_date": "2026-04-01",
+    "posted_date": "2026-04-02",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -423,7 +423,7 @@
     "title": "Scientist Microbiological Quality Control",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-04-01",
+    "posted_date": "2026-04-02",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -691,7 +691,7 @@
     "title": "Scientist – QC Lab Systems & CSV (GMP)",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-04-01",
+    "posted_date": "2026-04-02",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -706,7 +706,7 @@
     "title": "Senior Scientist – Manufacturing Science & Technology (Biologics USP/DSP)",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-04-01",
+    "posted_date": "2026-04-02",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -1093,11 +1093,6 @@
     ],
     "deducted_keywords": []
   },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000121114568": {
-    "description": "Are you ready to work at the intersection of cutting-edge electronics and photonics technologies with the forefront of particle physics? Join the Experimental Physics Department and contribute to our detector R&D programme for future High Energy Physics experiments at CERN. One of the key challenges for the next generation of detectors is transporting vast volumes of data off-detector while operating in extreme radiation environments, for which advanced optical links are an essential technology. Within the High Speed Links Work Package, we are developing the next generation of radiation-tolerant communication building blocks by combining custom high-speed ASICs and Silicon Photonics components that interoperate with off-the-shelf optical modules and FPGA systems as we move from component prototypes to full system demonstrators. We are looking for a Test Engineer to take a leading role in the evaluation and qualification of a prototype high-speed, radiation-tolerant communication ASIC, part of a Silicon Photonics system, delivering a 100 Gbps data stream. You will help bring up new hardware, build robust test setups, and generate high-quality measurement results that guide design iterations and qualification. Your responsibilities: Define and execute electrical and functional test plans for ASIC prototypes (bring-up, debugging, characterisation). Develop FPGA firmware and Python tools for test automation, data acquisition, and data analysis. Design, review, or improve high-speed test hardware (PCBs, fixtures, cabling), including signal-integrity considerations. Plan and support radiation qualification campaigns, including Single Event Effects (SEE) and Total Ionising Dose (TID) experiments. Your profile: Strong hands-on electronics lab skills (instrumentation, debugging, careful measurement practice). Experience in one or more of: FPGA development, Python (automation/DAQ/analysis), high-speed PCB design/simulation. A structured, rigorous approach to engineering work: test methodology, data quality, and clear documentation. Skills: Hands-on electronics laboratory measurement skills (oscilloscope, SMU, signal generators; disciplined debugging). FPGA firmware development and simulation. Python for test automation, data acquisition, analysis, and reporting. High-speed PCB knowledge (signal-integrity basics, layout constraints, fixtures/cabling for reliable measurements). Clear technical documentation (test plans, procedures, review-ready reports). Collaborative, structured engineering approach (root-cause analysis, reproducible experiments). Radiation qualification experience (SEE and TID) is a plus. Familiarity with ASIC design is a plus. Knowledge of the Ethernet networking stack is a plus. Spoken and written English, with a commitment to learn French. Eligibility criteria: You are a national of a CERN Member or Associate Member State . You have a professional background in Electronics Engineering (or a related field) and have either: a Master's degree with 2 to 6 years of post-graduation professional experience; or a PhD with no more than 3 years of post-graduation professional experience. You have never had a CERN fellow or graduate contract before.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000121114568-mixed-signal-ic-test-engineer-ep-ese-me-2026-64-grap-?oga=true",
-    "status": "matched"
-  },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000121108287": {
     "description": "You will provide technical support to the Civil Engineering section within CERN's Site Asset Management group, contributing to a wide range of surface and underground infrastructure projects. You will support the implementation of design specifications on site, across civil engineering works including roads, networks, buildings and technical galleries, in a world-class, multicultural environment. Your responsibilities: Responsibility for work requests in the fields of civil engineering, roads, networks and buildings (concrete/metal structures, building envelope) for surface buildings, underground structures and technical galleries. Launch and follow-up of construction or renovation works in close cooperation with internal customers, including coordination of various technical and secondary trades. Regular control of safety rules enforcement on work sites, quality control of contractors' daily work, and control of works execution in line with best practices and technical specifications. Budget follow-up, including checking of quotes, launch of orders, control and validation of final measurements established by contractors, and use of CERN's computer tools. Your profile: Initial experience in building or underground structure construction, maintenance or renovation. First exposure to planning, organising and coordinating various trades. Basic knowledge of site measurements and cost control. Awareness of quality standards and site safety rules. Skills: Evidence-based problem-solving and proactivity. Teamwork and collaboration. Flexibility and continuous learning. Spoken and written English or French, with a commitment to learn the other language. Eligibility criteria: You are a national of a CERN Member or Associate Member State . By the application deadline, you have a maximum of two years of professional experience since graduation in Civil Engineering (or a related field) and your highest educational qualification is a general secondary education diploma . You have never had a CERN fellow or graduate contract before. Applicants with a Bachelor's, Master's or PhD degree are not eligible.",
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000121108287-civil-engineering-works-supervisor-sce-sam-ce-2026-113-grae-?oga=true",
@@ -1130,7 +1125,7 @@
     "title": "Associate Director, Senior International Clinical Trial Regulatory Lead",
     "company": "Takeda",
     "location": "Zurich, Switzerland",
-    "posted_date": "2026-04-01",
+    "posted_date": "2026-04-02",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1145,7 +1140,7 @@
     "title": "Associate Director, EUCAN Regulatory Lead - Oncology",
     "company": "Takeda",
     "location": "Zurich, Switzerland",
-    "posted_date": "2026-04-01",
+    "posted_date": "2026-04-02",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1161,7 +1156,7 @@
     "title": "Associate Director, EUCAN Regulatory Lead - GI and Inflammation",
     "company": "Takeda",
     "location": "Zurich, Switzerland",
-    "posted_date": "2026-04-01",
+    "posted_date": "2026-04-02",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1176,7 +1171,7 @@
     "title": "Manager, International Clinical Trial Regulatory Lead",
     "company": "Takeda",
     "location": "Zurich, Switzerland",
-    "posted_date": "2026-04-01",
+    "posted_date": "2026-04-02",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1191,7 +1186,7 @@
     "title": "Senior Scientist microbiological Quality Control",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-04-20",
+    "posted_date": "2026-04-21",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -1227,7 +1222,7 @@
     "title": "Senior Scientist, Material Qualification and Release (QC GMP)",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-04-20",
+    "posted_date": "2026-04-21",
     "department": "",
     "score": -1,
     "matched_keywords": [
@@ -1338,7 +1333,7 @@
     "title": "Scientist, Tech Ops",
     "company": "CSL Behring / Vifor",
     "location": "EMEA, CH, Kanton Bern, Bern, CSL Behring",
-    "posted_date": "2026-04-23",
+    "posted_date": "2026-04-24",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1353,7 +1348,7 @@
     "title": "Scientist, Tech Ops",
     "company": "CSL Behring / Vifor",
     "location": "EMEA, CH, Kanton Bern, Bern, CSL Behring",
-    "posted_date": "2026-04-23",
+    "posted_date": "2026-04-24",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1368,7 +1363,7 @@
     "title": "Scientist, Tech Ops",
     "company": "CSL Behring / Vifor",
     "location": "EMEA, CH, Kanton Bern, Bern, CSL Behring",
-    "posted_date": "2026-04-23",
+    "posted_date": "2026-04-24",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1383,7 +1378,7 @@
     "title": "Scientist, Tech Ops",
     "company": "CSL Behring / Vifor",
     "location": "EMEA, CH, Kanton Bern, Bern, CSL Behring",
-    "posted_date": "2026-04-23",
+    "posted_date": "2026-04-24",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1639,7 +1634,7 @@
     "title": "Senior Scientist (Pathogen Safety Support)",
     "company": "CSL Behring / Vifor",
     "location": "EMEA, CH, Kanton Bern, Bern, CSL Behring",
-    "posted_date": "2026-04-29",
+    "posted_date": "2026-04-30",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1656,7 +1651,7 @@
     "title": "Senior Scientist (Pathogen Safety Support)",
     "company": "CSL Behring / Vifor",
     "location": "EMEA, CH, Kanton Bern, Bern, CSL Behring",
-    "posted_date": "2026-04-29",
+    "posted_date": "2026-04-30",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1727,7 +1722,7 @@
     "title": "Scientist (f/m/x) - Technical Operations",
     "company": "CSL Behring / Vifor",
     "location": "EMEA, CH, Kanton Bern, Bern, CSL Behring",
-    "posted_date": "2026-04-28",
+    "posted_date": "2026-04-29",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1938,5 +1933,21 @@
     "description": "In this role, you will contribute to the development of next-generation readout and control systems for the LHCb experiment, focusing on FPGA gateware and low-level embedded software in both bare-metal and Linux environments. You will participate in the design, implementation and testing of scalable and high-performance solutions that interface with detector electronics and data acquisition systems. Through this work, you will help evolve CERN's distributed control infrastructure to ensure reliable, efficient and safe operation of upgraded detector systems. Your responsibilities: Collaborate with hardware, firmware (FPGA), embedded software and control system engineers to define system requirements and interface specifications. Analyse current and future detector control workloads to define realistic performance benchmarks. Define and implement solutions that distribute control functions across FPGA logic and embedded processors to optimise performance, reliability and maintainability. Test, validate and refine prototypes in laboratory environments. Prepare clear technical documentation and guidelines to support developers and researchers integrating the solutions into their experiments. Your profile: Knowledge in developing, simulating and validating FPGA gateware. Experience in writing, profiling and optimising C code. Knowledge in hardware/software specification and co-design. Skills: VHDL 2008 (VUnit and UVVM experience is a plus). C for embedded applications and Linux device drivers (Rust is a plus). Intel Quartus or AMD Vivado toolchains (both is a plus). RISC-V instruction set architecture (experience with FPGA softcores like PicoRV32, Nios® V, Microblaze™ V is a plus). Low-level communication interfaces (I2C, JTAG, DDR, ...) (experience with lpGBT is a plus). Linux distributions for System-on-Chip FPGAs (Yocto, Petalinux, ...). Spoken and written English, with a commitment to learn French. Eligibility criteria: You are a national of a CERN Member or Associate Member State . By the application deadline, you have a maximum of two years of professional experience since graduation in Electronics Engineer (or a related field) and your highest educational qualification is either a Bachelor's or Master's degree . You have never had a CERN fellow or graduate contract before. Applicants without University degree are not eligible. Applicants with a PhD are not eligible.",
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000124077409-embedded-systems-engineer-ep-lcb-2026-89-grae-?oga=true",
     "status": "matched"
+  },
+  "https://www.stettlerconsulting.ch/en/current-vacancies/head-regulatory-medical-affairs-80-100-w-m/": {
+    "external_url": "https://www.stettlerconsulting.ch/en/current-vacancies/head-regulatory-medical-affairs-80-100-w-m/",
+    "status": "matched",
+    "title": "Head Regulatory & Medical Affairs (w/m) 80 – 100 %",
+    "company": "Stettler Consulting",
+    "location": "Region Ostschweiz, Switzerland",
+    "posted_date": "",
+    "department": "",
+    "score": -1,
+    "matched_keywords": [
+      "medical affairs"
+    ],
+    "deducted_keywords": [
+      "location:Region Ostschweiz, Switzerland"
+    ]
   }
 }
