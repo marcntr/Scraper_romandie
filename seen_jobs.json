@@ -1737,20 +1737,6 @@
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000123737664-senior-geotechnical-engineer-sce-ppm-2025-208-ld-?oga=true",
     "status": "matched"
   },
-  "https://www.michaelpage.ch/job-detail/fund-portfolio-coordinator-9-months/ref/jn-042026-6999523": {
-    "external_url": "https://www.michaelpage.ch/job-detail/fund-portfolio-coordinator-9-months/ref/jn-042026-6999523",
-    "status": "ignored",
-    "title": "Fund Portfolio Coordinator for 9 months",
-    "company": "Michael Page Switzerland",
-    "location": "Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": -2,
-    "matched_keywords": [],
-    "deducted_keywords": [
-      "location:Switzerland"
-    ]
-  },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000123867509": {
     "description": "As an Experienced Project Graduate, you will contribute to quality control and strategic materials development at CERN. In collaboration with international partners and industry, you will investigate microstructure-property relationships, failure mechanisms, and the impact of processing conditions on the performance of materials and components for next-generation high-field accelerator magnets and ultra-high vacuum systems, among others. In particular, for the High-Field Magnet (HFM), you will carry out microscopy examination of Nb3Sn wire samples. Using state-of-the-art microscopy, microanalysis, and X-ray diffraction (XRD) techniques, you will characterise materials , support design optimisation, and help guide research directions within the Organization and international collaborative programs. Your responsibilities: Working with colleagues to design and conduct interdisciplinary studies in the field of materials science and engineering. Perform advanced materials characterisation using electron microscopy, microanalysis, and X-ray diffraction techniques. Investigate phase transformations, diffusion mechanisms, and microstructural evolution during manufacturing and processing. Assess production and fabrication techniques related to materials, based on international standards or state-of-the-art practices. Carry out quantitative image and data analysis to extract relevant microstructural parameters to correlate them to performance in demanding environments. Collaborate with internal teams, manufacturers, and research institutes to interpret results and guide development. Summarise findings and present results in technical meetings and reports. Your profile: Experience in electron microscopy and materials characterisation. Strong background in materials science, including phase equilibria and microstructure-property relationships. Ability to work in an interdisciplinary and international environment. Would be considered as an asset: Experience with superconducting materials and/or vacuum-compatible materials. Knowledge of fabrication techniques (including but not limited to welding, soldering, brasing, forming). Experience in surface analysis, coatings, or interface characterisation. Skills: Hands-on experience with electron microscopy techniques (SEM + EDX). Experience with EBSD, FIB, STEM, XRD (desirable). Data analysis and scripting (e.g. Python). Strong analytical thinking and problem-solving. Ability to work both independently and collaboratively. Clear communication and presentation skills. Good organisational skills to manage experimental campaigns. Electrical and magnetic test experience would be an advantage. Spoken and written English, with a commitment to learn French. Eligibility criteria: You are a national of a CERN Member or Associate Member State . You have a professional background in Materials Science/Engineering (or a related field) and have either: a Master's degree with 2 to 6 years of post-graduation professional experience; or a PhD with no more than 3 years of post-graduation professional experience. You have never had a CERN fellow or graduate contract before.",
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000123867509-applied-scientist-in-materials-engineering-en-mme-mm-2026-83-grap-?oga=true",
@@ -1887,7 +1873,7 @@
   },
   "https://www.michaelpage.ch/de/job-detail/business-development-specialist-100/ref/jn-032026-6968386?lang=en": {
     "external_url": "https://www.michaelpage.ch/de/job-detail/business-development-specialist-100/ref/jn-032026-6968386?lang=en",
-    "status": "matched",
+    "status": "ignored",
     "title": "Business Development Specialist (a) 100%",
     "company": "Michael Page Switzerland",
     "location": "Switzerland",
