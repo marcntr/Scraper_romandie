@@ -764,11 +764,6 @@
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000118196747-technical-studentship-material-surface-science-2026-3?oga=true",
     "status": "matched"
   },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000118377667": {
-    "description": "Introduction: You will lead hands-on research and development activities for the FCC-ee experimental program, focusing on beam-induced backgrounds, machine–detector interface studies, and detector optimisation to achieve the desired systematic uncertainties in precision measurements at the Z pole. The role combines technical leadership with active involvement in simulation, detector development, computing, and experimental validation to advance the design and performance of future FCC detectors. Functions: Carry out and supervise research and development activities on the experimental environment of the future FCC electron–positron collider, with emphasis on beam-induced backgrounds (BIB) and their impact on detector performance, via the integration of realistic background conditions into detector simulation and data reconstruction workflows. Develop scalable workflows and software infrastructure ensuring optimal use of computing resources, to run large-scale and detailed beam-induced background simulations. Interpret the results of these simulations to quantify background sources originating from the accelerator,  assess their effects on particle detectors, readout strategies and data quality, and design and study strategies to mitigate these backgrounds in close collaboration with accelerator experts and detector designers. Develop methods to determine key limiting parameters directly from experimental data, towards enabling high-precision physics measurements at FCC-ee, including the definition of requirements for detector alignment, stability, and calibration needed to reach the targeted measurement precision. Contribute to the design and development of FCC-ee detector technologies, including hands-on work on prototypes, laboratory measurements and test-beam experiments, fostering collaboration between physicists, engineers, and software specialists. Present results in internal meetings, international workshops, and scientific conferences, and contribute to scientific publications and technical reports.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000118377667-lead-experimental-particle-physicist-ep-fcc-2026-83-ld-?oga=true",
-    "status": "matched"
-  },
   "/job/Switzerland---Zurich/Manager-Quality-System---Regulatory-Compliance_31146008-1": {
     "description": "JOB DESCRIPTION: Thoratec Switzerland GmbH , part of Abbott Laboratories , is a global leader in implantable and extracorporeal blood pump systems. Our lifesaving medical devices, developed and manufactured at our Zurich site, support patients with severe heart disease worldwide. Our Zurich team of approximately 150 colleagues brings together expertise across R&D, manufacturing, quality, and regulatory functions. As we continue to expand our innovative and high-impact work, we are looking for an experienced Manager Quality System & Regulatory Compliance who is motivated by purpose, collaboration, and continuous improvement. The Role In this role, you will shape and strengthen our Quality Management Systems while leading and developing a team of Quality System specialists. You will work closely with colleagues across Operations, R&D, Engineering, and Regulatory Affairs to ensure our products and processes meet the highest regulatory and quality standards — always with patient safety at the center. This position offers the opportunity to combine people leadership, strategic influence, and hands-on quality expertise in a global, regulated medical device environment. What You’ll Do Lead & Inspire Lead, support, and develop a team of Quality System specialists, setting clear goals aligned with company objectives and regulatory requirements Foster a collaborative, inclusive, and accountable team environment Support performance development through coaching, feedback, and training Quality & Compliance Leadership Ensure effective execution and continuous improvement of the site’s Quality Management Systems Maintain compliance with applicable international standards and regulations (e.g. ISO 13485, FDA QSR, EU MDR) Prepare and support the site during external audits and regulatory inspections (e.g. FDA, Notified Bodies) Act as a key quality partner for Operations, R&D, Engineering, and Regulatory Affairs Continuous Improvement & Problem Solving Identify opportunities to improve processes, compliance, and efficiency across the organization Lead or contribute to global quality improvement initiatives Own and drive corrective and preventive actions (CAPA), including root cause analysis and sustainable solutions Collaboration & Communication Operate effectively in a matrixed, international environment Build trusted relationships with global and regional stakeholders Communicate clearly and confidently across technical and non‑technical audiences Your Expertise Required Master’s degree in science, engineering, or another relevant technical discipline 3–5 years of experience in quality systems within the medical device industry (or similarly regulated environment) Strong working knowledge of ISO 13485, FDA 21 CFR Part 820, EU MDD/MDR, MDSAP Experience leading teams or guiding others in a regulated setting Strong communication skills in English and German What Helps You Succeed You balance attention to detail with a pragmatic, solution‑oriented mindset You enjoy developing people and helping teams perform at their best You are comfortable influencing in a matrix organization You value high ethical standards and taking ownership I f you don’t meet every requirement but believe this role is a strong fit for your experience and aspirations, we encourage you to apply. What We Offer Meaningful work that directly impacts patient lives A stable and growing company in a resilient industry A collaborative, respectful, and international working environment Flat hierarchies with open and transparent communication Opportunities for personal and professional development within Abbott A modern workplace in the center of Zurich, with R&D and manufacturing on site Ready to Apply? We look forward to receiving your application (CV and motivation letter in PDF format). All qualified applicants are encouraged to apply — we value diversity and believe it strengthens our teams and our impact. The base pay for this position is N/A In specific locations, the pay range may vary from the range posted. JOB FAMILY: Operations Quality DIVISION: HF Heart Failure LOCATION: Switzerland : Technoparkstrass 1 CH 8005 ADDITIONAL LOCATIONS: WORK SHIFT: Standard TRAVEL: Yes, 10 % of the Time MEDICAL SURVEILLANCE: Not Applicable SIGNIFICANT WORK ACTIVITIES: Not Applicable",
     "external_url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Switzerland---Zurich/Manager-Quality-System---Regulatory-Compliance_31146008-1",
@@ -781,11 +776,6 @@
     "score": 0,
     "matched_keywords": [],
     "deducted_keywords": []
-  },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000118399317": {
-    "description": "Introduction: You will design and evolve complex data models at the heart of CERN's accelerator control systems , working on the database backend of large-scale, mission-critical applications. Your work will focus on Oracle-based schemas and Java backend services exposing APIs to applications, tightly integrated into full-stack software systems. Robust and scalable database systems are essential for control, configuration, and operational applications enabling the operation of CERN's accelerator complex. You will contribute to the evolution of these data-intensive systems, working on long-lived data models and performance-critical access patterns. You will join a multidisciplinary team and play a key role in building reliable backend solutions aligned with users' needs, contributing to systems used at the world's largest particle physics laboratory. Functions: Interact with stakeholders, including end-users, Product Owners, and infrastructure providers to gather requirements. Design and implement reliable data models ensuring ACID properties. Develop and maintain APIs to access and manipulate data using CRUD operations, including interfacing with AI systems. Analyse integration requirements across multiple technical domains and design and implement robust solutions. Contribute to all phases of the software development lifecycle, from requirements analysis to deployment. Provide technical supervision and mentoring to junior software engineers. Provide day-to-day operational support to a large user community (500+ users). Propose and contribute to the evolution of systems under your responsibility and beyond",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000118399317-backend-software-engineer-database-systems-oracle-java-be-css-ide-2026-82-ld-?oga=true",
-    "status": "matched"
   },
   "https://job-boards.greenhouse.io/isomorphiclabs/jobs/5741351004": {
     "description": "<div class=\"content-intro\"><p>Isomorphic Labs is applying frontier AI to help unlock deeper scientific insights, faster breakthroughs, and life-changing medicines with an ambition to solve all disease.</p>\n<p>The future is coming. A future enabled and enriched by the incredible power of machine learning. A future in which diseases are curtailed or cured starting with better and faster drug discovery.&nbsp;</p>\n<p>Come and be part of an interdisciplinary team driving groundbreaking innovation and play a meaningful role in contributing towards us achieving our ambitious goals, while being a part of an inspiring and collaborative culture.</p>\n<p>The world we want tomorrow is the one we’re building today. It starts with the culture at this company. It starts with you.&nbsp;</p>\n<h3><strong>About Iso</strong></h3>\n<p>Isomorphic Labs (IsoLabs) was launched in 2021 to advance human health by building on and beyond the Nobel-winning AlphaFold system. Since then, our interdisciplinary team of drug discovery experts and machine learning specialists has built powerful new predictive and generative AI models that accelerate scientific discovery at digital speed.</p>\n<p>Our name comes from the belief that there is an underlying symmetry between biology and information science. By harnessing AI’s powerful capabilities, we can use it to model complex biological phenomena to help design novel molecules, anticipate how drugs will perform and develop innovative medicines to treat and cure some of the world’s most devastating diseases.</p>\n<p>We have built a world-leading drug design engine comprising AI models that are capable of working across multiple therapeutic areas and drug modalities. We are continually innovating on model architecture and developing cutting-edge capabilities to advance rational drug design.</p>\n<p>Every day, and with each new breakthrough, we’re getting closer to the promise of digital biology, and achieving our ambitious mission to one day solve all disease with the help of AI.</p>\n<p>&nbsp;</p></div><h3><strong>Your Impact</strong></h3>\n<p>We are seeking a Team / Research Leader specialising in computational chemistry to spearhead the design of novel small molecule therapeutics. This role requires a unique blend of deep scientific expertise and the ability to lead both technical projects and high-performing teams, whilst contributing to or leading active drug discovery programs.</p>\n<p>As a pivotal member of the Drug Design team, you will drive complex projects from early discovery through to candidate selection. You will leverage your expertise in strategic leadership and management of multi-program pipelines to deliver life-changing medicines using our cutting-edge AI drug design engine.<br><strong><br></strong><strong><br></strong><strong>What You Will Do</strong></p>\n<ul>\n<li><strong>Strategic Direction: </strong>Define the core scientific and technical direction of our small molecule therapeutic programs, ensuring alignment with company goals.</li>\n<li><strong>Program Leadership:</strong> Champion the drug discovery pipeline, overseeing external collaborations (with CROs) and leading programs to meet critical go/no-go milestones.</li>\n<li><strong>Innovation &amp; Integration:</strong> Establish principles for embedding cutting-edge AI/ML into modern computational chemistry workflows, ensuring seamless integration across ML, Biology, and Chemistry teams.</li>\n<li><strong>Talent Development: </strong>Foster a culture of scientific excellence by proactively mentoring, guiding, and evaluating the career development of team members.</li>\n<li><strong>Technical Execution: </strong>Apply AI-first approaches to provide technical and strategic directions, and execute drug design programs.<br><br></li>\n</ul>\n<h3><strong>Skills and Qualifications</strong></h3>\n<p><strong>Essential:</strong></p>\n<ul>\n<li>PhD in Computational Chemistry, Medicinal Chemistry, Synthetic Chemistry, or a related scientific field.</li>\n<li>8+ years’ professional experience in either a pharma, biotech or CRO environment working at all stages of the drug discovery process, from hit finding to lead optimisation and candidate selection.</li>\n<li>Proven experience leading computational chemistry strategy and execution for multiple drug discovery programs and target classes, and managing high-performing scientific teams.</li>\n<li>Strong expertise in virtual screening, ligand and structure-based drug design using physics-based and ideally AI/ML methods.</li>\n<li>Proven track record of developing QSAR models using ML or deep learning methods.</li>\n<li>Expertise in writing and implementing Python scripts for analysis and tool development, and/or utilising pipelining tools to support cheminformatics and design workflows.</li>\n<li>Strong knowledge of medicinal chemistry principles including ADMET and DMPK.</li>\n<li>Genuine passion and enthusiasm for applying AI/ML to drug design and how this can transform the field.</li>\n<li>Demonstrated success managing external collaborations (industry/CROs) and working effectively in cross-functional environments.</li>\n<li>Growth mindset, adaptability, and eagerness to learn new concepts and techniques.</li>\n</ul>\n<p><strong>Nice to Have:</strong></p>\n<ul>\n<li>Prior experience leveraging machine learning and generative AI methods for hit finding (e.g. ultra-large virtual screening and active learning), molecular design and lead optimisation (e.g. REINVENT, cofolding and AI-powered ligand/pose scoring methods).</li>\n<li>Prior experience of leading drug discovery programs.</li>\n<li>Track record of authorship of relevant scientific manuscripts.</li>\n<li>Knowledge of modalities such as PROTACs, molecular glues, PPI inhibitors or ADCs.</li>\n</ul><div class=\"content-conclusion\"><h3><strong><br>Culture and values</strong></h3>\n<p>We are guided by our shared values. It's not about finding people who think and act in the same way. These values help to guide our work and will continue to strengthen it.&nbsp;</p>\n<p><strong>Thoughtful<br></strong><span style=\"font-weight: 400;\">Thoughtful at Iso is about curiosity, creativity and care. It is about good people doing good, rigorous and future-making science every single day.</span></p>\n<p><strong>Brave<br></strong><span style=\"font-weight: 400;\">Brave at Iso is about fearlessness, but it’s also about initiative and integrity. The scale of the challenge demands nothing less.</span></p>\n<p><strong>Determined<br></strong><span style=\"font-weight: 400;\">Determined at Iso is the way we pursue our goal. It’s a confidence in our hypothesis, as well as the urgency and agility needed to deliver on it. Because disease won’t wait, so neither should we.</span></p>\n<p><strong>Together<br></strong><span style=\"font-weight: 400;\">Together at Iso is about connection, collaboration across fields and catalytic relationships. It’s knowing that transformation is a group project, and remembering that what we’re doing will have a real impact on real people everywhere.</span></p>\n<h3><strong><br>Creating an extraordinary company</strong></h3>\n<p>We believe that to be successful we need a team with a range of skills and talents. We're building an environment where collaboration is fundamental, learning is shared and every employee feels supported and able to thrive. We value unique experiences, knowledge, backgrounds, and perspectives, and harness these qualities to create extraordinary impact.</p>\n<p>We are committed to equal employment opportunities regardless of sex, race, religion or belief, ethnic or national origin, disability, age, citizenship, marital, domestic or civil partnership status, sexual orientation, gender identity, pregnancy or related condition (including breastfeeding) or any other basis protected by applicable law. If you have a disability or additional need that requires accommodation, please do not hesitate to let us know.</p>\n<h3><strong><br>Hybrid working</strong></h3>\n<p>It’s hugely important for us to sh",
@@ -873,25 +863,6 @@
     ],
     "deducted_keywords": []
   },
-  "/job/Tolochenaz-Switzerland/Project-Manager---Spatial-Biology-Product-Development--8-9-months-contract-_JR101679": {
-    "description": "By joining Bio-Techne, you’ll join a company with a powerful and positive purpose of enabling cutting-edge research in Life Sciences and Clinical Diagnostics. Bio-Techne, and all of its brands, provides tools for researchers to further treat and prevent disease worldwide. Position Summary: We are looking for an experienced Project Manager to cover a maternity leave in our Project Management team for 8-9 months. This role is cross-functional at the interface of the R&D, Marketing, Product Management, Operations, QA/RA as well as Scientific Affairs departments. Your mission will be to manage and coordinate activities of multidisciplinary Product Development projects in order to achieve project goals on time and within pre-defined scope. Projects in scope include the development of new assays and reagent kits for our Spatial Biology Division product portfolio, as well as their sustaining post launch. Essential Functions: As a member of the Project Management Office (PMO), the Project Manager will be responsible for the following: Plan, monitor and manage cross-departmental projects. Coordinate the projects among the different stakeholders and ensure smooth communication. Collaborate effectively with the R&D, Product Management, Marketing, Customer support, Manufacturing, QA/RA and Scientific Affairs teams in order to achieve the goals of the projects. Maintain the team awareness of potential interdependencies with other projects and their impact. Manage project risks. Monitor overall progress and use of resources. Report project progresses in clear and detailed manner. Liaise with other Bio-Techne divisions located in the US. Required Qualifications and skills: Required qualifications A validated experience of at least 3 years in a similar position, PMP certification or similar is a plus. MSc. in biomedical engineering, life science, biology or similar field. Working knowledge of project management tools. Proficiency in English (at least C1), French is a plus. Required soft skills Organizational skills and attention to detail, capacity to work on 5-8 projects in parallel. Ability to interact with multidisciplinary teams and to work in a team. Capacity to adapt in a constantly changing environment. Strong communication and negotiation skills. Flexibility in working schedule with the ability to have meetings with US West Coast regularly. Supportive, proactive team player with a willingness to assist colleagues and contribute to occasional tasks outside the core job scope to ensure overall project and team success. Bio-Techne is committed to product quality, customer satisfaction, continued improvement, minimising environmental impacts and conserving natural resources. Environmental and quality management is an integral core value and vital part of the Bio-Techne culture. Why Join Bio-Techne: We offer competitive wages along with extensive benefits for employees and their families. We invest in our employees’ financial futures through retirement programs and an employee stock purchase plan. We help our employees develop their careers through mentorship, promotional opportunities, training and development, internship programs, and more. We offer an international and diverse working environment, enriched by employee resource groups; volunteer and charity events; and employee events that build a culture of caring and belonging. We foster a culture of empowerment and innovation, where employees feel valued and encouraged to bring their new ideas to the table. Bio-Techne is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or status as a protected veteran. To protect the interests of all, Bio-Techne will not accept unsolicited resumes from any source other than a candidate application. Any unsolicited resumes sent to Bio-Techne will be considered Bio-Techne property.",
-    "external_url": "https://biotechne.wd5.myworkdayjobs.com/Biotechne/job/Tolochenaz-Switzerland/Project-Manager---Spatial-Biology-Product-Development--8-9-months-contract-_JR101679",
-    "status": "ignored",
-    "title": "Project Manager – Spatial Biology Product Development (8-9 months contract)",
-    "company": "Bio-Techne / Lunaphore",
-    "location": "Tolochenaz, Switzerland",
-    "posted_date": "2026-04-08",
-    "department": "",
-    "score": 1,
-    "matched_keywords": [
-      "French",
-      "MSc",
-      "spatial biology"
-    ],
-    "deducted_keywords": [
-      "location:Tolochenaz, Switzerland"
-    ]
-  },
   "https://api.smartrecruiters.com/v1/companies/AbbVie/postings/3743990012504049": {
     "description": "Job summary: The AbbVie AG Responsible person (FvP) is responsible for providing leadership and oversight of Quality Compliance matters across the commercial entity within the affiliate in support of the quality system requirements associated with pharmaceutical products, medical devices, combination products, biologics and cosmetics. Specific areas include Storage and Distribution, Product Complaints, potential quality events/product shortage execution, Supplier Controls, Product Quality Review, Risk Management, Agency inspections/internal audits, CAPA, and overall Quality Manual requirements. By law, the Responsible person is directly accountable for the technical supervision of operations, guaranteeing the safety, efficacy, and quality of medicines. The FvP ensure proper handling of pharmaceutical products, as well as activities related to importing and wholesaling, all in strict compliance with Swiss law on Medicinal Products, AbbVie company policies, and the principles of Good Distribution Practice (GDP). We’re looking for a curious and driven individual to take on this role of critical importance, with the opportunity for future growth. Your development is not limited to this role but has open paths available both with AbbVie in Switzerland and internationally. Key responsibilities: Act as FvP for the Import and Wholesaling in accordance with the Swiss law on Medicinal Products (Heilmittelgesetz, HMG; Arzneimittel-Bewilligungsverordnung, AMBV) and Swissmedic technical interpretation I-SMI.TI.17 Responsible Person: requirements. The FvP has the authority to issue directives within the sphere of her/his responsibilities. Accountable for the integration and support of quality regulations at the affiliate:  drug, biologics, device and/or combination and cosmetics products driving the design of effective quality systems, procedures and/or processes within cross functional teams to ensure compliance as well as efficiency throughout our quality systems. Accountable for the management and oversight of an affiliate team, as applicable, including hiring, setting performance expectations, providing performance feedback, development of staff and handling of personnel issues.  Ensuring adequate resources and appropriate training to effectively support and meet changing business and compliance needs. Assure key affiliate metrics are being monitored (goals, CAPA, change plans etc.)  Use data and facts to make decisions and to pursue compliance/continuous improvement opportunities. Conduct management reviews as per plan. Partner with stakeholders across the enterprise to gain a better understanding of processes external to QA to determine best steps forward. Host internal, external and MoH audits.  Confidently knowing and understanding the affiliate business, licenses, distribution nodes, quality system applicability to support successful audits. Accountable for supplier qualification program including performance monitoring for key suppliers, QTA management and assessments. Accountable for all activities governed by Good Storage and Distribution Practices at the affiliate, including monitoring of controlled temperature and cold chain shipments. Represent affiliate QA or act as a lead in regional, global and cross functional teams, projects and programs, as appropriate. Ensure that a Quality Management System is available, implemented and maintained for the provision of work instructions, procedures and protocols for GMP and GDP-related processes. Ensure that the medicinal products are supplied and distributed into Switzerland according to the approved specifications and in accordance with the rules of Good Distribution Practice (GDP). Ensure that manufacturers of imported pharmaceutical products into Switzerland hold a valid GMP manufacturing license. Ensure the traceability of purchases and sales of pharmaceutical products and recording the necessary information concerning this. Ensure that the pharmaceutical products released onto the Swiss market meet the specifications in force and are manufactured in accordance with Good Manufacturing Practice (GMP). Release of commercial products for the Swiss market independent from management and commercial functions (primarily based on the release documents of the QP of the manufacturer / batch releasing site). Independently from management, decide whether a batch can be released for distribution to market and command stop of distribution and recall of batches if needed. Management of quality and compliance risks. Approval of all SOPs and other controlled documents in conjunction with the GMP/GDP batch release to the Swiss Market. Authorize the return to saleable stock or destruction of any returned medicines. Contact person for and approval of Technical/Quality Agreements related to the supply, transportation and wholesale of medicinal products marketed by AbbVie AG. Quality oversight /auditing of external service providers (e.g., external warehouse). Perform PQR review for all products marketed in Switzerland. Management of recalls. Oversight of product quality complaints (receipt, classification, forwarding to the manufacturer, tracking, information to customers, reconciliation). Report quality issues to Swissmedic according to requirements and within deadlines. Handle quality issues with the responsible Warehouse/Supplier/Manufacturing Site. Remain up-to-date with Swiss regulatory requirements, authority organization, processes and environment Awareness and implementation of applicable regulations and dissemination to relevant internal and external stakeholders. Act as contact person for all Quality issues for AbbVie AG for Swissmedic, the Cantonal Health Authority, RFS and Third-Party Manufactures. Planning and performing of internal audits. Ensure that Site Quality Compliance Metrics are reported periodically to the Site Management. Ensure that employees involved in distribution activities perform a GDP refresher training at the minimum with a yearly frequency. Participate in a course, seminar, congress or equivalent with focus on GMP/GDP at the minimum once a year to stay up to date with the current regulatory requirements and industry standards. Assess education and experience of the Deputy FvP and assign delegation.",
     "external_url": "https://jobs.smartrecruiters.com/AbbVie/3743990012504049-qa-manager-fvp-responsible-person-?oga=true",
@@ -909,7 +880,7 @@
     "title": "Computational Biology - Oncology",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-09",
+    "posted_date": "2026-04-08",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -926,11 +897,6 @@
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000119549057": {
     "description": "Introduction Join CERN’s Experimental Physics Department as an Administrative Assistant in the Users Office, where you will support guest scientists by managing registrations, contracts, and official documentation while providing front-line customer service. You will ensure smooth administrative operations by handling inquiries, maintaining records and databases, preparing correspondence, and facilitating scientists’ integration in compliance with CERN procedures. Functions Provide customer service support to CERN guest scientists within the Users Office, notably to register them and facilitate their integration upon arrival. Manage daily administrative tasks including registrations, personnel contracts, and Host State documentation (requests and extensions). Act as a key point of contact for visiting scientists (in person, email, and phone). Use electronic tools to process registrations and maintain records. Deliver general administrative support in line with CERN rules and procedures. Ensure the processing, follow-up, and control of various administrative electronic and paper documents and record archiving. Enter all relevant information into the appropriate CERN databases. Prepare correspondence and documentation according to requirements, including minutes writing. Replace other team members in their absence.",
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000119549057-administrative-assistant-ep-ags-2026-85-ld-?oga=true",
-    "status": "matched"
-  },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000119579740": {
-    "description": "As part of the software team of the Machine Protection and Electrical Integrity group, you will work on the upgrade of the Beam Interlock System (BIS) and Safe Machine Parameters system (SMP), which are key protection systems for the safe and reliable operation of the whole accelerator chain. Both systems are undergoing a major overhaul, starting from their components and extending to software elements: data acquisition, control, supervision and monitoring. While each have their own purposes, use-cases and domain specificities, the two systems share the same technical stack: low level C++ real-time controls application, Java data transformation layer, Python and Angular GUIs, and integrations within the wider CERN accelerator controls. Key aspects of the job include extending the reference model of the SMP system, implementing the real-time controls application integrating with the SMP and BIS hardware elements, as well as the upper software layers (Java, Python, Angular), and facilitating their integration with other software systems and the accelerator controls environment. Your responsibilities: Contribute to the development, testing, and maintenance of software components for the BIS and SMP systems (real-time control, data processing, and user interfaces). Support the collection of requirements and feedback from users and hardware experts; assist in maintaining and extending the SMP reference model. Participate in deploying and validating software solutions in test environments connected to hardware systems. Collaborate with team members and contribute to documentation and reporting activities. More information here . Your profile: Experience in software development. Basic understanding of backend development concepts; willingness to learn. Familiarity with software development tools and practices such as Git; exposure to containers or CI/CD is a plus. Experience working on team projects (academic or professional). Interest in Agile methodologies (Scrum/Kanban) is an advantage. Ability and motivation to learn and navigate complex, multi-language codebases. Attention to code quality and eagerness to follow best practices. Skills: Proficiency in Java and Python, C++ knowledge a plus. Relational databases knowledge. Proficiency in DevOps technologies and practices (CI/CD, containers, monitoring). Strong willingness to learn, collaborate, and grow within a team environment. Spoken and written English, with a commitment to learn French. Eligibility criteria: You are a national of a CERN Member or Associate Member State . By the application deadline, you have a maximum of two years of professional experience since graduation in Computer Science or Software Engineering (or a related field) and your highest educational qualification is either a Bachelor's or Master's degree . You have never had a CERN fellow or graduate contract before. Applicants without University degree are not eligible. Applicants with a PhD are not eligible.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000119579740-software-engineer-accelerator-controls-te-mpe-cb-2026-100-grae-?oga=true",
     "status": "matched"
   },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000119553387": {
@@ -950,18 +916,13 @@
     "title": "Praktikum in Innovation & Nachhaltigkeit - Für Studierende in den Bereichen Informatik, Wirtschaftsinformatik, Data Science, Statistik, Mathematik oder Business Analytics",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-23",
+    "posted_date": "2026-04-22",
     "department": "",
     "score": 1,
     "matched_keywords": [
       "Postdoc"
     ],
     "deducted_keywords": []
-  },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000119592006": {
-    "description": "Introduction As a Polymers and Composites Technician, you will become part of the Polymer Laboratory within the Superconducting Magnet Technology (SMT) Section, contributing directly to the development of cutting-edge systems and components at the heart of CERN accelerator complex. In this hands-on role, you will be involved in the manufacturing of superconducting coils and other critical components, applying advanced composite techniques such as vacuum-assisted resin transfer molding (VARTM), bonding, and prepreg processing. You will also have the opportunity to contribute to the development and optimisation of innovative materials and fabrication methods, pushing the boundaries of performance and reliability. Functions Contribute to the operation of the Polymer Laboratory by manufacturing key components for the CERN accelerator complex and experiments, and supporting on-site interventions for troubleshooting and repair of complex systems. Participate in the construction of superconducting magnets, including the operation and maintenance of polymer processing equipment such as vacuum-assisted resin transfer molding (VARTM) systems. Support the development, characterisation, and testing of polymer materials and composite solutions for a wide range of applications, including the fabrication of mock-ups and prototypes. Prepare and maintain manufacturing procedures and work instructions to ensure high standards of quality and traceability in production processes. Handle the procurement of materials and tooling for the Polymer Laboratory, and maintain the chemical inventory in compliance with safety and quality requirements.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000119592006-polymers-and-composites-technician-te-msc-smt-2026-87-ld-?oga=true",
-    "status": "matched"
   },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000119616344": {
     "description": "Introduction: As an electromechanical technician, you will assemble and test cryostats and associated equipment for superconducting accelerator systems (such as magnets and power transfer lines), contributing to their production, installation and maintenance, including hands-on interventions on CERN accelerators, such as the Large Hadron Collider (LHC). Functions: Assemble cryostats and electromechanical equipment for accelerator systems, such as superconducting magnets, related electric transfer lines and feedthroughs for cryogenic applications. Perform interventions in the LHC tunnel for installation, maintenance or dismantling of cryoassemblies, during shutdowns or maintenance periods. Manufacture and modify parts using conventional machining (milling, turning) and forming. Handle logistics of components and stock for assigned assemblies, launching and following up manufacturing requests and purchase orders and performing acceptance tests. Prepare production documentation, in particular quality control documents.",
@@ -990,7 +951,7 @@
     "title": "Global Medical Affairs Lead Genomic Profiling",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-14",
+    "posted_date": "2026-04-13",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -1018,7 +979,7 @@
     "title": "Sr. Scientist - Computational Biology - Neuroscience & Rare Diseases",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-16",
+    "posted_date": "2026-04-15",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -1068,7 +1029,7 @@
     "title": "Post Doctorate Scientist – Vascularized Kidney Organoids - at the Institute of Human Biology (IHB)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-15",
+    "posted_date": "2026-04-14",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -1173,7 +1134,7 @@
     "title": "Senior Scientist microbiological Quality Control",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-04-21",
+    "posted_date": "2026-04-20",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -1193,7 +1154,7 @@
     "title": "​Sr Manager / Associate Director Regulatory Affairs - Swiss Affiliate",
     "company": "Gilead Sciences",
     "location": "Switzerland - Zug",
-    "posted_date": "2026-04-21",
+    "posted_date": "2026-04-20",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1209,7 +1170,7 @@
     "title": "Senior Scientist, Material Qualification and Release (QC GMP)",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-04-21",
+    "posted_date": "2026-04-20",
     "department": "",
     "score": -1,
     "matched_keywords": [
@@ -1276,7 +1237,7 @@
     "title": "Analytical Molecular Characterization Team Lead and Mass Spectrometry Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-23",
+    "posted_date": "2026-04-22",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1303,7 +1264,7 @@
     "title": "Internship in Global Medical Affairs (12 months)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-24",
+    "posted_date": "2026-04-23",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1320,7 +1281,7 @@
     "title": "Scientist, Tech Ops",
     "company": "CSL Behring / Vifor",
     "location": "EMEA, CH, Kanton Bern, Bern, CSL Behring",
-    "posted_date": "2026-04-24",
+    "posted_date": "2026-04-23",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1335,7 +1296,7 @@
     "title": "Scientist, Tech Ops",
     "company": "CSL Behring / Vifor",
     "location": "EMEA, CH, Kanton Bern, Bern, CSL Behring",
-    "posted_date": "2026-04-24",
+    "posted_date": "2026-04-23",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1350,7 +1311,7 @@
     "title": "Scientist, Tech Ops",
     "company": "CSL Behring / Vifor",
     "location": "EMEA, CH, Kanton Bern, Bern, CSL Behring",
-    "posted_date": "2026-04-24",
+    "posted_date": "2026-04-23",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1365,7 +1326,7 @@
     "title": "Scientist, Tech Ops",
     "company": "CSL Behring / Vifor",
     "location": "EMEA, CH, Kanton Bern, Bern, CSL Behring",
-    "posted_date": "2026-04-24",
+    "posted_date": "2026-04-23",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1390,7 +1351,7 @@
     "title": "Internship for Students of Computational Biology, Computational Chemistry,  Applied Mathematics (6 months)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-25",
+    "posted_date": "2026-04-24",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1445,7 +1406,7 @@
     "title": "Post Doctorate Scientist (IHB) - In Vitro Modeling Adaptive Immunologist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-25",
+    "posted_date": "2026-04-24",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -1468,7 +1429,7 @@
     "title": "Post Doctoral Scientist (IHB) - Computational Immunology",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-25",
+    "posted_date": "2026-04-24",
     "department": "",
     "score": 12,
     "matched_keywords": [
@@ -1631,7 +1592,7 @@
     "title": "Medical Science Liaison CVRM",
     "company": "AstraZeneca",
     "location": "Switzerland - Baar",
-    "posted_date": "2026-04-28",
+    "posted_date": "2026-04-27",
     "department": "",
     "score": -1,
     "matched_keywords": [
@@ -1661,7 +1622,7 @@
     "title": "Scientist (f/m/x) - Technical Operations",
     "company": "CSL Behring / Vifor",
     "location": "EMEA, CH, Kanton Bern, Bern, CSL Behring",
-    "posted_date": "2026-04-29",
+    "posted_date": "2026-05-04",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1676,7 +1637,7 @@
     "title": "Global Regulatory Affairs Director (Neuroscience)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-04-29",
+    "posted_date": "2026-04-28",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1753,11 +1714,6 @@
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000123904429": {
     "description": "Introduction: As a mechanical technician, you will contribute to upgrade projects of the CMS detector, covering a broad range of responsibilities. These include workshop-based mechanical work, installation of detector systems, and the design and use of tooling for the removal and installation of CMS sub-detectors, as well as radioprotection duties in experimental areas and associated laboratories. You will also take on coordination and operational responsibilities within the CMS Technical Coordination team, working closely with sub-detector groups and CMS technical support teams. Functions: Take responsibility for activities related to safety and radioprotection for subdetector removal and installation, working with CMS safety officers and subdetector teams, operating in radioprotection-classified areas, and applying safety rules. Manage a mechanical workshop, advising and assisting CMS subdetector teams, ensuring the availability and proper use of equipment and tools, and supplying consumables. Provide technical support and hands-on assistance to CMS subdetector project teams operating within the CMS laboratories at CERN, in the fields of mechanical manufacturing, assembly, structures, and welding. Take part in the development, testing, on-site installation, and on-detector operation of custom tooling for subdetectors, working with subdetector technical teams. Operate and maintain hydraulic, mechanical, and electromechanical systems. Organise and supervise the storage of subdetector equipment in CMS-reserved spaces at CERN, ensuring proper inventory and space management. Assist the territorial safety officer of the building where the mechanical workshop is located, supervising work requested on infrastructure for general safety, and using a mobile crane and forklift when needed. Serve as the technical contact for mechanical activities with subdetector teams and for space areas under your responsibility, reporting regularly to the Technical Coordination managers.",
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000123904429-mechanical-technician-for-cms-detector-upgrades-ep-cms-ic-2026-97-ld-?oga=true",
-    "status": "matched"
-  },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000123894429": {
-    "description": "We are looking for someone curious to learn new surface treatment processes. You will perform specialised surface finishing treatment using wet chemistry for our particle accelerators components. This will include for example degreasing and etching of various substrates (stainless steel, aluminium, copper, etc.) as well as electroplating (Au, Rh, Ag, Cu, etc.). Your responsibilities: Perform specialised surface finishing work as precision cleaning for mechanical components for vacuum applications, etching, electroplating and electroforming on prototype and series parts for the CERN accelerators. Participate in the maintenance and monitoring of the workshop and the waste water treatment plant. Document your work by written procedures and presentations. Participate in the development of new processes and their characterisation in the context of new CERN projects. Your profile: Initial exposure to surface finishing processes such as metal cleaning, etching, or electroplating (through studies, internships, traineeships, or early work experience). Basic knowledge of analytical chemistry for bath quality follow-up. First experience working in a laboratory, production, or technical environment is an advantage but not mandatory. Skills: Ability to follow established procedures and work instructions accurately. Basic capability to document work through test procedures and test reports (training provided). Safety and quality oriented working mindset. Good attention to detail and careful execution of tasks. Ability to work effectively as part of a team. Spoken and written English or French, with a commitment to learn the other language. Eligibility criteria: You are a national of a CERN Member or Associate Member State . By the application deadline, you have a maximum of two years of professional experience since graduation in Surface Finishing/Surface Treatment (or a related field) and your highest educational qualification is a general secondary education diploma . You have never had a CERN fellow or graduate contract before. Applicants with a Bachelor's, Master's or PhD degree are not eligible.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000123894429-surface-finishing-technician-te-vsc-scc-2026-131-grae-?oga=true",
     "status": "matched"
   },
   "https://api.smartrecruiters.com/v1/companies/Sobi/postings/744000123888995": {
@@ -1863,7 +1819,7 @@
   },
   "https://www.michaelpage.ch/job-detail/fund-portfolio-coordinator-9-months/ref/jn-042026-6999523": {
     "external_url": "https://www.michaelpage.ch/job-detail/fund-portfolio-coordinator-9-months/ref/jn-042026-6999523",
-    "status": "matched",
+    "status": "ignored",
     "title": "Fund Portfolio Coordinator for 9 months",
     "company": "Michael Page Switzerland",
     "location": "Switzerland",
@@ -1875,10 +1831,25 @@
       "location:Switzerland"
     ]
   },
-  "https://www.michaelpage.ch/de/job-detail/senior-area-sales-manager-business-development-manager-dach/ref/jn-022026-6955718?lang=en": {
-    "external_url": "https://www.michaelpage.ch/de/job-detail/senior-area-sales-manager-business-development-manager-dach/ref/jn-022026-6955718?lang=en",
+  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000124410889": {
+    "description": "Introduction As a Polymers and Composites Technician, you will become part of the Polymer Laboratory within the Superconducting Magnet Technology (SMT) Section, contributing directly to the development of cutting-edge systems and components at the heart of CERN accelerator complex. In this hands-on role, you will be involved in the manufacturing of superconducting coils and other critical components, applying advanced composite techniques such as vacuum-assisted resin transfer molding (VARTM), bonding, and prepreg processing. You will also have the opportunity to contribute to the development and optimisation of innovative materials and fabrication methods, pushing the boundaries of performance and reliability. Functions Contribute to the operation of the Polymer Laboratory by manufacturing key components for the CERN accelerator complex and experiments, and supporting on-site interventions for troubleshooting and repair of complex systems. Participate in the construction of superconducting magnets, including the operation and maintenance of polymer processing equipment such as vacuum-assisted resin transfer molding (VARTM) systems. Support the development, characterisation, and testing of polymer materials and composite solutions for a wide range of applications, including the fabrication of mock-ups and prototypes. Prepare and maintain manufacturing procedures and work instructions to ensure high standards of quality and traceability in production processes. Handle the procurement of materials and tooling for the Polymer Laboratory, and maintain the chemical inventory in compliance with safety and quality requirements.",
+    "external_url": "https://jobs.smartrecruiters.com/CERN/744000124410889-polymers-and-composites-technician-te-msc-smt-2026-87-ld-?oga=true",
+    "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000124402079": {
+    "description": "We are looking for someone curious to learn new surface treatment processes. You will perform specialised surface finishing treatment using wet chemistry for our particle accelerators components. This will include for example degreasing and etching of various substrates (stainless steel, aluminium, copper, etc.) as well as electroplating (Au, Rh, Ag, Cu, etc.). Your responsibilities: Perform specialised surface finishing work as precision cleaning for mechanical components for vacuum applications, etching, electroplating and electroforming on prototype and series parts for the CERN accelerators. Participate in the maintenance and monitoring of the workshop and the waste water treatment plant. Document your work by written procedures and presentations. Participate in the development of new processes and their characterisation in the context of new CERN projects. Your profile: Initial exposure to surface finishing processes such as metal cleaning, etching, or electroplating (through studies, internships, traineeships, or early work experience). Basic knowledge of analytical chemistry for bath quality follow-up. First experience working in a laboratory, production, or technical environment is an advantage but not mandatory. Skills: Ability to follow established procedures and work instructions accurately. Basic capability to document work through test procedures and test reports (training provided). Safety and quality oriented working mindset. Good attention to detail and careful execution of tasks. Ability to work effectively as part of a team. Spoken and written English or French, with a commitment to learn the other language. Eligibility criteria: You are a national of a CERN Member or Associate Member State . By the application deadline, you have a maximum of two years of professional experience since graduation in Surface Finishing/Surface Treatment (or a related field) and your highest educational qualification is a general secondary education diploma . You have never had a CERN fellow or graduate contract before. Applicants with a Bachelor's, Master's or PhD degree are not eligible.",
+    "external_url": "https://jobs.smartrecruiters.com/CERN/744000124402079-surface-finishing-technician-te-vsc-scc-2026-131-grae-?oga=true",
+    "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000124389599": {
+    "description": "Introduction Are you a skilled full-stack developer who enjoys taking ownership of real-world services? Join CERN’s Platforms & Workflows group in the IT department , where we build and operate the Identity and Access Management systems used daily by thousands of researchers, engineers, and collaborators. You will work in an environment where engineering quality truly matters, and where your code directly enables world-class research. You will join a supportive team of experienced developers and service managers who value collaboration, continuous learning, and thoughtful engineering. The role offers the opportunity to deepen your full-stack expertise while gaining hands-on experience with modern service operations, security practices, and large-scale digital identity systems. Functions Design, develop and maintain modern web applications built on a .NET backend and React frontend. Participate in architectural decisions and contribute to the technical evolution of the IAM platform. Participate in service operations, including deployments, troubleshooting, monitoring, and continuous improvements. Support and guide junior team members, sharing best practices and contributing to a positive engineering culture. Collaborate closely with users and stakeholders: provide advanced user support, gather requirements and enhance the service to meet the evolving needs of the organisation. Ensure quality and reliability through documentation, testing, and adherence to security standards.",
+    "external_url": "https://jobs.smartrecruiters.com/CERN/744000124389599-full-stack-software-engineer-and-service-manager-it-pw-iam-2026-100-ld-?oga=true",
+    "status": "matched"
+  },
+  "https://www.michaelpage.ch/de/job-detail/business-development-specialist-100/ref/jn-032026-6968386?lang=en": {
+    "external_url": "https://www.michaelpage.ch/de/job-detail/business-development-specialist-100/ref/jn-032026-6968386?lang=en",
     "status": "matched",
-    "title": "Senior Area Sales Manager & Business Development Manager - DACH",
+    "title": "Business Development Specialist (a) 100%",
     "company": "Michael Page Switzerland",
     "location": "Switzerland",
     "posted_date": "",
@@ -1888,5 +1859,20 @@
     "deducted_keywords": [
       "location:Switzerland"
     ]
+  },
+  "/job/EMEA-CH-Kanton-Bern-Bern-CSL-Behring/Scientist--Tech-Ops_R-275238": {
+    "description": "This role supports the discovery, development, and progression of new medicines for unmet medical needs from early research to clinical development and commercialization. Responsibilities include executing experiments, conducting scientific analyses, maintaining accurate research documentation and ensuring that products meet clinical safety standards. The position contributes to the design and execution of experimental and manufacturing processes, supports technology transfer activities, and performs testing across development stages to ensure effective process control. Collaboration with internal teams, external partners, and regulatory stakeholders is essential to ensure compliance, support program reporting, and advance project objectives. The role also assists in directing technical activities, supporting project and portfolio evaluations, and contributing to integrated strategies that enable efficient progression and decision‑making throughout the development lifecycle. Main Responsibilities & Accountabilities Provide scientific and technical expertise to advance technology platform capabilities and support the achievement of project objectives. Support research and development activities at both global and local levels to ensure alignment, steady progress, and successful project delivery. Facilitate collaboration with other CSL sites and external partners to promote knowledge exchange and strengthen operational effectiveness. Apply advanced practical knowledge in relevant scientific fields to support experimental design, execution of technical work, and interpretation of data. Work independently under general supervision to meet operational targets and contribute directly to team and departmental outcomes. Address challenging technical or operational issues that may require an understanding of broader project or organizational factors. Support colleagues within the job area by clearly communicating scientific findings, established policies, and best practices. Job Specifications / Requirements Bachelor’s or postgraduate degree and/or substantial experience in a relevant scientific discipline. At least 3 years of laboratory experience with training in a relevant technical field, such as molecular and cellular biology, analytical biochemistry, or related areas. We look forward to receiving your your CV, cover letter, diplomas, and relevant work certificates. Please combine all documents into a single PDF file before submitting. About CSL Behring CSL Behring is a global biotherapeutics leader driven by our promise to save lives. Focused on serving patients’ needs by using the latest technologies, we discover, develop and deliver innovative therapies for people living with conditions in the immunology, hematology, cardiovascular and metabolic, respiratory, and transplant therapeutic areas. We use three strategic scientific platforms of plasma fractionation, recombinant protein technology, and cell and gene therapy to support continued innovation and continually refine ways in which products can address unmet medical needs and help patients lead full lives. CSL Behring operates one of the world’s largest plasma collection networks, CSL Plasma. Our parent company, CSL, headquartered in Melbourne, Australia, employs 32,000 people, and delivers its lifesaving therapies to people in more than 100 countries. To learn more about CSL, CSL Behring, CSL Seqirus and CSL Vifor  visit https://www.csl.com/ and CSL Plasma at https://www.cslplasma.com/ . Our Benefits For more information on CSL benefits visit How CSL Supports Your Well-being | CSL . You Belong at CSL At CSL, Inclusion and Belonging is at the core of our mission and who we are. It fuels our innovation day in and day out. By celebrating our differences and creating a culture of curiosity and empathy, we are able to better understand and connect with our patients and donors, foster strong relationships with our stakeholders, and sustain a diverse workforce that will move our company and industry into the future. To learn more about inclusion and belonging visit https://www.csl.com/careers/inclusion-and-belonging Equal Opportunity Employer CSL is an Equal Opportunity Employer. If you are an individual with a disability and need a reasonable accommodation for any part of the application process, please visit https://www.csl.com/accessibility-statement .",
+    "external_url": "https://csl.wd1.myworkdayjobs.com/CSL_External/job/EMEA-CH-Kanton-Bern-Bern-CSL-Behring/Scientist--Tech-Ops_R-275238",
+    "status": "matched",
+    "title": "Scientist, Tech Ops x2",
+    "company": "CSL Behring / Vifor",
+    "location": "EMEA, CH, Kanton Bern, Bern, CSL Behring",
+    "posted_date": "2026-05-04",
+    "department": "",
+    "score": 1,
+    "matched_keywords": [
+      "immunology"
+    ],
+    "deducted_keywords": []
   }
 }
