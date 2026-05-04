@@ -423,7 +423,7 @@
     "title": "Scientist Microbiological Quality Control",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-04-03",
+    "posted_date": "2026-04-04",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -481,7 +481,7 @@
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-04-26"
+    "cached_at": "2026-05-04"
   },
   "_facets:alirahealth:AliraHealth": {
     "facets": {},
@@ -693,7 +693,7 @@
     "title": "Scientist – QC Lab Systems & CSV (GMP)",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-04-03",
+    "posted_date": "2026-04-04",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -708,7 +708,7 @@
     "title": "Senior Scientist – Manufacturing Science & Technology (Biologics USP/DSP)",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-04-03",
+    "posted_date": "2026-04-04",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -958,11 +958,6 @@
     ],
     "deducted_keywords": []
   },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000119588947": {
-    "description": "Join the software team in the Machine Protection and Electrical Integrity (MPE) group and help shape the future of the High Luminosity LHC. In this role, you'll contribute to the evolution of the Quench Protection System (QPS) software and its integration within CERN's accelerator controls. Working with modern technologies (Rust, C++, Python, Java), you'll support a live system already deployed in cutting-edge test facilities. You'll collaborate with experienced engineers, gain hands-on experience, and help improve the reliability, usability, and integration of critical software systems. We welcome curious, motivated graduates who are eager to learn, contribute, and grow in a collaborative and inclusive environment. Your responsibilities: Contribute to the maintenance and evolution of the Rust-based data acquisition system and its client libraries (Python and C++). Support the development and testing of real-time control software. Assist in integrating the software stack within CERN's wider controls ecosystem, including access control systems (RBAC). Help document and improve the QPS functional model and its interactions with other systems. Participate in the maintenance of the existing QPS data acquisition system currently used in the LHC. Collaborate with stakeholders and users to understand requirements and support ongoing operations. More information here . Your profile: Professional experience in software development. Exposure to backend development is an advantage. Familiarity with common development tools and practices (e.g. Git, containers, CI/CD) is a plus. Experience working in a team environment. Basic understanding of Agile methodologies (Scrum/Kanban) is an advantage. Interest in working with complex, multi-language codebases. Curiosity about low-level systems, networking, and writing high-quality, maintainable code. Skills: Advanced knowledge of Rust and C++. Knowledge of Python and Java. Knowledge of relational database systems. Understanding of concurrency and multithreading. Linux system knowledge. Networking knowledge. Familiarity with DevOps (CI/CD, monitoring). Spoken and written English, with a commitment to learn French. Eligibility criteria: You are a national of a CERN Member or Associate Member State . By the application deadline, you have a maximum of two years of professional experience since graduation in Computer Science or Software Engineering (or a related field) and your highest educational qualification is either a Bachelor's or Master's degree . You have never had a CERN fellow or graduate contract before. Applicants without University degree are not eligible. Applicants with a PhD are not eligible.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000119588947-software-engineer-te-mpe-cb-2026-101-grae-?oga=true",
-    "status": "matched"
-  },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000119592006": {
     "description": "Introduction As a Polymers and Composites Technician, you will become part of the Polymer Laboratory within the Superconducting Magnet Technology (SMT) Section, contributing directly to the development of cutting-edge systems and components at the heart of CERN accelerator complex. In this hands-on role, you will be involved in the manufacturing of superconducting coils and other critical components, applying advanced composite techniques such as vacuum-assisted resin transfer molding (VARTM), bonding, and prepreg processing. You will also have the opportunity to contribute to the development and optimisation of innovative materials and fabrication methods, pushing the boundaries of performance and reliability. Functions Contribute to the operation of the Polymer Laboratory by manufacturing key components for the CERN accelerator complex and experiments, and supporting on-site interventions for troubleshooting and repair of complex systems. Participate in the construction of superconducting magnets, including the operation and maintenance of polymer processing equipment such as vacuum-assisted resin transfer molding (VARTM) systems. Support the development, characterisation, and testing of polymer materials and composite solutions for a wide range of applications, including the fabrication of mock-ups and prototypes. Prepare and maintain manufacturing procedures and work instructions to ensure high standards of quality and traceability in production processes. Handle the procurement of materials and tooling for the Polymer Laboratory, and maintain the chemical inventory in compliance with safety and quality requirements.",
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000119592006-polymers-and-composites-technician-te-msc-smt-2026-87-ld-?oga=true",
@@ -1183,7 +1178,7 @@
     "title": "Senior Scientist microbiological Quality Control",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-04-20",
+    "posted_date": "2026-04-21",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -1219,7 +1214,7 @@
     "title": "Senior Scientist, Material Qualification and Release (QC GMP)",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-04-20",
+    "posted_date": "2026-04-21",
     "department": "",
     "score": -1,
     "matched_keywords": [
