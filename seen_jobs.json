@@ -407,7 +407,7 @@
     "title": "Vice President, Regulatory Affairs, Europe and International",
     "company": "BeiGene",
     "location": "Basel",
-    "posted_date": "2026-04-05",
+    "posted_date": "2026-04-06",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -610,7 +610,9 @@
     "https://csl.wd1.myworkdayjobs.com/CSL_External/job/EMEA-CH-Kanton-Bern-Bern-CSL-Behring/Scientist--Tech-Ops_R-275548-1": "ignored",
     "https://csl.wd1.myworkdayjobs.com/CSL_External/job/EMEA-CH-Kanton-Bern-Bern-CSL-Behring/Scientist--Tech-Ops_R-275546-1": "ignored",
     "https://csl.wd1.myworkdayjobs.com/CSL_External/job/EMEA-CH-Kanton-Bern-Bern-CSL-Behring/Scientist--Tech-Ops_R-275544-1": "ignored",
-    "https://csl.wd1.myworkdayjobs.com/CSL_External/job/EMEA-CH-Kanton-Bern-Bern-CSL-Behring/Scientist--Tech-Ops_R-275543-1": "ignored"
+    "https://csl.wd1.myworkdayjobs.com/CSL_External/job/EMEA-CH-Kanton-Bern-Bern-CSL-Behring/Scientist--Tech-Ops_R-275543-1": "ignored",
+    "https://csl.wd1.myworkdayjobs.com/CSL_External/job/EMEA-CH-Kanton-Bern-Bern-CSL-Behring/Scientist--Tech-Ops_R-275241": "ignored",
+    "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Internship-in-Innovation---Sustainability---For-students-in-the-field-of-Computer-Science--Informatics--Business-Informatics--Data-Science--Statistics--Mathematics--or-Business-Analytics_202604-108588": "ignored"
   },
   "https://gloorlang.starhunter.software/Headhunter/project/job-ad/hash/693ffd941548c": {
     "external_url": "https://gloorlang.starhunter.software/Headhunter/project/job-ad/hash/693ffd941548c",
@@ -669,7 +671,7 @@
     "title": "Post Doctorate Scientist in Intestinal Inflammation - at the Institute of Human Biology (IHB)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-05",
+    "posted_date": "2026-04-06",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -773,7 +775,7 @@
     "title": "Manager Quality System & Regulatory Compliance",
     "company": "Abbott",
     "location": "Switzerland - Zurich",
-    "posted_date": "2026-04-05",
+    "posted_date": "2026-04-06",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -882,7 +884,7 @@
     "title": "Computational Biology - Oncology",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-08",
+    "posted_date": "2026-04-09",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -938,7 +940,7 @@
     "title": "Global Medical Affairs Lead Genomic Profiling",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-13",
+    "posted_date": "2026-04-14",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -949,16 +951,6 @@
     ],
     "deducted_keywords": []
   },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000120661447": {
-    "description": "Join the Vacuum, Surfaces and Coatings (VSC) Group, responsible for the design, construction, operation, maintenance, and continuous improvement of the Large Hadron Collider (LHC) vacuum system. As a Material and Surface Science Technician, you will contribute to the consolidation, upgrade, and maintenance of the LHC beam vacuum systems during Long Shutdown 3 (LS3), starting in 2026. Working as part of a dynamic operations team, you will play a key role in preparing the accelerator for its next phase of high-performance operation. Your responsibilities: Take part in on-site interventions in the LHC tunnel, contributing to helium leak detection, local heating operations, and the activation of non-evaporable getter (NEG) coatings. Carry out ultra-high vacuum pressure measurements and analyse residual gas composition with mass spectrometry, including identifying possible organic contaminants or air leaks. Assist in preparing and updating technical documentation, tracking the NEG performance of the LHC vacuum system during LS3 activities. Support quality assurance efforts by validating each step of the process and producing detailed intervention reports to ensure traceability and compliance Your profile: Basic understanding of ultra-high vacuum (UHV) principles. Awareness of outgassing phenomena in vacuum systems. Familiarity with simple techniques for creating and maintaining UHV environments. Basic knowledge of NEG (Non-Evaporable Getter) behaviour and use. Introductory know-how of quadrupole mass spectrometers (RGA) in UHV setups. Basic knowledge of helium leak detection methods. Skills Able to operate basic ultra-high vacuum (UHV) gauges and read their data. Able to assist with helium leak detection and note basic results. Able to help prepare and update simple technical documentation. Able to support on-site vacuum tasks, like NEG activation and checks. Spoken and written English or French, with a commitment to learn the basics of the other language. Eligibility criteria: You are a national of a CERN Member or Associate Member State . By the application deadline, you have a maximum of two years of professional experience since graduation in Material and Surface Science (or a related field) and your highest educational qualification is a general secondary education diploma . You have never had a CERN fellow or graduate contract before. Applicants with a Bachelor's, Master's or PhD degree are not eligible.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000120661447-vacuum-technician-te-vsc-bvo-2026-106-grae-?oga=true",
-    "status": "matched"
-  },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000120643462": {
-    "description": "You will take part in the fabrication and assembly of a wide range of electronic and opto-electronic test systems used to evaluate component performance. Using various machines in our mechanical workshop (CNC routers, milling machines, lathes, drill presses, etc.), you will manufacture parts to support the activities of the ESE group. You will also contribute to building wiring harnesses that connect devices to test systems, including for use in demanding environments such as radiation test facilities. In addition, you will assist in assembling and testing large-scale setups. Your responsibilities: Use machine tools to create mechanical parts for test setups. Assemble wiring and fibre harnesses. Solder electronic components onto PCBs. Design simple PCBs after receiving training if necessary. Carry out testing of cabling harnesses and assembled electronic circuits using a range of laboratory instruments. Your profile: Hands-on experience in mechanical parts manufacturing. Basic understanding of compact CNC machines. Familiarity with electronic board assembly, cable and wiring fabrication. Performed assembly, wiring, and testing of electromechanical assemblies. Skills: Ability to read and interpret mechanical drawings and Electronic schematics. Ability to operate conventional machine tools. Capable of building, wiring and testing Electromechanical assemblies. Working in teams: effective collaboration within multi-disciplinary teams. Spoken and written English, with a commitment to learn French. Eligibility criteria: You are a national of a CERN Member or Associate Member State . By the application deadline, you have a maximum of two years of professional experience since graduation in Technician in Mechatronic / Mec / Elect (or a related field) and your highest educational qualification is a general secondary education diploma . You have never had a CERN fellow or graduate contract before. Applicants with a Bachelor's, Master's or PhD degree are not eligible.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000120643462-mechatronics-technician-for-optical-link-ep-ese-be-2026-104-grae-?oga=true",
-    "status": "matched"
-  },
   "/job/Basel/Sr-Scientist---Computational-Biology_202603-108151-1": {
     "description": "At Roche you can show up as yourself, embraced for the unique qualities you bring. Our culture encourages personal expression, open dialogue, and genuine connections,  where you are valued, accepted and respected for who you are, allowing you to thrive both personally and professionally. This is how we aim to prevent, stop and cure diseases and ensure everyone has access to healthcare today and for generations to come. Join Roche, where every voice matters. The Position At Roche you can show up as yourself, embraced for the unique qualities you bring. Our culture encourages personal expression, open dialogue, and genuine connections, where you are valued, accepted and respected for who you are, allowing you to thrive both personally and professionally. This is how we aim to prevent, stop and cure diseases and ensure everyone has access to healthcare today and for generations to come. Join Roche, where every voice matters. A healthier future. It’s what drives us to innovate. To continuously advance science and ensure everyone has access to the healthcare they need today and for generations to come. Creating a world where we all have more time with the people we love. That’s what makes us Roche. The Computational Sciences Centre of Excellence is a global organisation enabling Roche’s Research and Early Development units to develop novel therapeutics that will have an impact on patient lives. Within the Computational Sciences Centre of Excellence, the Computational Biology and Medicine department focuses on furthering our understanding of disease pathogenesis, patient populations, and target biology by having access to the largest Pharma R&D datasets in the world. In partnership with our scientists across Roche, we create better medicines by augmenting every part of R&D through our data-driven culture. The Opportunity: We are seeking a highly motivated computational scientist to join our Neuroscience and Rare Diseases therapeutic area. In this role, you will be a key member of an interdisciplinary team dedicated to advancing our understanding of neurological diseases.  As Roche continues to build and advance its capabilities in computational and data-driven R&D, this position offers an integral role in our strategy. You will identify novel therapeutic targets and biomarkers by analyzing high-dimensional data. You will collaborate closely with leading laboratory scientists and clinicians, contributing directly to a pipeline of innovative medicines for patients with neurodegenerative and neuroinflammation diseases. You will also be part of the wider Computational Biology and Medicine unit of the Computational Sciences Centre of Excellence drawing on the shared experience and expertise of colleagues globally. Data Analysis & Insight Generation Lead the analysis of high-dimensional datasets such as single-cell, spatial, proteomics, metabolomics, and human genetics data to support therapeutic and biomarker development Collaborate closely with the AI/ML Foundation Model development teams and apply advanced quantitative methods, supporting drug discovery projects in Neuroscience and Rare Diseases. Deliver clear and objective data-driven insights to inform portfolio decision-making Collaboration & Strategy Contribute to the data and analytics strategy for Neuroscience and Rare Diseases efforts in collaboration with partners in the therapeutic area Develop effective working relationships with key stakeholders in the disease therapeutic area, laboratory teams, and computational teams Team & Culture Contribute to a collaborative workplace culture of scientific rigor, continuous improvement, and open feedback Support the scientific growth of team members by sharing knowledge and expertise Who you are You are a dedicated scientist with a strong background in applying computational methods to biological problems. You are motivated by scientific challenges and have a clear interest in translating data into meaningful biological insights. PhD in Bioinformatics, Biostatistics, Computational Biology, or a similar field with 3-5 years relevant work experience preferred. Demonstrated experience in drug discovery and/or translational research is highly valued Experience in disease biology is required; specific expertise in neurodegenerative diseases or neuro-immune interactions is a plus. Technical expertise in one or more of the following: analysis of high-dimensional Omic data (e.g., scRNA-seq, spatial data, proteomics, metabolomics), population statistical genetics, or integrative multi-omics from preclinical and/or clinical samples Evidenced scientific impact through primary author publications in scientific journals. Evidenced programming skills in R and/or Python. Working knowledge of a Linux/Unix environment and experience processing data on an HPC cluster Knowledge and experience in Statistical and Machine Learning methods Strong communication skills with the ability to present complex results clearly to both specialist and non-specialist audiences and the a bility to work effectively in a collaborative, cross-functional scientific environment. If you are passionate about contributing to a committed team and have the dedication to partnership and innovation, Roche is the place for you! Every role at Roche plays a part in making a difference in patients’ lives.  Unwavering focus, collaborative teamwork, and exceptional delivery are key behaviors that drive our mission of doing now what patients need next. Together, we can be transformative. Who we are A healthier future drives us to innovate. Together, more than 100’000 employees across the globe are dedicated to advance science, ensuring everyone has access to healthcare today and for generations to come. Our efforts result in more than 26 million people treated with our medicines and over 30 billion tests conducted using our Diagnostics products. We empower each other to explore new possibilities, foster creativity, and keep our ambitions high, so we can deliver life-changing healthcare solutions that make a global impact. Let’s build a healthier future, together. Roche is an Equal Opportunity Employer.",
     "external_url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Sr-Scientist---Computational-Biology_202603-108151-1",
@@ -966,7 +958,7 @@
     "title": "Sr. Scientist - Computational Biology - Neuroscience & Rare Diseases",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-15",
+    "posted_date": "2026-04-16",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -1016,7 +1008,7 @@
     "title": "Post Doctorate Scientist – Vascularized Kidney Organoids - at the Institute of Human Biology (IHB)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-14",
+    "posted_date": "2026-04-15",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -1060,7 +1052,7 @@
     "title": "Associate Director, Senior International Clinical Trial Regulatory Lead",
     "company": "Takeda",
     "location": "Zurich, Switzerland",
-    "posted_date": "2026-04-05",
+    "posted_date": "2026-04-06",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1075,7 +1067,7 @@
     "title": "Associate Director, EUCAN Regulatory Lead - Oncology",
     "company": "Takeda",
     "location": "Zurich, Switzerland",
-    "posted_date": "2026-04-05",
+    "posted_date": "2026-04-06",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1091,7 +1083,7 @@
     "title": "Associate Director, EUCAN Regulatory Lead - GI and Inflammation",
     "company": "Takeda",
     "location": "Zurich, Switzerland",
-    "posted_date": "2026-04-05",
+    "posted_date": "2026-04-06",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1106,7 +1098,7 @@
     "title": "Manager, International Clinical Trial Regulatory Lead",
     "company": "Takeda",
     "location": "Zurich, Switzerland",
-    "posted_date": "2026-04-05",
+    "posted_date": "2026-04-06",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1141,7 +1133,7 @@
     "title": "​Sr Manager / Associate Director Regulatory Affairs - Swiss Affiliate",
     "company": "Gilead Sciences",
     "location": "Switzerland - Zug",
-    "posted_date": "2026-04-20",
+    "posted_date": "2026-04-21",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1224,7 +1216,7 @@
     "title": "Analytical Molecular Characterization Team Lead and Mass Spectrometry Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-22",
+    "posted_date": "2026-04-23",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1251,7 +1243,7 @@
     "title": "Internship in Global Medical Affairs (12 months)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-23",
+    "posted_date": "2026-04-24",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1278,7 +1270,7 @@
     "title": "Internship for Students of Computational Biology, Computational Chemistry,  Applied Mathematics (6 months)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-24",
+    "posted_date": "2026-04-25",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1319,7 +1311,7 @@
     "title": "Post Doctorate Scientist (IHB) - In Vitro Modeling Adaptive Immunologist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-24",
+    "posted_date": "2026-04-25",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -1342,7 +1334,7 @@
     "title": "Post Doctoral Scientist (IHB) - Computational Immunology",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-24",
+    "posted_date": "2026-04-25",
     "department": "",
     "score": 12,
     "matched_keywords": [
@@ -1482,7 +1474,7 @@
     "title": "Global Regulatory Affairs Director (Neuroscience)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-04-28",
+    "posted_date": "2026-04-29",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1798,7 +1790,7 @@
     "title": "Translational Medicine Academy fellow in Biomarker Development (BMD) Molecular, Cellular & Soluble Sciences (MCS)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-05-05",
+    "posted_date": "2026-05-06",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -1871,7 +1863,7 @@
     "title": "Modelling and Simulations Scientist ( 2 year contract)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-05-05",
+    "posted_date": "2026-05-06",
     "department": "",
     "score": 6,
     "matched_keywords": [
