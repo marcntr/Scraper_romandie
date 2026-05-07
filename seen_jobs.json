@@ -372,11 +372,6 @@
     "external_url": "https://jobs.smartrecruiters.com/AbbVie/3743990011983802-affiliate-safety-representative-asr-?oga=true",
     "status": "matched"
   },
-  "https://api.smartrecruiters.com/v1/companies/Sobi/postings/744000113687667": {
-    "description": "As a Principal Medical Writer, you will provide communication expertise and lead a strategy-driven approach to authoring of key clinical and regulatory documents and regulatory submissions, to ensure clarity, credibility and consistency of clinical information throughout submission packages and clinical programs, to facilitate regulatory assessment, and to achieve a product label that fulfills commercial needs. Key responsibilities: Lead a strategy-driven approach to authoring of the clinical components of regulatory submissions, ensuring a clear, concise, complete, credible and compelling scientific content aligned with the objective of the regulatory document. Assume primary responsibility for preparation of key clinical and regulatory documents and documents supporting major regulatory submissions as well as responses to regulatory agencies/ health authorities. Provide leadership and project coordination to  cross-functional authoring teams, ensuring efficient delivery, high quality, and regulatory compliance of clinical regulatory documents. Liaise with senior project staff, prospectively develop a storyboard for the submission, and plan document development to provide optimal support for the proposed prescribing information. Assume a Product Medical Writer responsibility, providing strategic medical writing expertise and support to multiple projects in a clinical development program. Ensure high technical quality of the documents in compliance with in-house technical requirements. Coach and develop less experienced Medical Writers. Oversee and coordinate all Medical Writers assisting on documents under your responsibility, including in-house consultants and Medical Writers at CRO.",
-    "external_url": "https://jobs.smartrecruiters.com/Sobi/744000113687667-principal-medical-writer?oga=true",
-    "status": "matched"
-  },
   "_generic:Executive Insight": {
     "keywords": "medical affairs"
   },
@@ -582,7 +577,9 @@
     "https://csl.wd1.myworkdayjobs.com/CSL_External/job/EMEA-CH-Kanton-Bern-Bern-CSL-Behring/Scientist--Tech-Ops_R-275543-1": "ignored",
     "https://csl.wd1.myworkdayjobs.com/CSL_External/job/EMEA-CH-Kanton-Bern-Bern-CSL-Behring/Scientist--Tech-Ops_R-275241": "ignored",
     "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Internship-in-Innovation---Sustainability---For-students-in-the-field-of-Computer-Science--Informatics--Business-Informatics--Data-Science--Statistics--Mathematics--or-Business-Analytics_202604-108588": "ignored",
-    "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Senior-DSX-Data-Scientist_202605-111091": "ignored"
+    "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Senior-DSX-Data-Scientist_202605-111091": "ignored",
+    "https://beigene.wd5.myworkdayjobs.com/BeiGene/job/Basel/Head-of-Regulatory-Affairs--Europe_R31198": "ignored",
+    "https://job-boards.greenhouse.io/isomorphiclabs/jobs/5741392004": "ignored"
   },
   "https://gloorlang.starhunter.software/Headhunter/project/job-ad/hash/693ffd941548c": {
     "external_url": "https://gloorlang.starhunter.software/Headhunter/project/job-ad/hash/693ffd941548c",
@@ -1909,7 +1906,7 @@
   },
   "https://www.michaelpage.ch/job-detail/business-development-manager-defense-europe-mfd/ref/jn-122025-6902007": {
     "external_url": "https://www.michaelpage.ch/job-detail/business-development-manager-defense-europe-mfd/ref/jn-122025-6902007",
-    "status": "matched",
+    "status": "ignored",
     "title": "Business Development Manager - Defense Europe (m/f/d)",
     "company": "Michael Page Switzerland",
     "location": "Switzerland",
