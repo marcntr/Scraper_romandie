@@ -423,7 +423,7 @@
     "title": "Scientist Microbiological Quality Control",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-04-06",
+    "posted_date": "2026-04-07",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -697,7 +697,7 @@
     "title": "Scientist – QC Lab Systems & CSV (GMP)",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-04-06",
+    "posted_date": "2026-04-07",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -712,7 +712,7 @@
     "title": "Senior Scientist – Manufacturing Science & Technology (Biologics USP/DSP)",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-04-06",
+    "posted_date": "2026-04-07",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -1063,7 +1063,7 @@
     "title": "Senior Scientist microbiological Quality Control",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-04-20",
+    "posted_date": "2026-04-21",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -1099,7 +1099,7 @@
     "title": "Senior Scientist, Material Qualification and Release (QC GMP)",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-04-20",
+    "posted_date": "2026-04-21",
     "department": "",
     "score": -1,
     "matched_keywords": [
@@ -1634,7 +1634,7 @@
     "title": "Scientist, Tech Ops x2",
     "company": "CSL Behring / Vifor",
     "location": "EMEA, CH, Kanton Bern, Bern, CSL Behring",
-    "posted_date": "2026-05-04",
+    "posted_date": "2026-05-05",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1778,7 +1778,7 @@
     "title": "Scientist, Tech Ops",
     "company": "CSL Behring / Vifor",
     "location": "EMEA, CH, Kanton Bern, Bern, CSL Behring",
-    "posted_date": "2026-05-04",
+    "posted_date": "2026-05-05",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1870,22 +1870,6 @@
     ],
     "deducted_keywords": []
   },
-  "/job/Basel/Senior-DSX-Data-Scientist_202605-111091": {
-    "description": "At Roche you can show up as yourself, embraced for the unique qualities you bring. Our culture encourages personal expression, open dialogue, and genuine connections,  where you are valued, accepted and respected for who you are, allowing you to thrive both personally and professionally. This is how we aim to prevent, stop and cure diseases and ensure everyone has access to healthcare today and for generations to come. Join Roche, where every voice matters. The Position This role is in Analytical Data Science, a core function within Product Development Data Sciences (PDD) that provides strategic leadership and scientific rigor across Development at Roche. PDD Analytical Data Science teams are mobilized across the portfolio to generate data-driven insights, identify opportunities for scale, and implement impactful solutions. PDD Analytical Data Science is recognized as a leading hub for top industry talent, operating as an agile workforce to deliver regulatory commitments across the portfolio. We identify, influence, and adopt industry-leading digital and automation solutions, develop analytical approaches to support exploratory analyses, and align statistical programming practices across both early- and late-stage clinical development. The Opportunity: The Data Scientist in the Data Science Acceleration (DSX) team is responsible for developing scalable tools, environments, and workflows that enable efficient, high-quality statistical computing across Product Development Data Sciences (PDD). This role focuses on creating and maintaining next-generation capabilities that support automation of programming workflows, generation of reusable coding macros, and advanced data visualization. Working closely with statistical programmers, biostatisticians, and clinical scientists, the Data Scientist translates scientific and operational needs into robust, modular, and user-friendly solutions that streamline evidence generation and support faster, more reliable decision-making across the development pipeline. You design, develop, and maintain robust statistical computing tools and platforms that support scalable, high-quality analytics across Product Development Data Sciences (PDD) You lead the development of reusable code modules, macro libraries, and workflow automation components that accelerate statistical programming and insight generation You serve as a key technical partner to statistical programmers, biostatisticians, and clinical scientists, translating scientific and operational needs into scalable, user-centered solutions You contribute to architectural decisions, codebase design patterns, and infrastructure improvements to enhance reproducibility, performance, and maintainability You lead or contribute to moderate-sized DSX projects, coordinating deliverables and ensuring alignment with broader development timelines and regulatory priorities You act as a functional mentor and technical resource to junior team members, fostering best practices in code development, testing, and documentation You collaborate cross-functionally to expand data visualization, workflow orchestration, and computing capabilities that enable faster, more flexible evidence generation You integrate feedback from internal users and stakeholders to iterate and improve DSX platforms, balancing innovation with reliability and compliance Who you are: You hold a Master’s degree or PhD in Computer Science, Data Science, Statistics, Bioinformatics, Engineering, or a related quantitative field You have a minimum of 3 years of experience in data science, statistical computing, or software engineering, preferably within a life sciences, healthcare, or regulated environment You have a proven ability to independently develop, optimize, and scale data science tools or platforms in support of clinical or scientific workflows You are proficient in programming languages such as R or Python, with hands-on experience in version control (e.g., Git), testing frameworks, and workflow orchestration tools You have a strong understanding of data pipelines, analytical workflows, and computational environments that support regulatory and exploratory analysis You have experience collaborating with cross-functional teams, translating user needs into scalable technical solutions, and iterating based on stakeholder feedback You demonstrate capacity for independent thinking and ability to make decisions based upon sound principles You bring excellent strategic agility including problem-solving and critical thinking skills, and agility that extends beyond the technical domain You demonstrate respect for cultural differences when interacting with colleagues in the global workplace You have excellent verbal and written communication skills, specifically in the areas of presentation and writing, with the ability to explain complex technical concepts in clear language Preferred: Experience designing and maintaining data science tools, packages, or platforms used by multiple teams across an organization Familiarity with enterprise-level statistical computing environments, containerized workflows (e.g., Docker, Kubernetes), or cloud-based infrastructure Demonstrated ability to contribute to or lead cross-functional initiatives involving data science, programming, and systems engineering Deep understanding of software development best practices (e.g., CI/CD, modularization, dependency management) in scientific programming contexts Experience implementing automation, reproducibility, or performance optimization within clinical or exploratory data workflows Ability to synthesize user requirements from scientists, programmers, and clinical teams into well-scoped, technical specifications Strong awareness of the evolving data science landscape in healthcare or pharma, including tools, standards, and innovation trends Previous contributions to internal knowledge-sharing, training, or code reuse efforts across departments or teams Location This position is based in Basel Relocation Assistance is not available #PDDBasel Who we are A healthier future drives us to innovate. Together, more than 100’000 employees across the globe are dedicated to advance science, ensuring everyone has access to healthcare today and for generations to come. Our efforts result in more than 26 million people treated with our medicines and over 30 billion tests conducted using our Diagnostics products. We empower each other to explore new possibilities, foster creativity, and keep our ambitions high, so we can deliver life-changing healthcare solutions that make a global impact. Let’s build a healthier future, together. Roche is an Equal Opportunity Employer.",
-    "external_url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Senior-DSX-Data-Scientist_202605-111091",
-    "status": "ignored",
-    "title": "Senior DSX Data Scientist",
-    "company": "Roche",
-    "location": "Basel",
-    "posted_date": "2026-05-06",
-    "department": "",
-    "score": 2,
-    "matched_keywords": [
-      "PhD",
-      "bioinformatics"
-    ],
-    "deducted_keywords": []
-  },
   "/job/Switzerland---Baar/Medical-Science-Liaison-CVRM_R-248648": {
     "description": "Medical Science Liaison Renal and Metabolism - East Location: field work, East of Switzerland Do you have expertise in, and passion for Field Based Medical Affairs? Would you like to apply your expertise to impact the patients in a company that follows the science and turns ideas into life changing medicines? Then AstraZeneca might be the one for you! About AstraZeneca AstraZeneca is a global, science-led, patient-focused biopharmaceutical company that focuses on the discovery, development and commercialisation of prescription medicines for some most serious diseases. But we’re more than one of the world’s leading pharmaceutical companies. What you’ll do... Be a scientific expert in the field with a focus on engaging in high-level exchange, on building and maintaining peer-to-peer relationship with external experts and on understanding and uncovering unmet medical needs and on generating relevant insights. You will report directly into the Lead Medical Affairs CVRM. Develop the medical strategy and its implementation within the framework of the brand plan and Transform Health care delivery plan. Building peer level relationship with key external experts to support understanding of the Swiss market & clinical dynamics and to engage with the medical / scientific community in a highly credible, balanced, and objective manner, representing AstraZeneca’s dedication to and excellence in science. Work closely with Regulatory, Market Access, and Marketing and other functions on field-related medical issues thus helping support the renal compounds during the entire lifecycle, as well as supporting local, regional and global AstraZeneca clinical research program and externally sponsored research projects. Build meaningful real-world evidence data generation projects in collaboration with the brand team across the lifecycle of the brands in your therapeutic areas and provide medical-scientific expertise to medical and cross-functional activities that improve disease management and patient outcomes. Skills and experiences: · Professional experience of working in the pharmaceutical industry, preferentially as Field Medical or within Medical Affairs. · University degree in a health-related scientific field, such as MD or PhD. · Expertise around renal diseases and / or obesity strongly preferred. · Proficiency in German and English, French is desirable. · Strong communication and presentation skills to various audiences. · Active driving license and willingness to travel. We offer An international environment with plenty of opportunities to learn, grow and develop new skills. By joining our team, you will have the chance to create a real difference in the lives of patients every day. You'll work closely with internal and external experts, encouraging cross-functional collaboration and growing your professional network. We value empowerment and trust in our employees. Furthermore, you will craft processes and receive the appreciation and acknowledgment you deserve for your valuable contributions. Why AstraZeneca? We’re dedicated to being a Great Place to Work. Where you are empowered to push the boundaries of science and spark your entrepreneurial spirit. There’s no better place to make a difference to medicine, patients, and society. An inclusive culture that champions diversity and collaboration, and always committed to lifelong learning, growth and development. We’re on an exciting journey to pioneer the future of healthcare. Be among our employees who continue to make us an innovation-driven company that stands firmly among the leaders in biopharmaceuticals. Date Posted 06-May-2026 Closing Date 12-May-2026 AstraZeneca embraces diversity and equality of opportunity.  We are committed to building an inclusive and diverse team representing all backgrounds, with as wide a range of perspectives as possible, and harnessing industry-leading skills.  We believe that the more inclusive we are, the better our work will be.  We welcome and consider applications to join our team from all qualified candidates, regardless of their characteristics.  We comply with all applicable laws and regulations on non-discrimination in employment (and recruitment), as well as work authorization and employment eligibility verification requirements.",
     "external_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/Switzerland---Baar/Medical-Science-Liaison-CVRM_R-248648",
@@ -1913,7 +1897,7 @@
     "title": "Medical Affairs Coordinator",
     "company": "ICON plc",
     "location": "Switzerland, Basel",
-    "posted_date": "2026-05-06",
+    "posted_date": "2026-05-07",
     "department": "",
     "score": 2,
     "matched_keywords": [
