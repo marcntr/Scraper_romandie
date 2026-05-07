@@ -495,21 +495,6 @@
     "external_url": "https://jobs.smartrecruiters.com/Sobi/744000115640399-european-supply-chain-associate-director?oga=true",
     "status": "matched"
   },
-  "https://api.smartrecruiters.com/v1/companies/Sobi/postings/744000115644068": {
-    "description": "The Associate Director Global Medical Affairs, will function as global medical lead for hematology, to build and execute the medical plan as well as support the necessary cross-functional launch preparations and lead Sobi toward the successful lifecycle management of our hematology medicines, while adhering to the highest scientific and ethical standards. Key Responsabilities Support the MPL (Hematology) to build and execute global medical strategy/plans, including the following deliverables Build and execute global medical strategy/plan and tactical plan Manage engagement of global KOLs in the field Co-leading evidence generation workshops Review and answer any Medical Information questions, as needed Support development of reactive slides decks for external use on relevant data Input to clinical studies in phase 3-4 Support scientific communications with internal cross functional colleagues Facilitate and support external and internal training and training material Give scientific input to external and internal scientific publications Support to cross-functional projects Provide scientific input, review and approval to the development of promotional material driven by the commercial team To be successful in these activities, the Associate Director Global Medical Affairs Hematology: Will possess and continue to develop a deep understanding and knowledge on PNH, ITP and aplastic anaemia and related haematology therapeutic areas Will develop productive relationships and contributions with key external stakeholders Will develop productive relationships and contributions within the cross-functional headquarter team, as well as with local affiliate offices, and collaborative partners Will role model the highest scientific and ethical standards, and work in accordance with applicable rules and regulations with regards medical activities",
-    "external_url": "https://jobs.smartrecruiters.com/Sobi/744000115644068-associate-director-global-medical-affairs-global-medical-lead-haematology?oga=true",
-    "status": "ignored",
-    "title": "Associate Director Global Medical Affairs/Global Medical Lead Haematology",
-    "company": "Sobi",
-    "location": "Basel, Switzerland",
-    "posted_date": "2026-03-19",
-    "department": "Science",
-    "score": 1,
-    "matched_keywords": [
-      "medical affairs"
-    ],
-    "deducted_keywords": []
-  },
   "_facets:onehealthineers:SHSJB": {
     "facets": {},
     "search_texts": [
@@ -885,7 +870,7 @@
     "title": "Computational Biology - Oncology",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-09",
+    "posted_date": "2026-04-08",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -941,7 +926,7 @@
     "title": "Global Medical Affairs Lead Genomic Profiling",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-14",
+    "posted_date": "2026-04-13",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -959,7 +944,7 @@
     "title": "Sr. Scientist - Computational Biology - Neuroscience & Rare Diseases",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-16",
+    "posted_date": "2026-04-15",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -1004,7 +989,7 @@
     "title": "Post Doctorate Scientist – Vascularized Kidney Organoids - at the Institute of Human Biology (IHB)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-15",
+    "posted_date": "2026-04-14",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -1019,11 +1004,6 @@
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000121108287": {
     "description": "You will provide technical support to the Civil Engineering section within CERN's Site Asset Management group, contributing to a wide range of surface and underground infrastructure projects. You will support the implementation of design specifications on site, across civil engineering works including roads, networks, buildings and technical galleries, in a world-class, multicultural environment. Your responsibilities: Responsibility for work requests in the fields of civil engineering, roads, networks and buildings (concrete/metal structures, building envelope) for surface buildings, underground structures and technical galleries. Launch and follow-up of construction or renovation works in close cooperation with internal customers, including coordination of various technical and secondary trades. Regular control of safety rules enforcement on work sites, quality control of contractors' daily work, and control of works execution in line with best practices and technical specifications. Budget follow-up, including checking of quotes, launch of orders, control and validation of final measurements established by contractors, and use of CERN's computer tools. Your profile: Initial experience in building or underground structure construction, maintenance or renovation. First exposure to planning, organising and coordinating various trades. Basic knowledge of site measurements and cost control. Awareness of quality standards and site safety rules. Skills: Evidence-based problem-solving and proactivity. Teamwork and collaboration. Flexibility and continuous learning. Spoken and written English or French, with a commitment to learn the other language. Eligibility criteria: You are a national of a CERN Member or Associate Member State . By the application deadline, you have a maximum of two years of professional experience since graduation in Civil Engineering (or a related field) and your highest educational qualification is a general secondary education diploma . You have never had a CERN fellow or graduate contract before. Applicants with a Bachelor's, Master's or PhD degree are not eligible.",
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000121108287-civil-engineering-works-supervisor-sce-sam-ce-2026-113-grae-?oga=true",
-    "status": "matched"
-  },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000121176824": {
-    "description": "Join CERN's Database and Analytics group to operate and support the Database on Demand (DBOD) service, used by many IT services, and across CERN's experimental programme. The DBOD service provides more than one thousand MySQL, PostgreSQL, and InfluxDB instances, through multiple lifecycle environments, offering to its users administrative functionality and features such as configuration management, monitoring, backup and recovery, replication, and high availability. Your responsibilities As an early-career professional working in the Database Services (DB) team, you will contribute to the administration of the instances hosted in the DBOD service. You will participate in the evolution of the user interface (based on Angular and Flask). Participate in the service configuration and architecture design, database upgrades and patches campaigns. Work with hardware migrations, monitoring of systems health and performance to ensure high levels of performance, availability and security. You will also assist and advise users and play a role in the evolution of the DBOD service, discussing and working with the team on service enhancements including technical mentorship and cross-training to peers. Your role will include both operations tasks and software development in Python, bash, and Angular. You will be working with open-source software and gaining experience with the IT infrastructure stack used at CERN, such as AlmaLinux 9, OpenStack, Puppet, Prometheus, GitLab, etc. Your profile Experience working with MySQL, PostgreSQL, or TimescaleDB databases. Experience with SQL, Unix shell script and Python. Knowledge of Linux operating system. Knowledge of service administration and configuration tools like Puppet. Experience in the monitoring of system health and performance indicators. Experience with Rundeck automation or orchestration tools. Skills Familiarity with large-scale and high-availability database environments. Proficiency with Angular and Flask. Knowledge and understanding of containerisation/container orchestration. Knowledge of the ELK stack. Spoken and written English, with a commitment to learn French. Eligibility criteria: You are a national of a CERN Member or Associate Member State . By the application deadline, you have a maximum of two years of professional experience since graduation in Computer Science (or a related field) and your highest educational qualification is either a Bachelor's or Master's degree . You have never had a CERN fellow or graduate contract before. Applicants without University degree are not eligible. Applicants with a PhD are not eligible.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000121176824-database-platform-engineer-it-da-db-2026-111-grae-?oga=true",
     "status": "matched"
   },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000121113617": {
@@ -1064,7 +1044,7 @@
     "title": "Senior Scientist microbiological Quality Control",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-04-21",
+    "posted_date": "2026-04-20",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -1084,7 +1064,7 @@
     "title": "​Sr Manager / Associate Director Regulatory Affairs - Swiss Affiliate",
     "company": "Gilead Sciences",
     "location": "Switzerland - Zug",
-    "posted_date": "2026-04-21",
+    "posted_date": "2026-04-20",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1100,7 +1080,7 @@
     "title": "Senior Scientist, Material Qualification and Release (QC GMP)",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-04-21",
+    "posted_date": "2026-04-20",
     "department": "",
     "score": -1,
     "matched_keywords": [
@@ -1167,7 +1147,7 @@
     "title": "Analytical Molecular Characterization Team Lead and Mass Spectrometry Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-23",
+    "posted_date": "2026-04-22",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1194,7 +1174,7 @@
     "title": "Internship in Global Medical Affairs (12 months)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-24",
+    "posted_date": "2026-04-23",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1221,7 +1201,7 @@
     "title": "Internship for Students of Computational Biology, Computational Chemistry,  Applied Mathematics (6 months)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-25",
+    "posted_date": "2026-04-24",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1262,7 +1242,7 @@
     "title": "Post Doctorate Scientist (IHB) - In Vitro Modeling Adaptive Immunologist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-25",
+    "posted_date": "2026-04-24",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -1285,7 +1265,7 @@
     "title": "Post Doctoral Scientist (IHB) - Computational Immunology",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-25",
+    "posted_date": "2026-04-24",
     "department": "",
     "score": 12,
     "matched_keywords": [
@@ -1420,7 +1400,7 @@
     "title": "Global Regulatory Affairs Director (Neuroscience)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-04-29",
+    "posted_date": "2026-04-28",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1545,20 +1525,6 @@
     "matched_keywords": [],
     "deducted_keywords": []
   },
-  "https://www.michaelpage.ch/job-detail/business-development-manager-defense-europe-mfd/ref/jn-122025-6902007": {
-    "external_url": "https://www.michaelpage.ch/job-detail/business-development-manager-defense-europe-mfd/ref/jn-122025-6902007",
-    "status": "ignored",
-    "title": "Business Development Manager - Defense Europe (m/f/d)",
-    "company": "Michael Page Switzerland",
-    "location": "Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": -2,
-    "matched_keywords": [],
-    "deducted_keywords": [
-      "location:Switzerland"
-    ]
-  },
   "/job/Basel-City/Head-of-Neurodegeneration--Translational-Medicine_REQ-10076275-1": {
     "description": "Job Description Summary #LI-Hybrid Internal job title: Executive Director Location: Basel, Switzerland As the Head of Neurodegeneration within Translational Medicine, you will serve as a senior scientific and strategic leader responsible for shaping and delivering the translational strategy for neurodegenerative therapeutic programs. You will provide expert guidance bridging research, early clinical development, and biomarker/experimental medicine innovation to advance assets from discovery through proof-of-concept and into full development. In addition, you will lead or integrate global, cross-functional teams to design, implement, and execute cutting-edge translational strategies, and act as an influential thought partner in neurodegenerative disease biology, clinical development, and emerging therapeutic modalities. Job Description Key Responsibilities: Strategic Leadership & Scientific Direction Define and oversee the long-term translational strategy for the Neurodegeneration Pillar, ensuring scientific excellence and alignment with broader BR and TM organizational priorities. Serve as a senior advisor and thought leader within neurodegeneration disorders, leveraging deep specialty expertise to inform program design, biomarker strategy, and patient-relevant endpoints. Program & Portfolio Leadership Lead global translational teams across Phase I–IIa (“Discovery” through TDP), driving implementation of high‑quality development strategies in single or multiple neurodegeneration indications. Represent TM on global program teams (GPT) and decision boards, ensuring that neurodegeneration programs meet quality, regulatory, and differentiation objectives. Translational & Clinical Development Excellence Lead the design and execution of First‑in‑Human (FIH) and Phase IIa studies, working collaboratively with clinical, regulatory, biomarker, and profiling partners. Leads the creation of clinical components of key documents e.g., Clinical Trial Protocols (CTPs), Investigator’s Brochures, Clinical Study Reports (CSRs), regulatory documents etc. with high levels of quality and consistency Leadership of People, Culture, and Matrix Teams Serve as a culture champion, promoting empowerment, innovation, and collaboration across TM and broader BR organizations. Mentor and develop scientific talent across translational and clinical functions. External Impact & Partnerships Lead interactions with external stakeholders (e.g., regulatory authorities, key opinion leaders, data monitoring committees, advisory boards etc.) and internal NVS stakeholders Contribute to opportunity assessments and due diligence for neurodegeneration and adjacent therapeutic areas. Governance, Compliance & Documentation Essential Requirements: MD and PhD required with clinical subspecialty training in neurological diseases with deep expertise in neurodegeneration disorders A minimum of 10+ years of extensive experience in translational medicine, early clinical development, or experimental therapeutics. Demonstrated success leading complex global programs and cross-functional scientific teams. Proven ability to shape development strategies, execute early clinical studies, and influence regulatory/packages supporting differentiation. Experience working in pharmaceutical/biotech company strongly preferred. Desirable Requirements: Direct people management experience Accessibility and Accommodation: Novartis is committed to working with and providing reasonable accommodation to all individuals. If, because of a medical condition or disability, you need a reasonable accommodation for any part of the recruitment process, or in order to receive more detailed information about the essential functions of a position, please send an e-mail to inclusion.switzerland@novartis.com and let us know the nature of your request and your contact information. Please include the job requisition number in your message. Skills Desired Active Directory, Artificial Intelligence (AI), Classification Systems, Computer Data Storage, Critical Thinking, Higher Education, Initiative, Merchandising, Selling Skills",
     "external_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Basel-City/Head-of-Neurodegeneration--Translational-Medicine_REQ-10076275-1",
@@ -1614,20 +1580,6 @@
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000124389599-full-stack-software-engineer-and-service-manager-it-pw-iam-2026-100-ld-?oga=true",
     "status": "matched"
   },
-  "https://www.michaelpage.ch/de/job-detail/business-development-specialist-100/ref/jn-032026-6968386?lang=en": {
-    "external_url": "https://www.michaelpage.ch/de/job-detail/business-development-specialist-100/ref/jn-032026-6968386?lang=en",
-    "status": "ignored",
-    "title": "Business Development Specialist (a) 100%",
-    "company": "Michael Page Switzerland",
-    "location": "Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": -2,
-    "matched_keywords": [],
-    "deducted_keywords": [
-      "location:Switzerland"
-    ]
-  },
   "/job/EMEA-CH-Kanton-Bern-Bern-CSL-Behring/Scientist--Tech-Ops_R-275238": {
     "description": "This role supports the discovery, development, and progression of new medicines for unmet medical needs from early research to clinical development and commercialization. Responsibilities include executing experiments, conducting scientific analyses, maintaining accurate research documentation and ensuring that products meet clinical safety standards. The position contributes to the design and execution of experimental and manufacturing processes, supports technology transfer activities, and performs testing across development stages to ensure effective process control. Collaboration with internal teams, external partners, and regulatory stakeholders is essential to ensure compliance, support program reporting, and advance project objectives. The role also assists in directing technical activities, supporting project and portfolio evaluations, and contributing to integrated strategies that enable efficient progression and decision‑making throughout the development lifecycle. Main Responsibilities & Accountabilities Provide scientific and technical expertise to advance technology platform capabilities and support the achievement of project objectives. Support research and development activities at both global and local levels to ensure alignment, steady progress, and successful project delivery. Facilitate collaboration with other CSL sites and external partners to promote knowledge exchange and strengthen operational effectiveness. Apply advanced practical knowledge in relevant scientific fields to support experimental design, execution of technical work, and interpretation of data. Work independently under general supervision to meet operational targets and contribute directly to team and departmental outcomes. Address challenging technical or operational issues that may require an understanding of broader project or organizational factors. Support colleagues within the job area by clearly communicating scientific findings, established policies, and best practices. Job Specifications / Requirements Bachelor’s or postgraduate degree and/or substantial experience in a relevant scientific discipline. At least 3 years of laboratory experience with training in a relevant technical field, such as molecular and cellular biology, analytical biochemistry, or related areas. We look forward to receiving your your CV, cover letter, diplomas, and relevant work certificates. Please combine all documents into a single PDF file before submitting. About CSL Behring CSL Behring is a global biotherapeutics leader driven by our promise to save lives. Focused on serving patients’ needs by using the latest technologies, we discover, develop and deliver innovative therapies for people living with conditions in the immunology, hematology, cardiovascular and metabolic, respiratory, and transplant therapeutic areas. We use three strategic scientific platforms of plasma fractionation, recombinant protein technology, and cell and gene therapy to support continued innovation and continually refine ways in which products can address unmet medical needs and help patients lead full lives. CSL Behring operates one of the world’s largest plasma collection networks, CSL Plasma. Our parent company, CSL, headquartered in Melbourne, Australia, employs 32,000 people, and delivers its lifesaving therapies to people in more than 100 countries. To learn more about CSL, CSL Behring, CSL Seqirus and CSL Vifor  visit https://www.csl.com/ and CSL Plasma at https://www.cslplasma.com/ . Our Benefits For more information on CSL benefits visit How CSL Supports Your Well-being | CSL . You Belong at CSL At CSL, Inclusion and Belonging is at the core of our mission and who we are. It fuels our innovation day in and day out. By celebrating our differences and creating a culture of curiosity and empathy, we are able to better understand and connect with our patients and donors, foster strong relationships with our stakeholders, and sustain a diverse workforce that will move our company and industry into the future. To learn more about inclusion and belonging visit https://www.csl.com/careers/inclusion-and-belonging Equal Opportunity Employer CSL is an Equal Opportunity Employer. If you are an individual with a disability and need a reasonable accommodation for any part of the application process, please visit https://www.csl.com/accessibility-statement .",
     "external_url": "https://csl.wd1.myworkdayjobs.com/CSL_External/job/EMEA-CH-Kanton-Bern-Bern-CSL-Behring/Scientist--Tech-Ops_R-275238",
@@ -1635,7 +1587,7 @@
     "title": "Scientist, Tech Ops x2",
     "company": "CSL Behring / Vifor",
     "location": "EMEA, CH, Kanton Bern, Bern, CSL Behring",
-    "posted_date": "2026-05-05",
+    "posted_date": "2026-05-07",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1669,7 +1621,7 @@
     "title": "Translational Medicine Academy fellow in Clinical Science & Innovation (CS&I)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-05-05",
+    "posted_date": "2026-05-04",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -1694,7 +1646,7 @@
     "title": "Translational Medicine Academy fellow in Preclinical Safety - Data Science",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-05-05",
+    "posted_date": "2026-05-04",
     "department": "",
     "score": 8,
     "matched_keywords": [
@@ -1716,7 +1668,7 @@
     "title": "Translational Medicine Academy fellow in Biomarker Development (BMD) Laboratory Excellence & Operations (LEO)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-05-05",
+    "posted_date": "2026-05-04",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -1736,7 +1688,7 @@
     "title": "Translational Medicine Academy fellow in Biomarker Development (BMD) Molecular, Cellular & Soluble Sciences (MCS)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "",
+    "posted_date": "2026-05-05",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -1755,7 +1707,7 @@
     "title": "Translational Medicine Academy fellow for Pharmacokinetics Sciences Modeling & Simulaton",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-05-05",
+    "posted_date": "2026-05-04",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -1779,7 +1731,7 @@
     "title": "Scientist, Tech Ops",
     "company": "CSL Behring / Vifor",
     "location": "EMEA, CH, Kanton Bern, Bern, CSL Behring",
-    "posted_date": "2026-05-05",
+    "posted_date": "2026-05-04",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1799,7 +1751,7 @@
     "title": "Modelling and Simulations Scientist ( 2 year contract)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "",
+    "posted_date": "2026-05-05",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -1878,7 +1830,7 @@
     "title": "Medical Science Liaison Renal and Metabolism - East",
     "company": "AstraZeneca",
     "location": "Switzerland - Baar",
-    "posted_date": "2026-05-07",
+    "posted_date": "",
     "department": "",
     "score": -1,
     "matched_keywords": [
@@ -1898,7 +1850,7 @@
     "title": "Medical Affairs Coordinator",
     "company": "ICON plc",
     "location": "Switzerland, Basel",
-    "posted_date": "2026-05-07",
+    "posted_date": "",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1923,5 +1875,63 @@
     "description": "The position This role drives the development and execution of Medical Affairs strategies across the full lifecycle of Boehringer Ingelheim products, from pre- to post-launch for the Therapeutic Area Inflammation, Oncology, Mental Health (IOMH). The Medical lead of this area partners closely with Marketing, Market Access, Clinical Development, and Patient Advocacy, while collaborating cross-functionally with local, regional, and global stakeholders to ensure alignment with overarching priorities. By delivering clear scientific guidance and clinically meaningful insights, the role enables optimal patient access to our therapies and contributes to the growth of the prescription healthcare business. Tasks & responsibilities Drives the translation and execution of Medical Affairs (MA) strategy across the full product lifecycle, including early engagement pre-launch and co-development of post-launch strategies, to ensure product acceptance, growth, and profitability Provides strategic medical leadership to cross-functional teams, enabling a patient-centric approach and maximizing the value of BI medications across the lifecycle Ensures robust generation and communication of clinical data, supporting the local OPU in demonstrating safety and efficacy, and driving compliant engagement with external experts Leads the planning and execution of all local MA activities, including studies, publications, and programs, in alignment with broader strategic priorities Builds and develops a high-performing MA organization by attracting, developing, and retaining talent, and fostering strong collaboration across MA, ROPU, and regional stakeholders Ensures effective leadership and governance through performance management, talent development, succession planning, coaching, and maintaining appropriate team structure and resourcing Requirements Minimum 5 years of experience in a pharmaceutical Medical Affairs / medical role Proven leadership experience, including leading projects, teams, or business functions Fluent in English; German or French is a plus Strong, approachable leader with a growth mindset and drive for continuous improvement Strategic and critical thinker with the confidence to challenge the status quo Excellent communication and negotiation skills, with high integrity and ethical standards Demonstrated ability to manage conflict and work effectively in diverse, cross-functional teams Strong quality and business orientation, combined with teamwork and visionary leadership Experience in change management and fostering an inclusive, high-performing environment Live up and demonstrate the core Boehringer behaviors ( link ) Your Benefits Flexible Working Model: Opportunity for remote work and flexible working hours in alignment with your manager Learning & Development: A broad range of training and development opportunities to support your personal and professional growth — because continuous learning is part of who we are Mental Health Support: Access to professional Employee Assistance Programs (EAP) and coaching services Collaborative Work Environment: A team‑oriented workplace characterized by strong mutual support and a culture of constructive collaboration We are looking forward to receiving your application online! By uploading your application documents via our application portal, we can treat your data confidentially and in compliance with the GDPR. On our career site you will find further information about Boehringer Ingelheim as an employer as well as information about the application process and our different departments. Would you like to know what makes our employees special? What they tell about their motivation and their everyday work? Watch this video and hear for yourself what our colleagues have to share.",
     "external_url": "https://jobs.boehringer-ingelheim.com/job/Basel-Head-of-Medical-Affairs-IOMH-%28mfd%29-Swit/1391030633/",
     "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000125082095": {
+    "description": "The Engineering Department (EN) provides CERN with the Engineering expertise, Infrastructure Systems and Coordination necessary for the design, installation, operation, maintenance and dismantling phases of the CERN accelerator complex and its experimental facilities. The position is within the Accelerator Coordination and Engineering (EN-ACE) group, which coordinates the activities for the interventions and changes to the accelerators complex. As a Planning and Scheduling Engineer in EN-ACE, you will plan and coordinate a wide range of equipment-related activities across CERN's current and future accelerator complex. You will collaborate closely with domain experts to develop practical solutions for the installation and maintenance of complex equipment, contributing to the Engineering Department's mission of supporting the full lifecycle of CERN's infrastructure and future projects. Your responsibilities: Plan and coordinate all installation and maintenance activities for the different accelerators, ensuring all activities are carried out within agreed overall schedule. Prepare all supporting documentation and liaise between the stakeholders. Manage the impact of operational problems affecting the installation and maintenance work on the schedule, in order to minimise any delays. Identify and resolve conflicting co-activity issues with the stakeholders concerned and/or the Project Leaders. In collaboration with the relevant Safety Coordinator, ensure that all safety concerns related to the installation work are identified and that the relevant safety rules procedures are applied. This job includes interventions in underground installations and requires a valid driving license Your profile: Experience in project management, coordination, and planning of workflow on large experimental and/or industrial facilities, preferably: maintenance, repairs, installations and upgrades projects. Exposure to or understanding of risk management would be an asset. Some experience with stakeholder relationships and/or negotiations would be an asset. Skills: Competencies in Project Management, coordination, and planning. Knowledge of project scheduling and management tools (e.g. MS Project, Oracle Primavera, MS PowerBI, VBA, Python, knowledge in database management). Ability to communicate clearly and proactively with technical stakeholders and management. Some technical knowledge of engineering systems would be an asset. Spoken and written English or French, with a commitment to learn the other language. Eligibility criteria: You are a national of a CERN Member or Associate Member State . You have a professional background in Mechanical / Industrial Engineering (or a related field) and have either: a Master's degree with 2 to 6 years of post-graduation professional experience; or a PhD with no more than 3 years of post-graduation professional experience. You have never had a CERN fellow or graduate contract before.",
+    "external_url": "https://jobs.smartrecruiters.com/CERN/744000125082095-planning-and-scheduling-engineer-en-ace-osl-2026-86-grap-?oga=true",
+    "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000125038189": {
+    "description": "Join CERN's Database and Analytics group to operate and support the Database on Demand (DBOD) service, used by many IT services, and across CERN's experimental programme. The DBOD service provides more than one thousand MySQL, PostgreSQL, and InfluxDB instances, through multiple lifecycle environments, offering to its users administrative functionality and features such as configuration management, monitoring, backup and recovery, replication, and high availability. Your responsibilities As an early-career professional working in the Database Services (DB) team, you will contribute to the administration of the instances hosted in the DBOD service. You will participate in the evolution of the user interface (based on Angular and Flask). Participate in the service configuration and architecture design, database upgrades and patches campaigns. Work with hardware migrations, monitoring of systems health and performance to ensure high levels of performance, availability and security. You will also assist and advise users and play a role in the evolution of the DBOD service, discussing and working with the team on service enhancements including technical mentorship and cross-training to peers. Your role will include both operations tasks and software development in Python, bash, and Angular. You will be working with open-source software and gaining experience with the IT infrastructure stack used at CERN, such as AlmaLinux 9, OpenStack, Puppet, Prometheus, GitLab, etc. Your profile Experience working with MySQL, PostgreSQL, or TimescaleDB databases. Experience with SQL, Unix shell script and Python. Knowledge of Linux operating system. Knowledge of service administration and configuration tools like Puppet. Experience in the monitoring of system health and performance indicators. Experience with Rundeck automation or orchestration tools. Skills Familiarity with large-scale and high-availability database environments. Proficiency with Angular and Flask. Knowledge and understanding of containerisation/container orchestration. Knowledge of the ELK stack. Spoken and written English, with a commitment to learn French. Eligibility criteria: You are a national of a CERN Member or Associate Member State . By the application deadline, you have a maximum of two years of professional experience since graduation in Computer Science (or a related field) and your highest educational qualification is either a Bachelor's or Master's degree . You have never had a CERN fellow or graduate contract before. Applicants without University degree are not eligible. Applicants with a PhD are not eligible.",
+    "external_url": "https://jobs.smartrecruiters.com/CERN/744000125038189-database-platform-engineer-it-da-db-2026-111-grae-?oga=true",
+    "status": "matched"
+  },
+  "https://gloorlang.starhunter.software/Headhunter/project/job-ad/hash/69e5f1b516f9f": {
+    "external_url": "https://gloorlang.starhunter.software/Headhunter/project/job-ad/hash/69e5f1b516f9f",
+    "status": "matched",
+    "title": "Regulatory Affairs Specialist",
+    "company": "Gloor & Lang",
+    "location": "Zürich Region, Switzerland",
+    "posted_date": "",
+    "department": "",
+    "score": 0,
+    "matched_keywords": [],
+    "deducted_keywords": []
+  },
+  "/job/Switzerland-Vernier/Medical-Affairs-Director-Switzerland_R-105412-1": {
+    "description": "At Lilly, we unite caring with discovery to make life better for people around the world. We are a global healthcare leader headquartered in Indianapolis, Indiana. Our employees around the world work to discover and bring life-changing medicines to those who need them, improve the understanding and management of disease, and give back to our communities through philanthropy and volunteerism. We give our best effort to our work, and we put people first. We’re looking for people who are determined to make life better for people around the world. Position Title Medical Director – Medical Affairs Switzerland Purpose The Medical Director – Medical Affairs Switzerland provides medical and scientific leadership, oversight, and strategic direction for Medical Affairs activities within the Swiss affiliate. The role is responsible for leading and developing the medical team, driving innovation, ensuring scientific excellence, regulatory compliance, and strong cross‑functional collaboration to support pre‑ and post‑launch activities across the portfolio. In addition to people leadership and operational responsibilities, the Medical Director drives medical strategy execution, oversees clinical and non‑interventional research activities where applicable, and ensures alignment with global Medical Affairs, Development, and brand strategies. Compliance and Ethics The Medical Director ensures that all Medical Affairs activities are conducted in full compliance with applicable local and international regulations, laws, guidelines (e.g. ICH, GCP), company standards, policies, and ethical principles. The role acts as a role model for scientific integrity and ethical behavior within the affiliate. Primary Responsibilities 1. Leadership, Talent Development and Performance Management Provide leadership, coaching, mentoring, and performance management for direct reports within the Swiss Medical Affairs organization. Develop and maintain clear performance objectives, development plans, and competency documentation for team members. Conduct regular one‑on‑one meetings to review objectives, development needs, and career aspirations. Ensure optimal resource planning, workload allocation, and long‑term retention of medical talent. Contribute actively to succession planning and talent development initiatives in collaboration with HR and global Medical leadership. Support recruitment and onboarding of qualified Medical Affairs professionals. 2. Medical Strategy and Clinical Oversight Lead the development and execution of local medical strategies aligned with brand, affiliate, and global Medical Affairs objectives. Provide affiliate medical input into clinical development plans and support the implementation of Phase 3b/4 and other medically driven studies where applicable. Ensure coherence between local medical activities and global development and Medical Affairs strategies. Monitor progress against agreed medical and clinical deliverables and initiate corrective actions when required. Oversee medical governance for protocols, amendments, informed consent documents, grants, and contracts at affiliate level. 3. Scientific Expertise and Data Oversight Maintain strong scientific and therapeutic area expertise and stay current with emerging medical and scientific developments. Critically evaluate clinical data, medical literature, and competitive landscapes relevant to the portfolio. Review and approve medical information materials, scientific publications, abstracts, presentations, and symposia content. Ensure timely and accurate dissemination of scientific and clinical data in line with company standards and regulations. 4. External Engagement and Medical Excellence Provide scientific leadership in interactions with healthcare professionals, scientific experts, and external stakeholders. Oversee advisory boards, scientific meetings, congress activities, and medical education initiatives. Ensure the medical team provides high‑quality, compliant scientific support to commercial and cross‑functional teams. Act as a patient‑focused medical expert and contribute to defining the patient journey and key medical decision points. 5. Cross‑Functional and Business Collaboration Partner closely with Commercial, Market Access, Regulatory, Clinical Operations, and other functions to support product lifecycle activities. Provide medical input into local business planning and strategic initiatives. Contribute as a core member of the affiliate leadership and management team. Act as the primary medical liaison between the Swiss affiliate and global Medical Affairs and Development teams. 6. Governance and Administrative Responsibilities Review and approve key medical and scientific documents requiring senior medical sign‑off. Ensure effective budget oversight and responsible management of medical operational expenses. Support continuous process improvement and implementation of best practices within Medical Affairs. Represent the Swiss affiliate in internal governance committees and external scientific or industry forums as appropriate. Minimum Qualification Requirements Medical Doctor (MD) or equivalent, with completed medical training relevant to Switzerland. Board certification or eligibility in a relevant specialty is preferred. Minimum 7–10 years of experience in clinical research and/or Medical Affairs. Demonstrated leadership experience managing medical or scientific professionals. Strong communication, stakeholder management, and influencing skills. Fluent in English (German and/or French preferred). Willingness to travel as required. Additional Information This job description reflects core responsibilities but is not intended to be an exhaustive list. Responsibilities may evolve based on business needs and organizational changes. Lilly is dedicated to helping individuals with disabilities to actively engage in the workforce, ensuring equal opportunities when vying for positions. If you require accommodation to submit a resume for a position at Lilly, please complete the accommodation request form ( https://careers.lilly.com/us/en/workplace-accommodation ) for further assistance. Please note this is for individuals to request an accommodation as part of the application process and any other correspondence will not receive a response. Lilly does not discriminate on the basis of age, race, color, religion, gender, sexual orientation, gender identity, gender expression, national origin, protected veteran status, disability or any other legally protected status. #WeAreLilly",
+    "external_url": "https://lilly.wd5.myworkdayjobs.com/LLY/job/Switzerland-Vernier/Medical-Affairs-Director-Switzerland_R-105412-1",
+    "status": "matched",
+    "title": "Medical Affairs Director Switzerland",
+    "company": "Eli Lilly",
+    "location": "Switzerland, Vernier",
+    "posted_date": "2026-05-07",
+    "department": "",
+    "score": -2,
+    "matched_keywords": [
+      "French",
+      "medical affairs"
+    ],
+    "deducted_keywords": [
+      "clinical operations",
+      "location:Switzerland, Vernier"
+    ]
+  },
+  "/job/Basel/Post-Doctoral-Scientist--m-w-d-_202604-110674-1": {
+    "description": "At Roche you can show up as yourself, embraced for the unique qualities you bring. Our culture encourages personal expression, open dialogue, and genuine connections,  where you are valued, accepted and respected for who you are, allowing you to thrive both personally and professionally. This is how we aim to prevent, stop and cure diseases and ensure everyone has access to healthcare today and for generations to come. Join Roche, where every voice matters. The Position We are seeking a highly motivated postdoctoral scientist with pharmaceutical sciences, peptide chemistry or related background to undertake an exciting, industry research project. The opportunity Peptide based therapeutics is a rapidly evolving field, but the physicochemical challenges associated with these molecules, coupled with increasing complexity demands, require a deeper understanding of the factors that impact their stability. This Postdoctoral project will focus on understanding and optimizing lead formulations for peptide candidates and fixed-dose co-formulations. The candidate should be able to work effectively with an interdisciplinary team from academia and industry to implement innovative solutions. Develop a study plan and design adequate experiments for pharmaceutical development of peptide and co-formulations Execute in vitro stability studies Be a catalyst in creating an environment of innovation, learning and growth in the field of pharmaceutical development for peptide therapeutics Present research findings through internal reports, scientific contributions, supervision of research projects and initiation of new research activities. Who are you Ph.D. in pharmaceutical sciences, peptide chemistry, or a related field Strong hands-on experience in testing peptide delivery systems and relevant analytical methods and desire to learn/develop new methods Highly motivated with a passion for applied scientific research and technical innovation Excellent communication skills and interpersonal skills are required. Must be able to participate and collaborate in highly effective, international and cross-functional teams, organizing and implementing complex research plans Demonstrates technical proficiency, scientific creativity, collaboration with others and independent thought in suggesting experimental design Experience with data analysis or programming tools (e.g. MatLab, R) is a plus We are looking forward to your application! Who we are A healthier future drives us to innovate. Together, more than 100’000 employees across the globe are dedicated to advance science, ensuring everyone has access to healthcare today and for generations to come. Our efforts result in more than 26 million people treated with our medicines and over 30 billion tests conducted using our Diagnostics products. We empower each other to explore new possibilities, foster creativity, and keep our ambitions high, so we can deliver life-changing healthcare solutions that make a global impact. Let’s build a healthier future, together. Roche is an Equal Opportunity Employer.",
+    "external_url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Post-Doctoral-Scientist--m-w-d-_202604-110674-1",
+    "status": "matched",
+    "title": "Post Doctoral Scientist (m/w/d)",
+    "company": "Roche",
+    "location": "Basel",
+    "posted_date": "2026-05-07",
+    "department": "",
+    "score": 3,
+    "matched_keywords": [
+      "Postdoc",
+      "in vitro",
+      "postdoctoral"
+    ],
+    "deducted_keywords": []
   }
 }
