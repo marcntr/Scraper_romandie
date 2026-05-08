@@ -139,28 +139,28 @@
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-04-30"
+    "cached_at": "2026-05-08"
   },
   "_facets:amgen:Careers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-04-30"
+    "cached_at": "2026-05-08"
   },
   "_facets:gilead:gileadcareers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-04-30"
+    "cached_at": "2026-05-08"
   },
   "_facets:modernatx:M_tx": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-04-30"
+    "cached_at": "2026-05-08"
   },
   "_facets:takeda:External": {
     "facets": {},
@@ -169,28 +169,28 @@
       "Zug",
       "Glattpark"
     ],
-    "cached_at": "2026-04-30"
+    "cached_at": "2026-05-08"
   },
   "_facets:beigene:BeiGene": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-04-30"
+    "cached_at": "2026-05-08"
   },
   "_facets:msd:SearchJobs": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-04-30"
+    "cached_at": "2026-05-08"
   },
   "_facets:vrtx:Vertex_Careers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-04-30"
+    "cached_at": "2026-05-08"
   },
   "_facets:lonza:Lonza_Careers": {
     "facets": {},
@@ -199,7 +199,7 @@
       "Visp",
       "Stein"
     ],
-    "cached_at": "2026-04-30"
+    "cached_at": "2026-05-08"
   },
   "_facets:csl:CSL_External": {
     "facets": {},
@@ -209,7 +209,7 @@
       "St. Gallen",
       "Romont"
     ],
-    "cached_at": "2026-04-30"
+    "cached_at": "2026-05-08"
   },
   "_facets:alcon:careers_alcon": {
     "facets": {},
@@ -218,7 +218,7 @@
       "Hünenberg",
       "Zurich"
     ],
-    "cached_at": "2026-04-30"
+    "cached_at": "2026-05-08"
   },
   "_facets:galderma:External": {
     "facets": {},
@@ -227,84 +227,84 @@
       "La Tour-de-Peilz",
       "Lausanne"
     ],
-    "cached_at": "2026-04-30"
+    "cached_at": "2026-05-08"
   },
   "_facets:iqvia:IQVIA": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-04-30"
+    "cached_at": "2026-05-08"
   },
   "_facets:icon:broadbean_external": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-04-30"
+    "cached_at": "2026-05-08"
   },
   "_facets:parexel:Parexel_External_Careers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-04-30"
+    "cached_at": "2026-05-08"
   },
   "_facets:syneoshealth:Syneos_Health_External_Site": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-04-30"
+    "cached_at": "2026-05-08"
   },
   "_facets:myhrabc:Global": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-04-30"
+    "cached_at": "2026-05-08"
   },
   "_facets:thermofisher:ThermoFisherCareers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-04-30"
+    "cached_at": "2026-05-08"
   },
   "_facets:danaher:DanaherJobs": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-04-30"
+    "cached_at": "2026-05-08"
   },
   "_facets:illumina:illumina-careers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-04-30"
+    "cached_at": "2026-05-08"
   },
   "_facets:qiagen:QIAGEN": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-04-30"
+    "cached_at": "2026-05-08"
   },
   "_facets:agilent:Agilent_Careers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-04-30"
+    "cached_at": "2026-05-08"
   },
   "_facets:jsrglobal:KBI_Biopharma": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-04-30"
+    "cached_at": "2026-05-08"
   },
   "_generic:Tigen Pharma": {
     "keywords": "npp"
@@ -402,7 +402,7 @@
     "title": "Scientist Microbiological Quality Control",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-04-07",
+    "posted_date": "2026-04-08",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -664,7 +664,7 @@
     "title": "Scientist – QC Lab Systems & CSV (GMP)",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-04-07",
+    "posted_date": "2026-04-08",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -679,7 +679,7 @@
     "title": "Senior Scientist – Manufacturing Science & Technology (Biologics USP/DSP)",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-04-07",
+    "posted_date": "2026-04-08",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -983,7 +983,7 @@
     "title": "Associate Director, EUCAN Regulatory Lead - Oncology",
     "company": "Takeda",
     "location": "Zurich, Switzerland",
-    "posted_date": "2026-04-07",
+    "posted_date": "2026-04-08",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -999,7 +999,7 @@
     "title": "Senior Scientist microbiological Quality Control",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-04-20",
+    "posted_date": "2026-04-21",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -1019,7 +1019,7 @@
     "title": "​Sr Manager / Associate Director Regulatory Affairs - Swiss Affiliate",
     "company": "Gilead Sciences",
     "location": "Switzerland - Zug",
-    "posted_date": "2026-04-20",
+    "posted_date": "2026-04-21",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1035,7 +1035,7 @@
     "title": "Senior Scientist, Material Qualification and Release (QC GMP)",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-04-20",
+    "posted_date": "2026-04-21",
     "department": "",
     "score": -1,
     "matched_keywords": [
@@ -1121,23 +1121,6 @@
     "description": "As a Data Manager within Global Manufacturing and Supply (GMS) you will be the key person to build and manage the processes, governance and system landscape for our data. In other words, you shape the vision of our future data management set up and will be the driver of the data journey within GMS. In our view, good data needs to enable correct and on time supplies to patients and create positive business impact. You will be accountable that all key data of respective systems (e.g. ERP, APS) are created timely, are correct, maintained, synchronized among systems, and communicated to internal and external stakeholders at a high standard and that data quality is reported regularly to stakeholders. You will also partner with functions outside GMS and participate in projects that aim to enhance Sobi’s data management environment. This position is based at our Global Headquarters in Stockholm, Sweden or Global hub in Basel, Switzerland, reporting directly to Head Global Manufacturing & Supply Excellence. Key Responsibilities Define, implement, and further develop cross-functional processes and RACI (incl. governance) to create and update Master Data. Manage the identification, collection, consolidation and cleansing of master data from various sources. Create and update data points and ensure that data sharing among systems works uninterrupted. Ensure accurate and timely communication of master data to e.g. 3PL partners and/or Sobi affiliates. Define and map source system and user systems of each data point. Develop and coordinate / implement data integration strategies to ensure data consistency across systems. Collaborate well with various stakeholders within and outside GMS to define and implement ways of working. Develop and implement concepts to regularly report data quality, data sharing, and next improvement steps. Proactively initiate and potentially lead improvements on processes, systems and roles & responsibilities to enhance data management within GMS, TechOps and Sobi. E.g. Collaborate with IT and software teams to design and implement data solutions including data models, data structures and data interfaces. Visualize data points, working processes and systems to business impact (Sobi-TechOps-GMS strategy/value creation plan) and explain / train stakeholders on a) the importance of accurate and timely data management and b) how to collaborate in an efficient and effective way to forester a data-driven culture. Be accountable for data related chang controls, respective SOP updates and training / guiding documentation as applicable and set an efficient governance for updating documentation. Define a framework for self-inspection on data accuracy to ensure continuous data quality improvement.",
     "external_url": "https://jobs.smartrecruiters.com/Sobi/744000122394635-data-manager-global-manufacturing-supply-?oga=true",
     "status": "matched"
-  },
-  "/job/Basel/Internship-in-Global-Medical-Affairs--12-months-_202604-110066": {
-    "description": "At Roche you can show up as yourself, embraced for the unique qualities you bring. Our culture encourages personal expression, open dialogue, and genuine connections,  where you are valued, accepted and respected for who you are, allowing you to thrive both personally and professionally. This is how we aim to prevent, stop and cure diseases and ensure everyone has access to healthcare today and for generations to come. Join Roche, where every voice matters. The Position We are Medical. We are transforming Medical practice together. We are advocates for patients, for medical progress and for global access providing optimal and personalized healthcare. We are a trusted partner and central interface with the external medical stakeholder community. We collaborate and strive in an integrated work environment with the affiliates, global development and global strategy. We help in driving the development, introduction, uptake and informed use of our innovative medicines and services in clinical practice and patient care worldwide. We create and evolve competencies, capabilities, and opportunities for our global Medical Network. The Opportunity This 12-month internship offers an opportunity to gain hands-on experience on global medical affairs activities at an innovative and patient-centric global pharmaceutical company. You will be working on a project in the Nephrology/Rheumatology area that aims at fostering scientific exchange between Roche and medical professionals, healthcare providers and patients. Through this role, you will take specific project responsibilities to help transform worldwide clinical practices with innovative medicines. This opportunity will enable you to establish a solid network for building and expanding your future career. Primary Responsibilities: Take responsibility of specific global medical affairs activities and contribute to project goals by learning and understanding the impact of medical affairs on company’s product development and commercialisation goals Support daily activities as a full member of the project team Proactively build knowledge and increase understanding of the pharmaceutical industry and healthcare ecosystem Who You Are You are currently pursuing or recently completed (within 12 months) your Master’s (MSc) degree in Life Sciences or other sciences with a demonstrated interest in drug development. Furthermore, you bring the following expertise: Strong Ethics & Relationship Building – High ethical standards and ability to foster sustainable relationships with stakeholders. Effective Communication & Collaboration – Excellent interpersonal, presentation, and English language skills in an international setting. Analytical & Problem-Solving Skills – Critical thinking, decision-making, creativity, and ability to process information effectively. Growth Mindset & Impact-Driven – Eagerness to learn, adapt, and contribute meaningfully to the healthcare ecosystem. Adaptability & Organizational Awareness – Ability to work in a matrix environment with shared responsibilities; knowledge of drug development and project management is a plus. Skills or experiences in digital sciences and/or innovation are a plus. Additional Information When applying, please submit your cover letter and CV. The preferred start date is summer 2026. For applicants from outside the EU/EFTA without a residence permit: a mandatory letter from the university is required, including duration, and a valid enrollment certificate. Ready to take the next step? We'd love to hear from you. Apply now to explore this exciting opportunity! Who we are A healthier future drives us to innovate. Together, more than 100’000 employees across the globe are dedicated to advance science, ensuring everyone has access to healthcare today and for generations to come. Our efforts result in more than 26 million people treated with our medicines and over 30 billion tests conducted using our Diagnostics products. We empower each other to explore new possibilities, foster creativity, and keep our ambitions high, so we can deliver life-changing healthcare solutions that make a global impact. Let’s build a healthier future, together. Roche is an Equal Opportunity Employer.",
-    "external_url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Internship-in-Global-Medical-Affairs--12-months-_202604-110066",
-    "status": "ignored",
-    "title": "Internship in Global Medical Affairs (12 months)",
-    "company": "Roche",
-    "location": "Basel",
-    "posted_date": "2026-04-23",
-    "department": "",
-    "score": 3,
-    "matched_keywords": [
-      "MSc",
-      "drug development",
-      "medical affairs"
-    ],
-    "deducted_keywords": []
   },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000122610179": {
     "description": "As a Junior Survey Engineer you will join the Geodetic Metrology group at CERN, where you will take part in the metrology and alignment of a wide variety of components used in the particle accelerators. You will be using state-of-the-art surveying tools and software to achieve the sub-millimetre accuracy necessary to achieve our goals. This position offers a unique opportunity to collaborate on the High Intensity ECN3 (HI-ECN3) project and contribute to the efforts of the Geodetic Metrology team in the North Area. Your responsibilities: Participate in the design, development and qualification of high-precision alignment system concepts, working in close collaboration with the interdisciplinary team of the HI-ECN3 project. Prepare and check the quality of inputs (theoretical beamline trajectories, installation drawing, component geometrical data). Carry out geometrical measurements of components or prototypes using standard 3D geodetic techniques, such as laser tracker systems, and provide technical support to the equipment owner. Conduct survey activities, including network measurements, installation tasks, and alignment processes, from the preparation to realisation of interventions. Perform data processing using a 3D least-squares adjustment application as well as preparing technical documentation and presenting results. Contribute to the group's research and development activities related to alignment monitoring systems (e.g. ATS800, robotic platforms, robotic tracing, Universal Alignment Platform), and participate in the development, testing and maintenance of in-house surveying software applications. Your profile: Experience in the domain of high precision geodetic or industrial metrology including the instruments and the methods used in high accuracy metrology. Initial experience in coordination, planning, reporting and quality assurance aspects would be a plus. Skills: Knowledge and application of high accuracy survey methods and tools: laser tracker, digital and optical levels. Use of survey instruments as total stations and 3D laser scanning. Knowledge and practice of standard adjustment software: theories, concepts and algorithms related to the least square adjustment. Knowledge and application of data acquisition and data processing software (i.e., Python, Matlab, Spatial Analyser). Organisation, planning and control including supervision of work. Spoken and written English or French, with a commitment to learn the other language. Eligibility criteria: You are a national of a CERN Member or Associate Member State . By the application deadline, you have a maximum of two years of professional experience since graduation in Geomatics, Industrial Metrology (or a related field) and your highest educational qualification is either a Bachelor's or Master's degree . You have never had a CERN fellow or graduate contract before. Applicants without University degree are not eligible. Applicants with a PhD are not eligible.",
@@ -1542,7 +1525,7 @@
     "title": "Scientist, Tech Ops x2",
     "company": "CSL Behring / Vifor",
     "location": "EMEA, CH, Kanton Bern, Bern, CSL Behring",
-    "posted_date": "2026-05-07",
+    "posted_date": "2026-05-08",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1686,7 +1669,7 @@
     "title": "Scientist, Tech Ops",
     "company": "CSL Behring / Vifor",
     "location": "EMEA, CH, Kanton Bern, Bern, CSL Behring",
-    "posted_date": "2026-05-04",
+    "posted_date": "2026-05-05",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1843,7 +1826,7 @@
   },
   "https://gloorlang.starhunter.software/Headhunter/project/job-ad/hash/69e5f1b516f9f": {
     "external_url": "https://gloorlang.starhunter.software/Headhunter/project/job-ad/hash/69e5f1b516f9f",
-    "status": "matched",
+    "status": "ignored",
     "title": "Regulatory Affairs Specialist",
     "company": "Gloor & Lang",
     "location": "Zürich Region, Switzerland",
@@ -1892,7 +1875,7 @@
   "https://jobs.boehringer-ingelheim.com/job/Basel-Regulatory-Affairs-Manager-%28mfd%29-12-month-fixed-term-contract-Swit/1391395033/": {
     "description": "The position In this role, you will represent the Regulatory Affairs Manager function within the Operative Units (OPUs) of Boehringer Ingelheim, covering a 12-month maternity leave. You will be responsible for executing all Drug Regulatory Affairs (DRA) activities in Switzerland, ensuring timely and successful product registrations in alignment with regional and local strategies. Furthermore, you will maintain the regulatory compliance and positioning of all registered and marketed products. You will implement and adhere to corporate procedures, as well as regional working instructions, processes, and systems relevant to these activities. In addition, you will contribute to local regulatory strategy and support compliance monitoring at the ROPU level. Tasks & responsibilities Manage and oversee all local regulatory activities to ensure timely approvals and compliance with Swiss Health Authority requirements Maintain close collaboration with Swiss Health Authorities, as well as regional and corporate DRA teams Represent the organization in local, regional, and global regulatory meetings Ensure successful submission and maintenance of marketing authorizations, including variations, renewals, and safety reports Provide regulatory input to support local strategy, labeling, and market access activities (e.g., pricing and reimbursement) Collaborate cross-functionally with quality, pharmacovigilance, demand management, and other stakeholders to support product lifecycle and launches Maintain accurate and up-to-date regulatory data in relevant systems and databases Oversee product complaint handling and recall processes in compliance with global and local procedures Coordinate internal and external committees and ensure proper communication with authorities where required Support quality assurance activities, including preparation and review of product quality reports (PQRs)Support quality assurance activities, including preparation and review of product quality reports (PQRs)Support quality assurance activities, including preparation and review of product quality reports (PQRs) Requirements Professional experience in Regulatory Affairs Experience in quality control and/or quality assurance in a GxP environment is an advantage Knowledge of Swiss pharmaceutical (medicinal products) legislation Fluent in German and English, both written and spoken (French and/or Italian is a plus) Team player with a collaborative mindset Structured and organized way of working Strong communication skills Your Benefits Flexible Working Model: Opportunity for remote work and flexible working hours in alignment with your manager Learning & Development: A broad range of training and development opportunities to support your personal and professional growth — because continuous learning is part of who we are Mental Health Support: Access to professional Employee Assistance Programs (EAP) and coaching services Collaborative Work Environment: A team‑oriented workplace characterized by strong mutual support and a culture of constructive collaboration We are looking forward to receiving your application online! By uploading your application documents via our application portal, we can treat your data confidentially and in compliance with the GDPR. On our career site you will find further information about Boehringer Ingelheim as an employer as well as information about the application process and our different departments. Would you like to know what makes our employees special? What they tell about their motivation and their everyday work? Watch this video and hear for yourself what our colleagues have to share.",
     "external_url": "https://jobs.boehringer-ingelheim.com/job/Basel-Regulatory-Affairs-Manager-%28mfd%29-12-month-fixed-term-contract-Swit/1391395033/",
-    "status": "matched",
+    "status": "ignored",
     "title": "Regulatory Affairs Manager (m/f/d) - 12-month fixed-term contract",
     "company": "Boehringer Ingelheim",
     "location": "Basel, Switzerland, Basel-Stadt",
@@ -1925,7 +1908,7 @@
     "title": "Senior Scientist, Tech Ops",
     "company": "CSL Behring / Vifor",
     "location": "EMEA, CH, Kanton Bern, Bern, CSL Behring",
-    "posted_date": "2026-05-07",
+    "posted_date": "2026-05-08",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1936,7 +1919,7 @@
   },
   "https://www.michaelpage.ch/de/job-detail/business-development-specialist-100/ref/jn-032026-6968386?lang=en": {
     "external_url": "https://www.michaelpage.ch/de/job-detail/business-development-specialist-100/ref/jn-032026-6968386?lang=en",
-    "status": "matched",
+    "status": "ignored",
     "title": "Business Development Specialist (a) 100%",
     "company": "Michael Page Switzerland",
     "location": "Switzerland",
