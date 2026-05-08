@@ -826,7 +826,7 @@
     "title": "Computational Biology - Oncology",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-09",
+    "posted_date": "2026-04-08",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -839,21 +839,6 @@
       "oncology"
     ],
     "deducted_keywords": []
-  },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000119549057": {
-    "description": "Introduction Join CERN’s Experimental Physics Department as an Administrative Assistant in the Users Office, where you will support guest scientists by managing registrations, contracts, and official documentation while providing front-line customer service. You will ensure smooth administrative operations by handling inquiries, maintaining records and databases, preparing correspondence, and facilitating scientists’ integration in compliance with CERN procedures. Functions Provide customer service support to CERN guest scientists within the Users Office, notably to register them and facilitate their integration upon arrival. Manage daily administrative tasks including registrations, personnel contracts, and Host State documentation (requests and extensions). Act as a key point of contact for visiting scientists (in person, email, and phone). Use electronic tools to process registrations and maintain records. Deliver general administrative support in line with CERN rules and procedures. Ensure the processing, follow-up, and control of various administrative electronic and paper documents and record archiving. Enter all relevant information into the appropriate CERN databases. Prepare correspondence and documentation according to requirements, including minutes writing. Replace other team members in their absence.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000119549057-administrative-assistant-ep-ags-2026-85-ld-?oga=true",
-    "status": "matched"
-  },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000119553387": {
-    "description": "Introduction: You will join the CMS experiment Engineering & Integration team to work on the upgrade of the detector for High-Luminosity Large Hadron Collider (HL-LHC). Your activity will be focused on the construction and commissioning of the new detector environmental monitoring system and the engineering and integration of the Machine Detector Interface, for what concerns the integration of the HL-LHC accelerator elements in the detector forward region. Functions: Participate in the design, construction, and installation of new detectors and their infrastructure. Contribute to the integration and commissioning of detectors. Work within the technical coordination team on the CMS experiment upgrades for the high-luminosity phase of the Large Hadron Collider (HL-LHC). Contribute to the tasks of the CMS Engineering & Integration Office, by participating in concurrent multidisciplinary projects. Take a leading role in the integration, construction, and commissioning of the CMS environmental monitoring system. Take the lead in the integration of the different elements of the accelerator in the forward region of the detector (beampipe vacuum pumping system, radiation shielding, etc.). Write up technical specifications for the procurement of goods for the upgrade of the CMS detector. Present your work to the CMS Collaboration via technical reports and talks at relevant conferences and workshops.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000119553387-mechanical-engineer-for-detector-integration-ep-cms-ssi-2026-86-ld-?oga=true",
-    "status": "matched"
-  },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000119538184": {
-    "description": "Introduction Help shape how CERN communicates. As Collaboration Services Manager in the Groupware and Engineering Services (GES) section of the Collaborative Applications (CA) group, you will lead the operation and evolution of CERN’s email and groupware platform (based on Microsoft Exchange and Exchange Online technologies)—the backbone of collaboration for thousands of users, for experiments and partners. You’ll ensure that email delivery is reliable, secure and compliant, that calendaring and collaboration features just work, and that CERN’s services and applications can send messages safely and at scale. You will also contribute to the other collaboration services in the section. Functions Oversee the smooth operation of the Microsoft Exchange on-premises and Exchange Online based services, including maintenance routines and integration with the broader CERN IT environment. Monitor service performance, reliability and quality, ensuring adherence to SLAs and compliance with relevant CERN policies, data protection and records retention/archiving. Investigate and troubleshoot operational issues and performance problems, engaging with user communities, IT service managers and other stakeholders as needed. Configure, maintain and evolve CERN's email routing according to service and user requirements; Oversee CERN email authentication and reputation (SPF, DKIM, DMARC). In close collaboration with the CERN Security Team, ensure that spam and malware filtering solutions are properly integrated and configured. Develop and maintain integrations with on-premises and cloud systems (Python, C#). Provide user support, drive continuous improvement, and adapt the service in line with evolving needs; Curate knowledge bases, FAQs and service documentation web sites; deliver targeted communications when necessary. As appropriate, participate in the various activities (including support rota) for other services managed by the section.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000119538184-collaboration-services-manager-it-ca-ges-2026-71-ld-?oga=true",
-    "status": "matched"
   },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000119616344": {
     "description": "Introduction: As an electromechanical technician, you will assemble and test cryostats and associated equipment for superconducting accelerator systems (such as magnets and power transfer lines), contributing to their production, installation and maintenance, including hands-on interventions on CERN accelerators, such as the Large Hadron Collider (LHC). Functions: Assemble cryostats and electromechanical equipment for accelerator systems, such as superconducting magnets, related electric transfer lines and feedthroughs for cryogenic applications. Perform interventions in the LHC tunnel for installation, maintenance or dismantling of cryoassemblies, during shutdowns or maintenance periods. Manufacture and modify parts using conventional machining (milling, turning) and forming. Handle logistics of components and stock for assigned assemblies, launching and following up manufacturing requests and purchase orders and performing acceptance tests. Prepare production documentation, in particular quality control documents.",
@@ -882,7 +867,7 @@
     "title": "Global Medical Affairs Lead Genomic Profiling",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-14",
+    "posted_date": "2026-04-13",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -900,7 +885,7 @@
     "title": "Sr. Scientist - Computational Biology - Neuroscience & Rare Diseases",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-16",
+    "posted_date": "2026-04-15",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -945,7 +930,7 @@
     "title": "Post Doctorate Scientist – Vascularized Kidney Organoids - at the Institute of Human Biology (IHB)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-15",
+    "posted_date": "2026-04-14",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -1000,7 +985,7 @@
     "title": "Senior Scientist microbiological Quality Control",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-04-21",
+    "posted_date": "2026-04-20",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -1020,7 +1005,7 @@
     "title": "​Sr Manager / Associate Director Regulatory Affairs - Swiss Affiliate",
     "company": "Gilead Sciences",
     "location": "Switzerland - Zug",
-    "posted_date": "2026-04-21",
+    "posted_date": "2026-04-20",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1036,7 +1021,7 @@
     "title": "Senior Scientist, Material Qualification and Release (QC GMP)",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-04-21",
+    "posted_date": "2026-04-20",
     "department": "",
     "score": -1,
     "matched_keywords": [
@@ -1103,7 +1088,7 @@
     "title": "Analytical Molecular Characterization Team Lead and Mass Spectrometry Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-23",
+    "posted_date": "2026-04-22",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1132,23 +1117,6 @@
     "description": "As a Survey Engineer you will join the Geodetic Metrology group at CERN, where you will take part in the metrology and alignment of a wide variety of components used in the particle accelerators. You will be using state-of-the-art surveying tools and software to achieve the sub-millimetre accuracy necessary to achieve our goals. This position offers a unique opportunity to collaborate on two major projects and contribute to the efforts of the Geodetic Metrology team in the North Area. The SPS (Super Proton Synchrotron) complex is being prepared for a significant upgrade through the North Area Consolidation (NA-CONS) and the TCC2 renovation project. As part of this renovation, you will be in charge of the dismantling of the existing beamlines will be dismantled and the installation of the new beamlines, scheduled in 2028/2029. Your responsibilities Perform project follow-up: participation in coordination meetings, schedule review and collaboration with interdisciplinary teams. Prepare and check the quality of inputs (theoretical beamline trajectories, installation drawing, component geometrical data). Carry out and supervise all geometrical measurements at every stage, from assembly to on-site installation, using standard 3D geodetic techniques such as laser tracker techniques. Coordinate and take part in survey activities, including network measurements, installation tasks, and alignment processes, from the preparation and supervision of interventions to their execution. Be responsible for data processing using a 3D least-squares adjustment application, including advanced stochastic analysis, as well as preparing technical documentation and presenting results. Define and implement a strategy for the tracing of the new beamlines and services. Actively contribute to the group's research and development activities related to alignment monitoring systems (e.g. ATS800, robotic platforms, Universal Alignment Platform), and participate in the development, testing and maintenance of in-house surveying software applications. Supervise external contractors and students on technical topic. This role includes team supervision responsibilities. More information here . Your profile Experience in the domain of high precision geodetic or industrial metrology including the instruments and the methods used in high accuracy metrology. Initial experience in coordination, planning, reporting and quality assurance aspects and supervision would be a plus. Skills Knowledge and application of high accuracy survey methods and tools: laser tracker, digital and optical levels. Use of survey instruments as total stations and 3D laser scanning. Knowledge and practice of standard adjustment software: theories, concepts and algorithms related to the least square adjustment. Knowledge and application of data acquisition and data processing software (i.e., Python, Matlab, Spatial Analyser). Organisation, planning and control including supervision of work. Spoken and written English or French, with a commitment to learn the other language. Eligibility criteria: You are a national of a CERN Member or Associate Member State . You have a professional background in Geomatics, Industrial Metrology (or a related field) and have either: a Master's degree with 2 to 6 years of post-graduation professional experience; or a PhD with no more than 3 years of post-graduation professional experience. You have never had a CERN fellow or graduate contract before.",
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000122612104-survey-engineer-be-gm-asg-2026-80-grap-?oga=true",
     "status": "matched"
-  },
-  "/job/Basel/Internship-for-Students-of-Computational-Biology--Computational-Chemistry---Applied-Mathematics--6-months-_202604-110511-1": {
-    "description": "At Roche you can show up as yourself, embraced for the unique qualities you bring. Our culture encourages personal expression, open dialogue, and genuine connections,  where you are valued, accepted and respected for who you are, allowing you to thrive both personally and professionally. This is how we aim to prevent, stop and cure diseases and ensure everyone has access to healthcare today and for generations to come. Join Roche, where every voice matters. The Position The Structure-Function ML group within Prescient Design/AI4DD, CS CoE in Basel seeks exceptional graduate interns with a demonstrated research background in structural biology, computational protein design, or machine learning, a passion for independent research and technical problem-solving, and a proven ability to develop and implement ideas from research. Our mission is to develop and apply cutting-edge methods in designing novel molecules. Researchers will primarily focus on de novo computational protein design and the application of deep generative models but should be broadly interested in physics-, chemistry-, and biology-informed methods at the interface of wet lab biology and computational modeling that can help drive and sharpen the research questions we study. The Opportunity In this role, your responsibilities will include: Participate in cutting-edge research in physics-based modeling and machine learning and applications to drug discovery, design, and development. You will collaborate closely with cross-functional teams to solve complex problems in the life sciences e.g., structural and computational biology, computational chemistry, etc. Who You Are To succeed in this role, you have the following: You graduated from a Master's program within the last year, or you are enrolled in a PhD program in Computational Biology, Computational Chemistry, Physics, Computer Science, Statistics, Applied Mathematics, or a related technical field. Strong  understanding of protein structure and function Previous experience in protein engineering or computational protein design Strong publication record and experience contributing to research communities Strong programming skills in Python and proficient with at least one deep learning framework (e.g., PyTorch, TensorFlow, JAX). Additional Information Start Date: June 2026 Length of Assignment: 6 months Internship is only possible on a full-time basis Application process Your application should include the following documents: An up-to-date CV and a motivation letter A certificate of enrollment (if you are currently studying) For non-EU/EFTA citizens: Due to legal requirements, you must provide a certificate issued by your university confirming that the internship is a mandatory part of your studies If you are passionate about machine learning, we look forward to receiving your application! Who we are A healthier future drives us to innovate. Together, more than 100’000 employees across the globe are dedicated to advance science, ensuring everyone has access to healthcare today and for generations to come. Our efforts result in more than 26 million people treated with our medicines and over 30 billion tests conducted using our Diagnostics products. We empower each other to explore new possibilities, foster creativity, and keep our ambitions high, so we can deliver life-changing healthcare solutions that make a global impact. Let’s build a healthier future, together. Roche is an Equal Opportunity Employer.",
-    "external_url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Internship-for-Students-of-Computational-Biology--Computational-Chemistry---Applied-Mathematics--6-months-_202604-110511-1",
-    "status": "ignored",
-    "title": "Internship for Students of Computational Biology, Computational Chemistry,  Applied Mathematics (6 months)",
-    "company": "Roche",
-    "location": "Basel",
-    "posted_date": "2026-04-25",
-    "department": "",
-    "score": 3,
-    "matched_keywords": [
-      "PhD",
-      "computational biology",
-      "drug discovery"
-    ],
-    "deducted_keywords": []
   },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000122693910": {
     "description": "Are you passionate about cutting-edge fabrication? Do you thrive at the intersection of high-precision machining and advanced joining applied to Radio Frequency components? This is your opportunity to join a multidisciplinary team developing the Tristron - a high-efficiency RF power source critical for the Future Circular Collider (FCC). Your role involves participating in the R&D for manufacturing processes, working with the design office and engineering units to finalise the design and following up the manufacturing in collaboration with the methods office. This position is within the Mechanical and Materials Engineering ( MME ) Group, which maintains and develops decades of expertise in the design, manufacturing, and assembly of advanced accelerator components. The Engineering Department (EN) pushes the limits of technology to provide innovative research tools for the global physics community. Your responsibilities: In this framework, you will participate in the manufacturing R&D and the fabrication follow-up of the Tristron prototypes. This involves technical discussions and close collaboration with various experts in fields such as machining, vacuum brasing, beam welding, metrology, materials laboratory, and surface treatment to enable and support the R&D program. Your tasks include: Triode Development: Focus on the mechanical realisation and development of the critical Triode components, including the Anode, Cathode, and Grid. Laser Processing Development for the Grid: Oversee the development of laser micro-machining and other advanced manufacturing technologies for the grid manufacturing, utilising specialised materials. Define and follow up on feasibility studies for High-Precision Machining: achieving sub-10 micron tolerances, required surface roughness, and precise parts fit-up. Advanced Joining & Materials Engineering: Define and follow up on feasibility studies for vacuum brasing cycles and/or electron beam welding (EBW) procedures for dissimilar materials, focusing on the metallurgical integrity of joints between oxygen-free copper, technical ceramics, and other high-performance alloys. Design-for-Manufacturing (DfM): Based on feasibility studies, provide feedback to the RF designers and MME Design Office to optimise the design for manufacturing. Quality Follow-up & Documentation: Define QA/QC plans (metrology, roughness, leak detection), ensure R&D traceability and documentation, and record joining procedures (BPS/WPS) with concerned services. Manufacturing Strategy: Participate in the definition of the complete fabrication sequence for the Tristron with the methods office. Your profile: Assembly & Joining: Experience in mechanical components assembly; good knowledge and understanding of fabrication techniques (such as vacuum brasing and electron beam welding) and their application to the design process. Fabrication Methods: Experience in application of fabrication methods for high-precision mechanical components or radio frequency (RF) Structures. Materials Science: Knowledge of metallic and non-metallic materials (OFHC copper, technical ceramics, and high-performance alloys). Technical Drawings: Experience with 3D and 2D technical drawings; ability to read/interpret technical drawings and ISO GPS tolerancing (dimensional and geometrical product specification standards). Skills: CAD Tools: Experience with CAD tools (preferably CATIA) would be an asset. Quality Management: Initial experience with quality management processes; knowledge of quality control procedures and standards applicable to mechanical production, including metrology, NDT (leak detection), and the establishment of BPS/WPS. RF Specialisation: Knowledge of mechanical fabrication for radio frequency (RF) structures would be a strong asset; familiarity with vacuum chambers and/or laser processing would be an additional advantage. Spoken and written English, with a commitment to learn French. Eligibility criteria: You are a national of a CERN Member or Associate Member State . You have a professional background in Mechanical, Manufacturing, Materials eng (or a related field) and have either: a Master's degree with 2 to 6 years of post-graduation professional experience; or a PhD with no more than 3 years of post-graduation professional experience. You have never had a CERN fellow or graduate contract before.",
@@ -1181,7 +1149,7 @@
     "title": "Post Doctorate Scientist (IHB) - In Vitro Modeling Adaptive Immunologist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-25",
+    "posted_date": "2026-04-24",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -1204,7 +1172,7 @@
     "title": "Post Doctoral Scientist (IHB) - Computational Immunology",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-25",
+    "posted_date": "2026-04-24",
     "department": "",
     "score": 12,
     "matched_keywords": [
@@ -1266,11 +1234,6 @@
       "drug discovery"
     ],
     "deducted_keywords": []
-  },
-  "https://careers.ompharma.com/job/Meyrin-Head-of-Medical-Affairs-Geneva-Gene/1289264901/": {
-    "description": "To support our continued growth and scientific leadership, we are seeking a Head of Medical Affairs to join our headquarters in Geneva and lead our global Medical Affairs function. Reporting to the Chief Scientific Officer, you will shape and execute OM Pharma’s Medical Affairs strategy, elevate our global scientific engagement, and inspire a high performing team in a dynamic and agile environment. Your main responsibilities are as follows: Lead, mentor, and develop the Medical Affairs team to drive excellence and engagement Define and drive implementation of the global Medical Affairs strategic plan in collaboration with the regions Ensure optimization roles and responsibilities across the function to support products throughout their lifecycle Design and oversee the KOL engagement framework, ensuring structured, effective, and compliant interactions Build strong relationships with KOLs and healthcare professionals in close collaboration with cross functional teams Oversee medical information processes and ensure high quality scientific deliverables Provide medical and scientific expertise to support product development, launches, and training initiatives Develop and deliver impactful internal and external medical education programs Strengthen and expand partnerships with key healthcare organizations worldwide Represent Medical Affairs within governance bodies, ensuring a strong medical voice in strategic decisions Uphold the highest ethical and compliance standards in all Medical Affairs activities. Monitor therapeutic areas and competitive landscape to anticipate strategic opportunities Foster a high performance culture within the Medical Affairs team. Approximately 15% business travel is required. To carry out this mission, we are looking for a person with the following profile: Advanced degree in Life Sciences, Medicine, Pharmacy or related fields (MD, PhD, PharmD, Master). 15 years’ experience in the pharmaceutical or related industry. At least 10 years in Medical Affairs, ideally combining affiliate and global experience. Demonstrated people management experience, with strong skills in hiring, developing, and leading teams. Fluency in English (oral and written); French is a strong asset Proficiency in MS Office tools You are a strategic yet hands on Medical Affairs leader with strong communication and interpersonal skills and an entrepreneurial mindset. You thrive in cross functional environments, think pragmatically, act with agility, and consistently seek solutions. You embody our values: entrepreneurship, respect, teamwork, passion, and trust. This position is primarily office-based (Meyrin), ensuring close collaboration and strong connection to the business. We support flexible working arrangements, including home office, in alignment with team and organizational needs. If you want to make a meaningful impact at the intersection of science, patient benefit, and innovation — apply today and join OM Pharma! About Us OM Pharma is a global Geneva-based biopharmaceutical company. It is a leader in the prevention of recurrent respiratory and urinary tract infections and is also active in the treatment of vascular diseases. It operates worldwide through a strong network of international partners and invests its profits in R&D to develop microbial derived immunotherapeutic products to treat acute and chronic immunological disorders resulting from inflammation and infections. The company strives to improve the quality of life of patients around the world by providing access to better treatment of immunological imbalances. For more information, visit the website: ompharma.com .",
-    "external_url": "https://careers.ompharma.com/job/Meyrin-Head-of-Medical-Affairs-Geneva-Gene/1289264901/",
-    "status": "matched"
   },
   "https://jobdetails.nestle.com/job/Lausanne-R&D-Strategy-Senior-Scientific-Lead/1286286401/": {
     "description": "Position Snapshot Location: Nestlé Research, Lausanne, Switzerland Company: Société des Produits Nestlé S.A. Act. Rate: Full-Time Act. Rate 100% Type of contract: Permanent Start date: ASAP Deadline for applications: 13 April 2026 What we offer at Nestlé Exciting opportunities to develop your career your way; across different brands, businesses, functions, and regions. Flexible working arrangements - facilitating creativity and collaboration. A culture of respect, with diversity, equity and inclusion at its core. Learn more here . A dynamic international environment empowering you to learn, develop and grow. Don’t hesitate to connect with us during the recruitment process to learn more. Position Summary As a Scientific Engagement Lead , you will shape and execute our Scientific Stakeholder Engagement plans , focusing on strategic topics in the area of nutrition and health. In this highly visible role, you will collaborate closely with R&D leadership, scientific experts as well as Corporate Affairs to identify key engagement opportunities and organize impactful scientific stakeholder events. You will report to the Head of R&D Strategy and Chief of Staff for R&D. A Day in the Life of a Scientific Engagement Lead Oversee the annual planning of strategic scientific engagement opportunities (conferences, symposia, workshops, meetings etc.) in the area of nutrition and health Create presentations, write speeches, position papers etc. on strategic topics Develop content and organize events such as scientific symposia, including the Nestlé International Nutrition Symposium Represent Nestlé as speaker or participant at external international events, both locally and abroad What Will Make You Successful PhD degree with a scientific background Good understanding of scientific trends and key opinion leaders Passionate about science and technology beyond own area of expertise Excellent communication and storytelling skills Strong networking and presentation skills Proven prioritization, organization and project management skills Ability to work under pressure within tight deadlines Dynamic and detail-oriented, with a hands-on, can-do attitude Team player with excellent interpersonal and collaboration skills Proficiency in English (verbal & written); any additional language is a plus Nestlé is committed to the accessibility of its recruitment process. If you require an adaptation during the recruitment process, please do let us know so we can support you effectively. All information will be treated confidentially. At Nestlé, we want to help shape a better and healthier world, inspire people to live healthier lives and deliver impact at a scale and pace that makes a difference. We do this by fostering a diverse, friendly, supportive, and collaborative environment, that creates positive disruption, embraces innovation, and empowers people and teams to win. We aim to hire friendly, respectful, inspiring people who care about the people’s lives that we touch every single day. Be a force for good. Join Nestlé and visit us on www.nestle.com .",
@@ -1339,7 +1302,7 @@
     "title": "Global Regulatory Affairs Director (Neuroscience)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-04-29",
+    "posted_date": "2026-04-28",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1396,11 +1359,6 @@
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000123902240": {
     "description": "Introduction As an electromechanical technical engineer, you will engage in the major upgrades of the CMS experiment at CERN, leading modification and consolidation work on the infrastructure and electrical services for the CMS detector, both underground and on the surface of the experimental area. Your responsibilities will cover a wide range of activities, from dismantling and decommissioning to the reinstallation of electronic racks, electrical distribution systems, cooling piping, power and signal cables, and building renovation. You will also have a coordination role within the CMS technical coordination team, defining needs and resources, placing orders, and closely supervising the work performed by technical service teams and subcontractors. Functions Supervise and follow up on the decommissioning and subsequent reinstallation of electronics and power racks in the underground area, coordinating different teams. Manage infrastructure projects deployed progressively, including the installation of services such as power distribution, HVAC, and building renovation. Take responsibility for the coordination and validation of infrastructure works in both the underground and surface experimental areas of the CMS experiment. Organise the required technical support from central technical teams for each work package you lead. Prepare and maintain field operation planning. Perform day-to-day follow-up of site activities carried out by technical support teams and subcontractors. Monitor work progress, report to CMS experiment management, and adjust plans and resources as required. Support projects with logistical and operational assistance. Act as the territorial safety officer for underground and/or surface buildings.",
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000123902240-electromechanical-technical-engineer-for-the-cms-experiment-ep-cms-ic-2026-98-ld-?oga=true",
-    "status": "matched"
-  },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000123904429": {
-    "description": "Introduction: As a mechanical technician, you will contribute to upgrade projects of the CMS detector, covering a broad range of responsibilities. These include workshop-based mechanical work, installation of detector systems, and the design and use of tooling for the removal and installation of CMS sub-detectors, as well as radioprotection duties in experimental areas and associated laboratories. You will also take on coordination and operational responsibilities within the CMS Technical Coordination team, working closely with sub-detector groups and CMS technical support teams. Functions: Take responsibility for activities related to safety and radioprotection for subdetector removal and installation, working with CMS safety officers and subdetector teams, operating in radioprotection-classified areas, and applying safety rules. Manage a mechanical workshop, advising and assisting CMS subdetector teams, ensuring the availability and proper use of equipment and tools, and supplying consumables. Provide technical support and hands-on assistance to CMS subdetector project teams operating within the CMS laboratories at CERN, in the fields of mechanical manufacturing, assembly, structures, and welding. Take part in the development, testing, on-site installation, and on-detector operation of custom tooling for subdetectors, working with subdetector technical teams. Operate and maintain hydraulic, mechanical, and electromechanical systems. Organise and supervise the storage of subdetector equipment in CMS-reserved spaces at CERN, ensuring proper inventory and space management. Assist the territorial safety officer of the building where the mechanical workshop is located, supervising work requested on infrastructure for general safety, and using a mobile crane and forklift when needed. Serve as the technical contact for mechanical activities with subdetector teams and for space areas under your responsibility, reporting regularly to the Technical Coordination managers.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000123904429-mechanical-technician-for-cms-detector-upgrades-ep-cms-ic-2026-97-ld-?oga=true",
     "status": "matched"
   },
   "https://api.smartrecruiters.com/v1/companies/Sobi/postings/744000123888995": {
@@ -1526,7 +1484,7 @@
     "title": "Scientist, Tech Ops x2",
     "company": "CSL Behring / Vifor",
     "location": "EMEA, CH, Kanton Bern, Bern, CSL Behring",
-    "posted_date": "2026-05-08",
+    "posted_date": "",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1546,7 +1504,7 @@
     "title": "Translational Medicine Academy fellow in Clinical Science & Innovation (CS&I)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-05-05",
+    "posted_date": "2026-05-04",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -1571,7 +1529,7 @@
     "title": "Translational Medicine Academy fellow in Preclinical Safety - Data Science",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-05-05",
+    "posted_date": "2026-05-04",
     "department": "",
     "score": 8,
     "matched_keywords": [
@@ -1593,7 +1551,7 @@
     "title": "Translational Medicine Academy fellow in Biomarker Development (BMD) Laboratory Excellence & Operations (LEO)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-05-05",
+    "posted_date": "2026-05-04",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -1613,7 +1571,7 @@
     "title": "Translational Medicine Academy fellow in Biomarker Development (BMD) Molecular, Cellular & Soluble Sciences (MCS)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-05-06",
+    "posted_date": "2026-05-05",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -1632,7 +1590,7 @@
     "title": "Translational Medicine Academy fellow for Pharmacokinetics Sciences Modeling & Simulaton",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-05-05",
+    "posted_date": "2026-05-04",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -1656,7 +1614,7 @@
     "title": "Scientist, Tech Ops",
     "company": "CSL Behring / Vifor",
     "location": "EMEA, CH, Kanton Bern, Bern, CSL Behring",
-    "posted_date": "2026-05-05",
+    "posted_date": "2026-05-04",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1676,7 +1634,7 @@
     "title": "Modelling and Simulations Scientist ( 2 year contract)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-05-06",
+    "posted_date": "2026-05-05",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -1755,7 +1713,7 @@
     "title": "Medical Science Liaison Renal and Metabolism - East",
     "company": "AstraZeneca",
     "location": "Switzerland - Baar",
-    "posted_date": "",
+    "posted_date": "2026-05-06",
     "department": "",
     "score": -1,
     "matched_keywords": [
@@ -1775,7 +1733,7 @@
     "title": "Medical Affairs Coordinator",
     "company": "ICON plc",
     "location": "Switzerland, Basel",
-    "posted_date": "",
+    "posted_date": "2026-05-06",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1830,7 +1788,7 @@
     "title": "Medical Affairs Director Switzerland",
     "company": "Eli Lilly",
     "location": "Switzerland, Vernier",
-    "posted_date": "2026-05-08",
+    "posted_date": "",
     "department": "",
     "score": -2,
     "matched_keywords": [
@@ -1849,7 +1807,7 @@
     "title": "Post Doctoral Scientist (m/w/d)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-05-08",
+    "posted_date": "",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1895,7 +1853,7 @@
     "title": "Senior Scientist, Tech Ops",
     "company": "CSL Behring / Vifor",
     "location": "EMEA, CH, Kanton Bern, Bern, CSL Behring",
-    "posted_date": "2026-05-08",
+    "posted_date": "",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1925,7 +1883,7 @@
     "title": "Medical Director, Gastroenterology, Early Clinical Development",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-05-08",
+    "posted_date": "",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -1937,5 +1895,41 @@
       "translational medicine"
     ],
     "deducted_keywords": []
+  },
+  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000125321785": {
+    "description": "You will take part in the fabrication and assembly of a wide range of electronic and opto-electronic test systems used to evaluate component performance. Using various machines in our mechanical workshop (CNC routers, milling machines, lathes, drill presses, etc.), you will manufacture parts to support the activities of the ESE group. You will also contribute to building wiring harnesses that connect devices to test systems, including for use in demanding environments such as radiation test facilities. In addition, you will assist in assembling and testing large-scale setups. Your responsibilities: Use machine tools to create mechanical parts for test setups. Assemble wiring and fibre harnesses. Solder electronic components onto PCBs. Design simple PCBs after receiving training if necessary. Carry out testing of cabling harnesses and assembled electronic circuits using a range of laboratory instruments. Your profile: Hands-on experience in mechanical parts manufacturing. Basic understanding of compact CNC machines. Familiarity with electronic board assembly, cable and wiring fabrication. Performed assembly, wiring, and testing of electromechanical assemblies. Skills: Ability to read and interpret mechanical drawings and Electronic schematics. Ability to operate conventional machine tools. Capable of building, wiring and testing Electromechanical assemblies. Working in teams: effective collaboration within multi-disciplinary teams. Spoken and written English, with a commitment to learn French. Eligibility criteria: You are a national of a CERN Member or Associate Member State . By the application deadline, you have a maximum of two years of professional experience since graduation in Technician in Mechatronic / Mec / Elect (or a related field) and your highest educational qualification is a general secondary education diploma . You have never had a CERN fellow or graduate contract before. Applicants with a Bachelor's, Master's or PhD degree are not eligible.",
+    "external_url": "https://jobs.smartrecruiters.com/CERN/744000125321785-mechatronics-technician-for-optical-link-ep-ese-be-2026-104-grae-?oga=true",
+    "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000125271650": {
+    "description": "Introduction: As a mechanical technician, you will contribute to upgrade projects of the CMS detector, covering a broad range of responsibilities. These include workshop-based mechanical work, installation of detector systems, and the design and use of tooling for the removal and installation of CMS sub-detectors, as well as radioprotection duties in experimental areas and associated laboratories. You will also take on coordination and operational responsibilities within the CMS Technical Coordination team, working closely with sub-detector groups and CMS technical support teams. Functions: Take responsibility for activities related to safety and radioprotection for subdetector removal and installation, working with CMS safety officers and subdetector teams, operating in radioprotection-classified areas, and applying safety rules. Manage a mechanical workshop, advising and assisting CMS subdetector teams, ensuring the availability and proper use of equipment and tools, and supplying consumables. Provide technical support and hands-on assistance to CMS subdetector project teams operating within the CMS laboratories at CERN, in the fields of mechanical manufacturing, assembly, structures, and welding. Take part in the development, testing, on-site installation, and on-detector operation of custom tooling for subdetectors, working with subdetector technical teams. Operate and maintain hydraulic, mechanical, and electromechanical systems. Organise and supervise the storage of subdetector equipment in CMS-reserved spaces at CERN, ensuring proper inventory and space management. Assist the territorial safety officer of the building where the mechanical workshop is located, supervising work requested on infrastructure for general safety, and using a mobile crane and forklift when needed. Serve as the technical contact for mechanical activities with subdetector teams and for space areas under your responsibility, reporting regularly to the Technical Coordination managers.",
+    "external_url": "https://jobs.smartrecruiters.com/CERN/744000125271650-mechanical-technician-for-cms-detector-upgrades-ep-cms-ic-2026-97-ld-?oga=true",
+    "status": "matched"
+  },
+  "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-analytical-project-leader-scientist-senior-scientist-basel-stadt-873611/1": {
+    "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-analytical-project-leader-scientist-senior-scientist-basel-stadt-873611/1",
+    "status": "matched",
+    "title": "Analytical Project Leader (Scientist / Senior Scientist)(m/f/d)",
+    "company": "Hays Switzerland",
+    "location": "Basel Stadt, Switzerland",
+    "posted_date": "",
+    "department": "",
+    "score": 0,
+    "matched_keywords": [],
+    "deducted_keywords": []
+  },
+  "https://www.michaelpage.ch/fr/job-detail/portfolio-manager-fr-eng-100-m-f/ref/jn-042026-6999371?lang=en": {
+    "external_url": "https://www.michaelpage.ch/fr/job-detail/portfolio-manager-fr-eng-100-m-f/ref/jn-042026-6999371?lang=en",
+    "status": "matched",
+    "title": "Portfolio Manager FR / ENG 100% (m / f)",
+    "company": "Michael Page Switzerland",
+    "location": "Switzerland",
+    "posted_date": "",
+    "department": "",
+    "score": -2,
+    "matched_keywords": [],
+    "deducted_keywords": [
+      "location:Switzerland"
+    ]
   }
 }
