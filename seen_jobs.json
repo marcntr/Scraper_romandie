@@ -1908,7 +1908,7 @@
   },
   "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-analytical-project-leader-scientist-senior-scientist-basel-stadt-873611/1": {
     "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-analytical-project-leader-scientist-senior-scientist-basel-stadt-873611/1",
-    "status": "matched",
+    "status": "ignored",
     "title": "Analytical Project Leader (Scientist / Senior Scientist)(m/f/d)",
     "company": "Hays Switzerland",
     "location": "Basel Stadt, Switzerland",
@@ -1966,6 +1966,26 @@
       "immunology",
       "molecular biology",
       "pharmacology"
+    ],
+    "deducted_keywords": []
+  },
+  "/job/Basel/Discovery-Scientists--in-vitro-and-in-vivo-Pharmacology--in-Cardiovascular---Metabolic-Disease-Research_202605-111706-1": {
+    "description": "At Roche you can show up as yourself, embraced for the unique qualities you bring. Our culture encourages personal expression, open dialogue, and genuine connections,  where you are valued, accepted and respected for who you are, allowing you to thrive both personally and professionally. This is how we aim to prevent, stop and cure diseases and ensure everyone has access to healthcare today and for generations to come. Join Roche, where every voice matters. The Position In Roche’s Pharmaceutical Research and Early Development organization (pRED) , we make transformative medicines for patients in order to tackle some of the world’s toughest unmet healthcare needs. At pRED, we are united by our mission to transform science into medicines. Together, we create a culture defined by curiosity, responsibility and humility, where our talented people are empowered and inspired to bring forward extraordinary life-changing innovation at speed. pRED Cardiovascular & Metabolism, Immunology (CMI), located in Basel, Switzerland, focuses on the discovery and early development of innovative treatments for specific diseases that affect the lives of millions. In the cardiovascular and metabolism area, we are developing cutting-edge therapies to treat metabolic diseases. We are currently hiring four experienced PhD-level Discovery Scientists to join our Cardiovascular & Metabolic Disease Research team : These opportunities include two in vivo-focused and two in vitro-focused positions , offering the chance to contribute to innovative preclinical research in metabolic diseases. We are looking for candidates with strong expertise in in vitro and/or in vivo pharmacology, a solid industry background, and a proven track record in executing preclinical projects in metabolic diseases and immunology. The opportunity In this role, you will design and execute experiments and lead projects to evaluate the efficacy and safety of novel therapeutic candidates. Lead research projects in the area of metabolic diseases (insulin resistance, obesity) from target ideation to entry into clinical development for both small- and large-molecule modalities. Drive the positioning and prioritization of novel metabolic and immunological targets, integrating disease biology, translational biomarkers, and therapeutic modality selection to align with Roche’s CVM pipeline. Collaboratively design, execute, and interpret complex preclinical in vitro and in vivo experimental studies for the validation and characterization of targets or therapeutic agents Direct, execute, and benchmark novel experiments, work together hand in hand with associates, and transfer standardized assays to associates Act as a resource in project teams, and demonstrate clear and professional verbal and written communication Who You Are You’re someone who wants to influence your own development. You are looking for a company where you receive the opportunity to pursue your interests across functions and geographies. Working in a multicultural environment motivates you. As a fast learner, you actively drive the quality of the requirements. You possess a PhD degree in Life Sciences ; are specialized in Metabolic diseases (insulin resistance, obesity, muscle-/adipose-physiology) You have >5 years of research and project leadership experience in the pharmaceutical industry. You have demonstrated ability to effectively present scientific data and concepts to colleagues, teams, and management is essential Skillfully able to interact effectively with people, both internally and externally Vigorous “can do” mentality to succeed in a dynamic and highly collaborative research team Depending on your background, this role is embedded in an in vivo–focused or in vitro-focused research team Ready to take the next step? We'd love to hear from you. Apply now to explore this exciting opportunity ! Who we are A healthier future drives us to innovate. Together, more than 100’000 employees across the globe are dedicated to advance science, ensuring everyone has access to healthcare today and for generations to come. Our efforts result in more than 26 million people treated with our medicines and over 30 billion tests conducted using our Diagnostics products. We empower each other to explore new possibilities, foster creativity, and keep our ambitions high, so we can deliver life-changing healthcare solutions that make a global impact. Let’s build a healthier future, together. Roche is an Equal Opportunity Employer.",
+    "external_url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Discovery-Scientists--in-vitro-and-in-vivo-Pharmacology--in-Cardiovascular---Metabolic-Disease-Research_202605-111706-1",
+    "status": "matched",
+    "title": "Discovery Scientists, in vitro and in vivo Pharmacology, in Cardiovascular & Metabolic Disease Research",
+    "company": "Roche",
+    "location": "Basel",
+    "posted_date": "2026-05-08",
+    "department": "",
+    "score": 6,
+    "matched_keywords": [
+      "PhD",
+      "immunology",
+      "in vitro",
+      "in vivo",
+      "pharmacology",
+      "preclinical"
     ],
     "deducted_keywords": []
   }
