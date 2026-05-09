@@ -580,7 +580,9 @@
     "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Senior-DSX-Data-Scientist_202605-111091": "ignored",
     "https://beigene.wd5.myworkdayjobs.com/BeiGene/job/Basel/Head-of-Regulatory-Affairs--Europe_R31198": "ignored",
     "https://job-boards.greenhouse.io/isomorphiclabs/jobs/5741392004": "ignored",
-    "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Internship-in-Global-Medical-Affairs--12-months-_202604-110066": "ignored"
+    "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Internship-in-Global-Medical-Affairs--12-months-_202604-110066": "ignored",
+    "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Basel-City/Global-Regulatory-Affairs-Director--Neuroscience-_REQ-10076200": "ignored",
+    "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Basel-City/Medical-Director--Gastroenterology--Early-Clinical-Development_REQ-10076205-1": "ignored"
   },
   "https://gloorlang.starhunter.software/Headhunter/project/job-ad/hash/693ffd941548c": {
     "external_url": "https://gloorlang.starhunter.software/Headhunter/project/job-ad/hash/693ffd941548c",
@@ -1799,7 +1801,7 @@
   },
   "https://www.michaelpage.ch/de/job-detail/business-development-specialist-100/ref/jn-032026-6968386?lang=en": {
     "external_url": "https://www.michaelpage.ch/de/job-detail/business-development-specialist-100/ref/jn-032026-6968386?lang=en",
-    "status": "matched",
+    "status": "ignored",
     "title": "Business Development Specialist (a) 100%",
     "company": "Michael Page Switzerland",
     "location": "Switzerland",
