@@ -1971,5 +1971,19 @@
       "pharmacology"
     ],
     "deducted_keywords": []
+  },
+  "https://www.michaelpage.ch/job-detail/fund-portfolio-coordinator-9-months/ref/jn-042026-6999523": {
+    "external_url": "https://www.michaelpage.ch/job-detail/fund-portfolio-coordinator-9-months/ref/jn-042026-6999523",
+    "status": "matched",
+    "title": "Fund Portfolio Coordinator for 9 months",
+    "company": "Michael Page Switzerland",
+    "location": "Switzerland",
+    "posted_date": "",
+    "department": "",
+    "score": -2,
+    "matched_keywords": [],
+    "deducted_keywords": [
+      "location:Switzerland"
+    ]
   }
 }
