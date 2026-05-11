@@ -842,11 +842,6 @@
     ],
     "deducted_keywords": []
   },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000119597467": {
-    "description": "Introduction Are you a skilled and highly motivated mechanical engineer? Would you like to contribute to the forefront of nuclear science and to the fight against cancer by supporting the production of the rarest nuclei and radionuclides for medical research? Join the multidisciplinary target and radioactive beam production team, which applies cutting edge mass separation techniques to produce high purity radioactive ion beams for fundamental science, nuclear physics and medical research. You will operate these systems and lead their further development, enabling the production of innovative target materials and the delivery of radioactive ion beams. Functions You will: Design, operate, maintain, and improve mechanical systems and target materials for radioactive ion beam production at CERN-MEDICIS and ISOLDE. Support reliable operation of CERN-MEDICIS isotope separators, mass separators, and associated infrastructure. Ensure safe, compliant operation of laboratory installations (e.g. glove boxes, fume hoods, hot cells) and handling unsealed radioactive materials according to radiation protection requirements. Lead the CERN-MEDICIS planning, documentation, monitoring, and optimisation of production activities and workflows. Support nanomaterials laboratory activities and materials development, particularly in nuclear nanomaterials. Coordinate key steps of the medical isotope production process, from target preparation to quality control and shipment.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000119597467-target-materials-engineer-sy-sti-2026-88-ld-?oga=true",
-    "status": "matched"
-  },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000120315358": {
     "description": "You will engage in the preparation and installation of beam line mechanical supports in beam line facilities (i.e Targets cavern). This includes participating in the fabrication follow-up, assembling tasks, logistics and installation. Your responsibilities Conduct the dismantling/assembling activities of the beam line equipment. Actively participate in all stages of the mechanical equipment readiness, from production to installation. Collaborate closely with engineers, coordination teams and other technicians. Communicate and report the advancement of the work to the supervisor and project managers. More information here: https://be-dep-ea.web.cern.ch/index.php/about-ea/experimental-areas-group-ea Your profile - Practical experience in mechanical assembling. - Experience in reading 2D drawings (ISO-GPS). - Knowledge of preparation of mechanical assembly work (orders, BOM, logistics... ) - Familiarity with 3D modeling software and Microsoft Office pack. Skills Design of mechanical equipment and structures. Knowledge and application of manufacturing methods and work preparation. Organization, planning and control of tasks. Installation of mechanical equipment. Knowledge of design codes and compliance verification of mechanical equipment. Spoken and written English or French, with a commitment to learn the basics of the other language. Eligibility criteria: You are a national of a CERN Member or Associate Member State . By the application deadline, you have a maximum of two years of professional experience since graduation in Mechanical Engineering (or a related field) and your highest educational qualification is a general secondary education diploma . You have never had a CERN fellow or graduate contract before. Applicants with a Bachelor's, Master's or PhD degree are not eligible.",
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000120315358-mechanical-technician-be-ea-dc-2026-102-grae-?oga=true",
@@ -864,7 +859,7 @@
     "title": "Global Medical Affairs Lead Genomic Profiling",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-14",
+    "posted_date": "2026-04-13",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -882,7 +877,7 @@
     "title": "Sr. Scientist - Computational Biology - Neuroscience & Rare Diseases",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-16",
+    "posted_date": "2026-04-15",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -898,28 +893,6 @@
     ],
     "deducted_keywords": []
   },
-  "https://apply.workable.com/debiopharm/j/1B593F4FBF/": {
-    "description": "At Debiopharm, every step we take is guided by one purpose: improving the lives of people affected by cancer and infectious diseases. As a privately-owned Swiss biopharmaceutical company, we’re driven by science, but above all, by the people behind every treatment — the patients and their families. Through our unique “development only” model, we bring forward promising therapies and transform them into treatments that can reach those who need them most, faster. Are you ready to be at the forefront of the model-informed drug development (MIDD)? Debiopharm International SA is seeking a highly motivated Research Fellow (Intern) to help build an AI-enhanced Quantitative Systems Pharmacology (QSP) platform. This project offers a unique opportunity to integrate preclinical, clinical data and real-world data with mathematical models and AI to accelerate the development of our Antibody-Drug Conjugate (ADC) pipeline. You will work directly on assets, bridging the gap between systems biology and data-driven decision-making. Research Fellow – AI-Enhanced Pharmacometrics (Intern) Location: Lausanne, Switzerland Department: Clinical Pharmacology & Pharmacometrics Project: 12-months internship Executive Summary of the Internship The primary mission of this fellowship is to develop and standardize a custom QSP platform for the Debiopharm ADC pipeline. By utilizing AI and advanced modeling techniques, you will contribute to a \"Digital Twin\" environment to simulate virtual trials, optimize dosing regimens, and establish \"Go/No-Go\" criteria. This role is central to a specific project strategy, aiming to shorten development timelines and enhance our proprietary MIDD capabilities. Key Responsibilities QSP Data Integration: Contribute to integrating multi data source into the existing QSP platform for key ADC programs. AI-Driven Modelling: Create templates for virtual population construction using AI and R to characterize populations of interest. Simulator Development: Build virtual trial simulators using R or C++ for predicting compound efficacy and safety. Decision Analysis: Develop R-based data analysis templates to define \"Go/No-Go\" criteria based on virtual trial simulations. Documentation: Thoroughly document the development process and analysis workflows to ensure knowledge retention. Profile Required Educational Background: PhD or Master’s student in Pharmacometrics, Biostatistics, Computational Biology, Mathematics, Computer Science, or Engineering. Core Knowledge: Understanding basic Pharmacokinetic (PK) and Pharmacodynamic (PD) concepts. Modeling Software: Strong proficiency in R or Python is essential. Previous exposure to Monolix, NONMEM, Matlab or SimBiology is a significant advantage. Proficiency in C++ is considered a strong plus for simulator development. Team Synergy: Ability to work independently on technical tasks while collaborating effectively in a team environment. Organization: Strong organizational skills to manage and process data from multiple ADC programs simultaneously. Communication: Fluency in English (both oral and written). What we Offer: Being part of a company where innovation, collaboration, and impact aren’t just values — they’re how we work every day Partner with teams across disciplines, at the forefront of oncology and anti-infective development An inclusive and respectful workplace — proud to be Equal-Pay certified Grow in a culture that values people, purpose, and performance A chance to grow, share, and shape the future of healthcare What to Expect in the Recruitment Process: If your application is selected, you’ll be invited to interviews with Talent Acquisition and the Hiring Manager via Teams, followed by a panel interview and reference checks. Communication is handled via Workable—check your spam folder for emails from *@outbound.workable.com. Please contact our HR Department prior to submitting any profiles. We cannot accept unsolicited applications from agencies or recruiters.",
-    "external_url": "https://apply.workable.com/debiopharm/j/1B593F4FBF/",
-    "status": "ignored",
-    "title": "T2604 - Research Fellow - AI-Enhanced Pharmacometrics (Intern)",
-    "company": "Debiopharm",
-    "location": "Lausanne, Vaud, Switzerland / Lausanne, Vaud, Switzerland",
-    "posted_date": "2026-04-13",
-    "department": "Pharmaceutical Development",
-    "score": 11,
-    "matched_keywords": [
-      "PhD",
-      "clinical pharmacology",
-      "computational biology",
-      "drug development",
-      "location:lausanne",
-      "oncology",
-      "pharmacology",
-      "preclinical"
-    ],
-    "deducted_keywords": []
-  },
   "/job/Basel/Post-Doctorate-Scientist---Vascularized-Kidney-Organoids---at-the-Institute-of-Human-Biology--IHB-_202603-108321": {
     "description": "At Roche you can show up as yourself, embraced for the unique qualities you bring. Our culture encourages personal expression, open dialogue, and genuine connections,  where you are valued, accepted and respected for who you are, allowing you to thrive both personally and professionally. This is how we aim to prevent, stop and cure diseases and ensure everyone has access to healthcare today and for generations to come. Join Roche, where every voice matters. The Position The Institute of Human Biology (IHB), embedded within Roche’s Pharma Research and Early Development (pRED) Division, is a leading research institute focused on accelerating the development of transformative medicines. It specializes in developing novel and robust human model systems that functionally resemble human physiology and disease. By bridging the gap between academic discovery and industrial application, IHB facilitates the rapid translation of groundbreaking science into patient-focused solutions. The Opportunity We are building next-generation human kidney models by tackling a central unsolved problem in the field: how to generate organotypic, vascularized kidney organoids that show enhanced maturation. As part of a newly funded IHB fellowship, you will drive an ambitious research program at the interface of stem cell biology, vascular biology, and single-cell genomics, with the goal of creating translationally relevant systems for drug discovery and safety. In this role, you will define innovative approaches to uncover the biological principles of vascular–parenchymal interaction, ultimately helping to establish a new class of human model systems through the following responsibilities: Drive the development of vascularized iPSC-derived kidney organoids, with a focus on tissue specification and maturation Use single-cell genomics to dissect endothelial specification, nephron maturation, and cell–cell communication Work closely with bioengineers to integrate biology into perfusable, next-generation culture systems Translate biological insights into functional, predictive models relevant for human kidney safety Who You Are A scientist with a PhD and a strong track record in iPSC-derived 3D tissue models or organoids. To qualify for this early-career position, you must have completed your doctoral studies within the last four years. Experienced in generating and analysing single-cell transcriptomic data and comfortable translating complex datasets into biological insight Scientifically ambitious, with the ability to drive new concepts rather than follow established protocols Ideally with a strong background in developmental biology, with expertise in kidney, vascular, or related organ systems Additional Information You will be embedded in a highly interdisciplinary ecosystem at IHB, working with leading experts in bioengineering, stem cell biology, and computational analysis, and closely connected to Roche’s drug discovery and safety teams. This is a unique opportunity to define how human kidney models are built and used in the future—from fundamental biology to direct impact on drug development. Application Process To apply, please submit the following materials: Current CV: Please provide a comprehensive CV, including a full list of your peer-reviewed publications. Professional References: Include contact details for two references who can speak to your scientific expertise and professional character. Ph.D. Documentation: Provide an official diploma or certificate confirming your degree (if already obtained). Timeline & Availability: The start date of this position is 1st September 2026. The initial duration is for 2 years, with the potential for extension. Who we are A healthier future drives us to innovate. Together, more than 100’000 employees across the globe are dedicated to advance science, ensuring everyone has access to healthcare today and for generations to come. Our efforts result in more than 26 million people treated with our medicines and over 30 billion tests conducted using our Diagnostics products. We empower each other to explore new possibilities, foster creativity, and keep our ambitions high, so we can deliver life-changing healthcare solutions that make a global impact. Let’s build a healthier future, together. Roche is an Equal Opportunity Employer.",
     "external_url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Post-Doctorate-Scientist---Vascularized-Kidney-Organoids---at-the-Institute-of-Human-Biology--IHB-_202603-108321",
@@ -927,7 +900,7 @@
     "title": "Post Doctorate Scientist – Vascularized Kidney Organoids - at the Institute of Human Biology (IHB)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-15",
+    "posted_date": "2026-04-14",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -972,7 +945,7 @@
     "title": "Senior Scientist microbiological Quality Control",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-04-21",
+    "posted_date": "2026-04-20",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -992,7 +965,7 @@
     "title": "​Sr Manager / Associate Director Regulatory Affairs - Swiss Affiliate",
     "company": "Gilead Sciences",
     "location": "Switzerland - Zug",
-    "posted_date": "2026-04-21",
+    "posted_date": "2026-04-20",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1008,7 +981,7 @@
     "title": "Senior Scientist, Material Qualification and Release (QC GMP)",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-04-21",
+    "posted_date": "2026-04-20",
     "department": "",
     "score": -1,
     "matched_keywords": [
@@ -1075,7 +1048,7 @@
     "title": "Analytical Molecular Characterization Team Lead and Mass Spectrometry Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-23",
+    "posted_date": "2026-04-22",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1136,7 +1109,7 @@
     "title": "Post Doctorate Scientist (IHB) - In Vitro Modeling Adaptive Immunologist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-25",
+    "posted_date": "2026-04-24",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -1159,7 +1132,7 @@
     "title": "Post Doctoral Scientist (IHB) - Computational Immunology",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-25",
+    "posted_date": "2026-04-24",
     "department": "",
     "score": 12,
     "matched_keywords": [
@@ -1427,7 +1400,7 @@
     "title": "Scientist, Tech Ops x2",
     "company": "CSL Behring / Vifor",
     "location": "EMEA, CH, Kanton Bern, Bern, CSL Behring",
-    "posted_date": "2026-05-08",
+    "posted_date": "2026-05-07",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1447,7 +1420,7 @@
     "title": "Scientist, Tech Ops",
     "company": "CSL Behring / Vifor",
     "location": "EMEA, CH, Kanton Bern, Bern, CSL Behring",
-    "posted_date": "2026-05-05",
+    "posted_date": "2026-05-04",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1467,7 +1440,7 @@
     "title": "Modelling and Simulations Scientist ( 2 year contract)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-05-06",
+    "posted_date": "2026-05-05",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -1546,7 +1519,7 @@
     "title": "Medical Science Liaison Renal and Metabolism - East",
     "company": "AstraZeneca",
     "location": "Switzerland - Baar",
-    "posted_date": "2026-05-07",
+    "posted_date": "2026-05-06",
     "department": "",
     "score": -1,
     "matched_keywords": [
@@ -1566,7 +1539,7 @@
     "title": "Medical Affairs Coordinator",
     "company": "ICON plc",
     "location": "Switzerland, Basel",
-    "posted_date": "2026-05-07",
+    "posted_date": "2026-05-06",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1621,7 +1594,7 @@
     "title": "Medical Affairs Director Switzerland",
     "company": "Eli Lilly",
     "location": "Switzerland, Vernier",
-    "posted_date": "2026-05-08",
+    "posted_date": "2026-05-07",
     "department": "",
     "score": -2,
     "matched_keywords": [
@@ -1640,7 +1613,7 @@
     "title": "Post Doctoral Scientist (m/w/d)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-05-08",
+    "posted_date": "2026-05-07",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1686,7 +1659,7 @@
     "title": "Senior Scientist, Tech Ops",
     "company": "CSL Behring / Vifor",
     "location": "EMEA, CH, Kanton Bern, Bern, CSL Behring",
-    "posted_date": "2026-05-08",
+    "posted_date": "2026-05-07",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1757,7 +1730,7 @@
     "title": "Discovery Scientists, in vitro and in vivo Pharmacology, in Cardiovascular & Metabolic Disease Research",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-05-09",
+    "posted_date": "2026-05-08",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -1791,7 +1764,7 @@
     "title": "Global Regulatory Affairs Director (Neuroscience)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-04-29",
+    "posted_date": "2026-04-28",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1821,7 +1794,7 @@
     "title": "Translational Medicine Academy fellow in Biomarker Development (BMD) Molecular, Cellular & Soluble Sciences (MCS)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-05-06",
+    "posted_date": "2026-05-05",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -1840,7 +1813,7 @@
     "title": "Translational Medicine Academy fellow in Clinical Science & Innovation (CS&I)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-05-05",
+    "posted_date": "2026-05-04",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -1865,7 +1838,7 @@
     "title": "Translational Medicine Academy fellow in Preclinical Safety - Data Science",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-05-05",
+    "posted_date": "2026-05-04",
     "department": "",
     "score": 8,
     "matched_keywords": [
@@ -1887,7 +1860,7 @@
     "title": "Translational Medicine Academy fellow in Biomarker Development (BMD) Laboratory Excellence & Operations (LEO)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-05-05",
+    "posted_date": "2026-05-04",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -1907,7 +1880,7 @@
     "title": "Translational Medicine Academy fellow for Pharmacokinetics Sciences Modeling & Simulaton",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-05-05",
+    "posted_date": "2026-05-04",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -1931,7 +1904,7 @@
     "title": "Medical Director, Gastroenterology, Early Clinical Development",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-05-08",
+    "posted_date": "2026-05-07",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -1951,7 +1924,7 @@
     "title": "Research Scientist, DNA-encoded chemical libraries (DEL) (80-100%*)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-05-09",
+    "posted_date": "2026-05-08",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -1975,5 +1948,36 @@
     "deducted_keywords": [
       "location:Switzerland"
     ]
+  },
+  "/job/Basel/Scientist--Pharmaceutical-Development---Data-Analytics--2-years-temporary-contract_202604-110692-1": {
+    "description": "At Roche you can show up as yourself, embraced for the unique qualities you bring. Our culture encourages personal expression, open dialogue, and genuine connections,  where you are valued, accepted and respected for who you are, allowing you to thrive both personally and professionally. This is how we aim to prevent, stop and cure diseases and ensure everyone has access to healthcare today and for generations to come. Join Roche, where every voice matters. The Position As a Scientist in Pharmaceutical Development, you are part of the Department “Pharmaceutical Development” in Pharma Technical Development (PTD) in Basel, Switzerland. The department Pharmaceutical Development is responsible for the development of parenteral drug products (Synthetic molecules and Biologics) from Phase 1 through Launch. Activities encompass formulation and manufacturing process development for parenteral drug products for all clinical stages and the market launch, the transfer of product and process to commercial manufacturing sites, commercial product support and line extension development. The opportunity Leading development: Pharmaceutical development of parenteral formulations for clinical development and market (including line extensions). Understanding stability behavior (e.g. biophysics, chemical degradation) Management of Data: Ensure seamless integration of structured and unstructured data across the department. Data Mining & Pattern Discovery: Utilize advanced statistical and machine learning techniques to perform deep-dive Data Mining. Identify trends and correlations associated with scientific data. Functional expertise as project management: Representation of Pharmaceutical Development as pharmaceutical project leader in global CMC teams, functional representative in cross-functional teams and global committees within Roche. Regulatory submissions: Authoring drug product sections for clinical IND/IMPDs and MAAs. Who you are As the successful candidate you hold a Ph.D. degree in chemical/process/bioprocess engineering or related fields Or you hold a masters degree in chemical/process/bioprocess engineering or related fields with a minimum of 3 years of professional (industry) experience in a pharmaceutical company. Proven experience of establishing and managing large data sets, including exposure to scripting associated with data analysis. Deep understanding of statistical modeling including linear/logistic regression, cluster analysis, time-series forecasting, longitudinal study data analysis, and multivariate testing. Knowledge of pharmaceutical product development and associated requirements. Understanding of regulatory requirements for different clinical and commercial stages of development. Excellent communication skills and collaborative behaviors, with end-to-end and global thinking, as well as excellent stakeholder management skills Are you ready to make a difference for our patients? We are looking forward to your application – join us now and become part of our journey! Who we are A healthier future drives us to innovate. Together, more than 100’000 employees across the globe are dedicated to advance science, ensuring everyone has access to healthcare today and for generations to come. Our efforts result in more than 26 million people treated with our medicines and over 30 billion tests conducted using our Diagnostics products. We empower each other to explore new possibilities, foster creativity, and keep our ambitions high, so we can deliver life-changing healthcare solutions that make a global impact. Let’s build a healthier future, together. Roche is an Equal Opportunity Employer.",
+    "external_url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Scientist--Pharmaceutical-Development---Data-Analytics--2-years-temporary-contract_202604-110692-1",
+    "status": "matched",
+    "title": "Scientist, Pharmaceutical Development & Data Analytics _2 years temporary contract",
+    "company": "Roche",
+    "location": "Basel",
+    "posted_date": "2026-05-11",
+    "department": "",
+    "score": 1,
+    "matched_keywords": [
+      "Masters degree"
+    ],
+    "deducted_keywords": []
+  },
+  "/job/Basel-Switzerland/Medical-Affairs-Project-Coordinator---Sponsor-Dedicated_R1543864": {
+    "description": "Business support & Project coordination for the International Medical Affairs and the Finance department. Responsabilities: Act as an Executive Assistant for the RVP, Head of International Medical Affairs & the AVP, Head of International Finance Act as a business support for Medical Affairs and Finance Departments Act as the first contact of the countries & business units (various requests & scalations, etc.) Coordinate and arrange team/working group meetings and video conferences (agenda, timing, location, attendees, facilities, etc.) Organize business travel and appointments Provide logistics support for internal and external events Contract Management: create vendors profile, contracts online requests, generate purchase orders, DocuSign, invoicing, maintain the project tracker up to date, follow-up with Legal & Finance departments / Implementation of new tools and guidelines Manage monthly accruals (follow up with agencies) and coordinate with Finance Support budget planning, tracking, and adjustments for the team as required Lead the end-to-end production of the monthly newsletter, including coordinating content with country teams and managing publication Support with the Medical Affairs SharePoint (access management, uploading meetings folders, etc.) Update and maintain various contact lists Ambassador for Medical Affairs Department Teamwork with Operations Coordinators from other functions on joint meetings and projects Act as a backup for other Operations coordinators Project coordinator for assigned projects and assist with other projects Coordinator for the Project management core team, resources, equipment, and information Implement and maintain appropriate project management processes where needed Communication and planning management Contract Management: create vendors profile, contracts online requests, generate purchase orders, DocuSign, invoicing, maintain the project tracker up to date, follow-up with Legal & Finance department Be the point contact for Medical Affairs with legal for new policies or procedures applicable to Medical Affairs Work with the different stakeholders to help implement improvements/enhancements to compliance controls applicable to Medical Affairs Ensure up to date knowledge on compliance requirements and developments relevant to medical affairs through trainings with legal on topics of relevance and communicate within the medical affairs organization Requirements: BA or equal by experience 5+ years’ experience working for a multi-national company in a similar position or equivalent Well organized, willingness to solve problems and honor deadlines, reliable, perfect communication skills and discretion & ability to handle sensitive information are a must Excellent proficiency with Office software systems (Excel, Word, PowerPoint) and Outlook Fluent in English and French. German, Spanish, and/or Italian would be a plus Hybrid - open to go frecuently to Morges offices IQVIA is a leading global provider of clinical research services, commercial insights and healthcare intelligence to the life sciences and healthcare industries. We create intelligent connections to accelerate the development and commercialization of innovative medical treatments to help improve patient outcomes and population health worldwide. Learn more at https://jobs.iqvia.com IQVIA is committed to integrity in our hiring process and maintains a zero tolerance policy for candidate fraud. All information and credentials submitted in your application must be truthful and complete. Any false statements, misrepresentations, or material omissions during the recruitment process will result in immediate disqualification of your application, or termination of employment if discovered later, in accordance with applicable law. We appreciate your honesty and professionalism.",
+    "external_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Basel-Switzerland/Medical-Affairs-Project-Coordinator---Sponsor-Dedicated_R1543864",
+    "status": "matched",
+    "title": "Medical Affairs Project Coordinator - Sponsor Dedicated",
+    "company": "IQVIA",
+    "location": "Basel, Switzerland",
+    "posted_date": "2026-05-11",
+    "department": "",
+    "score": 2,
+    "matched_keywords": [
+      "French",
+      "medical affairs"
+    ],
+    "deducted_keywords": []
   }
 }
