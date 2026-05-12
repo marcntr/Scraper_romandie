@@ -9,7 +9,7 @@
     "keywords": "scientist"
   },
   "_generic:Charles River Laboratories": {
-    "keywords": "regulatory"
+    "keywords": "regulatory,scientist"
   },
   "_generic:MoonLake Immunotherapeutics": {
     "keywords": "clinical development,medical affairs"
@@ -402,7 +402,7 @@
     "title": "Scientist Microbiological Quality Control",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-04-11",
+    "posted_date": "2026-04-12",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -421,7 +421,7 @@
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-05-04"
+    "cached_at": "2026-05-12"
   },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000103064566": {
     "description": "Your responsibilities Join us in a place that can be hotter than the centre of the sun, and colder than the vacuum of space, at the very same time. This is the smartest way to learn more than you can imagine and see your work travel at the speed of light. Almost. This is the fastest way to give your career momentum. This is your Origin. Where your career begins. Take part! All our currently available projects are published individually on our career site here . If none of these opened projects match your profile and if you meet all eligibility criteria below, you can apply here spontaneously. Your profile may then be considered for unpublished projects or extra needs. Please note this is not mandatory nor a guarantee that you will be contacted by hiring managers for an interview. Eligibility criteria: You are a national of a CERN Member or Associate Member State . You have a maximum of two years of professional experience since graduation by the application deadline . Your highest educational qualification is a general secondary education diploma . You have never had a CERN fellow or graduate contract before. Applicants with a Bachelor’s, Master’s or PhD degree are not eligible.",
@@ -460,7 +460,7 @@
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-05-04"
+    "cached_at": "2026-05-12"
   },
   "_facets:alirahealth:AliraHealth": {
     "facets": {},
@@ -642,7 +642,7 @@
     "title": "Post Doctorate Scientist in Intestinal Inflammation - at the Institute of Human Biology (IHB)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-11",
+    "posted_date": "2026-04-12",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -668,7 +668,7 @@
     "title": "Scientist – QC Lab Systems & CSV (GMP)",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-04-11",
+    "posted_date": "2026-04-12",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -683,7 +683,7 @@
     "title": "Senior Scientist – Manufacturing Science & Technology (Biologics USP/DSP)",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-04-11",
+    "posted_date": "2026-04-12",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -746,7 +746,7 @@
     "title": "Manager Quality System & Regulatory Compliance",
     "company": "Abbott",
     "location": "Switzerland - Zurich",
-    "posted_date": "2026-04-11",
+    "posted_date": "2026-04-12",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -829,7 +829,7 @@
     "title": "Computational Biology - Oncology",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-11",
+    "posted_date": "2026-04-12",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -843,11 +843,6 @@
     ],
     "deducted_keywords": []
   },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000120315358": {
-    "description": "You will engage in the preparation and installation of beam line mechanical supports in beam line facilities (i.e Targets cavern). This includes participating in the fabrication follow-up, assembling tasks, logistics and installation. Your responsibilities Conduct the dismantling/assembling activities of the beam line equipment. Actively participate in all stages of the mechanical equipment readiness, from production to installation. Collaborate closely with engineers, coordination teams and other technicians. Communicate and report the advancement of the work to the supervisor and project managers. More information here: https://be-dep-ea.web.cern.ch/index.php/about-ea/experimental-areas-group-ea Your profile - Practical experience in mechanical assembling. - Experience in reading 2D drawings (ISO-GPS). - Knowledge of preparation of mechanical assembly work (orders, BOM, logistics... ) - Familiarity with 3D modeling software and Microsoft Office pack. Skills Design of mechanical equipment and structures. Knowledge and application of manufacturing methods and work preparation. Organization, planning and control of tasks. Installation of mechanical equipment. Knowledge of design codes and compliance verification of mechanical equipment. Spoken and written English or French, with a commitment to learn the basics of the other language. Eligibility criteria: You are a national of a CERN Member or Associate Member State . By the application deadline, you have a maximum of two years of professional experience since graduation in Mechanical Engineering (or a related field) and your highest educational qualification is a general secondary education diploma . You have never had a CERN fellow or graduate contract before. Applicants with a Bachelor's, Master's or PhD degree are not eligible.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000120315358-mechanical-technician-be-ea-dc-2026-102-grae-?oga=true",
-    "status": "matched"
-  },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000120453276": {
     "description": "Are you an expert in Data Acquisition Development and Particle Detectors? This is an opportunity to work in a mission-critical team providing real-time luminosity measurements for the upgrade of the CMS Detector. This system directly impacts the operation of the future High Luminosity LHC and the quality of many physics measurements, performed in CMS. Your responsibilities: Firmware development on FPGA backend boards. Lab testing and validation of backend electronics and frontend detectors. DAQ Software development. In more detail, you will: Finalise, test, and validate the firmware architecture for the tracker luminosity systems, online clustering for Inner Tracker, stub counting for the Outer Tracker, and BRIL Trigger Board for BRIL trigger generation. Develop, test, and finalise, the firmware for the FBCM backend system. Complete the development of the final BRIL replica testing system, which will reproduce the Phase 2 backend system. Develop, coordinate, and test the software interface and control of the BRIL Phase 2 backend system. Your profile: Experience in the field of applied physics, detector testing and DAQ is critical. Direct experience with real-time systems (FPGA, micro-controllers, system-on-chip, etc.) is highly valued. Experience in detector laboratories, electronics, prototyping and test beam is also valued. Skills: Teamwork. C/C++ and/or Python. Some knowledge of VHDL and/or other HDL. Ability to use standard lab tools such as scope/generators/NIM modules/detectors, etc. Understanding of electronics. Spoken and written English, with a commitment to learn French. Eligibility criteria: You are a national of a CERN Member or Associate Member State . You have a professional background in Electronics engineering/applied physics (or a related field) and have either: a Master's degree with 2 to 6 years of post-graduation professional experience; or a PhD with no more than 3 years of post-graduation professional experience. You have never had a CERN fellow or graduate contract before.",
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000120453276-daq-and-detector-developer-ep-cms-id-2026-71-grap-?oga=true",
@@ -860,7 +855,7 @@
     "title": "Global Medical Affairs Lead Genomic Profiling",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-13",
+    "posted_date": "2026-04-14",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -878,7 +873,7 @@
     "title": "Sr. Scientist - Computational Biology - Neuroscience & Rare Diseases",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-15",
+    "posted_date": "2026-04-16",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -901,7 +896,7 @@
     "title": "Post Doctorate Scientist – Vascularized Kidney Organoids - at the Institute of Human Biology (IHB)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-14",
+    "posted_date": "2026-04-15",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -930,7 +925,7 @@
     "title": "Associate Director, EUCAN Regulatory Lead - Oncology",
     "company": "Takeda",
     "location": "Zurich, Switzerland",
-    "posted_date": "2026-04-11",
+    "posted_date": "2026-04-12",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -946,7 +941,7 @@
     "title": "Senior Scientist microbiological Quality Control",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-04-20",
+    "posted_date": "2026-04-21",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -966,7 +961,7 @@
     "title": "​Sr Manager / Associate Director Regulatory Affairs - Swiss Affiliate",
     "company": "Gilead Sciences",
     "location": "Switzerland - Zug",
-    "posted_date": "2026-04-20",
+    "posted_date": "2026-04-21",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -982,7 +977,7 @@
     "title": "Senior Scientist, Material Qualification and Release (QC GMP)",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-04-20",
+    "posted_date": "2026-04-21",
     "department": "",
     "score": -1,
     "matched_keywords": [
@@ -1049,7 +1044,7 @@
     "title": "Analytical Molecular Characterization Team Lead and Mass Spectrometry Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-22",
+    "posted_date": "2026-04-23",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1110,7 +1105,7 @@
     "title": "Post Doctorate Scientist (IHB) - In Vitro Modeling Adaptive Immunologist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-24",
+    "posted_date": "2026-04-25",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -1133,7 +1128,7 @@
     "title": "Post Doctoral Scientist (IHB) - Computational Immunology",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-04-24",
+    "posted_date": "2026-04-25",
     "department": "",
     "score": 12,
     "matched_keywords": [
@@ -1384,7 +1379,7 @@
     "title": "Scientist, Tech Ops x2",
     "company": "CSL Behring / Vifor",
     "location": "EMEA, CH, Kanton Bern, Bern, CSL Behring",
-    "posted_date": "2026-05-07",
+    "posted_date": "2026-05-08",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1404,7 +1399,7 @@
     "title": "Scientist, Tech Ops",
     "company": "CSL Behring / Vifor",
     "location": "EMEA, CH, Kanton Bern, Bern, CSL Behring",
-    "posted_date": "2026-05-04",
+    "posted_date": "2026-05-05",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1424,7 +1419,7 @@
     "title": "Modelling and Simulations Scientist ( 2 year contract)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-05-05",
+    "posted_date": "2026-05-06",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -1503,7 +1498,7 @@
     "title": "Medical Science Liaison Renal and Metabolism - East",
     "company": "AstraZeneca",
     "location": "Switzerland - Baar",
-    "posted_date": "2026-05-06",
+    "posted_date": "2026-05-07",
     "department": "",
     "score": -1,
     "matched_keywords": [
@@ -1523,7 +1518,7 @@
     "title": "Medical Affairs Coordinator",
     "company": "ICON plc",
     "location": "Switzerland, Basel",
-    "posted_date": "2026-05-06",
+    "posted_date": "2026-05-07",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1578,7 +1573,7 @@
     "title": "Medical Affairs Director Switzerland",
     "company": "Eli Lilly",
     "location": "Switzerland, Vernier",
-    "posted_date": "2026-05-07",
+    "posted_date": "2026-05-08",
     "department": "",
     "score": -2,
     "matched_keywords": [
@@ -1597,7 +1592,7 @@
     "title": "Post Doctoral Scientist (m/w/d)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-05-07",
+    "posted_date": "2026-05-08",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1643,7 +1638,7 @@
     "title": "Senior Scientist, Tech Ops",
     "company": "CSL Behring / Vifor",
     "location": "EMEA, CH, Kanton Bern, Bern, CSL Behring",
-    "posted_date": "2026-05-07",
+    "posted_date": "2026-05-08",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1700,7 +1695,7 @@
     "title": "Discovery Scientists, in vitro and in vivo Pharmacology, in Cardiovascular & Metabolic Disease Research",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-05-08",
+    "posted_date": "2026-05-09",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -1727,21 +1722,6 @@
       "location:Switzerland"
     ]
   },
-  "/job/Basel-City/Global-Regulatory-Affairs-Director--Neuroscience-_REQ-10076200": {
-    "description": "Job Description Summary #LI-Hybrid (12 days per month on-site if living within 50 miles of our London office) #LI-Remote (Homebased if living further than 50 miles of our London office) Internal job title: Global Program Regulatory Director (Neuroscience) Office Location: Basel, Switzerland We are seeking an accomplished Global Program Regulatory Director (GPRD) to lead regulatory strategy for high profile, innovative Neuroscience development programmes across the full product lifecycle. In this pivotal global role, you will define and drive regulatory strategy aligned with the Target Product Profile and broader portfolio, commercial, access, and exclusivity objectives. Acting as the regulatory leader on Global Program Teams, you will integrate inputs from Health Authorities, regional teams, and cross functional partners to identify opportunities, mitigate risk, and enable successful approvals and lifecycle optimisation. Job Description Major Accountabilities Develop, document, and communicate robust global regulatory strategies for complex Neuroscience programmes, from early development through registration and lifecycle management. Lead and manage Health Authority interactions, negotiations, and strategic engagements across major and emerging markets. Identify regulatory opportunities and risks early, developing clear mitigation and contingency plans across regions. Provide strategic regulatory input to development plans, labelling strategy, global promotional material, and key program decisions. Lead execution of the global regulatory strategy, including submission planning, oversight of dossier content, critical review of submissions, and Health Authority responses. Ensure full compliance with global regulatory requirements and adherence to internal regulatory policies and processes. Support accelerated and complex submissions (e.g. MAA, BLA, NDA, new indications, variations, line extensions). Provide matrix leadership to global regulatory sub‑teams, fostering alignment, accountability, and high performance. Coach and mentor regulatory colleagues, supporting capability building and career development. Represent Regulatory Affairs on Global Program Teams, cross‑functional initiatives, and selected task forces. Essential Requirements Degree in a science‑based discipline (BSc or MSc). Demonstrated experience in global regulatory affairs and pharmaceutical development, spanning early‑ to late‑stage programmes. Proven capability in leading complex global regulatory strategies, ideally within Neuroscience and innovative or rare disease areas. Strong experience with major global submissions, including registration, accelerated pathways, and significant lifecycle variations. Deep understanding of Health Authority engagement, regulatory guidance interpretation, and strategic negotiations. Track record of operating as a core member of Global Program Teams, influencing development, approval, and lifecycle strategy. Excellent communication, influencing, and problem‑solving skills. Commitment to Diversity and Inclusion / EEO paragraph Novartis is committed to building an outstanding, inclusive work environment and diverse teams representative of the patients and communities we serve. Accessibility and Accommodation Novartis is committed to working with and providing reasonable accommodation to all individuals. If, because of a medical condition or disability, you need a reasonable accommodation for any part of the recruitment process, or in order to receive more detailed information about the essential functions of a position, please send an e-mail to inclusion.switzerland@novartis.com and let us know the nature of your request and your contact information. Please include the job requisition number in your message. Skills Desired",
-    "external_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Basel-City/Global-Regulatory-Affairs-Director--Neuroscience-_REQ-10076200",
-    "status": "ignored",
-    "title": "Global Regulatory Affairs Director (Neuroscience)",
-    "company": "Novartis",
-    "location": "Basel (City)",
-    "posted_date": "2026-04-28",
-    "department": "",
-    "score": 1,
-    "matched_keywords": [
-      "MSc"
-    ],
-    "deducted_keywords": []
-  },
   "/job/Basel-City/Senior-Principal-Scientist-Associate-Director--PK-Sciences_REQ-10073941-1": {
     "description": "Job Description Summary We are seeking an enthusiastic and motivated PK Sciences project team representative to develop and implement translational or clinical pharmacology strategies to support the pursuit of transformative new medicines through late clinical development. Our unique organizational structure enables colleagues to work seamlessly in the translational and/or clinical space, offering opportunities for development and bench-to-bedside-to-bench translation. Experience in late discovery and/or clinical area is preferred. The scope of the role potentially includes small molecules, biologics/therapeutic proteins, antibody drug-conjugates, radioligand therapies and/or cell therapies across major therapeutic areas in Novartis, including oncology, immunology, cardiovascular renal metabolism, neuroscience, and global health. This position drives close interdisciplinary collaboration among the PK Science disciplines, Drug Disposition (ADME, BA), Modeling & Simulation (M&S), and Operations through PK science sub-teams to achieve a holistic and integrative perspective of the ADME/clinical pharmacology properties of candidates and drugs Job Description #LI_Hybrid Location: Basel, Switzerland Key Responsibilities: •    Independently represent the PK Sciences function in cross-functional project teams, interactions with stakeholders within the organization and interactions with regulatory agencies, as appropriate •    Lead a PK Science Subteam with interdisciplinary representation of the major functions from within PK Science and beyond •    Ensures implementation of project strategies and monitors timelines, objectives, and budgets for assigned projects •    Present projects at various institutional review and approval boards •    Proactively contributes to developing drug candidates across Research Development and Commercial continuum, providing expert pharmacokinetic / drug metabolism and clinical pharmacology input •    Develop and execute clinical pharmacology strategies, including input into nonclinical and clinical study design, and analyzing PK and PK/PD data, to support compound development from discovery through late development •    Provide PK, dosage, PK/PD and M&S component of study protocols, reports, project summaries and development plans, and author pharmacokinetic/clinical pharmacology/biopharmaceutics sections/radiation dosimetry of IND/IMPDs and NDA/BLAs as well as prepare appropriate responses to global Health Authority questions •    Use of Artificial intelligence (AI) / Machine Learning (ML) approaches to enable model guided molecular design, preclinical and clinical data automation, authoring regulatory documents, and the use of predictive models •    Is a mentor to or manages junior associates in the organization This role reports to Therapeutic Area Head in PK Sciences within Translational Medicine (TM) in Biomedical Research. PKS is a global organization situated within Translational Medicine (TM), the clinical research arm of Biomedical Research within Novartis. PK Sciences plays a pivotal role in bringing innovative medicines to patients, by building on research advances to develop new therapies, bridging drug discovery and clinical application. PK Science is an enterprise-wide organization, working across both Biomedical Research and the Development organizations to advance the scientific knowledge of pharmacokinetics, metabolism and clinical pharmacology. Essential Requirements: •    Ph.D. / Pharm.D. with relevant experience •    Preferred candidates will have a minimum of 5+ yrs at the Senior Principal Scientist Level and 8+ years at the Associate Director level) in clinical pharmacology, drug metabolism and pharmacokinetics or a related background in an industry setting. •    Extensive and in-depth knowledge of pharmacokinetics including, drug metabolism and PK/PD evaluation, experience in working in project teams (preferably global) as well as sound awareness of recent developments in drug development and regulatory sciences. •    Demonstrated success in working in a cross-functional, matrixed, project-team environment. •    An influential Team player and talented negotiator with strong oral and written communication skills. •    Proven record of mentorship and/or people management Desirable Requirements: •    Hands-on project experience with Artificial intelligence (AI) / Machine Learning (ML) approaches is a plus Leadership / Novartis Behaviors in Action •    Delivers results through disciplined execution, continuous improvement, and a strong focus on value and outcomes. •    Demonstrates an enterprise mindset and strong ownership by prioritizing resources and decisions for maximum Novartis and patient impact. •    Role models Novartis leadership behaviors through visible actions, continuous self reflection, and openness to feedback •    Builds trust through transparent communication, clear accountability, and consistent delivery against commitments. •    Empowers others to innovate and improve while maintaining high scientific, ethical, and operational standards. AI fluency: •    Brings strong AI and digital fluency, using enterprise tools to enhance insight generation, decision making, and team productivity. •    Accountable for the ethical, transparent, and compliant use of AI in line with Novartis AI governance and data protection standards. External eminence: •    Acts as an external thought leader, advancing Novartis’ reputation in translational science and innovation. Operational excellence: •    Drives operational excellence through disciplined execution, continuous improvement, and effective use of resources to maximize PKS and enterprise value. •    Acts as a responsible steward of people, data, and digital capabilities, leveraging AI and automation to improve efficiency, quality, and decision speed. *This is a dual level posting. The final level & title of the offer role would be determined by the hiring team based on the skills, experience & capabilities required to perform the role at the level the role has been offered. Skills Desired Chemistry, Clinical Pharmacology, Clinical Research, Clinical Study Reports, Clinical Trials, Data Entry, Drug Discovery, Due Diligence, Electronic Components, Gene Therapy, Lifesciences, Medical Research, Microsoft Office, Modeling And Simulation, Patient Care, Physics, Translational Medicine, Waterfall Model",
     "external_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Basel-City/Senior-Principal-Scientist-Associate-Director--PK-Sciences_REQ-10073941-1",
@@ -1764,7 +1744,7 @@
     "title": "Translational Medicine Academy fellow in Biomarker Development (BMD) Molecular, Cellular & Soluble Sciences (MCS)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-05-05",
+    "posted_date": "2026-05-06",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -1783,7 +1763,7 @@
     "title": "Translational Medicine Academy fellow in Clinical Science & Innovation (CS&I)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-05-04",
+    "posted_date": "2026-05-05",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -1808,7 +1788,7 @@
     "title": "Translational Medicine Academy fellow in Preclinical Safety - Data Science",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-05-04",
+    "posted_date": "2026-05-05",
     "department": "",
     "score": 8,
     "matched_keywords": [
@@ -1830,7 +1810,7 @@
     "title": "Translational Medicine Academy fellow in Biomarker Development (BMD) Laboratory Excellence & Operations (LEO)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-05-04",
+    "posted_date": "2026-05-05",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -1850,7 +1830,7 @@
     "title": "Translational Medicine Academy fellow for Pharmacokinetics Sciences Modeling & Simulaton",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-05-04",
+    "posted_date": "2026-05-05",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -1874,7 +1854,7 @@
     "title": "Medical Director, Gastroenterology, Early Clinical Development",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-05-07",
+    "posted_date": "2026-05-08",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -1894,7 +1874,7 @@
     "title": "Research Scientist, DNA-encoded chemical libraries (DEL) (80-100%*)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-05-08",
+    "posted_date": "2026-05-09",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -1926,7 +1906,7 @@
     "title": "Scientist, Pharmaceutical Development & Data Analytics _2 years temporary contract",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-05-11",
+    "posted_date": "2026-05-12",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1941,7 +1921,7 @@
     "title": "Medical Affairs Project Coordinator - Sponsor Dedicated",
     "company": "IQVIA",
     "location": "Basel, Switzerland",
-    "posted_date": "2026-05-11",
+    "posted_date": "2026-05-12",
     "department": "",
     "score": 2,
     "matched_keywords": [
