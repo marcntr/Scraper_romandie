@@ -1039,20 +1039,6 @@
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000122612104-survey-engineer-be-gm-asg-2026-80-grap-?oga=true",
     "status": "matched"
   },
-  "https://www.michaelpage.ch/de/job-detail/product-business-development-manager/ref/jn-032026-6970319?lang=en": {
-    "external_url": "https://www.michaelpage.ch/de/job-detail/product-business-development-manager/ref/jn-032026-6970319?lang=en",
-    "status": "ignored",
-    "title": "Product & Business Development Manager",
-    "company": "Michael Page Switzerland",
-    "location": "Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": -2,
-    "matched_keywords": [],
-    "deducted_keywords": [
-      "location:Switzerland"
-    ]
-  },
   "/job/Basel/Post-Doctorate-Scientist--IHB----In-Vitro-Modeling-Adaptive-Immunologist_202604-109694": {
     "description": "At Roche you can show up as yourself, embraced for the unique qualities you bring. Our culture encourages personal expression, open dialogue, and genuine connections,  where you are valued, accepted and respected for who you are, allowing you to thrive both personally and professionally. This is how we aim to prevent, stop and cure diseases and ensure everyone has access to healthcare today and for generations to come. Join Roche, where every voice matters. The Position The Roche Institute of Human Biology (IHB) in Basel, Switzerland, is seeking a Postdoctoral Scientist focused on in vitro modeling of human adaptive immunity. The role aims to define adaptive immune cell states in human CNS disease and translate these insights into improved experimental models and future therapeutic strategies. You will work closely with a computational postdoctoral scientist and collaborate with drug developers across pRED, forming an integrated experimental–computational and translational team. Together, you will combine human multi-omic data with targeted experimental systems to define and validate T- and B-cell states in neuroinflammation, with a central focus on developing in vitro models of meningeal inflammation relevant to diseases such as multiple sclerosis (MS) and Alzheimer’s disease (AD). This position is particularly well suited for a scientist with strong expertise in human adaptive immunology who is excited to build experimental systems that directly interface with high-dimensional datasets. The Opportunity As a Postdoctoral Scientist, you will pursue your research within the IHB’s highly collaborative open-lab environment. You will lead experimental efforts to generate, validate, and functionally interrogate immune cell states to model human CNS and meningeal tissues, while working iteratively with computational colleagues. In this role, you will have the opportunity to: Experimental Immunology & Model Systems: Design and execute experimental strategies to investigate adaptive immune responses in human neuroinflammation, with a focus on T-, B-, and stromal-cell biology within tissue-relevant contexts. Develop and implement in vitro model systems that recapitulate key features of CNS meningeal inflammation, including immune–stromal interactions and TLS-like organization, and model disease-relevant immune responses in contexts such as multiple sclerosis (MS) and Alzheimer’s disease (AD). Perform deep immune phenotyping and generate multi-omic datasets (e.g., flow cytometry, single-cell RNA-seq, V(D)J profiling) to characterize immune–stromal interactions, define adaptive immune cell states, and functionally validate and refine in vitro models aligned with human atlases and translational goals. Scientific Growth & Translation: Partner closely with computational scientists to translate atlas-derived cell states into experimentally testable hypotheses and iteratively refine in vitro models based on human data. Engage with teams across IHB and pRED—including direct exposure to drug developers—to align experimental findings with translational questions in Neuroscience and Rare Diseases and contribute to long-term portfolio impact. Communicate findings through scientific manuscripts, presentations, and cross-functional discussions, clearly articulating experimental insights and their relevance to human biology and therapeutic strategy. Who You Are You are a hands-on experimental scientist with a strong foundation in immunology and a deep interest in human disease biology. You enjoy working collaboratively with computational scientists and are motivated by the opportunity to generate data that directly informs systems-level understanding. You are excited not only by profiling human immune responses, but also by building experimental systems that capture key features of tissue-specific immunity, including meningeal inflammation and ectopic lymphoid structure-like biology. Furthermore, You bring: A Ph.D. in Immunology, Neuroimmunology/Neuroinflammation, Bioengineering, or a related field. To qualify for this early-career position, you must have completed your doctoral studies within the last four years. A strong track record of productivity, demonstrated through publications Deep expertise in adaptive immune biology, particularly T- and/or B-cell biology Strong hands-on experience with flow cytometry and cell sorting Experience working with primary human cells and/or human tissue samples Experience establishing or working with in vitro model systems (e.g., co-culture systems, functional assays) Experience generating multi-omic datasets experimentally (e.g., single-cell RNA-seq, immune repertoire profiling) Interest in engaging with and contributing to downstream data analysis in collaboration with computational partners A strong interest in human immunology and neuroinflammation The ability to work effectively in a collaborative, interdisciplinary environment Strong communication skills, with professional fluency in English Additional Information Preferred qualifications include: Research experience in neuroinflammation, including diseases such as multiple sclerosis (MS) or Alzheimer’s disease (AD) Familiarity with CNS and/or meningeal biology Experience with stromal cell biology and/or tissue niche interactions Experience studying or modeling tertiary lymphoid structures (TLS) or lymphoid tissue organization Experience developing advanced in vitro systems (e.g., co-culture, organoids, or ex vivo tissue models) Experience with advanced immune profiling approaches (e.g., spectral flow cytometry) Exposure to spatial biology workflows or sample preparation Experience working in close collaboration with computational biology teams; basic coding skills (e.g., R or Python) are a plus Interest in translating human biology insights into therapeutic strategies Application Process Current CV: Please provide a comprehensive CV, including a full list of your peer-reviewed publications. Research Statement/Cover Letter: A summary of past work and foreseen fit for this role (max. 2 pages) Professional References: Include contact details for two references who can speak to your scientific expertise and professional character. Ph.D. Documentation: Provide an official diploma or certificate confirming your degree (if already obtained). Timeline: The initial duration is 2 years , with potential for extension. Who we are A healthier future drives us to innovate. Together, more than 100’000 employees across the globe are dedicated to advance science, ensuring everyone has access to healthcare today and for generations to come. Our efforts result in more than 26 million people treated with our medicines and over 30 billion tests conducted using our Diagnostics products. We empower each other to explore new possibilities, foster creativity, and keep our ambitions high, so we can deliver life-changing healthcare solutions that make a global impact. Let’s build a healthier future, together. Roche is an Equal Opportunity Employer.",
     "external_url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Post-Doctorate-Scientist--IHB----In-Vitro-Modeling-Adaptive-Immunologist_202604-109694",
@@ -1250,42 +1236,6 @@
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000123928644-laboratory-technician-hse-env-pm-2026-54-ld-?oga=true",
     "status": "matched"
   },
-  "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-clinical-medical-scientist-basel-stadt-871198/1": {
-    "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-clinical-medical-scientist-basel-stadt-871198/1",
-    "status": "ignored",
-    "title": "Clinical/Medical Scientist(m/f/d)",
-    "company": "Hays Switzerland",
-    "location": "Basel Stadt, Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": 0,
-    "matched_keywords": [],
-    "deducted_keywords": []
-  },
-  "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-clinical-scientist-basel-stadt-865510/1": {
-    "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-clinical-scientist-basel-stadt-865510/1",
-    "status": "ignored",
-    "title": "Clinical Scientist(m/f/d)",
-    "company": "Hays Switzerland",
-    "location": "Basel Stadt, Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": 0,
-    "matched_keywords": [],
-    "deducted_keywords": []
-  },
-  "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-qc-scientist-microbiology-lengnau-berne-864632/1": {
-    "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-qc-scientist-microbiology-lengnau-berne-864632/1",
-    "status": "ignored",
-    "title": "QC Scientist Microbiology(m/f/d)",
-    "company": "Hays Switzerland",
-    "location": "Lengnau, Berne, Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": 0,
-    "matched_keywords": [],
-    "deducted_keywords": []
-  },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000124077409": {
     "description": "In this role, you will contribute to the development of next-generation readout and control systems for the LHCb experiment, focusing on FPGA gateware and low-level embedded software in both bare-metal and Linux environments. You will participate in the design, implementation and testing of scalable and high-performance solutions that interface with detector electronics and data acquisition systems. Through this work, you will help evolve CERN's distributed control infrastructure to ensure reliable, efficient and safe operation of upgraded detector systems. Your responsibilities: Collaborate with hardware, firmware (FPGA), embedded software and control system engineers to define system requirements and interface specifications. Analyse current and future detector control workloads to define realistic performance benchmarks. Define and implement solutions that distribute control functions across FPGA logic and embedded processors to optimise performance, reliability and maintainability. Test, validate and refine prototypes in laboratory environments. Prepare clear technical documentation and guidelines to support developers and researchers integrating the solutions into their experiments. Your profile: Knowledge in developing, simulating and validating FPGA gateware. Experience in writing, profiling and optimising C code. Knowledge in hardware/software specification and co-design. Skills: VHDL 2008 (VUnit and UVVM experience is a plus). C for embedded applications and Linux device drivers (Rust is a plus). Intel Quartus or AMD Vivado toolchains (both is a plus). RISC-V instruction set architecture (experience with FPGA softcores like PicoRV32, Nios® V, Microblaze™ V is a plus). Low-level communication interfaces (I2C, JTAG, DDR, ...) (experience with lpGBT is a plus). Linux distributions for System-on-Chip FPGAs (Yocto, Petalinux, ...). Spoken and written English, with a commitment to learn French. Eligibility criteria: You are a national of a CERN Member or Associate Member State . By the application deadline, you have a maximum of two years of professional experience since graduation in Electronics Engineer (or a related field) and your highest educational qualification is either a Bachelor's or Master's degree . You have never had a CERN fellow or graduate contract before. Applicants without University degree are not eligible. Applicants with a PhD are not eligible.",
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000124077409-embedded-systems-engineer-ep-lcb-2026-89-grae-?oga=true",
@@ -1427,20 +1377,6 @@
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000124827389-java-software-engineer-be-css-dsp-2026-134-grae-?oga=true",
     "status": "matched"
   },
-  "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-scientist-lab-technician-assay-development-zug-873185/1": {
-    "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-scientist-lab-technician-assay-development-zug-873185/1",
-    "status": "ignored",
-    "title": "Scientist Lab Technician Assay Development(m/f/d)",
-    "company": "Hays Switzerland",
-    "location": "Zug, Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": 1,
-    "matched_keywords": [
-      "assay development"
-    ],
-    "deducted_keywords": []
-  },
   "/job/Switzerland-Basel/Medical-Affairs-Coordinator_JR150621": {
     "description": "Medical Affairs Coordinator ICON plc is a world-leading healthcare intelligence and clinical research organization. We’re proud to foster an inclusive environment driving innovation and excellence, and we welcome you to join us on our mission to shape the future of clinical development As a Medical Affairs Coordinator at ICON, you will provide essential administrative support to our medical affairs department, facilitating the smooth execution of medical activities and initiatives. What You Will Do: You will contribute to medical affairs activities, taking responsibility for your deliverables and working collaboratively. Key responsibilities include: Assist in the coordination of medical affairs activities, including meetings, conferences, and educational events. Maintain accurate and up-to-date documentation, records, and databases related to medical affairs projects and initiatives. Support the preparation and dissemination of scientific materials, presentations, and publications. Coordinate communication between internal teams, external partners, and key stakeholders, ensuring timely and effective information exchange. Assist in the development and implementation of medical affairs processes and procedures to optimize efficiency and compliance.Your profile Bachelor's degree in a relevant field, such as life sciences, healthcare administration, or business administration. Previous experience in a similar administrative or coordinator role, preferably within the pharmaceutical, biotechnology, or healthcare industry. Your Profile: You will bring relevant medical affairs experience, along with the following qualifications and skills. Required qualifications and experience: A bachelor's degree in a scientific or medical discipline Previous experience in a similar administrative or coordinator role, preferably within the pharmaceutical, biotechnology, or healthcare industry Strong organizational and multitasking skills, with the ability to prioritize tasks and manage competing deadlines effectively Excellent communication and interpersonal skills, with a customer-oriented approach to handling inquiries and requests Proficiency in Microsoft Office suite (Word, Excel, PowerPoint) and experience with document management systems or databases is desirable Willingness to travel as required (approximately 9%) Most be fluent in English and French and / or German What ICON can offer you: Our success depends on the quality of our people. That’s why we’ve made it a priority to build a diverse culture that rewards high performance and nurtures talent. In addition to your competitive salary, ICON offers a range of additional benefits. Our benefits are designed to be competitive within each country and are focused on well-being and work life balance opportunities for you and your family. Our benefits examples include: Various annual leave entitlements A range of health insurance offerings to suit you and your family’s needs. Competitive retirement planning offerings to maximize savings and plan with confidence for the years ahead. Global Employee Assistance Programme, TELUS Health, offering 24-hour access to a global network of over 80,000 independent specialised professionals who are there to support you and your family’s well-being. Life assurance Flexible country-specific optional benefits, including childcare vouchers, bike purchase schemes, discounted gym memberships, subsidised travel passes, health assessments, among others. Visit our careers site to read more about the benefits ICON offers. At ICON, inclusion & belonging are fundamental to our culture and values.   We’re dedicated to providing an inclusive and accessible environment for all candidates. ICON is committed to providing a workplace free of discrimination and harassment. All qualified applicants will receive equal consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability or protected veteran status. If, because of a medical condition or disability, you need a reasonable accommodation for any part of the application process, or in order to perform the essential functions of a position, please let us know or submit a request here . Interested in the role, but unsure if you meet all of the requirements? We would encourage you to apply regardless – there’s every chance you’re exactly what we’re looking for here at ICON whether it is for this or other roles. Are you a current ICON Employee? Please click here to apply",
     "external_url": "https://icon.wd3.myworkdayjobs.com/broadbean_external/job/Switzerland-Basel/Medical-Affairs-Coordinator_JR150621",
@@ -1455,18 +1391,6 @@
       "French",
       "medical affairs"
     ],
-    "deducted_keywords": []
-  },
-  "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-vice-president-of-business-development-basel-land-873413/1": {
-    "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-vice-president-of-business-development-basel-land-873413/1",
-    "status": "ignored",
-    "title": "Vice President of Business Development(m/f/d)",
-    "company": "Hays Switzerland",
-    "location": "Basel Land, Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": 0,
-    "matched_keywords": [],
     "deducted_keywords": []
   },
   "https://jobs.boehringer-ingelheim.com/job/Basel-Head-of-Medical-Affairs-IOMH-%28mfd%29-Swit/1391030633/": {
@@ -1586,18 +1510,6 @@
     "description": "Introduction: As a mechanical technician, you will contribute to upgrade projects of the CMS detector, covering a broad range of responsibilities. These include workshop-based mechanical work, installation of detector systems, and the design and use of tooling for the removal and installation of CMS sub-detectors, as well as radioprotection duties in experimental areas and associated laboratories. You will also take on coordination and operational responsibilities within the CMS Technical Coordination team, working closely with sub-detector groups and CMS technical support teams. Functions: Take responsibility for activities related to safety and radioprotection for subdetector removal and installation, working with CMS safety officers and subdetector teams, operating in radioprotection-classified areas, and applying safety rules. Manage a mechanical workshop, advising and assisting CMS subdetector teams, ensuring the availability and proper use of equipment and tools, and supplying consumables. Provide technical support and hands-on assistance to CMS subdetector project teams operating within the CMS laboratories at CERN, in the fields of mechanical manufacturing, assembly, structures, and welding. Take part in the development, testing, on-site installation, and on-detector operation of custom tooling for subdetectors, working with subdetector technical teams. Operate and maintain hydraulic, mechanical, and electromechanical systems. Organise and supervise the storage of subdetector equipment in CMS-reserved spaces at CERN, ensuring proper inventory and space management. Assist the territorial safety officer of the building where the mechanical workshop is located, supervising work requested on infrastructure for general safety, and using a mobile crane and forklift when needed. Serve as the technical contact for mechanical activities with subdetector teams and for space areas under your responsibility, reporting regularly to the Technical Coordination managers.",
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000125271650-mechanical-technician-for-cms-detector-upgrades-ep-cms-ic-2026-97-ld-?oga=true",
     "status": "matched"
-  },
-  "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-analytical-project-leader-scientist-senior-scientist-basel-stadt-873611/1": {
-    "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-analytical-project-leader-scientist-senior-scientist-basel-stadt-873611/1",
-    "status": "ignored",
-    "title": "Analytical Project Leader (Scientist / Senior Scientist)(m/f/d)",
-    "company": "Hays Switzerland",
-    "location": "Basel Stadt, Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": 0,
-    "matched_keywords": [],
-    "deducted_keywords": []
   },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000125349244": {
     "description": "Introduction You will contribute to hazardous materials decontamination activities and civil engineering works across CERN’s buildings and underground infrastructures. In this role, you support the preparation, coordination and follow-up of interventions, working closely with engineers, technicians, consultants and contractors to ensure safe and compliant operations. You are involved in both planning and on-site activities, combining technical coordination with hands-on follow-up. You will join the Civil Engineering section (CE) within the Site Asset Management (SAM) Group. Functions Act as the referent for pollutant-related works within the SCE-SAM group, managing the execution of hazardous materials decontamination activities at CERN. Act as contract manager for hazardous substances decontamination frame contracts, overseeing budget, quality, schedule and safety, and managing financial variations, claims and settlements with contractors. Serve as the referent of the civil engineering section for works in technical galleries and the Proton Synchrotron complex facility. Collect, prioritise and process work requests from users, project stakeholders and managers, and contribute to defining technical proposals based on requirements. Prepare technical specifications and relevant documentation for tenders and quotations. Plan and manage the execution of works, including coordination of various trades, utilisation of service and frame contracts (civil works, painting, roofing, metallic structures, etc.), chairing site and coordination meetings, and monitoring cost, quality, schedule and safety until final acceptance. Ensure compliance with safety and environmental rules and promote a strong safety culture on work sites. Report on and document activities on a regular basis.",
