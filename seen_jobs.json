@@ -125,42 +125,42 @@
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-05-08"
+    "cached_at": "2026-05-16"
   },
   "_facets:gsk:GSKCareers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-05-08"
+    "cached_at": "2026-05-16"
   },
   "_facets:astrazeneca:Careers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-05-08"
+    "cached_at": "2026-05-16"
   },
   "_facets:amgen:Careers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-05-08"
+    "cached_at": "2026-05-16"
   },
   "_facets:gilead:gileadcareers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-05-08"
+    "cached_at": "2026-05-16"
   },
   "_facets:modernatx:M_tx": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-05-08"
+    "cached_at": "2026-05-16"
   },
   "_facets:takeda:External": {
     "facets": {},
@@ -169,28 +169,28 @@
       "Zug",
       "Glattpark"
     ],
-    "cached_at": "2026-05-08"
+    "cached_at": "2026-05-16"
   },
   "_facets:beigene:BeiGene": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-05-08"
+    "cached_at": "2026-05-16"
   },
   "_facets:msd:SearchJobs": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-05-08"
+    "cached_at": "2026-05-16"
   },
   "_facets:vrtx:Vertex_Careers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-05-08"
+    "cached_at": "2026-05-16"
   },
   "_facets:lonza:Lonza_Careers": {
     "facets": {},
@@ -199,7 +199,7 @@
       "Visp",
       "Stein"
     ],
-    "cached_at": "2026-05-08"
+    "cached_at": "2026-05-16"
   },
   "_facets:csl:CSL_External": {
     "facets": {},
@@ -209,7 +209,7 @@
       "St. Gallen",
       "Romont"
     ],
-    "cached_at": "2026-05-08"
+    "cached_at": "2026-05-16"
   },
   "_facets:alcon:careers_alcon": {
     "facets": {},
@@ -218,7 +218,7 @@
       "Hünenberg",
       "Zurich"
     ],
-    "cached_at": "2026-05-08"
+    "cached_at": "2026-05-16"
   },
   "_facets:galderma:External": {
     "facets": {},
@@ -227,63 +227,63 @@
       "La Tour-de-Peilz",
       "Lausanne"
     ],
-    "cached_at": "2026-05-08"
+    "cached_at": "2026-05-16"
   },
   "_facets:iqvia:IQVIA": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-05-08"
+    "cached_at": "2026-05-16"
   },
   "_facets:icon:broadbean_external": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-05-08"
+    "cached_at": "2026-05-16"
   },
   "_facets:parexel:Parexel_External_Careers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-05-08"
+    "cached_at": "2026-05-16"
   },
   "_facets:syneoshealth:Syneos_Health_External_Site": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-05-08"
+    "cached_at": "2026-05-16"
   },
   "_facets:myhrabc:Global": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-05-08"
+    "cached_at": "2026-05-16"
   },
   "_facets:thermofisher:ThermoFisherCareers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-05-08"
+    "cached_at": "2026-05-16"
   },
   "_facets:danaher:DanaherJobs": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-05-08"
+    "cached_at": "2026-05-16"
   },
   "_facets:illumina:illumina-careers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-05-08"
+    "cached_at": "2026-05-16"
   },
   "_facets:qiagen:QIAGEN": {
     "facets": {},
@@ -297,14 +297,14 @@
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-05-08"
+    "cached_at": "2026-05-16"
   },
   "_facets:jsrglobal:KBI_Biopharma": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-05-08"
+    "cached_at": "2026-05-16"
   },
   "_generic:Tigen Pharma": {
     "keywords": "npp"
@@ -375,21 +375,6 @@
   "_generic:Executive Insight": {
     "keywords": "medical affairs"
   },
-  "https://jobs.boehringer-ingelheim.com/job/Basel-Portfolio-Key-Account-Manager-%28Region-East%29%2C-%28mfd%29-Swit/1289694901/": {
-    "description": "The position We are seeking a seasoned professional to lead and advance Key Account Management in Region EAST, ensuring a unified customer experience and broad, rapid patient access. The role centers on developing and executing Key Account strategies across the full portfolio—leveraging crossfunctional insights, securing timely formulary inclusion, cocreating initiatives that enhance care pathways, and building strong relationships with key hospital and procurement stakeholders. Tasks & responsibilities As the primary coordinator, lead the development and execution of assigned Key Account plans, in close collaboration with Asset Teams and FieldForce (Medical and Sales) Analyze and synthesize information from multiple sources to understand potential, pressure and the holistic needs of the accounts; derive meaningful actions based on these insights Prepare and deliver compelling business cases to secure timely formulary inclusion and maximize uptake of BI medicines Identify and co-create initiatives with accounts that optimize care pathways and improve patient outcomes, supporting evidence generation Builds trustful relationships with key accounts through ongoing collaboration centered on improving patient outcomes and delivering joint value for the customer and Boehringer Ingelheim by ensuring patients and HCPs have access to treatment options Requirements At least 8 years in pharmaceutical sales, market access, or key account management Strong knowledge of Swiss healthcare system, hospital procurement, reimbursement processes, in combination with a strong network with accounts in region EAST Very strong negotiations and communication skills, coupled with the ability to develop clear and crisp account plans Matrix leadership and x-functional mindset: coordinate with various internal teams and operate across different Business Units to deliver a unified customer experience Proven track record of successful development and implementation of multi-stakeholder projects in the healthcare setting Proficiency in German and English; French and Italian are considered a plus Boehringer Ingelheim Switzerland: This is a field-based role in Region EAST - a valid driver’s license and willingness to travel extensively within Switzerland is required Nevertheless, a strong collaboration with the office-based colleagues as well as regular presence in the office of Boehringer Ingelheim Switzerland in Basel is expected Your Benefits Flexible working time models: home office and flexible working hours, depending on department and position – many things are possible with us. Since this is a field-base position, office-time either at the offices or at home is possible in agreement with line manager and job expectations. Learning & development: diverse training and development opportunities for your personal and professional growth. Because: you never stop learning. Attractive and competitive salary package with Performance-based bonus Assigned sales territory with minimal overnight travel Mental health support (EAP, coaching) Collaborative environment with strong team support despite field‑based work Regular team meetings, sales events and kick‑off sessions Appreciative culture with recognition programs Opportunity to actively shape customer relationships and regional market presence We are looking forward to receiving your application online! By uploading your application documents via our application portal, we can treat your data confidentially and in compliance with the GDPR. On our career site you will find further information about Boehringer Ingelheim as an employer as well as information about the application process and our different departments. Would you like to know what makes our employees special? What they tell about their motivation and their everyday work? Watch this video and hear for yourself what our colleagues have to share.",
-    "external_url": "https://jobs.boehringer-ingelheim.com/job/Basel-Portfolio-Key-Account-Manager-%28Region-East%29%2C-%28mfd%29-Swit/1289694901/",
-    "status": "ignored",
-    "title": "Portfolio Key Account Manager (Region East), (m/f/d)",
-    "company": "Boehringer Ingelheim",
-    "location": "Basel, Switzerland, Basel-Stadt",
-    "posted_date": "",
-    "department": "",
-    "score": 1,
-    "matched_keywords": [
-      "French"
-    ],
-    "deducted_keywords": []
-  },
   "/job/Lengnau-Switzerland/Scientist-Microbiological-Quality-Control_R-01344554": {
     "description": "Work Schedule Standard (Mon-Fri) Environmental Conditions Adherence to all Good Manufacturing Practices (GMP) Safety Standards Job Description As part of the Thermo Fisher Scientific team, you’ll discover meaningful work that makes a positive impact on a global scale. Join our colleagues in bringing our Mission to life every single day to enable our customers to make the world healthier, cleaner and safer. We provide our global teams with the resources needed to achieve individual career goals while helping to take science a step beyond by developing solutions for some of the world’s toughest challenges, like protecting the environment, making sure our food is safe or helping find cures for cancer. Description: Join our team at Thermo Fisher Scientific as a Lead QC Technician, where you'll help make the world healthier, cleaner and safer. In this important role, you'll ensure quality standards are met through testing and inspection of products in a cGMP environment. You'll coordinate quality control activities, lead a team of QC technicians, and collaborate with cross-functional teams to maintain the highest quality standards. You'll perform analytical testing, document results, and support continuous improvement initiatives while mentoring team members. Responsibilities : Responsible for the organization of daily operations in the Microbiological QC (MBQC) laboratory and to maintain the laboratory operational (incl. maintenance of equipment). Responsible for the creation and revision of guidance documents such as SOPs/Wls and other related documents. System Matter Expert (SME) for Bioburden, Growth Promotion, Micro Identifications and Endotoxin testing method and related quality events. Participates in the transfer, development and verification/validation of microbiological methods including qualification of equipment needed for analysis. Testing of final and intermediate products, in process samples, samples from cleaning validation, utilities and environmental monitoring samples as back up. Supports the GMP Inspection Readiness of QC to ensure the fully compliance of relevant Quality System and Procedural documents. Supports of the QC teams (MBQC and Service and Support) in the ordering of material, logistic of samples and inventory management of the QC labs. Acts as Biosafety officer at the Thermo Fisher Scientific Lengnau site in accordance with the Swiss law (SAMV, ESV). Requirements: Minimum 4 years of experience in quality control within a regulated environment (pharmaceutical/medical device preferred) Preferred Fields of Study: Chemistry, Biology, or related scientific field Demonstrated proficiency with analytical testing equipment and techniques (HPLC, GC, spectrophotometry) Strong understanding of cGMP requirements and quality systems Experience with quality documentation and data review Proven ability to lead and mentor others while maintaining quality standards Excellent attention to detail and organizational skills Strong verbal and written communication abilities Proficiency with standard office software and LIMS systems Ability to work in cleanroom environments and follow gowning procedures Physical ability to stand for extended periods, lift up to 25 lbs occasionally Flexibility to work various shifts as needed Problem-solving skills and ability to troubleshoot technical issues Experience writing and reviewing SOPs and technical documentation",
     "external_url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Lengnau-Switzerland/Scientist-Microbiological-Quality-Control_R-01344554",
@@ -397,7 +382,7 @@
     "title": "Scientist Microbiological Quality Control",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-04-15",
+    "posted_date": "2026-04-16",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -668,7 +653,7 @@
     "title": "Scientist – QC Lab Systems & CSV (GMP)",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-04-15",
+    "posted_date": "2026-04-16",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -683,7 +668,7 @@
     "title": "Senior Scientist – Manufacturing Science & Technology (Biologics USP/DSP)",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-04-15",
+    "posted_date": "2026-04-16",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -796,21 +781,6 @@
   },
   "_generic:Oculis": {
     "keywords": "npp"
-  },
-  "https://jobs.boehringer-ingelheim.com/job/Basel-Portfolio-Key-Account-Manager-%28Region-Mid&West%29%2C-%28mfd%29-Swit/1289694501/": {
-    "description": "The position We are seeking a seasoned professional to lead and elevate Key Account Management across Region MID&WEST (German and French-speaking), ensuring a cohesive customer experience and broad, timely patient access. This role is responsible for shaping and executing Key Account strategies across the full portfolio, providing strong lateral leadership to colleagues engaged within the same accounts. The ideal candidate brings exceptional lateral management skills and the ability to harness cross‑functional insights to drive timely formulary inclusion and co‑create initiatives that strengthen care pathways. Tasks & responsibilities Serve as the “owner” and accountable lead for the assigned accounts, driving the development and execution of assigned Key Account plans Provide effective lateral leadership to all colleagues involved Partner with priority accounts to co-develop high‑impact initiatives that streamline care pathways, elevate patient outcomes, and contribute to robust real‑world evidence. Secure timely formulary inclusion and maximize uptake of BI medicines by analyzing and synthesizing insights from multiple sources to understand each account’s potential, pressures, and holistic needs Build trustful relationships with key accounts through ongoing collaboration centered on improving patient outcomes and delivering joint value for the customer and Boehringer Ingelheim Requirements At least 8 years in pharmaceutical sales, market access, or key account management Strong knowledge of Swiss healthcare system, hospital procurement, reimbursement processes, in combination with a strong network with accounts in region MID&WEST Very strong negotiations and communication skills, coupled with the ability to develop clear and crisp account plans Proven track record of leading diverse teams laterally and a strong cross‑functional mindset: highly skilled in coordinating across internal teams and Business Units to deliver a seamless, unified customer experience. Proven track record of successful development and implementation of multi-stakeholder projects in the healthcare setting Proficiency in French, German and English is a must; Italian is considered a plus Boehringer Ingelheim Switzerland: This is a field-based role in Region MID&WEST - a valid driver’s license and willingness to travel extensively within Switzerland is required Nevertheless, a strong collaboration with the office-based colleagues as well as regular presence in the office of Boehringer Ingelheim Switzerland in Basel is expected Your Benefits Flexible working time models: home office and flexible working hours, depending on department and position – many things are possible with us. Since this is a field-based position, office-time either at the offices or at home is possible in agreement with line manager and job expectations. Learning & development: diverse training and development opportunities for your personal and professional growth. Because: you never stop learning. Attractive and competitive salary package with Performance-based bonus Assigned sales territory with minimal overnight travel Mental health support (EAP, coaching) Collaborative environment with strong team support despite field‑based work Regular team meetings, sales events and kick‑off sessions Appreciative culture with recognition programs We are looking forward to receiving your application online! By uploading your application documents via our application portal, we can treat your data confidentially and in compliance with the GDPR. On our career site you will find further information about Boehringer Ingelheim as an employer as well as information about the application process and our different departments. Would you like to know what makes our employees special? What they tell about their motivation and their everyday work? Watch this video and hear for yourself what our colleagues have to share.",
-    "external_url": "https://jobs.boehringer-ingelheim.com/job/Basel-Portfolio-Key-Account-Manager-%28Region-Mid&West%29%2C-%28mfd%29-Swit/1289694501/",
-    "status": "ignored",
-    "title": "Portfolio Key Account Manager (Region Mid&West), (m/f/d)",
-    "company": "Boehringer Ingelheim",
-    "location": "Basel, Switzerland, Basel-Stadt",
-    "posted_date": "",
-    "department": "",
-    "score": 1,
-    "matched_keywords": [
-      "French"
-    ],
-    "deducted_keywords": []
   },
   "https://api.smartrecruiters.com/v1/companies/AbbVie/postings/3743990012504049": {
     "description": "Job summary: The AbbVie AG Responsible person (FvP) is responsible for providing leadership and oversight of Quality Compliance matters across the commercial entity within the affiliate in support of the quality system requirements associated with pharmaceutical products, medical devices, combination products, biologics and cosmetics. Specific areas include Storage and Distribution, Product Complaints, potential quality events/product shortage execution, Supplier Controls, Product Quality Review, Risk Management, Agency inspections/internal audits, CAPA, and overall Quality Manual requirements. By law, the Responsible person is directly accountable for the technical supervision of operations, guaranteeing the safety, efficacy, and quality of medicines. The FvP ensure proper handling of pharmaceutical products, as well as activities related to importing and wholesaling, all in strict compliance with Swiss law on Medicinal Products, AbbVie company policies, and the principles of Good Distribution Practice (GDP). We’re looking for a curious and driven individual to take on this role of critical importance, with the opportunity for future growth. Your development is not limited to this role but has open paths available both with AbbVie in Switzerland and internationally. Key responsibilities: Act as FvP for the Import and Wholesaling in accordance with the Swiss law on Medicinal Products (Heilmittelgesetz, HMG; Arzneimittel-Bewilligungsverordnung, AMBV) and Swissmedic technical interpretation I-SMI.TI.17 Responsible Person: requirements. The FvP has the authority to issue directives within the sphere of her/his responsibilities. Accountable for the integration and support of quality regulations at the affiliate:  drug, biologics, device and/or combination and cosmetics products driving the design of effective quality systems, procedures and/or processes within cross functional teams to ensure compliance as well as efficiency throughout our quality systems. Accountable for the management and oversight of an affiliate team, as applicable, including hiring, setting performance expectations, providing performance feedback, development of staff and handling of personnel issues.  Ensuring adequate resources and appropriate training to effectively support and meet changing business and compliance needs. Assure key affiliate metrics are being monitored (goals, CAPA, change plans etc.)  Use data and facts to make decisions and to pursue compliance/continuous improvement opportunities. Conduct management reviews as per plan. Partner with stakeholders across the enterprise to gain a better understanding of processes external to QA to determine best steps forward. Host internal, external and MoH audits.  Confidently knowing and understanding the affiliate business, licenses, distribution nodes, quality system applicability to support successful audits. Accountable for supplier qualification program including performance monitoring for key suppliers, QTA management and assessments. Accountable for all activities governed by Good Storage and Distribution Practices at the affiliate, including monitoring of controlled temperature and cold chain shipments. Represent affiliate QA or act as a lead in regional, global and cross functional teams, projects and programs, as appropriate. Ensure that a Quality Management System is available, implemented and maintained for the provision of work instructions, procedures and protocols for GMP and GDP-related processes. Ensure that the medicinal products are supplied and distributed into Switzerland according to the approved specifications and in accordance with the rules of Good Distribution Practice (GDP). Ensure that manufacturers of imported pharmaceutical products into Switzerland hold a valid GMP manufacturing license. Ensure the traceability of purchases and sales of pharmaceutical products and recording the necessary information concerning this. Ensure that the pharmaceutical products released onto the Swiss market meet the specifications in force and are manufactured in accordance with Good Manufacturing Practice (GMP). Release of commercial products for the Swiss market independent from management and commercial functions (primarily based on the release documents of the QP of the manufacturer / batch releasing site). Independently from management, decide whether a batch can be released for distribution to market and command stop of distribution and recall of batches if needed. Management of quality and compliance risks. Approval of all SOPs and other controlled documents in conjunction with the GMP/GDP batch release to the Swiss Market. Authorize the return to saleable stock or destruction of any returned medicines. Contact person for and approval of Technical/Quality Agreements related to the supply, transportation and wholesale of medicinal products marketed by AbbVie AG. Quality oversight /auditing of external service providers (e.g., external warehouse). Perform PQR review for all products marketed in Switzerland. Management of recalls. Oversight of product quality complaints (receipt, classification, forwarding to the manufacturer, tracking, information to customers, reconciliation). Report quality issues to Swissmedic according to requirements and within deadlines. Handle quality issues with the responsible Warehouse/Supplier/Manufacturing Site. Remain up-to-date with Swiss regulatory requirements, authority organization, processes and environment Awareness and implementation of applicable regulations and dissemination to relevant internal and external stakeholders. Act as contact person for all Quality issues for AbbVie AG for Swissmedic, the Cantonal Health Authority, RFS and Third-Party Manufactures. Planning and performing of internal audits. Ensure that Site Quality Compliance Metrics are reported periodically to the Site Management. Ensure that employees involved in distribution activities perform a GDP refresher training at the minimum with a yearly frequency. Participate in a course, seminar, congress or equivalent with focus on GMP/GDP at the minimum once a year to stay up to date with the current regulatory requirements and industry standards. Assess education and experience of the Deputy FvP and assign delegation.",
@@ -925,7 +895,7 @@
     "title": "Associate Director, EUCAN Regulatory Lead - Oncology",
     "company": "Takeda",
     "location": "Zurich, Switzerland",
-    "posted_date": "2026-04-15",
+    "posted_date": "2026-04-16",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -941,7 +911,7 @@
     "title": "Senior Scientist microbiological Quality Control",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-04-20",
+    "posted_date": "2026-04-21",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -956,7 +926,7 @@
     "title": "​Sr Manager / Associate Director Regulatory Affairs - Swiss Affiliate",
     "company": "Gilead Sciences",
     "location": "Switzerland - Zug",
-    "posted_date": "2026-04-20",
+    "posted_date": "2026-04-21",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1090,44 +1060,6 @@
       "translational research"
     ],
     "deducted_keywords": []
-  },
-  "https://careers.tecan.com/job/%28Senior%29-Director-Service-Portfolio-&-Enablement/1380353433/": {
-    "description": "Ever wondered how your skills and unique background could impact the world of tomorrow? Join our Global Service Team and shape your career on the next level. (Senior) Director Service Portfolio & Enablement (80-100%) Männedorf, Switzerland Your contribution As (Senior) Director Service Portfolio & Enablement, you will lead Tecan’s Service Enablement Center of Excellence, empowering our service teams to deliver outstanding, innovative, and commercially successful services. You will drive the design, implementation, and global commercialization of service products—including digital solutions—to differentiate Tecan in the market, maximize customer satisfaction, and contribute to the growth of our Life Sciences and Partnering Businesses. Responsibilities Empower Service Teams: Equip and support our teams to be effective, efficient, and commercially successful. Develop Strategies & Business Models: Create and implement strategies and new business models for field service and support, serving both global partnering and life sciences customers. Drive Service Innovation & Digitalization: Lead the development and global rollout of innovative service products, including digital offerings, aligned with Tecan’s service and digital strategies. Deliver Commercial Impact: Grow service sales, recurring revenues, and overall profitability by implementing effective enablement strategies and robust product management. Take accountability for the Service Portfolio & Enablement P&L, ensuring revenue generation and profitability for LSB and PB. Oversee Product Training: Guide the strategic direction and continuous improvement of global product training programs. Enhance Customer Satisfaction: Make service a key differentiator for Tecan by delivering customer experiences that exceed industry bench marks . Champion Operational Excellence: Standardize and optimize service processes, tools, and best practices for maximum impact. Product Training: Oversee the strategic direction and continuous improvement of global product training programs, and 2nd level support teams. Your background We’re not just looking for hard skills: We’re looking for people who bring their passion and talent to work. We welcome professionals with practical experience who are eager to build their career in Service Enablement. You bring: Bachelor’s degree in Life Sciences, Engineering, Sciences, or Economics; MSc or MBA preferred 3+ years’ experience in Service Management or capital goods, with proven P&L responsibility Experience in Field Service in Life Sciences, CDx or Biopharma Ability to lead staff with confidence, motivation, decisiveness, flexibility and sound business judgment Experience developing and commercializing service products, including digital offerings International management experience, ideally with global scope Fluent English (verbal and written); German or other languages are a plus Willingness to travel approximately 30% or more for business needs W hat makes working at Tecan unique The chance to make it count and to have an impact on the world of tomorrow Working in an international and diverse environment The chance to grow your career within the company Feel empowered by our strong and unique company culture Comprehensive compensation and benefits package Join Tecan, a great place to work! Read about our recent certification from Great Place to Work . We look forward to receiving your application online. Please submit your CV or resume (without picture and without cover letter; reference letters and diplomas are optional). Only applications that fully meet our requirements will be considered. #LifeSciences #ServiceLeadership #CareerOpportunity #JoinOurTeam #ServiceInnovation #DigitalTransformation #FieldService #GlobalCareers #LeadershipJobs #ServiceExcellence #DiversityAndInclusion #WomenInSTEM #STEMCareers #BiotechJobs #EngineeringJobs #TecanCareers #NowHiring #JobSearch #MakeItCount #WorkAtTecan #CareerGrowth #Empowerment #TeamCulture #CustomerSuccess #ServiceManagement",
-    "external_url": "https://careers.tecan.com/job/%28Senior%29-Director-Service-Portfolio-&-Enablement/1380353433/",
-    "status": "ignored",
-    "title": "(Senior) Director Service Portfolio & Enablement",
-    "company": "Tecan",
-    "location": "Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": -1,
-    "matched_keywords": [
-      "MSc"
-    ],
-    "deducted_keywords": [
-      "location:Switzerland"
-    ]
-  },
-  "https://jobdetails.nestle.com/job/Lausanne-R&D-Strategy-Senior-Scientific-Lead/1286286401/": {
-    "description": "Position Snapshot Location: Nestlé Research, Lausanne, Switzerland Company: Société des Produits Nestlé S.A. Act. Rate: Full-Time Act. Rate 100% Type of contract: Permanent Start date: ASAP Deadline for applications: 13 April 2026 What we offer at Nestlé Exciting opportunities to develop your career your way; across different brands, businesses, functions, and regions. Flexible working arrangements - facilitating creativity and collaboration. A culture of respect, with diversity, equity and inclusion at its core. Learn more here . A dynamic international environment empowering you to learn, develop and grow. Don’t hesitate to connect with us during the recruitment process to learn more. Position Summary As a Scientific Engagement Lead , you will shape and execute our Scientific Stakeholder Engagement plans , focusing on strategic topics in the area of nutrition and health. In this highly visible role, you will collaborate closely with R&D leadership, scientific experts as well as Corporate Affairs to identify key engagement opportunities and organize impactful scientific stakeholder events. You will report to the Head of R&D Strategy and Chief of Staff for R&D. A Day in the Life of a Scientific Engagement Lead Oversee the annual planning of strategic scientific engagement opportunities (conferences, symposia, workshops, meetings etc.) in the area of nutrition and health Create presentations, write speeches, position papers etc. on strategic topics Develop content and organize events such as scientific symposia, including the Nestlé International Nutrition Symposium Represent Nestlé as speaker or participant at external international events, both locally and abroad What Will Make You Successful PhD degree with a scientific background Good understanding of scientific trends and key opinion leaders Passionate about science and technology beyond own area of expertise Excellent communication and storytelling skills Strong networking and presentation skills Proven prioritization, organization and project management skills Ability to work under pressure within tight deadlines Dynamic and detail-oriented, with a hands-on, can-do attitude Team player with excellent interpersonal and collaboration skills Proficiency in English (verbal & written); any additional language is a plus Nestlé is committed to the accessibility of its recruitment process. If you require an adaptation during the recruitment process, please do let us know so we can support you effectively. All information will be treated confidentially. At Nestlé, we want to help shape a better and healthier world, inspire people to live healthier lives and deliver impact at a scale and pace that makes a difference. We do this by fostering a diverse, friendly, supportive, and collaborative environment, that creates positive disruption, embraces innovation, and empowers people and teams to win. We aim to hire friendly, respectful, inspiring people who care about the people’s lives that we touch every single day. Be a force for good. Join Nestlé and visit us on www.nestle.com .",
-    "external_url": "https://jobdetails.nestle.com/job/Lausanne-R&D-Strategy-Senior-Scientific-Lead/1286286401/",
-    "status": "ignored",
-    "title": "R&D Strategy - Senior Scientific Lead",
-    "company": "Nestlé",
-    "location": "Lausanne, CH",
-    "posted_date": "",
-    "department": "",
-    "score": 5,
-    "matched_keywords": [
-      "PhD",
-      "location:lausanne"
-    ],
-    "deducted_keywords": []
-  },
-  "https://jobdetails.nestle.com/job/Konolfingen-Data-Science-Specialist/1381829433/": {
-    "description": "At Nestlé Nutrition, our mission is to nurture a Healthier Generation. We aim to achieve this by leading the way in Research and Development of science proven nutrition solutions and by partnering with parents and healthcare professionals around the world. From pre-conception to adulthood, we are widening our reach and opening up new opportunities across the lifelong nutrition journey. Position Snapshot Location: Konolfingen, Switzerland Company: Nestlé Product & Technology Center (NPTC) Nutrition Act. Rate: Full-Time Act. Rate 100% Type of contract: Permanent contract What we offer at Nestlé Exciting opportunities to develop your career your way; across different brands, businesses, functions, and regions. Flexible working arrangements - facilitating creativity and collaboration A culture of respect, with diversity, equity and inclusion at its core. Learn more here . A dynamic international environment empowering you to learn, develop and grow. Don’t hesitate to connect with us during the recruitment process to learn more. Position Summary As a Data Science Specialist , you will lead predictive modeling initiatives and translate complex data into actionable insights to support product innovation within the Nutrition Innovation Unit. You will collaborate with cross-functional teams (Scientists, Sensory Specialist, Product Developers, and others) to ensure robust data connectivity, high analytical standards, and full compliance with company frameworks. A Day in the Life of a Data Science Specialist Lead the application of machine learning techniques (e.g., regression, classification, time-series forecasting) to solve complex business problems across domains such as product development and advanced analytics Own the preparation of complex datasets, including data cleaning, transformation, and structuring, to enable robust modeling and high‑quality analysis. Partner closely with domain experts and cross‑functional stakeholders to design, develop, and deliver impactful data science solutions aligned with business needs. Deploy and operationalize models in production environments, ensuring performance, reliability, and scalability, using platforms such as Azure ML, Databricks, and Snowflake. Monitor model performance and continuously optimize accuracy, robustness, and scalability over time. Translate analytical insights into clear visualizations and structured narratives, effectively communicating recommendations to both technical and non‑technical audiences. What will make you successful Advanced degree (MSc or higher) in Data Science, Statistics, Computer Science, or a related field Extensive experience in data science within Life Sciences, Food, or Academia, applying agile development practices Proven track record in building and deploying predictive models in production Hands-on expertise with ML frameworks (TensorFlow, Keras, PyTorch, Scikit-learn) and statistical methods including Design of Experiments Familiarity with APIs (REST, JSON) and data visualization tools such as Power BI, PowerApps, and Streamlit Proficiency with cloud and data platforms including Azure, Databricks, Snowflake, and SQL databases. Ability to explain complex technical concepts to non-technical audience Strong collaboration skills, with experience working closely with cross-functional teams (scientists, sensory specialists, product developers) Highly autonomous and self‑driven, with strong problem‑solving capabilities Excellent communication skills in English Nestlé is committed to the accessibility of its recruitment process. If you require an adaptation during the recruitment process, please do let us know so we can support you effectively. All information will be treated confidentially. At Nestlé Research and Development in Konolfingen near Bern / Switzerland, we develop for Nestlé worldwide, new products, processes and packaging concepts for a broad range of products of our Nutrition, Dairy, Health Science and Coffee businesses. In addition, we also provide technical assistance to our factories. #nestlecareerswitzerland",
-    "external_url": "https://jobdetails.nestle.com/job/Konolfingen-Data-Science-Specialist/1381829433/",
-    "status": "matched"
   },
   "https://api.smartrecruiters.com/v1/companies/Sobi/postings/744000123177810": {
     "description": "Manufacturing Science and Technology  (MSAT) is part of the Global CMC, Science & Technology Department (GCSAT). GCSAT is responsible for optimization and life cycle management of Sobis clinical and commercial manufacturing processes from internal and external network. MSAT ensures compliant, reliable, cost effective and sustainable manufacturing of our products now and in future. The MSAT team holds the senior scientific and technical knowledge for the manufacturing of Sobis clinical and commercial products and is responsible for always keeping the internal and external manufacturing processes in a validated stage. Main responsibilities: Process owner of DS validation for Sobi products. Lead and execute MSAT projects such as manufacturing process and cost improvement as part of LCM. Participate in internal activities related to (external) manufacturing such as process changes, major/critical deviations, risk assessments and CAPAs. Issue, review and approve applicable internal and external SOP’s and manufacturing instructions. Review and supervise set up, execution and documentation of technical studies, qualifications and validations. Write and review applicable sections of the APR/PQR. Write and review applicable sections in registration files, variations and market expansion. Support in sourcing evaluation of new DS contract manufacturers and participation in developing supply and quality agreements. Lead the technical part of a product transfer, scale up activities, validations and oversees manufacturing of DS processes at external manufacturers for Sobi projects in clinical and commercial phase. Be aware of external biopharmaceutical manufacturing technology advancements, understand and introduce new technologies and how they may be applicable to process innovation, cost or yield improvement",
@@ -1282,7 +1214,7 @@
     "title": "Scientist, Tech Ops x2",
     "company": "CSL Behring / Vifor",
     "location": "EMEA, CH, Kanton Bern, Bern, CSL Behring",
-    "posted_date": "2026-05-07",
+    "posted_date": "2026-05-08",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1302,7 +1234,7 @@
     "title": "Scientist, Tech Ops",
     "company": "CSL Behring / Vifor",
     "location": "EMEA, CH, Kanton Bern, Bern, CSL Behring",
-    "posted_date": "2026-05-04",
+    "posted_date": "2026-05-05",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1387,7 +1319,7 @@
     "title": "Medical Affairs Coordinator",
     "company": "ICON plc",
     "location": "Switzerland, Basel",
-    "posted_date": "2026-05-06",
+    "posted_date": "2026-05-07",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1395,11 +1327,6 @@
       "medical affairs"
     ],
     "deducted_keywords": []
-  },
-  "https://jobs.boehringer-ingelheim.com/job/Basel-Head-of-Medical-Affairs-IOMH-%28mfd%29-Swit/1391030633/": {
-    "description": "The position This role drives the development and execution of Medical Affairs strategies across the full lifecycle of Boehringer Ingelheim products, from pre- to post-launch for the Therapeutic Area Inflammation, Oncology, Mental Health (IOMH). The Medical lead of this area partners closely with Marketing, Market Access, Clinical Development, and Patient Advocacy, while collaborating cross-functionally with local, regional, and global stakeholders to ensure alignment with overarching priorities. By delivering clear scientific guidance and clinically meaningful insights, the role enables optimal patient access to our therapies and contributes to the growth of the prescription healthcare business. Tasks & responsibilities Drives the translation and execution of Medical Affairs (MA) strategy across the full product lifecycle, including early engagement pre-launch and co-development of post-launch strategies, to ensure product acceptance, growth, and profitability Provides strategic medical leadership to cross-functional teams, enabling a patient-centric approach and maximizing the value of BI medications across the lifecycle Ensures robust generation and communication of clinical data, supporting the local OPU in demonstrating safety and efficacy, and driving compliant engagement with external experts Leads the planning and execution of all local MA activities, including studies, publications, and programs, in alignment with broader strategic priorities Builds and develops a high-performing MA organization by attracting, developing, and retaining talent, and fostering strong collaboration across MA, ROPU, and regional stakeholders Ensures effective leadership and governance through performance management, talent development, succession planning, coaching, and maintaining appropriate team structure and resourcing Requirements Minimum 5 years of experience in a pharmaceutical Medical Affairs / medical role Proven leadership experience, including leading projects, teams, or business functions Fluent in English; German or French is a plus Strong, approachable leader with a growth mindset and drive for continuous improvement Strategic and critical thinker with the confidence to challenge the status quo Excellent communication and negotiation skills, with high integrity and ethical standards Demonstrated ability to manage conflict and work effectively in diverse, cross-functional teams Strong quality and business orientation, combined with teamwork and visionary leadership Experience in change management and fostering an inclusive, high-performing environment Live up and demonstrate the core Boehringer behaviors ( link ) Your Benefits Flexible Working Model: Opportunity for remote work and flexible working hours in alignment with your manager Learning & Development: A broad range of training and development opportunities to support your personal and professional growth — because continuous learning is part of who we are Mental Health Support: Access to professional Employee Assistance Programs (EAP) and coaching services Collaborative Work Environment: A team‑oriented workplace characterized by strong mutual support and a culture of constructive collaboration We are looking forward to receiving your application online! By uploading your application documents via our application portal, we can treat your data confidentially and in compliance with the GDPR. On our career site you will find further information about Boehringer Ingelheim as an employer as well as information about the application process and our different departments. Would you like to know what makes our employees special? What they tell about their motivation and their everyday work? Watch this video and hear for yourself what our colleagues have to share.",
-    "external_url": "https://jobs.boehringer-ingelheim.com/job/Basel-Head-of-Medical-Affairs-IOMH-%28mfd%29-Swit/1391030633/",
-    "status": "matched"
   },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000125082095": {
     "description": "The Engineering Department (EN) provides CERN with the Engineering expertise, Infrastructure Systems and Coordination necessary for the design, installation, operation, maintenance and dismantling phases of the CERN accelerator complex and its experimental facilities. The position is within the Accelerator Coordination and Engineering (EN-ACE) group, which coordinates the activities for the interventions and changes to the accelerators complex. As a Planning and Scheduling Engineer in EN-ACE, you will plan and coordinate a wide range of equipment-related activities across CERN's current and future accelerator complex. You will collaborate closely with domain experts to develop practical solutions for the installation and maintenance of complex equipment, contributing to the Engineering Department's mission of supporting the full lifecycle of CERN's infrastructure and future projects. Your responsibilities: Plan and coordinate all installation and maintenance activities for the different accelerators, ensuring all activities are carried out within agreed overall schedule. Prepare all supporting documentation and liaise between the stakeholders. Manage the impact of operational problems affecting the installation and maintenance work on the schedule, in order to minimise any delays. Identify and resolve conflicting co-activity issues with the stakeholders concerned and/or the Project Leaders. In collaboration with the relevant Safety Coordinator, ensure that all safety concerns related to the installation work are identified and that the relevant safety rules procedures are applied. This job includes interventions in underground installations and requires a valid driving license Your profile: Experience in project management, coordination, and planning of workflow on large experimental and/or industrial facilities, preferably: maintenance, repairs, installations and upgrades projects. Exposure to or understanding of risk management would be an asset. Some experience with stakeholder relationships and/or negotiations would be an asset. Skills: Competencies in Project Management, coordination, and planning. Knowledge of project scheduling and management tools (e.g. MS Project, Oracle Primavera, MS PowerBI, VBA, Python, knowledge in database management). Ability to communicate clearly and proactively with technical stakeholders and management. Some technical knowledge of engineering systems would be an asset. Spoken and written English or French, with a commitment to learn the other language. Eligibility criteria: You are a national of a CERN Member or Associate Member State . You have a professional background in Mechanical / Industrial Engineering (or a related field) and have either: a Master's degree with 2 to 6 years of post-graduation professional experience; or a PhD with no more than 3 years of post-graduation professional experience. You have never had a CERN fellow or graduate contract before.",
@@ -1459,21 +1386,6 @@
     ],
     "deducted_keywords": []
   },
-  "https://jobs.boehringer-ingelheim.com/job/Basel-Regulatory-Affairs-Manager-%28mfd%29-12-month-fixed-term-contract-Swit/1391395033/": {
-    "description": "The position In this role, you will represent the Regulatory Affairs Manager function within the Operative Units (OPUs) of Boehringer Ingelheim, covering a 12-month maternity leave. You will be responsible for executing all Drug Regulatory Affairs (DRA) activities in Switzerland, ensuring timely and successful product registrations in alignment with regional and local strategies. Furthermore, you will maintain the regulatory compliance and positioning of all registered and marketed products. You will implement and adhere to corporate procedures, as well as regional working instructions, processes, and systems relevant to these activities. In addition, you will contribute to local regulatory strategy and support compliance monitoring at the ROPU level. Tasks & responsibilities Manage and oversee all local regulatory activities to ensure timely approvals and compliance with Swiss Health Authority requirements Maintain close collaboration with Swiss Health Authorities, as well as regional and corporate DRA teams Represent the organization in local, regional, and global regulatory meetings Ensure successful submission and maintenance of marketing authorizations, including variations, renewals, and safety reports Provide regulatory input to support local strategy, labeling, and market access activities (e.g., pricing and reimbursement) Collaborate cross-functionally with quality, pharmacovigilance, demand management, and other stakeholders to support product lifecycle and launches Maintain accurate and up-to-date regulatory data in relevant systems and databases Oversee product complaint handling and recall processes in compliance with global and local procedures Coordinate internal and external committees and ensure proper communication with authorities where required Support quality assurance activities, including preparation and review of product quality reports (PQRs)Support quality assurance activities, including preparation and review of product quality reports (PQRs)Support quality assurance activities, including preparation and review of product quality reports (PQRs) Requirements Professional experience in Regulatory Affairs Experience in quality control and/or quality assurance in a GxP environment is an advantage Knowledge of Swiss pharmaceutical (medicinal products) legislation Fluent in German and English, both written and spoken (French and/or Italian is a plus) Team player with a collaborative mindset Structured and organized way of working Strong communication skills Your Benefits Flexible Working Model: Opportunity for remote work and flexible working hours in alignment with your manager Learning & Development: A broad range of training and development opportunities to support your personal and professional growth — because continuous learning is part of who we are Mental Health Support: Access to professional Employee Assistance Programs (EAP) and coaching services Collaborative Work Environment: A team‑oriented workplace characterized by strong mutual support and a culture of constructive collaboration We are looking forward to receiving your application online! By uploading your application documents via our application portal, we can treat your data confidentially and in compliance with the GDPR. On our career site you will find further information about Boehringer Ingelheim as an employer as well as information about the application process and our different departments. Would you like to know what makes our employees special? What they tell about their motivation and their everyday work? Watch this video and hear for yourself what our colleagues have to share.",
-    "external_url": "https://jobs.boehringer-ingelheim.com/job/Basel-Regulatory-Affairs-Manager-%28mfd%29-12-month-fixed-term-contract-Swit/1391395033/",
-    "status": "ignored",
-    "title": "Regulatory Affairs Manager (m/f/d) - 12-month fixed-term contract",
-    "company": "Boehringer Ingelheim",
-    "location": "Basel, Switzerland, Basel-Stadt",
-    "posted_date": "",
-    "department": "",
-    "score": 1,
-    "matched_keywords": [
-      "French"
-    ],
-    "deducted_keywords": []
-  },
   "https://www.michaelpage.ch/job-detail/business-development-manager-defense-europe-mfd/ref/jn-122025-6902007": {
     "external_url": "https://www.michaelpage.ch/job-detail/business-development-manager-defense-europe-mfd/ref/jn-122025-6902007",
     "status": "ignored",
@@ -1495,7 +1407,7 @@
     "title": "Senior Scientist, Tech Ops",
     "company": "CSL Behring / Vifor",
     "location": "EMEA, CH, Kanton Bern, Bern, CSL Behring",
-    "posted_date": "2026-05-07",
+    "posted_date": "2026-05-08",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1738,7 +1650,7 @@
     "title": "Medical Affairs Project Coordinator - Sponsor Dedicated",
     "company": "IQVIA",
     "location": "Basel, Switzerland",
-    "posted_date": "2026-05-11",
+    "posted_date": "2026-05-12",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1803,7 +1715,7 @@
     "title": "Scientist (w/m/d)",
     "company": "CSL Behring / Vifor",
     "location": "EMEA, CH, Kanton Bern, Bern, CSL Behring",
-    "posted_date": "2026-05-12",
+    "posted_date": "2026-05-13",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1818,7 +1730,7 @@
     "title": "Senior Scientist (w/m/d)",
     "company": "CSL Behring / Vifor",
     "location": "EMEA, CH, Kanton Bern, Bern, CSL Behring",
-    "posted_date": "2026-05-12",
+    "posted_date": "2026-05-13",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1844,7 +1756,7 @@
     "title": "Senior Scientist, Material Qualification and Release (QC GMP)",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-05-13",
+    "posted_date": "2026-05-14",
     "department": "",
     "score": -1,
     "matched_keywords": [
