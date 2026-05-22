@@ -1511,20 +1511,6 @@
     "external_url": "https://jobdetails.nestle.com/job/Konolfingen-Data-Science-Specialist/1381829433/",
     "status": "matched"
   },
-  "https://www.michaelpage.ch/de/job-detail/business-development-specialist-100/ref/jn-032026-6968386?lang=en": {
-    "external_url": "https://www.michaelpage.ch/de/job-detail/business-development-specialist-100/ref/jn-032026-6968386?lang=en",
-    "status": "ignored",
-    "title": "Business Development Specialist (a) 100%",
-    "company": "Michael Page Switzerland",
-    "location": "Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": -2,
-    "matched_keywords": [],
-    "deducted_keywords": [
-      "location:Switzerland"
-    ]
-  },
   "https://www.michaelpage.ch/fr/job-detail/portfolio-manager-fr-eng-100-m-f/ref/jn-042026-6999371?lang=en": {
     "external_url": "https://www.michaelpage.ch/fr/job-detail/portfolio-manager-fr-eng-100-m-f/ref/jn-042026-6999371?lang=en",
     "status": "ignored",
@@ -1939,7 +1925,7 @@
   },
   "https://www.michaelpage.ch/job-detail/fund-portfolio-coordinator-9-months/ref/jn-042026-6999523": {
     "external_url": "https://www.michaelpage.ch/job-detail/fund-portfolio-coordinator-9-months/ref/jn-042026-6999523",
-    "status": "matched",
+    "status": "ignored",
     "title": "Fund Portfolio Coordinator for 9 months",
     "company": "Michael Page Switzerland",
     "location": "Switzerland",
@@ -1954,7 +1940,7 @@
   "/job/CH---Basel/Laboratory-Scientist-Physico-Chemical-Quality-Control-80-100-_R74678": {
     "description": "The actual location of this job is in Basel Stücki, Switzerland. For our successful and growing Drug Product focused branch located in Basel and Stein, Switzerland, we have exciting opportunities. Become part of a group that enables its customers to meet some of the greatest challenges in patient treatment and join us by applying for the Laboratory Scientist Phys-Chemical QC position. What you’ll get: An agile career and a dynamic work culture An inclusive and ethical workplace Compensation programs that recognize high performance What you’ll do: Independently execute routine physico-chemical testing such as U/HPLC (SEC, IEX, RP, surfactant), CE-SDS, icIEF, protein content, and compendial methods (pH, color, clarity, subvisible particles, etc.) for biologics/large molecules, related entities and small molecules in QC under cGMP following applicable SOPs and Good Documentation Practices (GDocP) in a right-first-time and timely manner Executes/reviews/approves basic laboratory operational tasks, e.g. mobile phase preparation or calibration/troubleshooting of laboratory equipment Assist in investigation/troubleshooting of laboratory equipment issues by provision of technical knowledge on the equipment to the Business Process Owner Support maintaining the 6s standard within the laboratory by actively following and keeping up 6s processes for chemical inventory & consumables management, thereby ensuring audit/inspection readiness as well as supporting them. Leads organization and on time conduction of maintenance/requalification of assigned laboratory equipment, supported by external vendors, as Instrument Responsible Person (Cat A and B). Act as trainer for assigned equipment in combination of respective analytical methods Support analytical method validation or transfers as required Proactively contribute to laboratory operational optimization and process improvement initiatives Contributes to Pikett Service for Drug Product analytical infrastructure What we’re looking for: Training on the job as a lab technician (EFZ, HF, CTA, BTA, PTA or BSc./MSc.) Working experience in a research/ technical role in the pharmaceutical, biotech or chemical industry, in analytical testing Proven working experience in a cGMP regulated environment in phys-chem analytics strongly desired with experience in accurately reporting, interpretation and documentation of scientific results following ALCOA++ GDocP principles Experience with laboratory specific software (e.g. Empower, Electronic Laboratory Journal, LIMS-system) is advantageous Good communication and ability to work independently in a team, proactive and dedicated attitude Good knowledge of written and spoken English. Any other languages are a plus About Lonza At Lonza, our people are our greatest strength. With 30+ sites across five continents, our globally connected teams work together every day to manufacture the medicines of tomorrow. Our core values of Collaboration, Accountability, Excellence, Passion and Integrity reflect who we are and how we work together. Everyone’s ideas, big or small, have the potential to improve millions of lives, and that’s the kind of work we want you to be part of. Innovation thrives when people from all backgrounds bring their unique perspectives to the table. At Lonza, we value diversity and are committed to creating an inclusive environment for all employees. If you’re ready to help turn our customers’ breakthrough ideas into viable therapies, we look forward to welcoming you on board. Ready to shape the future of life sciences? Apply now.",
     "external_url": "https://lonza.wd3.myworkdayjobs.com/Lonza_Careers/job/CH---Basel/Laboratory-Scientist-Physico-Chemical-Quality-Control-80-100-_R74678",
-    "status": "matched",
+    "status": "ignored",
     "title": "Laboratory Scientist Physico-Chemical Quality Control 80-100%",
     "company": "Lonza",
     "location": "CH - Basel",
@@ -1966,17 +1952,9 @@
     ],
     "deducted_keywords": []
   },
-  "/job/CH---Basel/Internship-Laboratory-Scientist-6-months-fix-term-contract-80-100-_R76435": {
-    "description": "The actual location of this job is in Basel Stücki, Switzerland. For our successful Drug Product (DP) focused branch located in Basel and Stein, Switzerland, we have exciting opportunities. Become part of a group that enables its customers to meet some of the greatest challenges in patient treatment and join us by applying for the Internship Laboratory Scientist position. What you will get: An agile career and a dynamic work culture An inclusive and ethical workplace Compensation programs that recognize high performance What you will do: Assist with daily lab operations Perform laboratory experiments and procedures Record and report experimental data accurately Help maintain a clean and organized laboratory environment What we are looking for: Matriculation (Bachelor or Master) or recent graduation from a university or technical college in Biotechnology, Biochemistry, Pharmacy, Analytical Chemistry or related fields A strong team player who can also work independently Self-motivated with a strong passion for quality Excellent attention to detail and accuracy Willingness to learn and complete complex tasks Very good verbal and written communication skills, proficiency in English About Lonza At Lonza, our people are our greatest strength. With 30+ sites across five continents, our globally connected teams work together every day to manufacture the medicines of tomorrow. Our core values of Collaboration, Accountability, Excellence, Passion and Integrity reflect who we are and how we work together. Everyone’s ideas, big or small, have the potential to improve millions of lives, and that’s the kind of work we want you to be part of. Innovation thrives when people from all backgrounds bring their unique perspectives to the table. At Lonza, we value diversity and are committed to creating an inclusive environment for all employees. If you’re ready to help turn our customers’ breakthrough ideas into viable therapies, we look forward to welcoming you on board. Ready to shape the future of life sciences? Apply now.",
-    "external_url": "https://lonza.wd3.myworkdayjobs.com/Lonza_Careers/job/CH---Basel/Internship-Laboratory-Scientist-6-months-fix-term-contract-80-100-_R76435",
-    "status": "matched",
-    "title": "Internship Laboratory Scientist 6 months fix-term contract 80-100%",
-    "company": "Lonza",
-    "location": "CH - Basel",
-    "posted_date": "2026-05-22",
-    "department": "",
-    "score": 0,
-    "matched_keywords": [],
-    "deducted_keywords": []
+  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000127920258": {
+    "description": "The Knowledge Transfer (KT) group (kt.cern) is in charge of seeking and realising opportunities for the application of CERN technologies in domains such as healthcare, environmental applications, quantum technologies, and aerospace. You will be part of KT's Business Development section, working with CERN's Medical Applications Adviser and colleagues in KT and across CERN. You will be responsible for the financial and administrative management of an internal seed funding programme that bridges the gap between research and societal applications, and for the processing of licensing requests for mainly software and electronics technologies. You will also help optimise and implement procedures in the transition to a new Intellectual Property and Customer Relationship Management system. Your responsibilities: Manage the lifecycle of CERN's Medical Applications Budget and of the KT Fund: from call and launch to evaluation, award, project progress, budget monitoring, reporting, and updating records. Defining appropriate qualitative and quantitative KPIs for the funding programmes, monitoring and contributing to their continuous improvement. Act as Scientific Secretary for the Medical Applications Project Forum, plan and organise meetings, project reviews and presentations. Manage a portfolio of licensing and other KT partnerships, from opportunity identification to contract preparation and follow-up. Monitor the licensing portfolio performance, including contractual obligations, milestones, and financial flows, maintain electronic records, and contribute to reporting. Act as primary interface with internal and external partners (industry, academia, healthcare partners). Analyse and optimise business processes to enhance operational efficiency. Your profile: Professional experience or strong academic exposure to technology transfer or license management, research or innovation management, funding programme management, or a comparable role in an industrial or academic environment. Experience with administrative and financial project management Experience working in a multicultural and multidisciplinary environment. Strong motivation to work at the interface between science, technology, and industry. Knowledge and experience in electronics and/or software technologies is an advantage. Skills: Ability to grasp the essential information about complex technologies and to understand their applicability to fields outside particle physics. Proven ability to manage multiple projects and deadlines with autonomy and attention to detail. Excellent communication and organisational skills, working collaboratively with scientists, administrators and industry partners. Proficiency in standard office and data management tools. Experience in programme or project management is an asset. Experience with IP and CRM tools for innovation management or knowledge transfer is an asset. Spoken and written English, with a commitment to learn French. Eligibility criteria: You are a national of a CERN Member or Associate Member State . You have a professional background in Business, Administration or STEM (or a related field) and have either: a Master's degree with 2 to 6 years of post-graduation professional experience; or a PhD with no more than 3 years of post-graduation professional experience. You have never had a CERN fellow or graduate contract before.",
+    "external_url": "https://jobs.smartrecruiters.com/CERN/744000127920258-knowledge-transfer-officer-ipt-kt-bd-2026-91-grap-?oga=true",
+    "status": "matched"
   }
 }
