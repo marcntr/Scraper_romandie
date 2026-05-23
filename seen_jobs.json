@@ -566,7 +566,8 @@
     "https://jobs.smartrecruiters.com/CERN/744000123867509-applied-scientist-in-materials-engineering-en-mme-mm-2026-83-grap-?oga=true": "ignored",
     "https://csl.wd1.myworkdayjobs.com/CSL_External/job/EMEA-CH-Kanton-Bern-Bern-CSL-Behring/Scientist--Tech-Ops_R-275506": "ignored",
     "https://lonza.wd3.myworkdayjobs.com/Lonza_Careers/job/CH---Basel/Internship-Laboratory-Scientist-6-months-fix-term-contract-80-100-_R76435": "ignored",
-    "https://csl.wd1.myworkdayjobs.com/CSL_External/job/EMEA-CH-Kanton-Bern-Bern-CSL-Behring/Senior-Scientist--Tech-Ops_R-275555-1": "ignored"
+    "https://csl.wd1.myworkdayjobs.com/CSL_External/job/EMEA-CH-Kanton-Bern-Bern-CSL-Behring/Senior-Scientist--Tech-Ops_R-275555-1": "ignored",
+    "https://www.stettlerconsulting.ch/en/current-vacancies/business-development-manager-wound-care-w-m-100/": "ignored"
   },
   "https://gloorlang.starhunter.software/Headhunter/project/job-ad/hash/693ffd941548c": {
     "external_url": "https://gloorlang.starhunter.software/Headhunter/project/job-ad/hash/693ffd941548c",
@@ -1870,7 +1871,7 @@
   },
   "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-analytical-project-leader-scientist-senior-scientist-basel-stadt-873611/1": {
     "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-analytical-project-leader-scientist-senior-scientist-basel-stadt-873611/1",
-    "status": "matched",
+    "status": "ignored",
     "title": "Analytical Project Leader (Scientist / Senior Scientist)(m/f/d)",
     "company": "Hays Switzerland",
     "location": "Basel Stadt, Switzerland",
@@ -1882,7 +1883,7 @@
   },
   "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-vice-president-of-business-development-basel-land-873413/1": {
     "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-vice-president-of-business-development-basel-land-873413/1",
-    "status": "matched",
+    "status": "ignored",
     "title": "Vice President of Business Development(m/f/d)",
     "company": "Hays Switzerland",
     "location": "Basel Land, Switzerland",
@@ -1894,7 +1895,7 @@
   },
   "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-scientist-lab-technician-assay-development-zug-873185/1": {
     "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-scientist-lab-technician-assay-development-zug-873185/1",
-    "status": "matched",
+    "status": "ignored",
     "title": "Scientist Lab Technician Assay Development(m/f/d)",
     "company": "Hays Switzerland",
     "location": "Zug, Switzerland",
@@ -1908,7 +1909,7 @@
   },
   "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-clinical-medical-scientist-basel-stadt-871198/1": {
     "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-clinical-medical-scientist-basel-stadt-871198/1",
-    "status": "matched",
+    "status": "ignored",
     "title": "Clinical/Medical Scientist(m/f/d)",
     "company": "Hays Switzerland",
     "location": "Basel Stadt, Switzerland",
@@ -1920,7 +1921,7 @@
   },
   "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-clinical-scientist-basel-stadt-865510/1": {
     "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-clinical-scientist-basel-stadt-865510/1",
-    "status": "matched",
+    "status": "ignored",
     "title": "Clinical Scientist(m/f/d)",
     "company": "Hays Switzerland",
     "location": "Basel Stadt, Switzerland",
@@ -1932,7 +1933,7 @@
   },
   "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-qc-scientist-microbiology-lengnau-berne-864632/1": {
     "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-qc-scientist-microbiology-lengnau-berne-864632/1",
-    "status": "matched",
+    "status": "ignored",
     "title": "QC Scientist Microbiology(m/f/d)",
     "company": "Hays Switzerland",
     "location": "Lengnau, Berne, Switzerland",
@@ -1941,5 +1942,49 @@
     "score": 0,
     "matched_keywords": [],
     "deducted_keywords": []
+  },
+  "https://www.stettlerconsulting.ch/en/current-vacancies/business-development-manager-wound-care-w-m-100/": {
+    "external_url": "https://www.stettlerconsulting.ch/en/current-vacancies/business-development-manager-wound-care-w-m-100/",
+    "status": "matched",
+    "title": "Business Development Manager «Wound Care» (w/m) 100%",
+    "company": "Stettler Consulting",
+    "location": "Region Mittelland, Switzerland",
+    "posted_date": "",
+    "department": "",
+    "score": -2,
+    "matched_keywords": [],
+    "deducted_keywords": [
+      "location:Region Mittelland, Switzerland"
+    ]
+  },
+  "https://www.stettlerconsulting.ch/en/current-vacancies/head-regulatory-medical-affairs-80-100-w-m/": {
+    "external_url": "https://www.stettlerconsulting.ch/en/current-vacancies/head-regulatory-medical-affairs-80-100-w-m/",
+    "status": "matched",
+    "title": "Head Regulatory & Medical Affairs (w/m) 80 – 100 %",
+    "company": "Stettler Consulting",
+    "location": "Region Ostschweiz, Switzerland",
+    "posted_date": "",
+    "department": "",
+    "score": -1,
+    "matched_keywords": [
+      "medical affairs"
+    ],
+    "deducted_keywords": [
+      "location:Region Ostschweiz, Switzerland"
+    ]
+  },
+  "https://www.michaelpage.ch/job-detail/senior-manager-regulatory-affairs/ref/jn-052026-7023979": {
+    "external_url": "https://www.michaelpage.ch/job-detail/senior-manager-regulatory-affairs/ref/jn-052026-7023979",
+    "status": "matched",
+    "title": "(Senior) Manager Regulatory Affairs (a)",
+    "company": "Michael Page Switzerland",
+    "location": "Switzerland",
+    "posted_date": "",
+    "department": "",
+    "score": -2,
+    "matched_keywords": [],
+    "deducted_keywords": [
+      "location:Switzerland"
+    ]
   }
 }
