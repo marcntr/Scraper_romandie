@@ -572,7 +572,8 @@
     "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Basel-City/Head--Global-Medical-Affairs-Oncology_REQ-10077892": "ignored",
     "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Basel-City/Head--Evidence-Generation_REQ-10077890": "ignored",
     "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Basel-City/Research-Scientist--DNA-encoded-chemical-libraries--DEL---80-100---_REQ-10076037-1": "ignored",
-    "https://www.michaelpage.ch/job-detail/sp%C3%A9cialiste-middle-office-portfolio-management-1-mois/ref/jn-052026-7018018": "ignored"
+    "https://www.michaelpage.ch/job-detail/sp%C3%A9cialiste-middle-office-portfolio-management-1-mois/ref/jn-052026-7018018": "ignored",
+    "https://www.michaelpage.ch/fr/job-detail/portfolio-manager-fr-eng-100-m-f/ref/jn-042026-6999371?lang=en&ng-src=other-users-applied&ng-jn=job-search": "ignored"
   },
   "https://gloorlang.starhunter.software/Headhunter/project/job-ad/hash/693ffd941548c": {
     "external_url": "https://gloorlang.starhunter.software/Headhunter/project/job-ad/hash/693ffd941548c",
@@ -1956,5 +1957,24 @@
     "description": "As a Talent Acquisition Officer, you will participate within the Talent Acquisition team to attracting and recruiting talent for our Organisation. You will gain hands-on experience and develop valuable skills in sourcing, recruitment, and employer branding. Your responsibilities : Participate in the full recruitment and sourcing lifecycle, including CV screening, candidate communication, interview coordination, and contract administration. Proactively engage with potential candidates through online platforms, professional networks, and databases, with a particular focus on under-represented groups (e.g. women in STEM). Contribute to promoting CERN's employer brand across multiple channels, including social media, job boards, and career fairs. Generate reports and analyse recruitment and sourcing data to identify trends, insights, and opportunities for continuous improvement. Your profile: Knowledge of basic recruitment & sourcing principles and techniques. Knowledge of content creation and social media tools will be an asset. Skills: Highly organised and detail-oriented, with the ability to manage multiple tasks in parallel. Proactive, with a strong willingness to learn and contribute to team objectives. Ability to maintain confidentiality and handle sensitive information with professionalism. Spoken and written English, with a commitment to learn French. Eligibility criteria: By the application deadline, you have a maximum of two years of professional experience since graduation in HR, Business Administration, Psychology (or a related field) and your highest educational qualification is either a Bachelor's or Master's degree . You have never had a CERN fellow or graduate contract before. Applicants without University degree are not eligible. Applicants with a PhD are not eligible.",
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000128403320-talent-acquisition-officer-hr-ta-2026-57-grae-?oga=true",
     "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/AbbVie/postings/3743990013293316": {
+    "description": "The Study Project Manager I drives the connection between science and operational delivery and ensures operational excellence in planning and execution of clinical research studies across all development stages. The Study Project Manager I is responsible for and ensures clinical research studies are executed with quality and efficiency, on-time, within budget, and meet company objectives. The Study Project Manager I achieves these objectives by bringing scientific acumen, strategic thinking, innovation, experience in clinical study operations management and stakeholder management to address risks and challenges. The Study Project Manager I serves as leader of one or more cross functional Clinical Study Teams, leading clinical operations from planning through to execution in a cross functional matrix environment. Responsibilities -Defines and drives the operational strategies and deliverables for one or more clinical studies -Responsible for executing clinical studies in compliance with quality standards (ICH/GCP, Global Regulations, and AbbVie policies and procedures). -Proactively manages budget, timelines and study issues; brings scientific acumen, technical expertise and global mindset to drive achievement of study objectives -Leader of the cross functional Clinical Study Team -Leads clinical operations planning through to execution via cross functional matrix environment and influences cross functional stakeholders to drive milestone achievement -Effectively manages vendors and a diverse set of external stakeholders including site staff, Key Opinion Leaders and patient groups -Brings a growth mindset, demonstrated by a willingness to continuously learn, grow and adapt, give and receive feedback, see challenges as opportunities -Coaches and effectively supports cross functional team members, delegates and empowers to the right level, actively contributes to Development Operations community -Contributes towards operational efficiencies and brings innovative ideas to their teams and studies -Demonstrates excellent communication and problem solving skills -Puts patients and customers at the center of what we do -Navigates ambiguity and thrives even when not having all the information On a given study responsible for (but not limited to) : - the development of the clinical study design and associated systems, tools and documents - study budget creation and oversight - vendor selection, scope development, management and oversight of external vendors - Proactively identifying risks and address and/or escalate study related issues and opportunities for efficiency - Empowered decision maker on operational aspects of study execution. - creating an inclusive and innovative environment where staff and studies/programs will succeed Provide leadership to Study Management Associates – lead, delegate and support activities to deliver on study milestones",
+    "external_url": "https://jobs.smartrecruiters.com/AbbVie/3743990013293316-study-project-manager-i?oga=true",
+    "status": "matched"
+  },
+  "https://www.michaelpage.ch/job-detail/sp%C3%A9cialiste-middle-office-portfolio-management-1-mois/ref/jn-052026-7018018?ng-src=other-users-applied&ng-jn=job-search": {
+    "external_url": "https://www.michaelpage.ch/job-detail/sp%C3%A9cialiste-middle-office-portfolio-management-1-mois/ref/jn-052026-7018018?ng-src=other-users-applied&ng-jn=job-search",
+    "status": "matched",
+    "title": "Spécialiste Middle Office / Portfolio Management - Mission Temporaire",
+    "company": "Michael Page Switzerland",
+    "location": "Switzerland",
+    "posted_date": "",
+    "department": "",
+    "score": -2,
+    "matched_keywords": [],
+    "deducted_keywords": [
+      "location:Switzerland"
+    ]
   }
 }
