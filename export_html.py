@@ -28,7 +28,9 @@ def _careers_url(cfg: dict) -> str:
     if ats == "workable":
         return f"https://apply.workable.com/{cfg.get('slug', '')}"
     if ats == "greenhouse":
-        return f"https://boards.greenhouse.io/{cfg.get('board_token', '')}"
+        return f"https://job-boards.greenhouse.io/{cfg.get('board_token', '')}"
+    if ats == "nestlehealthscience":
+        return "https://www.nestlejobs.com/nestle-health-science"
     if ats == "paylocity":
         guid = cfg.get("company_guid", "")
         slug = cfg.get("company_slug", "")

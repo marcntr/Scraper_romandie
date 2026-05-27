@@ -45,7 +45,7 @@ class GreenhouseScraper(BaseScraper):
     ) -> None:
         self.company = company
         self.board_token = board_token
-        self.careers_url = f"https://boards.greenhouse.io/{board_token}"
+        self.careers_url = f"https://job-boards.greenhouse.io/{board_token}"
         self._location_terms = location_terms or []
         self._title_terms = title_terms or []
 
