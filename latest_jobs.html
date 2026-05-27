@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Job Dashboard — 2026-05-27 14:39</title>
+<title>Job Dashboard — 2026-05-27 19:38</title>
 <style>
 /* ── Reset & base ── */
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
@@ -537,7 +537,7 @@ a { color: inherit; text-decoration: none; }
 
 <div class="header">
   <h1>Biopharma Job Dashboard</h1>
-  <div class="subtitle">Run: 2026-05-27 14:39</div>
+  <div class="subtitle">Run: 2026-05-27 19:38</div>
 </div>
 
 <button class="sync-btn" onclick="openSyncModal()">
@@ -563,8 +563,8 @@ a { color: inherit; text-decoration: none; }
 </div>
 
 <div class="tab-bar">
-  <button id="tab-btn-matched" class="tab-btn active" onclick="showTab(this,'matched')">Matched Jobs (3)</button>
-  <button id="tab-btn-ignored" class="tab-btn" onclick="showTab(this,'ignored')">Ignored (62)</button>
+  <button id="tab-btn-matched" class="tab-btn active" onclick="showTab(this,'matched')">Matched Jobs (1)</button>
+  <button id="tab-btn-ignored" class="tab-btn" onclick="showTab(this,'ignored')">Ignored (63)</button>
   <button id="tab-btn-applied" class="tab-btn" onclick="showTab(this,'applied')">Applied (2)</button>
   
   <button class="tab-btn" onclick="showTab(this,'companies')">Companies (163)</button>
@@ -582,17 +582,61 @@ a { color: inherit; text-decoration: none; }
     <div id="job-list">
       
 <div class="job-card"
+     data-company="Novartis"
+     data-score="2"
+     data-date="2026-05-27"
+     data-location="switzerland"
+     data-url="https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Basel-City/In-vivo-Research-Scientist--80-100----_REQ-10077445-2"
+     data-status="matched"
+     data-text="in-vivo research scientist (80-100%) * novartis in vivo french">
+  <div class="card-header">
+    <div class="card-left">
+      <span class="score-badge score-blue">+2</span>
+      <span class="new-badge">New</span>
+      <span class="job-title">In-vivo Research Scientist (80-100%) *</span>
+    </div>
+    <a class="open-link" href="https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Basel-City/In-vivo-Research-Scientist--80-100----_REQ-10077445-2" target="_blank" rel="noopener">Open ↗</a>
+  </div>
+  <div class="card-meta">
+    <span class="company">Novartis</span>
+    <span class="location">📍 Basel (City)</span>
+    <span class="tag tag-swiss">Switzerland</span>
+    <span class="posted">Posted 2026-05-27</span>
+  </div>
+  <div class="card-keywords">
+    <span class="kw-label kw-plus">+</span><span class="kw-text">in vivo  French</span>
+    &nbsp;&nbsp;
+    <span class="kw-label kw-minus">−</span><span class="kw-text">(none)</span>
+  </div>
+  <div class="card-desc">
+    <button class="toggle-btn" onclick="toggleDesc(this,0)">▸ Description</button>
+    <div id="desc-more-0" class="desc-structured" hidden><div class="desc-sec"><div class="desc-sh">About the Role</div><p class="desc-para">Summary This role sits within our Comparative Medicines group, and is a highly technical and a specialized professional position responsible for collaborating with multi-discipline research programs by providing high quality &amp; consistent in-vivo scientific/technical support. Internal Position Title: Research Scientist I/II Position Location: onsite, Basel, CH #LI-onsite Novartis&#x27; Biomedical Research division is our Innovation engine. We have bold objectives to transform the lives of millions of people living with diseases and conditions and unmet medical needs We currently have an opportunity for an in-vivo research associates to join us and contribute in making a real impact to patient lives. This role sits within our Comparative Medicines group, and is a highly technical and a specialized professional position responsible for collaborating with multi-discipline research programs by providing high quality &amp; consistent in-vivo scientific/technical support.</p></div>
+<div class="desc-sec"><div class="desc-sh">Key Responsibilities</div><p class="desc-para">will include: • Ensure state-of-the-art animal experimentation with highest ethical and technical standards: animal (mouse, rat) handling, substance application, clinical signs monitoring/scoring, blood/organ sampling or implementation of novel technologies • Provide evaluation of data with limited input from supervisor • Professional experience in pharmacodynamic, pharmacokinetic and tolerability studies advantageous • Weekend duties, early morning or late evening activity (e.g. dosing, bleeding) • Closely and independently interact with scientists • Understand and update experimental protocols • Responsible for pursuing continuous learning/professional development opportunities, enhancing/expanding skill set, and reviewing in-vivo techniques</p></div>
+<div class="desc-sec"><div class="desc-sh desc-sh--required">Essential Requirements</div><ul class="desc-list"><li>• BSc degree in a scientific discipline, plus completed education as in-vivo laboratory technician (LTK 1 or equivalent) • 2+ years of experience performing in vivo work with rodents in an academic or industry setting • Excellent mathematic &amp; compound dose/volume administration calculation skills • Superior written and oral communication and data documentation skills required • Strong commitment to animal welfare, team player, detail-oriented • Fluent in English required, knowledge of French and/or German is desirable *Please note that restrictions on flexible working may apply and will be discussed at interview stage if applicable Accessibility and Accommodation: Novartis is committed to working with and providing reasonable accommodation to all individuals</li><li>If, because of a medical condition or disability, you need a reasonable accommodation for any part of the recruitment process, or in order to receive more detailed information about the essential functions of a position, please send an e-mail to inclusion.switzerland@novartis.com and let us know the nature of your request and your contact information</li><li>Please include the job requisition number in your message</li><li>Skills Desired Analysis, Computer Systems, Lifesciences, Operating Systems, Scientific Support, Technical Support</li></ul></div></div>
+  </div>
+  <div class="card-actions">
+    <button class="action-btn action-ignore" onclick="setJobStatus(this,'ignored')">Ignore</button><button class="action-btn action-applied" onclick="setJobStatus(this,'applied')">&#10003; Applied</button>
+  </div>
+</div>
+    </div>
+  </div>
+
+  <!-- ── Ignored tab ── -->
+  <div id="tab-ignored" class="tab-panel">
+    <div id="ignored-list">
+      
+<div class="job-card"
      data-company="Thermo Fisher Scientific"
      data-score="6"
      data-date="2026-05-27"
      data-location="switzerland"
      data-url="https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Switzerland/Reg-Affairs-AD---CMC-Regulatory-Regional-Expert_R-01354769"
-     data-status="matched"
+     data-status="ignored"
      data-text="reg affairs ad - cmc regulatory regional expert thermo fisher scientific preclinical phd location:remote">
   <div class="card-header">
     <div class="card-left">
       <span class="score-badge score-green">+6</span>
-      <span class="new-badge">New</span>
+      
       <span class="job-title">Reg Affairs AD - CMC Regulatory Regional Expert</span>
     </div>
     <a class="open-link" href="https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Switzerland/Reg-Affairs-AD---CMC-Regulatory-Regional-Expert_R-01354769" target="_blank" rel="noopener">Open ↗</a>
@@ -609,95 +653,16 @@ a { color: inherit; text-decoration: none; }
     <span class="kw-label kw-minus">−</span><span class="kw-text">(none)</span>
   </div>
   <div class="card-desc">
-    <button class="toggle-btn" onclick="toggleDesc(this,0)">▸ Description</button>
-    <div id="desc-more-0" class="desc-structured" hidden><div class="desc-sec"><p class="desc-para">Work Schedule Standard (Mon-Fri) Environmental Conditions Office</p></div>
+    <button class="toggle-btn" onclick="toggleDesc(this,1)">▸ Description</button>
+    <div id="desc-more-1" class="desc-structured" hidden><div class="desc-sec"><p class="desc-para">Work Schedule Standard (Mon-Fri) Environmental Conditions Office</p></div>
 <div class="desc-sec"><div class="desc-sh">About the Role</div><p class="desc-para">Join Us as a Regulatory Affairs Associate Director – Make an Impact at the Forefront of Innovation We have successfully supported the top 50 pharmaceutical companies and more than 750 biotechs, spanning 2,700 clinical trials across 100+ countries in the last 5 years. As part of our global team, you’ll have the opportunity to lead innovative projects and provide strategic regulatory intelligence that makes a real difference in product development. As a Regulatory Affairs Associate Director, you&#x27;ll play a key role in guiding product development from preclinical stages through registration and optimization. You will provide regulatory expertise and client interface, offering strategic guidance and updates on country, regional, and global regulatory intelligence. Routinely act as an adviser to other units within the department and liaise with local country regulatory authorities. Responsible for acting as a liaison with internal and external clients in the provision and marketing of these services. What You’ll Do: Lead CMC regulatory strategy and submissions for biologicals, ensuring compliance and successful product approvals across different regions. This is a position to lead and execute global CMC regulatory strategy and submissions, ensuring the delivery of high-quality CMC dossiers in full compliance with international regulatory standards. CMC Regulatory Strategy and submissions for Biologicals : Lead the development and execution of CMC regulatory strategies for biological products across regions. Serve as the subject matter expert on biologics, providing CMC regulatory guidance for the preparation of regulatory submissions to the regional agencies. Act as the primary liaison for CMC regulatory matters related to biologicals, collaborating with internal teams (R&amp;D, Quality, Manufacturing, Global Regulatory) to align on submission strategies. Oversee the preparation, review, and submission of CMC sections (Module 3) specific to biological products, in regulatory filings such as MAAs and variations. Author, compile, and maintain CTD Module 3 content as applicable. Coordinate responses to CMC-related questions and deficiencies raised by the health authorities during product registration. Post-Approval Compliance and Lifecycle Management : Perform change control impact assessment for CMC changes Lead the CMC regulatory management and dossier authoring of post-approval changes, including manufacturing process changes, site transfers, and formulation updates for biological products Ensure continuous compliance with regulatory</p></div>
 <div class="desc-sec"><div class="desc-sh">requirements</div><ul class="desc-list"><li>throughout the lifecycle of the biological product, managing variations and renewals</li><li>Monitor and assess regulatory guidance related to biologics and provide strategic input into regulatory filings. • Acts as a global lead in providing review and technical advice to prepare regional and/or global regulatory submissions and ensure high quality standards that meet or exceed client expectations, local and regional requirements. • Acts as lead subject matter expert in providing regulatory strategy advice and technical expertise to internal and external clients and oversees key client projects</li><li>Provides internal clients with up-to-date legislation and guidance as it becomes available. • Ensures quality performance for key/managed projects. • Manages project budgeting/forecasting functions. • Identifies and recognizes out of scope activities in a contract in a timely manner and liaises with other departments to follow through on all aspects of contract modifications. • Collaborates with business development in pricing and securing new business by making presentations to clients, and develops proposal texts and budgets in collaboration with other departments. • Oversees matrix/project leadership, training and guidance to junior team members. • Ensures compliance with relevant organizational and department SOPs and WPDs. • Participates in and leads launch meetings, review meetings and project team meetings</li><li>Leads departmental initiatives/project teams</li><li>Education and Experience • Master degree or PhD in biotechnology, pharmaceutical sciences or bio‐engineering, with relevant expertise in CMC development and CMC regulatory for biological products (min 10 yrs) • Previous experience that provides the knowledge, skills, and abilities to perform the job (comparable to 12+ years)</li><li>In some cases an equivalency, consisting of a combination of appropriate education, training and/or directly related experience, will be considered sufficient for an individual to meet the of the role</li><li>Knowledge, Skills and Abilities: • Mastery of English language (written and oral) communication skills as well as local language where applicable • Exceptional attention to detail and quality as well as outstanding editorial/proofreading skills • Accomplished interpersonal skills to work effectively in a team environment and act as a liaison with other departments • Advanced computer skills including the use of Microsoft Word, Excel, Power Point; capable of learning new technologies • Effective organizational, time management, and planning skills to create and follow timelines, conduct long-range planning, adapt to changing priorities and handle multiple projects • Professional negotiation skills • Capable of working independently and exercising independent judgment to assess sponsor regulatory needs and work with project team members to producing compliant deliverables • Advanced, broad understanding of global/regional/national country requirements/regulatory affairs procedures for clinical trial authorization, licensing, lifecycle management; expert knowledge of ICH and other global regulatory guidelines; in-depth understanding of a regulatory speciality areas, such as preclinical, clinical, CMC, publishing, etc. • Advanced understanding of medical terminology, statistical concepts, and guidelines • Outstanding analytical, investigative and problem-solving skills • Excellent understanding of budgeting and forecasting • Sharp executive presence and consultation and presentation skills • Extensive knowledge of global regulations including EMA regulations, ICH guidelines, and specific CMC regulatory for biologics. • Proven experience leading CMC regulatory submissions for biological products, including initial MAA submissions and post-approval lifecycle management. • Strong understanding of biologics manufacturing, characterization, comparability, and analytical testing requirements. • Excellent project management skills with the ability to manage complex projects and timelines. • Strong communication and interpersonal skills, with experience working in cross-functional and international teams</li><li>Working Conditions and Environment: • Work is performed in an office environment with exposure to electrical office equipment. • Occasional drives to site locations with occasional travel both domestic and international</li></ul></div></div>
   </div>
   <div class="card-actions">
-    <button class="action-btn action-ignore" onclick="setJobStatus(this,'ignored')">Ignore</button><button class="action-btn action-applied" onclick="setJobStatus(this,'applied')">&#10003; Applied</button>
+    <button class="action-btn action-match" onclick="setJobStatus(this,'matched')">&#8629; Back to Matched</button>
   </div>
 </div>
 
-<div class="job-card"
-     data-company="Pfizer"
-     data-score="0"
-     data-date="2026-05-27"
-     data-location="switzerland"
-     data-url="https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/Switzerland---Zurich/Medical-Affairs-Scientist-Vaccines--m-f-d-_4956694-1"
-     data-status="matched"
-     data-text="medical affairs scientist vaccines (m/f/d) pfizer phd medical affairs">
-  <div class="card-header">
-    <div class="card-left">
-      <span class="score-badge score-slate">0</span>
-      <span class="new-badge">New</span>
-      <span class="job-title">Medical Affairs Scientist Vaccines (m/f/d)</span>
-    </div>
-    <a class="open-link" href="https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/Switzerland---Zurich/Medical-Affairs-Scientist-Vaccines--m-f-d-_4956694-1" target="_blank" rel="noopener">Open ↗</a>
-  </div>
-  <div class="card-meta">
-    <span class="company">Pfizer</span>
-    <span class="location">📍 Switzerland - Zurich</span>
-    <span class="tag tag-swiss">Switzerland</span>
-    <span class="posted">Posted 2026-05-27</span>
-  </div>
-  <div class="card-keywords">
-    <span class="kw-label kw-plus">+</span><span class="kw-text">PhD  medical affairs</span>
-    &nbsp;&nbsp;
-    <span class="kw-label kw-minus">−</span><span class="kw-text">clinical operations</span>
-  </div>
-  <div class="card-desc">
-    <button class="toggle-btn" onclick="toggleDesc(this,1)">▸ Description</button>
-    <div id="desc-more-1" class="desc-structured" hidden><div class="desc-sec"><p class="desc-para">Since over 170 years Pfizer colleagues from all over the world are working together to positively impact health for everyone, everywhere. Apart from marketing over 100 products in the Swiss market, the Pfizer AG commits itself to honor scientific enlightenments with the Pfizer Research Award since 1992 as well as additional awards and partnerships. Right now, we are seeking qualified candidates to fill</p></div>
-<div class="desc-sec"><div class="desc-sh">About the Role</div><p class="desc-para">Medical Affairs Scientist (m/w/d) fixed-term position until end of March 2027 Role Purpose As a Medical Affairs Scientist in Vaccines, you act as the company’s medical-scientific ambassador to healthcare professionals, medical societies, academia and other scientific stakeholders. You lead peer-to-peer medical exchange in the field, generate and synthesize actionable insights, and translate external evidence into strategic input that advances patient outcomes, evidence generation and cross-functional decision-making. You can look forward to: Scientific leadership &amp; medical-to-medical communication Lead compliant, peer-to-peer scientific exchange in the field across priority vaccine disease areas and assets. Serve as recognized subject matter expert for HCPs, medical societies and academic partners; interpret and communicate clinical evidence, guidelines and real-world data. Identify, discuss and follow up on study concepts; evaluate emerging data and key congress outputs relevant to vaccines. Stakeholder management &amp; early external engagement Map, prioritize, and develop long-term, trust-based relationships with national and regional stakeholders, including KOLs and scientific networks. Proactively initiate collaborations and projects with external partners in line with medical strategy and unmet needs. Drive timely, needs-based early outreach and tailored scientific engagements across omni-channel formats. Strategy, insights &amp; cross-functional collaboration Plan and execute medical-scientific strategic plans for the vaccine portfolio within your specialty role. Generate, document and share high-quality medical insights to inform category/BU strategies, tactics and country plans. Clinical operations &amp; data generation Collaborate with Clinical Operations on feasibility, site identification, investigator engagement and study support as appropriate. Contribute to local evidence generation initiatives (e.g., RWE projects) in partnership with data specialists and global teams. Support medical training for field/commercial colleagues on disease areas and products, as needed. Compliance, professionalism &amp; governance Champion medical compliance and professionalism; ensure all interactions and materials adhere to applicable Codes of Practice, company SOPs and labelling. Identify and report adverse events and product complaints in line with pharmacovigilance requirements. Maintain accurate documentation of external interactions, insights and activities in approved systems. Qualifications &amp; Experience Advanced degree in Medicine, Pharmacy or Life/Health Sciences; MD/Dr. med./PhD preferred. Proven experience in Medical Affairs, clinical research or within vaccine-related therapeutic areas, with a strong preference for vaccines expertise. Deep understanding of local healthcare environment, scientific societies and policy landscape. Sound knowledge of pharmacovigilance, regulatory frameworks and promotional/non-promotional review processes. Excellent scientific communication skills, including ability to tailor complex data to diverse audiences across omni-channel formats. Strong collaboration and project management skills in matrixed, cross-functional settings. Fluency in English; proficiency in German strongly preferred. Together we represent: Breakthroughs that change patients&#x27; livesTM – At Pfizer we are a patient centric company, guided by our four values: Courage, Excellence, Equity and Joy. Our breakthrough culture lends itself to our dedication to transforming millions of lives. Learn more about Pfizer as an employer via: www.pfizer.ch Convinced? We are looking forward to your online application with all complete document (CV and Cover Letter - these as well as additional documents can be added and uploaded at the “Resume/CV” section of the “My Experience” page.) Apply today via www.pfizer.ch . Medical</p></div></div>
-  </div>
-  <div class="card-actions">
-    <button class="action-btn action-ignore" onclick="setJobStatus(this,'ignored')">Ignore</button><button class="action-btn action-applied" onclick="setJobStatus(this,'applied')">&#10003; Applied</button>
-  </div>
-</div>
-
-<div class="job-card"
-     data-company="Michael Page Switzerland"
-     data-score="-2"
-     data-date=""
-     data-location="switzerland"
-     data-url="https://www.michaelpage.ch/job-detail/sp%C3%A9cialiste-middle-office-portfolio-management-1-mois/ref/jn-052026-7018018?ng-src=other-users-applied&amp;ng-jn=job-search"
-     data-status="matched"
-     data-text="spécialiste middle office / portfolio management - mission temporaire michael page switzerland ">
-  <div class="card-header">
-    <div class="card-left">
-      <span class="score-badge score-orange">-2</span>
-      <span class="new-badge">New</span>
-      <span class="job-title">Spécialiste Middle Office / Portfolio Management - Mission Temporaire</span>
-    </div>
-    <a class="open-link" href="https://www.michaelpage.ch/job-detail/sp%C3%A9cialiste-middle-office-portfolio-management-1-mois/ref/jn-052026-7018018?ng-src=other-users-applied&amp;ng-jn=job-search" target="_blank" rel="noopener">Open ↗</a>
-  </div>
-  <div class="card-meta">
-    <span class="company">Michael Page Switzerland</span>
-    <span class="location">📍 Switzerland</span>
-    <span class="tag tag-swiss">Switzerland</span>
-    
-  </div>
-  <div class="card-keywords">
-    <span class="kw-label kw-plus">+</span><span class="kw-text">(none)</span>
-    &nbsp;&nbsp;
-    <span class="kw-label kw-minus">−</span><span class="kw-text">location:Switzerland</span>
-  </div>
-  <div class="card-desc">
-    
-    
-  </div>
-  <div class="card-actions">
-    <button class="action-btn action-ignore" onclick="setJobStatus(this,'ignored')">Ignore</button><button class="action-btn action-applied" onclick="setJobStatus(this,'applied')">&#10003; Applied</button>
-  </div>
-</div>
-    </div>
-  </div>
-
-  <!-- ── Ignored tab ── -->
-  <div id="tab-ignored" class="tab-panel">
-    <div id="ignored-list">
-      
 <div class="job-card"
      data-company="IQVIA"
      data-score="2"
@@ -705,7 +670,7 @@ a { color: inherit; text-decoration: none; }
      data-location="switzerland"
      data-url="https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Basel-Switzerland/Medical-Affairs-Project-Coordinator---Sponsor-Dedicated_R1543864"
      data-status="ignored"
-     data-text="medical affairs project coordinator - sponsor dedicated - morges iqvia french medical affairs">
+     data-text="medical affairs project coordinator - sponsor dedicated - morges iqvia medical affairs french">
   <div class="card-header">
     <div class="card-left">
       <span class="score-badge score-blue">+2</span>
@@ -721,13 +686,13 @@ a { color: inherit; text-decoration: none; }
     <span class="posted">Posted 2026-05-27</span>
   </div>
   <div class="card-keywords">
-    <span class="kw-label kw-plus">+</span><span class="kw-text">French  medical affairs</span>
+    <span class="kw-label kw-plus">+</span><span class="kw-text">medical affairs  French</span>
     &nbsp;&nbsp;
     <span class="kw-label kw-minus">−</span><span class="kw-text">(none)</span>
   </div>
   <div class="card-desc">
-    <button class="toggle-btn" onclick="toggleDesc(this,3)">▸ Description</button>
-    <div id="desc-more-3" class="desc-structured" hidden><div class="desc-sec"><p class="desc-para">Business support &amp; Project coordination for the International Medical Affairs and the Finance department. Responsabilities: Act as an Executive Assistant for the RVP, Head of International Medical Affairs &amp; the AVP, Head of International Finance Act as a business support for Medical Affairs and Finance Departments Act as the first contact of the countries &amp; business units (various requests &amp; scalations, etc.) Coordinate and arrange team/working group meetings and video conferences (agenda, timing, location, attendees, facilities, etc.) Organize business travel and appointments Provide logistics support for internal and external events Contract Management: create vendors profile, contracts online requests, generate purchase orders, DocuSign, invoicing, maintain the project tracker up to date, follow-up with Legal &amp; Finance departments / Implementation of new tools and guidelines Manage monthly accruals (follow up with agencies) and coordinate with Finance Support budget planning, tracking, and adjustments for the team as required Lead the end-to-end production of the monthly newsletter, including coordinating content with country teams and managing publication Support with the Medical Affairs SharePoint (access management, uploading meetings folders, etc.) Update and maintain various contact lists Ambassador for Medical Affairs Department Teamwork with Operations Coordinators from other functions on joint meetings and projects Act as a backup for other Operations coordinators Project coordinator for assigned projects and assist with other projects Coordinator for the Project management core team, resources, equipment, and information Implement and maintain appropriate project management processes where needed Communication and planning management Contract Management: create vendors profile, contracts online requests, generate purchase orders, DocuSign, invoicing, maintain the project tracker up to date, follow-up with Legal &amp; Finance department Be the point contact for Medical Affairs with legal for new policies or procedures applicable to Medical Affairs Work with the different stakeholders to help implement improvements/enhancements to compliance controls applicable to Medical Affairs Ensure up to date knowledge on compliance</p></div>
+    <button class="toggle-btn" onclick="toggleDesc(this,2)">▸ Description</button>
+    <div id="desc-more-2" class="desc-structured" hidden><div class="desc-sec"><p class="desc-para">Business support &amp; Project coordination for the International Medical Affairs and the Finance department. Responsabilities: Act as an Executive Assistant for the RVP, Head of International Medical Affairs &amp; the AVP, Head of International Finance Act as a business support for Medical Affairs and Finance Departments Act as the first contact of the countries &amp; business units (various requests &amp; scalations, etc.) Coordinate and arrange team/working group meetings and video conferences (agenda, timing, location, attendees, facilities, etc.) Organize business travel and appointments Provide logistics support for internal and external events Contract Management: create vendors profile, contracts online requests, generate purchase orders, DocuSign, invoicing, maintain the project tracker up to date, follow-up with Legal &amp; Finance departments / Implementation of new tools and guidelines Manage monthly accruals (follow up with agencies) and coordinate with Finance Support budget planning, tracking, and adjustments for the team as required Lead the end-to-end production of the monthly newsletter, including coordinating content with country teams and managing publication Support with the Medical Affairs SharePoint (access management, uploading meetings folders, etc.) Update and maintain various contact lists Ambassador for Medical Affairs Department Teamwork with Operations Coordinators from other functions on joint meetings and projects Act as a backup for other Operations coordinators Project coordinator for assigned projects and assist with other projects Coordinator for the Project management core team, resources, equipment, and information Implement and maintain appropriate project management processes where needed Communication and planning management Contract Management: create vendors profile, contracts online requests, generate purchase orders, DocuSign, invoicing, maintain the project tracker up to date, follow-up with Legal &amp; Finance department Be the point contact for Medical Affairs with legal for new policies or procedures applicable to Medical Affairs Work with the different stakeholders to help implement improvements/enhancements to compliance controls applicable to Medical Affairs Ensure up to date knowledge on compliance</p></div>
 <div class="desc-sec"><div class="desc-sh">requirements</div><ul class="desc-list"><li>and developments relevant to medical affairs through trainings with legal on topics of relevance and communicate within the medical affairs organization BA or equal by experience 5+ years’ experience working for a multi-national company in a similar position or equivalent Well organized, willingness to solve problems and honor deadlines, reliable, perfect communication skills and discretion &amp; ability to handle sensitive information are a must Excellent proficiency with Office software systems (Excel, Word, PowerPoint) and Outlook Fluent in English and French</li><li>German, Spanish, and/or Italian</li></ul></div>
 <div class="desc-sec"><div class="desc-sh desc-sh--optional">Good to Have</div><ul class="desc-list"><li>Hybrid - open to go frecuently to Morges offices IQVIA is a leading global provider of clinical research services, commercial insights and healthcare intelligence to the life sciences and healthcare industries</li><li>We create intelligent connections to accelerate the development and commercialization of innovative medical treatments to help improve patient outcomes and population health worldwide</li><li>Learn more at https://jobs.iqvia.com IQVIA is committed to integrity in our hiring process and maintains a zero tolerance policy for candidate fraud</li><li>All information and credentials submitted in your application must be truthful and complete</li><li>Any false statements, misrepresentations, or material omissions during the recruitment process will result in immediate disqualification of your application, or termination of employment if discovered later, in accordance with applicable law</li><li>We appreciate your honesty and professionalism</li></ul></div></div>
   </div>
@@ -743,7 +708,7 @@ a { color: inherit; text-decoration: none; }
      data-location="switzerland"
      data-url="https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/Switzerland---Baar/Medical-Science-Liaison---Respiratory_R-252691"
      data-status="ignored"
-     data-text="medical science liaison - respiratory astrazeneca french phd medical affairs">
+     data-text="medical science liaison - respiratory astrazeneca medical affairs phd french">
   <div class="card-header">
     <div class="card-left">
       <span class="score-badge score-blue">+1</span>
@@ -759,15 +724,52 @@ a { color: inherit; text-decoration: none; }
     <span class="posted">Posted 2026-05-27</span>
   </div>
   <div class="card-keywords">
-    <span class="kw-label kw-plus">+</span><span class="kw-text">French  PhD  medical affairs</span>
+    <span class="kw-label kw-plus">+</span><span class="kw-text">medical affairs  PhD  French</span>
     &nbsp;&nbsp;
     <span class="kw-label kw-minus">−</span><span class="kw-text">location:Switzerland - Baar</span>
   </div>
   <div class="card-desc">
-    <button class="toggle-btn" onclick="toggleDesc(this,4)">▸ Description</button>
-    <div id="desc-more-4" class="desc-structured" hidden><div class="desc-sec"><p class="desc-para">Medical Science Liaison – Respiratory Location: Baar, Switzerland Are you driven by a passion for field-based medical affairs? Do you want to apply your expertise and impact patients’ lives at a company that values scientific innovation and follows the evidence to develop life-changing medicines? If so, AstraZeneca invites you to explore a unique opportunity as a Medical Science Liaison in Switzerland. About AstraZeneca AstraZeneca is a global, science-led biopharmaceutical company, acknowledged for patient-centricity and for pioneering prescription medicines against some of the world’s most serious diseases. This is more than just joining a leading pharmaceutical company—you’ll be joining a team that values collaboration, innovation, and the power of science to transform the future of healthcare. What You’ll Do As a Medical Science Liaison (MSL) in the R&amp;I team, you will serve as a trusted scientific expert in the field. Your</p></div>
+    <button class="toggle-btn" onclick="toggleDesc(this,3)">▸ Description</button>
+    <div id="desc-more-3" class="desc-structured" hidden><div class="desc-sec"><p class="desc-para">Medical Science Liaison – Respiratory Location: Baar, Switzerland Are you driven by a passion for field-based medical affairs? Do you want to apply your expertise and impact patients’ lives at a company that values scientific innovation and follows the evidence to develop life-changing medicines? If so, AstraZeneca invites you to explore a unique opportunity as a Medical Science Liaison in Switzerland. About AstraZeneca AstraZeneca is a global, science-led biopharmaceutical company, acknowledged for patient-centricity and for pioneering prescription medicines against some of the world’s most serious diseases. This is more than just joining a leading pharmaceutical company—you’ll be joining a team that values collaboration, innovation, and the power of science to transform the future of healthcare. What You’ll Do As a Medical Science Liaison (MSL) in the R&amp;I team, you will serve as a trusted scientific expert in the field. Your</p></div>
 <div class="desc-sec"><div class="desc-sh">key responsibilities</div><ul class="desc-list"><li>will include: Engaging in high-level scientific exchange and building enduring peer-to-peer relationships with external experts Uncovering and communicating clinical insights and unmet medical needs in Switzerland to shape medical strategy and brand plans Collaborating with Regulatory, Market Access, Marketing, and other departments on field-related medical activities Supporting the lifecycle of respiratory compounds and leading scientific interactions for clinical research programs and externally sponsored research Representing AstraZeneca’s commitment to science and medical excellence in all external engagements Skills And Experience Professional experience in the pharmaceutical industry, ideally as an MSL or within Medical Affairs University degree in a health-related scientific field (MD, PhD or equivalent) Proficiency in German, English is essential</li><li>French and/or Italian is desirable</li><li>Solid understanding of respiratory diseases is advantageous Strong communication and presentation skills suited to diverse audiences Active driving licence for frequent field engagement</li></ul></div>
 <div class="desc-sec"><div class="desc-sh">What We Offer</div><p class="desc-para">An international, inclusive environment with abundant opportunities for learning, growth, and career development Daily opportunities to make a real impact on patient health and outcomes Close collaboration with internal and external experts, expanding your professional network A culture of empowerment, trust, and recognition for your valuable contributions Why AstraZeneca? At AstraZeneca, you are given the autonomy to challenge the boundaries of science and unleash your entrepreneurial spirit. You’ll find a diverse, collaborative culture dedicated to lifelong learning, development, and innovation. Join us on our journey to pioneer the future of healthcare and make a real difference for medicine, patients, and society. Apply today and be part of an innovative, patient-focused team shaping tomorrow’s healthcare. We look forward to receiving your application! Date Posted 27-May-2026 Closing Date 02-Jun-2026 AstraZeneca embraces diversity and equality of opportunity.  We are committed to building an inclusive and diverse team representing all backgrounds, with as wide a range of perspectives as possible, and harnessing industry-leading skills.  We believe that the more inclusive we are, the better our work will be.  We welcome and consider applications to join our team from all qualified candidates, regardless of their characteristics.  We comply with all applicable laws and regulations on non-discrimination in employment (and recruitment), as well as work authorization and employment eligibility verification requirements.</p></div></div>
+  </div>
+  <div class="card-actions">
+    <button class="action-btn action-match" onclick="setJobStatus(this,'matched')">&#8629; Back to Matched</button>
+  </div>
+</div>
+
+<div class="job-card"
+     data-company="Pfizer"
+     data-score="0"
+     data-date="2026-05-27"
+     data-location="switzerland"
+     data-url="https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/Switzerland---Zurich/Medical-Affairs-Scientist-Vaccines--m-f-d-_4956694-1"
+     data-status="ignored"
+     data-text="medical affairs scientist vaccines (m/f/d) pfizer medical affairs phd">
+  <div class="card-header">
+    <div class="card-left">
+      <span class="score-badge score-slate">0</span>
+      
+      <span class="job-title">Medical Affairs Scientist Vaccines (m/f/d)</span>
+    </div>
+    <a class="open-link" href="https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/Switzerland---Zurich/Medical-Affairs-Scientist-Vaccines--m-f-d-_4956694-1" target="_blank" rel="noopener">Open ↗</a>
+  </div>
+  <div class="card-meta">
+    <span class="company">Pfizer</span>
+    <span class="location">📍 Switzerland - Zurich</span>
+    <span class="tag tag-swiss">Switzerland</span>
+    <span class="posted">Posted 2026-05-27</span>
+  </div>
+  <div class="card-keywords">
+    <span class="kw-label kw-plus">+</span><span class="kw-text">medical affairs  PhD</span>
+    &nbsp;&nbsp;
+    <span class="kw-label kw-minus">−</span><span class="kw-text">clinical operations</span>
+  </div>
+  <div class="card-desc">
+    <button class="toggle-btn" onclick="toggleDesc(this,4)">▸ Description</button>
+    <div id="desc-more-4" class="desc-structured" hidden><div class="desc-sec"><p class="desc-para">Since over 170 years Pfizer colleagues from all over the world are working together to positively impact health for everyone, everywhere. Apart from marketing over 100 products in the Swiss market, the Pfizer AG commits itself to honor scientific enlightenments with the Pfizer Research Award since 1992 as well as additional awards and partnerships. Right now, we are seeking qualified candidates to fill</p></div>
+<div class="desc-sec"><div class="desc-sh">About the Role</div><p class="desc-para">Medical Affairs Scientist (m/w/d) fixed-term position until end of March 2027 Role Purpose As a Medical Affairs Scientist in Vaccines, you act as the company’s medical-scientific ambassador to healthcare professionals, medical societies, academia and other scientific stakeholders. You lead peer-to-peer medical exchange in the field, generate and synthesize actionable insights, and translate external evidence into strategic input that advances patient outcomes, evidence generation and cross-functional decision-making. You can look forward to: Scientific leadership &amp; medical-to-medical communication Lead compliant, peer-to-peer scientific exchange in the field across priority vaccine disease areas and assets. Serve as recognized subject matter expert for HCPs, medical societies and academic partners; interpret and communicate clinical evidence, guidelines and real-world data. Identify, discuss and follow up on study concepts; evaluate emerging data and key congress outputs relevant to vaccines. Stakeholder management &amp; early external engagement Map, prioritize, and develop long-term, trust-based relationships with national and regional stakeholders, including KOLs and scientific networks. Proactively initiate collaborations and projects with external partners in line with medical strategy and unmet needs. Drive timely, needs-based early outreach and tailored scientific engagements across omni-channel formats. Strategy, insights &amp; cross-functional collaboration Plan and execute medical-scientific strategic plans for the vaccine portfolio within your specialty role. Generate, document and share high-quality medical insights to inform category/BU strategies, tactics and country plans. Clinical operations &amp; data generation Collaborate with Clinical Operations on feasibility, site identification, investigator engagement and study support as appropriate. Contribute to local evidence generation initiatives (e.g., RWE projects) in partnership with data specialists and global teams. Support medical training for field/commercial colleagues on disease areas and products, as needed. Compliance, professionalism &amp; governance Champion medical compliance and professionalism; ensure all interactions and materials adhere to applicable Codes of Practice, company SOPs and labelling. Identify and report adverse events and product complaints in line with pharmacovigilance requirements. Maintain accurate documentation of external interactions, insights and activities in approved systems. Qualifications &amp; Experience Advanced degree in Medicine, Pharmacy or Life/Health Sciences; MD/Dr. med./PhD preferred. Proven experience in Medical Affairs, clinical research or within vaccine-related therapeutic areas, with a strong preference for vaccines expertise. Deep understanding of local healthcare environment, scientific societies and policy landscape. Sound knowledge of pharmacovigilance, regulatory frameworks and promotional/non-promotional review processes. Excellent scientific communication skills, including ability to tailor complex data to diverse audiences across omni-channel formats. Strong collaboration and project management skills in matrixed, cross-functional settings. Fluency in English; proficiency in German strongly preferred. Together we represent: Breakthroughs that change patients&#x27; livesTM – At Pfizer we are a patient centric company, guided by our four values: Courage, Excellence, Equity and Joy. Our breakthrough culture lends itself to our dedication to transforming millions of lives. Learn more about Pfizer as an employer via: www.pfizer.ch Convinced? We are looking forward to your online application with all complete document (CV and Cover Letter - these as well as additional documents can be added and uploaded at the “Resume/CV” section of the “My Experience” page.) Apply today via www.pfizer.ch . Medical</p></div></div>
   </div>
   <div class="card-actions">
     <button class="action-btn action-match" onclick="setJobStatus(this,'matched')">&#8629; Back to Matched</button>
@@ -818,7 +820,7 @@ a { color: inherit; text-decoration: none; }
      data-location="switzerland"
      data-url="https://csl.wd1.myworkdayjobs.com/CSL_External/job/EMEA-CH-Kanton-Bern-Bern-CSL-Behring/Senior-Scientist--Bioassays--m-f-x-_R-275476"
      data-status="ignored"
-     data-text="senior scientist –bioassays (m/f/x) csl behring / vifor molecular biology immunology phd assay development">
+     data-text="senior scientist –bioassays (m/f/x) csl behring / vifor immunology molecular biology assay development phd">
   <div class="card-header">
     <div class="card-left">
       <span class="score-badge score-lime">+4</span>
@@ -834,7 +836,7 @@ a { color: inherit; text-decoration: none; }
     <span class="posted">Posted 2026-05-20</span>
   </div>
   <div class="card-keywords">
-    <span class="kw-label kw-plus">+</span><span class="kw-text">molecular biology  immunology  PhD  assay development</span>
+    <span class="kw-label kw-plus">+</span><span class="kw-text">immunology  molecular biology  assay development  PhD</span>
     &nbsp;&nbsp;
     <span class="kw-label kw-minus">−</span><span class="kw-text">(none)</span>
   </div>
@@ -856,7 +858,7 @@ a { color: inherit; text-decoration: none; }
      data-location="switzerland"
      data-url="https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Basel-City/Regulatory-Affairs-Postgraduate-Program-Switzerland_REQ-10077016-1"
      data-status="ignored"
-     data-text="regulatory affairs postgraduate program switzerland novartis drug development msc phd">
+     data-text="regulatory affairs postgraduate program switzerland novartis drug development phd msc">
   <div class="card-header">
     <div class="card-left">
       <span class="score-badge score-lime">+3</span>
@@ -872,7 +874,7 @@ a { color: inherit; text-decoration: none; }
     <span class="posted">Posted 2026-05-20</span>
   </div>
   <div class="card-keywords">
-    <span class="kw-label kw-plus">+</span><span class="kw-text">drug development  MSc  PhD</span>
+    <span class="kw-label kw-plus">+</span><span class="kw-text">drug development  PhD  MSc</span>
     &nbsp;&nbsp;
     <span class="kw-label kw-minus">−</span><span class="kw-text">(none)</span>
   </div>
@@ -894,7 +896,7 @@ a { color: inherit; text-decoration: none; }
      data-location="switzerland"
      data-url="https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Basel-City/Head--Global-Medical-Affairs-Oncology_REQ-10077892"
      data-status="ignored"
-     data-text="head, global medical affairs oncology novartis drug development oncology medical affairs">
+     data-text="head, global medical affairs oncology novartis medical affairs drug development oncology">
   <div class="card-header">
     <div class="card-left">
       <span class="score-badge score-lime">+3</span>
@@ -910,7 +912,7 @@ a { color: inherit; text-decoration: none; }
     <span class="posted">Posted 2026-05-20</span>
   </div>
   <div class="card-keywords">
-    <span class="kw-label kw-plus">+</span><span class="kw-text">drug development  oncology  medical affairs</span>
+    <span class="kw-label kw-plus">+</span><span class="kw-text">medical affairs  drug development  oncology</span>
     &nbsp;&nbsp;
     <span class="kw-label kw-minus">−</span><span class="kw-text">(none)</span>
   </div>
@@ -931,7 +933,7 @@ a { color: inherit; text-decoration: none; }
      data-location="switzerland"
      data-url="https://csl.wd1.myworkdayjobs.com/CSL_External/job/EMEA-CH-Kanton-Bern-Bern-CSL-Behring/Senior-Scientist--Molecular-Characterization-and-Method-Development--w-m-d-_R-279354"
      data-status="ignored"
-     data-text="senior scientist, molecular characterization and method development (w/m/d) csl behring / vifor drug development immunology phd">
+     data-text="senior scientist, molecular characterization and method development (w/m/d) csl behring / vifor immunology drug development phd">
   <div class="card-header">
     <div class="card-left">
       <span class="score-badge score-lime">+3</span>
@@ -947,7 +949,7 @@ a { color: inherit; text-decoration: none; }
     <span class="posted">Posted 2026-05-20</span>
   </div>
   <div class="card-keywords">
-    <span class="kw-label kw-plus">+</span><span class="kw-text">drug development  immunology  PhD</span>
+    <span class="kw-label kw-plus">+</span><span class="kw-text">immunology  drug development  PhD</span>
     &nbsp;&nbsp;
     <span class="kw-label kw-minus">−</span><span class="kw-text">(none)</span>
   </div>
@@ -968,7 +970,7 @@ a { color: inherit; text-decoration: none; }
      data-location="switzerland"
      data-url="https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Basel-City/Head--Evidence-Generation_REQ-10077890"
      data-status="ignored"
-     data-text="head, evidence generation novartis drug development medical affairs">
+     data-text="head, evidence generation novartis medical affairs drug development">
   <div class="card-header">
     <div class="card-left">
       <span class="score-badge score-blue">+2</span>
@@ -984,7 +986,7 @@ a { color: inherit; text-decoration: none; }
     <span class="posted">Posted 2026-05-20</span>
   </div>
   <div class="card-keywords">
-    <span class="kw-label kw-plus">+</span><span class="kw-text">drug development  medical affairs</span>
+    <span class="kw-label kw-plus">+</span><span class="kw-text">medical affairs  drug development</span>
     &nbsp;&nbsp;
     <span class="kw-label kw-minus">−</span><span class="kw-text">(none)</span>
   </div>
@@ -1043,7 +1045,7 @@ a { color: inherit; text-decoration: none; }
      data-location="switzerland"
      data-url="https://biibhr.wd3.myworkdayjobs.com/external/job/Baar-Switzerland/Senior-Medical-Director--Nephrology--Global-Medical-Affairs_REQ23334"
      data-status="ignored"
-     data-text="senior medical director, nephrology, global medical affairs biogen phd medical affairs">
+     data-text="senior medical director, nephrology, global medical affairs biogen medical affairs phd">
   <div class="card-header">
     <div class="card-left">
       <span class="score-badge score-slate">0</span>
@@ -1059,7 +1061,7 @@ a { color: inherit; text-decoration: none; }
     <span class="posted">Posted 2026-05-20</span>
   </div>
   <div class="card-keywords">
-    <span class="kw-label kw-plus">+</span><span class="kw-text">PhD  medical affairs</span>
+    <span class="kw-label kw-plus">+</span><span class="kw-text">medical affairs  PhD</span>
     &nbsp;&nbsp;
     <span class="kw-label kw-minus">−</span><span class="kw-text">location:Baar, Switzerland</span>
   </div>
@@ -1274,7 +1276,7 @@ a { color: inherit; text-decoration: none; }
      data-location="switzerland"
      data-url="https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Discovery-Scientists--in-vitro-and-in-vivo-Pharmacology--in-Cardiovascular---Metabolic-Disease-Research_202605-111706-1"
      data-status="ignored"
-     data-text="discovery scientists, in vitro and in vivo pharmacology, in cardiovascular &amp; metabolic disease research roche in vitro phd preclinical immunology pharmacology in vivo">
+     data-text="discovery scientists, in vitro and in vivo pharmacology, in cardiovascular &amp; metabolic disease research roche in vivo phd pharmacology in vitro immunology preclinical">
   <div class="card-header">
     <div class="card-left">
       <span class="score-badge score-green">+6</span>
@@ -1290,7 +1292,7 @@ a { color: inherit; text-decoration: none; }
     <span class="posted">Posted 2026-05-08</span>
   </div>
   <div class="card-keywords">
-    <span class="kw-label kw-plus">+</span><span class="kw-text">in vitro  PhD  preclinical  immunology  pharmacology  in vivo</span>
+    <span class="kw-label kw-plus">+</span><span class="kw-text">in vivo  PhD  pharmacology  in vitro  immunology  preclinical</span>
     &nbsp;&nbsp;
     <span class="kw-label kw-minus">−</span><span class="kw-text">(none)</span>
   </div>
@@ -1313,7 +1315,7 @@ a { color: inherit; text-decoration: none; }
      data-location="switzerland"
      data-url="https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Basel-City/Research-Scientist--DNA-encoded-chemical-libraries--DEL---80-100---_REQ-10076037-1"
      data-status="ignored"
-     data-text="research scientist, dna-encoded chemical libraries (del) (80-100%*) novartis molecular biology drug discovery immunology pharmacology">
+     data-text="research scientist, dna-encoded chemical libraries (del) (80-100%*) novartis immunology molecular biology pharmacology drug discovery">
   <div class="card-header">
     <div class="card-left">
       <span class="score-badge score-lime">+4</span>
@@ -1329,7 +1331,7 @@ a { color: inherit; text-decoration: none; }
     <span class="posted">Posted 2026-05-08</span>
   </div>
   <div class="card-keywords">
-    <span class="kw-label kw-plus">+</span><span class="kw-text">molecular biology  drug discovery  immunology  pharmacology</span>
+    <span class="kw-label kw-plus">+</span><span class="kw-text">immunology  molecular biology  pharmacology  drug discovery</span>
     &nbsp;&nbsp;
     <span class="kw-label kw-minus">−</span><span class="kw-text">(none)</span>
   </div>
@@ -1352,7 +1354,7 @@ a { color: inherit; text-decoration: none; }
      data-location="switzerland"
      data-url="https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Basel-City/Medical-Director--Gastroenterology--Early-Clinical-Development_REQ-10076205-1"
      data-status="ignored"
-     data-text="medical director, gastroenterology, early clinical development novartis drug development clinical pharmacology preclinical pharmacology drug discovery translational medicine">
+     data-text="medical director, gastroenterology, early clinical development novartis drug discovery clinical pharmacology pharmacology translational medicine drug development preclinical">
   <div class="card-header">
     <div class="card-left">
       <span class="score-badge score-green">+6</span>
@@ -1368,7 +1370,7 @@ a { color: inherit; text-decoration: none; }
     <span class="posted">Posted 2026-05-07</span>
   </div>
   <div class="card-keywords">
-    <span class="kw-label kw-plus">+</span><span class="kw-text">drug development  clinical pharmacology  preclinical  pharmacology  drug discovery  translational medicine</span>
+    <span class="kw-label kw-plus">+</span><span class="kw-text">drug discovery  clinical pharmacology  pharmacology  translational medicine  drug development  preclinical</span>
     &nbsp;&nbsp;
     <span class="kw-label kw-minus">−</span><span class="kw-text">(none)</span>
   </div>
@@ -1391,7 +1393,7 @@ a { color: inherit; text-decoration: none; }
      data-location="switzerland"
      data-url="https://lilly.wd5.myworkdayjobs.com/LLY/job/Switzerland-Vernier/Medical-Affairs-Director-Switzerland_R-105412-1"
      data-status="ignored"
-     data-text="medical affairs director switzerland eli lilly french medical affairs">
+     data-text="medical affairs director switzerland eli lilly medical affairs french">
   <div class="card-header">
     <div class="card-left">
       <span class="score-badge score-orange">-2</span>
@@ -1407,9 +1409,9 @@ a { color: inherit; text-decoration: none; }
     <span class="posted">Posted 2026-05-07</span>
   </div>
   <div class="card-keywords">
-    <span class="kw-label kw-plus">+</span><span class="kw-text">French  medical affairs</span>
+    <span class="kw-label kw-plus">+</span><span class="kw-text">medical affairs  French</span>
     &nbsp;&nbsp;
-    <span class="kw-label kw-minus">−</span><span class="kw-text">location:Switzerland, Vernier  clinical operations</span>
+    <span class="kw-label kw-minus">−</span><span class="kw-text">clinical operations  location:Switzerland, Vernier</span>
   </div>
   <div class="card-desc">
     <button class="toggle-btn" onclick="toggleDesc(this,21)">▸ Description</button>
@@ -1430,7 +1432,7 @@ a { color: inherit; text-decoration: none; }
      data-location="switzerland"
      data-url="https://icon.wd3.myworkdayjobs.com/broadbean_external/job/Switzerland-Basel/Medical-Affairs-Coordinator_JR150621"
      data-status="ignored"
-     data-text="medical affairs coordinator icon plc french medical affairs">
+     data-text="medical affairs coordinator icon plc medical affairs french">
   <div class="card-header">
     <div class="card-left">
       <span class="score-badge score-blue">+2</span>
@@ -1446,7 +1448,7 @@ a { color: inherit; text-decoration: none; }
     <span class="posted">Posted 2026-05-06</span>
   </div>
   <div class="card-keywords">
-    <span class="kw-label kw-plus">+</span><span class="kw-text">French  medical affairs</span>
+    <span class="kw-label kw-plus">+</span><span class="kw-text">medical affairs  French</span>
     &nbsp;&nbsp;
     <span class="kw-label kw-minus">−</span><span class="kw-text">(none)</span>
   </div>
@@ -1469,7 +1471,7 @@ a { color: inherit; text-decoration: none; }
      data-location="switzerland"
      data-url="https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Post-Doctoral-Scientist--IHB----Computational-Immunology_202604-109696"
      data-status="ignored"
-     data-text="post doctoral scientist (ihb) - computational immunology roche in vitro postdoc scrna-seq stromal biology computational biology bioinformatics immunology postdoctoral proteomics high-dimensional data translational research spatial transcriptomics">
+     data-text="post doctoral scientist (ihb) - computational immunology roche spatial transcriptomics postdoctoral high-dimensional data proteomics in vitro scrna-seq postdoc stromal biology immunology translational research bioinformatics computational biology">
   <div class="card-header">
     <div class="card-left">
       <span class="score-badge score-green">+12</span>
@@ -1485,7 +1487,7 @@ a { color: inherit; text-decoration: none; }
     <span class="posted">Posted 2026-04-27</span>
   </div>
   <div class="card-keywords">
-    <span class="kw-label kw-plus">+</span><span class="kw-text">in vitro  Postdoc  scRNA-seq  stromal biology  computational biology  bioinformatics  immunology  postdoctoral  proteomics  high-dimensional data  translational research  spatial transcriptomics</span>
+    <span class="kw-label kw-plus">+</span><span class="kw-text">spatial transcriptomics  postdoctoral  high-dimensional data  proteomics  in vitro  scRNA-seq  Postdoc  stromal biology  immunology  translational research  bioinformatics  computational biology</span>
     &nbsp;&nbsp;
     <span class="kw-label kw-minus">−</span><span class="kw-text">(none)</span>
   </div>
@@ -1509,7 +1511,7 @@ a { color: inherit; text-decoration: none; }
      data-location="switzerland"
      data-url="https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Post-Doctorate-Scientist--IHB----In-Vitro-Modeling-Adaptive-Immunologist_202604-109694"
      data-status="ignored"
-     data-text="post doctorate scientist (ihb) - in vitro modeling adaptive immunologist roche in vitro spatial biology postdoc spectral flow cytometry computational biology immunology postdoctoral organoid high-dimensional data">
+     data-text="post doctorate scientist (ihb) - in vitro modeling adaptive immunologist roche postdoctoral organoid high-dimensional data spatial biology in vitro postdoc immunology computational biology spectral flow cytometry">
   <div class="card-header">
     <div class="card-left">
       <span class="score-badge score-green">+9</span>
@@ -1525,7 +1527,7 @@ a { color: inherit; text-decoration: none; }
     <span class="posted">Posted 2026-04-27</span>
   </div>
   <div class="card-keywords">
-    <span class="kw-label kw-plus">+</span><span class="kw-text">in vitro  spatial biology  Postdoc  spectral flow cytometry  computational biology  immunology  postdoctoral  organoid  high-dimensional data</span>
+    <span class="kw-label kw-plus">+</span><span class="kw-text">postdoctoral  organoid  high-dimensional data  spatial biology  in vitro  Postdoc  immunology  computational biology  spectral flow cytometry</span>
     &nbsp;&nbsp;
     <span class="kw-label kw-minus">−</span><span class="kw-text">(none)</span>
   </div>
@@ -1550,7 +1552,7 @@ a { color: inherit; text-decoration: none; }
      data-location="switzerland"
      data-url="https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Sr-Scientist---Computational-Biology_202603-108151-1"
      data-status="ignored"
-     data-text="sr. scientist - computational biology - neuroscience &amp; rare diseases roche phd scrna-seq computational biology bioinformatics preclinical proteomics drug discovery high-dimensional data translational research">
+     data-text="sr. scientist - computational biology - neuroscience &amp; rare diseases roche drug discovery phd high-dimensional data proteomics scrna-seq translational research bioinformatics preclinical computational biology">
   <div class="card-header">
     <div class="card-left">
       <span class="score-badge score-green">+9</span>
@@ -1566,7 +1568,7 @@ a { color: inherit; text-decoration: none; }
     <span class="posted">Posted 2026-04-27</span>
   </div>
   <div class="card-keywords">
-    <span class="kw-label kw-plus">+</span><span class="kw-text">PhD  scRNA-seq  computational biology  bioinformatics  preclinical  proteomics  drug discovery  high-dimensional data  translational research</span>
+    <span class="kw-label kw-plus">+</span><span class="kw-text">drug discovery  PhD  high-dimensional data  proteomics  scRNA-seq  translational research  bioinformatics  preclinical  computational biology</span>
     &nbsp;&nbsp;
     <span class="kw-label kw-minus">−</span><span class="kw-text">(none)</span>
   </div>
@@ -1589,7 +1591,7 @@ a { color: inherit; text-decoration: none; }
      data-location="switzerland"
      data-url="https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Computational-Biology---Oncology_202603-108158-1"
      data-status="ignored"
-     data-text="computational biology - oncology roche phd cancer biology computational biology bioinformatics genomics oncology drug discovery">
+     data-text="computational biology - oncology roche drug discovery phd oncology cancer biology bioinformatics computational biology genomics">
   <div class="card-header">
     <div class="card-left">
       <span class="score-badge score-green">+7</span>
@@ -1605,7 +1607,7 @@ a { color: inherit; text-decoration: none; }
     <span class="posted">Posted 2026-04-27</span>
   </div>
   <div class="card-keywords">
-    <span class="kw-label kw-plus">+</span><span class="kw-text">PhD  Cancer Biology  computational biology  bioinformatics  genomics  oncology  drug discovery</span>
+    <span class="kw-label kw-plus">+</span><span class="kw-text">drug discovery  PhD  oncology  Cancer Biology  bioinformatics  computational biology  genomics</span>
     &nbsp;&nbsp;
     <span class="kw-label kw-minus">−</span><span class="kw-text">(none)</span>
   </div>
@@ -1628,7 +1630,7 @@ a { color: inherit; text-decoration: none; }
      data-location="switzerland"
      data-url="https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Post-Doctorate-Scientist-in-Intestinal-Inflammation---at-the-Institute-of-Human-Biology--IHB-_202603-107400"
      data-status="ignored"
-     data-text="post doctorate scientist in intestinal inflammation - at the institute of human biology (ihb) roche in vitro phd postdoc scrna-seq immunology postdoctoral organoid">
+     data-text="post doctorate scientist in intestinal inflammation - at the institute of human biology (ihb) roche phd postdoctoral in vitro scrna-seq postdoc immunology organoid">
   <div class="card-header">
     <div class="card-left">
       <span class="score-badge score-green">+7</span>
@@ -1644,7 +1646,7 @@ a { color: inherit; text-decoration: none; }
     <span class="posted">Posted 2026-04-27</span>
   </div>
   <div class="card-keywords">
-    <span class="kw-label kw-plus">+</span><span class="kw-text">in vitro  PhD  Postdoc  scRNA-seq  immunology  postdoctoral  organoid</span>
+    <span class="kw-label kw-plus">+</span><span class="kw-text">PhD  postdoctoral  in vitro  scRNA-seq  Postdoc  immunology  organoid</span>
     &nbsp;&nbsp;
     <span class="kw-label kw-minus">−</span><span class="kw-text">(none)</span>
   </div>
@@ -1667,7 +1669,7 @@ a { color: inherit; text-decoration: none; }
      data-location="switzerland"
      data-url="https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Post-Doctorate-Scientist---Vascularized-Kidney-Organoids---at-the-Institute-of-Human-Biology--IHB-_202603-108321"
      data-status="ignored"
-     data-text="post doctorate scientist – vascularized kidney organoids - at the institute of human biology (ihb) roche phd drug development genomics organoid drug discovery">
+     data-text="post doctorate scientist – vascularized kidney organoids - at the institute of human biology (ihb) roche drug discovery phd drug development organoid genomics">
   <div class="card-header">
     <div class="card-left">
       <span class="score-badge score-lime">+5</span>
@@ -1683,7 +1685,7 @@ a { color: inherit; text-decoration: none; }
     <span class="posted">Posted 2026-04-27</span>
   </div>
   <div class="card-keywords">
-    <span class="kw-label kw-plus">+</span><span class="kw-text">PhD  drug development  genomics  organoid  drug discovery</span>
+    <span class="kw-label kw-plus">+</span><span class="kw-text">drug discovery  PhD  drug development  organoid  genomics</span>
     &nbsp;&nbsp;
     <span class="kw-label kw-minus">−</span><span class="kw-text">(none)</span>
   </div>
@@ -1707,7 +1709,7 @@ a { color: inherit; text-decoration: none; }
      data-location="switzerland"
      data-url="https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Global-Medical-Affairs-Lead-Genomic-Profiling_202604-108771"
      data-status="ignored"
-     data-text="global medical affairs lead genomic profiling roche oncology genomics phd medical affairs">
+     data-text="global medical affairs lead genomic profiling roche medical affairs oncology phd genomics">
   <div class="card-header">
     <div class="card-left">
       <span class="score-badge score-lime">+4</span>
@@ -1723,7 +1725,7 @@ a { color: inherit; text-decoration: none; }
     <span class="posted">Posted 2026-04-27</span>
   </div>
   <div class="card-keywords">
-    <span class="kw-label kw-plus">+</span><span class="kw-text">oncology  genomics  PhD  medical affairs</span>
+    <span class="kw-label kw-plus">+</span><span class="kw-text">medical affairs  oncology  PhD  genomics</span>
     &nbsp;&nbsp;
     <span class="kw-label kw-minus">−</span><span class="kw-text">(none)</span>
   </div>
@@ -1746,7 +1748,7 @@ a { color: inherit; text-decoration: none; }
      data-location="switzerland"
      data-url="https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Analytical-Molecular-Characterization-Team-Lead-and-Mass-Spectrometry-Scientist_202604-109549-1"
      data-status="ignored"
-     data-text="analytical molecular characterization team lead and mass spectrometry scientist roche preclinical msc phd">
+     data-text="analytical molecular characterization team lead and mass spectrometry scientist roche preclinical phd msc">
   <div class="card-header">
     <div class="card-left">
       <span class="score-badge score-lime">+3</span>
@@ -1762,7 +1764,7 @@ a { color: inherit; text-decoration: none; }
     <span class="posted">Posted 2026-04-27</span>
   </div>
   <div class="card-keywords">
-    <span class="kw-label kw-plus">+</span><span class="kw-text">preclinical  MSc  PhD</span>
+    <span class="kw-label kw-plus">+</span><span class="kw-text">preclinical  PhD  MSc</span>
     &nbsp;&nbsp;
     <span class="kw-label kw-minus">−</span><span class="kw-text">(none)</span>
   </div>
@@ -2013,7 +2015,7 @@ a { color: inherit; text-decoration: none; }
      data-location="romandie"
      data-url="https://job-boards.greenhouse.io/isomorphiclabs/jobs/5741351004"
      data-status="ignored"
-     data-text="team / research leader, computational drug design, london, lausanne isomorphic labs drug discovery location:lausanne phd">
+     data-text="team / research leader, computational drug design, london, lausanne isomorphic labs drug discovery phd location:lausanne">
   <div class="card-header">
     <div class="card-left">
       <span class="score-badge score-green">+6</span>
@@ -2029,7 +2031,7 @@ a { color: inherit; text-decoration: none; }
     <span class="posted">Posted 2026-03-20</span>
   </div>
   <div class="card-keywords">
-    <span class="kw-label kw-plus">+</span><span class="kw-text">drug discovery  location:lausanne  PhD</span>
+    <span class="kw-label kw-plus">+</span><span class="kw-text">drug discovery  PhD  location:lausanne</span>
     &nbsp;&nbsp;
     <span class="kw-label kw-minus">−</span><span class="kw-text">(none)</span>
   </div>
@@ -2098,7 +2100,7 @@ a { color: inherit; text-decoration: none; }
      data-location="switzerland"
      data-url="https://jobs.ashbyhq.com/benchling/fd008c7e-bb3c-495f-90f1-215915fb4f3f"
      data-status="ignored"
-     data-text="implementation manager benchling molecular biology bioinformatics immunology">
+     data-text="implementation manager benchling immunology molecular biology bioinformatics">
   <div class="card-header">
     <div class="card-left">
       <span class="score-badge score-lime">+3</span>
@@ -2114,7 +2116,7 @@ a { color: inherit; text-decoration: none; }
     <span class="posted">Posted 2026-03-11</span>
   </div>
   <div class="card-keywords">
-    <span class="kw-label kw-plus">+</span><span class="kw-text">molecular biology  bioinformatics  immunology</span>
+    <span class="kw-label kw-plus">+</span><span class="kw-text">immunology  molecular biology  bioinformatics</span>
     &nbsp;&nbsp;
     <span class="kw-label kw-minus">−</span><span class="kw-text">(none)</span>
   </div>
@@ -2217,7 +2219,7 @@ Benchling welcomes everyone</li><li>We believe diversity enriches our team so we
      data-location="romandie"
      data-url="https://jobs.smartrecruiters.com/CERN/744000080108845-non-member-state-postdoc-fellowship-programme-theoretical-physics-?oga=true"
      data-status="ignored"
-     data-text="non-member state postdoc fellowship programme (theoretical physics) cern postdoctoral postdoc location:geneva">
+     data-text="non-member state postdoc fellowship programme (theoretical physics) cern postdoc postdoctoral location:geneva">
   <div class="card-header">
     <div class="card-left">
       <span class="score-badge score-green">+6</span>
@@ -2233,7 +2235,7 @@ Benchling welcomes everyone</li><li>We believe diversity enriches our team so we
     <span class="posted">Posted 2025-09-05</span>
   </div>
   <div class="card-keywords">
-    <span class="kw-label kw-plus">+</span><span class="kw-text">postdoctoral  Postdoc  location:geneva</span>
+    <span class="kw-label kw-plus">+</span><span class="kw-text">Postdoc  postdoctoral  location:geneva</span>
     &nbsp;&nbsp;
     <span class="kw-label kw-minus">−</span><span class="kw-text">(none)</span>
   </div>
@@ -2979,42 +2981,6 @@ Benchling welcomes everyone</li><li>We believe diversity enriches our team so we
      data-score="-2"
      data-date=""
      data-location="switzerland"
-     data-url="https://www.michaelpage.ch/job-detail/sp%C3%A9cialiste-middle-office-portfolio-management-1-mois/ref/jn-052026-7018018"
-     data-status="ignored"
-     data-text="spécialiste middle office / portfolio management - mission temporaire michael page switzerland ">
-  <div class="card-header">
-    <div class="card-left">
-      <span class="score-badge score-orange">-2</span>
-      
-      <span class="job-title">Spécialiste Middle Office / Portfolio Management - Mission Temporaire</span>
-    </div>
-    <a class="open-link" href="https://www.michaelpage.ch/job-detail/sp%C3%A9cialiste-middle-office-portfolio-management-1-mois/ref/jn-052026-7018018" target="_blank" rel="noopener">Open ↗</a>
-  </div>
-  <div class="card-meta">
-    <span class="company">Michael Page Switzerland</span>
-    <span class="location">📍 Switzerland</span>
-    <span class="tag tag-swiss">Switzerland</span>
-    
-  </div>
-  <div class="card-keywords">
-    <span class="kw-label kw-plus">+</span><span class="kw-text">(none)</span>
-    &nbsp;&nbsp;
-    <span class="kw-label kw-minus">−</span><span class="kw-text">location:Switzerland</span>
-  </div>
-  <div class="card-desc">
-    
-    
-  </div>
-  <div class="card-actions">
-    <button class="action-btn action-match" onclick="setJobStatus(this,'matched')">&#8629; Back to Matched</button>
-  </div>
-</div>
-
-<div class="job-card"
-     data-company="Michael Page Switzerland"
-     data-score="-2"
-     data-date=""
-     data-location="switzerland"
      data-url="https://www.michaelpage.ch/de/job-detail/business-development-specialist-100/ref/jn-032026-6968386?lang=en"
      data-status="ignored"
      data-text="business development specialist (a) 100% michael page switzerland ">
@@ -3167,7 +3133,7 @@ Benchling welcomes everyone</li><li>We believe diversity enriches our team so we
      data-location="switzerland"
      data-url="https://jobs.ashbyhq.com/benchling/33b3deda-15df-442f-be7f-c01552906791"
      data-status="applied"
-     data-text="implementation manager - bilingual (english/french) benchling bilingual bioinformatics immunology molecular biology french">
+     data-text="implementation manager - bilingual (english/french) benchling french bilingual immunology molecular biology bioinformatics">
   <div class="card-header">
     <div class="card-left">
       <span class="score-badge score-lime">+5</span>
@@ -3183,13 +3149,13 @@ Benchling welcomes everyone</li><li>We believe diversity enriches our team so we
     <span class="posted">Posted 2026-03-17</span>
   </div>
   <div class="card-keywords">
-    <span class="kw-label kw-plus">+</span><span class="kw-text">bilingual  bioinformatics  immunology  molecular biology  French</span>
+    <span class="kw-label kw-plus">+</span><span class="kw-text">French  bilingual  immunology  molecular biology  bioinformatics</span>
     &nbsp;&nbsp;
     <span class="kw-label kw-minus">−</span><span class="kw-text">(none)</span>
   </div>
   <div class="card-desc">
-    <button class="toggle-btn" onclick="toggleDesc(this,65)">▸ Description</button>
-    <div id="desc-more-65" class="desc-structured" hidden><div class="desc-sec"><p class="desc-para">Biotechnology is rewriting life as we know it, from the medicines we take, to the crops we grow, the materials we wear, and the household goods that we rely on every day. But moving at the new speed of science requires better technology.
+    <button class="toggle-btn" onclick="toggleDesc(this,64)">▸ Description</button>
+    <div id="desc-more-64" class="desc-structured" hidden><div class="desc-sec"><p class="desc-para">Biotechnology is rewriting life as we know it, from the medicines we take, to the crops we grow, the materials we wear, and the household goods that we rely on every day. But moving at the new speed of science requires better technology.
 
 Benchling’s mission is to unlock the power of biotechnology. The world’s most innovative biotech companies use Benchling’s R&amp;D Cloud to power the development of breakthrough products and accelerate time to milestone and market.
 
@@ -3286,7 +3252,7 @@ Benchling welcomes everyone</li><li>We believe diversity enriches our team so we
      data-location="romandie"
      data-url="https://jobdetails.nestle.com/job/Lausanne-Foresight-and-Scientific-Intelligence-Analyst/1380277933/"
      data-status="applied"
-     data-text="foresight and scientific intelligence analyst nestlé location:lausanne phd">
+     data-text="foresight and scientific intelligence analyst nestlé phd location:lausanne">
   <div class="card-header">
     <div class="card-left">
       <span class="score-badge score-lime">+5</span>
@@ -3302,13 +3268,13 @@ Benchling welcomes everyone</li><li>We believe diversity enriches our team so we
     
   </div>
   <div class="card-keywords">
-    <span class="kw-label kw-plus">+</span><span class="kw-text">location:lausanne  PhD</span>
+    <span class="kw-label kw-plus">+</span><span class="kw-text">PhD  location:lausanne</span>
     &nbsp;&nbsp;
     <span class="kw-label kw-minus">−</span><span class="kw-text">(none)</span>
   </div>
   <div class="card-desc">
-    <button class="toggle-btn" onclick="toggleDesc(this,66)">▸ Description</button>
-    <div id="desc-more-66" class="desc-structured" hidden><div class="desc-sec"><p class="desc-para">Nestlé Institute of Strategic Research Operations Welcome to Nestlé Research, a global organization, with most of our passionate team located in Lausanne, Switzerland! Our work is powered by five specialized Nestlé Institutes and key strategic units. Here, we embrace fresh thinking and collaborate to create amazing solutions. How about taking a step inside our organization and discover the exciting research activities and expertise that drive us forward? Want to learn more ! At Nestlé Research, we place people at the core of everything we do, driven by a passion for innovation that inspires us to embrace change. Our commitment to staying at the forefront of science allows us to make a meaningful impact on our world , fostering a culture of creativity and growth . Join us in our mission to inspire people and ignite innovation as we work together to shape a better future. Position Snapshot: Your opportunity to #breakthrough with us! Location: Nestlé Research, Lausanne, Switzerland Institute: Nestlé Institute of Strategic Research Operations Company: Société des Produits Nestlé S.A. Act. Rate: Full-Time Act. Rate 100% Type of contract: Permanent contract</p></div>
+    <button class="toggle-btn" onclick="toggleDesc(this,65)">▸ Description</button>
+    <div id="desc-more-65" class="desc-structured" hidden><div class="desc-sec"><p class="desc-para">Nestlé Institute of Strategic Research Operations Welcome to Nestlé Research, a global organization, with most of our passionate team located in Lausanne, Switzerland! Our work is powered by five specialized Nestlé Institutes and key strategic units. Here, we embrace fresh thinking and collaborate to create amazing solutions. How about taking a step inside our organization and discover the exciting research activities and expertise that drive us forward? Want to learn more ! At Nestlé Research, we place people at the core of everything we do, driven by a passion for innovation that inspires us to embrace change. Our commitment to staying at the forefront of science allows us to make a meaningful impact on our world , fostering a culture of creativity and growth . Join us in our mission to inspire people and ignite innovation as we work together to shape a better future. Position Snapshot: Your opportunity to #breakthrough with us! Location: Nestlé Research, Lausanne, Switzerland Institute: Nestlé Institute of Strategic Research Operations Company: Société des Produits Nestlé S.A. Act. Rate: Full-Time Act. Rate 100% Type of contract: Permanent contract</p></div>
 <div class="desc-sec"><div class="desc-sh">What we offer</div><p class="desc-para">at Nestlé Exciting opportunities to develop your career your way Flexible working arrangements - facilitating creativity and collaboration. A culture of respect, with diversity, equity and inclusion at its core. A dynamic international environment empowering you to learn, develop and grow. Don’t hesitate to connect with us during the recruitment process to learn more</p></div>
 <div class="desc-sec"><div class="desc-sh">About the Role</div><p class="desc-para">As a Foresight and Scientific Intelligence Analyst you will be responsible for shaping and managing Nestlé’s scientific information ecosystem while delivering research outputs for scientific foresight and scientific intelligence insights to support strategic decision-making. In this role, you will ensure high-quality access to scientific publications across the entire Nestlé R&amp;D, NHS, and Purina Petcare. This encompasses contractual relationships with major publishing houses, service providers for subscription management and document delivery. Further to that you will lead intelligence for scientific foresight, scientific landscaping and intelligence with the purpose to keep track of emerging scientific trends, to identify potential future collaboration partners and ecosystems. Further to that you work closely with scientists, IT, procurement, legal functions and external partners, and contribute to future-proofing Nestlé’s scientific intelligence capabilities and informing mid- to long-term research, innovation, and partnership strategies. A Day in the Life of a Foresight and Scientific Intelligence Analyst Manage scientific publication services and subscriptions supporting global Nestlé research and innovation communities. Collaborate with external publishers and providers to optimize databases, platforms, and document delivery solutions. Perform global usage analyses and define strategies to adapt the scientific subscription portfolio. Monitor scientific publication markets to identify future-proof opportunities and system evolution needs. Develop and apply foresight and scientific intelligence methodologies across emerging science and technologies. Analyze scientific trends, key researchers, and collaboration networks to inform research priorities. Conduct competitive and benchmark analyses on external R&amp;D pipelines, partnerships, and IP strategies. Deliver clear intelligence briefs and partnership insights to senior leadership and stakeholders. What Will Make You Successful Advanced degree in engineering, life sciences, information science, data science, or a related scientific field. A PhD degree is of interest but not required. Willingness to get professional and proficient in scientific information management, intelligence, foresight, or research analytics. Strong analytical, synthesis, and communication skills with ability to translate data into clear recommendations. Ability to collaborate effectively across multidisciplinary and international stakeholder groups. Experience working with scientific databases, publication platforms, and external service providers. Strategic mindset with curiosity for emerging science, technology trends, and competitive landscapes. Fluency in English. Additional languages are an advantage. Exciting Opportunity Ahead! After submitting your application, you will receive an invitation to create a short video introduction, guided by a few specific questions. This is your chance to showcase your personality and passion. We kindly ask that you submit your video within 7 days of your application to ensure we can assess</p></div>
 <div class="desc-sec"><div class="desc-sh">Requirements</div><ul class="desc-list"><li>Please note that if this step is not completed within the specified time, we will assume you have chosen to withdraw your application, Nestlé is committed to the accessibility of its recruitment process</li><li>If you require an adaptation during the recruitment process, please do let us know so we can support you effectively</li><li>All information will be treated confidentially</li><li>At Nestlé, we want to help shape a better and healthier world, inspire people to live healthier lives and deliver impact at a scale and pace that makes a difference</li><li>We do this by fostering a diverse, friendly, supportive, and collaborative environment, that creates positive disruption, embraces innovation, and empowers people and teams to win</li><li>We aim to hire friendly, respectful, inspiring people who care about the people’s lives that we touch every single day</li><li>Be a force for good</li><li>Join Nestlé and visit us on www.nestle.com </li></ul></div></div>
@@ -3427,77 +3393,77 @@ Benchling welcomes everyone</li><li>We believe diversity enriches our team so we
       </thead>
       <tbody id="co-tbody">
         <tr class="co-row" data-name="+nd capital" data-type=""><td class="co-name">+ND Capital</td><td></td><td><span class="ats-badge" style="background:#1f2937;color:#9ca3af">generic</span></td><td class="co-url">https://nd.capital/</td><td><a class="open-link" href="https://nd.capital/" target="_blank" rel="noopener">Visit ↗</a></td></tr>
-<tr class="co-row" data-name="10x genomics" data-type="life science tools"><td class="co-name">10x Genomics</td><td><span class="ats-badge" style="background:#1a2e05;color:#84cc16">Life Science Tools</span></td><td><span class="ats-badge" style="background:#14532d;color:#86efac">greenhouse</span></td><td class="co-url">https://boards.greenhouse.io/10xgenomics</td><td><a class="open-link" href="https://boards.greenhouse.io/10xgenomics" target="_blank" rel="noopener">Visit ↗</a></td></tr>
-<tr class="co-row" data-name="abbmira therapeutics" data-type=""><td class="co-name">Abbmira Therapeutics</td><td></td><td><span class="ats-badge" style="background:#14532d;color:#86efac">greenhouse</span></td><td class="co-url">https://boards.greenhouse.io/abbmira</td><td><a class="open-link" href="https://boards.greenhouse.io/abbmira" target="_blank" rel="noopener">Visit ↗</a></td></tr>
+<tr class="co-row" data-name="10x genomics" data-type="life science tools"><td class="co-name">10x Genomics</td><td><span class="ats-badge" style="background:#1a2e05;color:#84cc16">Life Science Tools</span></td><td><span class="ats-badge" style="background:#14532d;color:#86efac">greenhouse</span></td><td class="co-url">https://job-boards.greenhouse.io/10xgenomics</td><td><a class="open-link" href="https://job-boards.greenhouse.io/10xgenomics" target="_blank" rel="noopener">Visit ↗</a></td></tr>
+<tr class="co-row" data-name="abbmira therapeutics" data-type=""><td class="co-name">Abbmira Therapeutics</td><td></td><td><span class="ats-badge" style="background:#14532d;color:#86efac">greenhouse</span></td><td class="co-url">https://job-boards.greenhouse.io/abbmira</td><td><a class="open-link" href="https://job-boards.greenhouse.io/abbmira" target="_blank" rel="noopener">Visit ↗</a></td></tr>
 <tr class="co-row" data-name="abbott" data-type="big pharma"><td class="co-name">Abbott</td><td><span class="ats-badge" style="background:#1e3a5f;color:#60a5fa">Big Pharma</span></td><td><span class="ats-badge" style="background:#1e1b4b;color:#a5b4fc">workday</span></td><td class="co-url">https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers</td><td><a class="open-link" href="https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers" target="_blank" rel="noopener">Visit ↗</a></td></tr>
 <tr class="co-row" data-name="abbvie" data-type="big pharma"><td class="co-name">AbbVie</td><td><span class="ats-badge" style="background:#1e3a5f;color:#60a5fa">Big Pharma</span></td><td><span class="ats-badge" style="background:#0c2340;color:#38bdf8">smartrecruiters</span></td><td class="co-url">https://careers.smartrecruiters.com/AbbVie</td><td><a class="open-link" href="https://careers.smartrecruiters.com/AbbVie" target="_blank" rel="noopener">Visit ↗</a></td></tr>
 <tr class="co-row" data-name="abcdx" data-type="ai / data"><td class="co-name">ABCDx</td><td><span class="ats-badge" style="background:#4c0519;color:#f87171">AI / Data</span></td><td><span class="ats-badge" style="background:#1f2937;color:#9ca3af">generic</span></td><td class="co-url">https://www.abcdx.ch/</td><td><a class="open-link" href="https://www.abcdx.ch/" target="_blank" rel="noopener">Visit ↗</a></td></tr>
 <tr class="co-row" data-name="ac immune" data-type="biotech"><td class="co-name">AC Immune</td><td><span class="ats-badge" style="background:#14532d;color:#4ade80">Biotech</span></td><td><span class="ats-badge" style="background:#1f2937;color:#9ca3af">generic</span></td><td class="co-url">https://www.acimmune.com/careers/</td><td><a class="open-link" href="https://www.acimmune.com/careers/" target="_blank" rel="noopener">Visit ↗</a></td></tr>
 <tr class="co-row" data-name="adc therapeutics" data-type="biotech"><td class="co-name">ADC Therapeutics</td><td><span class="ats-badge" style="background:#14532d;color:#4ade80">Biotech</span></td><td><span class="ats-badge" style="background:#1e3a5f;color:#93c5fd">paylocity</span></td><td class="co-url">https://recruiting.paylocity.com/recruiting/jobs/All/8759d8d9-b6f5-49b5-b817-f3c4f69a25ed/ADC-Therapeutics-America-Inc</td><td><a class="open-link" href="https://recruiting.paylocity.com/recruiting/jobs/All/8759d8d9-b6f5-49b5-b817-f3c4f69a25ed/ADC-Therapeutics-America-Inc" target="_blank" rel="noopener">Visit ↗</a></td></tr>
-<tr class="co-row" data-name="adularia ag" data-type=""><td class="co-name">Adularia AG</td><td></td><td><span class="ats-badge" style="background:#14532d;color:#86efac">greenhouse</span></td><td class="co-url">https://boards.greenhouse.io/adularia</td><td><a class="open-link" href="https://boards.greenhouse.io/adularia" target="_blank" rel="noopener">Visit ↗</a></td></tr>
+<tr class="co-row" data-name="adularia ag" data-type=""><td class="co-name">Adularia AG</td><td></td><td><span class="ats-badge" style="background:#14532d;color:#86efac">greenhouse</span></td><td class="co-url">https://job-boards.greenhouse.io/adularia</td><td><a class="open-link" href="https://job-boards.greenhouse.io/adularia" target="_blank" rel="noopener">Visit ↗</a></td></tr>
 <tr class="co-row" data-name="agilent technologies" data-type="life science tools"><td class="co-name">Agilent Technologies</td><td><span class="ats-badge" style="background:#1a2e05;color:#84cc16">Life Science Tools</span></td><td><span class="ats-badge" style="background:#1e1b4b;color:#a5b4fc">workday</span></td><td class="co-url">https://agilent.wd5.myworkdayjobs.com/en-US/Agilent_Careers</td><td><a class="open-link" href="https://agilent.wd5.myworkdayjobs.com/en-US/Agilent_Careers" target="_blank" rel="noopener">Visit ↗</a></td></tr>
 <tr class="co-row" data-name="alcon" data-type="medical devices"><td class="co-name">Alcon</td><td><span class="ats-badge" style="background:#3b0764;color:#c084fc">Medical Devices</span></td><td><span class="ats-badge" style="background:#1e1b4b;color:#a5b4fc">workday</span></td><td class="co-url">https://alcon.wd5.myworkdayjobs.com/en-US/careers_alcon</td><td><a class="open-link" href="https://alcon.wd5.myworkdayjobs.com/en-US/careers_alcon" target="_blank" rel="noopener">Visit ↗</a></td></tr>
 <tr class="co-row" data-name="alec allan" data-type=""><td class="co-name">Alec Allan</td><td></td><td><span class="ats-badge" style="background:#0f172a;color:#7dd3fc">alecallan</span></td><td class="co-url">https://www.alecallan.com/our-job-offers/?lang=en</td><td><a class="open-link" href="https://www.alecallan.com/our-job-offers/?lang=en" target="_blank" rel="noopener">Visit ↗</a></td></tr>
 <tr class="co-row" data-name="alira health" data-type="cro"><td class="co-name">Alira Health</td><td><span class="ats-badge" style="background:#451a03;color:#fb923c">CRO</span></td><td><span class="ats-badge" style="background:#1e1b4b;color:#a5b4fc">workday</span></td><td class="co-url">https://alirahealth.wd3.myworkdayjobs.com/en-US/AliraHealth</td><td><a class="open-link" href="https://alirahealth.wd3.myworkdayjobs.com/en-US/AliraHealth" target="_blank" rel="noopener">Visit ↗</a></td></tr>
 <tr class="co-row" data-name="alivedx" data-type=""><td class="co-name">AliveDx</td><td></td><td><span class="ats-badge" style="background:#1f2937;color:#9ca3af">generic</span></td><td class="co-url">https://jobs.alivedx.com/search/</td><td><a class="open-link" href="https://jobs.alivedx.com/search/" target="_blank" rel="noopener">Visit ↗</a></td></tr>
-<tr class="co-row" data-name="allegria therapeutics" data-type=""><td class="co-name">Allegria Therapeutics</td><td></td><td><span class="ats-badge" style="background:#14532d;color:#86efac">greenhouse</span></td><td class="co-url">https://boards.greenhouse.io/allegria</td><td><a class="open-link" href="https://boards.greenhouse.io/allegria" target="_blank" rel="noopener">Visit ↗</a></td></tr>
-<tr class="co-row" data-name="allocyte pharmaceuticals" data-type=""><td class="co-name">AlloCyte Pharmaceuticals</td><td></td><td><span class="ats-badge" style="background:#14532d;color:#86efac">greenhouse</span></td><td class="co-url">https://boards.greenhouse.io/allocyte</td><td><a class="open-link" href="https://boards.greenhouse.io/allocyte" target="_blank" rel="noopener">Visit ↗</a></td></tr>
-<tr class="co-row" data-name="altamira therapeutics" data-type=""><td class="co-name">Altamira Therapeutics</td><td></td><td><span class="ats-badge" style="background:#14532d;color:#86efac">greenhouse</span></td><td class="co-url">https://boards.greenhouse.io/altamira</td><td><a class="open-link" href="https://boards.greenhouse.io/altamira" target="_blank" rel="noopener">Visit ↗</a></td></tr>
+<tr class="co-row" data-name="allegria therapeutics" data-type=""><td class="co-name">Allegria Therapeutics</td><td></td><td><span class="ats-badge" style="background:#14532d;color:#86efac">greenhouse</span></td><td class="co-url">https://job-boards.greenhouse.io/allegria</td><td><a class="open-link" href="https://job-boards.greenhouse.io/allegria" target="_blank" rel="noopener">Visit ↗</a></td></tr>
+<tr class="co-row" data-name="allocyte pharmaceuticals" data-type=""><td class="co-name">AlloCyte Pharmaceuticals</td><td></td><td><span class="ats-badge" style="background:#14532d;color:#86efac">greenhouse</span></td><td class="co-url">https://job-boards.greenhouse.io/allocyte</td><td><a class="open-link" href="https://job-boards.greenhouse.io/allocyte" target="_blank" rel="noopener">Visit ↗</a></td></tr>
+<tr class="co-row" data-name="altamira therapeutics" data-type=""><td class="co-name">Altamira Therapeutics</td><td></td><td><span class="ats-badge" style="background:#14532d;color:#86efac">greenhouse</span></td><td class="co-url">https://job-boards.greenhouse.io/altamira</td><td><a class="open-link" href="https://job-boards.greenhouse.io/altamira" target="_blank" rel="noopener">Visit ↗</a></td></tr>
 <tr class="co-row" data-name="amgen" data-type="big pharma"><td class="co-name">Amgen</td><td><span class="ats-badge" style="background:#1e3a5f;color:#60a5fa">Big Pharma</span></td><td><span class="ats-badge" style="background:#1e1b4b;color:#a5b4fc">workday</span></td><td class="co-url">https://amgen.wd1.myworkdayjobs.com/en-US/Careers</td><td><a class="open-link" href="https://amgen.wd1.myworkdayjobs.com/en-US/Careers" target="_blank" rel="noopener">Visit ↗</a></td></tr>
-<tr class="co-row" data-name="amphilix ag" data-type=""><td class="co-name">Amphilix AG</td><td></td><td><span class="ats-badge" style="background:#14532d;color:#86efac">greenhouse</span></td><td class="co-url">https://boards.greenhouse.io/amphilix</td><td><a class="open-link" href="https://boards.greenhouse.io/amphilix" target="_blank" rel="noopener">Visit ↗</a></td></tr>
-<tr class="co-row" data-name="anaveon" data-type=""><td class="co-name">Anaveon</td><td></td><td><span class="ats-badge" style="background:#14532d;color:#86efac">greenhouse</span></td><td class="co-url">https://boards.greenhouse.io/anaveon</td><td><a class="open-link" href="https://boards.greenhouse.io/anaveon" target="_blank" rel="noopener">Visit ↗</a></td></tr>
+<tr class="co-row" data-name="amphilix ag" data-type=""><td class="co-name">Amphilix AG</td><td></td><td><span class="ats-badge" style="background:#14532d;color:#86efac">greenhouse</span></td><td class="co-url">https://job-boards.greenhouse.io/amphilix</td><td><a class="open-link" href="https://job-boards.greenhouse.io/amphilix" target="_blank" rel="noopener">Visit ↗</a></td></tr>
+<tr class="co-row" data-name="anaveon" data-type=""><td class="co-name">Anaveon</td><td></td><td><span class="ats-badge" style="background:#14532d;color:#86efac">greenhouse</span></td><td class="co-url">https://job-boards.greenhouse.io/anaveon</td><td><a class="open-link" href="https://job-boards.greenhouse.io/anaveon" target="_blank" rel="noopener">Visit ↗</a></td></tr>
 <tr class="co-row" data-name="araris biotech" data-type="biotech"><td class="co-name">Araris Biotech</td><td><span class="ats-badge" style="background:#14532d;color:#4ade80">Biotech</span></td><td><span class="ats-badge" style="background:#1f2937;color:#9ca3af">generic</span></td><td class="co-url">https://www.ararisbiotech.com/#jobs</td><td><a class="open-link" href="https://www.ararisbiotech.com/#jobs" target="_blank" rel="noopener">Visit ↗</a></td></tr>
-<tr class="co-row" data-name="artbio" data-type=""><td class="co-name">ARTBIO</td><td></td><td><span class="ats-badge" style="background:#14532d;color:#86efac">greenhouse</span></td><td class="co-url">https://boards.greenhouse.io/artbio</td><td><a class="open-link" href="https://boards.greenhouse.io/artbio" target="_blank" rel="noopener">Visit ↗</a></td></tr>
-<tr class="co-row" data-name="artidis" data-type=""><td class="co-name">Artidis</td><td></td><td><span class="ats-badge" style="background:#14532d;color:#86efac">greenhouse</span></td><td class="co-url">https://boards.greenhouse.io/artidis</td><td><a class="open-link" href="https://boards.greenhouse.io/artidis" target="_blank" rel="noopener">Visit ↗</a></td></tr>
+<tr class="co-row" data-name="artbio" data-type=""><td class="co-name">ARTBIO</td><td></td><td><span class="ats-badge" style="background:#14532d;color:#86efac">greenhouse</span></td><td class="co-url">https://job-boards.greenhouse.io/artbio</td><td><a class="open-link" href="https://job-boards.greenhouse.io/artbio" target="_blank" rel="noopener">Visit ↗</a></td></tr>
+<tr class="co-row" data-name="artidis" data-type=""><td class="co-name">Artidis</td><td></td><td><span class="ats-badge" style="background:#14532d;color:#86efac">greenhouse</span></td><td class="co-url">https://job-boards.greenhouse.io/artidis</td><td><a class="open-link" href="https://job-boards.greenhouse.io/artidis" target="_blank" rel="noopener">Visit ↗</a></td></tr>
 <tr class="co-row" data-name="astrazeneca" data-type="big pharma"><td class="co-name">AstraZeneca</td><td><span class="ats-badge" style="background:#1e3a5f;color:#60a5fa">Big Pharma</span></td><td><span class="ats-badge" style="background:#1e1b4b;color:#a5b4fc">workday</span></td><td class="co-url">https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers</td><td><a class="open-link" href="https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers" target="_blank" rel="noopener">Visit ↗</a></td></tr>
-<tr class="co-row" data-name="aukera therapeutics" data-type=""><td class="co-name">Aukera Therapeutics</td><td></td><td><span class="ats-badge" style="background:#14532d;color:#86efac">greenhouse</span></td><td class="co-url">https://boards.greenhouse.io/aukeratherapeutics</td><td><a class="open-link" href="https://boards.greenhouse.io/aukeratherapeutics" target="_blank" rel="noopener">Visit ↗</a></td></tr>
+<tr class="co-row" data-name="aukera therapeutics" data-type=""><td class="co-name">Aukera Therapeutics</td><td></td><td><span class="ats-badge" style="background:#14532d;color:#86efac">greenhouse</span></td><td class="co-url">https://job-boards.greenhouse.io/aukeratherapeutics</td><td><a class="open-link" href="https://job-boards.greenhouse.io/aukeratherapeutics" target="_blank" rel="noopener">Visit ↗</a></td></tr>
 <tr class="co-row" data-name="basilea pharmaceutica" data-type="specialty pharma"><td class="co-name">Basilea Pharmaceutica</td><td><span class="ats-badge" style="background:#1e1b4b;color:#a5b4fc">Specialty Pharma</span></td><td><span class="ats-badge" style="background:#1f2937;color:#9ca3af">personio</span></td><td class="co-url"></td><td><span style="color:#4b5563">—</span></td></tr>
 <tr class="co-row" data-name="bayer" data-type="big pharma"><td class="co-name">Bayer</td><td><span class="ats-badge" style="background:#1e3a5f;color:#60a5fa">Big Pharma</span></td><td><span class="ats-badge" style="background:#78350f;color:#fcd34d">successfactors</span></td><td class="co-url">https://jobs.bayer.com</td><td><a class="open-link" href="https://jobs.bayer.com" target="_blank" rel="noopener">Visit ↗</a></td></tr>
 <tr class="co-row" data-name="bc platforms" data-type="ai / data"><td class="co-name">BC Platforms</td><td><span class="ats-badge" style="background:#4c0519;color:#f87171">AI / Data</span></td><td><span class="ats-badge" style="background:#1f2937;color:#9ca3af">generic</span></td><td class="co-url">https://careers.bcplatforms.com</td><td><a class="open-link" href="https://careers.bcplatforms.com" target="_blank" rel="noopener">Visit ↗</a></td></tr>
 <tr class="co-row" data-name="beigene" data-type="biotech"><td class="co-name">BeiGene</td><td><span class="ats-badge" style="background:#14532d;color:#4ade80">Biotech</span></td><td><span class="ats-badge" style="background:#1e1b4b;color:#a5b4fc">workday</span></td><td class="co-url">https://beigene.wd5.myworkdayjobs.com/en-US/BeiGene</td><td><a class="open-link" href="https://beigene.wd5.myworkdayjobs.com/en-US/BeiGene" target="_blank" rel="noopener">Visit ↗</a></td></tr>
 <tr class="co-row" data-name="benchling" data-type="tech / saas"><td class="co-name">Benchling</td><td><span class="ats-badge" style="background:#312e81;color:#818cf8">Tech / SaaS</span></td><td><span class="ats-badge" style="background:#1f2937;color:#9ca3af">ashby</span></td><td class="co-url">https://jobs.ashbyhq.com/benchling</td><td><a class="open-link" href="https://jobs.ashbyhq.com/benchling" target="_blank" rel="noopener">Visit ↗</a></td></tr>
-<tr class="co-row" data-name="beone medicines" data-type=""><td class="co-name">BeOne Medicines</td><td></td><td><span class="ats-badge" style="background:#14532d;color:#86efac">greenhouse</span></td><td class="co-url">https://boards.greenhouse.io/beonemedicines</td><td><a class="open-link" href="https://boards.greenhouse.io/beonemedicines" target="_blank" rel="noopener">Visit ↗</a></td></tr>
+<tr class="co-row" data-name="beone medicines" data-type=""><td class="co-name">BeOne Medicines</td><td></td><td><span class="ats-badge" style="background:#14532d;color:#86efac">greenhouse</span></td><td class="co-url">https://job-boards.greenhouse.io/beonemedicines</td><td><a class="open-link" href="https://job-boards.greenhouse.io/beonemedicines" target="_blank" rel="noopener">Visit ↗</a></td></tr>
 <tr class="co-row" data-name="bio-rad" data-type="life science tools"><td class="co-name">Bio-Rad</td><td><span class="ats-badge" style="background:#1a2e05;color:#84cc16">Life Science Tools</span></td><td><span class="ats-badge" style="background:#1f2937;color:#9ca3af">generic</span></td><td class="co-url">https://careers.bio-rad.com/homepage</td><td><a class="open-link" href="https://careers.bio-rad.com/homepage" target="_blank" rel="noopener">Visit ↗</a></td></tr>
 <tr class="co-row" data-name="bio-techne / lunaphore" data-type="life science tools"><td class="co-name">Bio-Techne / Lunaphore</td><td><span class="ats-badge" style="background:#1a2e05;color:#84cc16">Life Science Tools</span></td><td><span class="ats-badge" style="background:#1e1b4b;color:#a5b4fc">workday</span></td><td class="co-url">https://biotechne.wd5.myworkdayjobs.com/en-US/Biotechne</td><td><a class="open-link" href="https://biotechne.wd5.myworkdayjobs.com/en-US/Biotechne" target="_blank" rel="noopener">Visit ↗</a></td></tr>
 <tr class="co-row" data-name="biogen" data-type="big pharma"><td class="co-name">Biogen</td><td><span class="ats-badge" style="background:#1e3a5f;color:#60a5fa">Big Pharma</span></td><td><span class="ats-badge" style="background:#1e1b4b;color:#a5b4fc">workday</span></td><td class="co-url">https://biibhr.wd3.myworkdayjobs.com/en-US/external</td><td><a class="open-link" href="https://biibhr.wd3.myworkdayjobs.com/en-US/external" target="_blank" rel="noopener">Visit ↗</a></td></tr>
 <tr class="co-row" data-name="biognosys" data-type="life science tools"><td class="co-name">Biognosys</td><td><span class="ats-badge" style="background:#1a2e05;color:#84cc16">Life Science Tools</span></td><td><span class="ats-badge" style="background:#1f2937;color:#9ca3af">generic</span></td><td class="co-url">https://biognosys.com/careers/</td><td><a class="open-link" href="https://biognosys.com/careers/" target="_blank" rel="noopener">Visit ↗</a></td></tr>
 <tr class="co-row" data-name="biolizard" data-type="cro"><td class="co-name">BioLizard</td><td><span class="ats-badge" style="background:#451a03;color:#fb923c">CRO</span></td><td><span class="ats-badge" style="background:#1f2937;color:#9ca3af">generic</span></td><td class="co-url">https://lizard.bio/careers/</td><td><a class="open-link" href="https://lizard.bio/careers/" target="_blank" rel="noopener">Visit ↗</a></td></tr>
 <tr class="co-row" data-name="biontech" data-type="biotech"><td class="co-name">BioNTech</td><td><span class="ats-badge" style="background:#14532d;color:#4ade80">Biotech</span></td><td><span class="ats-badge" style="background:#78350f;color:#fcd34d">successfactors</span></td><td class="co-url">https://jobs.biontech.com</td><td><a class="open-link" href="https://jobs.biontech.com" target="_blank" rel="noopener">Visit ↗</a></td></tr>
-<tr class="co-row" data-name="blueprint medicines" data-type="biotech"><td class="co-name">Blueprint Medicines</td><td><span class="ats-badge" style="background:#14532d;color:#4ade80">Biotech</span></td><td><span class="ats-badge" style="background:#14532d;color:#86efac">greenhouse</span></td><td class="co-url">https://boards.greenhouse.io/blueprintmedicines</td><td><a class="open-link" href="https://boards.greenhouse.io/blueprintmedicines" target="_blank" rel="noopener">Visit ↗</a></td></tr>
+<tr class="co-row" data-name="blueprint medicines" data-type="biotech"><td class="co-name">Blueprint Medicines</td><td><span class="ats-badge" style="background:#14532d;color:#4ade80">Biotech</span></td><td><span class="ats-badge" style="background:#14532d;color:#86efac">greenhouse</span></td><td class="co-url">https://job-boards.greenhouse.io/blueprintmedicines</td><td><a class="open-link" href="https://job-boards.greenhouse.io/blueprintmedicines" target="_blank" rel="noopener">Visit ↗</a></td></tr>
 <tr class="co-row" data-name="boehringer ingelheim" data-type="big pharma"><td class="co-name">Boehringer Ingelheim</td><td><span class="ats-badge" style="background:#1e3a5f;color:#60a5fa">Big Pharma</span></td><td><span class="ats-badge" style="background:#78350f;color:#fcd34d">successfactors</span></td><td class="co-url">https://jobs.boehringer-ingelheim.com</td><td><a class="open-link" href="https://jobs.boehringer-ingelheim.com" target="_blank" rel="noopener">Visit ↗</a></td></tr>
-<tr class="co-row" data-name="bright peak therapeutics" data-type=""><td class="co-name">Bright Peak Therapeutics</td><td></td><td><span class="ats-badge" style="background:#14532d;color:#86efac">greenhouse</span></td><td class="co-url">https://boards.greenhouse.io/brightpeaktherapeutics</td><td><a class="open-link" href="https://boards.greenhouse.io/brightpeaktherapeutics" target="_blank" rel="noopener">Visit ↗</a></td></tr>
+<tr class="co-row" data-name="bright peak therapeutics" data-type=""><td class="co-name">Bright Peak Therapeutics</td><td></td><td><span class="ats-badge" style="background:#14532d;color:#86efac">greenhouse</span></td><td class="co-url">https://job-boards.greenhouse.io/brightpeaktherapeutics</td><td><a class="open-link" href="https://job-boards.greenhouse.io/brightpeaktherapeutics" target="_blank" rel="noopener">Visit ↗</a></td></tr>
 <tr class="co-row" data-name="bristol myers squibb" data-type="big pharma"><td class="co-name">Bristol Myers Squibb</td><td><span class="ats-badge" style="background:#1e3a5f;color:#60a5fa">Big Pharma</span></td><td><span class="ats-badge" style="background:#1e1b4b;color:#a5b4fc">workday</span></td><td class="co-url">https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/BMS</td><td><a class="open-link" href="https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/BMS" target="_blank" rel="noopener">Visit ↗</a></td></tr>
 <tr class="co-row" data-name="cdd vault" data-type="life science tools"><td class="co-name">CDD Vault</td><td><span class="ats-badge" style="background:#1a2e05;color:#84cc16">Life Science Tools</span></td><td><span class="ats-badge" style="background:#1f2937;color:#9ca3af">generic</span></td><td class="co-url">https://www.collaborativedrug.com/careers</td><td><a class="open-link" href="https://www.collaborativedrug.com/careers" target="_blank" rel="noopener">Visit ↗</a></td></tr>
-<tr class="co-row" data-name="cdr-life" data-type=""><td class="co-name">CDR-Life</td><td></td><td><span class="ats-badge" style="background:#14532d;color:#86efac">greenhouse</span></td><td class="co-url">https://boards.greenhouse.io/cdrlife</td><td><a class="open-link" href="https://boards.greenhouse.io/cdrlife" target="_blank" rel="noopener">Visit ↗</a></td></tr>
+<tr class="co-row" data-name="cdr-life" data-type=""><td class="co-name">CDR-Life</td><td></td><td><span class="ats-badge" style="background:#14532d;color:#86efac">greenhouse</span></td><td class="co-url">https://job-boards.greenhouse.io/cdrlife</td><td><a class="open-link" href="https://job-boards.greenhouse.io/cdrlife" target="_blank" rel="noopener">Visit ↗</a></td></tr>
 <tr class="co-row" data-name="cencora" data-type="distribution"><td class="co-name">Cencora</td><td><span class="ats-badge" style="background:#1f2937;color:#9ca3af">Distribution</span></td><td><span class="ats-badge" style="background:#1e1b4b;color:#a5b4fc">workday</span></td><td class="co-url">https://myhrabc.wd5.myworkdayjobs.com/en-US/Global</td><td><a class="open-link" href="https://myhrabc.wd5.myworkdayjobs.com/en-US/Global" target="_blank" rel="noopener">Visit ↗</a></td></tr>
 <tr class="co-row" data-name="cern" data-type="international org"><td class="co-name">CERN</td><td><span class="ats-badge" style="background:#172554;color:#93c5fd">International Org</span></td><td><span class="ats-badge" style="background:#0c2340;color:#38bdf8">smartrecruiters</span></td><td class="co-url">https://careers.smartrecruiters.com/CERN</td><td><a class="open-link" href="https://careers.smartrecruiters.com/CERN" target="_blank" rel="noopener">Visit ↗</a></td></tr>
 <tr class="co-row" data-name="chairon sa" data-type="ai / data"><td class="co-name">chAIron SA</td><td><span class="ats-badge" style="background:#4c0519;color:#f87171">AI / Data</span></td><td><span class="ats-badge" style="background:#1f2937;color:#9ca3af">generic</span></td><td class="co-url">https://chairon.io/</td><td><a class="open-link" href="https://chairon.io/" target="_blank" rel="noopener">Visit ↗</a></td></tr>
 <tr class="co-row" data-name="charles river laboratories" data-type="cro"><td class="co-name">Charles River Laboratories</td><td><span class="ats-badge" style="background:#451a03;color:#fb923c">CRO</span></td><td><span class="ats-badge" style="background:#1f2937;color:#9ca3af">generic</span></td><td class="co-url">https://jobs.criver.com/job-search-results/</td><td><a class="open-link" href="https://jobs.criver.com/job-search-results/" target="_blank" rel="noopener">Visit ↗</a></td></tr>
-<tr class="co-row" data-name="cimeio therapeutics" data-type=""><td class="co-name">Cimeio Therapeutics</td><td></td><td><span class="ats-badge" style="background:#14532d;color:#86efac">greenhouse</span></td><td class="co-url">https://boards.greenhouse.io/cimeio</td><td><a class="open-link" href="https://boards.greenhouse.io/cimeio" target="_blank" rel="noopener">Visit ↗</a></td></tr>
-<tr class="co-row" data-name="cis biopharma" data-type=""><td class="co-name">CIS Biopharma</td><td></td><td><span class="ats-badge" style="background:#14532d;color:#86efac">greenhouse</span></td><td class="co-url">https://boards.greenhouse.io/cisbiopharma</td><td><a class="open-link" href="https://boards.greenhouse.io/cisbiopharma" target="_blank" rel="noopener">Visit ↗</a></td></tr>
+<tr class="co-row" data-name="cimeio therapeutics" data-type=""><td class="co-name">Cimeio Therapeutics</td><td></td><td><span class="ats-badge" style="background:#14532d;color:#86efac">greenhouse</span></td><td class="co-url">https://job-boards.greenhouse.io/cimeio</td><td><a class="open-link" href="https://job-boards.greenhouse.io/cimeio" target="_blank" rel="noopener">Visit ↗</a></td></tr>
+<tr class="co-row" data-name="cis biopharma" data-type=""><td class="co-name">CIS Biopharma</td><td></td><td><span class="ats-badge" style="background:#14532d;color:#86efac">greenhouse</span></td><td class="co-url">https://job-boards.greenhouse.io/cisbiopharma</td><td><a class="open-link" href="https://job-boards.greenhouse.io/cisbiopharma" target="_blank" rel="noopener">Visit ↗</a></td></tr>
 <tr class="co-row" data-name="csl behring / vifor" data-type="specialty pharma"><td class="co-name">CSL Behring / Vifor</td><td><span class="ats-badge" style="background:#1e1b4b;color:#a5b4fc">Specialty Pharma</span></td><td><span class="ats-badge" style="background:#1e1b4b;color:#a5b4fc">workday</span></td><td class="co-url">https://csl.wd1.myworkdayjobs.com/en-US/CSL_External</td><td><a class="open-link" href="https://csl.wd1.myworkdayjobs.com/en-US/CSL_External" target="_blank" rel="noopener">Visit ↗</a></td></tr>
 <tr class="co-row" data-name="cutiss" data-type="biotech"><td class="co-name">Cutiss</td><td><span class="ats-badge" style="background:#14532d;color:#4ade80">Biotech</span></td><td><span class="ats-badge" style="background:#1f2937;color:#9ca3af">generic</span></td><td class="co-url">https://cutiss.swiss/career/</td><td><a class="open-link" href="https://cutiss.swiss/career/" target="_blank" rel="noopener">Visit ↗</a></td></tr>
 <tr class="co-row" data-name="daiichi sankyo" data-type="big pharma"><td class="co-name">Daiichi Sankyo</td><td><span class="ats-badge" style="background:#1e3a5f;color:#60a5fa">Big Pharma</span></td><td><span class="ats-badge" style="background:#78350f;color:#fcd34d">successfactors</span></td><td class="co-url">https://jobs.daiichi-sankyo.eu/</td><td><a class="open-link" href="https://jobs.daiichi-sankyo.eu/" target="_blank" rel="noopener">Visit ↗</a></td></tr>
 <tr class="co-row" data-name="danaher" data-type="life science tools"><td class="co-name">Danaher</td><td><span class="ats-badge" style="background:#1a2e05;color:#84cc16">Life Science Tools</span></td><td><span class="ats-badge" style="background:#1e1b4b;color:#a5b4fc">workday</span></td><td class="co-url">https://danaher.wd1.myworkdayjobs.com/en-US/DanaherJobs</td><td><a class="open-link" href="https://danaher.wd1.myworkdayjobs.com/en-US/DanaherJobs" target="_blank" rel="noopener">Visit ↗</a></td></tr>
 <tr class="co-row" data-name="debiopharm" data-type="specialty pharma"><td class="co-name">Debiopharm</td><td><span class="ats-badge" style="background:#1e1b4b;color:#a5b4fc">Specialty Pharma</span></td><td><span class="ats-badge" style="background:#0c4a6e;color:#67e8f9">workable</span></td><td class="co-url">https://apply.workable.com/debiopharm</td><td><a class="open-link" href="https://apply.workable.com/debiopharm" target="_blank" rel="noopener">Visit ↗</a></td></tr>
 <tr class="co-row" data-name="dnanexus" data-type="ai / data"><td class="co-name">DNAnexus</td><td><span class="ats-badge" style="background:#4c0519;color:#f87171">AI / Data</span></td><td><span class="ats-badge" style="background:#1f2937;color:#9ca3af">generic</span></td><td class="co-url">https://www.dnanexus.com/careers/</td><td><a class="open-link" href="https://www.dnanexus.com/careers/" target="_blank" rel="noopener">Visit ↗</a></td></tr>
-<tr class="co-row" data-name="dotmatics" data-type="life science tools"><td class="co-name">Dotmatics</td><td><span class="ats-badge" style="background:#1a2e05;color:#84cc16">Life Science Tools</span></td><td><span class="ats-badge" style="background:#14532d;color:#86efac">greenhouse</span></td><td class="co-url">https://boards.greenhouse.io/dotmatics</td><td><a class="open-link" href="https://boards.greenhouse.io/dotmatics" target="_blank" rel="noopener">Visit ↗</a></td></tr>
+<tr class="co-row" data-name="dotmatics" data-type="life science tools"><td class="co-name">Dotmatics</td><td><span class="ats-badge" style="background:#1a2e05;color:#84cc16">Life Science Tools</span></td><td><span class="ats-badge" style="background:#14532d;color:#86efac">greenhouse</span></td><td class="co-url">https://job-boards.greenhouse.io/dotmatics</td><td><a class="open-link" href="https://job-boards.greenhouse.io/dotmatics" target="_blank" rel="noopener">Visit ↗</a></td></tr>
 <tr class="co-row" data-name="dsm-firmenich" data-type="consumer health"><td class="co-name">dsm-firmenich</td><td><span class="ats-badge" style="background:#064e3b;color:#34d399">Consumer Health</span></td><td><span class="ats-badge" style="background:#1f2937;color:#9ca3af">generic</span></td><td class="co-url">https://careers.dsm-firmenich.com/en/careers.html</td><td><a class="open-link" href="https://careers.dsm-firmenich.com/en/careers.html" target="_blank" rel="noopener">Visit ↗</a></td></tr>
 <tr class="co-row" data-name="eli lilly" data-type="big pharma"><td class="co-name">Eli Lilly</td><td><span class="ats-badge" style="background:#1e3a5f;color:#60a5fa">Big Pharma</span></td><td><span class="ats-badge" style="background:#1e1b4b;color:#a5b4fc">workday</span></td><td class="co-url">https://lilly.wd5.myworkdayjobs.com/en-US/LLY</td><td><a class="open-link" href="https://lilly.wd5.myworkdayjobs.com/en-US/LLY" target="_blank" rel="noopener">Visit ↗</a></td></tr>
-<tr class="co-row" data-name="engimmune therapeutics" data-type=""><td class="co-name">Engimmune Therapeutics</td><td></td><td><span class="ats-badge" style="background:#14532d;color:#86efac">greenhouse</span></td><td class="co-url">https://boards.greenhouse.io/engimmune</td><td><a class="open-link" href="https://boards.greenhouse.io/engimmune" target="_blank" rel="noopener">Visit ↗</a></td></tr>
+<tr class="co-row" data-name="engimmune therapeutics" data-type=""><td class="co-name">Engimmune Therapeutics</td><td></td><td><span class="ats-badge" style="background:#14532d;color:#86efac">greenhouse</span></td><td class="co-url">https://job-boards.greenhouse.io/engimmune</td><td><a class="open-link" href="https://job-boards.greenhouse.io/engimmune" target="_blank" rel="noopener">Visit ↗</a></td></tr>
 <tr class="co-row" data-name="epam systems" data-type="tech / saas"><td class="co-name">EPAM Systems</td><td><span class="ats-badge" style="background:#312e81;color:#818cf8">Tech / SaaS</span></td><td><span class="ats-badge" style="background:#1f2937;color:#9ca3af">generic</span></td><td class="co-url">https://www.epam.com/careers</td><td><a class="open-link" href="https://www.epam.com/careers" target="_blank" rel="noopener">Visit ↗</a></td></tr>
 <tr class="co-row" data-name="epm scientific" data-type=""><td class="co-name">EPM Scientific</td><td></td><td><span class="ats-badge" style="background:#1f2937;color:#9ca3af">generic</span></td><td class="co-url">https://www.epmscientific.com/en-us/jobs</td><td><a class="open-link" href="https://www.epmscientific.com/en-us/jobs" target="_blank" rel="noopener">Visit ↗</a></td></tr>
-<tr class="co-row" data-name="eracal therapeutics" data-type=""><td class="co-name">EraCal Therapeutics</td><td></td><td><span class="ats-badge" style="background:#14532d;color:#86efac">greenhouse</span></td><td class="co-url">https://boards.greenhouse.io/eracal</td><td><a class="open-link" href="https://boards.greenhouse.io/eracal" target="_blank" rel="noopener">Visit ↗</a></td></tr>
+<tr class="co-row" data-name="eracal therapeutics" data-type=""><td class="co-name">EraCal Therapeutics</td><td></td><td><span class="ats-badge" style="background:#14532d;color:#86efac">greenhouse</span></td><td class="co-url">https://job-boards.greenhouse.io/eracal</td><td><a class="open-link" href="https://job-boards.greenhouse.io/eracal" target="_blank" rel="noopener">Visit ↗</a></td></tr>
 <tr class="co-row" data-name="executive insight" data-type=""><td class="co-name">Executive Insight</td><td></td><td><span class="ats-badge" style="background:#1f2937;color:#9ca3af">generic</span></td><td class="co-url">https://executive-insight.breezy.hr/</td><td><a class="open-link" href="https://executive-insight.breezy.hr/" target="_blank" rel="noopener">Visit ↗</a></td></tr>
 <tr class="co-row" data-name="ferring pharmaceuticals" data-type="specialty pharma"><td class="co-name">Ferring Pharmaceuticals</td><td><span class="ats-badge" style="background:#1e1b4b;color:#a5b4fc">Specialty Pharma</span></td><td><span class="ats-badge" style="background:#1e1b4b;color:#a5b4fc">workday</span></td><td class="co-url">https://ferring.wd3.myworkdayjobs.com/en-US/Ferring</td><td><a class="open-link" href="https://ferring.wd3.myworkdayjobs.com/en-US/Ferring" target="_blank" rel="noopener">Visit ↗</a></td></tr>
-<tr class="co-row" data-name="fimmcyte" data-type=""><td class="co-name">FimmCyte</td><td></td><td><span class="ats-badge" style="background:#14532d;color:#86efac">greenhouse</span></td><td class="co-url">https://boards.greenhouse.io/fimmcyte</td><td><a class="open-link" href="https://boards.greenhouse.io/fimmcyte" target="_blank" rel="noopener">Visit ↗</a></td></tr>
-<tr class="co-row" data-name="forx therapeutics" data-type=""><td class="co-name">FoRx Therapeutics</td><td></td><td><span class="ats-badge" style="background:#14532d;color:#86efac">greenhouse</span></td><td class="co-url">https://boards.greenhouse.io/forxtherapeutics</td><td><a class="open-link" href="https://boards.greenhouse.io/forxtherapeutics" target="_blank" rel="noopener">Visit ↗</a></td></tr>
+<tr class="co-row" data-name="fimmcyte" data-type=""><td class="co-name">FimmCyte</td><td></td><td><span class="ats-badge" style="background:#14532d;color:#86efac">greenhouse</span></td><td class="co-url">https://job-boards.greenhouse.io/fimmcyte</td><td><a class="open-link" href="https://job-boards.greenhouse.io/fimmcyte" target="_blank" rel="noopener">Visit ↗</a></td></tr>
+<tr class="co-row" data-name="forx therapeutics" data-type=""><td class="co-name">FoRx Therapeutics</td><td></td><td><span class="ats-badge" style="background:#14532d;color:#86efac">greenhouse</span></td><td class="co-url">https://job-boards.greenhouse.io/forxtherapeutics</td><td><a class="open-link" href="https://job-boards.greenhouse.io/forxtherapeutics" target="_blank" rel="noopener">Visit ↗</a></td></tr>
 <tr class="co-row" data-name="galapagos" data-type="biotech"><td class="co-name">Galapagos</td><td><span class="ats-badge" style="background:#14532d;color:#4ade80">Biotech</span></td><td><span class="ats-badge" style="background:#1f2937;color:#9ca3af">generic</span></td><td class="co-url">https://www.workatgalapagos.com/join-us</td><td><a class="open-link" href="https://www.workatgalapagos.com/join-us" target="_blank" rel="noopener">Visit ↗</a></td></tr>
 <tr class="co-row" data-name="galderma" data-type="medical devices"><td class="co-name">Galderma</td><td><span class="ats-badge" style="background:#3b0764;color:#c084fc">Medical Devices</span></td><td><span class="ats-badge" style="background:#1e1b4b;color:#a5b4fc">workday</span></td><td class="co-url">https://galderma.wd3.myworkdayjobs.com/en-US/External</td><td><a class="open-link" href="https://galderma.wd3.myworkdayjobs.com/en-US/External" target="_blank" rel="noopener">Visit ↗</a></td></tr>
 <tr class="co-row" data-name="gilead sciences" data-type="big pharma"><td class="co-name">Gilead Sciences</td><td><span class="ats-badge" style="background:#1e3a5f;color:#60a5fa">Big Pharma</span></td><td><span class="ats-badge" style="background:#1e1b4b;color:#a5b4fc">workday</span></td><td class="co-url">https://gilead.wd1.myworkdayjobs.com/en-US/gileadcareers</td><td><a class="open-link" href="https://gilead.wd1.myworkdayjobs.com/en-US/gileadcareers" target="_blank" rel="noopener">Visit ↗</a></td></tr>
 <tr class="co-row" data-name="gloor &amp; lang" data-type=""><td class="co-name">Gloor &amp; Lang</td><td></td><td><span class="ats-badge" style="background:#0f172a;color:#86efac">gloorlang</span></td><td class="co-url">https://www.gloorlang.com/en/job-opportunities/</td><td><a class="open-link" href="https://www.gloorlang.com/en/job-opportunities/" target="_blank" rel="noopener">Visit ↗</a></td></tr>
 <tr class="co-row" data-name="gnubiotics" data-type="biotech"><td class="co-name">Gnubiotics</td><td><span class="ats-badge" style="background:#14532d;color:#4ade80">Biotech</span></td><td><span class="ats-badge" style="background:#1f2937;color:#9ca3af">generic</span></td><td class="co-url">https://gnubiotics.com/</td><td><a class="open-link" href="https://gnubiotics.com/" target="_blank" rel="noopener">Visit ↗</a></td></tr>
-<tr class="co-row" data-name="granite bio" data-type=""><td class="co-name">Granite Bio</td><td></td><td><span class="ats-badge" style="background:#14532d;color:#86efac">greenhouse</span></td><td class="co-url">https://boards.greenhouse.io/granitebio</td><td><a class="open-link" href="https://boards.greenhouse.io/granitebio" target="_blank" rel="noopener">Visit ↗</a></td></tr>
+<tr class="co-row" data-name="granite bio" data-type=""><td class="co-name">Granite Bio</td><td></td><td><span class="ats-badge" style="background:#14532d;color:#86efac">greenhouse</span></td><td class="co-url">https://job-boards.greenhouse.io/granitebio</td><td><a class="open-link" href="https://job-boards.greenhouse.io/granitebio" target="_blank" rel="noopener">Visit ↗</a></td></tr>
 <tr class="co-row" data-name="gsk" data-type="big pharma"><td class="co-name">GSK</td><td><span class="ats-badge" style="background:#1e3a5f;color:#60a5fa">Big Pharma</span></td><td><span class="ats-badge" style="background:#1e1b4b;color:#a5b4fc">workday</span></td><td class="co-url">https://gsk.wd5.myworkdayjobs.com/en-US/GSKCareers</td><td><a class="open-link" href="https://gsk.wd5.myworkdayjobs.com/en-US/GSKCareers" target="_blank" rel="noopener">Visit ↗</a></td></tr>
 <tr class="co-row" data-name="hamilton" data-type="life science tools"><td class="co-name">Hamilton</td><td><span class="ats-badge" style="background:#1a2e05;color:#84cc16">Life Science Tools</span></td><td><span class="ats-badge" style="background:#1f2937;color:#9ca3af">generic</span></td><td class="co-url">https://www.hamiltoncompany.com/about/careers</td><td><a class="open-link" href="https://www.hamiltoncompany.com/about/careers" target="_blank" rel="noopener">Visit ↗</a></td></tr>
 <tr class="co-row" data-name="haya therapeutics" data-type="biotech"><td class="co-name">HAYA Therapeutics</td><td><span class="ats-badge" style="background:#14532d;color:#4ade80">Biotech</span></td><td><span class="ats-badge" style="background:#1a1a2e;color:#e879f9">hayatx</span></td><td class="co-url">https://www.hayatx.com/careers/</td><td><a class="open-link" href="https://www.hayatx.com/careers/" target="_blank" rel="noopener">Visit ↗</a></td></tr>
@@ -3513,7 +3479,7 @@ Benchling welcomes everyone</li><li>We believe diversity enriches our team so we
 <tr class="co-row" data-name="ionctura" data-type="biotech"><td class="co-name">iOnctura</td><td><span class="ats-badge" style="background:#14532d;color:#4ade80">Biotech</span></td><td><span class="ats-badge" style="background:#1f2937;color:#9ca3af">generic</span></td><td class="co-url">https://www.ionctura.com/contact/</td><td><a class="open-link" href="https://www.ionctura.com/contact/" target="_blank" rel="noopener">Visit ↗</a></td></tr>
 <tr class="co-row" data-name="ipi" data-type="ip / law"><td class="co-name">IPI</td><td><span class="ats-badge" style="background:#1c1917;color:#d6d3d1">IP / Law</span></td><td><span class="ats-badge" style="background:#1f2937;color:#9ca3af">generic</span></td><td class="co-url">https://www.ige.ch/fr/portrait/travailler-pour-lipi/offres-demploi</td><td><a class="open-link" href="https://www.ige.ch/fr/portrait/travailler-pour-lipi/offres-demploi" target="_blank" rel="noopener">Visit ↗</a></td></tr>
 <tr class="co-row" data-name="iqvia" data-type="cro"><td class="co-name">IQVIA</td><td><span class="ats-badge" style="background:#451a03;color:#fb923c">CRO</span></td><td><span class="ats-badge" style="background:#1e1b4b;color:#a5b4fc">workday</span></td><td class="co-url">https://iqvia.wd1.myworkdayjobs.com/en-US/IQVIA</td><td><a class="open-link" href="https://iqvia.wd1.myworkdayjobs.com/en-US/IQVIA" target="_blank" rel="noopener">Visit ↗</a></td></tr>
-<tr class="co-row" data-name="isomorphic labs" data-type="biotech"><td class="co-name">Isomorphic Labs</td><td><span class="ats-badge" style="background:#14532d;color:#4ade80">Biotech</span></td><td><span class="ats-badge" style="background:#14532d;color:#86efac">greenhouse</span></td><td class="co-url">https://boards.greenhouse.io/isomorphiclabs</td><td><a class="open-link" href="https://boards.greenhouse.io/isomorphiclabs" target="_blank" rel="noopener">Visit ↗</a></td></tr>
+<tr class="co-row" data-name="isomorphic labs" data-type="biotech"><td class="co-name">Isomorphic Labs</td><td><span class="ats-badge" style="background:#14532d;color:#4ade80">Biotech</span></td><td><span class="ats-badge" style="background:#14532d;color:#86efac">greenhouse</span></td><td class="co-url">https://job-boards.greenhouse.io/isomorphiclabs</td><td><a class="open-link" href="https://job-boards.greenhouse.io/isomorphiclabs" target="_blank" rel="noopener">Visit ↗</a></td></tr>
 <tr class="co-row" data-name="katzarov" data-type="ip / law"><td class="co-name">Katzarov</td><td><span class="ats-badge" style="background:#1c1917;color:#d6d3d1">IP / Law</span></td><td><span class="ats-badge" style="background:#1f2937;color:#9ca3af">generic</span></td><td class="co-url">https://katzarov.com/news/</td><td><a class="open-link" href="https://katzarov.com/news/" target="_blank" rel="noopener">Visit ↗</a></td></tr>
 <tr class="co-row" data-name="kbi biopharma" data-type="cdmo"><td class="co-name">KBI Biopharma</td><td><span class="ats-badge" style="background:#0c4a6e;color:#38bdf8">CDMO</span></td><td><span class="ats-badge" style="background:#1e1b4b;color:#a5b4fc">workday</span></td><td class="co-url">https://jsrglobal.wd1.myworkdayjobs.com/en-US/KBI_Biopharma</td><td><a class="open-link" href="https://jsrglobal.wd1.myworkdayjobs.com/en-US/KBI_Biopharma" target="_blank" rel="noopener">Visit ↗</a></td></tr>
 <tr class="co-row" data-name="kuros biosciences" data-type="biotech"><td class="co-name">Kuros Biosciences</td><td><span class="ats-badge" style="background:#14532d;color:#4ade80">Biotech</span></td><td><span class="ats-badge" style="background:#1f2937;color:#9ca3af">generic</span></td><td class="co-url">https://kurosbio.com/careers/</td><td><a class="open-link" href="https://kurosbio.com/careers/" target="_blank" rel="noopener">Visit ↗</a></td></tr>
@@ -3535,19 +3501,19 @@ Benchling welcomes everyone</li><li>We believe diversity enriches our team so we
 <tr class="co-row" data-name="msd" data-type="big pharma"><td class="co-name">MSD</td><td><span class="ats-badge" style="background:#1e3a5f;color:#60a5fa">Big Pharma</span></td><td><span class="ats-badge" style="background:#1e1b4b;color:#a5b4fc">workday</span></td><td class="co-url">https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs</td><td><a class="open-link" href="https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs" target="_blank" rel="noopener">Visit ↗</a></td></tr>
 <tr class="co-row" data-name="nanolive" data-type=""><td class="co-name">Nanolive</td><td></td><td><span class="ats-badge" style="background:#1f2937;color:#9ca3af">generic</span></td><td class="co-url">https://www.nanolive.com/about/jobs/</td><td><a class="open-link" href="https://www.nanolive.com/about/jobs/" target="_blank" rel="noopener">Visit ↗</a></td></tr>
 <tr class="co-row" data-name="nestlé" data-type=""><td class="co-name">Nestlé</td><td></td><td><span class="ats-badge" style="background:#78350f;color:#fcd34d">successfactors</span></td><td class="co-url">https://jobdetails.nestle.com</td><td><a class="open-link" href="https://jobdetails.nestle.com" target="_blank" rel="noopener">Visit ↗</a></td></tr>
-<tr class="co-row" data-name="nestlé health science" data-type="consumer health"><td class="co-name">Nestlé Health Science</td><td><span class="ats-badge" style="background:#064e3b;color:#34d399">Consumer Health</span></td><td><span class="ats-badge" style="background:#1a2e05;color:#84cc16">nestlehealthscience</span></td><td class="co-url"></td><td><span style="color:#4b5563">—</span></td></tr>
-<tr class="co-row" data-name="nouscom" data-type=""><td class="co-name">Nouscom</td><td></td><td><span class="ats-badge" style="background:#14532d;color:#86efac">greenhouse</span></td><td class="co-url">https://boards.greenhouse.io/nouscom</td><td><a class="open-link" href="https://boards.greenhouse.io/nouscom" target="_blank" rel="noopener">Visit ↗</a></td></tr>
+<tr class="co-row" data-name="nestlé health science" data-type="consumer health"><td class="co-name">Nestlé Health Science</td><td><span class="ats-badge" style="background:#064e3b;color:#34d399">Consumer Health</span></td><td><span class="ats-badge" style="background:#1a2e05;color:#84cc16">nestlehealthscience</span></td><td class="co-url">https://www.nestlejobs.com/nestle-health-science</td><td><a class="open-link" href="https://www.nestlejobs.com/nestle-health-science" target="_blank" rel="noopener">Visit ↗</a></td></tr>
+<tr class="co-row" data-name="nouscom" data-type=""><td class="co-name">Nouscom</td><td></td><td><span class="ats-badge" style="background:#14532d;color:#86efac">greenhouse</span></td><td class="co-url">https://job-boards.greenhouse.io/nouscom</td><td><a class="open-link" href="https://job-boards.greenhouse.io/nouscom" target="_blank" rel="noopener">Visit ↗</a></td></tr>
 <tr class="co-row" data-name="novagraaf" data-type="ip / law"><td class="co-name">Novagraaf</td><td><span class="ats-badge" style="background:#1c1917;color:#d6d3d1">IP / Law</span></td><td><span class="ats-badge" style="background:#1f2937;color:#9ca3af">generic</span></td><td class="co-url">https://www.novagraaf.com/en/careers/vacancies/</td><td><a class="open-link" href="https://www.novagraaf.com/en/careers/vacancies/" target="_blank" rel="noopener">Visit ↗</a></td></tr>
 <tr class="co-row" data-name="novartis" data-type="big pharma"><td class="co-name">Novartis</td><td><span class="ats-badge" style="background:#1e3a5f;color:#60a5fa">Big Pharma</span></td><td><span class="ats-badge" style="background:#1e1b4b;color:#a5b4fc">workday</span></td><td class="co-url">https://novartis.wd3.myworkdayjobs.com/en-US/Novartis_Careers</td><td><a class="open-link" href="https://novartis.wd3.myworkdayjobs.com/en-US/Novartis_Careers" target="_blank" rel="noopener">Visit ↗</a></td></tr>
-<tr class="co-row" data-name="nuclidium" data-type=""><td class="co-name">Nuclidium</td><td></td><td><span class="ats-badge" style="background:#14532d;color:#86efac">greenhouse</span></td><td class="co-url">https://boards.greenhouse.io/nuclidium</td><td><a class="open-link" href="https://boards.greenhouse.io/nuclidium" target="_blank" rel="noopener">Visit ↗</a></td></tr>
+<tr class="co-row" data-name="nuclidium" data-type=""><td class="co-name">Nuclidium</td><td></td><td><span class="ats-badge" style="background:#14532d;color:#86efac">greenhouse</span></td><td class="co-url">https://job-boards.greenhouse.io/nuclidium</td><td><a class="open-link" href="https://job-boards.greenhouse.io/nuclidium" target="_blank" rel="noopener">Visit ↗</a></td></tr>
 <tr class="co-row" data-name="numab therapeutics" data-type="biotech"><td class="co-name">Numab Therapeutics</td><td><span class="ats-badge" style="background:#14532d;color:#4ade80">Biotech</span></td><td><span class="ats-badge" style="background:#1f2937;color:#9ca3af">generic</span></td><td class="co-url">https://www.numab.com/careers/</td><td><a class="open-link" href="https://www.numab.com/careers/" target="_blank" rel="noopener">Visit ↗</a></td></tr>
-<tr class="co-row" data-name="nxi therapeutics" data-type=""><td class="co-name">NXI Therapeutics</td><td></td><td><span class="ats-badge" style="background:#14532d;color:#86efac">greenhouse</span></td><td class="co-url">https://boards.greenhouse.io/nxitherapeutics</td><td><a class="open-link" href="https://boards.greenhouse.io/nxitherapeutics" target="_blank" rel="noopener">Visit ↗</a></td></tr>
+<tr class="co-row" data-name="nxi therapeutics" data-type=""><td class="co-name">NXI Therapeutics</td><td></td><td><span class="ats-badge" style="background:#14532d;color:#86efac">greenhouse</span></td><td class="co-url">https://job-boards.greenhouse.io/nxitherapeutics</td><td><a class="open-link" href="https://job-boards.greenhouse.io/nxitherapeutics" target="_blank" rel="noopener">Visit ↗</a></td></tr>
 <tr class="co-row" data-name="octapharma" data-type="specialty pharma"><td class="co-name">Octapharma</td><td><span class="ats-badge" style="background:#1e1b4b;color:#a5b4fc">Specialty Pharma</span></td><td><span class="ats-badge" style="background:#78350f;color:#fcd34d">successfactors</span></td><td class="co-url">https://careers.octapharma.com</td><td><a class="open-link" href="https://careers.octapharma.com" target="_blank" rel="noopener">Visit ↗</a></td></tr>
 <tr class="co-row" data-name="oculis" data-type="biotech"><td class="co-name">Oculis</td><td><span class="ats-badge" style="background:#14532d;color:#4ade80">Biotech</span></td><td><span class="ats-badge" style="background:#1f2937;color:#9ca3af">generic</span></td><td class="co-url">https://oculis.com/join-us/</td><td><a class="open-link" href="https://oculis.com/join-us/" target="_blank" rel="noopener">Visit ↗</a></td></tr>
 <tr class="co-row" data-name="om pharma" data-type="specialty pharma"><td class="co-name">OM Pharma</td><td><span class="ats-badge" style="background:#1e1b4b;color:#a5b4fc">Specialty Pharma</span></td><td><span class="ats-badge" style="background:#78350f;color:#fcd34d">successfactors</span></td><td class="co-url">https://careers.ompharma.com</td><td><a class="open-link" href="https://careers.ompharma.com" target="_blank" rel="noopener">Visit ↗</a></td></tr>
 <tr class="co-row" data-name="owkin" data-type="ai / data"><td class="co-name">Owkin</td><td><span class="ats-badge" style="background:#4c0519;color:#f87171">AI / Data</span></td><td><span class="ats-badge" style="background:#1f2937;color:#9ca3af">ashby</span></td><td class="co-url">https://jobs.ashbyhq.com/owkin</td><td><a class="open-link" href="https://jobs.ashbyhq.com/owkin" target="_blank" rel="noopener">Visit ↗</a></td></tr>
 <tr class="co-row" data-name="p&amp;ts" data-type="ip / law"><td class="co-name">P&amp;TS</td><td><span class="ats-badge" style="background:#1c1917;color:#d6d3d1">IP / Law</span></td><td><span class="ats-badge" style="background:#1f2937;color:#9ca3af">generic</span></td><td class="co-url">https://www.patentattorneys.ch/en/career/</td><td><a class="open-link" href="https://www.patentattorneys.ch/en/career/" target="_blank" rel="noopener">Visit ↗</a></td></tr>
-<tr class="co-row" data-name="palantir" data-type="tech / saas"><td class="co-name">Palantir</td><td><span class="ats-badge" style="background:#312e81;color:#818cf8">Tech / SaaS</span></td><td><span class="ats-badge" style="background:#14532d;color:#86efac">greenhouse</span></td><td class="co-url">https://boards.greenhouse.io/palantir</td><td><a class="open-link" href="https://boards.greenhouse.io/palantir" target="_blank" rel="noopener">Visit ↗</a></td></tr>
+<tr class="co-row" data-name="palantir" data-type="tech / saas"><td class="co-name">Palantir</td><td><span class="ats-badge" style="background:#312e81;color:#818cf8">Tech / SaaS</span></td><td><span class="ats-badge" style="background:#14532d;color:#86efac">greenhouse</span></td><td class="co-url">https://job-boards.greenhouse.io/palantir</td><td><a class="open-link" href="https://job-boards.greenhouse.io/palantir" target="_blank" rel="noopener">Visit ↗</a></td></tr>
 <tr class="co-row" data-name="parexel" data-type="cro"><td class="co-name">Parexel</td><td><span class="ats-badge" style="background:#451a03;color:#fb923c">CRO</span></td><td><span class="ats-badge" style="background:#1e1b4b;color:#a5b4fc">workday</span></td><td class="co-url">https://parexel.wd1.myworkdayjobs.com/en-US/Parexel_External_Careers</td><td><a class="open-link" href="https://parexel.wd1.myworkdayjobs.com/en-US/Parexel_External_Careers" target="_blank" rel="noopener">Visit ↗</a></td></tr>
 <tr class="co-row" data-name="perkinelmer / revvity" data-type="life science tools"><td class="co-name">PerkinElmer / Revvity</td><td><span class="ats-badge" style="background:#1a2e05;color:#84cc16">Life Science Tools</span></td><td><span class="ats-badge" style="background:#1e1b4b;color:#a5b4fc">workday</span></td><td class="co-url">https://revvity.wd103.myworkdayjobs.com/en-US/External</td><td><a class="open-link" href="https://revvity.wd103.myworkdayjobs.com/en-US/External" target="_blank" rel="noopener">Visit ↗</a></td></tr>
 <tr class="co-row" data-name="pfizer" data-type="big pharma"><td class="co-name">Pfizer</td><td><span class="ats-badge" style="background:#1e3a5f;color:#60a5fa">Big Pharma</span></td><td><span class="ats-badge" style="background:#1e1b4b;color:#a5b4fc">workday</span></td><td class="co-url">https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers</td><td><a class="open-link" href="https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers" target="_blank" rel="noopener">Visit ↗</a></td></tr>
@@ -3555,10 +3521,10 @@ Benchling welcomes everyone</li><li>We believe diversity enriches our team so we
 <tr class="co-row" data-name="qiagen" data-type="life science tools"><td class="co-name">Qiagen</td><td><span class="ats-badge" style="background:#1a2e05;color:#84cc16">Life Science Tools</span></td><td><span class="ats-badge" style="background:#1e1b4b;color:#a5b4fc">workday</span></td><td class="co-url">https://qiagen.wd3.myworkdayjobs.com/en-US/QIAGEN</td><td><a class="open-link" href="https://qiagen.wd3.myworkdayjobs.com/en-US/QIAGEN" target="_blank" rel="noopener">Visit ↗</a></td></tr>
 <tr class="co-row" data-name="randstad" data-type=""><td class="co-name">Randstad</td><td></td><td><span class="ats-badge" style="background:#1c1917;color:#fb923c">randstad</span></td><td class="co-url">https://www.randstad.ch/en/jobs/</td><td><a class="open-link" href="https://www.randstad.ch/en/jobs/" target="_blank" rel="noopener">Visit ↗</a></td></tr>
 <tr class="co-row" data-name="release therapeutics" data-type="biotech"><td class="co-name">Release Therapeutics</td><td><span class="ats-badge" style="background:#14532d;color:#4ade80">Biotech</span></td><td><span class="ats-badge" style="background:#1f2937;color:#9ca3af">generic</span></td><td class="co-url">https://www.release-tx.com/career</td><td><a class="open-link" href="https://www.release-tx.com/career" target="_blank" rel="noopener">Visit ↗</a></td></tr>
-<tr class="co-row" data-name="rhygaze" data-type=""><td class="co-name">RhyGaze</td><td></td><td><span class="ats-badge" style="background:#14532d;color:#86efac">greenhouse</span></td><td class="co-url">https://boards.greenhouse.io/rhygaze</td><td><a class="open-link" href="https://boards.greenhouse.io/rhygaze" target="_blank" rel="noopener">Visit ↗</a></td></tr>
+<tr class="co-row" data-name="rhygaze" data-type=""><td class="co-name">RhyGaze</td><td></td><td><span class="ats-badge" style="background:#14532d;color:#86efac">greenhouse</span></td><td class="co-url">https://job-boards.greenhouse.io/rhygaze</td><td><a class="open-link" href="https://job-boards.greenhouse.io/rhygaze" target="_blank" rel="noopener">Visit ↗</a></td></tr>
 <tr class="co-row" data-name="ridgeline discovery" data-type="biotech"><td class="co-name">Ridgeline Discovery</td><td><span class="ats-badge" style="background:#14532d;color:#4ade80">Biotech</span></td><td><span class="ats-badge" style="background:#1f2937;color:#9ca3af">generic</span></td><td class="co-url">https://careers.ridgelinediscovery.com/jobs</td><td><a class="open-link" href="https://careers.ridgelinediscovery.com/jobs" target="_blank" rel="noopener">Visit ↗</a></td></tr>
 <tr class="co-row" data-name="roche" data-type="big pharma"><td class="co-name">Roche</td><td><span class="ats-badge" style="background:#1e3a5f;color:#60a5fa">Big Pharma</span></td><td><span class="ats-badge" style="background:#1e1b4b;color:#a5b4fc">workday</span></td><td class="co-url">https://roche.wd3.myworkdayjobs.com/en-US/roche-ext</td><td><a class="open-link" href="https://roche.wd3.myworkdayjobs.com/en-US/roche-ext" target="_blank" rel="noopener">Visit ↗</a></td></tr>
-<tr class="co-row" data-name="roivant sciences" data-type="biotech"><td class="co-name">Roivant Sciences</td><td><span class="ats-badge" style="background:#14532d;color:#4ade80">Biotech</span></td><td><span class="ats-badge" style="background:#14532d;color:#86efac">greenhouse</span></td><td class="co-url">https://boards.greenhouse.io/roivantsciences</td><td><a class="open-link" href="https://boards.greenhouse.io/roivantsciences" target="_blank" rel="noopener">Visit ↗</a></td></tr>
+<tr class="co-row" data-name="roivant sciences" data-type="biotech"><td class="co-name">Roivant Sciences</td><td><span class="ats-badge" style="background:#14532d;color:#4ade80">Biotech</span></td><td><span class="ats-badge" style="background:#14532d;color:#86efac">greenhouse</span></td><td class="co-url">https://job-boards.greenhouse.io/roivantsciences</td><td><a class="open-link" href="https://job-boards.greenhouse.io/roivantsciences" target="_blank" rel="noopener">Visit ↗</a></td></tr>
 <tr class="co-row" data-name="sanofi" data-type="big pharma"><td class="co-name">Sanofi</td><td><span class="ats-badge" style="background:#1e3a5f;color:#60a5fa">Big Pharma</span></td><td><span class="ats-badge" style="background:#1e1b4b;color:#a5b4fc">workday</span></td><td class="co-url">https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers</td><td><a class="open-link" href="https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers" target="_blank" rel="noopener">Visit ↗</a></td></tr>
 <tr class="co-row" data-name="scailyte" data-type="ai / data"><td class="co-name">Scailyte</td><td><span class="ats-badge" style="background:#4c0519;color:#f87171">AI / Data</span></td><td><span class="ats-badge" style="background:#1f2937;color:#9ca3af">generic</span></td><td class="co-url">https://join.com/companies/scailyte</td><td><a class="open-link" href="https://join.com/companies/scailyte" target="_blank" rel="noopener">Visit ↗</a></td></tr>
 <tr class="co-row" data-name="servier suisse" data-type="specialty pharma"><td class="co-name">Servier Suisse</td><td><span class="ats-badge" style="background:#1e1b4b;color:#a5b4fc">Specialty Pharma</span></td><td><span class="ats-badge" style="background:#78350f;color:#fcd34d">successfactors</span></td><td class="co-url">https://jobs.servier.com</td><td><a class="open-link" href="https://jobs.servier.com" target="_blank" rel="noopener">Visit ↗</a></td></tr>
@@ -3569,24 +3535,24 @@ Benchling welcomes everyone</li><li>We believe diversity enriches our team so we
 <tr class="co-row" data-name="signal26" data-type="biotech"><td class="co-name">Signal26</td><td><span class="ats-badge" style="background:#14532d;color:#4ade80">Biotech</span></td><td><span class="ats-badge" style="background:#1f2937;color:#9ca3af">generic</span></td><td class="co-url">https://www.signal26bio.com/careers</td><td><a class="open-link" href="https://www.signal26bio.com/careers" target="_blank" rel="noopener">Visit ↗</a></td></tr>
 <tr class="co-row" data-name="sobi" data-type="specialty pharma"><td class="co-name">Sobi</td><td><span class="ats-badge" style="background:#1e1b4b;color:#a5b4fc">Specialty Pharma</span></td><td><span class="ats-badge" style="background:#0c2340;color:#38bdf8">smartrecruiters</span></td><td class="co-url">https://careers.smartrecruiters.com/Sobi</td><td><a class="open-link" href="https://careers.smartrecruiters.com/Sobi" target="_blank" rel="noopener">Visit ↗</a></td></tr>
 <tr class="co-row" data-name="sophia genetics" data-type="life science tools"><td class="co-name">SOPHiA GENETICS</td><td><span class="ats-badge" style="background:#1a2e05;color:#84cc16">Life Science Tools</span></td><td><span class="ats-badge" style="background:#0c4a6e;color:#67e8f9">workable</span></td><td class="co-url">https://apply.workable.com/sophia-genetics</td><td><a class="open-link" href="https://apply.workable.com/sophia-genetics" target="_blank" rel="noopener">Visit ↗</a></td></tr>
-<tr class="co-row" data-name="sotio biotech" data-type=""><td class="co-name">Sotio Biotech</td><td></td><td><span class="ats-badge" style="background:#14532d;color:#86efac">greenhouse</span></td><td class="co-url">https://boards.greenhouse.io/sotiobiotech</td><td><a class="open-link" href="https://boards.greenhouse.io/sotiobiotech" target="_blank" rel="noopener">Visit ↗</a></td></tr>
-<tr class="co-row" data-name="spexis" data-type=""><td class="co-name">Spexis</td><td></td><td><span class="ats-badge" style="background:#14532d;color:#86efac">greenhouse</span></td><td class="co-url">https://boards.greenhouse.io/spexis</td><td><a class="open-link" href="https://boards.greenhouse.io/spexis" target="_blank" rel="noopener">Visit ↗</a></td></tr>
+<tr class="co-row" data-name="sotio biotech" data-type=""><td class="co-name">Sotio Biotech</td><td></td><td><span class="ats-badge" style="background:#14532d;color:#86efac">greenhouse</span></td><td class="co-url">https://job-boards.greenhouse.io/sotiobiotech</td><td><a class="open-link" href="https://job-boards.greenhouse.io/sotiobiotech" target="_blank" rel="noopener">Visit ↗</a></td></tr>
+<tr class="co-row" data-name="spexis" data-type=""><td class="co-name">Spexis</td><td></td><td><span class="ats-badge" style="background:#14532d;color:#86efac">greenhouse</span></td><td class="co-url">https://job-boards.greenhouse.io/spexis</td><td><a class="open-link" href="https://job-boards.greenhouse.io/spexis" target="_blank" rel="noopener">Visit ↗</a></td></tr>
 <tr class="co-row" data-name="stettler consulting" data-type=""><td class="co-name">Stettler Consulting</td><td></td><td><span class="ats-badge" style="background:#0f172a;color:#94a3b8">stettler</span></td><td class="co-url">https://www.stettlerconsulting.ch/en/find-jobs/</td><td><a class="open-link" href="https://www.stettlerconsulting.ch/en/find-jobs/" target="_blank" rel="noopener">Visit ↗</a></td></tr>
 <tr class="co-row" data-name="straumann" data-type="medical devices"><td class="co-name">Straumann</td><td><span class="ats-badge" style="background:#3b0764;color:#c084fc">Medical Devices</span></td><td><span class="ats-badge" style="background:#0c2340;color:#38bdf8">smartrecruiters</span></td><td class="co-url">https://careers.smartrecruiters.com/StraumannGroup1</td><td><a class="open-link" href="https://careers.smartrecruiters.com/StraumannGroup1" target="_blank" rel="noopener">Visit ↗</a></td></tr>
 <tr class="co-row" data-name="swiss cancer institute" data-type=""><td class="co-name">Swiss Cancer Institute</td><td></td><td><span class="ats-badge" style="background:#1f2937;color:#9ca3af">generic</span></td><td class="co-url">https://www.swisscancerinstitute.ch/en/about-us/career/#jobs</td><td><a class="open-link" href="https://www.swisscancerinstitute.ch/en/about-us/career/#jobs" target="_blank" rel="noopener">Visit ↗</a></td></tr>
 <tr class="co-row" data-name="syneos health" data-type="cro"><td class="co-name">Syneos Health</td><td><span class="ats-badge" style="background:#451a03;color:#fb923c">CRO</span></td><td><span class="ats-badge" style="background:#1e1b4b;color:#a5b4fc">workday</span></td><td class="co-url">https://syneoshealth.wd12.myworkdayjobs.com/en-US/Syneos_Health_External_Site</td><td><a class="open-link" href="https://syneoshealth.wd12.myworkdayjobs.com/en-US/Syneos_Health_External_Site" target="_blank" rel="noopener">Visit ↗</a></td></tr>
-<tr class="co-row" data-name="t3 pharmaceuticals" data-type=""><td class="co-name">T3 Pharmaceuticals</td><td></td><td><span class="ats-badge" style="background:#14532d;color:#86efac">greenhouse</span></td><td class="co-url">https://boards.greenhouse.io/t3pharmaceuticals</td><td><a class="open-link" href="https://boards.greenhouse.io/t3pharmaceuticals" target="_blank" rel="noopener">Visit ↗</a></td></tr>
+<tr class="co-row" data-name="t3 pharmaceuticals" data-type=""><td class="co-name">T3 Pharmaceuticals</td><td></td><td><span class="ats-badge" style="background:#14532d;color:#86efac">greenhouse</span></td><td class="co-url">https://job-boards.greenhouse.io/t3pharmaceuticals</td><td><a class="open-link" href="https://job-boards.greenhouse.io/t3pharmaceuticals" target="_blank" rel="noopener">Visit ↗</a></td></tr>
 <tr class="co-row" data-name="takeda" data-type="big pharma"><td class="co-name">Takeda</td><td><span class="ats-badge" style="background:#1e3a5f;color:#60a5fa">Big Pharma</span></td><td><span class="ats-badge" style="background:#1e1b4b;color:#a5b4fc">workday</span></td><td class="co-url">https://takeda.wd3.myworkdayjobs.com/en-US/External</td><td><a class="open-link" href="https://takeda.wd3.myworkdayjobs.com/en-US/External" target="_blank" rel="noopener">Visit ↗</a></td></tr>
-<tr class="co-row" data-name="targimmune therapeutics" data-type=""><td class="co-name">TargImmune Therapeutics</td><td></td><td><span class="ats-badge" style="background:#14532d;color:#86efac">greenhouse</span></td><td class="co-url">https://boards.greenhouse.io/targimmune</td><td><a class="open-link" href="https://boards.greenhouse.io/targimmune" target="_blank" rel="noopener">Visit ↗</a></td></tr>
+<tr class="co-row" data-name="targimmune therapeutics" data-type=""><td class="co-name">TargImmune Therapeutics</td><td></td><td><span class="ats-badge" style="background:#14532d;color:#86efac">greenhouse</span></td><td class="co-url">https://job-boards.greenhouse.io/targimmune</td><td><a class="open-link" href="https://job-boards.greenhouse.io/targimmune" target="_blank" rel="noopener">Visit ↗</a></td></tr>
 <tr class="co-row" data-name="tecan" data-type="life science tools"><td class="co-name">Tecan</td><td><span class="ats-badge" style="background:#1a2e05;color:#84cc16">Life Science Tools</span></td><td><span class="ats-badge" style="background:#78350f;color:#fcd34d">successfactors</span></td><td class="co-url">https://careers.tecan.com</td><td><a class="open-link" href="https://careers.tecan.com" target="_blank" rel="noopener">Visit ↗</a></td></tr>
 <tr class="co-row" data-name="telix pharmaceuticals" data-type="specialty pharma"><td class="co-name">Telix Pharmaceuticals</td><td><span class="ats-badge" style="background:#1e1b4b;color:#a5b4fc">Specialty Pharma</span></td><td><span class="ats-badge" style="background:#1f2937;color:#9ca3af">generic</span></td><td class="co-url">https://telixpharma.com/careers/find-a-job/</td><td><a class="open-link" href="https://telixpharma.com/careers/find-a-job/" target="_blank" rel="noopener">Visit ↗</a></td></tr>
 <tr class="co-row" data-name="tempus" data-type="ai / data"><td class="co-name">Tempus</td><td><span class="ats-badge" style="background:#4c0519;color:#f87171">AI / Data</span></td><td><span class="ats-badge" style="background:#1f2937;color:#9ca3af">generic</span></td><td class="co-url">https://www.tempus.com/careers/</td><td><a class="open-link" href="https://www.tempus.com/careers/" target="_blank" rel="noopener">Visit ↗</a></td></tr>
 <tr class="co-row" data-name="thermo fisher scientific" data-type="life science tools"><td class="co-name">Thermo Fisher Scientific</td><td><span class="ats-badge" style="background:#1a2e05;color:#84cc16">Life Science Tools</span></td><td><span class="ats-badge" style="background:#1e1b4b;color:#a5b4fc">workday</span></td><td class="co-url">https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers</td><td><a class="open-link" href="https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers" target="_blank" rel="noopener">Visit ↗</a></td></tr>
 <tr class="co-row" data-name="tigen pharma" data-type="biotech"><td class="co-name">Tigen Pharma</td><td><span class="ats-badge" style="background:#14532d;color:#4ade80">Biotech</span></td><td><span class="ats-badge" style="background:#1f2937;color:#9ca3af">generic</span></td><td class="co-url">https://www.tigenpharma.com/team</td><td><a class="open-link" href="https://www.tigenpharma.com/team" target="_blank" rel="noopener">Visit ↗</a></td></tr>
-<tr class="co-row" data-name="tolremo therapeutics" data-type=""><td class="co-name">Tolremo Therapeutics</td><td></td><td><span class="ats-badge" style="background:#14532d;color:#86efac">greenhouse</span></td><td class="co-url">https://boards.greenhouse.io/tolremo</td><td><a class="open-link" href="https://boards.greenhouse.io/tolremo" target="_blank" rel="noopener">Visit ↗</a></td></tr>
-<tr class="co-row" data-name="veeva systems" data-type="tech / saas"><td class="co-name">Veeva Systems</td><td><span class="ats-badge" style="background:#312e81;color:#818cf8">Tech / SaaS</span></td><td><span class="ats-badge" style="background:#14532d;color:#86efac">greenhouse</span></td><td class="co-url">https://boards.greenhouse.io/veeva</td><td><a class="open-link" href="https://boards.greenhouse.io/veeva" target="_blank" rel="noopener">Visit ↗</a></td></tr>
+<tr class="co-row" data-name="tolremo therapeutics" data-type=""><td class="co-name">Tolremo Therapeutics</td><td></td><td><span class="ats-badge" style="background:#14532d;color:#86efac">greenhouse</span></td><td class="co-url">https://job-boards.greenhouse.io/tolremo</td><td><a class="open-link" href="https://job-boards.greenhouse.io/tolremo" target="_blank" rel="noopener">Visit ↗</a></td></tr>
+<tr class="co-row" data-name="veeva systems" data-type="tech / saas"><td class="co-name">Veeva Systems</td><td><span class="ats-badge" style="background:#312e81;color:#818cf8">Tech / SaaS</span></td><td><span class="ats-badge" style="background:#14532d;color:#86efac">greenhouse</span></td><td class="co-url">https://job-boards.greenhouse.io/veeva</td><td><a class="open-link" href="https://job-boards.greenhouse.io/veeva" target="_blank" rel="noopener">Visit ↗</a></td></tr>
 <tr class="co-row" data-name="vertex pharmaceuticals" data-type="biotech"><td class="co-name">Vertex Pharmaceuticals</td><td><span class="ats-badge" style="background:#14532d;color:#4ade80">Biotech</span></td><td><span class="ats-badge" style="background:#1e1b4b;color:#a5b4fc">workday</span></td><td class="co-url">https://vrtx.wd501.myworkdayjobs.com/en-US/Vertex_Careers</td><td><a class="open-link" href="https://vrtx.wd501.myworkdayjobs.com/en-US/Vertex_Careers" target="_blank" rel="noopener">Visit ↗</a></td></tr>
-<tr class="co-row" data-name="ymmunobio" data-type=""><td class="co-name">Ymmunobio</td><td></td><td><span class="ats-badge" style="background:#14532d;color:#86efac">greenhouse</span></td><td class="co-url">https://boards.greenhouse.io/ymmunobio</td><td><a class="open-link" href="https://boards.greenhouse.io/ymmunobio" target="_blank" rel="noopener">Visit ↗</a></td></tr>
+<tr class="co-row" data-name="ymmunobio" data-type=""><td class="co-name">Ymmunobio</td><td></td><td><span class="ats-badge" style="background:#14532d;color:#86efac">greenhouse</span></td><td class="co-url">https://job-boards.greenhouse.io/ymmunobio</td><td><a class="open-link" href="https://job-boards.greenhouse.io/ymmunobio" target="_blank" rel="noopener">Visit ↗</a></td></tr>
 <tr class="co-row" data-name="zeiss" data-type="life science tools"><td class="co-name">Zeiss</td><td><span class="ats-badge" style="background:#1a2e05;color:#84cc16">Life Science Tools</span></td><td><span class="ats-badge" style="background:#1f2937;color:#9ca3af">generic</span></td><td class="co-url">https://www.zeiss.com/career</td><td><a class="open-link" href="https://www.zeiss.com/career" target="_blank" rel="noopener">Visit ↗</a></td></tr>
 <tr class="co-row" data-name="zühlke" data-type="tech / saas"><td class="co-name">Zühlke</td><td><span class="ats-badge" style="background:#312e81;color:#818cf8">Tech / SaaS</span></td><td><span class="ats-badge" style="background:#1f2937;color:#9ca3af">generic</span></td><td class="co-url">https://www.zuehlke.com/en/careers</td><td><a class="open-link" href="https://www.zuehlke.com/en/careers" target="_blank" rel="noopener">Visit ↗</a></td></tr>
       </tbody>
