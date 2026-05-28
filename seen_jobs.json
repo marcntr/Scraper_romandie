@@ -1033,7 +1033,7 @@
     "title": "Medical Affairs Coordinator",
     "company": "ICON plc",
     "location": "Switzerland, Basel",
-    "posted_date": "2026-05-07",
+    "posted_date": "2026-05-06",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1066,7 +1066,7 @@
     "title": "Medical Affairs Director Switzerland",
     "company": "Eli Lilly",
     "location": "Switzerland, Vernier",
-    "posted_date": "2026-05-08",
+    "posted_date": "2026-05-07",
     "department": "",
     "score": -2,
     "matched_keywords": [
@@ -1114,7 +1114,7 @@
     "title": "Discovery Scientists, in vitro and in vivo Pharmacology, in Cardiovascular & Metabolic Disease Research",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-05-09",
+    "posted_date": "2026-05-08",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -1134,7 +1134,7 @@
     "title": "Scientist, Pharmaceutical Development & Data Analytics _2 years temporary contract",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-05-12",
+    "posted_date": "2026-05-11",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1149,7 +1149,7 @@
     "title": "Medical Affairs Project Coordinator - Sponsor Dedicated - Morges",
     "company": "IQVIA",
     "location": "Basel, Switzerland",
-    "posted_date": "2026-05-28",
+    "posted_date": "",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1180,7 +1180,7 @@
     "title": "Technical Expert Portfolio Mgmt, Technical Feasibility and Planning",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-05-13",
+    "posted_date": "2026-05-12",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1203,7 +1203,7 @@
     "title": "Senior Scientist Material Management & Qualification - Quality Control",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-05-21",
+    "posted_date": "2026-05-20",
     "department": "",
     "score": -1,
     "matched_keywords": [
@@ -1220,7 +1220,7 @@
     "title": "Flow Cytometry Analyst",
     "company": "Labcorp",
     "location": "CHE - Geneva - 7 rue Moise-Marcinhes",
-    "posted_date": "2026-05-15",
+    "posted_date": "2026-05-14",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -1305,20 +1305,6 @@
     "description": "At Nestlé Nutrition, our mission is to nurture a Healthier Generation. We aim to achieve this by leading the way in Research and Development of science proven nutrition solutions and by partnering with parents and healthcare professionals around the world. From pre-conception to adulthood, we are widening our reach and opening up new opportunities across the lifelong nutrition journey. Position Snapshot Location: Konolfingen, Switzerland Company: Nestlé Product & Technology Center (NPTC) Nutrition Act. Rate: Full-Time Act. Rate 100% Type of contract: Permanent contract What we offer at Nestlé Exciting opportunities to develop your career your way; across different brands, businesses, functions, and regions. Flexible working arrangements - facilitating creativity and collaboration A culture of respect, with diversity, equity and inclusion at its core. Learn more here . A dynamic international environment empowering you to learn, develop and grow. Don’t hesitate to connect with us during the recruitment process to learn more. Position Summary As a Data Science Specialist , you will lead predictive modeling initiatives and translate complex data into actionable insights to support product innovation within the Nutrition Innovation Unit. You will collaborate with cross-functional teams (Scientists, Sensory Specialist, Product Developers, and others) to ensure robust data connectivity, high analytical standards, and full compliance with company frameworks. A Day in the Life of a Data Science Specialist Lead the application of machine learning techniques (e.g., regression, classification, time-series forecasting) to solve complex business problems across domains such as product development and advanced analytics Own the preparation of complex datasets, including data cleaning, transformation, and structuring, to enable robust modeling and high‑quality analysis. Partner closely with domain experts and cross‑functional stakeholders to design, develop, and deliver impactful data science solutions aligned with business needs. Deploy and operationalize models in production environments, ensuring performance, reliability, and scalability, using platforms such as Azure ML, Databricks, and Snowflake. Monitor model performance and continuously optimize accuracy, robustness, and scalability over time. Translate analytical insights into clear visualizations and structured narratives, effectively communicating recommendations to both technical and non‑technical audiences. What will make you successful Advanced degree (MSc or higher) in Data Science, Statistics, Computer Science, or a related field Extensive experience in data science within Life Sciences, Food, or Academia, applying agile development practices Proven track record in building and deploying predictive models in production Hands-on expertise with ML frameworks (TensorFlow, Keras, PyTorch, Scikit-learn) and statistical methods including Design of Experiments Familiarity with APIs (REST, JSON) and data visualization tools such as Power BI, PowerApps, and Streamlit Proficiency with cloud and data platforms including Azure, Databricks, Snowflake, and SQL databases. Ability to explain complex technical concepts to non-technical audience Strong collaboration skills, with experience working closely with cross-functional teams (scientists, sensory specialists, product developers) Highly autonomous and self‑driven, with strong problem‑solving capabilities Excellent communication skills in English Nestlé is committed to the accessibility of its recruitment process. If you require an adaptation during the recruitment process, please do let us know so we can support you effectively. All information will be treated confidentially. At Nestlé Research and Development in Konolfingen near Bern / Switzerland, we develop for Nestlé worldwide, new products, processes and packaging concepts for a broad range of products of our Nutrition, Dairy, Health Science and Coffee businesses. In addition, we also provide technical assistance to our factories. #nestlecareerswitzerland",
     "external_url": "https://jobdetails.nestle.com/job/Konolfingen-Data-Science-Specialist/1381829433/",
     "status": "matched"
-  },
-  "https://www.michaelpage.ch/fr/job-detail/portfolio-manager-fr-eng-100-m-f/ref/jn-042026-6999371?lang=en": {
-    "external_url": "https://www.michaelpage.ch/fr/job-detail/portfolio-manager-fr-eng-100-m-f/ref/jn-042026-6999371?lang=en",
-    "status": "ignored",
-    "title": "Portfolio Manager FR / ENG 100% (m / f)",
-    "company": "Michael Page Switzerland",
-    "location": "Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": -2,
-    "matched_keywords": [],
-    "deducted_keywords": [
-      "location:Switzerland"
-    ]
   },
   "https://www.michaelpage.ch/de/job-detail/product-business-development-manager/ref/jn-032026-6970319?lang=en": {
     "external_url": "https://www.michaelpage.ch/de/job-detail/product-business-development-manager/ref/jn-032026-6970319?lang=en",
@@ -1408,7 +1394,7 @@
     "title": "Senior Scientist (w/m/d)",
     "company": "CSL Behring / Vifor",
     "location": "EMEA, CH, Kanton Bern, Bern, CSL Behring",
-    "posted_date": "2026-05-20",
+    "posted_date": "2026-05-19",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1434,7 +1420,7 @@
     "title": "Senior Scientist Albumin",
     "company": "CSL Behring / Vifor",
     "location": "EMEA, CH, Kanton Bern, Bern, CSL Behring",
-    "posted_date": "2026-05-21",
+    "posted_date": "2026-05-20",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1450,7 +1436,7 @@
     "title": "Senior Scientist, Molecular Characterization and Method Development (w/m/d)",
     "company": "CSL Behring / Vifor",
     "location": "EMEA, CH, Kanton Bern, Bern, CSL Behring",
-    "posted_date": "2026-05-21",
+    "posted_date": "2026-05-20",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1482,7 +1468,7 @@
     "title": "Senior Scientist –Bioassays (m/f/x)",
     "company": "CSL Behring / Vifor",
     "location": "EMEA, CH, Kanton Bern, Bern, CSL Behring",
-    "posted_date": "2026-05-21",
+    "posted_date": "2026-05-20",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -1500,7 +1486,7 @@
     "title": "Senior Medical Director, Nephrology, Global Medical Affairs",
     "company": "Biogen",
     "location": "Baar, Switzerland",
-    "posted_date": "2026-05-21",
+    "posted_date": "2026-05-20",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -1581,7 +1567,7 @@
     "title": "Laboratory Scientist Physico-Chemical Quality Control 80-100%",
     "company": "Lonza",
     "location": "CH - Basel",
-    "posted_date": "2026-05-23",
+    "posted_date": "2026-05-22",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1739,7 +1725,7 @@
     "title": "Medical Director, Gastroenterology, Early Clinical Development",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-05-08",
+    "posted_date": "2026-05-07",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -1759,7 +1745,7 @@
     "title": "Research Scientist, DNA-encoded chemical libraries (DEL) (80-100%*)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-05-09",
+    "posted_date": "2026-05-08",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -1777,7 +1763,7 @@
     "title": "Head, Evidence Generation",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-05-21",
+    "posted_date": "2026-05-20",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1793,7 +1779,7 @@
     "title": "Regulatory Affairs Postgraduate Program Switzerland",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-05-21",
+    "posted_date": "2026-05-20",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1810,7 +1796,7 @@
     "title": "Head, Global Medical Affairs Oncology",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-05-21",
+    "posted_date": "2026-05-20",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1867,7 +1853,7 @@
     "title": "Medical Science Liaison - Respiratory",
     "company": "AstraZeneca",
     "location": "Switzerland - Baar",
-    "posted_date": "2026-05-28",
+    "posted_date": "",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1920,7 +1906,7 @@
     "title": "Medical Affairs Scientist Vaccines (m/f/d)",
     "company": "Pfizer",
     "location": "Switzerland - Zurich",
-    "posted_date": "2026-05-28",
+    "posted_date": "",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -1931,31 +1917,14 @@
       "clinical operations"
     ]
   },
-  "/job/Remote-Switzerland/Reg-Affairs-AD---CMC-Regulatory-Regional-Expert_R-01354769": {
-    "description": "Work Schedule Standard (Mon-Fri) Environmental Conditions Office Job Description Join Us as a Regulatory Affairs Associate Director – Make an Impact at the Forefront of Innovation We have successfully supported the top 50 pharmaceutical companies and more than 750 biotechs, spanning 2,700 clinical trials across 100+ countries in the last 5 years. As part of our global team, you’ll have the opportunity to lead innovative projects and provide strategic regulatory intelligence that makes a real difference in product development. As a Regulatory Affairs Associate Director, you'll play a key role in guiding product development from preclinical stages through registration and optimization. You will provide regulatory expertise and client interface, offering strategic guidance and updates on country, regional, and global regulatory intelligence. Routinely act as an adviser to other units within the department and liaise with local country regulatory authorities. Responsible for acting as a liaison with internal and external clients in the provision and marketing of these services. What You’ll Do: Lead CMC regulatory strategy and submissions for biologicals, ensuring compliance and successful product approvals across different regions. This is a position to lead and execute global CMC regulatory strategy and submissions, ensuring the delivery of high-quality CMC dossiers in full compliance with international regulatory standards. CMC Regulatory Strategy and submissions for Biologicals : Lead the development and execution of CMC regulatory strategies for biological products across regions. Serve as the subject matter expert on biologics, providing CMC regulatory guidance for the preparation of regulatory submissions to the regional agencies. Act as the primary liaison for CMC regulatory matters related to biologicals, collaborating with internal teams (R&D, Quality, Manufacturing, Global Regulatory) to align on submission strategies. Oversee the preparation, review, and submission of CMC sections (Module 3) specific to biological products, in regulatory filings such as MAAs and variations. Author, compile, and maintain CTD Module 3 content as applicable. Coordinate responses to CMC-related questions and deficiencies raised by the health authorities during product registration. Post-Approval Compliance and Lifecycle Management : Perform change control impact assessment for CMC changes Lead the CMC regulatory management and dossier authoring of post-approval changes, including manufacturing process changes, site transfers, and formulation updates for biological products Ensure continuous compliance with regulatory requirements throughout the lifecycle of the biological product, managing variations and renewals. Monitor and assess regulatory guidance related to biologics and provide strategic input into regulatory filings. • Acts as a global lead in providing review and technical advice to prepare regional and/or global regulatory submissions and ensure high quality standards that meet or exceed client expectations, local and regional requirements. • Acts as lead subject matter expert in providing regulatory strategy advice and technical expertise to internal and external clients and oversees key client projects. Provides internal clients with up-to-date legislation and guidance as it becomes available. • Ensures quality performance for key/managed projects. • Manages project budgeting/forecasting functions. • Identifies and recognizes out of scope activities in a contract in a timely manner and liaises with other departments to follow through on all aspects of contract modifications. • Collaborates with business development in pricing and securing new business by making presentations to clients, and develops proposal texts and budgets in collaboration with other departments. • Oversees matrix/project leadership, training and guidance to junior team members. • Ensures compliance with relevant organizational and department SOPs and WPDs. • Participates in and leads launch meetings, review meetings and project team meetings. Leads departmental initiatives/project teams. Education and Experience Requirements: • Master degree or PhD in biotechnology, pharmaceutical sciences or bio‐engineering, with relevant expertise in CMC development and CMC regulatory for biological products (min 10 yrs) • Previous experience that provides the knowledge, skills, and abilities to perform the job (comparable to 12+ years). In some cases an equivalency, consisting of a combination of appropriate education, training and/or directly related experience, will be considered sufficient for an individual to meet the requirements of the role. Knowledge, Skills and Abilities: • Mastery of English language (written and oral) communication skills as well as local language where applicable • Exceptional attention to detail and quality as well as outstanding editorial/proofreading skills • Accomplished interpersonal skills to work effectively in a team environment and act as a liaison with other departments • Advanced computer skills including the use of Microsoft Word, Excel, Power Point; capable of learning new technologies • Effective organizational, time management, and planning skills to create and follow timelines, conduct long-range planning, adapt to changing priorities and handle multiple projects • Professional negotiation skills • Capable of working independently and exercising independent judgment to assess sponsor regulatory needs and work with project team members to producing compliant deliverables • Advanced, broad understanding of global/regional/national country requirements/regulatory affairs procedures for clinical trial authorization, licensing, lifecycle management; expert knowledge of ICH and other global regulatory guidelines; in-depth understanding of a regulatory speciality areas, such as preclinical, clinical, CMC, publishing, etc. • Advanced understanding of medical terminology, statistical concepts, and guidelines • Outstanding analytical, investigative and problem-solving skills • Excellent understanding of budgeting and forecasting • Sharp executive presence and consultation and presentation skills • Extensive knowledge of global regulations including EMA regulations, ICH guidelines, and specific CMC regulatory requirements for biologics. • Proven experience leading CMC regulatory submissions for biological products, including initial MAA submissions and post-approval lifecycle management. • Strong understanding of biologics manufacturing, characterization, comparability, and analytical testing requirements. • Excellent project management skills with the ability to manage complex projects and timelines. • Strong communication and interpersonal skills, with experience working in cross-functional and international teams. Working Conditions and Environment: • Work is performed in an office environment with exposure to electrical office equipment. • Occasional drives to site locations with occasional travel both domestic and international.",
-    "external_url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Switzerland/Reg-Affairs-AD---CMC-Regulatory-Regional-Expert_R-01354769",
-    "status": "ignored",
-    "title": "Reg Affairs AD - CMC Regulatory Regional Expert",
-    "company": "Thermo Fisher Scientific",
-    "location": "Remote, Switzerland",
-    "posted_date": "2026-05-28",
-    "department": "",
-    "score": 6,
-    "matched_keywords": [
-      "PhD",
-      "location:remote",
-      "preclinical"
-    ],
-    "deducted_keywords": []
-  },
   "/job/Basel-City/In-vivo-Research-Scientist--80-100----_REQ-10077445-2": {
     "description": "Job Description Summary This role sits within our Comparative Medicines group, and is a highly technical and a specialized professional position responsible for collaborating with multi-discipline research programs by providing high quality & consistent in-vivo scientific/technical support. Job Description Internal Position Title: Research Scientist I/II Position Location: onsite, Basel, CH #LI-onsite About the role: Novartis' Biomedical Research division is our Innovation engine. We have bold objectives to transform the lives of millions of people living with diseases and conditions and unmet medical needs We currently have an opportunity for an in-vivo research associates to join us and contribute in making a real impact to patient lives. This role sits within our Comparative Medicines group, and is a highly technical and a specialized professional position responsible for collaborating with multi-discipline research programs by providing high quality & consistent in-vivo scientific/technical support. Your responsibilities will include: • Ensure state-of-the-art animal experimentation with highest ethical and technical standards: animal (mouse, rat) handling, substance application, clinical signs monitoring/scoring, blood/organ sampling or implementation of novel technologies • Provide evaluation of data with limited input from supervisor • Professional experience in pharmacodynamic, pharmacokinetic and tolerability studies advantageous • Weekend duties, early morning or late evening activity (e.g. dosing, bleeding) • Closely and independently interact with scientists • Understand and update experimental protocols • Responsible for pursuing continuous learning/professional development opportunities, enhancing/expanding skill set, and reviewing in-vivo techniques Minimum Requirements: • BSc degree in a scientific discipline, plus completed education as in-vivo laboratory technician (LTK 1 or equivalent) • 2+ years of experience performing in vivo work with rodents in an academic or industry setting • Excellent mathematic & compound dose/volume administration calculation skills • Superior written and oral communication and data documentation skills required • Strong commitment to animal welfare, team player, detail-oriented • Fluent in English required, knowledge of French and/or German is desirable *Please note that restrictions on flexible working may apply and will be discussed at interview stage if applicable Accessibility and Accommodation: Novartis is committed to working with and providing reasonable accommodation to all individuals. If, because of a medical condition or disability, you need a reasonable accommodation for any part of the recruitment process, or in order to receive more detailed information about the essential functions of a position, please send an e-mail to inclusion.switzerland@novartis.com and let us know the nature of your request and your contact information. Please include the job requisition number in your message. Skills Desired Analysis, Computer Systems, Lifesciences, Operating Systems, Scientific Support, Technical Support",
     "external_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Basel-City/In-vivo-Research-Scientist--80-100----_REQ-10077445-2",
-    "status": "matched",
+    "status": "ignored",
     "title": "In-vivo Research Scientist (80-100%) *",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-05-28",
+    "posted_date": "",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1977,5 +1946,25 @@
     "deducted_keywords": [
       "location:Switzerland"
     ]
+  },
+  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000128871559": {
+    "description": "You will contribute to the design, development, testing and maintenance of the Data Processing Platform (DPP), used for both offline and online analysis of accelerator and beam data. Working within the Data Processing team of the CERN Controls Software & Services group and following the Scrum methodology, you will help build reliable and scalable backend services supporting the control, monitoring and analysis of particle accelerators and equipment. You will participate in the validation and evolution of the platform architecture, develop production-ready integrations, and contribute to the modernisation of existing services through the migration of legacy systems to the DPP. Your responsibilities Contribute to the design, development, testing, and maintenance of software components for the Data Processing Platform (DPP). Collaborate with senior developers and stakeholders to gather requirements and implement reliable software solutions for accelerator controls and data processing. Participate in the evolution of the platform by contributing to new features, integrations, and improvements to existing services. Contribute to software quality activities, including testing, code reviews, debugging, and documentation. Learn and apply modern software engineering practices, tools, and technologies used within the CERN Controls Software & Services group. More information here . Your profile Experience in software development using Java and Python. Interest in software quality practices, testing methodologies, and maintainable software design. Interest in cloud-native technologies and modern software platforms; familiarity with Kubernetes, Knative, or similar technologies would be considered an asset. Skills Good knowledge of object-oriented programming principles and software engineering fundamentals. Understanding of concurrent programming and distributed systems concepts. Knowledge of the Spring Framework ecosystem (Spring Boot). Familiarity with version control systems, CI/CD concepts, and automated development workflows. Exposure to monitoring and logging tools such as Prometheus, Grafana, or the ELK Stack would be considered an advantage. Spoken and written English, with a commitment to learn French. Eligibility criteria: You are a national of a CERN Member or Associate Member State . By the application deadline, you have a maximum of two years of professional experience since graduation in Software Engineer, Computer Science (or a related field) and your highest educational qualification is either a Bachelor's or Master's degree . You have never had a CERN fellow or graduate contract before. Applicants without University degree are not eligible. Applicants with a PhD are not eligible.",
+    "external_url": "https://jobs.smartrecruiters.com/CERN/744000128871559-backend-software-developer-java-python-be-css-dsp-2026-151-grae-?oga=true",
+    "status": "matched"
+  },
+  "https://jobdetails.nestle.com/job/Lausanne-Early-Life-Nutrition-&-Growth-Data-Science-Intern/1398035633/": {
+    "description": "Location: Lausanne, Switzerland Work model: On-site Contract type / duration: Internship – 6 months Start date: September / October 2026 Be a force for good and transform your potential into something extraordinary. As an Early-Life Nutrition & Growth Data Science Intern at Nestlé Research, your mission is to uncover how early-life nutrition influences children’s growth and long-term cardiometabolic health. You will make a difference by collaborating closely with scientists and research teams across the R&D organization. This is your opportunity to make an impact while gaining hands on experience and mentorship to kick-start your career. How you’ll make an impact as an Early-Life Nutrition Data Science Intern Analyzing data from internal datasets and external cohorts to generate evidence on how dietary nutrients shape healthy growth and development. Reviewing scientific literature to identify the most relevant findings and strengthen the evidence base for the project. Presenting clear, insight-led recommendations to research groups and department teams to support informed decision-making. Delivering a well-structured report that translates complex scientific analysis into actionable project findings. Generating practical recommendations that help turn research outcomes into meaningful business and health impact. What will make you successful Currently pursuing or freshly graduated from a degree in data science, biostatistics, human nutritional physiology, and biochemistry to explore complex questions in early-life nutrition. Having good knowledge in data analysis, modelling, R and Python languages, and meta-analysis tools to turn data into meaningful insights. Being curious about infant and child health and nutrition, with the ability to connect scientific evidence to real-world outcomes. Using English fluently in both spoken and written communication. Demonstrating courage, collaboration, speed and continuous learning. At Nestlé Research, Nestlé Institute of Health Science, we place people at the heart of everything we do. Our benefits are designed to support your growth and well-being, so you can thrive at work and in life: Flexible working options, including hybrid work possibilities (for office-based roles) Learning and development opportunities to grow your career Healthcare contribution and access to the Employee Assistance Program Attractive employee discounts across various products and services What to expect from our hiring process We are committed to an inclusive and respectful hiring experience and are happy to provide reasonable accommodations if needed. Our workplaces are fully accessible and supported by a strong safety culture, with modern installations and procedures to ensure a safe environment for everyone. The hiring process typically includes a video interview with Talent Acquisition, an interview with the hiring team, and a final discussion and offer. We review applications as they are received and close the role once a strong list of relevant candidates is identified, so we encourage you to apply early. All information is treated confidentially. Ready to start your career journey with us? Apply now and transform your potential into something extraordinary.",
+    "external_url": "https://jobdetails.nestle.com/job/Lausanne-Early-Life-Nutrition-&-Growth-Data-Science-Intern/1398035633/",
+    "status": "matched",
+    "title": "Early-Life Nutrition & Growth Data Science Intern",
+    "company": "Nestlé",
+    "location": "Lausanne, CH",
+    "posted_date": "",
+    "department": "",
+    "score": 4,
+    "matched_keywords": [
+      "location:lausanne"
+    ],
+    "deducted_keywords": []
   }
 }
