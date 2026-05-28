@@ -574,7 +574,8 @@
     "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Basel-City/Research-Scientist--DNA-encoded-chemical-libraries--DEL---80-100---_REQ-10076037-1": "ignored",
     "https://www.michaelpage.ch/job-detail/sp%C3%A9cialiste-middle-office-portfolio-management-1-mois/ref/jn-052026-7018018": "ignored",
     "https://www.michaelpage.ch/fr/job-detail/portfolio-manager-fr-eng-100-m-f/ref/jn-042026-6999371?lang=en&ng-src=other-users-applied&ng-jn=job-search": "ignored",
-    "https://www.michaelpage.ch/job-detail/sp%C3%A9cialiste-middle-office-portfolio-management-1-mois/ref/jn-052026-7018018?ng-src=other-users-applied&ng-jn=job-search": "ignored"
+    "https://www.michaelpage.ch/job-detail/sp%C3%A9cialiste-middle-office-portfolio-management-1-mois/ref/jn-052026-7018018?ng-src=other-users-applied&ng-jn=job-search": "ignored",
+    "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Switzerland/Reg-Affairs-AD---CMC-Regulatory-Regional-Expert_R-01354769": "ignored"
   },
   "https://gloorlang.starhunter.software/Headhunter/project/job-ad/hash/693ffd941548c": {
     "external_url": "https://gloorlang.starhunter.software/Headhunter/project/job-ad/hash/693ffd941548c",
@@ -1373,20 +1374,6 @@
     "external_url": "https://jobs.smartrecruiters.com/Sobi/744000127132670-global-senior-strategic-sourcing-manager-?oga=true",
     "status": "matched"
   },
-  "https://www.michaelpage.ch/job-detail/senior-legal-compliance-regulatory-counsel-mfd-100/ref/jn-052026-7020163": {
-    "external_url": "https://www.michaelpage.ch/job-detail/senior-legal-compliance-regulatory-counsel-mfd-100/ref/jn-052026-7020163",
-    "status": "ignored",
-    "title": "Senior Legal Compliance & Regulatory Counsel (m/f/d) 100%",
-    "company": "Michael Page Switzerland",
-    "location": "Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": -2,
-    "matched_keywords": [],
-    "deducted_keywords": [
-      "location:Switzerland"
-    ]
-  },
   "/job/EMEA-CH-Kanton-Bern-Bern-CSL-Behring/Senior-Scientist--w-m-d-_R-279245": {
     "description": "The Opportunity Researches and develops innovative medicines to address unmet medical needs, from early discovery through clinical trials to commercialization. It ensures that all products meet the highest clinical safety standards and comply with global regulatory requirements. The role involves analyzing complex data, managing research processes, and maintaining technical documentation and systems. It also includes designing and implementing experimental and operational processes to support efficient product development and informed decision-making. In addition, the position leads projects and cross-functional teams, overseeing portfolio prioritization, resource allocation, and risk management. Finally, it contributes to the development and optimization of manufacturing processes to enable efficient, scalable, and compliant production. Key Responsibilities: Provides high quality scientific expertise in applying technology platforms to R&D Contributes to the planning, performance, evaluation and reporting of scientific experiments Coaches junior scientists and contributes to team development Manages projects/processes with limited supervision and ensures scientific rigor Collaborates cross-functionally to meet project milestones Works together with and provide expertise to other team members in order to achieve specified research project objectives within defined time parameters Your skills and experience PhD preferred or Master’s degree in a relevant field Minimum 3 years of industry or academic experience Troubleshooting complex experiments Guiding junior staff and managing project timelines Aligning research with broader goals About CSL Behring CSL Behring is a global biotherapeutics leader driven by our promise to save lives. Focused on serving patients’ needs by using the latest technologies, we discover, develop and deliver innovative therapies for people living with conditions in the immunology, hematology, cardiovascular and metabolic, respiratory, and transplant therapeutic areas. We use three strategic scientific platforms of plasma fractionation, recombinant protein technology, and cell and gene therapy to support continued innovation and continually refine ways in which products can address unmet medical needs and help patients lead full lives. CSL Behring operates one of the world’s largest plasma collection networks, CSL Plasma. Our parent company, CSL, headquartered in Melbourne, Australia, employs 32,000 people, and delivers its lifesaving therapies to people in more than 100 countries. To learn more about CSL, CSL Behring, CSL Seqirus and CSL Vifor  visit https://www.csl.com/ and CSL Plasma at https://www.cslplasma.com/ . Our Benefits For more information on CSL benefits visit How CSL Supports Your Well-being | CSL . You Belong at CSL At CSL, Inclusion and Belonging is at the core of our mission and who we are. It fuels our innovation day in and day out. By celebrating our differences and creating a culture of curiosity and empathy, we are able to better understand and connect with our patients and donors, foster strong relationships with our stakeholders, and sustain a diverse workforce that will move our company and industry into the future. To learn more about inclusion and belonging visit https://www.csl.com/careers/inclusion-and-belonging Equal Opportunity Employer CSL is an Equal Opportunity Employer. If you are an individual with a disability and need a reasonable accommodation for any part of the application process, please visit https://www.csl.com/accessibility-statement .",
     "external_url": "https://csl.wd1.myworkdayjobs.com/CSL_External/job/EMEA-CH-Kanton-Bern-Bern-CSL-Behring/Senior-Scientist--w-m-d-_R-279245",
@@ -1966,5 +1953,19 @@
       "location:lausanne"
     ],
     "deducted_keywords": []
+  },
+  "https://www.michaelpage.ch/fr/job-detail/portfolio-manager-fr-eng-100-m-f/ref/jn-042026-6999371?lang=en": {
+    "external_url": "https://www.michaelpage.ch/fr/job-detail/portfolio-manager-fr-eng-100-m-f/ref/jn-042026-6999371?lang=en",
+    "status": "matched",
+    "title": "Portfolio Manager FR / ENG 100% (m / f)",
+    "company": "Michael Page Switzerland",
+    "location": "Switzerland",
+    "posted_date": "",
+    "department": "",
+    "score": -2,
+    "matched_keywords": [],
+    "deducted_keywords": [
+      "location:Switzerland"
+    ]
   }
 }
