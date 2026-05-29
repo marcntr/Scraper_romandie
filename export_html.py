@@ -9,6 +9,7 @@ import os
 import re
 from datetime import datetime
 
+from bs4 import BeautifulSoup
 from config import TITLE_FILTERS
 from models import Job
 
@@ -102,6 +103,10 @@ _ALLCAPS_PATTERNS: list[tuple[re.Pattern, str]] = [
     (re.compile(r'\bOBJECTIVES(?:/PURPOSE)?\b'), "Key Responsibilities"),
     # Accountabilities → Key Responsibilities
     (re.compile(r'\bACCOUNTABILITIES\b'), "Key Responsibilities"),
+    # Role / position overview → About the Role
+    (re.compile(r'\bROLE OVERVIEW\b'), "About the Role"),
+    (re.compile(r'\bPOSITION OVERVIEW\b'), "About the Role"),
+    (re.compile(r'\bTHE OPPORTUNITY\b'), "About the Role"),
     # Combined form first (more specific) — e.g. "EDUCATION, BEHAVIOURAL COMPETENCIES AND SKILLS"
     (re.compile(r'\bEDUCATION,?\s*BEHAVIOURAL COMPETENCIES(?:\s+AND\s+SKILLS)?\b'), "Requirements"),
     (re.compile(r'\bBEHAVIORAL COMPETENCIES(?:\s+AND\s+SKILLS)?\b'), "Requirements"),
@@ -117,9 +122,11 @@ _SECTION_RE = re.compile(
     r'The Position|The Role'
     r'|About the Role|About Us|About the Company|About You|Who We Are|Who You Are'
     r'|Job Description|Job Summary|Role Summary|Position Summary'
+    r'|Role Overview|Position Overview|The Opportunity'
     # Responsibilities
     r'|Key Responsibilities?|Your Responsibilities?|Main Responsibilities?'
     r'|What You\'ll Do|What You Will Do'
+    r'|Your Tasks?|Your Duties'
     # Candidate profile
     r'|What We\'re Looking For|What We Are Looking For'
     r'|What You Bring|What You\'ll Need|What You Need'
@@ -139,7 +146,7 @@ _SECTION_RE = re.compile(
     r'|Nice to Have|Good to Have|Would Be a Plus'
     r'|Preferred Qualifications?|Preferred Skills?|Desired Qualifications?'
     # Offer
-    r'|What We Offer'
+    r'|What We Offer|Our Offer'
     r')\s*:?\s+',
     re.IGNORECASE,
 )
@@ -156,6 +163,9 @@ _SECTION_ALIASES: dict[str, str] = {
     "job summary":           "About the Role",
     "role summary":          "About the Role",
     "position summary":      "About the Role",
+    "role overview":         "About the Role",
+    "position overview":     "About the Role",
+    "the opportunity":       "About the Role",
     # ── Key Responsibilities ──────────────────────────────────────────────
     "your responsibilities":  "Key Responsibilities",
     "main responsibilities":  "Key Responsibilities",
@@ -163,6 +173,9 @@ _SECTION_ALIASES: dict[str, str] = {
     "what you will do":       "Key Responsibilities",
     "your mission":           "Key Responsibilities",
     "your role":              "Key Responsibilities",
+    "your task":              "Key Responsibilities",
+    "your tasks":             "Key Responsibilities",
+    "your duties":            "Key Responsibilities",
     # ── Requirements (generic — no essential/optional distinction) ────────
     "requirement":            "Requirements",
     "what we're looking for": "Requirements",
@@ -200,6 +213,9 @@ _SECTION_ALIASES: dict[str, str] = {
     "preferred skill":        "Good to Have",
     "desired qualifications": "Good to Have",
     "desired qualification":  "Good to Have",
+    # ── What We Offer ────────────────────────────────────────────────────
+    "what we offer":          "What We Offer",
+    "our offer":              "What We Offer",
 }
 
 # Section headers that mark hard requirements → orange badge
@@ -277,21 +293,41 @@ def _parse_description_sections(text: str) -> list[tuple[str, str]]:
 
 
 def _split_sentences(text: str) -> list[str]:
-    """Split section body text into individual sentences / list items."""
-    # Split on '. ' followed by a capital letter, or on newlines
-    items = re.split(r'\.\s+(?=[A-Z])', text)
+    """Split section body text into individual list items."""
+    # Prefer newline splitting — preserved when _strip_html uses block separators.
+    if '\n' in text:
+        raw = text.split('\n')
+    else:
+        # Fallback: sentence-boundary split for flat text.
+        # Require ≥3 lowercase chars before the period so abbreviations like
+        # B.Sc., Ph.D., e.g., i.e. don't trigger a false split.
+        raw = re.split(r'(?<=[a-z]{3})\.\s+(?=[A-Z])', text)
     result = []
-    for item in items:
-        item = item.strip().rstrip(".")
-        if len(item) > 15:           # drop very short fragments
+    for item in raw:
+        item = item.strip().rstrip('.')
+        if len(item) > 8:
             result.append(item)
     return result
 
 
 def _format_description(desc: str) -> str:
-    """Convert flat description text into structured HTML sections."""
+    """Convert description text into structured HTML sections."""
     if not desc:
         return ""
+
+    # Handle legacy cache entries that contain raw HTML (e.g. Greenhouse before
+    # _strip_html was applied). Re-strip with block-element newlines so the
+    # section/bullet parser sees structured text rather than escaped tag soup.
+    if re.search(r'<[a-zA-Z]', desc):
+        soup = BeautifulSoup(desc, "lxml")
+        for tag in soup.find_all(
+            ['p', 'li', 'br', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6', 'div', 'tr']
+        ):
+            tag.insert_before('\n')
+        desc = soup.get_text(separator="")
+        desc = re.sub(r'[ \t]+', ' ', desc)
+        desc = re.sub(r'[ \t]*\n[ \t]*', '\n', desc)
+        desc = re.sub(r'\n{3,}', '\n\n', desc).strip()
 
     sections = _parse_description_sections(desc)
     if not sections:

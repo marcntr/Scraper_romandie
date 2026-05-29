@@ -237,10 +237,17 @@ class BaseScraper(ABC):
         if not html:
             return ""
         soup = BeautifulSoup(html, "lxml")
-        text = soup.get_text(separator=" ", strip=True)
-        text = re.sub(r"[ \t]{2,}", " ", text)
-        text = re.sub(r"\n{3,}", "\n\n", text)
-        return text[:8000]
+        # Insert newlines before block elements so list/paragraph structure survives
+        # stripping — otherwise <li>Item A</li><li>Item B</li> collapses to "Item A Item B".
+        for tag in soup.find_all(
+            ['p', 'li', 'br', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6', 'div', 'tr']
+        ):
+            tag.insert_before('\n')
+        text = soup.get_text(separator="")
+        text = re.sub(r"[ \t]+", " ", text)            # collapse horizontal whitespace
+        text = re.sub(r"[ \t]*\n[ \t]*", "\n", text)  # trim spaces around newlines
+        text = re.sub(r"\n{3,}", "\n\n", text)         # at most two consecutive newlines
+        return text[:8000].strip()
 
     # ------------------------------------------------------------------
     # Subclass contract

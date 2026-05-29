@@ -108,6 +108,7 @@ TITLE_FILTERS: list[str] = [
     "investigator",
     # Consulting
     "life sciences strategy consultant",
+    "scientific consultant",
     "strategy consultant",
     "associate consultant",
     # IP / Patent
