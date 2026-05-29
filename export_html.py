@@ -130,7 +130,7 @@ _SECTION_RE = re.compile(
     # Candidate profile
     r'|What We\'re Looking For|What We Are Looking For'
     r'|What You Bring|What You\'ll Need|What You Need'
-    r'|Your Background|Your Profile|Your Mission|Your Role|Your Qualifications?'
+    r'|Your Background|Your Profile|Your Mission|Your Qualifications?'
     # Generic requirements header (injected by _normalize_allcaps or used directly by some ATS)
     r'|Requirements?'
     # Essential requirements — long-form Danaher/Workday phrases first (consumed whole)
@@ -151,95 +151,9 @@ _SECTION_RE = re.compile(
     re.IGNORECASE,
 )
 
-# Normalize verbose / ATS-specific header phrases to canonical display names.
-_SECTION_ALIASES: dict[str, str] = {
-    # ── About the Role ────────────────────────────────────────────────────
-    "the position":          "About the Role",
-    "the role":              "About the Role",
-    "about us":              "About the Role",
-    "about the company":     "About the Role",
-    "who we are":            "About the Role",
-    "job description":       "About the Role",
-    "job summary":           "About the Role",
-    "role summary":          "About the Role",
-    "position summary":      "About the Role",
-    "role overview":         "About the Role",
-    "position overview":     "About the Role",
-    "the opportunity":       "About the Role",
-    # ── Key Responsibilities ──────────────────────────────────────────────
-    "your responsibilities":  "Key Responsibilities",
-    "main responsibilities":  "Key Responsibilities",
-    "what you'll do":         "Key Responsibilities",
-    "what you will do":       "Key Responsibilities",
-    "your mission":           "Key Responsibilities",
-    "your role":              "Key Responsibilities",
-    "your task":              "Key Responsibilities",
-    "your tasks":             "Key Responsibilities",
-    "your duties":            "Key Responsibilities",
-    # ── Requirements (generic — no essential/optional distinction) ────────
-    "requirement":            "Requirements",
-    "what we're looking for": "Requirements",
-    "what we are looking for":"Requirements",
-    "what you bring":         "Requirements",
-    "what you'll need":       "Requirements",
-    "what you need":          "Requirements",
-    "your background":        "Requirements",
-    "your profile":           "Requirements",
-    "your qualifications":    "Requirements",
-    "about you":              "Requirements",
-    "who you are":            "Requirements",
-    # ── Essential Requirements (orange badge) ─────────────────────────────
-    "the essential requirements of the job include": "Essential Requirements",
-    "essential requirement":  "Essential Requirements",
-    "minimum requirements":   "Essential Requirements",
-    "minimum requirement":    "Essential Requirements",
-    "basic requirements":     "Essential Requirements",
-    "basic requirement":      "Essential Requirements",
-    "required qualifications":"Essential Requirements",
-    "minimum qualifications": "Essential Requirements",
-    "required skills":        "Essential Requirements",
-    "must have":              "Essential Requirements",
-    # ── Good to Have (teal badge) ─────────────────────────────────────────
-    "it would be a plus if you also possess previous experience in": "Good to Have",
-    "it would be a plus if you also": "Good to Have",
-    "it would be a plus if":  "Good to Have",
-    "it would be a plus":     "Good to Have",
-    "would be a plus":        "Good to Have",
-    "nice to have":           "Good to Have",
-    "good to have":           "Good to Have",
-    "preferred qualifications":"Good to Have",
-    "preferred qualification": "Good to Have",
-    "preferred skills":       "Good to Have",
-    "preferred skill":        "Good to Have",
-    "desired qualifications": "Good to Have",
-    "desired qualification":  "Good to Have",
-    # ── What We Offer ────────────────────────────────────────────────────
-    "what we offer":          "What We Offer",
-    "our offer":              "What We Offer",
-}
-
-# Section headers that mark hard requirements → orange badge
-_REQUIRED_KEYS = {
-    'essential requirements', 'required skills', 'must have',
-}
-
-# Section headers that mark optional / preferred → teal badge
-_OPTIONAL_KEYS = {
-    'good to have', 'preferred skills', 'preferred qualifications',
-}
-
-# Section keys where content should be rendered as a bullet list
-_LIST_KEYS = {
-    'key responsibilities', 'requirements',
-    'essential requirements', 'good to have',
-    'what you\'ll do', 'what you will do',
-    'what we\'re looking for', 'what we are looking for',
-    'what you bring', 'what you\'ll need', 'what you need',
-    'your background', 'your profile', 'who you are', 'about you',
-    'your qualifications', 'required skills',
-    'minimum requirements', 'must have',
-    'preferred skills', 'preferred qualifications',
-}
+# Substrings used to colour-code section header badges (case-insensitive).
+_REQUIRED_SUBSTRINGS = ('essential', 'required', 'must have', 'minimum')
+_OPTIONAL_SUBSTRINGS = ('preferred', 'desired', 'nice to have', 'good to have', 'plus')
 
 
 def _normalize_allcaps(text: str) -> str:
@@ -255,45 +169,104 @@ def _normalize_allcaps(text: str) -> str:
     return text
 
 
-def _parse_description_sections(text: str) -> list[tuple[str, str]]:
-    """Split flat description text into [(header, content), …] pairs.
+def _is_section_header(line: str, prev_blank: bool) -> bool:
+    """True if this line in structured (newline-bearing) text looks like a header.
 
-    The first tuple may have an empty header (preamble before any section).
-    Consecutive empty sections with the same header are merged/dropped.
+    A line qualifies if it matches _SECTION_RE (known ATS phrase) OR if it is
+    short, unpunctuated, starts with a capital, and follows a blank line.
     """
-    text = _normalize_allcaps(text)
-    parts = _SECTION_RE.split(text)
-    raw: list[tuple[str, str]] = []
+    if _SECTION_RE.search(line + ' '):
+        return True
+    return (
+        prev_blank
+        and 2 <= len(line) <= 60
+        and not re.search(r'[.,]$', line)
+        and not re.match(r'^[a-z\d•#\-–—*(]', line)
+    )
 
-    preamble = parts[0].strip()
-    if preamble:
-        raw.append(("", preamble))
 
-    for i in range(1, len(parts), 2):
-        header  = parts[i].strip().rstrip(":")
-        # Normalize verbose / ATS-specific phrases to canonical display names
-        header  = _SECTION_ALIASES.get(header.lower(), header)
-        content = parts[i + 1].strip() if i + 1 < len(parts) else ""
-        raw.append((header, content))
-
-    # Merge consecutive sections that share the same header.
-    # This handles both empty-content duplicates (Roche "The Position The Position")
-    # and ALL-CAPS patterns that normalize to the same canonical name
-    # (e.g. OBJECTIVES/PURPOSE + ACCOUNTABILITIES → both "Key Responsibilities").
+def _dedup_sections(raw: list[tuple[str, str]]) -> list[tuple[str, str]]:
+    """Merge consecutive duplicates then collapse non-consecutive ones."""
+    # Pass 1: consecutive
     merged: list[tuple[str, str]] = []
     for header, content in raw:
         if merged and merged[-1][0].lower() == header.lower():
-            combined = (merged[-1][1] + " " + content).strip()
-            merged[-1] = (merged[-1][0], combined)
+            merged[-1] = (merged[-1][0], (merged[-1][1] + '\n' + content).strip())
         elif content or not header:
             merged.append((header, content))
-        # else: skip empty-content sections that aren't the preamble
 
-    return merged
+    # Pass 2: non-consecutive — fold repeated named sections into their first occurrence
+    seen: dict[str, int] = {}
+    deduped: list[tuple[str, str]] = []
+    for header, content in merged:
+        h_lower = header.lower()
+        if h_lower and h_lower in seen:
+            idx = seen[h_lower]
+            deduped[idx] = (deduped[idx][0], (deduped[idx][1] + '\n' + content).strip())
+        else:
+            if h_lower:
+                seen[h_lower] = len(deduped)
+            deduped.append((header, content))
+    return deduped
+
+
+def _parse_description_sections(text: str) -> list[tuple[str, str]]:
+    """Split description text into [(header, content), …] pairs.
+
+    Two paths:
+    - Structured (has newlines): line-by-line header detection using both
+      _SECTION_RE and a heuristic for short unpunctuated standalone lines,
+      which catches ATS-specific headers not in the known list.
+    - Flat (no newlines): regex split on _SECTION_RE only.
+    """
+    text = _normalize_allcaps(text)
+
+    if '\n' in text:
+        raw: list[tuple[str, str]] = []
+        current_header = ""
+        content_lines: list[str] = []
+        prev_blank = True
+
+        for raw_line in text.split('\n'):
+            line = raw_line.strip()
+            if not line:
+                prev_blank = True
+                continue
+            if _is_section_header(line, prev_blank):
+                content = '\n'.join(content_lines).strip()
+                if content or not current_header:
+                    raw.append((current_header, content))
+                current_header = line.rstrip(':').strip()
+                content_lines = []
+            else:
+                content_lines.append(line)
+            prev_blank = False
+
+        content = '\n'.join(content_lines).strip()
+        if content or not current_header:
+            raw.append((current_header, content))
+
+    else:
+        parts = _SECTION_RE.split(text)
+        raw = []
+        preamble = parts[0].strip()
+        if preamble:
+            raw.append(("", preamble))
+        for i in range(1, len(parts), 2):
+            header  = parts[i].strip().rstrip(":")
+            content = parts[i + 1].strip() if i + 1 < len(parts) else ""
+            raw.append((header, content))
+
+    return _dedup_sections(raw)
 
 
 def _split_sentences(text: str) -> list[str]:
     """Split section body text into individual list items."""
+    # Normalise inline bullet separators to newlines so the newline path handles
+    # them uniformly with structured HTML output.
+    # · = SmartRecruiters middle dot, • = CSL Behring / Workday bullet U+2022
+    text = re.sub(r'\s*[·•]\s*', '\n', text)
+
     # Prefer newline splitting — preserved when _strip_html uses block separators.
     if '\n' in text:
         raw = text.split('\n')
@@ -305,6 +278,8 @@ def _split_sentences(text: str) -> list[str]:
     result = []
     for item in raw:
         item = item.strip().rstrip('.')
+        # Strip any remaining leading bullet markers (•, -, –, —, *)
+        item = re.sub(r'^[•\-–—*]\s*', '', item).strip()
         if len(item) > 8:
             result.append(item)
     return result
@@ -337,9 +312,9 @@ def _format_description(desc: str) -> str:
     for header, content in sections:
         if header:
             h_lower = header.lower()
-            if h_lower in _REQUIRED_KEYS:
+            if any(s in h_lower for s in _REQUIRED_SUBSTRINGS):
                 sh_cls = "desc-sh desc-sh--required"
-            elif h_lower in _OPTIONAL_KEYS:
+            elif any(s in h_lower for s in _OPTIONAL_SUBSTRINGS):
                 sh_cls = "desc-sh desc-sh--optional"
             else:
                 sh_cls = "desc-sh"
@@ -351,14 +326,10 @@ def _format_description(desc: str) -> str:
             parts.append(f'<div class="desc-sec">{header_html}</div>')
             continue
 
-        is_list = header.lower().rstrip(":") in _LIST_KEYS
-        if is_list:
-            sentences = _split_sentences(content)
-            if len(sentences) > 1:
-                items_html = "".join(f"<li>{_esc(s)}</li>" for s in sentences)
-                body_html  = f'<ul class="desc-list">{items_html}</ul>'
-            else:
-                body_html = f'<p class="desc-para">{_esc(content)}</p>'
+        sentences = _split_sentences(content)
+        if len(sentences) > 1:
+            items_html = "".join(f"<li>{_esc(s)}</li>" for s in sentences)
+            body_html  = f'<ul class="desc-list">{items_html}</ul>'
         else:
             body_html = f'<p class="desc-para">{_esc(content)}</p>'
 
