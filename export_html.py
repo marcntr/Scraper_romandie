@@ -125,14 +125,13 @@ _SECTION_RE = re.compile(
     r'|Role Overview|Position Overview|The Opportunity'
     # Responsibilities
     r'|Key Responsibilities?|Your Responsibilities?|Main Responsibilities?'
-    r'|What You\'ll Do|What You Will Do'
+    r'|Major Accountabilities?'
+    r'|What You\'ll Do|What You Will Do|Your Role'
     r'|Your Tasks?|Your Duties'
     # Candidate profile
     r'|What We\'re Looking For|What We Are Looking For'
     r'|What You Bring|What You\'ll Need|What You Need'
     r'|Your Background|Your Profile|Your Mission|Your Qualifications?'
-    # Generic requirements header (injected by _normalize_allcaps or used directly by some ATS)
-    r'|Requirements?'
     # Essential requirements — long-form Danaher/Workday phrases first (consumed whole)
     r'|The essential requirements of the job include'
     r'|Essential Requirements?|Minimum Requirements?|Basic Requirements?'
@@ -151,9 +150,111 @@ _SECTION_RE = re.compile(
     re.IGNORECASE,
 )
 
-# Substrings used to colour-code section header badges (case-insensitive).
-_REQUIRED_SUBSTRINGS = ('essential', 'required', 'must have', 'minimum')
-_OPTIONAL_SUBSTRINGS = ('preferred', 'desired', 'nice to have', 'good to have', 'plus')
+# Normalize verbose / ATS-specific header phrases to canonical display names.
+_SECTION_ALIASES: dict[str, str] = {
+    # ── About the Role ────────────────────────────────────────────────────
+    "the position":          "About the Role",
+    "the role":              "About the Role",
+    "about us":              "About the Role",
+    "about the company":     "About the Role",
+    "who we are":            "About the Role",
+    "job description":       "About the Role",
+    "job summary":           "About the Role",
+    "role summary":          "About the Role",
+    "position summary":      "About the Role",
+    "role overview":         "About the Role",
+    "position overview":     "About the Role",
+    "the opportunity":       "About the Role",
+    # ── Key Responsibilities ──────────────────────────────────────────────
+    "major accountabilities":  "Key Responsibilities",
+    "major accountability":    "Key Responsibilities",
+    "your responsibilities":   "Key Responsibilities",
+    "main responsibilities":   "Key Responsibilities",
+    "what you'll do":          "Key Responsibilities",
+    "what you will do":        "Key Responsibilities",
+    "your mission":            "Key Responsibilities",
+    "your role":               "Key Responsibilities",
+    "your task":               "Key Responsibilities",
+    "your tasks":              "Key Responsibilities",
+    "your duties":             "Key Responsibilities",
+    # ── Requirements (generic) ────────────────────────────────────────────
+    "what we're looking for":  "Requirements",
+    "what we are looking for": "Requirements",
+    "what you bring":          "Requirements",
+    "what you'll need":        "Requirements",
+    "what you need":           "Requirements",
+    "your background":         "Requirements",
+    "your profile":            "Requirements",
+    "your qualifications":     "Requirements",
+    "about you":               "Requirements",
+    "who you are":             "Requirements",
+    # ── Essential Requirements (orange badge) ─────────────────────────────
+    "the essential requirements of the job include": "Essential Requirements",
+    "essential requirement":   "Essential Requirements",
+    "minimum requirements":    "Essential Requirements",
+    "minimum requirement":     "Essential Requirements",
+    "basic requirements":      "Essential Requirements",
+    "basic requirement":       "Essential Requirements",
+    "required qualifications": "Essential Requirements",
+    "minimum qualifications":  "Essential Requirements",
+    "required skills":         "Essential Requirements",
+    "must have":               "Essential Requirements",
+    # ── Good to Have (teal badge) ─────────────────────────────────────────
+    "it would be a plus if you also possess previous experience in": "Good to Have",
+    "it would be a plus if you also": "Good to Have",
+    "it would be a plus if":   "Good to Have",
+    "it would be a plus":      "Good to Have",
+    "would be a plus":         "Good to Have",
+    "nice to have":            "Good to Have",
+    "good to have":            "Good to Have",
+    "preferred qualifications":"Good to Have",
+    "preferred qualification": "Good to Have",
+    "preferred skills":        "Good to Have",
+    "preferred skill":         "Good to Have",
+    "desired qualifications":  "Good to Have",
+    "desired qualification":   "Good to Have",
+    # ── What We Offer ────────────────────────────────────────────────────
+    "what we offer":           "What We Offer",
+    "our offer":               "What We Offer",
+}
+
+# Section headers that mark hard requirements → orange badge
+_REQUIRED_KEYS = {
+    'essential requirements', 'required skills', 'must have',
+}
+
+# Section headers that mark optional / preferred → teal badge
+_OPTIONAL_KEYS = {
+    'good to have', 'preferred skills', 'preferred qualifications',
+}
+
+# Section keys where content is rendered as a bullet list; others render as <p>.
+_LIST_KEYS = {
+    'key responsibilities', 'requirements',
+    'essential requirements', 'good to have',
+    'what we\'re looking for', 'what we are looking for',
+    'what you bring', 'what you\'ll need', 'what you need',
+    'your background', 'your profile', 'who you are', 'about you',
+    'your qualifications', 'required skills',
+    'minimum requirements', 'must have',
+    'preferred skills', 'preferred qualifications',
+}
+
+# Boilerplate sentences that appear at the end of many job descriptions (EEO,
+# accessibility, diversity statements) and should be stripped from bullet lists.
+_BOILERPLATE_RE = re.compile(
+    r'(?:'
+    r'\bEEO\s+paragraph\b'
+    r'|^Accessibility\s+and\s+Accommodation\b'
+    r'|^Commitment\s+to\s+Diversity(?:\s+and\s+Inclusion)?\b'
+    r'|^Equal\s+Opportunity\s+Employer\b'
+    r'|^Please\s+include\s+the\s+job\s+requisition\b'
+    r'|^If,?\s+because\s+of\s+a\s+medical\s+condition\b'
+    r'|^Skills\s+Desired\s*$'
+    r'|providing\s+reasonable\s+accommodation\s+to\s+all\s+individuals?\b'
+    r')',
+    re.IGNORECASE | re.MULTILINE,
+)
 
 
 def _normalize_allcaps(text: str) -> str:
@@ -236,7 +337,8 @@ def _parse_description_sections(text: str) -> list[tuple[str, str]]:
                 content = '\n'.join(content_lines).strip()
                 if content or not current_header:
                     raw.append((current_header, content))
-                current_header = line.rstrip(':').strip()
+                raw_header = line.rstrip(':').strip()
+                current_header = _SECTION_ALIASES.get(raw_header.lower(), raw_header)
                 content_lines = []
             else:
                 content_lines.append(line)
@@ -254,6 +356,7 @@ def _parse_description_sections(text: str) -> list[tuple[str, str]]:
             raw.append(("", preamble))
         for i in range(1, len(parts), 2):
             header  = parts[i].strip().rstrip(":")
+            header  = _SECTION_ALIASES.get(header.lower(), header)
             content = parts[i + 1].strip() if i + 1 < len(parts) else ""
             raw.append((header, content))
 
@@ -280,7 +383,7 @@ def _split_sentences(text: str) -> list[str]:
         item = item.strip().rstrip('.')
         # Strip any remaining leading bullet markers (•, -, –, —, *)
         item = re.sub(r'^[•\-–—*]\s*', '', item).strip()
-        if len(item) > 8:
+        if len(item) > 8 and not _BOILERPLATE_RE.search(item):
             result.append(item)
     return result
 
@@ -312,9 +415,9 @@ def _format_description(desc: str) -> str:
     for header, content in sections:
         if header:
             h_lower = header.lower()
-            if any(s in h_lower for s in _REQUIRED_SUBSTRINGS):
+            if h_lower in _REQUIRED_KEYS:
                 sh_cls = "desc-sh desc-sh--required"
-            elif any(s in h_lower for s in _OPTIONAL_SUBSTRINGS):
+            elif h_lower in _OPTIONAL_KEYS:
                 sh_cls = "desc-sh desc-sh--optional"
             else:
                 sh_cls = "desc-sh"
@@ -326,10 +429,14 @@ def _format_description(desc: str) -> str:
             parts.append(f'<div class="desc-sec">{header_html}</div>')
             continue
 
-        sentences = _split_sentences(content)
-        if len(sentences) > 1:
-            items_html = "".join(f"<li>{_esc(s)}</li>" for s in sentences)
-            body_html  = f'<ul class="desc-list">{items_html}</ul>'
+        is_list = header.lower() in _LIST_KEYS if header else False
+        if is_list:
+            sentences = _split_sentences(content)
+            if len(sentences) > 1:
+                items_html = "".join(f"<li>{_esc(s)}</li>" for s in sentences)
+                body_html  = f'<ul class="desc-list">{items_html}</ul>'
+            else:
+                body_html = f'<p class="desc-para">{_esc(content)}</p>'
         else:
             body_html = f'<p class="desc-para">{_esc(content)}</p>'
 

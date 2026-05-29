@@ -97,6 +97,11 @@ class SuccessFactorsScraper(BaseScraper):
             else:
                 location = ""
                 clean_title = raw_title
+            # Strip "Job Posting Title" / "Job Title" prefix inserted by some feeds
+            clean_title = re.sub(
+                r'^(?:Job\s+Posting\s+Title|Job\s+Title)\s+', '',
+                clean_title, flags=re.IGNORECASE,
+            ).strip()
 
             # Phase 1.5 pre-filter before HTML stripping
             if not self._passes_prefilter(
