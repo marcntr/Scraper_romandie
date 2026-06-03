@@ -570,7 +570,8 @@
     "https://gloorlang.starhunter.software/Headhunter/project/job-ad/hash/6a0f0490804d8": "ignored",
     "https://csl.wd1.myworkdayjobs.com/CSL_External/job/EMEA-CH-Kanton-Bern-Bern-CSL-Behring/Senior-Scientist--Molecular-Characterization-and-Method-Development--w-m-d-_R-279354": "ignored",
     "https://icon.wd3.myworkdayjobs.com/broadbean_external/job/Switzerland-Basel/Medical-Affairs-Coordinator_JR150621": "ignored",
-    "https://job-boards.greenhouse.io/isomorphiclabs/jobs/5741351004": "ignored"
+    "https://job-boards.greenhouse.io/isomorphiclabs/jobs/5741351004": "ignored",
+    "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/Switzerland---Baar/Medical-Science-Liaison---Respiratory_R-252691": "ignored"
   },
   "https://gloorlang.starhunter.software/Headhunter/project/job-ad/hash/693ffd941548c": {
     "external_url": "https://gloorlang.starhunter.software/Headhunter/project/job-ad/hash/693ffd941548c",
@@ -1031,7 +1032,7 @@
     "title": "Medical Affairs Project Coordinator - Sponsor Dedicated - Morges",
     "company": "IQVIA",
     "location": "Basel, Switzerland",
-    "posted_date": "2026-05-28",
+    "posted_date": "2026-05-27",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1039,21 +1040,6 @@
       "medical affairs"
     ],
     "deducted_keywords": []
-  },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000126069383": {
-    "description": "Are you passionate about technology and interested in supporting the CERN research communities? Join the CERN IT Platforms Group and the team responsible for the Web Hosting services for the thousands of websites and web applications deployed by the CERN communities. Your responsibilities Responsible for running, operating, and evolving CERN's Web Hosting services based on Kubernetes and OpenShift, ensuring appropriate operations and support for our communities. Ensure support and growth of CERN's OpenShift-based PaaS platform, in particular the integrations with CERN identity and networking via Kubernetes operators. Support the common tools for deployment and configuration of our platforms and applications, and extension of our services to public cloud resources. Provide guidance and support to the owners of websites and applications, including providing migration paths for remaining legacy web servers to the modern Kubernetes/OpenShift environments. More information here . Your profile Initial experience in deploying applications to Kubernetes/OpenShift. Experience with Linux system administration. Familiarity with Kubernetes security best practices. Skills Good knowledge of cloud native technologies, particularly Kubernetes and/or OpenShift/OKD. CKA/CKAD/CKS certification is a plus. Problem solving attitude. Knowledge of Bash. Knowledge of programming in GoLang and/or Python is a plus. Familiarity with Git, CI/CD tools, test and deployment automation. Spoken and written English, with a commitment to learn French. Eligibility criteria: You are a national of a CERN Member or Associate Member State . By the application deadline, you have a maximum of two years of professional experience since graduation in Computer Science (or a related field) and your highest educational qualification is either a Bachelor's or Master's degree . You have never had a CERN fellow or graduate contract before. Applicants without University degree are not eligible. Applicants with a PhD are not eligible.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000126069383-devops-kubernetes-web-hosting-engineer-it-pw-2026-138-grae-?oga=true",
-    "status": "matched"
-  },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000126001052": {
-    "description": "Are you passionate about cutting-edge technology and eager to work on innovative projects? We are looking for an Embedded Software Developer to join the Electronics Design and Low-Level Software (EDL) section within the Control Electronics and Mechatronics (CEM) group at CERN, and be part of the White Rabbit Collaboration Bureau . White Rabbit is a CERN-born technology and now an industry-standard that provides sub-nanosecond synchronisation and deterministic data transfer to distributed devices interconnected with a WR network. You will enhance and maintain the basic blocks of this technology, including the software and firmware running on the White Rabbit Switch and the White Rabbit PTP Core , which are deployed in thousands of instances globally. You will also interact with institutes and companies world-wide to help them with integration and deployments of White Rabbit. Your responsibilities: Develop and maintain software and firmware for the WR Switch and the WR PTP Core. Maintain GIT repos with dozens of developers. Develop and maintain tools to automate calibration and tests of WR devices, including hardware in Continuous Integration (CI) pipelines. Assist in the development of production tests to be conducted post-hardware manufacturing. Be part of outreach activities in conferences and events to promote WR Technology and the WR Collaboration. Support WR users world-wide. Collaborate with your colleagues in the hardware/software co-design process, where HDL, firmware, Linux device drivers and host applications are developed and reviewed together. More information here . Your profile: Development of embedded Linux software and bare-metal firmware. Working with an embedded Linux distributions running on SoC of AMD/Xilinx FPGA. Measurements with lab tools such as an oscilloscope. Debugging of hardware. Skills: Required: Low-level programming in C, including bare-metal. Embedded Linux and Linux Device drivers. Git-based development, code reviews, merge requests and CI pipelines. Python. Spoken and written English, with a commitment to learn French. Advantageous: Testing frameworks, PyTest. Basics in FPGA development (VHDL, Verilog, SystemVerilog). Capability of understanding PCB schematics. Networking and synchronisation protocols (e.g. NTP, PTP). Eligibility criteria: You are a national of a CERN Member or Associate Member State . By the application deadline, you have a maximum of two years of professional experience since graduation in Software Engineering (or a related field) and your highest educational qualification is either a Bachelor's or Master's degree . You have never had a CERN fellow or graduate contract before. Applicants without University degree are not eligible. Applicants with a PhD are not eligible.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000126001052-embedded-software-engineer-be-cem-edl-2026-136-grae-?oga=true",
-    "status": "matched"
-  },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000125998300": {
-    "description": "Within the Beams department, Controls Software and Services group, you will contribute to the evolution and consolidation of the operational tools used to control the accelerator complex. Working alongside a passionate team, you will help design and develop reliable backend solutions aligned with users' needs, supporting the operation of the world's largest particle physics laboratory. Your responsibilities Contribute to the development, testing, and validation of software components of the CERN accelerator control system. Collaborate with stakeholders and users to understand requirements and support daily accelerator operations. Participate in the investigation, diagnosis, and resolution of operational problems in collaboration with physicists and accelerator operators. Collaborate with highly skilled software engineers both inside the BE-CSS group and across the CERN Accelerators & Technology sector. More information here . Your profile Initial experience in software development using Java/Spring. Experience writing clean, maintainable code and applying the related principles. Ability and motivation to learn and navigate large, complex codebases. Positive attitude and experience working in teams (academic or professional). Skills Advanced knowledge of Java/Spring (Python is a plus). Concurrency and multithreading. Relational databases. Linux and container technology (Kubernetes is a plus). Testing, diagnosing and optimisation of software. Monitoring and troubleshooting of operational software systems. Spoken and written English, with a commitment to learn French. Eligibility criteria: You are a national of a CERN Member or Associate Member State . By the application deadline, you have a maximum of two years of professional experience since graduation in Software Engineer (or a related field) and your highest educational qualification is either a Bachelor's or Master's degree . You have never had a CERN fellow or graduate contract before. Applicants without University degree are not eligible. Applicants with a PhD are not eligible.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000125998300-java-engineer-accelerator-controls-be-css-dsp-2026-137-grae-?oga=true",
-    "status": "matched"
   },
   "/job/Basel/Technical-Expert-Portfolio-Mgmt--Technical-Feasibility-and-Planning_202509-122455-1": {
     "description": "At Roche you can show up as yourself, embraced for the unique qualities you bring. Our culture encourages personal expression, open dialogue, and genuine connections,  where you are valued, accepted and respected for who you are, allowing you to thrive both personally and professionally. This is how we aim to prevent, stop and cure diseases and ensure everyone has access to healthcare today and for generations to come. Join Roche, where every voice matters. The Position Bei Roche können Sie so sein, wie Sie sind – mit all den einzigartigen Qualitäten, die Sie mitbringen. Unsere Kultur fördert persönliche Entfaltung, offene Dialoge und aufrichtige Beziehungen. Hier werden Sie für die Person, die Sie sind, wertgeschätzt, akzeptiert und respektiert, sodass Sie sich persönlich und beruflich entfalten können. So wollen wir Krankheiten verhindern, stoppen und heilen und sicherstellen, dass jeder Mensch heute und für kommende Generationen Zugang zur Gesundheitsversorgung hat. Werde Teil von DS Clinical & Commercial Supply, wo jede Stimme zählt. Die Position: Die Abstimmung des Projektportfolios mit den Kapazitäten und Fähigkeiten von DS Clinical & Commercial Supply ist die Kernaufgabe Als Projekt-Liaison sind Sie die primäre Kontaktperson für Projekte aus Forschung und Entwicklung (REDs), Einlizensierungen sowie für lokale und globale Planungsrollen und -gremien. In Zusammenarbeit mit internen und externen Stakeholdern wie Synthetic Molecule Technical Development, Galenik, Regulatory und Quality gewährleisten Sie, dass die jeweiligen Projektziele abgestimmt sind. Sie übernehmen die Leitung für strategische Projektplanung & Machbarkeit und führen somit die langfristige strategische Planung aus, insbesondere eine 5-Jahres-Ausblicks für Betriebsanlagen und Personal, sowie Durchführung von Machbarkeitsstudien sowie Kapazitätsbewertungen. In der Rolle des Ressourcenkoordinators stimmen Sie Ressourcen in Kollaboration mit den Sektionen innerhalb von DS Clinical & Commercial Supply ab und überwachen die Planung innerhalb der Abteilung. Sie fungieren als Fachexperte und Berater für Herstellungsprozesse und/oder -anlagen und stellen Ihr Fachwissen zur Lösung komplexer technischer Probleme sowie strategischer Fragestellungen bereit. Sie leiten komplexe Untersuchungen, identifizieren Ursachen und implementieren wirksame Korrektur- und Vorbeugemaßnahmen. Als Mentor und Coach unterstützen Sie unsere Mitarbeiter bei deren kontinuierlichen Weiterentwicklung ihrer beruflichen Fähigkeiten und Kenntnisse. Treten Sie als treibende Kraft für kontinuierliche Verbesserung auf , indem Sie innovative Lösungen zur Prozessoptimierung und Produktivitätssteigerung identifizieren, Lean-Prinzipien und digitale Lösungen zur Verbesserung der Abläufe nutzen und implementieren. Fungieren Sie als Matrix-Lead , welcher die strategische Planung und Zielsetzung der Abteilung gestaltet und der einen starken Teamgeist und eine Kultur der Zusammenarbeit, Dringlichkeit sowie der hohen Motivation fördert, um diese Ziele zu erreichen. Wer Sie sind: Sie haben einen Abschluss in Chemie oder Chemieingenieurwesen und mindestens 10 Jahre Erfahrung in der Prozesschemie für synthetische Moleküle. Sie besitzen fundierte Kenntnisse in der chemischen Synthese, chemischen Prozesstechnologien und der Produktion in einer cGMP-Umgebung. Als technischer Experte verstehen Sie es, Teams in einer Matrixorganisation zu motivieren und einen starken Zusammenhalt zu schaffen, um gemeinsam erfolgreich zu sein. Ihre Stärken liegen in der Zusammenarbeit: Sie pflegen ausgezeichnete Beziehungen zu Stakeholdern und navigieren geschickt durch Verhandlungen und funktionsübergreifende Projekte. Sie sind ein aktiver Impulsgeber für den Wandel, der eine flexible und offene Kultur für neue Möglichkeiten schafft. Sie sind eine treibende Kraft für kontinuierliche Verbesserung und packen neue Herausforderungen mit Leidenschaft an. Sie kommunizieren fliessend in Deutsch und Englisch und überzeugen durch Ihre exzellenten Kommunikationsfähigkeiten. Sind Sie bereit, Ihre einzigartigen Qualitäten bei DS Clinical & Commercial Supply einzubringen und etwas zu bewirken? Bewerben Sie sich jetzt und gestalten Sie mit uns die Zukunft der Gesundheitsversorgung. Who we are A healthier future drives us to innovate. Together, more than 100’000 employees across the globe are dedicated to advance science, ensuring everyone has access to healthcare today and for generations to come. Our efforts result in more than 26 million people treated with our medicines and over 30 billion tests conducted using our Diagnostics products. We empower each other to explore new possibilities, foster creativity, and keep our ambitions high, so we can deliver life-changing healthcare solutions that make a global impact. Let’s build a healthier future, together. Roche is an Equal Opportunity Employer.",
@@ -1085,7 +1071,7 @@
     "title": "Senior Scientist Material Management & Qualification - Quality Control",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-06-03",
+    "posted_date": "",
     "department": "",
     "score": -1,
     "matched_keywords": [
@@ -1216,7 +1202,7 @@
     "title": "Senior Scientist Albumin",
     "company": "CSL Behring / Vifor",
     "location": "EMEA, CH, Kanton Bern, Bern, CSL Behring",
-    "posted_date": "2026-05-21",
+    "posted_date": "2026-05-20",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1247,7 +1233,7 @@
     "title": "Senior Scientist –Bioassays (m/f/x)",
     "company": "CSL Behring / Vifor",
     "location": "EMEA, CH, Kanton Bern, Bern, CSL Behring",
-    "posted_date": "2026-05-21",
+    "posted_date": "2026-05-20",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -1265,7 +1251,7 @@
     "title": "Senior Medical Director, Nephrology, Global Medical Affairs",
     "company": "Biogen",
     "location": "Baar, Switzerland",
-    "posted_date": "2026-05-21",
+    "posted_date": "2026-05-20",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -1313,7 +1299,7 @@
     "title": "Laboratory Scientist Physico-Chemical Quality Control 80-100%",
     "company": "Lonza",
     "location": "CH - Basel",
-    "posted_date": "2026-05-23",
+    "posted_date": "2026-05-22",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1690,7 +1676,7 @@
     "title": "(Senior) Scientist Development Bioanalytics 8 months fix-term contract 80-100%",
     "company": "Lonza",
     "location": "CH - Basel",
-    "posted_date": "",
+    "posted_date": "2026-06-01",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1705,7 +1691,7 @@
     "title": "Sr Account Director, Business Development - RWE",
     "company": "Thermo Fisher Scientific",
     "location": "Remote, Switzerland",
-    "posted_date": "",
+    "posted_date": "2026-06-01",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -1791,7 +1777,7 @@
     "title": "Scientist, Tech Ops (Analytical Testing)",
     "company": "CSL Behring / Vifor",
     "location": "EMEA, CH, Kanton Bern, Bern, CSL Behring",
-    "posted_date": "2026-06-03",
+    "posted_date": "",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1806,7 +1792,7 @@
     "title": "Senior Scientist, Tech Ops (Analytical Testing)",
     "company": "CSL Behring / Vifor",
     "location": "EMEA, CH, Kanton Bern, Bern, CSL Behring",
-    "posted_date": "2026-06-03",
+    "posted_date": "",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1818,7 +1804,7 @@
   },
   "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-analytical-project-leader-scientist-senior-scientist-basel-stadt-873611/1": {
     "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-analytical-project-leader-scientist-senior-scientist-basel-stadt-873611/1",
-    "status": "matched",
+    "status": "ignored",
     "title": "Analytical Project Leader (Scientist / Senior Scientist)(m/f/d)",
     "company": "Hays Switzerland",
     "location": "Basel Stadt, Switzerland",
@@ -1830,7 +1816,7 @@
   },
   "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-vice-president-of-business-development-basel-land-873413/1": {
     "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-vice-president-of-business-development-basel-land-873413/1",
-    "status": "matched",
+    "status": "ignored",
     "title": "Vice President of Business Development(m/f/d)",
     "company": "Hays Switzerland",
     "location": "Basel Land, Switzerland",
@@ -1842,7 +1828,7 @@
   },
   "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-scientist-lab-technician-assay-development-zug-873185/1": {
     "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-scientist-lab-technician-assay-development-zug-873185/1",
-    "status": "matched",
+    "status": "ignored",
     "title": "Scientist Lab Technician Assay Development(m/f/d)",
     "company": "Hays Switzerland",
     "location": "Zug, Switzerland",
@@ -1856,7 +1842,7 @@
   },
   "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-qc-scientist-microbiology-lengnau-berne-864632/1": {
     "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-qc-scientist-microbiology-lengnau-berne-864632/1",
-    "status": "matched",
+    "status": "ignored",
     "title": "QC Scientist Microbiology(m/f/d)",
     "company": "Hays Switzerland",
     "location": "Lengnau, Berne, Switzerland",
@@ -1865,5 +1851,15 @@
     "score": 0,
     "matched_keywords": [],
     "deducted_keywords": []
+  },
+  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000129917430": {
+    "description": "Are you a recent graduate looking for a professional experience within an international organisation? Are you passionate about international collaboration and diplomacy? Would you like to play a part in facilitating collaboration with Swiss and French partners in support of science?\nIf so, you're in the right place! Join the Host State Relations (HSR) service in the Stakeholder Engagement (SE) group in the Stakeholder Relations (SR) sector!\nThe mission of the Host State Relations service is to contribute to the proper functioning of CERN by working in collaboration with the Host State authorities and other Swiss and French public entities.\nYour responsibilities:\nAs a Junior Officer for Host State Relations, you will join a dynamic, multi-tasking team and perform a variety of tasks, including contributing to:\nConducting research and providing analyses on administrative and diplomatic issues.\nCollecting documentation and drafting notes and presentations for meetings with Host State authorities.\nFollowing-up on meetings and processes (writing minutes, letters, emails, etc., including of a confidential nature).\nAnalysing requests and questions from local stakeholders and issues raised by CERN Departments and staff members related to Host States procedures and drafting positions and answers.\nPreparing notes verbales, letters and documents relevant to the Host State authorities in the context of processes, events and visits.\nEnsuring maintenance of the institutional memory of the Service, including monitoring files and ensuring proper archiving of information.\nYour profile:\nExperience/interest in legal and administrative matters.\nExperience/interest in diplomatic and stakeholder relations.\nSkills:\nEssential skills:\nRigorous, tactful and proactive.\nAnalytical mind.\nExcellent interpersonal communication and presentation skills.\nDesire and ability to work in a team within a large international organisation.\nFast learner, capable of grasping new concepts rapidly and effectively.\nExcellent writing skills in French, with a good knowledge of English.\nSpoken and written both English and French.\nFurther details for the required skills and experience:\nhttps://stakeholder-relations.web.cern.ch/early-career-graduate-junior-officer-host-state-relations\nEligibility criteria:\nBy the application deadline, you have a maximum of two years of professional experience since graduation in International Affairs, Legal Affairs (or a related field) and your highest educational qualification is either a Bachelor's or Master's degree.\nYou have never had a CERN fellow or graduate contract before.\nApplicants without University degree are not eligible.\nApplicants with a PhD are not eligible.",
+    "external_url": "https://jobs.smartrecruiters.com/CERN/744000129917430-junior-officer-for-host-state-relations-sr-se-hsr-2026-154-grae-?oga=true",
+    "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000129915422": {
+    "description": "Introduction\nYou will undertake concept and preliminary design and prepare and implement design and construction contracts for the detailed design and construction of the civil engineering required for the new FCC Injection Complex to be constructed at the CERN Site in Prevessin, France, subject to FCC project approval. The civil engineering consists of a cut and cover reinforced concrete structure over 1km long and a series of surface buildings to house ancillary technical infrastructure\nFunctions\nWorking with colleagues from the accelerator and infrastructure teams, prepare conceptual and preliminary layouts and designs for the Injector complex structures.\nPrepare technical specifications and other contract documents for the procurement of civil engineering consultancy services related to the injection complex.\nManage contracts to develop tender designs and specification and play a lead role in the procurement of civil engineering contractors for the construction of the complex.\nManage the technical aspects and participate in the commercial aspects of the contracts to deliver the complex.",
+    "external_url": "https://jobs.smartrecruiters.com/CERN/744000129915422-civil-engineer-sce-ppm-fc-2026-118-ld-?oga=true",
+    "status": "matched"
   }
 }
