@@ -9,7 +9,7 @@
     "keywords": "npp"
   },
   "_generic:Charles River Laboratories": {
-    "keywords": "regulatory,scientist"
+    "keywords": "regulatory"
   },
   "_generic:MoonLake Immunotherapeutics": {
     "keywords": "clinical development,medical affairs"
@@ -355,7 +355,7 @@
     "title": "Scientist Microbiological Quality Control",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-05-04",
+    "posted_date": "2026-05-05",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -572,31 +572,8 @@
     "https://icon.wd3.myworkdayjobs.com/broadbean_external/job/Switzerland-Basel/Medical-Affairs-Coordinator_JR150621": "ignored",
     "https://job-boards.greenhouse.io/isomorphiclabs/jobs/5741351004": "ignored",
     "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/Switzerland---Baar/Medical-Science-Liaison---Respiratory_R-252691": "ignored",
-    "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Lengnau-Switzerland/Senior-Scientist-microbiological-Quality-Control_R-01349188": "ignored"
-  },
-  "https://gloorlang.starhunter.software/Headhunter/project/job-ad/hash/693ffd941548c": {
-    "external_url": "https://gloorlang.starhunter.software/Headhunter/project/job-ad/hash/693ffd941548c",
-    "status": "ignored",
-    "title": "Senior Expert Regulatory Affairs - CMC/Biosimilars",
-    "company": "Gloor & Lang",
-    "location": "Zürich Region, Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": 0,
-    "matched_keywords": [],
-    "deducted_keywords": []
-  },
-  "https://gloorlang.starhunter.software/Headhunter/project/job-ad/hash/68b5a83b99a4d": {
-    "external_url": "https://gloorlang.starhunter.software/Headhunter/project/job-ad/hash/68b5a83b99a4d",
-    "status": "ignored",
-    "title": "Regulatory Affairs Manager 80%",
-    "company": "Gloor & Lang",
-    "location": "Basel, Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": 0,
-    "matched_keywords": [],
-    "deducted_keywords": []
+    "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Lengnau-Switzerland/Senior-Scientist-microbiological-Quality-Control_R-01349188": "ignored",
+    "https://csl.wd1.myworkdayjobs.com/CSL_External/job/EMEA-CH-Kanton-Bern-Bern-CSL-Behring/Senior-Scientist-Albumin_R-279458": "ignored"
   },
   "_generic:Hurdle Bio": {
     "keywords": "npp"
@@ -626,7 +603,7 @@
     "title": "Scientist – QC Lab Systems & CSV (GMP)",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-05-04",
+    "posted_date": "2026-05-05",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -681,7 +658,7 @@
     "title": "Manager Quality System & Regulatory Compliance",
     "company": "Abbott",
     "location": "Switzerland - Zurich",
-    "posted_date": "2026-05-04",
+    "posted_date": "2026-05-05",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -732,7 +709,7 @@
     "title": "Computational Biology - Oncology",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-05-04",
+    "posted_date": "2026-05-05",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -753,7 +730,7 @@
     "title": "Global Medical Affairs Lead Genomic Profiling",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-05-04",
+    "posted_date": "2026-05-05",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -771,7 +748,7 @@
     "title": "Sr. Scientist - Computational Biology - Neuroscience & Rare Diseases",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-05-04",
+    "posted_date": "2026-05-05",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -794,7 +771,7 @@
     "title": "Post Doctorate Scientist – Vascularized Kidney Organoids - at the Institute of Human Biology (IHB)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-05-04",
+    "posted_date": "2026-05-05",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -823,7 +800,7 @@
     "title": "​Sr Manager / Associate Director Regulatory Affairs - Swiss Affiliate",
     "company": "Gilead Sciences",
     "location": "Switzerland - Zug",
-    "posted_date": "2026-05-04",
+    "posted_date": "2026-05-05",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -839,7 +816,7 @@
     "title": "Analytical Molecular Characterization Team Lead and Mass Spectrometry Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-05-04",
+    "posted_date": "2026-05-05",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -861,7 +838,7 @@
     "title": "Post Doctorate Scientist (IHB) - In Vitro Modeling Adaptive Immunologist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-05-04",
+    "posted_date": "2026-05-05",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -884,7 +861,7 @@
     "title": "Post Doctoral Scientist (IHB) - Computational Immunology",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-05-04",
+    "posted_date": "2026-05-05",
     "department": "",
     "score": 12,
     "matched_keywords": [
@@ -921,18 +898,6 @@
     "external_url": "https://jobs.smartrecruiters.com/AbbVie/3743990012890486-senior-government-affairs-manager?oga=true",
     "status": "matched"
   },
-  "https://gloorlang.starhunter.software/Headhunter/project/job-ad/hash/69e5f1b516f9f": {
-    "external_url": "https://gloorlang.starhunter.software/Headhunter/project/job-ad/hash/69e5f1b516f9f",
-    "status": "ignored",
-    "title": "Regulatory Affairs Specialist",
-    "company": "Gloor & Lang",
-    "location": "Zürich Region, Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": 0,
-    "matched_keywords": [],
-    "deducted_keywords": []
-  },
   "/job/Switzerland-Vernier/Medical-Affairs-Director-Switzerland_R-105412-1": {
     "description": "At Lilly, we unite caring with discovery to make life better for people around the world. We are a global healthcare leader headquartered in Indianapolis, Indiana. Our employees around the world work to discover and bring life-changing medicines to those who need them, improve the understanding and management of disease, and give back to our communities through philanthropy and volunteerism. We give our best effort to our work, and we put people first. We’re looking for people who are determined to make life better for people around the world. Position Title Medical Director – Medical Affairs Switzerland Purpose The Medical Director – Medical Affairs Switzerland provides medical and scientific leadership, oversight, and strategic direction for Medical Affairs activities within the Swiss affiliate. The role is responsible for leading and developing the medical team, driving innovation, ensuring scientific excellence, regulatory compliance, and strong cross‑functional collaboration to support pre‑ and post‑launch activities across the portfolio. In addition to people leadership and operational responsibilities, the Medical Director drives medical strategy execution, oversees clinical and non‑interventional research activities where applicable, and ensures alignment with global Medical Affairs, Development, and brand strategies. Compliance and Ethics The Medical Director ensures that all Medical Affairs activities are conducted in full compliance with applicable local and international regulations, laws, guidelines (e.g. ICH, GCP), company standards, policies, and ethical principles. The role acts as a role model for scientific integrity and ethical behavior within the affiliate. Primary Responsibilities 1. Leadership, Talent Development and Performance Management Provide leadership, coaching, mentoring, and performance management for direct reports within the Swiss Medical Affairs organization. Develop and maintain clear performance objectives, development plans, and competency documentation for team members. Conduct regular one‑on‑one meetings to review objectives, development needs, and career aspirations. Ensure optimal resource planning, workload allocation, and long‑term retention of medical talent. Contribute actively to succession planning and talent development initiatives in collaboration with HR and global Medical leadership. Support recruitment and onboarding of qualified Medical Affairs professionals. 2. Medical Strategy and Clinical Oversight Lead the development and execution of local medical strategies aligned with brand, affiliate, and global Medical Affairs objectives. Provide affiliate medical input into clinical development plans and support the implementation of Phase 3b/4 and other medically driven studies where applicable. Ensure coherence between local medical activities and global development and Medical Affairs strategies. Monitor progress against agreed medical and clinical deliverables and initiate corrective actions when required. Oversee medical governance for protocols, amendments, informed consent documents, grants, and contracts at affiliate level. 3. Scientific Expertise and Data Oversight Maintain strong scientific and therapeutic area expertise and stay current with emerging medical and scientific developments. Critically evaluate clinical data, medical literature, and competitive landscapes relevant to the portfolio. Review and approve medical information materials, scientific publications, abstracts, presentations, and symposia content. Ensure timely and accurate dissemination of scientific and clinical data in line with company standards and regulations. 4. External Engagement and Medical Excellence Provide scientific leadership in interactions with healthcare professionals, scientific experts, and external stakeholders. Oversee advisory boards, scientific meetings, congress activities, and medical education initiatives. Ensure the medical team provides high‑quality, compliant scientific support to commercial and cross‑functional teams. Act as a patient‑focused medical expert and contribute to defining the patient journey and key medical decision points. 5. Cross‑Functional and Business Collaboration Partner closely with Commercial, Market Access, Regulatory, Clinical Operations, and other functions to support product lifecycle activities. Provide medical input into local business planning and strategic initiatives. Contribute as a core member of the affiliate leadership and management team. Act as the primary medical liaison between the Swiss affiliate and global Medical Affairs and Development teams. 6. Governance and Administrative Responsibilities Review and approve key medical and scientific documents requiring senior medical sign‑off. Ensure effective budget oversight and responsible management of medical operational expenses. Support continuous process improvement and implementation of best practices within Medical Affairs. Represent the Swiss affiliate in internal governance committees and external scientific or industry forums as appropriate. Minimum Qualification Requirements Medical Doctor (MD) or equivalent, with completed medical training relevant to Switzerland. Board certification or eligibility in a relevant specialty is preferred. Minimum 7–10 years of experience in clinical research and/or Medical Affairs. Demonstrated leadership experience managing medical or scientific professionals. Strong communication, stakeholder management, and influencing skills. Fluent in English (German and/or French preferred). Willingness to travel as required. Additional Information This job description reflects core responsibilities but is not intended to be an exhaustive list. Responsibilities may evolve based on business needs and organizational changes. Lilly is dedicated to helping individuals with disabilities to actively engage in the workforce, ensuring equal opportunities when vying for positions. If you require accommodation to submit a resume for a position at Lilly, please complete the accommodation request form ( https://careers.lilly.com/us/en/workplace-accommodation ) for further assistance. Please note this is for individuals to request an accommodation as part of the application process and any other correspondence will not receive a response. Lilly does not discriminate on the basis of age, race, color, religion, gender, sexual orientation, gender identity, gender expression, national origin, protected veteran status, disability or any other legally protected status. #WeAreLilly",
     "external_url": "https://lilly.wd5.myworkdayjobs.com/LLY/job/Switzerland-Vernier/Medical-Affairs-Director-Switzerland_R-105412-1",
@@ -940,7 +905,7 @@
     "title": "Medical Affairs Director Switzerland",
     "company": "Eli Lilly",
     "location": "Switzerland, Vernier",
-    "posted_date": "2026-05-07",
+    "posted_date": "2026-05-08",
     "department": "",
     "score": -2,
     "matched_keywords": [
@@ -978,7 +943,7 @@
     "title": "Discovery Scientists, in vitro and in vivo Pharmacology, in Cardiovascular & Metabolic Disease Research",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-05-08",
+    "posted_date": "2026-05-09",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -998,7 +963,7 @@
     "title": "Scientist, Pharmaceutical Development & Data Analytics _2 years temporary contract",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-05-11",
+    "posted_date": "2026-05-12",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1013,7 +978,7 @@
     "title": "Medical Affairs Project Coordinator - Sponsor Dedicated - Morges",
     "company": "IQVIA",
     "location": "Basel, Switzerland",
-    "posted_date": "2026-05-27",
+    "posted_date": "2026-05-28",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1029,7 +994,7 @@
     "title": "Technical Expert Portfolio Mgmt, Technical Feasibility and Planning",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-05-12",
+    "posted_date": "2026-05-13",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1069,7 +1034,7 @@
     "title": "Flow Cytometry Analyst",
     "company": "Labcorp",
     "location": "CHE - Geneva - 7 rue Moise-Marcinhes",
-    "posted_date": "2026-05-14",
+    "posted_date": "2026-05-15",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -1198,7 +1163,7 @@
     "title": "Senior Scientist –Bioassays (m/f/x)",
     "company": "CSL Behring / Vifor",
     "location": "EMEA, CH, Kanton Bern, Bern, CSL Behring",
-    "posted_date": "2026-05-20",
+    "posted_date": "2026-05-21",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -1216,7 +1181,7 @@
     "title": "Senior Medical Director, Nephrology, Global Medical Affairs",
     "company": "Biogen",
     "location": "Baar, Switzerland",
-    "posted_date": "2026-05-20",
+    "posted_date": "2026-05-21",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -1264,7 +1229,7 @@
     "title": "Laboratory Scientist Physico-Chemical Quality Control 80-100%",
     "company": "Lonza",
     "location": "CH - Basel",
-    "posted_date": "2026-05-22",
+    "posted_date": "2026-05-23",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1532,7 +1497,7 @@
     "title": "Regulatory Affairs Postgraduate Program Switzerland",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-05-20",
+    "posted_date": "2026-05-21",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1554,7 +1519,7 @@
     "title": "Medical Director, Gastroenterology, Early Clinical Development",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-05-07",
+    "posted_date": "2026-05-08",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -1574,7 +1539,7 @@
     "title": "In-vivo Research Scientist (80-100%) *",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-05-27",
+    "posted_date": "2026-05-28",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1614,7 +1579,7 @@
     "title": "Product Manager - Spatial Biology",
     "company": "Bio-Techne / Lunaphore",
     "location": "Tolochenaz, Switzerland",
-    "posted_date": "2026-06-01",
+    "posted_date": "2026-06-02",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -1636,7 +1601,7 @@
     "title": "(Senior) Scientist Development Bioanalytics 8 months fix-term contract 80-100%",
     "company": "Lonza",
     "location": "CH - Basel",
-    "posted_date": "2026-06-01",
+    "posted_date": "2026-06-02",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1651,7 +1616,7 @@
     "title": "Sr Account Director, Business Development - RWE",
     "company": "Thermo Fisher Scientific",
     "location": "Remote, Switzerland",
-    "posted_date": "2026-06-01",
+    "posted_date": "2026-06-02",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -1782,20 +1747,6 @@
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000129956310-safety-and-controls-engineer-for-the-cms-experiment-ep-cms-ec-2026-119-ld-?oga=true",
     "status": "matched"
   },
-  "https://gloorlang.starhunter.software/Headhunter/project/job-ad/hash/6a201d0a1a053": {
-    "external_url": "https://gloorlang.starhunter.software/Headhunter/project/job-ad/hash/6a201d0a1a053",
-    "status": "matched",
-    "title": "Validation & Investigation Scientist",
-    "company": "Gloor & Lang",
-    "location": "Neuchatel - Lausanne Region, Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": 4,
-    "matched_keywords": [
-      "location:lausanne"
-    ],
-    "deducted_keywords": []
-  },
   "https://jobdetails.nestle.com/job/Lausanne-Women's-Health-Proteomics-Data-Science-Intern/1400446133/": {
     "description": "Location: Lausanne, Switzerland\nWork model: On site\nContract type / duration: Internship - 6 months\n\nStart Date : September 2026\nDeadline for applications: June 18\n\nBe a force for good and transform your potential into something extraordinary.\n\nAs a Proteomics Data Science Intern at Nestlé Research, Nestlé Institute of Health Sciences, your mission is to help uncover nutrition-related biomarkers by analysing large-scale proteomics and health data linked to women’s health across key life stages. You will make a difference by collaborating closely with scientists, data specialists and cross-functional project teams to connect clinical, nutritional and phenotypic insights with molecular data. This is your opportunity to contribute to meaningful research while gaining hands on experience and mentorship to kick-start your career.\n\nHow you’ll make an impact as a Women’s Health Proteomics Data Science Intern\n\nApplying and refining statistical methods to analyse proteomics and health data from large cohorts, including biobank-scale datasets.\n\nIdentifying meaningful biomarkers that can deepen understanding of women’s health, ageing and nutrition-related outcomes.\n\nReviewing scientific literature and translating insights into clear recommendations for internal research discussions.\n\nPartnering with cross-functional research teams to combine proteomics, clinical, nutritional and phenotypic data and improve the relevance of your analyses.\n\nDelivering a final report or manuscript that shares your findings with the scientific community at the Nestlé Institute of Health Sciences\n\nWhat will make you successful\n\nCurrent Bachelor’s/Master’s student or fresh graduate in the field of statistics, bioinformatics, computational biology, life sciences or data science.\n\nHaving solid programming skills, including confidence using R to work with complex datasets, and ideally some exposure to large cohort or omics data.\n\nBeing curious, self-directed, and able to share results clearly with teams from different backgrounds by simplifying complex concepts.\n\nHaving fluency in English.\n\nDemonstrating courage, collaboration, speed and continuous learning.\n\nAt Nestlé Research, Nestlé Institute of Health Sciences, we place people at the heart of everything we do.\n\nOur benefits are designed to support your growth and wellbeing, so you can thrive at work and in life:\n\nFlexible working options, including hybrid work possibilities (for office-based roles)\n\nLearning and development opportunities to grow your career\n\nHealthcare contribution and access to the Employee Assistance Program\n\nAttractive employee discounts across various products and services\n\nWhat to expect from our hiring process\n\nWe are committed to an inclusive and respectful hiring experience and are happy to provide reasonable accommodations if needed. Our workplaces are fully accessible and supported by a strong safety culture, with modern installations and procedures to ensure a safe environment for everyone.\n\nThe hiring process typically includes a video interview with Talent Acquisition, an interview with the hiring team, and a final discussion and offer. We review applications as they are received and close the role once a strong list of relevant candidates is identified, so we encourage you to apply early. All information is treated confidentially.\n\nReady to start your career journey with us?\n\nApply now and transform your potential into something extraordinary.",
     "external_url": "https://jobdetails.nestle.com/job/Lausanne-Women's-Health-Proteomics-Data-Science-Intern/1400446133/",
@@ -1812,6 +1763,70 @@
       "location:lausanne",
       "proteomics"
     ],
+    "deducted_keywords": []
+  },
+  "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-analytical-project-leader-scientist-senior-scientist-basel-stadt-873611/1": {
+    "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-analytical-project-leader-scientist-senior-scientist-basel-stadt-873611/1",
+    "status": "matched",
+    "title": "Analytical Project Leader (Scientist / Senior Scientist)(m/f/d)",
+    "company": "Hays Switzerland",
+    "location": "Basel Stadt, Switzerland",
+    "posted_date": "",
+    "department": "",
+    "score": 0,
+    "matched_keywords": [],
+    "deducted_keywords": []
+  },
+  "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-vice-president-of-business-development-basel-land-873413/1": {
+    "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-vice-president-of-business-development-basel-land-873413/1",
+    "status": "matched",
+    "title": "Vice President of Business Development(m/f/d)",
+    "company": "Hays Switzerland",
+    "location": "Basel Land, Switzerland",
+    "posted_date": "",
+    "department": "",
+    "score": 0,
+    "matched_keywords": [],
+    "deducted_keywords": []
+  },
+  "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-scientist-lab-technician-assay-development-zug-873185/1": {
+    "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-scientist-lab-technician-assay-development-zug-873185/1",
+    "status": "matched",
+    "title": "Scientist Lab Technician Assay Development(m/f/d)",
+    "company": "Hays Switzerland",
+    "location": "Zug, Switzerland",
+    "posted_date": "",
+    "department": "",
+    "score": 1,
+    "matched_keywords": [
+      "assay development"
+    ],
+    "deducted_keywords": []
+  },
+  "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-business-development-manager-defense-remote-873827/1": {
+    "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-business-development-manager-defense-remote-873827/1",
+    "status": "matched",
+    "title": "Business Development Manager (Defense)(m/f/d)",
+    "company": "Hays Switzerland",
+    "location": "Remote, Switzerland",
+    "posted_date": "",
+    "department": "",
+    "score": 4,
+    "matched_keywords": [
+      "location:remote"
+    ],
+    "deducted_keywords": []
+  },
+  "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-qc-scientist-microbiology-lengnau-berne-864632/1": {
+    "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-qc-scientist-microbiology-lengnau-berne-864632/1",
+    "status": "matched",
+    "title": "QC Scientist Microbiology(m/f/d)",
+    "company": "Hays Switzerland",
+    "location": "Lengnau, Berne, Switzerland",
+    "posted_date": "",
+    "department": "",
+    "score": 0,
+    "matched_keywords": [],
     "deducted_keywords": []
   }
 }
