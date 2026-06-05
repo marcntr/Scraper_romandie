@@ -578,7 +578,8 @@
     "https://careers.ompharma.com/job/Meyrin-MSAT-Senior-Scientist-Geneva-Gene/1399891533/": "ignored",
     "https://jobdetails.nestle.com/job/Lausanne-Women's-Health-Proteomics-Data-Science-Intern/1400446133/": "ignored",
     "https://jobdetails.nestle.com/job/Lausanne-Early-Life-Nutrition-&-Growth-Data-Science-Intern/1398035633/": "ignored",
-    "https://csl.wd1.myworkdayjobs.com/CSL_External/job/EMEA-CH-Kanton-Bern-Bern-CSL-Behring/Senior-Scientist--Bioassays--m-f-x-_R-275476": "ignored"
+    "https://csl.wd1.myworkdayjobs.com/CSL_External/job/EMEA-CH-Kanton-Bern-Bern-CSL-Behring/Senior-Scientist--Bioassays--m-f-x-_R-275476": "ignored",
+    "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Global-Medical-Affairs-Lead-Genomic-Profiling_202604-108771": "ignored"
   },
   "_generic:Hurdle Bio": {
     "keywords": "npp"
@@ -1900,8 +1901,32 @@
   },
   "https://www.michaelpage.ch/de/job-detail/business-development-specialist-100/ref/jn-032026-6968386?lang=en": {
     "external_url": "https://www.michaelpage.ch/de/job-detail/business-development-specialist-100/ref/jn-032026-6968386?lang=en",
-    "status": "matched",
+    "status": "ignored",
     "title": "Business Development Specialist (a) 100%",
+    "company": "Michael Page Switzerland",
+    "location": "Switzerland",
+    "posted_date": "",
+    "department": "",
+    "score": -2,
+    "matched_keywords": [],
+    "deducted_keywords": [
+      "location:Switzerland"
+    ]
+  },
+  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000130531760": {
+    "description": "Introduction:\nYou will work at the forefront of applying artificial intelligence to accelerator control systems and operational workflows at CERN. Working collaboratively across the BE-CSS group and the broader Accelerator and Technology Sector (ATS), you will design, develop, and deploy practical AI solutions — from LLM-based knowledge assistants to agentic AI workflows.\nA defining aspect of your role will be contributing to the newly established ATS AI Core Team, where you will provide expertise in LLM and agentic AI systems, secure knowledge connectors, and safe agent deployment patterns.\nYour work will span hands-on software development, cross-group collaboration, and technical leadership — an excellent opportunity to work alongside engineers and scientists from across CERN and to shape the organisation’s AI capabilities in a meaningful and lasting way.\nFunctions:\nContribute to the AI-driven evolution of the BE-CSS group’s software product portfolio, identifying and implementing opportunities to embed AI capabilities across group applications.\nDesign and develop LLM-based solutions, including a first-line support chatbot backed by retrieval-augmented generation (RAG) pipelines, vector databases, and secure knowledge connectors, in close collaboration with the CERN IT department providing the underlying MLOPs substrate.\nJoin the ATS AI Core Team and take a major role in the rollout of LLM/agentic AI and knowledge systems, contributing to reusable patterns, evaluation frameworks, and safe agent deployment practices across the sector.\nCollaborate with engineers, domain experts, and scientists from across CERN —including CERN IT, BE-CSS colleagues, and other ATS groups — to align AI solutions with operational needs and organisational standards.\nContribute to other AI-related initiatives in the BE-CSS group and across the ATS sector, sharing expertise and adapting to emerging priorities in the rapidly evolving field of applied AI.\nHelp define and deliver the central AI infrastructure needed across ATS, contributing to shared tooling, reference architectures, MLOps practices, and evaluation frameworks that enable groups to adopt AI solutions safely and efficiently.",
+    "external_url": "https://jobs.smartrecruiters.com/CERN/744000130531760-ai-solutions-engineer-be-css-isa-2026-115-ld-?oga=true",
+    "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000130524599": {
+    "description": "Introduction\nWithin the CERN Engineering department (EN), the Cooling and Ventilation (EN-CV) group is responsible for the design, the building, the operation and the maintenance of the cooling and ventilation plants for large energy physics accelerators, experiments and technical facilities. The EN-CV group pursues sustainable cooling and ventilation systems enhancing energy saving and recovery. \nYou will join the PSM Section (EN-CV-PSM), which is in charge of the operation and maintenance of the cooling and ventilation systems of CERN’s accelerator complex and experimental areas. The activity includes the work site supervision for installation work and commissioning of new systems, upgrade of existing systems and consolidation of old systems. \nAre you a qualified technician, specialised in industrial cooling, ventilation & refrigeration systems? Contribute your skill and experience to the operation and maintenance of complex cooling plants in a unique environment hosting some of the world’s most complex technical installations. Join CERN’s Cooling and Ventilation operation team. Take part!\nFunctions\nPlan (by using the CMMS system), coordinate, supervise, check and perform preventive and corrective maintenance activities on cooling and ventilation systems.\nPerform operation activities to ensure appropriate running of the cooling, ventilation & refrigeration systems.\nEnsure regular liaison with clients for all matters related to equipment under your responsibility.\nPropose and define the most appropriate solution to meet user needs in case of modification or renovation works.\nTechnically coordinate contractors’ activities for maintenance and installation work in compliance with contractual clauses and technical standards.\nContribute to projects from the design phase until test and commissioning of new cooling and ventilation systems.\nEnsure that the technical documentation is kept up-to-date and compliant with the quality standards.\nEnsure the respect of safety rules for all interventions.\nFollow up and regularly report on activities progress, schedule and costs.",
+    "external_url": "https://jobs.smartrecruiters.com/CERN/744000130524599-technician-for-industrial-cooling-ventilation-refrigeration-en-cv-psm-2026-122-ld-?oga=true",
+    "status": "matched"
+  },
+  "https://www.michaelpage.ch/job-detail/senior-legal-compliance-regulatory-counsel-mfd-100/ref/jn-052026-7020163": {
+    "external_url": "https://www.michaelpage.ch/job-detail/senior-legal-compliance-regulatory-counsel-mfd-100/ref/jn-052026-7020163",
+    "status": "matched",
+    "title": "Senior Legal Compliance & Regulatory Counsel (m/f/d) 100%",
     "company": "Michael Page Switzerland",
     "location": "Switzerland",
     "posted_date": "",
