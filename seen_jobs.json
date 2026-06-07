@@ -1866,5 +1866,35 @@
       "location:lausanne"
     ],
     "deducted_keywords": []
+  },
+  "https://careers.ompharma.com/job/Meyrin-MSAT-Senior-Scientist-Geneva-Gene/1399891533/": {
+    "description": "We are recruiting a Manufacturing Science and Technology (MSAT) Senior Scientist at our headquarters and biotech production site in Geneva. Reporting to the Head of MSAT, as part of a team of five and working cross-functionally with a strong presence in the field (production zone), your mission encompasses the development, optimization and continuous improvement of drug product processes and formulations, with a particular focus on lyophilization, encapsulation, dry granulation and intranasal delivery technologies.\n\nYour main responsibilities are as follows:\n\nLead development and industrialization of new pharmaceutical products, from formulation and process design to scale-up and validation\n\nDefine development strategies including QTPP, risk assessments, technical requirements, timelines and budgets\n\nProvide expertise in galenics, formulation, pharmaceutical processes and technology transfer, including CDMO interactions when needed\n\nDrive optimization of existing manufacturing processes to improve performance, robustness and compliance\n\nAct as technical expert for troubleshooting, root cause analysis, CAPA implementation and continuous improvement initiatives\n\nDefine Critical Process Parameters (CPPs), Critical Quality Attributes (CQAs) and lead process risk assessments in cross-functional teams\n\nManage MSAT Pharma Laboratory activities (equipment qualification, stock management, laboratory support)\n\nPlan and execute development trials with internal stakeholders (Manufacturing, Quality, Validation, Regulatory CMC), ensuring robust documentation and data analysis\n\nEnsure full traceability and compliance of development activities in line with GxP requirements\n\nContribute to regulatory documentation (e.g. CTD modules) in collaboration with Regulatory CMC\n\nBusiness travel is required for this position for punctual topics (maximum 5% of working time).\n\nTo carry out this mission, we are looking for a person with the following profile:\n\nMaster’s degree in Pharmaceutical Sciences, Biotechnology or equivalent\n\nAt least 8 years of experience related to pharmaceutical process development, formulation development and industrial transposition, with strong expertise in galenics and pharmaceutics\n\nProven experience in project management in a cross-functional and GxP environment; experience with regulatory activities is an asset\n\nFluent in French with good English skills\n\nProficiency in MS Office, with experience using ERP systems (Sage X3 preferred)\n\n \n\nTo succeed in this role, we are looking for a hands-on, pragmatic and innovation-driven scientist, combining strong technical expertise with a solid business and production mindset. You demonstrate natural leadership, strong communication skills and the ability to collaborate effectively with diverse stakeholders. Entrepreneurial and creative, you continuously seek improvement opportunities and actively contribute to shaping better, more efficient processes. You are solution-oriented, structured, and committed to delivering high-quality results in a dynamic environment.\n\nAre you interested in this opportunity? Apply as soon as possible and join OM Pharma!\n\n \n\n \nAbout Us\n\nOM Pharma is a global Geneva-based biopharmaceutical company. It is a leader in the prevention of recurrent respiratory and urinary tract infections and is also active in the treatment of vascular diseases.\n\nIt operates worldwide through a strong network of international partners and invests its profits in R&D to develop microbial derived immunotherapeutic products to treat acute and chronic immunological disorders resulting from inflammation and infections. \n\nThe company strives to improve the quality of life of patients around the world by providing access to better treatment of immunological imbalances.\n\nFor more information, visit the website: ompharma.com.",
+    "external_url": "https://careers.ompharma.com/job/Meyrin-MSAT-Senior-Scientist-Geneva-Gene/1399891533/",
+    "status": "ignored",
+    "title": "MSAT Senior Scientist - Geneva",
+    "company": "OM Pharma",
+    "location": "Meyrin, Geneva, CH",
+    "posted_date": "",
+    "department": "",
+    "score": 5,
+    "matched_keywords": [
+      "French",
+      "location:geneva"
+    ],
+    "deducted_keywords": []
+  },
+  "https://www.michaelpage.ch/job-detail/senior-legal-compliance-regulatory-counsel-mfd-100/ref/jn-052026-7020163": {
+    "external_url": "https://www.michaelpage.ch/job-detail/senior-legal-compliance-regulatory-counsel-mfd-100/ref/jn-052026-7020163",
+    "status": "matched",
+    "title": "Senior Legal Compliance & Regulatory Counsel (m/f/d) 100%",
+    "company": "Michael Page Switzerland",
+    "location": "Switzerland",
+    "posted_date": "",
+    "department": "",
+    "score": -2,
+    "matched_keywords": [],
+    "deducted_keywords": [
+      "location:Switzerland"
+    ]
   }
 }
