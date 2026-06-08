@@ -569,7 +569,10 @@
     "https://gloorlang.starhunter.software/Headhunter/project/job-ad/hash/6a201d0a1a053": "ignored",
     "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Switzerland/Sr-Account-Director--Business-Development---RWE_R-01355580": "ignored",
     "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Lengnau-Switzerland/Scientist---QC-Lab-Systems---CSV--GMP-_R-01347540": "ignored",
-    "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Lengnau-Switzerland/Scientist-Microbiological-Quality-Control_R-01344554": "ignored"
+    "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Lengnau-Switzerland/Scientist-Microbiological-Quality-Control_R-01344554": "ignored",
+    "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-senior-scientist-bcqc-lengnau-berne-880270/1": "ignored",
+    "https://lonza.wd3.myworkdayjobs.com/Lonza_Careers/job/CH---Basel/Scientist-6-months-fix-term-contract-80-100-_R71939": "ignored",
+    "https://lonza.wd3.myworkdayjobs.com/Lonza_Careers/job/CH---Basel/Laboratory-Scientist-Physico-Chemical-Quality-Control-80-100-_R74678": "ignored"
   },
   "_generic:Hurdle Bio": {
     "keywords": "npp"
@@ -1926,6 +1929,68 @@
       "location:lausanne",
       "proteomics"
     ],
+    "deducted_keywords": []
+  },
+  "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-senior-scientist-bcqc-lengnau-berne-880270/1": {
+    "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-senior-scientist-bcqc-lengnau-berne-880270/1",
+    "status": "matched",
+    "title": "Senior Scientist BCQC(m/f/d)",
+    "company": "Hays Switzerland",
+    "location": "Lengnau, Berne, Switzerland",
+    "posted_date": "",
+    "department": "",
+    "score": 0,
+    "matched_keywords": [],
+    "deducted_keywords": []
+  },
+  "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-analytical-project-leader-scientist-senior-scientist-basel-stadt-873611/1": {
+    "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-analytical-project-leader-scientist-senior-scientist-basel-stadt-873611/1",
+    "status": "matched",
+    "title": "Analytical Project Leader (Scientist / Senior Scientist)(m/f/d)",
+    "company": "Hays Switzerland",
+    "location": "Basel Stadt, Switzerland",
+    "posted_date": "",
+    "department": "",
+    "score": 0,
+    "matched_keywords": [],
+    "deducted_keywords": []
+  },
+  "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-vice-president-of-business-development-basel-land-873413/1": {
+    "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-vice-president-of-business-development-basel-land-873413/1",
+    "status": "matched",
+    "title": "Vice President of Business Development(m/f/d)",
+    "company": "Hays Switzerland",
+    "location": "Basel Land, Switzerland",
+    "posted_date": "",
+    "department": "",
+    "score": 0,
+    "matched_keywords": [],
+    "deducted_keywords": []
+  },
+  "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-scientist-lab-technician-assay-development-zug-873185/1": {
+    "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-scientist-lab-technician-assay-development-zug-873185/1",
+    "status": "matched",
+    "title": "Scientist Lab Technician Assay Development(m/f/d)",
+    "company": "Hays Switzerland",
+    "location": "Zug, Switzerland",
+    "posted_date": "",
+    "department": "",
+    "score": 1,
+    "matched_keywords": [
+      "assay development"
+    ],
+    "deducted_keywords": []
+  },
+  "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-qc-scientist-microbiology-lengnau-berne-864632/1": {
+    "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-qc-scientist-microbiology-lengnau-berne-864632/1",
+    "status": "matched",
+    "title": "QC Scientist Microbiology(m/f/d)",
+    "company": "Hays Switzerland",
+    "location": "Lengnau, Berne, Switzerland",
+    "posted_date": "",
+    "department": "",
+    "score": 0,
+    "matched_keywords": [],
     "deducted_keywords": []
   }
 }
