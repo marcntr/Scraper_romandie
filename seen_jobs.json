@@ -1940,7 +1940,7 @@
   },
   "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-senior-scientist-bcqc-lengnau-berne-880270/1": {
     "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-senior-scientist-bcqc-lengnau-berne-880270/1",
-    "status": "matched",
+    "status": "ignored",
     "title": "Senior Scientist BCQC(m/f/d)",
     "company": "Hays Switzerland",
     "location": "Lengnau, Berne, Switzerland",
@@ -1952,7 +1952,7 @@
   },
   "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-analytical-project-leader-scientist-senior-scientist-basel-stadt-873611/1": {
     "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-analytical-project-leader-scientist-senior-scientist-basel-stadt-873611/1",
-    "status": "matched",
+    "status": "ignored",
     "title": "Analytical Project Leader (Scientist / Senior Scientist)(m/f/d)",
     "company": "Hays Switzerland",
     "location": "Basel Stadt, Switzerland",
@@ -1964,7 +1964,7 @@
   },
   "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-vice-president-of-business-development-basel-land-873413/1": {
     "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-vice-president-of-business-development-basel-land-873413/1",
-    "status": "matched",
+    "status": "ignored",
     "title": "Vice President of Business Development(m/f/d)",
     "company": "Hays Switzerland",
     "location": "Basel Land, Switzerland",
@@ -1976,7 +1976,7 @@
   },
   "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-scientist-lab-technician-assay-development-zug-873185/1": {
     "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-scientist-lab-technician-assay-development-zug-873185/1",
-    "status": "matched",
+    "status": "ignored",
     "title": "Scientist Lab Technician Assay Development(m/f/d)",
     "company": "Hays Switzerland",
     "location": "Zug, Switzerland",
@@ -1990,7 +1990,7 @@
   },
   "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-qc-scientist-microbiology-lengnau-berne-864632/1": {
     "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-qc-scientist-microbiology-lengnau-berne-864632/1",
-    "status": "matched",
+    "status": "ignored",
     "title": "QC Scientist Microbiology(m/f/d)",
     "company": "Hays Switzerland",
     "location": "Lengnau, Berne, Switzerland",
