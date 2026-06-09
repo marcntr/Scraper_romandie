@@ -88,7 +88,7 @@
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-06-01"
+    "cached_at": "2026-06-09"
   },
   "_facets:roche:roche-ext": {
     "facets": {},
@@ -96,7 +96,7 @@
       "Basel",
       "Kaiseraugst"
     ],
-    "cached_at": "2026-06-01"
+    "cached_at": "2026-06-09"
   },
   "_facets:novartis:Novartis_Careers": {
     "facets": {},
@@ -104,63 +104,63 @@
       "Basel",
       "Stein"
     ],
-    "cached_at": "2026-06-01"
+    "cached_at": "2026-06-09"
   },
   "_facets:sanofi:SanofiCareers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-06-01"
+    "cached_at": "2026-06-09"
   },
   "_facets:abbott:abbottcareers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-06-01"
+    "cached_at": "2026-06-09"
   },
   "_facets:pfizer:PfizerCareers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-06-01"
+    "cached_at": "2026-06-09"
   },
   "_facets:gsk:GSKCareers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-06-01"
+    "cached_at": "2026-06-09"
   },
   "_facets:astrazeneca:Careers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-06-01"
+    "cached_at": "2026-06-09"
   },
   "_facets:amgen:Careers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-06-01"
+    "cached_at": "2026-06-09"
   },
   "_facets:gilead:gileadcareers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-06-01"
+    "cached_at": "2026-06-09"
   },
   "_facets:modernatx:M_tx": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-06-01"
+    "cached_at": "2026-06-09"
   },
   "_facets:takeda:External": {
     "facets": {},
@@ -169,28 +169,28 @@
       "Zug",
       "Glattpark"
     ],
-    "cached_at": "2026-06-01"
+    "cached_at": "2026-06-09"
   },
   "_facets:beigene:BeiGene": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-06-01"
+    "cached_at": "2026-06-09"
   },
   "_facets:msd:SearchJobs": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-06-01"
+    "cached_at": "2026-06-09"
   },
   "_facets:vrtx:Vertex_Careers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-06-01"
+    "cached_at": "2026-06-09"
   },
   "_facets:lonza:Lonza_Careers": {
     "facets": {},
@@ -199,7 +199,7 @@
       "Visp",
       "Stein"
     ],
-    "cached_at": "2026-06-01"
+    "cached_at": "2026-06-09"
   },
   "_facets:csl:CSL_External": {
     "facets": {},
@@ -209,7 +209,7 @@
       "St. Gallen",
       "Romont"
     ],
-    "cached_at": "2026-06-01"
+    "cached_at": "2026-06-09"
   },
   "_facets:alcon:careers_alcon": {
     "facets": {},
@@ -218,7 +218,7 @@
       "Hünenberg",
       "Zurich"
     ],
-    "cached_at": "2026-06-01"
+    "cached_at": "2026-06-09"
   },
   "_facets:galderma:External": {
     "facets": {},
@@ -227,63 +227,63 @@
       "La Tour-de-Peilz",
       "Lausanne"
     ],
-    "cached_at": "2026-06-01"
+    "cached_at": "2026-06-09"
   },
   "_facets:iqvia:IQVIA": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-06-01"
+    "cached_at": "2026-06-09"
   },
   "_facets:icon:broadbean_external": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-06-01"
+    "cached_at": "2026-06-09"
   },
   "_facets:parexel:Parexel_External_Careers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-06-01"
+    "cached_at": "2026-06-09"
   },
   "_facets:syneoshealth:Syneos_Health_External_Site": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-06-01"
+    "cached_at": "2026-06-09"
   },
   "_facets:myhrabc:Global": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-06-01"
+    "cached_at": "2026-06-09"
   },
   "_facets:thermofisher:ThermoFisherCareers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-06-01"
+    "cached_at": "2026-06-09"
   },
   "_facets:danaher:DanaherJobs": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-06-01"
+    "cached_at": "2026-06-09"
   },
   "_facets:illumina:illumina-careers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-06-01"
+    "cached_at": "2026-06-09"
   },
   "_facets:qiagen:QIAGEN": {
     "facets": {},
@@ -297,14 +297,14 @@
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-06-01"
+    "cached_at": "2026-06-09"
   },
   "_facets:jsrglobal:KBI_Biopharma": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-06-01"
+    "cached_at": "2026-06-09"
   },
   "_generic:Tigen Pharma": {
     "keywords": "npp"
@@ -642,7 +642,7 @@
     "title": "Manager Quality System & Regulatory Compliance",
     "company": "Abbott",
     "location": "Switzerland - Zurich",
-    "posted_date": "2026-05-09",
+    "posted_date": "2026-05-10",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -693,7 +693,7 @@
     "title": "Computational Biology - Oncology",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-05-09",
+    "posted_date": "2026-05-10",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -714,7 +714,7 @@
     "title": "Sr. Scientist - Computational Biology - Neuroscience & Rare Diseases",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-05-09",
+    "posted_date": "2026-05-10",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -737,7 +737,7 @@
     "title": "Post Doctorate Scientist – Vascularized Kidney Organoids - at the Institute of Human Biology (IHB)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-05-09",
+    "posted_date": "2026-05-10",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -766,7 +766,7 @@
     "title": "​Sr Manager / Associate Director Regulatory Affairs - Swiss Affiliate",
     "company": "Gilead Sciences",
     "location": "Switzerland - Zug",
-    "posted_date": "2026-05-09",
+    "posted_date": "2026-05-10",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -782,7 +782,7 @@
     "title": "Analytical Molecular Characterization Team Lead and Mass Spectrometry Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-05-09",
+    "posted_date": "2026-05-10",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -804,7 +804,7 @@
     "title": "Post Doctorate Scientist (IHB) - In Vitro Modeling Adaptive Immunologist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-05-09",
+    "posted_date": "2026-05-10",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -827,7 +827,7 @@
     "title": "Post Doctoral Scientist (IHB) - Computational Immunology",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-05-09",
+    "posted_date": "2026-05-10",
     "department": "",
     "score": 12,
     "matched_keywords": [
@@ -871,7 +871,7 @@
     "title": "Medical Affairs Director Switzerland",
     "company": "Eli Lilly",
     "location": "Switzerland, Vernier",
-    "posted_date": "2026-05-09",
+    "posted_date": "2026-05-10",
     "department": "",
     "score": -2,
     "matched_keywords": [
@@ -904,7 +904,7 @@
     "title": "Discovery Scientists, in vitro and in vivo Pharmacology, in Cardiovascular & Metabolic Disease Research",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-05-09",
+    "posted_date": "2026-05-10",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -924,7 +924,7 @@
     "title": "Scientist, Pharmaceutical Development & Data Analytics _2 years temporary contract",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-05-11",
+    "posted_date": "2026-05-12",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -939,7 +939,7 @@
     "title": "Medical Affairs Project Coordinator - Sponsor Dedicated - Morges",
     "company": "IQVIA",
     "location": "Basel, Switzerland",
-    "posted_date": "2026-05-27",
+    "posted_date": "2026-05-28",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -955,7 +955,7 @@
     "title": "Technical Expert Portfolio Mgmt, Technical Feasibility and Planning",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-05-12",
+    "posted_date": "2026-05-13",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -978,7 +978,7 @@
     "title": "Flow Cytometry Analyst",
     "company": "Labcorp",
     "location": "CHE - Geneva - 7 rue Moise-Marcinhes",
-    "posted_date": "2026-05-14",
+    "posted_date": "2026-05-15",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -1049,7 +1049,7 @@
     "title": "Senior Medical Director, Nephrology, Global Medical Affairs",
     "company": "Biogen",
     "location": "Baar, Switzerland",
-    "posted_date": "2026-05-20",
+    "posted_date": "2026-05-21",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -1255,7 +1255,7 @@
     "title": "Medical Director, Gastroenterology, Early Clinical Development",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-05-09",
+    "posted_date": "2026-05-10",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -1275,7 +1275,7 @@
     "title": "In-vivo Research Scientist (80-100%) *",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-05-27",
+    "posted_date": "2026-05-28",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1315,7 +1315,7 @@
     "title": "Product Manager - Spatial Biology",
     "company": "Bio-Techne / Lunaphore",
     "location": "Tolochenaz, Switzerland",
-    "posted_date": "2026-06-08",
+    "posted_date": "2026-06-09",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -1405,7 +1405,7 @@
     "title": "Project Scientist Phys-Chem Quality Control 80-100%",
     "company": "Lonza",
     "location": "CH - Basel",
-    "posted_date": "2026-06-04",
+    "posted_date": "2026-06-05",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1420,7 +1420,7 @@
     "title": "Senior Scientist Process Development Drug Product 12 months fix-term contract 80-100%",
     "company": "Lonza",
     "location": "CH - Basel",
-    "posted_date": "2026-06-04",
+    "posted_date": "2026-06-05",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1440,7 +1440,7 @@
     "title": "Senior Scientist, Tech Ops",
     "company": "CSL Behring / Vifor",
     "location": "EMEA, CH, Kanton Bern, Bern, CSL Behring",
-    "posted_date": "2026-06-04",
+    "posted_date": "2026-06-05",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1457,7 +1457,7 @@
     "title": "Supervisor Flow Cytometry",
     "company": "Labcorp",
     "location": "CHE - Geneva - 7 rue Moise-Marcinhes",
-    "posted_date": "2026-06-04",
+    "posted_date": "2026-06-05",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -1554,7 +1554,7 @@
     "title": "Senior Scientist Material Management & Qualification - Quality Control",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-06-02",
+    "posted_date": "2026-06-03",
     "department": "",
     "score": -1,
     "matched_keywords": [
@@ -1571,7 +1571,7 @@
     "title": "Sr Account Director, Business Development - RWE",
     "company": "Thermo Fisher Scientific",
     "location": "Remote, Switzerland",
-    "posted_date": "2026-06-01",
+    "posted_date": "2026-06-02",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -1588,7 +1588,7 @@
     "title": "Scientist – QC Lab Systems & CSV (GMP)",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-05-09",
+    "posted_date": "2026-05-10",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -1603,7 +1603,7 @@
     "title": "Scientist Microbiological Quality Control",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-05-09",
+    "posted_date": "2026-05-10",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -1833,7 +1833,7 @@
     "title": "Global Medical Director, Evidence Generation Lead",
     "company": "Biogen",
     "location": "Baar, Switzerland",
-    "posted_date": "2026-06-08",
+    "posted_date": "2026-06-09",
     "department": "",
     "score": -2,
     "matched_keywords": [
@@ -1852,7 +1852,7 @@
     "title": "Scientist, Tech Ops (Analytical Testing)",
     "company": "CSL Behring / Vifor",
     "location": "EMEA, CH, Kanton Bern, Bern, CSL Behring",
-    "posted_date": "2026-06-08",
+    "posted_date": "2026-06-09",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1933,7 +1933,7 @@
   },
   "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-senior-scientist-bcqc-lengnau-berne-880270/1": {
     "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-senior-scientist-bcqc-lengnau-berne-880270/1",
-    "status": "matched",
+    "status": "ignored",
     "title": "Senior Scientist BCQC(m/f/d)",
     "company": "Hays Switzerland",
     "location": "Lengnau, Berne, Switzerland",
@@ -1945,7 +1945,7 @@
   },
   "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-analytical-project-leader-scientist-senior-scientist-basel-stadt-873611/1": {
     "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-analytical-project-leader-scientist-senior-scientist-basel-stadt-873611/1",
-    "status": "matched",
+    "status": "ignored",
     "title": "Analytical Project Leader (Scientist / Senior Scientist)(m/f/d)",
     "company": "Hays Switzerland",
     "location": "Basel Stadt, Switzerland",
@@ -1957,7 +1957,7 @@
   },
   "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-vice-president-of-business-development-basel-land-873413/1": {
     "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-vice-president-of-business-development-basel-land-873413/1",
-    "status": "matched",
+    "status": "ignored",
     "title": "Vice President of Business Development(m/f/d)",
     "company": "Hays Switzerland",
     "location": "Basel Land, Switzerland",
@@ -1969,7 +1969,7 @@
   },
   "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-scientist-lab-technician-assay-development-zug-873185/1": {
     "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-scientist-lab-technician-assay-development-zug-873185/1",
-    "status": "matched",
+    "status": "ignored",
     "title": "Scientist Lab Technician Assay Development(m/f/d)",
     "company": "Hays Switzerland",
     "location": "Zug, Switzerland",
@@ -1983,7 +1983,7 @@
   },
   "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-qc-scientist-microbiology-lengnau-berne-864632/1": {
     "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-qc-scientist-microbiology-lengnau-berne-864632/1",
-    "status": "matched",
+    "status": "ignored",
     "title": "QC Scientist Microbiology(m/f/d)",
     "company": "Hays Switzerland",
     "location": "Lengnau, Berne, Switzerland",
