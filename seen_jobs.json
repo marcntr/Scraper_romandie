@@ -886,7 +886,7 @@
     "title": "Scientist, Pharmaceutical Development & Data Analytics _2 years temporary contract",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "",
+    "posted_date": "2026-06-10",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -919,7 +919,7 @@
     "title": "Flow Cytometry Analyst",
     "company": "Labcorp",
     "location": "CHE - Geneva - 7 rue Moise-Marcinhes",
-    "posted_date": "2026-05-15",
+    "posted_date": "2026-05-14",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -970,7 +970,7 @@
     "title": "Senior Medical Director, Nephrology, Global Medical Affairs",
     "company": "Biogen",
     "location": "Baar, Switzerland",
-    "posted_date": "2026-05-21",
+    "posted_date": "2026-05-20",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -1172,7 +1172,7 @@
     "title": "In-vivo Research Scientist (80-100%) *",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-05-28",
+    "posted_date": "2026-05-27",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1212,7 +1212,7 @@
     "title": "Product Manager - Spatial Biology",
     "company": "Bio-Techne / Lunaphore",
     "location": "Tolochenaz, Switzerland",
-    "posted_date": "2026-06-09",
+    "posted_date": "2026-06-08",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -1302,7 +1302,7 @@
     "title": "Project Scientist Phys-Chem Quality Control 80-100%",
     "company": "Lonza",
     "location": "CH - Basel",
-    "posted_date": "2026-06-05",
+    "posted_date": "2026-06-04",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1317,7 +1317,7 @@
     "title": "Senior Scientist Process Development Drug Product 12 months fix-term contract 80-100%",
     "company": "Lonza",
     "location": "CH - Basel",
-    "posted_date": "2026-06-05",
+    "posted_date": "2026-06-04",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1332,7 +1332,7 @@
     "title": "Senior Scientist, Tech Ops",
     "company": "CSL Behring / Vifor",
     "location": "EMEA, CH, Kanton Bern, Bern, CSL Behring",
-    "posted_date": "2026-06-05",
+    "posted_date": "2026-06-04",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1349,7 +1349,7 @@
     "title": "Supervisor Flow Cytometry",
     "company": "Labcorp",
     "location": "CHE - Geneva - 7 rue Moise-Marcinhes",
-    "posted_date": "2026-06-05",
+    "posted_date": "2026-06-04",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -1446,7 +1446,7 @@
     "title": "Senior Scientist Material Management & Qualification - Quality Control",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-06-03",
+    "posted_date": "2026-06-02",
     "department": "",
     "score": -1,
     "matched_keywords": [
@@ -1463,7 +1463,7 @@
     "title": "Sr Account Director, Business Development - RWE",
     "company": "Thermo Fisher Scientific",
     "location": "Remote, Switzerland",
-    "posted_date": "2026-06-02",
+    "posted_date": "2026-06-01",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -1510,7 +1510,7 @@
     "title": "Clinical Sciences Trial Leader/Senior Clinical Sciences Trial Leader, Translational Medicine (Multiple Listings) 80-100%",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-06-08",
+    "posted_date": "2026-06-07",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -1545,7 +1545,7 @@
     "title": "Scientist/ Sr. Scientist - Image Analysis (2 year contract)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-06-08",
+    "posted_date": "2026-06-07",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1562,7 +1562,7 @@
     "title": "Genomics Data Scientist (2 year contract)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-06-08",
+    "posted_date": "2026-06-07",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1656,7 +1656,7 @@
     "title": "Global Medical Director, Evidence Generation Lead",
     "company": "Biogen",
     "location": "Baar, Switzerland",
-    "posted_date": "2026-06-09",
+    "posted_date": "2026-06-08",
     "department": "",
     "score": -2,
     "matched_keywords": [
@@ -1708,7 +1708,7 @@
     "title": "Senior Scientist microbiological Quality Control",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-06-10",
+    "posted_date": "2026-06-09",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -1772,7 +1772,7 @@
     "title": "International Medical Affairs Head, CRM",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "",
+    "posted_date": "2026-06-10",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1989,5 +1989,34 @@
       "proteomics"
     ],
     "deducted_keywords": []
+  },
+  "https://api.smartrecruiters.com/v1/companies/AbbVie/postings/3743990013596046": {
+    "description": "Are you a visionary medical affairs leader ready to shape strategy, drive scientific excellence, evidence generation, and make a meaningful impact on patient outcomes? We are looking for an exceptional Head of Medical Immunology to join our leadership team — a role that sits at the heart of our organisation, bridging science, strategy, and commercial ambition.\nAbout the Role\nAs Head of Medical Immunology, you will lead and define our medical strategy, ensuring that scientific integrity, regulatory compliance, and patient-centricity sit at the core of everything we do. Reporting directly to the Medical Director, you will provide senior medical leadership across the organisation — partnering with Commercial, Regulatory, and Market Access teams to deliver results that matter.\nThis is a high-impact, cross-functional leadership role for a seasoned medical affairs professional who thrives in a fast-paced, science-driven environment.\nWhat You Will Do\nMedical Strategy & Leadership\nDefine and execute the overarching medical strategy, aligning it with broader business and portfolio objectives.\nRepresent the Medical function at senior leadership and executive forums, bringing a credible scientific voice to strategic decision-making.\nLead and develop a high-performing Medical team, fostering a culture of scientific excellence and continuous development.\nScientific Engagement & KOL Relations\nBuild and sustain meaningful, ethical relationships with Key Opinion Leaders (KOLs), external experts, and the broader scientific community.\nChampion robust medical communications that translate complex science into clear, compelling, and compliant messaging.\nRepresent the company at scientific congresses, advisory boards, and industry forums.\nClinical Development & Evidence Generation\nOversee the design and delivery of clinical development programmes and evidence generation activities to support product strategy.\nEnsure that data and insights are used to drive informed, evidence-based decisions across the organisation.\nPartner with Regulatory and Market Access teams to support submissions, reimbursement strategies, and lifecycle management.\nGovernance, Compliance & Cross-Functional Collaboration\nUphold the highest standards of medical governance, ethics, and regulatory compliance across all medical activities.\nLead cross-functional collaboration with Commercial, Regulatory, Market Access, and other key stakeholders to ensure integrated, aligned delivery.\nAct as a trusted partner and deputy to the Medical Director, providing leadership continuity and organisational resilience.",
+    "external_url": "https://jobs.smartrecruiters.com/AbbVie/3743990013596046-head-of-medical-immunology?oga=true",
+    "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000131889914": {
+    "description": "Are you enthusiastic about exhibition and excited to make science accessible and educational through our exhibitions and within our visits itineraries? Do you enjoy creating learning experiences and working in an international environment? Join the CERN Visual Impact and Exhibition team!\nCERN has an opening for an Origin Graduate in the Visual Impact and Exhibition (VIE) section in the Education, Communications and Outreach (ECO) group in the Stakeholders Relations (SR) sector.\nThe Section runs a broad portfolio of exhibitions within the Organization (e.g. visit points, Science Gateway), but also event-based exhibitions. This position is centered on the development of interactive media to raise awareness among our visitors about the different aspects of our organisation.\nYour responsibilities:\nAs a member of Visual Impact and Exhibition team, you will carry out the following tasks:\nWork closely with and under the guidance of the Interactive Media Manager to support the development and delivery of CERN's exhibitions.\nDevelop creative content for CERN's on-site exhibitions, including Science Gateway.\nContribute to the conception, prototyping, testing and production of exhibits for integration throughout CERN exhibition spaces, participate in evaluation of exhibit content with relevant audience groups.\nYour profile:\nExperience in the following areas would be an advantage:\nExperience working in interactive applications for scientific visualisation and/or education.\nExperience producing engaging content for non-specialist audiences on topics related to physics, astronomy and related technologies.\nSkills:\nA good sense of teamwork.\nKnowledge of systems administration.\nWeb development.\nFull-stack developer competences are a plus.\nSpoken and written English or French, with a commitment to learn the other language.\nEligibility criteria:\nBy the application deadline, you have a maximum of two years of professional experience since graduation in Computer Science or equivalent (or a related field) and your highest educational qualification is either a Bachelor's or Master's degree.\nYou have never had a CERN fellow or graduate contract before.\nApplicants without University degree are not eligible.\nApplicants with a PhD are not eligible.",
+    "external_url": "https://jobs.smartrecruiters.com/CERN/744000131889914-exhibition-developer-sr-eco-vie-2026-167-grae-?oga=true",
+    "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000131831875": {
+    "description": "Join CERN's detector R&D program for future high-energy physics experiments, working on advanced optical communication technologies for next-generation particle detectors. In this role, you will contribute to the development of radiation-tolerant Silicon Photonics components for high-speed data transmission in challenging environments. Your work will include hands-on laboratory characterisation of Silicon Photonics circuits and the design of innovative photonic devices. This position offers the opportunity to work at the intersection of photonics, electronics, and particle detection technologies.\nYour responsibilities\nContribute to the electro-optical characterisation of custom-designed photonic integrated circuits (PICs).\nValidate the PIC measurement results against optical simulations.\nSupport the integration and evaluation of PICs with particle readout chips (ROCs).\nPrototype and demonstrate coarse wavelength-division multiplexing (CWDM) data-transmission systems.\nCharacterise and benchmark different data-link architectures.\nSimulate and design a new generation of test PICs based on measurement results from existing PICs.\nPresent the progress to project meetings and conferences.\nDocument measurement and simulation results and methods.\nYour profile\nProven experience in design and simulation of photonic components and integrated photonic circuits.\nExperience in laboratory characterisation of optical and photonic components using OSAs, tunable lasers, and power meters.\nProven experience in high-speed electro-optical measurements utilising pattern generators, oscilloscopes, error detectors, VNAs, and spectrum analysers.\nHands-on experience in automation of measurement setups for opto-electronic devices.\nExtended experience in analysis and interpretation of experimental and measurement data.\nSkills\nExpert user of photonic simulation tools (e.g., Ansys Lumerical, Synopsys RSoft).\nProficient user of electronic and optical laboratory instrumentation, including high-speed measurement techniques.\nExpert user of C-based programming languages or Python.\nExpert in data analysis and visualisation using Python, MATLAB, or equivalent.\nFamiliar with Linux-based development environments.\nSpoken and written English, with a commitment to learn French.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nYou have a professional background in Electronic Engineering or Physics (or a related field) and have either:\na Master's degree with 2 to 6 years of post-graduation professional experience;\nor a PhD with no more than 3 years of post-graduation professional experience.\nYou have never had a CERN fellow or graduate contract before.",
+    "external_url": "https://jobs.smartrecruiters.com/CERN/744000131831875-silicon-photonics-characterisation-and-design-engineer-ep-ese-be-2026-109-grap-?oga=true",
+    "status": "matched"
+  },
+  "https://www.michaelpage.ch/fr/job-detail/portfolio-manager-fr-eng-100-m-f/ref/jn-042026-6999371?lang=en": {
+    "external_url": "https://www.michaelpage.ch/fr/job-detail/portfolio-manager-fr-eng-100-m-f/ref/jn-042026-6999371?lang=en",
+    "status": "matched",
+    "title": "Portfolio Manager FR / ENG 100% (m / f)",
+    "company": "Michael Page Switzerland",
+    "location": "Switzerland",
+    "posted_date": "",
+    "department": "",
+    "score": -2,
+    "matched_keywords": [],
+    "deducted_keywords": [
+      "location:Switzerland"
+    ]
   }
 }
