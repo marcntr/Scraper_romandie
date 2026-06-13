@@ -1288,56 +1288,6 @@
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000131605749-junior-full-stack-software-engineer-fap-bc-dl-2026-143-grae-?oga=true",
     "status": "matched"
   },
-  "https://gloorlang.starhunter.software/Headhunter/project/job-ad/hash/6a201d0a1a053": {
-    "external_url": "https://gloorlang.starhunter.software/Headhunter/project/job-ad/hash/6a201d0a1a053",
-    "status": "ignored",
-    "title": "Validation & Investigation Scientist",
-    "company": "Gloor & Lang",
-    "location": "Neuchatel - Lausanne Region, Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": 4,
-    "matched_keywords": [
-      "location:lausanne"
-    ],
-    "deducted_keywords": []
-  },
-  "https://gloorlang.starhunter.software/Headhunter/project/job-ad/hash/69e5f1b516f9f": {
-    "external_url": "https://gloorlang.starhunter.software/Headhunter/project/job-ad/hash/69e5f1b516f9f",
-    "status": "ignored",
-    "title": "Regulatory Affairs Specialist",
-    "company": "Gloor & Lang",
-    "location": "Zürich Region, Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": 0,
-    "matched_keywords": [],
-    "deducted_keywords": []
-  },
-  "https://gloorlang.starhunter.software/Headhunter/project/job-ad/hash/693ffd941548c": {
-    "external_url": "https://gloorlang.starhunter.software/Headhunter/project/job-ad/hash/693ffd941548c",
-    "status": "ignored",
-    "title": "Senior Expert Regulatory Affairs - CMC/Biosimilars",
-    "company": "Gloor & Lang",
-    "location": "Zürich Region, Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": 0,
-    "matched_keywords": [],
-    "deducted_keywords": []
-  },
-  "https://gloorlang.starhunter.software/Headhunter/project/job-ad/hash/68b5a83b99a4d": {
-    "external_url": "https://gloorlang.starhunter.software/Headhunter/project/job-ad/hash/68b5a83b99a4d",
-    "status": "ignored",
-    "title": "Regulatory Affairs Manager 80%",
-    "company": "Gloor & Lang",
-    "location": "Basel, Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": 0,
-    "matched_keywords": [],
-    "deducted_keywords": []
-  },
   "https://api.smartrecruiters.com/v1/companies/AbbVie/postings/3743990013596046": {
     "description": "Are you a visionary medical affairs leader ready to shape strategy, drive scientific excellence, evidence generation, and make a meaningful impact on patient outcomes? We are looking for an exceptional Head of Medical Immunology to join our leadership team — a role that sits at the heart of our organisation, bridging science, strategy, and commercial ambition.\nAbout the Role\nAs Head of Medical Immunology, you will lead and define our medical strategy, ensuring that scientific integrity, regulatory compliance, and patient-centricity sit at the core of everything we do. Reporting directly to the Medical Director, you will provide senior medical leadership across the organisation — partnering with Commercial, Regulatory, and Market Access teams to deliver results that matter.\nThis is a high-impact, cross-functional leadership role for a seasoned medical affairs professional who thrives in a fast-paced, science-driven environment.\nWhat You Will Do\nMedical Strategy & Leadership\nDefine and execute the overarching medical strategy, aligning it with broader business and portfolio objectives.\nRepresent the Medical function at senior leadership and executive forums, bringing a credible scientific voice to strategic decision-making.\nLead and develop a high-performing Medical team, fostering a culture of scientific excellence and continuous development.\nScientific Engagement & KOL Relations\nBuild and sustain meaningful, ethical relationships with Key Opinion Leaders (KOLs), external experts, and the broader scientific community.\nChampion robust medical communications that translate complex science into clear, compelling, and compliant messaging.\nRepresent the company at scientific congresses, advisory boards, and industry forums.\nClinical Development & Evidence Generation\nOversee the design and delivery of clinical development programmes and evidence generation activities to support product strategy.\nEnsure that data and insights are used to drive informed, evidence-based decisions across the organisation.\nPartner with Regulatory and Market Access teams to support submissions, reimbursement strategies, and lifecycle management.\nGovernance, Compliance & Cross-Functional Collaboration\nUphold the highest standards of medical governance, ethics, and regulatory compliance across all medical activities.\nLead cross-functional collaboration with Commercial, Regulatory, Market Access, and other key stakeholders to ensure integrated, aligned delivery.\nAct as a trusted partner and deputy to the Medical Director, providing leadership continuity and organisational resilience.",
     "external_url": "https://jobs.smartrecruiters.com/AbbVie/3743990013596046-head-of-medical-immunology?oga=true",
@@ -1403,7 +1353,7 @@
   },
   "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-senior-scientist-bcqc-lengnau-berne-880270/1": {
     "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-senior-scientist-bcqc-lengnau-berne-880270/1",
-    "status": "matched",
+    "status": "ignored",
     "title": "Senior Scientist BCQC(m/f/d)",
     "company": "Hays Switzerland",
     "location": "Lengnau, Berne, Switzerland",
@@ -1415,7 +1365,7 @@
   },
   "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-analytical-project-leader-scientist-senior-scientist-basel-stadt-873611/1": {
     "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-analytical-project-leader-scientist-senior-scientist-basel-stadt-873611/1",
-    "status": "matched",
+    "status": "ignored",
     "title": "Analytical Project Leader (Scientist / Senior Scientist)(m/f/d)",
     "company": "Hays Switzerland",
     "location": "Basel Stadt, Switzerland",
@@ -1427,7 +1377,7 @@
   },
   "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-vice-president-of-business-development-basel-land-873413/1": {
     "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-vice-president-of-business-development-basel-land-873413/1",
-    "status": "matched",
+    "status": "ignored",
     "title": "Vice President of Business Development(m/f/d)",
     "company": "Hays Switzerland",
     "location": "Basel Land, Switzerland",
@@ -1439,7 +1389,7 @@
   },
   "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-scientist-lab-technician-assay-development-zug-873185/1": {
     "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-scientist-lab-technician-assay-development-zug-873185/1",
-    "status": "matched",
+    "status": "ignored",
     "title": "Scientist Lab Technician Assay Development(m/f/d)",
     "company": "Hays Switzerland",
     "location": "Zug, Switzerland",
@@ -1453,7 +1403,7 @@
   },
   "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-qc-scientist-microbiology-lengnau-berne-864632/1": {
     "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-qc-scientist-microbiology-lengnau-berne-864632/1",
-    "status": "matched",
+    "status": "ignored",
     "title": "QC Scientist Microbiology(m/f/d)",
     "company": "Hays Switzerland",
     "location": "Lengnau, Berne, Switzerland",
@@ -1462,25 +1412,6 @@
     "score": 0,
     "matched_keywords": [],
     "deducted_keywords": []
-  },
-  "/job/Switzerland-Vernier/Medical-Affairs-Director-Switzerland_R-105412-1": {
-    "description": "At Lilly, we unite caring with discovery to make life better for people around the world. We are a global healthcare leader headquartered in Indianapolis, Indiana. Our employees around the world work to discover and bring life-changing medicines to those who need them, improve the understanding and management of disease, and give back to our communities through philanthropy and volunteerism. We give our best effort to our work, and we put people first. We’re looking for people who are determined to make life better for people around the world.\n\nPosition Title\nMedical Director – Medical Affairs Switzerland\n\nPurpose\nThe Medical Director – Medical Affairs Switzerland provides medical and scientific leadership, oversight, and strategic direction for Medical Affairs activities within the Swiss affiliate. The role is responsible for leading and developing the medical team, driving innovation, ensuring scientific excellence, regulatory compliance, and strong cross‑functional collaboration to support pre‑ and post‑launch activities across the portfolio.\nIn addition to people leadership and operational responsibilities, the Medical Director drives medical strategy execution, oversees clinical and non‑interventional research activities where applicable, and ensures alignment with global Medical Affairs, Development, and brand strategies.\n\nCompliance and Ethics\nThe Medical Director ensures that all Medical Affairs activities are conducted in full compliance with applicable local and international regulations, laws, guidelines (e.g. ICH, GCP), company standards, policies, and ethical principles. The role acts as a role model for scientific integrity and ethical behavior within the affiliate.\n\nPrimary Responsibilities\n1. Leadership, Talent Development and Performance Management\nProvide leadership, coaching, mentoring, and performance management for direct reports within the Swiss Medical Affairs organization.\nDevelop and maintain clear performance objectives, development plans, and competency documentation for team members.\nConduct regular one‑on‑one meetings to review objectives, development needs, and career aspirations.\nEnsure optimal resource planning, workload allocation, and long‑term retention of medical talent.\nContribute actively to succession planning and talent development initiatives in collaboration with HR and global Medical leadership.\nSupport recruitment and onboarding of qualified Medical Affairs professionals.\n\n2. Medical Strategy and Clinical Oversight\nLead the development and execution of local medical strategies aligned with brand, affiliate, and global Medical Affairs objectives.\nProvide affiliate medical input into clinical development plans and support the implementation of Phase 3b/4 and other medically driven studies where applicable.\nEnsure coherence between local medical activities and global development and Medical Affairs strategies.\nMonitor progress against agreed medical and clinical deliverables and initiate corrective actions when required.\nOversee medical governance for protocols, amendments, informed consent documents, grants, and contracts at affiliate level.\n\n3. Scientific Expertise and Data Oversight\nMaintain strong scientific and therapeutic area expertise and stay current with emerging medical and scientific developments.\nCritically evaluate clinical data, medical literature, and competitive landscapes relevant to the portfolio.\nReview and approve medical information materials, scientific publications, abstracts, presentations, and symposia content.\nEnsure timely and accurate dissemination of scientific and clinical data in line with company standards and regulations.\n\n4. External Engagement and Medical Excellence\nProvide scientific leadership in interactions with healthcare professionals, scientific experts, and external stakeholders.\nOversee advisory boards, scientific meetings, congress activities, and medical education initiatives.\nEnsure the medical team provides high‑quality, compliant scientific support to commercial and cross‑functional teams.\nAct as a patient‑focused medical expert and contribute to defining the patient journey and key medical decision points.\n\n5. Cross‑Functional and Business Collaboration\nPartner closely with Commercial, Market Access, Regulatory, Clinical Operations, and other functions to support product lifecycle activities.\nProvide medical input into local business planning and strategic initiatives.\nContribute as a core member of the affiliate leadership and management team.\nAct as the primary medical liaison between the Swiss affiliate and global Medical Affairs and Development teams.\n\n6. Governance and Administrative Responsibilities\nReview and approve key medical and scientific documents requiring senior medical sign‑off.\nEnsure effective budget oversight and responsible management of medical operational expenses.\nSupport continuous process improvement and implementation of best practices within Medical Affairs.\nRepresent the Swiss affiliate in internal governance committees and external scientific or industry forums as appropriate.\n\nMinimum Qualification Requirements\nMedical Doctor (MD) or equivalent, with completed medical training relevant to Switzerland.\nBoard certification or eligibility in a relevant specialty is preferred.\nMinimum 7–10 years of experience in clinical research and/or Medical Affairs.\nDemonstrated leadership experience managing medical or scientific professionals.\nStrong communication, stakeholder management, and influencing skills.\nFluent in English (German and/or French preferred).\nWillingness to travel as required.\n\nAdditional Information\nThis job description reflects core responsibilities but is not intended to be an exhaustive list. Responsibilities may evolve based on business needs and organizational changes.\n\nLilly is dedicated to helping individuals with disabilities to actively engage in the workforce, ensuring equal opportunities when vying for positions. If you require accommodation to submit a resume for a position at Lilly, please complete the accommodation request form (https://careers.lilly.com/us/en/workplace-accommodation) for further assistance. Please note this is for individuals to request an accommodation as part of the application process and any other correspondence will not receive a response.\n\nLilly does not discriminate on the basis of age, race, color, religion, gender, sexual orientation, gender identity, gender expression, national origin, protected veteran status, disability or any other legally protected status.\n#WeAreLilly",
-    "external_url": "https://lilly.wd5.myworkdayjobs.com/LLY/job/Switzerland-Vernier/Medical-Affairs-Director-Switzerland_R-105412-1",
-    "status": "ignored",
-    "title": "Medical Affairs Director Switzerland",
-    "company": "Eli Lilly",
-    "location": "Switzerland, Vernier",
-    "posted_date": "2026-05-14",
-    "department": "",
-    "score": -2,
-    "matched_keywords": [
-      "French",
-      "medical affairs"
-    ],
-    "deducted_keywords": [
-      "clinical operations",
-      "location:Switzerland, Vernier"
-    ]
   },
   "/job/Tolochenaz-Switzerland/Product-Manager---Spatial-Biology_JR101854": {
     "description": "By joining Bio-Techne, you’ll join a company with a powerful and positive purpose of enabling cutting-edge research in Life Sciences and Clinical Diagnostics. Bio-Techne, and all of its brands, provides tools for researchers to further treat and prevent disease worldwide.\n\nPay Range: CHF 83,000 - CHF136,550\nPlacement within the salary range will vary depending on experience, qualifications, geographic location, and internal equity considerations.\n\nResponsibilities\nOwnership of the Product Lifecycle Management of the assigned Spatial Biology product sub-portfolio to ensure functional monitoring, identify unique attractiveness to the market, evaluate & ensure business benefit and establish & maintain operational sustainability\nUnderstanding & analysis of the user needs and transformation of these into actions and portfolio improvements\nMonitoring & analysis of competitor activities and market trends to propose actions utilizing the full commercial toolset in collaboration with Sales and Marketing\nBuild KOL connections and represent the company and products at conferences, interest groups, exhibitions and other marketing events\nBe an expert and go-to person for the responsible portfolio including presentations to customers and training of Sales and Customer Support\nDevise strategies to improve the portfolio, business benefit and product positioning based on market, user and competitor analysis\nCoordinate with R&D and V&V teams on development and validation activities, specifically, aligning on technical requirements, reviewing designs, risks and mitigations, maintaining product documentation, and perform user testing.\nPrepare commercial launches and releases and ensure clear value proposition, USPs and positioning in collaboration with Marketing\nRepresent and advocate for the needs of the responsible portfolio within the development teams, with leadership and all stakeholders within the organization\n\nRequired qualifications\nMSc. Or PhD in biology, life sciences, bioengineering, or similar field.\nMinimum 5 years of experience as a product manager with global responsibilities\nExperience as product manager for imaging instrumentation and/or antibodies\nSolid understanding of Proteomics (automated preferred) immunofluorescence technology and multiplex experimental design including related use cases\nGood understanding of laboratory techniques such as immunohistochemistry, microscopy and image analysis.\nProven experience in VOC gathering, validation and analysis\nProven experience of working and collaborating in cross-functional teams in a matrix organization\nProven user experience understanding and respective approaches to support maximum ease and safety in the use of products\nExperience in a regulated or clinical environment is a plus\nExperience in at least one of the following scientific fields: immune-oncology, immunology, neurobiology, infectious disease, cell therapy\nExperience with or understanding of project management good practice principles\nProficiency in English (at least C1)\nAdvanced skills in MS Applications, i.e. Excel (array formulas, pivot tables…) and PowerPoint\n\nRequired soft skills\nSelf-starter\nCapability to identify business opportunities and analyze them for potential\nOutstanding communication and presentation skills (written and oral)\nFormulating and condensing complex strategies into concise & comprehensible outputs including KPIs\nDecisive based on good analytical skills\nCapacity to adapt in a constantly changing environment\nAbility to influence, interact and work in a team\nCreative problem solving\nPositive customer-centric attitude\nOvernight, international travel, up to 3 times a quarter\n\nBio-Techne is committed to product quality, customer satisfaction, continued improvement, minimising environmental impacts and conserving natural resources. Environmental and quality management is an integral core value and vital part of the Bio-Techne culture.\n\nWhy Join Bio-Techne:\n\nWe offer competitive wages along with extensive benefits for employees and their families.\n\nWe invest in our employees’ financial futures through retirement programs and an employee stock purchase plan.\n\nWe help our employees develop their careers through mentorship, promotional opportunities, training and development, internship programs, and more.\n\nWe offer an international and diverse working environment, enriched by employee resource groups; volunteer and charity events; and employee events that build a culture of caring and belonging. \n\nWe foster a culture of empowerment and innovation, where employees feel valued and encouraged to bring their new ideas to the table.\n\nBio-Techne is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or status as a protected veteran.\n\nTo protect the interests of all, Bio-Techne will not accept unsolicited resumes from any source other than a candidate application. Any unsolicited resumes sent to Bio-Techne will be considered Bio-Techne property.\n\nIf you require a reasonable accommodation to complete an application, participate in an interview, or take part in any other stage of the recruitment process, please contact hr@bio-techne.com for assistance.",
