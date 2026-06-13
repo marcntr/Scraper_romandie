@@ -715,20 +715,6 @@
     "external_url": "https://jobs.smartrecruiters.com/AbbVie/3743990012890486-senior-government-affairs-manager?oga=true",
     "status": "matched"
   },
-  "https://www.michaelpage.ch/job-detail/business-development-manager-defense-europe-mfd/ref/jn-122025-6902007": {
-    "external_url": "https://www.michaelpage.ch/job-detail/business-development-manager-defense-europe-mfd/ref/jn-122025-6902007",
-    "status": "ignored",
-    "title": "Business Development Manager - Defense Europe (m/f/d)",
-    "company": "Michael Page Switzerland",
-    "location": "Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": -2,
-    "matched_keywords": [],
-    "deducted_keywords": [
-      "location:Switzerland"
-    ]
-  },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000126310865": {
     "description": "Introduction: Join CERN as a Senior Project Manager and lead the design and potential construction of cutting-edge underground and surface civil engineering projects. Manage high-value contracts and small teams of skilled engineers on technically complex projects, collaborating across disciplines to deliver innovative solutions. Be part of the dynamic team shaping the proposed Future Circular Collider ( FCC ), a 91 km circumference machine planned to be housed in an underground complex up to 500 metres below ground in the Geneva Basin. Functions: Responsible for the preliminary design and planning of the extensive and complex civil engineering works envisaged for the FCC. Lead the definition of requirements and develop technical solutions for surface and underground civil engineering infrastructure for the FCC. Lead internal CERN stakeholders on the contractual framework for design and possible future construction of the FCC. Prepare technical and contractual documentation for major consultancy contracts covering detailed design and construction supervision. Manage CERN personnel contributing to FCC civil engineering efforts. Interface and coordinate with CERN stakeholders to ensure civil engineering milestones are achieved. Prepare and oversee detailed cost estimates and schedules for FCC civil engineering. Report on FCC civil engineering at a high management level within CERN and with external stakeholders.",
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000126310865-senior-civil-engineering-project-manager-sce-ppm-2025-238-ld-?oga=true",
@@ -1932,7 +1918,7 @@
   },
   "https://gloorlang.starhunter.software/Headhunter/project/job-ad/hash/6a201d0a1a053": {
     "external_url": "https://gloorlang.starhunter.software/Headhunter/project/job-ad/hash/6a201d0a1a053",
-    "status": "matched",
+    "status": "ignored",
     "title": "Validation & Investigation Scientist",
     "company": "Gloor & Lang",
     "location": "Neuchatel - Lausanne Region, Switzerland",
@@ -1946,7 +1932,7 @@
   },
   "https://gloorlang.starhunter.software/Headhunter/project/job-ad/hash/69e5f1b516f9f": {
     "external_url": "https://gloorlang.starhunter.software/Headhunter/project/job-ad/hash/69e5f1b516f9f",
-    "status": "matched",
+    "status": "ignored",
     "title": "Regulatory Affairs Specialist",
     "company": "Gloor & Lang",
     "location": "Zürich Region, Switzerland",
@@ -1958,7 +1944,7 @@
   },
   "https://gloorlang.starhunter.software/Headhunter/project/job-ad/hash/693ffd941548c": {
     "external_url": "https://gloorlang.starhunter.software/Headhunter/project/job-ad/hash/693ffd941548c",
-    "status": "matched",
+    "status": "ignored",
     "title": "Senior Expert Regulatory Affairs - CMC/Biosimilars",
     "company": "Gloor & Lang",
     "location": "Zürich Region, Switzerland",
@@ -1970,7 +1956,7 @@
   },
   "https://gloorlang.starhunter.software/Headhunter/project/job-ad/hash/68b5a83b99a4d": {
     "external_url": "https://gloorlang.starhunter.software/Headhunter/project/job-ad/hash/68b5a83b99a4d",
-    "status": "matched",
+    "status": "ignored",
     "title": "Regulatory Affairs Manager 80%",
     "company": "Gloor & Lang",
     "location": "Basel, Switzerland",
@@ -2002,5 +1988,19 @@
       "proteomics"
     ],
     "deducted_keywords": []
+  },
+  "https://www.michaelpage.ch/fr/job-detail/portfolio-manager-fr-eng-100-m-f/ref/jn-042026-6999371?lang=en": {
+    "external_url": "https://www.michaelpage.ch/fr/job-detail/portfolio-manager-fr-eng-100-m-f/ref/jn-042026-6999371?lang=en",
+    "status": "matched",
+    "title": "Portfolio Manager FR / ENG 100% (m / f)",
+    "company": "Michael Page Switzerland",
+    "location": "Switzerland",
+    "posted_date": "",
+    "department": "",
+    "score": -2,
+    "matched_keywords": [],
+    "deducted_keywords": [
+      "location:Switzerland"
+    ]
   }
 }
