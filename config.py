@@ -117,6 +117,52 @@ TITLE_FILTERS: list[str] = [
     "patent analyst",
     "patent examiner",
     "patent expert",
+    # ── French-language equivalents (for HUG, SIB, IPI and other FR-posting orgs) ──
+    # Scientist / researcher
+    "scientifique",
+    "chercheur",
+    "chercheuse",
+    # Translational / precision medicine
+    "médecine translationnelle",
+    "sciences translationnelles",
+    "médecine de précision",
+    # Biomarker
+    "biomarqueur",
+    # Medical Affairs / MSL
+    "affaires médicales",
+    "médecin scientifique de liaison",
+    "conseiller médical",
+    # Regulatory
+    "affaires réglementaires",
+    "réglementaire",
+    # Clinical development
+    "développement clinique",
+    # Preclinical
+    "développement préclinique",
+    # Biology / bioinformatics
+    "bioinformatique",
+    "biologie computationnelle",
+    "biologie spatiale",
+    "immuno-oncologie",
+    # Flow cytometry
+    "cytométrie en flux",
+    "cytométrie de flux",
+    # Assay development
+    "développement de tests",
+    "développement d'essais",
+    # Business development
+    "développement commercial",
+    # Health economics
+    "économie de la santé",
+    # Competitive intelligence
+    "veille concurrentielle",
+    # Medical writing
+    "rédacteur médical",
+    "rédactrice médicale",
+    # IP / Patent
+    "mandataire en brevets",
+    "conseil en brevets",
+    "brevets",
 ]
 
 # ---------------------------------------------------------------------------
@@ -686,6 +732,12 @@ COMPANIES: list[dict] = [
         "name": "PSI CRO",
         "ats": "smartrecruiters",
         "company_id": "PSICRO",
+    },
+    # HUG — Hôpitaux Universitaires de Genève (Geneva university hospital)
+    {
+        "name": "HUG",
+        "ats": "smartrecruiters",
+        "company_id": "HUG",
     },
     # KCR — acquired by ICON plc August 2024, removed (ICON already in list)
     # Alira Health (Boston / Swiss healthcare consulting) — Workday
