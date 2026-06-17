@@ -1572,7 +1572,7 @@
     "title": "Scientist – QC Lab Systems & CSV (GMP)",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-05-18",
+    "posted_date": "2026-06-17",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -1979,7 +1979,7 @@
   },
   "https://www.stettlerconsulting.ch/en/current-vacancies/conseiller-medical-en-urologie-a-definir/": {
     "external_url": "https://www.stettlerconsulting.ch/en/current-vacancies/conseiller-medical-en-urologie-a-definir/",
-    "status": "matched",
+    "status": "ignored",
     "title": "Conseiller médical (f/h) en Urologie (% à définir)",
     "company": "Stettler Consulting",
     "location": "Tessin, Westschweiz & Zentralschweiz, Switzerland",
@@ -2247,6 +2247,104 @@
     "department": "",
     "score": 0,
     "matched_keywords": [],
+    "deducted_keywords": []
+  },
+  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000132625034": {
+    "description": "Introduction:\nThe Engineering Department (EN) pushes forward the limits of technology so that physicists can carry out their research. Within the EN department, the Mechanical and Materials Engineering (MME) Group provides the CERN community with specific engineering solutions combining mechanical design, fabrication, and material sciences.\nAre you passionate by mechanics, and are you skilled in computer-aided design? This is an opportunity for you. You will be part of a multidisciplinary project team designing, fabricating and testing a new generation of components for the Future Circular Collider (FCC).\nAs a Mechanical Technical Engineer in the MME Design Office (EN-MME-MD), you will be in charge of mechanical engineering and design of new complex equipment and mechanical systems for high-energy physics projects and new accelerators and in particular for Superconducting Radio Frequency (SRF) equipment for the FCC.\n\nStructural and thermomechanical studies, design of pressure equipment, cryogenics, ultra-high vacuum technology, sustainable design and manufacturing, safety, reliability, product lifecycle management are just a few of the keywords related to this position.\nFunctions:\nTechnical management of design office activities in collaboration with other services within the EN-MME group and with experts and stakeholders CERN wide, in particular for accelerating cavities within the scope of the FCC project.\nAnalysis of design requirements based on functional specifications or other relevant information.\nExecution of design studies of mechanical assemblies, components, tooling, equipment integration and layout.\nCreation of detailed 3D models and technical drawings (including specification, detail, manufacturing, assembly, installation, as-built and verification drawings), in consultation with CERN manufacturing and materials experts and in compliance with relevant design and drafting standards.\nPreparation of the project documentation according to the Design Office quality assurance procedures.\nPreparation of presentations, technical reports, engineering specifications and calculation notes.\nPreparation of technical specification and participation in contract negotiations.\nFollow-up, in close interaction with other teams and services, of the manufacturing, assembling and installation of mechanical components.\nProvide technical oversight and guidance to a team of designers and draftsmen to ensure quality, consistency, and compliance with requirements.\nEnsure follow-up of assigned activities using internal administrative tools, including the preparation of estimates, maintenance of job descriptions, and processing of amendments to support timely and accurate invoicing.",
+    "external_url": "https://jobs.smartrecruiters.com/CERN/744000132625034-mechanical-designer-en-mme-md-2026-132-ld-?oga=true",
+    "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000132600743": {
+    "description": "Introduction\nYou will join our multicultural team of around 20 Talent Acquisition colleagues to attract and hire diverse talent for CERN’s scientific and technical missions. Each team member partners with specific client groups, and brings their knowledge, ideas and diverse strengths to the team. \n\nTogether we have some ambitious goals, such as increasing the representation of women in STEM and strengthening nationality diversity in all types of hires, from students to seasoned professionals. You will be expected to handle big volumes of recruitment, and contribute to the shaping of first-class recruitment experiences for all stakeholders.\nFunctions\nPartner with hiring teams and stakeholder groups to deliver on their recruitment needs. This includes translating their needs in market-ready job ads and attraction strategies; facilitating fair, transparent and inclusive selection processes.\nDeliver a seamless, welcoming and inclusive candidate experience from first contact through to offer and onboarding.\nBuild and engage relevant talent communities. \nContribute to the overall employer branding strategies and its translation into practice with proposals, engaging with the public through social media and representing CERN at events.\nSupport the shaping of our future recruitment processes in particular for students and grads by staying informed and curious, translating findings in a creative and/or open-minded collaboration.\nUse internal and external data as appropriate for decision making and reporting.",
+    "external_url": "https://jobs.smartrecruiters.com/CERN/744000132600743-talent-acquisition-specialist-hr-ta-2026-130-ld-?oga=true",
+    "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000132601850": {
+    "description": "As a highly motivated applied physicist with experience in advanced particle detectors for high-energy physics experiments, you will join the CERN CMS Tracker team to develop software and diagnostic tools spanning the integration, checkout, commissioning, and calibration chain of the Tracker detector for the High-Luminosity LHC.\nIn this role, you will contribute to online and offline software, databases, and user interfaces that support the reception testing of detector substructures, validation of large detector sections, and the commissioning and calibration of the final detector once installed at Point 5.\nYour responsibilities\nDevelop online software within the ShepHERD ecosystem for configuration, control, monitoring, and automated calibration of the back-end electronics for the Outer Tracker and Inner Tracker.\nParticipate in hardware integration and commissioning activities at CERN, including back-end integration tests at the Tracker Integration Facility (TIF) and slice tests.\nContribute to the development of checkout and calibration procedures, including associated test protocols.\nHelp scope and implement tools across the integration → checkout → commissioning → calibration workflow, with a focus on online and offline software, database interfaces, and web/UI tooling.\nFollow the firmware development of back-end boards and possibly contribute to it.\nThis role includes team supervision responsibilities.\nYour profile\nSolid background in silicon detectors for high-energy physics experiments.\nExperience in developing or contributing to test protocols and data acquisition routines.\nHands-on experience with detector readout chains, including front-end and back-end electronics, optical links, and DAQ systems, is considered beneficial.\nExperience with data analysis tools, detector qualification, or commissioning is considered an asset.\nSkills\nProven expert-level knowledge of C++.\nExperience with version control systems (Git/GitLab), continuous integration, and collaborative software development practices.\nFamiliarity with firmware development (VHDL) is considered an advantage.\nExperience with databases, web/UI development, or online monitoring tools is considered an asset.\nSpoken and written English, with a commitment to learn French.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nYou have a professional background in Electronics Engineering, Applied Physics (or a related field) and have either:\na Master's degree with 2 to 6 years of post-graduation professional experience;\nor a PhD with no more than 3 years of post-graduation professional experience.\nYou have never had a CERN fellow or graduate contract before.",
+    "external_url": "https://jobs.smartrecruiters.com/CERN/744000132601850-applied-physicist-on-daq-software-ep-cms-id-2026-113-grap-?oga=true",
+    "status": "matched"
+  },
+  "https://gloorlang.starhunter.software/Headhunter/project/job-ad/hash/6a201d0a1a053": {
+    "external_url": "https://gloorlang.starhunter.software/Headhunter/project/job-ad/hash/6a201d0a1a053",
+    "status": "matched",
+    "title": "Validation & Investigation Scientist",
+    "company": "Gloor & Lang",
+    "location": "Neuchatel - Lausanne Region, Switzerland",
+    "posted_date": "",
+    "department": "",
+    "score": 4,
+    "matched_keywords": [
+      "location:lausanne"
+    ],
+    "deducted_keywords": []
+  },
+  "https://gloorlang.starhunter.software/Headhunter/project/job-ad/hash/69e5f1b516f9f": {
+    "external_url": "https://gloorlang.starhunter.software/Headhunter/project/job-ad/hash/69e5f1b516f9f",
+    "status": "matched",
+    "title": "Regulatory Affairs Specialist",
+    "company": "Gloor & Lang",
+    "location": "Zürich Region, Switzerland",
+    "posted_date": "",
+    "department": "",
+    "score": 0,
+    "matched_keywords": [],
+    "deducted_keywords": []
+  },
+  "https://gloorlang.starhunter.software/Headhunter/project/job-ad/hash/68b5a83b99a4d": {
+    "external_url": "https://gloorlang.starhunter.software/Headhunter/project/job-ad/hash/68b5a83b99a4d",
+    "status": "matched",
+    "title": "Regulatory Affairs Manager 80%",
+    "company": "Gloor & Lang",
+    "location": "Basel, Switzerland",
+    "posted_date": "",
+    "department": "",
+    "score": 0,
+    "matched_keywords": [],
+    "deducted_keywords": []
+  },
+  "https://jobdetails.nestle.com/job/Lausanne-Systems-Biology-and-Microbiome-Data-Science-Intern/1405586333/": {
+    "description": "Location: Lausanne, Switzerland\nWork model: On site\nContract type / duration: Internship – 6 months\nTarget start date: September 1, 2026\n\nDeadline for applications: July 2, 2026\n\n \n\nBe a force for good and transform your potential into something extraordinary.\n\nAs a Systems Biology and Microbiome Data Science Intern at Nestlé Research, Nestlé Institute of Health Sciences, your mission is to help transform complex scientific information into structured, usable data that supports microbiome research and innovation in human health. You will work closely with scientists and partners across Nestlé to identify relevant information from detailed reports and sample-based studies, bring together data from different sources, and make it ready for future analysis and decision-making. This is your opportunity to make an impact while gaining hands on experience and mentorship to kick-start your career.\n\nHow you’ll make an impact as a Systems Biology and Microbiome Data Science Intern\n\nDriving data mining and computational analysis of microbiome assays to uncover insights that support human health research.\n\nConducting literature reviews to identify scientific advancements and strengthen the foundation of ongoing research projects.\n\nBuilding on existing analyses to generate new biological understanding of microbiome and host interactions.\n\nPartnering with interdisciplinary experts to translate scientific questions into actionable research outputs.\n\nPresenting findings through reports and scientific communication to help shape future research directions.\n\nWhat will make you successful\n\nCurrent student or fresh graduate in computational science, systems biology, microbiology, biochemistry, biotechnology, or a related field.\n\nHaving confidence using programming tools such as R, Python, or similar technologies to explore and interpret complex scientific data.\n\nBeing curious about microbiome science, motivated by human health, and comfortable collaborating across disciplines and teams to turn ideas into insight.\n\nCommunicating fluently in English.\n\nDemonstrating courage, collaboration, speed and continuous learning.\n\nAt Nestlé Research, we place people at the heart of everything we do.\n\nOur benefits are designed to support your growth and wellbeing, so you can thrive at work and in life:\n\nFlexible working options, including hybrid work possibilities (for office-based roles)\n\nLearning and development opportunities to grow your career\n\nHealthcare contribution and access to the Employee Assistance Program\n\nAttractive employee discounts across various products and services\n\nWhat to expect from our hiring process\n\nWe are committed to an inclusive and respectful hiring experience and are happy to provide reasonable accommodations if needed. Our workplaces are fully accessible and supported by a strong safety culture, with modern installations and procedures to ensure a safe environment for everyone.\n\nThe hiring process typically includes a video interview with Talent Acquisition, an interview with the hiring team, and a final discussion and offer. We review applications as they are received and close the role once a strong list of relevant candidates is identified, so we encourage you to apply early. All information is treated confidentially.\n\nReady to start your career journey with us?\n\nApply now and transform your potential into something extraordinary.",
+    "external_url": "https://jobdetails.nestle.com/job/Lausanne-Systems-Biology-and-Microbiome-Data-Science-Intern/1405586333/",
+    "status": "matched",
+    "title": "Systems Biology and Microbiome Data Science Intern",
+    "company": "Nestlé",
+    "location": "Lausanne, CH",
+    "posted_date": "",
+    "department": "",
+    "score": 4,
+    "matched_keywords": [
+      "location:lausanne"
+    ],
+    "deducted_keywords": []
+  },
+  "/job/Basel-City/Regulatory-Affairs-Manager-Senior-Manager--CMC_REQ-10079740-1": {
+    "description": "Salary Range:CHF93,800.00 - CHF174,200.00\n\n \nJob Description Summary#LI-Hybrid (12 days per month on-site)\nOffice Location: Basel, Switzerland\n\nNovartis are seeking a Manager/Senior Manager to be responsible for regulatory activities related to Chemistry, Manufacturing and Controls (CMC), including the preparation and publication of CMC regulatory documentation for Health Authority submissions. The role also involves engaging with Health Authorities on CMC‑related questions to support both new product launches and post‑marketing activities.\n\n \nJob Description\nMajor Accountabilities\n\nFormulate, lead and drive global CMC regulatory strategy with a focus on innovation, balancing business benefit with regulatory compliance.\n\nLead and implement global CMC submission activities (planning, authoring, reviewing, coordination, submission) for assigned projects/products.\n\nIdentify the required documentation and any content, quality and/or timelines issues for global submissions and negotiate the delivery of approved technical source documents in accordance with project timelines.\n\nAuthor and/or review high-quality CMC documentation for HA submission, applying agreed CMC global regulatory strategies, current regulatory trends and guidelines. Ensure technical congruency and regulatory compliance, meeting agreed upon timelines and e-publishing requirements.\n\nProactively communicate CMC regulatory strategies, risks and key issues throughout the life cycle in a timely manner to project teams and other stakeholders. Represent department in cross-functional project teams.\n\nLead, prepare and communicate CMC risk management assessments and lessons learned on major submissions.\n\nInitiate and lead Health Authority interactions and negotiations.\n\nEssential Requirements\n\nScience degree (e.g. Chemistry, Pharmacy, Biochemistry, Molecular Biology, Biotechnology, Biology) or equivalent.\n\nMinimum 5 years of regulatory CMC experience and/or pharmaceutical industry experience.\n\nDemonstrated knowledge/experience in regulatory submission and approval processes and ability to deal with complex CMC regulatory issues and requirements.\n\nProven ability to critically evaluate data from a broad range of scientific disciplines.\n\nCommitment to Diversity and Inclusion / EEO paragraph\nNovartis is committed to building an outstanding, inclusive work environment and diverse teams representative of the patients and communities we serve.\n\nAccessibility and Accommodation\n\nNovartis is committed to working with and providing reasonable accommodation to all individuals. If, because of a medical condition or disability, you need a reasonable accommodation for any part of the recruitment process, or in order to receive more detailed information about the essential functions of a position, please send an e-mail to inclusion.switzerland@novartis.com and let us know the nature of your request and your contact information. Please include the job requisition number in your message. \n\n \nSkills Desired",
+    "external_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Basel-City/Regulatory-Affairs-Manager-Senior-Manager--CMC_REQ-10079740-1",
+    "status": "matched",
+    "title": "Regulatory Affairs Manager/Senior Manager, CMC",
+    "company": "Novartis",
+    "location": "Basel (City)",
+    "posted_date": "2026-06-17",
+    "department": "",
+    "score": 1,
+    "matched_keywords": [
+      "molecular biology"
+    ],
+    "deducted_keywords": []
+  },
+  "/job/CH---Basel/Project-Scientist-Phys-Chem-Quality-Control-80-100-_R76323": {
+    "description": "The actual location of this job is in Basel Stücki, Switzerland.\n\nFor our successful Drug Product Services (DPS) focused branch located in Basel and Stein, Switzerland, we have exciting opportunities. Become part of a group that enables its customers to meet some of the greatest challenges in patient treatment and join us by applying for the Project Scientist Phys-Chem QC position.\n\nWhat you will get:\n\nAn agile career and a dynamic work culture\n\nAn inclusive and ethical workplace\n\nCompensation programs that recognize high performance\n\nWhat you will do:\n\nReview and approve physico-chemical QC analytical data packages (e.g., identity, purity, content, compendial tests) under cGMP, ensuring compliance with SOPs and Good Documentation Practices\n\nEnsure timely tracking and closure of internal and external QC testing activities; escalate risks or delays proactively\n\nCoordinate sample lifecycle activities (from pull to disposal) and manage associated documentation in collaboration with QC Project Lead and laboratory teams\n\nSupport investigations of deviations, OOX events, and CAPAs related to QC testing\n\nContribute to onsite customer or regulatory audits by providing QC-related documentation and clarifications\n\nWhat we are looking for:\n\nMSc or BSc in Analytical Chemistry, Biochemistry, Pharmaceutical Sciences, or related field\n\n0–4 years of experience in QC or analytical development; prior exposure to GMP environments is advantageous\n\nBasic understanding of physico-chemical analytical techniques (e.g., HPLC, CE/icIEF, protein content, pH, osmolality)\n\nFamiliarity with laboratory systems such as LIMS, Empower, or Electronic Lab Notebooks is a plus\n\nStrong attention to detail, organizational skills, and ability to work within established procedures\n\nEffective communication and collaboration skills; business fluent English (written and spoken)\n\nAbout Lonza\nAt Lonza, our people are our greatest strength. With 30+ sites across five continents, our globally connected teams work together every day to manufacture the medicines of tomorrow. Our core values of Collaboration, Accountability, Excellence, Passion and Integrity reflect who we are and how we work together. Everyone’s ideas, big or small, have the potential to improve millions of lives, and that’s the kind of work we want you to be part of.\n\nInnovation thrives when people from all backgrounds bring their unique perspectives to the table. At Lonza, we value diversity and are committed to creating an inclusive environment for all employees. If you’re ready to help turn our customers’ breakthrough ideas into viable therapies, we look forward to welcoming you on board.\n\nReady to shape the future of life sciences? Apply now.",
+    "external_url": "https://lonza.wd3.myworkdayjobs.com/Lonza_Careers/job/CH---Basel/Project-Scientist-Phys-Chem-Quality-Control-80-100-_R76323",
+    "status": "ignored",
+    "title": "Project Scientist Phys-Chem Quality Control 80-100%",
+    "company": "Lonza",
+    "location": "CH - Basel",
+    "posted_date": "2026-06-17",
+    "department": "",
+    "score": 1,
+    "matched_keywords": [
+      "MSc"
+    ],
     "deducted_keywords": []
   }
 }
