@@ -88,7 +88,7 @@
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-06-09"
+    "cached_at": "2026-06-17"
   },
   "_facets:roche:roche-ext": {
     "facets": {},
@@ -96,7 +96,7 @@
       "Basel",
       "Kaiseraugst"
     ],
-    "cached_at": "2026-06-09"
+    "cached_at": "2026-06-17"
   },
   "_facets:novartis:Novartis_Careers": {
     "facets": {},
@@ -104,63 +104,63 @@
       "Basel",
       "Stein"
     ],
-    "cached_at": "2026-06-09"
+    "cached_at": "2026-06-17"
   },
   "_facets:sanofi:SanofiCareers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-06-09"
+    "cached_at": "2026-06-17"
   },
   "_facets:abbott:abbottcareers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-06-09"
+    "cached_at": "2026-06-17"
   },
   "_facets:pfizer:PfizerCareers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-06-09"
+    "cached_at": "2026-06-17"
   },
   "_facets:gsk:GSKCareers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-06-09"
+    "cached_at": "2026-06-17"
   },
   "_facets:astrazeneca:Careers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-06-09"
+    "cached_at": "2026-06-17"
   },
   "_facets:amgen:Careers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-06-09"
+    "cached_at": "2026-06-17"
   },
   "_facets:gilead:gileadcareers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-06-09"
+    "cached_at": "2026-06-17"
   },
   "_facets:modernatx:M_tx": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-06-09"
+    "cached_at": "2026-06-17"
   },
   "_facets:takeda:External": {
     "facets": {},
@@ -169,28 +169,28 @@
       "Zug",
       "Glattpark"
     ],
-    "cached_at": "2026-06-09"
+    "cached_at": "2026-06-17"
   },
   "_facets:beigene:BeiGene": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-06-09"
+    "cached_at": "2026-06-17"
   },
   "_facets:msd:SearchJobs": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-06-09"
+    "cached_at": "2026-06-17"
   },
   "_facets:vrtx:Vertex_Careers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-06-09"
+    "cached_at": "2026-06-17"
   },
   "_facets:lonza:Lonza_Careers": {
     "facets": {},
@@ -199,7 +199,7 @@
       "Visp",
       "Stein"
     ],
-    "cached_at": "2026-06-09"
+    "cached_at": "2026-06-17"
   },
   "_facets:csl:CSL_External": {
     "facets": {},
@@ -209,7 +209,7 @@
       "St. Gallen",
       "Romont"
     ],
-    "cached_at": "2026-06-09"
+    "cached_at": "2026-06-17"
   },
   "_facets:alcon:careers_alcon": {
     "facets": {},
@@ -218,7 +218,7 @@
       "Hünenberg",
       "Zurich"
     ],
-    "cached_at": "2026-06-09"
+    "cached_at": "2026-06-17"
   },
   "_facets:galderma:External": {
     "facets": {},
@@ -227,63 +227,63 @@
       "La Tour-de-Peilz",
       "Lausanne"
     ],
-    "cached_at": "2026-06-09"
+    "cached_at": "2026-06-17"
   },
   "_facets:iqvia:IQVIA": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-06-09"
+    "cached_at": "2026-06-17"
   },
   "_facets:icon:broadbean_external": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-06-09"
+    "cached_at": "2026-06-17"
   },
   "_facets:parexel:Parexel_External_Careers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-06-09"
+    "cached_at": "2026-06-17"
   },
   "_facets:syneoshealth:Syneos_Health_External_Site": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-06-09"
+    "cached_at": "2026-06-17"
   },
   "_facets:myhrabc:Global": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-06-09"
+    "cached_at": "2026-06-17"
   },
   "_facets:thermofisher:ThermoFisherCareers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-06-09"
+    "cached_at": "2026-06-17"
   },
   "_facets:danaher:DanaherJobs": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-06-09"
+    "cached_at": "2026-06-17"
   },
   "_facets:illumina:illumina-careers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-06-09"
+    "cached_at": "2026-06-17"
   },
   "_facets:qiagen:QIAGEN": {
     "facets": {},
@@ -297,14 +297,14 @@
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-06-09"
+    "cached_at": "2026-06-17"
   },
   "_facets:jsrglobal:KBI_Biopharma": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-06-09"
+    "cached_at": "2026-06-17"
   },
   "_generic:Tigen Pharma": {
     "keywords": "npp"
@@ -718,11 +718,6 @@
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000126310865": {
     "description": "Introduction: Join CERN as a Senior Project Manager and lead the design and potential construction of cutting-edge underground and surface civil engineering projects. Manage high-value contracts and small teams of skilled engineers on technically complex projects, collaborating across disciplines to deliver innovative solutions. Be part of the dynamic team shaping the proposed Future Circular Collider ( FCC ), a 91 km circumference machine planned to be housed in an underground complex up to 500 metres below ground in the Geneva Basin. Functions: Responsible for the preliminary design and planning of the extensive and complex civil engineering works envisaged for the FCC. Lead the definition of requirements and develop technical solutions for surface and underground civil engineering infrastructure for the FCC. Lead internal CERN stakeholders on the contractual framework for design and possible future construction of the FCC. Prepare technical and contractual documentation for major consultancy contracts covering detailed design and construction supervision. Manage CERN personnel contributing to FCC civil engineering efforts. Interface and coordinate with CERN stakeholders to ensure civil engineering milestones are achieved. Prepare and oversee detailed cost estimates and schedules for FCC civil engineering. Report on FCC civil engineering at a high management level within CERN and with external stakeholders.",
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000126310865-senior-civil-engineering-project-manager-sce-ppm-2025-238-ld-?oga=true",
-    "status": "matched"
-  },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000126963009": {
-    "description": "Introduction: You will play a key role in operating LINAC3, CERN’s ion linear accelerator, helping ensure reliable and efficient beam delivery across the injector chain. You will oversee the safe operation and performance of ion beams supplied to downstream machines, supporting daily operations, commissioning and machine development. Working closely with operators, equipment experts and machine coordinators, you will contribute to optimising beam quality, availability and operational efficiency, while advancing automation and operational tools. The Operations Group manages the full CERN accelerator complex and its technical infrastructure, including the LHC, delivering proton and heavy ion beams for a diverse experimental program. You will contribute directly to preparing beams for CERN’s physics research. Functions: Contribute to and coordinate the daily operation of the LINAC3 ion accelerator, ensuring safe, reliable and timely beam delivery to downstream accelerators. Prepare, coordinate, and follow up the machine restart, beam commissioning, development and technical interventions. Coordinate closely with operators, engineers and equipment specialists to diagnose and resolve operational issues. Monitor beam quality and machine performance, analyse operational data and take corrective actions when needed. Use, maintain, and evolve standard operational tools, diagnostics and monitoring applications required for routine operation, troubleshooting and performance follow-up. Participate in and lead machine development activities aimed at improving performance, stability and availability. Develop and integrate advanced tools and algorithms for beam measurements, corrections, automation and performance optimisation, in close collaboration with machine and equipment experts. Produce and maintain operational and safety documentation for the accelerator, including new ion species. Contribute to shift coordination and operational planning, including participation in coordination rotas. Prepare and present clear status updates and reports for coordination meetings and management. Support knowledge transfer and on-the-job training of operators and junior colleagues. Contribute to cross-machine activities to ensure synergies and share best practices.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000126963009-particle-accelerator-engineer-be-op-psb-2026-106-ld-?oga=true",
     "status": "matched"
   },
   "https://api.smartrecruiters.com/v1/companies/Sobi/postings/744000127132670": {
@@ -1214,7 +1209,7 @@
     "title": "Supervisor Flow Cytometry",
     "company": "Labcorp",
     "location": "CHE - Geneva - 7 rue Moise-Marcinhes",
-    "posted_date": "2026-06-04",
+    "posted_date": "2026-06-05",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -1231,7 +1226,7 @@
     "title": "Flow Cytometry Analyst",
     "company": "Labcorp",
     "location": "CHE - Geneva - 7 rue Moise-Marcinhes",
-    "posted_date": "2026-05-17",
+    "posted_date": "2026-05-18",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -1247,7 +1242,7 @@
     "title": "Product Manager - Spatial Biology",
     "company": "Bio-Techne / Lunaphore",
     "location": "Tolochenaz, Switzerland",
-    "posted_date": "2026-06-08",
+    "posted_date": "2026-06-09",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -1269,7 +1264,7 @@
     "title": "Genomics Data Scientist (2 year contract)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-06-07",
+    "posted_date": "2026-06-08",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1286,7 +1281,7 @@
     "title": "Scientist/ Sr. Scientist - Image Analysis (2 year contract)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-06-07",
+    "posted_date": "2026-06-08",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1303,7 +1298,7 @@
     "title": "Scientist, Pharmaceutical Development & Data Analytics _2 years temporary contract",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-06-10",
+    "posted_date": "2026-06-11",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1318,7 +1313,7 @@
     "title": "Technical Expert Portfolio Mgmt, Technical Feasibility and Planning",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-05-17",
+    "posted_date": "2026-05-18",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1331,7 +1326,7 @@
     "title": "Discovery Scientists, in vitro and in vivo Pharmacology, in Cardiovascular & Metabolic Disease Research",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-05-17",
+    "posted_date": "2026-05-18",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -1351,7 +1346,7 @@
     "title": "Post Doctoral Scientist (IHB) - Computational Immunology",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-05-17",
+    "posted_date": "2026-05-18",
     "department": "",
     "score": 12,
     "matched_keywords": [
@@ -1377,7 +1372,7 @@
     "title": "Post Doctorate Scientist (IHB) - In Vitro Modeling Adaptive Immunologist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-05-17",
+    "posted_date": "2026-05-18",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -1405,7 +1400,7 @@
     "title": "Sr. Scientist - Computational Biology - Neuroscience & Rare Diseases",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-05-17",
+    "posted_date": "2026-05-18",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -1433,7 +1428,7 @@
     "title": "Medical Director, Gastroenterology, Early Clinical Development",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-05-17",
+    "posted_date": "2026-05-18",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -1458,7 +1453,7 @@
     "title": "International Medical Affairs Head, CRM",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-06-10",
+    "posted_date": "2026-06-11",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1475,7 +1470,7 @@
     "title": "Clinical Sciences Trial Leader/Senior Clinical Sciences Trial Leader, Translational Medicine (Multiple Listings) 80-100%",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-06-07",
+    "posted_date": "2026-06-08",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -1496,7 +1491,7 @@
     "title": "Senior Medical Director, Nephrology, Global Medical Affairs",
     "company": "Biogen",
     "location": "Baar, Switzerland",
-    "posted_date": "2026-05-20",
+    "posted_date": "2026-05-21",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -1514,7 +1509,7 @@
     "title": "Global Medical Director, Evidence Generation Lead",
     "company": "Biogen",
     "location": "Baar, Switzerland",
-    "posted_date": "2026-06-08",
+    "posted_date": "2026-06-09",
     "department": "",
     "score": -2,
     "matched_keywords": [
@@ -1533,7 +1528,7 @@
     "title": "Senior Scientist Process Development Drug Product 12 months fix-term contract 80-100%",
     "company": "Lonza",
     "location": "CH - Basel",
-    "posted_date": "2026-06-04",
+    "posted_date": "2026-06-05",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1548,7 +1543,7 @@
     "title": "Senior Scientist, Tech Ops",
     "company": "CSL Behring / Vifor",
     "location": "EMEA, CH, Kanton Bern, Bern, CSL Behring",
-    "posted_date": "2026-06-04",
+    "posted_date": "2026-06-05",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1570,7 +1565,7 @@
     "title": "Senior Scientist Material Management & Qualification - Quality Control",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-06-02",
+    "posted_date": "2026-06-03",
     "department": "",
     "score": -1,
     "matched_keywords": [
@@ -1587,7 +1582,7 @@
     "title": "Scientist – QC Lab Systems & CSV (GMP)",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-05-17",
+    "posted_date": "2026-05-18",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -1602,7 +1597,7 @@
     "title": "Scientist Microbiological Quality Control",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-05-17",
+    "posted_date": "2026-05-18",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -1617,7 +1612,7 @@
     "title": "Sr Account Director, Business Development - RWE",
     "company": "Thermo Fisher Scientific",
     "location": "Remote, Switzerland",
-    "posted_date": "2026-06-01",
+    "posted_date": "2026-06-02",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -1634,7 +1629,7 @@
     "title": "Senior Scientist microbiological Quality Control",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-06-09",
+    "posted_date": "2026-06-10",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -1832,11 +1827,6 @@
     "external_url": "https://jobs.smartrecruiters.com/Sobi/744000132343392-indirect-sourcing-manager-fixed-term-12-months?oga=true",
     "status": "matched"
   },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000132434860": {
-    "description": "Are you a motivated computing graduate interested in global scientific infrastructure? Join CERN and contribute to the Computing Resource Information Catalogue (CRIC), a topology service describing computing and storage resources across the Worldwide LHC Computing Grid (WLCG), which connects over 150 computing centres in 40+ countries supporting particle physics research.\nCRIC is a key component of the WLCG ecosystem. Built as a modular Django web platform with a plugin-based architecture, it aggregates resource information from multiple sources and provides REST APIs and a web interface used in daily LHC computing operations.\nYou will join the CERN IT Computing for Experiments group and help evolve CRIC by improving its maintainability, extensibility, and operational efficiency. This is a unique opportunity to work on distributed systems supporting one of the world's largest scientific computing infrastructures.\nYour responsibilities\nContribute to the development and evolution of CRIC, a plugin-based Django platform while also strengthening automation, testing and CI/CD practices.\nDevelop and operate data ingestion pipelines that collect and validate information from heterogeneous external systems.\nContribute to deployment and operational workflows for CRIC instances currently managed through Puppet and CERN VM infrastructure.\nYour profile\nYou enjoy building reliable, well-structured software and are curious about how large-scale distributed systems operate.\nYou are comfortable working in Linux environments and collaborating through Git-based workflows.\nYou have strong analytical skills and are able to evaluate trade-offs and propose pragmatic technical solutions.\nYou communicate clearly and enjoy working in an international, multicultural environment.\nYou are self-motivated, proactive and able to take ownership of technical tasks.\nSkills\nStrong Python programming and Django development experience.\nProficiency in relational databases and data modelling.\nGood understanding of web technologies (HTML, CSS, JavaScript).\nProficiency in automated testing and Git-based workflows in Linux environments.\nFamiliarity with service configuration and deployment practices (e.g. configuration management, containerisation).\nSpoken and written English, with a commitment to learn French.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nYou have a professional background in Software Engineering (or a related field) and have either:\na Master's degree with 2 to 6 years of post-graduation professional experience;\nor a PhD with no more than 3 years of post-graduation professional experience.\nYou have never had a CERN fellow or graduate contract before.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000132434860-full-stack-software-engineer-it-ce-lcg-2026-54-grap-?oga=true",
-    "status": "matched"
-  },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000132377569": {
     "description": "As an Electrical Engineer, you will join the Engineering Department (EN), specifically the EN-AA-CSE team, to work on the Future Circular Collider (FCC) study.\nThe Future Circular Collider study is developing designs for the next generation of higher-performance particle colliders that could follow the Large Hadron Collider (LHC). The FCC Feasibility Study investigated the technical and financial viability of the FCC at CERN. By looking at the geological and environmental conditions, as well as technically feasible concepts for infrastructures, civil engineering, and detectors. In anticipation of a final decision and a Technical Design Report (TDR), the FCC study enters a reference design phase, where refinement of concepts will take place to allow rapid and smooth transition to civil engineering procurement.\nThe CERN Access and Alarms group (EN-AA) is tasked to contribute to the analysis and design of the necessary fire safety systems in this new facility. It will be housed in a new underground circular tunnel with a circumference of 90.7 km, and access shaft depths between 180 and 400 m, with eight surface sites and four experiments.\nYour responsibilities\nThe role includes technical and organisational tasks:\nCarrying out fire risk analysis in collaboration with safety experts and members of the study team.\nIdentification of possible solutions, both off-the-shelf and custom to reduce the fire risk to an acceptable level.\nIdentification of needs for fire safety systems and of their high-level requirements.\nDesign engineering - high-level design of electrical safety systems and cabling/powering requirements.\nPreparation of technical studies, cost estimations, project documents, and review of documents prepared by other participating groups and contractors.\nDevelopment of quality plans and documents.\nFollow up on schedule, including participation in the FCC Technical Infrastructure WG and FCC Safety WG.\nParticipation in personnel safety systems-oriented activities of EN-AA to gain hands-on experience with the particularities of these kinds of installations.\nYour profile\nPrevious professional experience in the electrical domain such as: power converters, electrical networks, control systems, etc.\nExperience in safety and/or critical systems engineering.\nWould be considered as assets:\nExperience in the fire safety domain.\nKnowledge of radioactive environmental conditions and underground facilities.\nInitial experience in IEC 61508/61511 and EN 54 standards.\nKnowledge of French language.\nSkills\nElectrical engineering.\nSafety systems engineering.\nQuality management.\nTeam working and communication.\nAdaptability and anticipation.\nSpoken and written English, with a commitment to learn French.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nYou have a professional background in Electrical Engineering (or a related field) and have either:\na Master's degree with 2 to 6 years of post-graduation professional experience;\nor a PhD with no more than 3 years of post-graduation professional experience.\nYou have never had a CERN fellow or graduate contract before.",
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000132377569-electrical-engineer-for-safety-systems-en-aa-cse-2026-112-grap-?oga=true",
@@ -1879,7 +1869,7 @@
     "title": "Translational Medicine Expert – Dermatology, Associate Director",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-06-16",
+    "posted_date": "2026-06-17",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -2222,7 +2212,7 @@
     "title": "Global Program Regulatory Manager - Neuroscience",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-06-16",
+    "posted_date": "2026-06-17",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2237,12 +2227,74 @@
     "title": "Global Program Regulatory Manager - Neuroscience",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-06-16",
+    "posted_date": "2026-06-17",
     "department": "",
     "score": 1,
     "matched_keywords": [
       "drug development"
     ],
+    "deducted_keywords": []
+  },
+  "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-senior-scientist-bcqc-lengnau-berne-880270/1": {
+    "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-senior-scientist-bcqc-lengnau-berne-880270/1",
+    "status": "matched",
+    "title": "Senior Scientist BCQC(m/f/d)",
+    "company": "Hays Switzerland",
+    "location": "Lengnau, Berne, Switzerland",
+    "posted_date": "",
+    "department": "",
+    "score": 0,
+    "matched_keywords": [],
+    "deducted_keywords": []
+  },
+  "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-analytical-project-leader-scientist-senior-scientist-basel-stadt-873611/1": {
+    "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-analytical-project-leader-scientist-senior-scientist-basel-stadt-873611/1",
+    "status": "matched",
+    "title": "Analytical Project Leader (Scientist / Senior Scientist)(m/f/d)",
+    "company": "Hays Switzerland",
+    "location": "Basel Stadt, Switzerland",
+    "posted_date": "",
+    "department": "",
+    "score": 0,
+    "matched_keywords": [],
+    "deducted_keywords": []
+  },
+  "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-vice-president-of-business-development-basel-land-873413/1": {
+    "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-vice-president-of-business-development-basel-land-873413/1",
+    "status": "matched",
+    "title": "Vice President of Business Development(m/f/d)",
+    "company": "Hays Switzerland",
+    "location": "Basel Land, Switzerland",
+    "posted_date": "",
+    "department": "",
+    "score": 0,
+    "matched_keywords": [],
+    "deducted_keywords": []
+  },
+  "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-scientist-lab-technician-assay-development-zug-873185/1": {
+    "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-scientist-lab-technician-assay-development-zug-873185/1",
+    "status": "matched",
+    "title": "Scientist Lab Technician Assay Development(m/f/d)",
+    "company": "Hays Switzerland",
+    "location": "Zug, Switzerland",
+    "posted_date": "",
+    "department": "",
+    "score": 1,
+    "matched_keywords": [
+      "assay development"
+    ],
+    "deducted_keywords": []
+  },
+  "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-qc-scientist-microbiology-lengnau-berne-864632/1": {
+    "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-qc-scientist-microbiology-lengnau-berne-864632/1",
+    "status": "matched",
+    "title": "QC Scientist Microbiology(m/f/d)",
+    "company": "Hays Switzerland",
+    "location": "Lengnau, Berne, Switzerland",
+    "posted_date": "",
+    "department": "",
+    "score": 0,
+    "matched_keywords": [],
     "deducted_keywords": []
   }
 }
