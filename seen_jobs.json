@@ -1432,7 +1432,7 @@
     "title": "Senior Medical Director, Nephrology, Global Medical Affairs",
     "company": "Biogen",
     "location": "Baar, Switzerland",
-    "posted_date": "2026-06-18",
+    "posted_date": "",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -1450,7 +1450,7 @@
     "title": "Global Medical Director, Evidence Generation Lead",
     "company": "Biogen",
     "location": "Baar, Switzerland",
-    "posted_date": "2026-06-18",
+    "posted_date": "",
     "department": "",
     "score": -2,
     "matched_keywords": [
@@ -1469,7 +1469,7 @@
     "title": "Senior Scientist Process Development Drug Product 12 months fix-term contract 80-100%",
     "company": "Lonza",
     "location": "CH - Basel",
-    "posted_date": "2026-06-05",
+    "posted_date": "2026-06-04",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1484,7 +1484,7 @@
     "title": "Senior Scientist, Tech Ops",
     "company": "CSL Behring / Vifor",
     "location": "EMEA, CH, Kanton Bern, Bern, CSL Behring",
-    "posted_date": "2026-06-05",
+    "posted_date": "2026-06-04",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1506,7 +1506,7 @@
     "title": "Senior Scientist Material Management & Qualification - Quality Control",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-06-03",
+    "posted_date": "2026-06-02",
     "department": "",
     "score": -1,
     "matched_keywords": [
@@ -1523,7 +1523,7 @@
     "title": "Scientist – QC Lab Systems & CSV (GMP)",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-06-18",
+    "posted_date": "",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -1553,7 +1553,7 @@
     "title": "Sr Account Director, Business Development - RWE",
     "company": "Thermo Fisher Scientific",
     "location": "Remote, Switzerland",
-    "posted_date": "2026-06-02",
+    "posted_date": "2026-06-01",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -1570,7 +1570,7 @@
     "title": "Senior Scientist microbiological Quality Control",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-06-10",
+    "posted_date": "2026-06-09",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -2208,7 +2208,7 @@
     "title": "Project Scientist Phys-Chem Quality Control 80-100%",
     "company": "Lonza",
     "location": "CH - Basel",
-    "posted_date": "2026-06-18",
+    "posted_date": "",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2218,7 +2218,7 @@
   },
   "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-senior-scientist-bcqc-lengnau-berne-880270/1": {
     "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-senior-scientist-bcqc-lengnau-berne-880270/1",
-    "status": "matched",
+    "status": "ignored",
     "title": "Senior Scientist BCQC(m/f/d)",
     "company": "Hays Switzerland",
     "location": "Lengnau, Berne, Switzerland",
@@ -2230,7 +2230,7 @@
   },
   "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-analytical-project-leader-scientist-senior-scientist-basel-stadt-873611/1": {
     "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-analytical-project-leader-scientist-senior-scientist-basel-stadt-873611/1",
-    "status": "matched",
+    "status": "ignored",
     "title": "Analytical Project Leader (Scientist / Senior Scientist)(m/f/d)",
     "company": "Hays Switzerland",
     "location": "Basel Stadt, Switzerland",
@@ -2242,7 +2242,7 @@
   },
   "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-vice-president-of-business-development-basel-land-873413/1": {
     "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-vice-president-of-business-development-basel-land-873413/1",
-    "status": "matched",
+    "status": "ignored",
     "title": "Vice President of Business Development(m/f/d)",
     "company": "Hays Switzerland",
     "location": "Basel Land, Switzerland",
@@ -2254,7 +2254,7 @@
   },
   "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-scientist-lab-technician-assay-development-zug-873185/1": {
     "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-scientist-lab-technician-assay-development-zug-873185/1",
-    "status": "matched",
+    "status": "ignored",
     "title": "Scientist Lab Technician Assay Development(m/f/d)",
     "company": "Hays Switzerland",
     "location": "Zug, Switzerland",
@@ -2268,7 +2268,7 @@
   },
   "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-qc-scientist-microbiology-lengnau-berne-864632/1": {
     "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-qc-scientist-microbiology-lengnau-berne-864632/1",
-    "status": "matched",
+    "status": "ignored",
     "title": "QC Scientist Microbiology(m/f/d)",
     "company": "Hays Switzerland",
     "location": "Lengnau, Berne, Switzerland",
@@ -2277,5 +2277,10 @@
     "score": 0,
     "matched_keywords": [],
     "deducted_keywords": []
+  },
+  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000132780603": {
+    "description": "Introduction\nIn close collaboration with the Archivist, the Archives Assistant and the Data Governance Officer, you will be responsible for establishing, implementing, and maintaining records management best practices across CERN, ensuring that information is managed effectively throughout its lifecycle.\nFunctions\nCoordinate and oversee records management practices across CERN, including the DRO (Departmental Records Officers) network.\nProvide operational support for records management activities (data/metadata processing, quality control, digital migration).\nEstablish a records management implementation strategy and related processes and procedures, and contribute to policy development.\nDevelop and maintain retention schedules and related processes in collaboration with stakeholders.\nLead innovation and continuous improvement initiatives in records management, and monitor KPIs.\nLead apprentices, interns, and colleagues in records management.\nDeliver training and guidance to users and contribute to outreach and service activities.",
+    "external_url": "https://jobs.smartrecruiters.com/CERN/744000132780603-records-manager-osi-sis-al-2026-131-ld-?oga=true",
+    "status": "matched"
   }
 }
