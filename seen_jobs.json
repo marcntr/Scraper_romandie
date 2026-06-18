@@ -30,7 +30,7 @@
     "keywords": "clinical development,data science,evidence generation,precision medicine,scientist"
   },
   "_generic:ABCDx": {
-    "keywords": "biomarker,portfolio"
+    "keywords": "biomarker,portfolio,regulatory"
   },
   "_generic:Owkin": {
     "keywords": "data science,portfolio,regulatory,scientist"
@@ -730,11 +730,6 @@
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000127398029-embedded-electronics-engineer-te-mpe-iq-2026-89-grap-?oga=true",
     "status": "matched"
   },
-  "https://api.smartrecruiters.com/v1/companies/AbbVie/postings/3743990013229459": {
-    "description": "Are you looking to positively influence patient outcomes in Solid Tumor Oncology? The Brand Account Manager acts as direct point of contact for assigned stakeholders to transfer value proposition for AbbVie Brands. In this role, you understand customer’s needs and adapt accordingly, guide customers to solutions and agree on necessary steps forward. You are responsible for the execution of the brand strategy in the multi-disciplinary In-Field Team (IFT). You continuously strive to gain market insights and proactively, transparently and constantly transfer relevant insights back to the IFT. Key responsibilities: You act as our point-of-contact and engage healthcare providers with AbbVie’s brand promise, strengthening our presence in the market. You understand our customers’ needs and develop tailored solutions that achieve greater patient outcomes. You know how to build strong, lasting relationships with experts and opinion leaders, thereby expanding our network. You use innovative approaches, including digital and omnichannel methods, to engage hard-to-reach customers and unlock new business opportunities. You set SMART goals to create successful sales account plans and drive them forward continuously. You analyze sales reports and market data to derive strategic actions and make decisions. You promote collaboration between field and office teams, helping to improve our processes and results. You stay up to date on market trends, customer needs, and competitive insights so you can always offer the best solutions.",
-    "external_url": "https://jobs.smartrecruiters.com/AbbVie/3743990013229459-brand-account-manager-oncology-m-w-d-deutschschweiz-sales-representative-?oga=true",
-    "status": "matched"
-  },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000127735229": {
     "description": "Are you an experienced Software Engineer with a passion for low-level, real-time systems? Join the Timing team in the Controls Software & Services group, to work on real-time software for the largest particle physics laboratory in the world. ISOLDE , one of CERN's accelerator facilities, is undergoing a major upgrade, including its timing system to rely on the White Rabbit technology. Our team is responsible for designing, developing, and deploying the C++ software that generates the timing pulses used to synchronise accelerator equipment, and you will be involved in all aspects of this project. Your responsibilities: Learn about the White Rabbit timing system, hardware modules and our real-time software framework for equipment control. Contribute to the design of the new ISOLDE timing system. Develop and commission the timing system. Participate in the design of the software which controls the White Rabbit hardware modules used to synchronise equipment. Develop the software following the design. Contribute to the adaptation of the existing real-time software to the new timing system. More information here . Your profile: Proven experience in C++ development, in a Linux (or Unix-like) environment, including practical experience developing real-time systems. Experience with low-level development, libraries and kernel modules. Experience applying software quality assurance techniques and practice with corresponding tools. Skills: Hands-on C++ development. Knowledge of Linux, low-level libraries and kernel modules. Knowledge of programming techniques and languages on backends and embedded systems. Very good knowledge of object-oriented programming principles. Knowledge and application of software life-cycle tools and procedures including DevOps. Familiarity with testing, diagnosing and optimisation of software. Monitoring and troubleshooting of operational software systems. Spoken and written English, with a commitment to learn French. Eligibility criteria: You are a national of a CERN Member or Associate Member State . You have a professional background in Software Engineer (or a related field) and have either: a Master's degree with 2 to 6 years of post-graduation professional experience; or a PhD with no more than 3 years of post-graduation professional experience. You have never had a CERN fellow or graduate contract before.",
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000127735229-c-software-engineer-be-css-dsp-2026-90-grap-?oga=true",
@@ -1199,7 +1194,7 @@
     "title": "Supervisor Flow Cytometry",
     "company": "Labcorp",
     "location": "CHE - Geneva - 7 rue Moise-Marcinhes",
-    "posted_date": "2026-06-05",
+    "posted_date": "2026-06-04",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -1232,7 +1227,7 @@
     "title": "Product Manager - Spatial Biology",
     "company": "Bio-Techne / Lunaphore",
     "location": "Tolochenaz, Switzerland",
-    "posted_date": "2026-06-09",
+    "posted_date": "2026-06-08",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -1254,7 +1249,7 @@
     "title": "Genomics Data Scientist (2 year contract)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-06-08",
+    "posted_date": "2026-06-07",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1271,7 +1266,7 @@
     "title": "Scientist/ Sr. Scientist - Image Analysis (2 year contract)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-06-08",
+    "posted_date": "2026-06-07",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1288,7 +1283,7 @@
     "title": "Scientist, Pharmaceutical Development & Data Analytics _2 years temporary contract",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-06-11",
+    "posted_date": "2026-06-10",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1357,11 +1352,6 @@
     ],
     "deducted_keywords": []
   },
-  "/job/Basel-City/Principal-Scientist--Assay-Profiling---Lead-Identification-and-Optimization--80-100---_REQ-10077885": {
-    "description": "Job Description SummaryWe are seeking a highly motivated, detail-oriented and experienced biology expert to join our Lead Identification and Optimization (LIDO) team at our research site Basel (CH). Together with a team of LIDO associates you will accelerate drug discovery by producing high quality data on compounds tested in cellular and biochemical profiling assays, working closely with your colleagues in global Discovery Sciences (DSc) and drug discovery projects team within Biomedical Research (BR) located in Cambridge, San Diego and Basel.\n\n \nJob Description\n\nInternal Job Title: Principal Scientist I/II\nPosition Location: onsite, Basel, CH #LI-Onsite\n\nYou are a self-motivated, curious, creative and agile biologist and leader with strong experience in developing cellular and/or biochemical profiling assays to support the early drug discovery flowchart. You enjoy contributing to lab work and process improvement as well as guiding and developing associates in our LIDO teams. You enjoy working in a collaborative, fast-paced environment and want to positively impact drug discovery through advancing early hits into drug discovery development candidates.\n\nKey responsibilities:\n\nAdapt biochemical and/or cellular profiling assays into robust and standardized assays to support testing of newly synthesized compounds generated by project teams with a focus on fast turnaround times with regards to delivering data.\n\nManage LIDO associates.\n\nDevelop, document and maintain SOPs for LIDO processes and quality control.\n\nProactively identify and implement improvements to enhance lab processes, performance and reliability.\n\nCoordinate and plan execution of LIDO profiling assays with internal stakeholders.\n\nPresent LIDO management activities in cross-functional meetings.\n\nEssential Requirements:\n\nPhD in Biology, Biochemistry, or equivalent qualifications with 5+ years’ relevant experience, or BSc or MSc in a related field, with 10+ years’ relevant experience\n\nProven experience in executing profiling assays in a LMW drug discovery organization.\n\nStrong expertise in either biochemical and/or cellular assay development in a drug discovery setting.\n\nHigh attention to detail and commitment to operational excellence.\n\nStrong organizational and time-management skills.\n\nAbility to work independently and collaboratively within multidisciplinary global teams.\n\nFlexibility and responsiveness to shifting priorities.\n\nExcellent written, verbal, and interpersonal English communication skills.\n\n*Please note that restrictions on flexible working may apply and will be discussed at interview stage if applicable\n\nAccessibility and Accommodation:\n\nNovartis is committed to working with and providing reasonable accommodation to all individuals. If, because of a medical condition or disability, you need a reasonable accommodation for any part of the recruitment process, or in order to receive more detailed information about the essential functions of a position, please send an e-mail to inclusion.switzerland@novartis.com and let us know the nature of your request and your contact information. Please include the job requisition number in your message. \n\n \nSkills DesiredAnalytical Skill, Analytical Skill, Analytical Thinking, Chemical Biology, Chemistry, Clinical Trials, Collaboration, Communication Skills, Curious Mindset, Data, Data Analysis, Design Of Experiments, Detail-Oriented, Drug Development, Drug Discovery, Ethics, Gene Therapy, Immunology, Inventory Management, Laboratory, Lifesciences, Machine Learning (ML), Management, Medical Research, Molecular Biology {+ 10 more}",
-    "external_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Basel-City/Principal-Scientist--Assay-Profiling---Lead-Identification-and-Optimization--80-100---_REQ-10077885",
-    "status": "matched"
-  },
   "/job/Basel-City/Medical-Director--Gastroenterology--Early-Clinical-Development_REQ-10076205-1": {
     "description": "Job Description Summary#LI-Hybrid\nInternal job title: Director\nLocation: Basel, Switzerland\n\nTranslational Medicine Discovery & Profiling (TMDP) is a group of physicians and clinical researchers who drive innovative science from discovery to the patient through the selection, profiling, and early clinical development of medicines. Medical directors oversee phase 1 first-in-human (FiH) and phase 2 proof-of-concept (PoC) and dose range finding (DRF) studies in support for Phase 3 development. Medical directors in translational medicine are key and highly visible members of global cross-functional project teams that design and implement early research and discovery projects. Medical directors in translational medicine collaborate with colleagues in biology and chemistry to identify targets in diseases with significant unmet medical needs and provide input on likely clinical development pathways, design clinical development plans in collaboration with late phase development, draft clinical trial protocols and serve as medical leads for these trials. As a Medical Director in Translational Medicine Gastroenterology, you will report to the TM Head.\n\n \nJob Description\nKey Responsibilities: \nLead global clinical trial teams through phase 1 and 2 development\nDraft the early clinical development plan\nAct as medical lead for early clinical studies\nRepresent the team in relevant decision boards\nServe a primary contact for internal and external key opinion leaders\nOversee publication and internal/external presentation of clinical study results\nWork closely with biomarker experts in implementation\nCollaborate with research scientists to identify, develop and implement strategy for preclinical support of program related objectives\nActively participate in Health Authority interactions\n\nEssential Requirements: \nMedical doctor with board certification in gastroenterology.\nSeveral years of clinical experience treating IBD (UC and CD) patients.\nAbility to learn fast and work independently\nAbility to lead multidisciplinary teams in a matrix organization.\nExcellent communication and presentation skills\n\nDesirable Requirements:\nResearch experience (e.g., Ph.D.) is a plus but not a strict requirement\nDrug development experience as trial investigator or pharma experience are a plus but not strict requirements.\nPublications in the field of IBD are a plus but not a strict requirement\n\nAccessibility and Accommodation:\nNovartis is committed to working with and providing reasonable accommodation to all individuals. If, because of a medical condition or disability, you need a reasonable accommodation for any part of the recruitment process, or in order to receive more detailed information about the essential functions of a position, please send an e-mail to inclusion.switzerland@novartis.com and let us know the nature of your request and your contact information. Please include the job requisition number in your message.\n\n \nSkills DesiredActive Directory, Artificial Intelligence (AI), Biostatistics, Classification Systems, Clinical Pharmacology, Critical Thinking, Customer Satisfaction, Drug Discovery, Electronic Components, Lifesciences, Medical Research, Modeling And Simulation, Patient Care, Personalized Medicine, Sales, Selling Skills, Translational Medicine",
     "external_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Basel-City/Medical-Director--Gastroenterology--Early-Clinical-Development_REQ-10076205-1",
@@ -1394,7 +1384,7 @@
     "title": "International Medical Affairs Head, CRM",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-06-11",
+    "posted_date": "2026-06-10",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1411,7 +1401,7 @@
     "title": "Clinical Sciences Trial Leader/Senior Clinical Sciences Trial Leader, Translational Medicine (Multiple Listings) 80-100%",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-06-08",
+    "posted_date": "2026-06-07",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -1669,23 +1659,6 @@
     "external_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Basel-City/Senior-Investigator-Associate-Director---Biology_REQ-10081057-1",
     "status": "matched"
   },
-  "https://careers.tecan.com/job/%28Senior%29-Director-Service-Portfolio-&-Enablement/1380353433/": {
-    "description": "Ever wondered how your skills and unique background could impact the world of tomorrow? Join our Global Service Team and shape your career on the next level.\n\n \n\n(Senior) Director Service Portfolio & Enablement (80-100%)\n\n \n\nMännedorf, Switzerland\n\n \n\nYour contribution\n\nAs (Senior) Director Service Portfolio & Enablement, you will lead Tecan’s Service Enablement Center of Excellence, empowering our service teams to deliver outstanding, innovative, and commercially successful services. You will drive the design, implementation, and global commercialization of service products—including digital solutions—to differentiate Tecan in the market, maximize customer satisfaction, and contribute to the growth of our Life Sciences and Partnering Businesses.\n\n \n\nResponsibilities\n\nEmpower Service Teams: Equip and support our teams to be effective, efficient, and commercially successful.\n\nDevelop Strategies & Business Models: Create and implement strategies and new business models for field service and support, serving both global partnering and life sciences customers.\n\nDrive Service Innovation & Digitalization: Lead the development and global rollout of innovative service products, including digital offerings, aligned with Tecan’s service and digital strategies.\n\nDeliver Commercial Impact: Grow service sales, recurring revenues, and overall profitability by implementing effective enablement strategies and robust product management. Take accountability for the Service Portfolio & Enablement P&L, ensuring revenue generation and profitability for LSB and PB.\n\nOversee Product Training: Guide the strategic direction and continuous improvement of global product training programs.\n\nEnhance Customer Satisfaction: Make service a key differentiator for Tecan by delivering customer experiences that exceed industry benchmarks.\n\nChampion Operational Excellence: Standardize and optimize service processes, tools, and best practices for maximum impact.\n\nProduct Training: Oversee the strategic direction and continuous improvement of global product training programs, and 2nd level support teams.\n\n \n\nYour background\n\nWe’re not just looking for hard skills: We’re looking for people who bring their passion and talent to work. We welcome professionals with practical experience who are eager to build their career in Service Enablement. You bring:\n\nBachelor’s degree in Life Sciences, Engineering, Sciences, or Economics; MSc or MBA preferred\n\n3+ years’ experience in Service Management or capital goods, with proven P&L responsibility\n\nExperience in Field Service in Life Sciences, CDx or Biopharma\n\nAbility to lead staff with confidence, motivation, decisiveness, flexibility and sound business judgment\n\nExperience developing and commercializing service products, including digital offerings\n\nInternational management experience, ideally with global scope\n\nFluent English (verbal and written); German or other languages are a plus\n\nWillingness to travel approximately 30% or more for business needs\n\n \n\nWhat makes working at Tecan unique\n\nThe chance to make it count and to have an impact on the world of tomorrow\n\nWorking in an international and diverse environment\n\nThe chance to grow your career within the company\n\nFeel empowered by our strong and unique company culture\n\nComprehensive compensation and benefits package\n\n \n\nJoin Tecan, a great place to work! Read about our recent certification from Great Place to Work.\n\n \n\nWe look forward to receiving your application online. Please submit your CV or resume (without picture and without cover letter; reference letters and diplomas are optional).\n\n \n\nOnly applications that fully meet our requirements will be considered.\n\n \n\n#LifeSciences #ServiceLeadership #CareerOpportunity #JoinOurTeam #ServiceInnovation #DigitalTransformation #FieldService #GlobalCareers #LeadershipJobs #ServiceExcellence #DiversityAndInclusion #WomenInSTEM #STEMCareers #BiotechJobs #EngineeringJobs #TecanCareers #NowHiring #JobSearch #MakeItCount #WorkAtTecan #CareerGrowth #Empowerment #TeamCulture #CustomerSuccess #ServiceManagement",
-    "external_url": "https://careers.tecan.com/job/%28Senior%29-Director-Service-Portfolio-&-Enablement/1380353433/",
-    "status": "ignored",
-    "title": "(Senior) Director Service Portfolio & Enablement",
-    "company": "Tecan",
-    "location": "Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": -1,
-    "matched_keywords": [
-      "MSc"
-    ],
-    "deducted_keywords": [
-      "location:Switzerland"
-    ]
-  },
   "https://careers.ompharma.com/job/Meyrin-MSAT-Senior-Scientist-Geneva-Gene/1399891533/": {
     "description": "We are recruiting a Manufacturing Science and Technology (MSAT) Senior Scientist at our headquarters and biotech production site in Geneva. Reporting to the Head of MSAT, as part of a team of five and working cross-functionally with a strong presence in the field (production zone), your mission encompasses the development, optimization and continuous improvement of drug product processes and formulations, with a particular focus on lyophilization, encapsulation, dry granulation and intranasal delivery technologies.\n\nYour main responsibilities are as follows:\n\nLead development and industrialization of new pharmaceutical products, from formulation and process design to scale-up and validation\n\nDefine development strategies including QTPP, risk assessments, technical requirements, timelines and budgets\n\nProvide expertise in galenics, formulation, pharmaceutical processes and technology transfer, including CDMO interactions when needed\n\nDrive optimization of existing manufacturing processes to improve performance, robustness and compliance\n\nAct as technical expert for troubleshooting, root cause analysis, CAPA implementation and continuous improvement initiatives\n\nDefine Critical Process Parameters (CPPs), Critical Quality Attributes (CQAs) and lead process risk assessments in cross-functional teams\n\nManage MSAT Pharma Laboratory activities (equipment qualification, stock management, laboratory support)\n\nPlan and execute development trials with internal stakeholders (Manufacturing, Quality, Validation, Regulatory CMC), ensuring robust documentation and data analysis\n\nEnsure full traceability and compliance of development activities in line with GxP requirements\n\nContribute to regulatory documentation (e.g. CTD modules) in collaboration with Regulatory CMC\n\nBusiness travel is required for this position for punctual topics (maximum 5% of working time).\n\nTo carry out this mission, we are looking for a person with the following profile:\n\nMaster’s degree in Pharmaceutical Sciences, Biotechnology or equivalent\n\nAt least 8 years of experience related to pharmaceutical process development, formulation development and industrial transposition, with strong expertise in galenics and pharmaceutics\n\nProven experience in project management in a cross-functional and GxP environment; experience with regulatory activities is an asset\n\nFluent in French with good English skills\n\nProficiency in MS Office, with experience using ERP systems (Sage X3 preferred)\n\n \n\nTo succeed in this role, we are looking for a hands-on, pragmatic and innovation-driven scientist, combining strong technical expertise with a solid business and production mindset. You demonstrate natural leadership, strong communication skills and the ability to collaborate effectively with diverse stakeholders. Entrepreneurial and creative, you continuously seek improvement opportunities and actively contribute to shaping better, more efficient processes. You are solution-oriented, structured, and committed to delivering high-quality results in a dynamic environment.\n\nAre you interested in this opportunity? Apply as soon as possible and join OM Pharma!\n\n \n\n \nAbout Us\n\nOM Pharma is a global Geneva-based biopharmaceutical company. It is a leader in the prevention of recurrent respiratory and urinary tract infections and is also active in the treatment of vascular diseases.\n\nIt operates worldwide through a strong network of international partners and invests its profits in R&D to develop microbial derived immunotherapeutic products to treat acute and chronic immunological disorders resulting from inflammation and infections. \n\nThe company strives to improve the quality of life of patients around the world by providing access to better treatment of immunological imbalances.\n\nFor more information, visit the website: ompharma.com.",
     "external_url": "https://careers.ompharma.com/job/Meyrin-MSAT-Senior-Scientist-Geneva-Gene/1399891533/",
@@ -1772,7 +1745,7 @@
     "title": "Translational Medicine Expert – Dermatology, Associate Director",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "",
+    "posted_date": "2026-06-16",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -2095,7 +2068,7 @@
     "title": "Global Program Regulatory Manager - Neuroscience",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "",
+    "posted_date": "2026-06-16",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2110,7 +2083,7 @@
     "title": "Global Program Regulatory Manager - Neuroscience",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "",
+    "posted_date": "2026-06-16",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2127,49 +2100,6 @@
     "description": "Introduction\nYou will join our multicultural team of around 20 Talent Acquisition colleagues to attract and hire diverse talent for CERN’s scientific and technical missions. Each team member partners with specific client groups, and brings their knowledge, ideas and diverse strengths to the team. \n\nTogether we have some ambitious goals, such as increasing the representation of women in STEM and strengthening nationality diversity in all types of hires, from students to seasoned professionals. You will be expected to handle big volumes of recruitment, and contribute to the shaping of first-class recruitment experiences for all stakeholders.\nFunctions\nPartner with hiring teams and stakeholder groups to deliver on their recruitment needs. This includes translating their needs in market-ready job ads and attraction strategies; facilitating fair, transparent and inclusive selection processes.\nDeliver a seamless, welcoming and inclusive candidate experience from first contact through to offer and onboarding.\nBuild and engage relevant talent communities. \nContribute to the overall employer branding strategies and its translation into practice with proposals, engaging with the public through social media and representing CERN at events.\nSupport the shaping of our future recruitment processes in particular for students and grads by staying informed and curious, translating findings in a creative and/or open-minded collaboration.\nUse internal and external data as appropriate for decision making and reporting.",
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000132600743-talent-acquisition-specialist-hr-ta-2026-130-ld-?oga=true",
     "status": "matched"
-  },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000132601850": {
-    "description": "As a highly motivated applied physicist with experience in advanced particle detectors for high-energy physics experiments, you will join the CERN CMS Tracker team to develop software and diagnostic tools spanning the integration, checkout, commissioning, and calibration chain of the Tracker detector for the High-Luminosity LHC.\nIn this role, you will contribute to online and offline software, databases, and user interfaces that support the reception testing of detector substructures, validation of large detector sections, and the commissioning and calibration of the final detector once installed at Point 5.\nYour responsibilities\nDevelop online software within the ShepHERD ecosystem for configuration, control, monitoring, and automated calibration of the back-end electronics for the Outer Tracker and Inner Tracker.\nParticipate in hardware integration and commissioning activities at CERN, including back-end integration tests at the Tracker Integration Facility (TIF) and slice tests.\nContribute to the development of checkout and calibration procedures, including associated test protocols.\nHelp scope and implement tools across the integration → checkout → commissioning → calibration workflow, with a focus on online and offline software, database interfaces, and web/UI tooling.\nFollow the firmware development of back-end boards and possibly contribute to it.\nThis role includes team supervision responsibilities.\nYour profile\nSolid background in silicon detectors for high-energy physics experiments.\nExperience in developing or contributing to test protocols and data acquisition routines.\nHands-on experience with detector readout chains, including front-end and back-end electronics, optical links, and DAQ systems, is considered beneficial.\nExperience with data analysis tools, detector qualification, or commissioning is considered an asset.\nSkills\nProven expert-level knowledge of C++.\nExperience with version control systems (Git/GitLab), continuous integration, and collaborative software development practices.\nFamiliarity with firmware development (VHDL) is considered an advantage.\nExperience with databases, web/UI development, or online monitoring tools is considered an asset.\nSpoken and written English, with a commitment to learn French.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nYou have a professional background in Electronics Engineering, Applied Physics (or a related field) and have either:\na Master's degree with 2 to 6 years of post-graduation professional experience;\nor a PhD with no more than 3 years of post-graduation professional experience.\nYou have never had a CERN fellow or graduate contract before.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000132601850-applied-physicist-on-daq-software-ep-cms-id-2026-113-grap-?oga=true",
-    "status": "matched"
-  },
-  "https://gloorlang.starhunter.software/Headhunter/project/job-ad/hash/6a201d0a1a053": {
-    "external_url": "https://gloorlang.starhunter.software/Headhunter/project/job-ad/hash/6a201d0a1a053",
-    "status": "ignored",
-    "title": "Validation & Investigation Scientist",
-    "company": "Gloor & Lang",
-    "location": "Neuchatel - Lausanne Region, Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": 4,
-    "matched_keywords": [
-      "location:lausanne"
-    ],
-    "deducted_keywords": []
-  },
-  "https://gloorlang.starhunter.software/Headhunter/project/job-ad/hash/69e5f1b516f9f": {
-    "external_url": "https://gloorlang.starhunter.software/Headhunter/project/job-ad/hash/69e5f1b516f9f",
-    "status": "ignored",
-    "title": "Regulatory Affairs Specialist",
-    "company": "Gloor & Lang",
-    "location": "Zürich Region, Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": 0,
-    "matched_keywords": [],
-    "deducted_keywords": []
-  },
-  "https://gloorlang.starhunter.software/Headhunter/project/job-ad/hash/68b5a83b99a4d": {
-    "external_url": "https://gloorlang.starhunter.software/Headhunter/project/job-ad/hash/68b5a83b99a4d",
-    "status": "ignored",
-    "title": "Regulatory Affairs Manager 80%",
-    "company": "Gloor & Lang",
-    "location": "Basel, Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": 0,
-    "matched_keywords": [],
-    "deducted_keywords": []
   },
   "https://jobdetails.nestle.com/job/Lausanne-Systems-Biology-and-Microbiome-Data-Science-Intern/1405586333/": {
     "description": "Location: Lausanne, Switzerland\nWork model: On site\nContract type / duration: Internship – 6 months\nTarget start date: September 1, 2026\n\nDeadline for applications: July 2, 2026\n\n \n\nBe a force for good and transform your potential into something extraordinary.\n\nAs a Systems Biology and Microbiome Data Science Intern at Nestlé Research, Nestlé Institute of Health Sciences, your mission is to help transform complex scientific information into structured, usable data that supports microbiome research and innovation in human health. You will work closely with scientists and partners across Nestlé to identify relevant information from detailed reports and sample-based studies, bring together data from different sources, and make it ready for future analysis and decision-making. This is your opportunity to make an impact while gaining hands on experience and mentorship to kick-start your career.\n\nHow you’ll make an impact as a Systems Biology and Microbiome Data Science Intern\n\nDriving data mining and computational analysis of microbiome assays to uncover insights that support human health research.\n\nConducting literature reviews to identify scientific advancements and strengthen the foundation of ongoing research projects.\n\nBuilding on existing analyses to generate new biological understanding of microbiome and host interactions.\n\nPartnering with interdisciplinary experts to translate scientific questions into actionable research outputs.\n\nPresenting findings through reports and scientific communication to help shape future research directions.\n\nWhat will make you successful\n\nCurrent student or fresh graduate in computational science, systems biology, microbiology, biochemistry, biotechnology, or a related field.\n\nHaving confidence using programming tools such as R, Python, or similar technologies to explore and interpret complex scientific data.\n\nBeing curious about microbiome science, motivated by human health, and comfortable collaborating across disciplines and teams to turn ideas into insight.\n\nCommunicating fluently in English.\n\nDemonstrating courage, collaboration, speed and continuous learning.\n\nAt Nestlé Research, we place people at the heart of everything we do.\n\nOur benefits are designed to support your growth and wellbeing, so you can thrive at work and in life:\n\nFlexible working options, including hybrid work possibilities (for office-based roles)\n\nLearning and development opportunities to grow your career\n\nHealthcare contribution and access to the Employee Assistance Program\n\nAttractive employee discounts across various products and services\n\nWhat to expect from our hiring process\n\nWe are committed to an inclusive and respectful hiring experience and are happy to provide reasonable accommodations if needed. Our workplaces are fully accessible and supported by a strong safety culture, with modern installations and procedures to ensure a safe environment for everyone.\n\nThe hiring process typically includes a video interview with Talent Acquisition, an interview with the hiring team, and a final discussion and offer. We review applications as they are received and close the role once a strong list of relevant candidates is identified, so we encourage you to apply early. All information is treated confidentially.\n\nReady to start your career journey with us?\n\nApply now and transform your potential into something extraordinary.",
@@ -2193,7 +2123,7 @@
     "title": "Regulatory Affairs Manager/Senior Manager, CMC",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-06-18",
+    "posted_date": "",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2282,5 +2212,36 @@
     "description": "Introduction\nIn close collaboration with the Archivist, the Archives Assistant and the Data Governance Officer, you will be responsible for establishing, implementing, and maintaining records management best practices across CERN, ensuring that information is managed effectively throughout its lifecycle.\nFunctions\nCoordinate and oversee records management practices across CERN, including the DRO (Departmental Records Officers) network.\nProvide operational support for records management activities (data/metadata processing, quality control, digital migration).\nEstablish a records management implementation strategy and related processes and procedures, and contribute to policy development.\nDevelop and maintain retention schedules and related processes in collaboration with stakeholders.\nLead innovation and continuous improvement initiatives in records management, and monitor KPIs.\nLead apprentices, interns, and colleagues in records management.\nDeliver training and guidance to users and contribute to outreach and service activities.",
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000132780603-records-manager-osi-sis-al-2026-131-ld-?oga=true",
     "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000132854846": {
+    "description": "Introduction\nWithin the Beam department (BE) and the Accelerator and Beam Physics group (ABP), join the Hadron Sources and Linacs section (HSL) at CERN as a lead applied physicist overseeing the Linac3 ion source, a role bringing together multiple physics domains coupled with beam dynamics, including high voltages, high magnetic fields, plasma heating with microwaves, the delivery of gases and vapours into vacuum systems as well as x-ray generation and shielding. You will ensure the high-performance delivery of heavy ion beams, driving both daily operations and long-term technical development of the system providing particle beams for one of the world's most unique accelerator complexes, serving fixed-target users and the LHC.\nFunctions\nCoordinate and participate in the Linac3 ion source assembly and maintenance activities during technical stops and shutdowns to ensure preparation for high-availability operation.\nAs the expert in-charge, commission and operate the source, tuning it precisely to optimise performance and stability for Linac3 and the downstream injectors, ensuring compliance with beam quality specifications for CERN ion runs and various tests.\nDesign and implement technical solutions to test and validate the production of different ion species requested for future physics programmes.\nBe part of the machine expert team, contributing to broader beam operations and participating in the on-call service rotation to ensure 24/7 injector reliable operation.\nSupervise and mentor a multidisciplinary team including physicists, engineers, technicians and students.\nConduct advanced beam measurements and data analysis to characterise Linac3 performance and identify areas for optimisation.\nContribute to the design studies and execution of upgrades for the CERN ion injector complex, focusing on source technology and low energy beam transport (LEBT).\nContribute to other BE-ABP-HSL activities through beam dynamics design, simulations and commissioning for present and future hadron linacs and sources under the section’s responsibility.",
+    "external_url": "https://jobs.smartrecruiters.com/CERN/744000132854846-source-and-linac-physicist-be-abp-hsl-2026-133-ld-?oga=true",
+    "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000132845671": {
+    "description": "As a highly motivated applied physicist with experience in advanced particle detectors for high-energy physics experiments, you will join the CERN CMS Tracker team to develop software and diagnostic tools spanning the integration, checkout, commissioning, and calibration chain of the Tracker detector for the High-Luminosity LHC.\nIn this role, you will contribute to online and offline software, databases, and user interfaces that support the reception testing of detector substructures, validation of large detector sections, and the commissioning and calibration of the final detector once installed at Point 5.\nYour responsibilities\nDevelop online software within the ShepHERD ecosystem for configuration, control, monitoring, and automated calibration of the back-end electronics for the Outer Tracker and Inner Tracker.\nParticipate in hardware integration and commissioning activities at CERN, including back-end integration tests at the Tracker Integration Facility (TIF) and slice tests.\nContribute to the development of checkout and calibration procedures, including associated test protocols.\nHelp scope and implement tools across the integration → checkout → commissioning → calibration workflow, with a focus on online and offline software, database interfaces, and web/UI tooling.\nFollow the firmware development of back-end boards and possibly contribute to it.\nThis role includes team supervision responsibilities.\nYour profile\nSolid background in silicon detectors for high-energy physics experiments.\nExperience in developing or contributing to test protocols and data acquisition routines.\nHands-on experience with detector readout chains, including front-end and back-end electronics, optical links, and DAQ systems, is considered beneficial.\nExperience with data analysis tools, detector qualification, or commissioning is considered an asset.\nSkills\nProven expert-level knowledge of C++.\nExperience with version control systems (Git/GitLab), continuous integration, and collaborative software development practices.\nFamiliarity with firmware development (VHDL) is considered an advantage.\nExperience with databases, web/UI development, or online monitoring tools is considered an asset.\nSpoken and written English, with a commitment to learn French.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nYou have a professional background in Electronics Engineering, Applied Physics (or a related field) and have either:\na Master's degree with 2 to 6 years of post-graduation professional experience;\nor a PhD with no more than 3 years of post-graduation professional experience.\nYou have never had a CERN fellow or graduate contract before.",
+    "external_url": "https://jobs.smartrecruiters.com/CERN/744000132845671-applied-physicist-on-daq-software-ep-cms-id-2026-113-grap-?oga=true",
+    "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000132856872": {
+    "description": "À la recherche d’un stage dans l’informatique, vous collaborez avec notre analyste en informatique en qualité de correspondant ou correspondante informatique stagiaire pour le département des neurosciences cliniques.\nVous soutenez les utilisateurs des 5 services : Neurochirurgie, Neurologie, ORL, Neurorééducation et Ophtalmologie du département en matière informatique, vous aidez au choix et à l’utilisation de matériel et de logiciels, vous caractérisez les problèmes rencontrés, vous en assurez le suivi et soutenez la gestion des droits d’accès.\nVous travaillez sur des dossiers de conception d’applications informatiques.\nVous participez à des projets spécifiques.",
+    "external_url": "https://jobs.smartrecruiters.com/HUG/744000132856872-stage-en-informatique-100-?oga=true",
+    "status": "matched"
+  },
+  "/job/EMEA-CH-Kanton-Bern-Bern-CSL-Behring/Scientist--Technical-Operations_R-281927": {
+    "description": "The Scientist, Technical Operations supports the execution of process development activities within Horizon 2 programs, contributing to the development and improvement of manufacturing processes for innovative therapies. The role performs laboratory‑based experimental work under the guidance of senior scientists, generating high‑quality data that supports process understanding, development decisions, and regulatory readiness. The Scientist applies established scientific principles, experimental techniques, and standard laboratory methods to execute defined studies, analyze results, and document outcomes in accordance with internal quality standards and regulatory expectations. The role contributes to Life‑Cycle Management (LCM) and Sustain & Improve activities through assigned tasks and supports the application of Quality by Design (QbD) principles by generating reliable data that informs process characterization and control strategies. Operating within a matrix project environment, the Scientist collaborates closely with colleagues across Process Development, Analytical, and other partner functions, while continuing to build technical expertise, scientific judgment, and independence in experimental execution.\n\nMain Responsibilities & Accountabilities:\n\nExecute laboratory and process development experiments according to defined protocols, study plans, and timelines, under the guidance of senior scientists or technical leads.\n\nApply established scientific methods and standard analytical and process‑development techniques to generate accurate, reliable, and reproducible data.\n\nSupport Quality by Design (QbD) activities by contributing experimental data that informs understanding of process parameters, variability, and critical quality attributes (CQAs).\n\nAnalyze experimental results, document observations, and contribute to the interpretation of data and preparation of technical summaries and development reports.\n\nPrepare and maintain high‑quality laboratory documentation (e.g., lab notebooks, protocols, reports) in compliance with internal quality systems, data integrity requirements, and regulatory expectations.\n\nContribute to assigned Life‑Cycle Management (LCM) and Sustain & Improve activities through execution of defined experimental tasks.\n\nCollaborate effectively within project teams and laboratory groups, communicating results, issues, and learnings in a clear and timely manner.\n\nAdhere to all applicable safety, quality, compliance, and regulatory requirements while performing laboratory and development activities.\n\nQualifications & Experience Requirements:\n\nBS or MS in Biochemistry, Life Sciences, or a closely related discipline is required; PhD or equivalent experience preferred.\n\n2+ years of industry and managerial experience in pharmaceutical or biological operations, including protein/biological process development.\n\nAbility to work cross‑functionaly.\n\nAbout CSL Behring\nCSL Behring is a global biotherapeutics leader driven by our promise to save lives. Focused on serving patients’ needs by using the latest technologies, we discover, develop and deliver innovative therapies for people living with conditions in the immunology, hematology, cardiovascular and metabolic, respiratory, and transplant therapeutic areas. We use three strategic scientific platforms of plasma fractionation, recombinant protein technology, and cell and gene therapy to support continued innovation and continually refine ways in which products can address unmet medical needs and help patients lead full lives.\n\nCSL Behring operates one of the world’s largest plasma collection networks, CSL Plasma. Our parent company, CSL, headquartered in Melbourne, Australia, employs 32,000 people, and delivers its lifesaving therapies to people in more than 100 countries.\nTo learn more about CSL, CSL Behring, CSL Seqirus and CSL Vifor  visit https://www.csl.com/ and CSL Plasma at https://www.cslplasma.com/.\n \nOur Benefits\nFor more information on CSL benefits visit How CSL Supports Your Well-being | CSL.\n \nYou Belong at CSL\nAt CSL, Inclusion and Belonging is at the core of our mission and who we are. It fuels our innovation day in and day out. By celebrating our differences and creating a culture of curiosity and empathy, we are able to better understand and connect with our patients and donors, foster strong relationships with our stakeholders, and sustain a diverse workforce that will move our company and industry into the future.\n To learn more about inclusion and belonging visit https://www.csl.com/careers/inclusion-and-belonging\n \nEqual Opportunity Employer\nCSL is an Equal Opportunity Employer. If you are an individual with a disability and need a reasonable accommodation for any part of the application process, please visit https://www.csl.com/accessibility-statement.",
+    "external_url": "https://csl.wd1.myworkdayjobs.com/CSL_External/job/EMEA-CH-Kanton-Bern-Bern-CSL-Behring/Scientist--Technical-Operations_R-281927",
+    "status": "matched",
+    "title": "Scientist, Technical Operations",
+    "company": "CSL Behring / Vifor",
+    "location": "EMEA, CH, Kanton Bern, Bern, CSL Behring",
+    "posted_date": "2026-06-18",
+    "department": "",
+    "score": 2,
+    "matched_keywords": [
+      "PhD",
+      "immunology"
+    ],
+    "deducted_keywords": []
   }
 }
