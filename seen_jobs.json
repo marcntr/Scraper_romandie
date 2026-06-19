@@ -366,11 +366,6 @@
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000103064566-early-career-professionals-technical-field-spontaneous-applications?oga=true",
     "status": "matched"
   },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000086301401": {
-    "description": "Your responsibilities Join us in a place that can be hotter than the centre of the sun, and colder than the vacuum of space, at the very same time. This is the smartest way to learn more than you can imagine and see your work travel at the speed of light. Almost. This is the fastest way to give your career momentum. This is your Origin. Where your career begins. Take part! All our currently available projects are published individually on our career site here . If none of these opened projects match your profile and if you meet all eligibility criteria below, you can apply here spontaneously. Your profile may then be considered for unpublished projects or extra needs. Please note this is not mandatory nor a guarantee that you will be contacted by hiring managers for an interview. Eligibility criteria: You are a national of a CERN Member or Associate Member State . You have a maximum of two years of professional experience since graduation by the application deadline . Your highest educational qualification is a general secondary education diploma . You have never had a CERN fellow or graduate contract before. Applicants with a Bachelor’s, Master’s or PhD degree are not eligible.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000086301401-early-career-professionals-technical-field-spontaneous-applications?oga=true",
-    "status": "matched"
-  },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000085340717": {
     "description": "One of CERN’s key missions is education. Our experts enjoy sharing their knowledge with committed and passionate students. If you are an undergraduate student in a technical or administrative field , and you’re looking to spend a few months training on-the-job, imagine doing your internship at CERN in Geneva. An impressive addition to your CV! We offer a limited number of placements in our practical training programme. Duration 1 – 6 months. !Important!: Please note that only nationals of CERN Member States or Associate Member States are eligible to apply. Applications from other countries will not be considered.",
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000085340717-short-term-internship-2026?oga=true",
@@ -745,11 +740,6 @@
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000127862079-software-engineer-for-industrial-control-systems-be-ics-stf-2026-110-ld-?oga=true",
     "status": "matched"
   },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000127866769": {
-    "description": "Are you interested in becoming a library cataloguer and contributing to the dissemination of cutting-edge scientific research? The Scientific Information Service plays a central role in ensuring that CERN's scientific publications are accurately described, indexed, and made discoverable through major digital repositories. Each year, the team curates around 13'000 records, helping to maximise the visibility, accessibility, and long-term preservation of CERN's research outputs. The selected candidate will work within the Archives & Library Section, gaining hands-on experience in the curation and cataloguing of scientific documents. This role offers an excellent opportunity to develop practical skills in metadata creation, quality control, and information organisation in a large international research environment. You will contribute directly to the quality and reliability of bibliographic data used by researchers worldwide. You will join a diverse, dynamic, and supportive team of dedicated librarians, where cataloguing responsibilities are shared and collaboration is strongly encouraged. The team works closely together, allowing for continuous learning, peer support, and knowledge exchange in day-to-day activities. Comprehensive training and guidance will be provided, making this position particularly suitable for candidates at an early stage of their career who are motivated to learn and grow professionally. This is a unique opportunity to develop core library and information science skills while contributing to meaningful, long-term projects in an international and collaborative setting. Your responsibilities: Curation and cataloguing of CERN scientific publications, primarily in INSPIRE and the CERN Document Server (CDS), including: Cataloguing scientific articles, preprints, conference papers, theses, and other document types using JSON and MARC formats. Reviewing, checking, and updating existing records to ensure the accuracy, consistency, and quality of metadata. Contributing to the maintenance, update, and documentation of cataloguing and curation procedures. Analysing existing cataloguing practices and propose improvements in line with international standards. Participation in the migration to a new institutional repository, including: Cleaning, harmonising, and improving metadata. Identifying and resolving metadata issues to ensure the correct migration of content. Contributing to the definition of requirements and providing input to specifications related to the migration. Contribution to the broader activities of the Archives & Library Section, such as: Taking part in Library service desk shifts to support researchers in their use of Library services. Participating in Archives re-boxing activities. Carrying out additional tasks related to Library and Archives operations, in line with organisational needs and ongoing projects. Your profile: Experience or strong interest in metadata management. Completion of in-depth cataloguing coursework as part of academic studies. Familiarity with, or interest in, digital repositories and library management systems. Interest in library services and user-facing information support. Skills: Strong knowledge of cataloguing standards and bibliographic formats, such as RDA, MARC21 and DataCite. Familiarity with structured metadata formats such as JSON and XML is considered an asset. Good organisational skills and the ability to work accurately while following instructions and documented procedures. Willingness to contribute to a wide range of Library and Archives activities, including user support and collections-related tasks. Good communication skills, with the ability to interact clearly and effectively with Library service users. Ability to work collaboratively as part of a team. Spoken and written English, with a commitment to learn French. Eligibility criteria: By the application deadline, you have a maximum of two years of professional experience since graduation in Library & Information Science (or a related field) and your highest educational qualification is either a Bachelor's or Master's degree . You have never had a CERN fellow or graduate contract before. Applicants without University degree are not eligible. Applicants with a PhD are not eligible.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000127866769-library-cataloguer-osi-sis-al-2026-146-grae-?oga=true",
-    "status": "matched"
-  },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000127821110": {
     "description": "Introduction: As a skilled and experienced Linux System Administrator managing critical server hardware in CERN’s accelerator data centre from procurement to installation, configuration and operation, you will contribute to the unique challenge of making CERN’s particle accelerators function in an efficient and robust manner. You will join the Controls Software & Services group, working on the computing infrastructure needed to run the largest particle physics laboratory in the world. The 24/7 availability of core control system services is critical to the operation of CERN’s particle accelerators, enabling the organization to fulfil its central mission. Our team helps make this a success through the development, operation and evolution of the computing infrastructure in data centres and control rooms used to run the accelerator facilities. You will have the opportunity to join a passionate system administration team and influence the evolution of this complex and challenging infrastructure, imprinting your remarkable engineering skills on mission-critical solutions for CERN. More information here . Functions: System administration tasks for the Linux computers connected to the accelerator control system (control room consoles, data centre servers, real-time embedded platforms and virtual machines). Investigation, diagnosis, and resolution of operational problems in collaboration with end-users ranging from equipment specialists to operations teams. Management of data centre infrastructure, including servers, racks and their relationships with networking, powering and cooling. Management of desktop computers in control rooms and technical buildings. Management of networked data-storage systems, ensuring that they are effectively backed up. Planning and coordination of annual installation work and replacement of obsolete equipment, in collaboration with other members of the system administration team. Close collaboration with engineers from the IT Department responsible for the general CERN IT infrastructure. Participation in the definition of hardware specifications for server and desktop computers as part of their procurement processes.",
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000127821110-system-administrator-be-css-isa-2026-56-ld-?oga=true",
@@ -802,11 +792,6 @@
     "deducted_keywords": [
       "location:Switzerland"
     ]
-  },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000128871559": {
-    "description": "You will contribute to the design, development, testing and maintenance of the Data Processing Platform (DPP), used for both offline and online analysis of accelerator and beam data. Working within the Data Processing team of the CERN Controls Software & Services group and following the Scrum methodology, you will help build reliable and scalable backend services supporting the control, monitoring and analysis of particle accelerators and equipment. You will participate in the validation and evolution of the platform architecture, develop production-ready integrations, and contribute to the modernisation of existing services through the migration of legacy systems to the DPP. Your responsibilities Contribute to the design, development, testing, and maintenance of software components for the Data Processing Platform (DPP). Collaborate with senior developers and stakeholders to gather requirements and implement reliable software solutions for accelerator controls and data processing. Participate in the evolution of the platform by contributing to new features, integrations, and improvements to existing services. Contribute to software quality activities, including testing, code reviews, debugging, and documentation. Learn and apply modern software engineering practices, tools, and technologies used within the CERN Controls Software & Services group. More information here . Your profile Experience in software development using Java and Python. Interest in software quality practices, testing methodologies, and maintainable software design. Interest in cloud-native technologies and modern software platforms; familiarity with Kubernetes, Knative, or similar technologies would be considered an asset. Skills Good knowledge of object-oriented programming principles and software engineering fundamentals. Understanding of concurrent programming and distributed systems concepts. Knowledge of the Spring Framework ecosystem (Spring Boot). Familiarity with version control systems, CI/CD concepts, and automated development workflows. Exposure to monitoring and logging tools such as Prometheus, Grafana, or the ELK Stack would be considered an advantage. Spoken and written English, with a commitment to learn French. Eligibility criteria: You are a national of a CERN Member or Associate Member State . By the application deadline, you have a maximum of two years of professional experience since graduation in Software Engineer, Computer Science (or a related field) and your highest educational qualification is either a Bachelor's or Master's degree . You have never had a CERN fellow or graduate contract before. Applicants without University degree are not eligible. Applicants with a PhD are not eligible.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000128871559-backend-software-developer-java-python-be-css-dsp-2026-151-grae-?oga=true",
-    "status": "matched"
   },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000129096464": {
     "description": "Introduction: As a Python Software Engineer with a strong interest in both API development and desktop application engineering (with PyQt6), you will work on tools at the heart of CERN's accelerator complex, used daily across operations, engineering, and physics. This role spans the Python APIs that interface to the CERN control system, and the PyQt6-based desktop applications built on top of them. On the API side, you will develop frameworks, libraries, and bindings integrating tightly with backend control system services, with a strong emphasis on developer experience, robustness, and long-term maintenance. On the UI side, you will work on applications for operating, monitoring, and configuring accelerator systems, ensuring reliable, responsive, and effective user experiences. You will collaborate with colleagues across the organisation, contributing to design reviews, documentation, training, and technical support, while staying abreast of relevant emerging technologies and playing an active part in shaping the future of CERN's accelerator control system. Functions: Design and maintain Python bindings to the accelerator control system, using a range of technologies such as REST, gRPC, event-driven messaging (e.g. ZMQ), as well as bindings to existing C++ and Java libraries. Build reusable components, widgets, and libraries supporting control application development at CERN. Develop and maintain a number of PyQt-based control applications used in the CERN Control Centre. Contribute to the selection and configuration of a coherent DevOps toolchain for Python, covering dependency management, packaging, testing, CI/CD, and deployment monitoring. Collaborate with user communities to establish and document best practices for developing Python-based control applications. Contribute relevant developments back to the open source community. Take ownership of one or more key systems or tools, driving their evolution through active engagement with stakeholders and structured follow-through. Mentor junior engineers, sharing knowledge and supporting their growth as they contribute to the above areas.",
@@ -931,11 +916,6 @@
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000130506379": {
     "description": "As full-stack developer in the Tools Team at SY-EPC-CCS, you'll become the main responsible for a set of crucial web applications used by converter experts to ensure smooth operation of the power converters at CERN. You'll be working closely with other team members, applying an agile work approach and work on different products in sprints (Scrum).\nYour responsibilities\nWorking on Full-stack Web applications and databases. \nGathering and iterating over requirements and features with our users and stakeholders (Power Converter Experts).\nProviding application support to converter experts / users (debugging, fixing, etc.).\nCollaborating closely in a team of developers who are working on the full stack of web applications, using the Scrum framework.\nOwn a subset of our full-stack web applications and lead sprints on them.\nMore information here.\nYour profile\nExperience with UI/UX design and web front-end development.\nExperience with web back-end (REST API) design and development.\nExperience with database design and development.\nExperience with identifying user requirements.\nKnowledge of or experience with DevOps (CI/CD, Docker, Compose, Kubernetes) would be an advantage.\nSkills\nJavaScript / TypeScript (Vue3.js, Pinia, Vite).\nPython (FastAPI, SQLAlchemy, Pydantic, asyncio).\nSQL (PostgreSQL, Oracle).\nSpoken and written English, with a commitment to learn French.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nBy the application deadline, you have a maximum of two years of professional experience since graduation in Computer Science (or a related field) and your highest educational qualification is either a Bachelor's or Master's degree.\nYou have never had a CERN fellow or graduate contract before.\nApplicants without University degree are not eligible.\nApplicants with a PhD are not eligible.",
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000130506379-full-stack-web-developer-sy-epc-ccs-2026-155-grae-?oga=true",
-    "status": "matched"
-  },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000130416593": {
-    "description": "Join us and contribute to the development and commissioning of industrial control systems for CERN's largest power installations. You will have the opportunity to work with cutting-edge automation technologies and modern software engineering tools.\nYour responsibilities:\nDesign, develop and commission large, distributed control systems based on Siemens S7-1500 PLCs and the CERN's UNICOS framework.\nDevelopment of Matlab Simulink models for Hardware-In-The-Loop (HIL) testing.\nDevelopment of test scripts in Python.\nContribute to our CI/CD and automated testing framework.\nSupervise students.\nMore information here.\nYour profile:\nExperience in developing, testing, and commissioning Siemens S7-1500 PLC-based control systems.\nKnowledge of automation technologies, including industrial fieldbuses and SCADA.\nExperience with Python programming.\nKnowledge of Git, Gitlab and CI/CD practices.\nFamiliarity with system testing and Hardware-In-The-Loop.\nSkills:\nSiemens S7-1500 PLCs and TIA Portal.\nPython.\nMatlab Simulink.\nHardware-In-The-Loop (HIL) testing.\nStrong communication skills.\nSpoken and written English, with a commitment to learn French.\nSkills that would be an advantage:\nGit, Gitlab, CI/CD.\nIndustrial fieldbuses (Profinet) and SCADA (WinCC OA).\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nBy the application deadline, you have a maximum of two years of professional experience since graduation in Electrical or Automation Engineering (or a related field) and your highest educational qualification is either a Bachelor's or Master's degree.\nYou have never had a CERN fellow or graduate contract before.\nApplicants without University degree are not eligible.\nApplicants with a PhD are not eligible.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000130416593-industrial-control-system-engineer-sy-epc-ccs-2026-158-grae-?oga=true",
     "status": "matched"
   },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000130507139": {
@@ -1194,7 +1174,7 @@
     "title": "Supervisor Flow Cytometry",
     "company": "Labcorp",
     "location": "CHE - Geneva - 7 rue Moise-Marcinhes",
-    "posted_date": "2026-06-05",
+    "posted_date": "2026-06-04",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -1227,7 +1207,7 @@
     "title": "Product Manager - Spatial Biology",
     "company": "Bio-Techne / Lunaphore",
     "location": "Tolochenaz, Switzerland",
-    "posted_date": "2026-06-09",
+    "posted_date": "2026-06-08",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -1249,7 +1229,7 @@
     "title": "Genomics Data Scientist (2 year contract)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-06-08",
+    "posted_date": "2026-06-07",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1266,7 +1246,7 @@
     "title": "Scientist/ Sr. Scientist - Image Analysis (2 year contract)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-06-08",
+    "posted_date": "2026-06-07",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1283,7 +1263,7 @@
     "title": "Scientist, Pharmaceutical Development & Data Analytics _2 years temporary contract",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-06-11",
+    "posted_date": "2026-06-10",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1384,7 +1364,7 @@
     "title": "International Medical Affairs Head, CRM",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-06-11",
+    "posted_date": "2026-06-10",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1401,7 +1381,7 @@
     "title": "Clinical Sciences Trial Leader/Senior Clinical Sciences Trial Leader, Translational Medicine (Multiple Listings) 80-100%",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-06-08",
+    "posted_date": "2026-06-07",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -1422,7 +1402,7 @@
     "title": "Senior Medical Director, Nephrology, Global Medical Affairs",
     "company": "Biogen",
     "location": "Baar, Switzerland",
-    "posted_date": "",
+    "posted_date": "2026-06-17",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -1440,7 +1420,7 @@
     "title": "Global Medical Director, Evidence Generation Lead",
     "company": "Biogen",
     "location": "Baar, Switzerland",
-    "posted_date": "",
+    "posted_date": "2026-06-17",
     "department": "",
     "score": -2,
     "matched_keywords": [
@@ -1459,7 +1439,7 @@
     "title": "Senior Scientist Process Development Drug Product 12 months fix-term contract 80-100%",
     "company": "Lonza",
     "location": "CH - Basel",
-    "posted_date": "2026-06-05",
+    "posted_date": "2026-06-04",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1474,7 +1454,7 @@
     "title": "Senior Scientist, Tech Ops",
     "company": "CSL Behring / Vifor",
     "location": "EMEA, CH, Kanton Bern, Bern, CSL Behring",
-    "posted_date": "2026-06-05",
+    "posted_date": "2026-06-04",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1496,7 +1476,7 @@
     "title": "Senior Scientist Material Management & Qualification - Quality Control",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-06-03",
+    "posted_date": "2026-06-02",
     "department": "",
     "score": -1,
     "matched_keywords": [
@@ -1513,7 +1493,7 @@
     "title": "Scientist – QC Lab Systems & CSV (GMP)",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "",
+    "posted_date": "2026-06-17",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -1543,7 +1523,7 @@
     "title": "Sr Account Director, Business Development - RWE",
     "company": "Thermo Fisher Scientific",
     "location": "Remote, Switzerland",
-    "posted_date": "2026-06-02",
+    "posted_date": "2026-06-01",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -1560,7 +1540,7 @@
     "title": "Senior Scientist microbiological Quality Control",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-06-10",
+    "posted_date": "2026-06-09",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -1677,7 +1657,7 @@
     "title": "Translational Medicine Expert – Dermatology, Associate Director",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-06-17",
+    "posted_date": "2026-06-16",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -1980,7 +1960,7 @@
     "title": "Global Program Regulatory Manager - Neuroscience",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-06-17",
+    "posted_date": "2026-06-16",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1995,7 +1975,7 @@
     "title": "Global Program Regulatory Manager - Neuroscience",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-06-17",
+    "posted_date": "2026-06-16",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2020,7 +2000,7 @@
     "title": "Regulatory Affairs Manager/Senior Manager, CMC",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "",
+    "posted_date": "2026-06-17",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2035,7 +2015,7 @@
     "title": "Project Scientist Phys-Chem Quality Control 80-100%",
     "company": "Lonza",
     "location": "CH - Basel",
-    "posted_date": "",
+    "posted_date": "2026-06-17",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2132,7 +2112,7 @@
     "title": "Scientist, Technical Operations",
     "company": "CSL Behring / Vifor",
     "location": "EMEA, CH, Kanton Bern, Bern, CSL Behring",
-    "posted_date": "2026-06-19",
+    "posted_date": "",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2248,5 +2228,26 @@
     "deducted_keywords": [
       "location:Switzerland"
     ]
+  },
+  "https://api.smartrecruiters.com/v1/companies/Sobi/postings/744000132996289": {
+    "description": "Key Responsibilities\nManage, lead, and coach a team of publication managers, fostering a collaborative and high-performance culture\nOversee the planning, development, and execution of strategic publication plans across the Therapeutic Areas\nProvide guidance on governance and industry standards to foster effective and compliant publications execution\nDevelop, coordinate, and standardise key operational processes and frameworks, ensuring efficiency and effectiveness of publications activities\nLiaise with medical colleagues and other cross-functional/regional partners to enhance the value of medical and scientific publications, whilst demonstrating their impact to the wider organization and the external community",
+    "external_url": "https://jobs.smartrecruiters.com/Sobi/744000132996289-head-of-global-medical-publications?oga=true",
+    "status": "matched"
+  },
+  "/job/Basel/Translational-Medicine-Scientist_202606-115450": {
+    "description": "At Roche you can show up as yourself, embraced for the unique qualities you bring. Our culture encourages personal expression, open dialogue, and genuine connections,  where you are valued, accepted and respected for who you are, allowing you to thrive both personally and professionally. This is how we aim to prevent, stop and cure diseases and ensure everyone has access to healthcare today and for generations to come. Join Roche, where every voice matters.\n\nThe Position\nWe are currently seeking a Clinical Scientist to join our global team based in Basel in the Early Development department in the Neuroscience and Rare Disease DTA. This role will primarily support our latest development priorities. \n\nWe are a dedicated, collaborative team focused on meaningful lifecycle innovations that directly impact the neuroscience community. This position offers the opportunity to contribute to established science while addressing unmet needs in the Parkinson’s, Alzheimer’s, multiple sclerosis, and rare disease community.\n\nThe Opportunity\n\nProvide support in developing and/or preparing clinical science information for inclusion into the Clinical Development Plan.\nGuided by the Lead/senior Clinical Scientist, contribute to protocol/ICF (writing or amendment), construct appropriate CRFs and coordinate cross-functionally.\nGuided by the Lead/senior Clinical Scientist, contribute to internal/external clinical presentations and communications (e.g. investigator meetings, study site interactions, patient information, study newsletters). Present at appropriate internal meetings, e.g. Study Leadership Team. Contributes to abstracts, posters, content for scientific meetings.\nWork with Lead/senior Clinical Scientists/Medical Directors/Clinical Directors and cross-functional groups to execute the Medical Data Review Plan, data interpretation and contribute to study reporting.\nWork as medical monitor of phase 1 and phase 2 clinical trials in Parkinson’s and Alzheimer’s disease\nWork on advanced imaging technique to measure neurodegeneration (e.g. neuromelanin-MRI) in Parkinson’s and Alzheimer’s disease\nWith guidance, contribute to Clinical Trial Application (CTA)/Ethics Committee (EC) written interactions, briefing packs, written responses to Health Authority (HA) questions, clinical science data/preparations for HA interactions and clinical data input to regulatory submissions.\n\nWho you are\n\nDegree in Medicine required (e.g. MD, MBBS). An advanced clinical/Science Degree is highly preferred (e.g. PhD, PharmD, MSN, MPH, etc.).\n1 to 3 years of clinical development experience. While prior experience is a plus, we are primarily looking for someone with high potential, strong motivation, and a willingness to learn\nFamiliarity with governing laws, regulations, guidelines on global clinical trial execution is required and some knowledge of medical aspects of GCP (Good Clinical Practice), ICH (International Conference on Harmonization of Technical Requirements for Registration of Pharmaceuticals for Human Use), FDA, EMA and other relevant guidelines and regulation.\nGood understanding of the multidisciplinary functions involved in drug development. Some therapeutic area relevant clinical trial experience or clear potential to assimilate with some support.\nStrong collaborative skills with the ability to work effectively within a geographically distributed global team.\n\nAre you ready to make a difference for our patients? We are looking forward to your application – join us now and become part of our journey!\n\n \n \n\nWho we are\nA healthier future drives us to innovate. Together, more than 100’000 employees across the globe are dedicated to advance science, ensuring everyone has access to healthcare today and for generations to come. Our efforts result in more than 26 million people treated with our medicines and over 30 billion tests conducted using our Diagnostics products. We empower each other to explore new possibilities, foster creativity, and keep our ambitions high, so we can deliver life-changing healthcare solutions that make a global impact.\n\nLet’s build a healthier future, together.\n\nRoche is an Equal Opportunity Employer.",
+    "external_url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Translational-Medicine-Scientist_202606-115450",
+    "status": "matched",
+    "title": "Clinical Scientist in neurosciences",
+    "company": "Roche",
+    "location": "Basel",
+    "posted_date": "2026-06-19",
+    "department": "",
+    "score": 2,
+    "matched_keywords": [
+      "PhD",
+      "drug development"
+    ],
+    "deducted_keywords": []
   }
 }
