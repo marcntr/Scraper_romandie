@@ -9,7 +9,7 @@
     "keywords": "npp"
   },
   "_generic:Charles River Laboratories": {
-    "keywords": "regulatory,scientist"
+    "keywords": "regulatory"
   },
   "_generic:MoonLake Immunotherapeutics": {
     "keywords": "clinical development,medical affairs"
@@ -2305,6 +2305,19 @@
       "PhD",
       "immunology"
     ],
+    "deducted_keywords": []
+  },
+  "/job/Basel/Operations-AI-Data-Scientist_202606-115569": {
+    "description": "At Roche you can show up as yourself, embraced for the unique qualities you bring. Our culture encourages personal expression, open dialogue, and genuine connections,  where you are valued, accepted and respected for who you are, allowing you to thrive both personally and professionally. This is how we aim to prevent, stop and cure diseases and ensure everyone has access to healthcare today and for generations to come. Join Roche, where every voice matters.\n\nThe Position\n\nThis role is based in the Innovation Accelerator (IA) team, the innovation engine and connective tissue for Design, Data and Data Science innovation strategy within Product Development Data Sciences (PDD). We translate our long-term PDD vision into actionable strategy, shaping and prioritizing innovative cross-functional use cases that span PDD, PD, and Pharma. As both integrators and incubators, we explore, prototype, and help productize solutions to deliver impact in close partnership with internal Roche teams and external collaborators. With a mindset rooted in openness, value creation, and adaptability, we navigate the innovation ecosystem to drive transformative impact and future readiness across the organization.\n\nThe Opportunity:\n\nYou lead the design, development, and deployment of AI/ML agents that drive workflow efficiencies and operational insight\n\nYou identify high-impact opportunities for automation across the R&D data ecosystem and translate them into technical solutions\n\nYou design intelligent process monitoring and optimization pipelines leveraging structured and unstructured data\n\nYou prototype and productize AI agents that support internal users across PDD, including metadata enrichment, task routing, or data retrieval\n\nYou apply advanced techniques in NLP, system optimization, or process analytics in real-world business contexts\n\nYou collaborate with engineering, domain experts, and business stakeholders to ensure feasibility, usability, and value delivery\n\nYou contribute to cross-functional initiatives by representing the AI operations strategy and fostering scalable solution design\n\nYou provide technical leadership, share best practices, and guide junior colleagues in navigating operational AI use cases\n\nWho you are:\n\nYou have a Bachelor’s or advanced degree in Computer Science, Machine Learning, Engineering, Biomedical Informatics, or a related field\n\nYou have a minimum of 8 years of experience designing and delivering AI/ML solutions with measurable operational impact; or an advanced degree with 6 years of equivalent work experience\n\nYou have deep expertise in Python software development or similar languages and AI libraries (e.g., PyTorch, Tensorflow, scikit-learn, Transformers, RAG toolkits Langchain/Langgraph, Autogen)\n\nYou have a track record of applying AI or automation to optimize internal workflows or business processes\n\nYou are familiar with operational data, ML pipelines, and AI productization frameworks\n\nYou have a deep understanding of model reproducibility, interpretability, and validation best practices\n\nYou have capacity for independent thinking and ability to make decisions based upon sound principles\n\nRelocation benefits are not available for this posting  \n\n#PPDT\n#PDDBasel\n\n \n \n\nWho we are\nA healthier future drives us to innovate. Together, more than 100’000 employees across the globe are dedicated to advance science, ensuring everyone has access to healthcare today and for generations to come. Our efforts result in more than 26 million people treated with our medicines and over 30 billion tests conducted using our Diagnostics products. We empower each other to explore new possibilities, foster creativity, and keep our ambitions high, so we can deliver life-changing healthcare solutions that make a global impact.\n\nLet’s build a healthier future, together.\n\nRoche is an Equal Opportunity Employer.",
+    "external_url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Operations-AI-Data-Scientist_202606-115569",
+    "status": "matched",
+    "title": "Operations AI Data Scientist",
+    "company": "Roche",
+    "location": "Basel",
+    "posted_date": "2026-06-19",
+    "department": "",
+    "score": 0,
+    "matched_keywords": [],
     "deducted_keywords": []
   }
 }
