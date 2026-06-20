@@ -889,11 +889,6 @@
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000129956310-safety-and-controls-engineer-for-the-cms-experiment-ep-cms-ec-2026-119-ld-?oga=true",
     "status": "matched"
   },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000130174399": {
-    "description": "Introduction:\nFollowing reform of its internal justice system, CERN is seeking to appoint, as of 1 July 2026, an external Chair and Deputy Chair for each of its internal justice boards: the Joint Advisory Appeals Board (JAAB) and the Joint Advisory Disciplinary Board (JADB), referred to hereunder as the “Boards”.\nThe Boards are independent advisory bodies which will provide recommendations in administrative disputes or disciplinary proceedings. The Boards will work in panels of three, including two CERN staff members, and will be presided over by the assigned Chair or Deputy Chair.\nThere are, on average, between two and five JAAB and JADB cases per year.\nCERN has recently established an Internal Justice secretariat, which will provide administrative and legal support to the Boards.\nThe Chairs and Deputy Chairs will be appointed by the Director-General, on the advice of a board composed of representatives of the Staff Association, CERN Management and Legal Service, for a period of three years, renewable once, and will serve the Organization as needed, on a contractual basis, as experts. These are not personnel appointments.\nDuties:\nThe Chairs and Deputy Chairs shall execute their mandate in accordance with the Rules of Procedure of the Board concerned.\nTheir duties shall include the following tasks:\nLead and coordinate the work of the Board.\nEnsure proceedings are conducted fairly, independently, and in a timely manner, consistent with the general principles of international administrative law and, specifically, the jurisprudence of the Administrative Tribunal of the International Labour Organization.\nSafeguard procedural integrity and due process.\nPromote consistency and quality in Board reports and recommendations; and,\nContribute to the credibility and effectiveness of the internal justice system, fostering trust and confidence among CERN personnel and management.\nThe Chairs and Deputy Chairs act in an independent capacity and shall neither seek nor receive instructions from any person or entity regarding the outcome of cases.\nTo the extent possible, they shall work remotely; CERN will not make available routine office space or computing facilities.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000130174399-chairs-and-deputy-chairs-for-the-joint-advisory-appeals-board-and-the-joint-advisory-disciplinary-board?oga=true",
-    "status": "matched"
-  },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000130162349": {
     "description": "Introduction:\nAs a firefighter at CERN, you will work 12-hour shifts with 24/7 readiness, responding to emergencies while ensuring safety through monitoring, inspections, and specialised rescue operations.\nYou will also maintain equipment, support fire prevention efforts, and collaborate with French and Swiss emergency services, all while engaging in continuous training to sustain peak operational performance.\nFunctions:\nAfter completing an initial 10-week on-the-job training program tailored to CERN’s environment, you will join your assigned team and take on the following responsibilities:\nEmergency response: Perform firefighting, medical emergency response, and rescue operations.\nSafety Control Room operations: Monitor and manage emergency dispatch activities.\nTechnical inspections & patrols: Conduct safety checks and ensure compliance with fire regulations.\nSpecialised assistance: Provide support in confined space operations, hazardous material handling, and transport missions involving special risks.\nTraining & exercises: Participate in regular drills and continuous professional development in line with the Fire and Rescue Service’s training plan.\nFire prevention & awareness: Engage in fire safety initiatives, training sessions, and collaborative safety projects.\nEquipment maintenance: Ensure the upkeep of firefighting and medical emergency equipment, including fire extinguishers and hydrants.\nProject participation: Contribute to ongoing projects within the Fire and Rescue Service.\nAdministrative & operational support: Assist with necessary administrative duties and team-wide responsibilities.\nPhysical training: Participate in both individual and group fitness programs.",
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000130162349-professional-firefighter-hse-frs-2026-104-ld-?oga=true",
@@ -2260,7 +2255,7 @@
   },
   "https://gloorlang.starhunter.software/Headhunter/project/job-ad/hash/6a201d0a1a053": {
     "external_url": "https://gloorlang.starhunter.software/Headhunter/project/job-ad/hash/6a201d0a1a053",
-    "status": "matched",
+    "status": "ignored",
     "title": "Validation & Investigation Scientist",
     "company": "Gloor & Lang",
     "location": "Neuchatel - Lausanne Region, Switzerland",
@@ -2274,7 +2269,7 @@
   },
   "https://gloorlang.starhunter.software/Headhunter/project/job-ad/hash/69e5f1b516f9f": {
     "external_url": "https://gloorlang.starhunter.software/Headhunter/project/job-ad/hash/69e5f1b516f9f",
-    "status": "matched",
+    "status": "ignored",
     "title": "Regulatory Affairs Specialist",
     "company": "Gloor & Lang",
     "location": "Zürich Region, Switzerland",
@@ -2286,7 +2281,7 @@
   },
   "https://gloorlang.starhunter.software/Headhunter/project/job-ad/hash/68b5a83b99a4d": {
     "external_url": "https://gloorlang.starhunter.software/Headhunter/project/job-ad/hash/68b5a83b99a4d",
-    "status": "matched",
+    "status": "ignored",
     "title": "Regulatory Affairs Manager 80%",
     "company": "Gloor & Lang",
     "location": "Basel, Switzerland",
