@@ -721,31 +721,6 @@
     "external_url": "https://jobs.smartrecruiters.com/Sobi/744000127132670-global-senior-strategic-sourcing-manager-?oga=true",
     "status": "matched"
   },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000127398029": {
-    "description": "You will drive the evolution of high-precision, Ethernet-enabled data acquisition (EDAQ) systems using modern Cortex-M microcontrollers, ensuring sub-microsecond synchronisation accuracy across distributed infrastructures. Your role will span from maintaining and advancing our firmware codebase to deploying operational solutions for HL-LHC and testbenches, while pioneering R&D in Gbit Ethernet, wireless technologies, and ultra-precise timing protocols. Your responsibilities: Develop and maintain firmware for high-precision, Ethernet-enabled embedded systems based on Cortex-M microcontrollers. Implement and optimise features for real-time data acquisition and sub-microsecond synchronisation across distributed infrastructures. Deploy, test, and troubleshoot embedded solutions in operational environments, including testbenches and large-scale systems. Collaborate with cross-functional teams to integrate embedded systems with broader data acquisition and control infrastructures. Conduct R&D on Gbit Ethernet, wireless communication protocols, and advanced timing synchronisation techniques. Participate in code reviews, documentation, and continuous improvement of firmware libraries and tools. Support system commissioning, performance analysis, and troubleshooting in collaboration with hardware and software teams. Your profile: Solid understanding of embedded systems and microcontroller architectures, particularly Cortex-M. Strong experience with firmware development in C/C++ for embedded platforms. Exposure to Ethernet communication protocols and real-time data acquisition concepts. Exposure in hardware-software integration, including debugging and testing embedded systems. Basic knowledge of version control systems (e.g., Git) and collaborative development workflows. Strong problem-solving skills and eagerness to work in a cross-disciplinary team environment. Basic knowledge of electronics production and testing. Experience working with RTOS would be an advantage. Skills: C/C++ for embedded systems development. Knowledge of microcontroller architectures, especially Cortex-M and RISC-V (e.g., MI-V). Experience with version control systems (e.g., Git). Basic electronics and PCB design skills (e.g., Altium). Python for testing, automation, and deployment scripts. Spoken and written English, with a commitment to learn French. Eligibility criteria: You are a national of a CERN Member or Associate Member State . You have a professional background in Electronics Engineering (or a related field) and have either: a Master's degree with 2 to 6 years of post-graduation professional experience; or a PhD with no more than 3 years of post-graduation professional experience. You have never had a CERN fellow or graduate contract before.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000127398029-embedded-electronics-engineer-te-mpe-iq-2026-89-grap-?oga=true",
-    "status": "matched"
-  },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000127735229": {
-    "description": "Are you an experienced Software Engineer with a passion for low-level, real-time systems? Join the Timing team in the Controls Software & Services group, to work on real-time software for the largest particle physics laboratory in the world. ISOLDE , one of CERN's accelerator facilities, is undergoing a major upgrade, including its timing system to rely on the White Rabbit technology. Our team is responsible for designing, developing, and deploying the C++ software that generates the timing pulses used to synchronise accelerator equipment, and you will be involved in all aspects of this project. Your responsibilities: Learn about the White Rabbit timing system, hardware modules and our real-time software framework for equipment control. Contribute to the design of the new ISOLDE timing system. Develop and commission the timing system. Participate in the design of the software which controls the White Rabbit hardware modules used to synchronise equipment. Develop the software following the design. Contribute to the adaptation of the existing real-time software to the new timing system. More information here . Your profile: Proven experience in C++ development, in a Linux (or Unix-like) environment, including practical experience developing real-time systems. Experience with low-level development, libraries and kernel modules. Experience applying software quality assurance techniques and practice with corresponding tools. Skills: Hands-on C++ development. Knowledge of Linux, low-level libraries and kernel modules. Knowledge of programming techniques and languages on backends and embedded systems. Very good knowledge of object-oriented programming principles. Knowledge and application of software life-cycle tools and procedures including DevOps. Familiarity with testing, diagnosing and optimisation of software. Monitoring and troubleshooting of operational software systems. Spoken and written English, with a commitment to learn French. Eligibility criteria: You are a national of a CERN Member or Associate Member State . You have a professional background in Software Engineer (or a related field) and have either: a Master's degree with 2 to 6 years of post-graduation professional experience; or a PhD with no more than 3 years of post-graduation professional experience. You have never had a CERN fellow or graduate contract before.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000127735229-c-software-engineer-be-css-dsp-2026-90-grap-?oga=true",
-    "status": "matched"
-  },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000127886984": {
-    "description": "Introduction: Are you ready to work hands-on with advanced electrical and electronic systems at the forefront of science and technology? CERN’s Electrical Power Converter Group is recruiting three electronics/electrical technicians to contribute to major modernisation, consolidation and infrastructure projects linked to CERN’s accelerator complex. You will work closely with engineers, technicians, industrial support teams and CERN’s central services in a highly collaborative and international environment. Functions: These positions offer the opportunity to work in different technical teams within the group, contributing to a wide range of activities including: Installation, testing and commissioning of power converter systems. Deployment and configuration of controls electronics and infrastructure. Renovation and upgrade of converter control systems. Development and validation of electronic and control interfaces. Operational support, maintenance and troubleshooting in the field. Depending on your profile, skills and interests, you may join one of several specialised teams working on: High-power converter installations for accelerator magnets. Converter controls electronics and infrastructure deployment. Modern Switch-mode converter and conventional thyristor systems. Static Var Compensator (SVC) modernisation. Configuration, controls integration and commissioning activities during CERN’s Long Shutdown 3 (LS3). As an Electronics/Electrical Technician within the Power Converter Group, you will contribute to the deployment, operation and maintenance of CERN’s accelerator power systems and controls infrastructure. Depending on the assignment and team, your responsibilities may include: Power Converter Systems and Electronics: Participate in the installation, testing, commissioning and maintenance of power converter systems ranging from 10 kW to several tens of MW. Contribute to the upgrade and renovation of converter control electronics and infrastructure. Adapt electrical schematics and associated bills of materials for integrating the standard Control Electronics platform of EPC group into Thyristor converters. Participate in the design and validation of electronic boards and low-level interfaces using analogue and digital electronics. Assemble, test and install electronic crates, racks and cabinets. Contribute to fault-finding, corrective interventions and operational support activities. Controls Infrastructure and field activities: Coordinate and supervise controls infrastructure installation activities in the field. Validate technical requirements together with equipment owners and users, acting as an interface between technical experts, central services and industrial support teams. Prepare and organise work activities and follow implementation schedules. Oversee and verify the work of service providers for networking, cabling, optical fibres and rack installations. Ensure compliance with CERN safety rules and documentation procedures. Deploy and configure converters controllers and associated controls infrastructure using dedicated software tools. Operational support and collaboration: Participate in commissioning campaigns during accelerator shutdowns and operational periods. Contribute to continuous improvement and modernisation projects. Ensure clear reporting and technical documentation of activities.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000127886984-electronics-electrical-technician-power-converter-systems-sy-epc-2026-111-ld-?oga=true",
-    "status": "matched"
-  },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000127862079": {
-    "description": "Introduction: Your job will be to take a central role in maintaining and evolving the CERN Industrial Controls Frameworks used by a community of more than 500 users world-wide. The work will focus on the supervisory/monitoring layer of the Frameworks, which builds on top of the WinCC OA SCADA system. You will be designing, developing and supporting the required tools, technologies, and services to implement large distributed control systems for CERN’s accelerators, particle detectors and technical infrastructure. Functions: Develop software components spanning across all layers of modern control systems for integration in the CERN Industrial Controls Frameworks including gathering of requirements, design, prototyping, implementation, testing and maintenance. Provide CERN-wide support for the Industrial Controls Frameworks and their underlying stack of technologies, notably for the SCADA layer, including in situ expert assistance and training, dialogue with the control system developers using the Framework. Proactively contribute to the standardisation and optimisation of industrial control systems; apply quality assurance tools and methods; monitor and analyse the performance of the running systems; propose improvements in the technology landscape and recommend solutions. Participate in and lead cross-team technical initiatives, deliver proof of concepts demonstrating product feasibility to the clients. Consolidate, modernise and review the Frameworks to meet evolving needs and assure long-term maintenance and compatibility. Maintain and improve group-wide high standards and guidelines of software engineering practices. Mentor junior software developers.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000127862079-software-engineer-for-industrial-control-systems-be-ics-stf-2026-110-ld-?oga=true",
-    "status": "matched"
-  },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000127821110": {
-    "description": "Introduction: As a skilled and experienced Linux System Administrator managing critical server hardware in CERN’s accelerator data centre from procurement to installation, configuration and operation, you will contribute to the unique challenge of making CERN’s particle accelerators function in an efficient and robust manner. You will join the Controls Software & Services group, working on the computing infrastructure needed to run the largest particle physics laboratory in the world. The 24/7 availability of core control system services is critical to the operation of CERN’s particle accelerators, enabling the organization to fulfil its central mission. Our team helps make this a success through the development, operation and evolution of the computing infrastructure in data centres and control rooms used to run the accelerator facilities. You will have the opportunity to join a passionate system administration team and influence the evolution of this complex and challenging infrastructure, imprinting your remarkable engineering skills on mission-critical solutions for CERN. More information here . Functions: System administration tasks for the Linux computers connected to the accelerator control system (control room consoles, data centre servers, real-time embedded platforms and virtual machines). Investigation, diagnosis, and resolution of operational problems in collaboration with end-users ranging from equipment specialists to operations teams. Management of data centre infrastructure, including servers, racks and their relationships with networking, powering and cooling. Management of desktop computers in control rooms and technical buildings. Management of networked data-storage systems, ensuring that they are effectively backed up. Planning and coordination of annual installation work and replacement of obsolete equipment, in collaboration with other members of the system administration team. Close collaboration with engineers from the IT Department responsible for the general CERN IT infrastructure. Participation in the definition of hardware specifications for server and desktop computers as part of their procurement processes.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000127821110-system-administrator-be-css-isa-2026-56-ld-?oga=true",
-    "status": "matched"
-  },
   "https://www.michaelpage.ch/job-detail/senior-manager-regulatory-affairs/ref/jn-052026-7023979": {
     "external_url": "https://www.michaelpage.ch/job-detail/senior-manager-regulatory-affairs/ref/jn-052026-7023979",
     "status": "ignored",
@@ -816,11 +791,6 @@
     ],
     "deducted_keywords": []
   },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000129137889": {
-    "description": "Within the framework of the High-Luminosity Large Hadron Collider project, and long shutdown activities, you will join the Cryogenic Group as a full member of the team, working in a multidisciplinary environment focused on cryogenic instrumentation, control systems, and electrical engineering. You will contribute to R&D activities, as well as to the design, reception, and maintenance of tooling and test benches used for validation and commissioning operations.\nYour responsibilities\nContribute to the development of new cryogenic instrumentation like pressure, level, temperature or heater, ensuring their design, qualification, and adaptation to the complex and challenging operating conditions of CERN accelerators, including cryogenic environments, high magnetic fields, and other harsh constraints inherent to accelerator operation.\nEnsure the maintenance of existing test benches based on LabVIEW, including legacy systems, while also developing new test facilities for the qualification of series of radiation-tolerant electronic cards, the calibration of absolute and differential pressure sensors, and associated data analysis.\nProvide field support for cryogenic instrumentation deployed across CERN accelerators, cryogenic plants, and test facilities, including diagnostics, maintenance, and repair activities to ensure reliable and continuous operation of the equipment.\nMore information here.\nYour profile\nTesting, calibration, and validation of instrumentation sensors under cryogenic conditions.\nExperience with front-end and back-end electronics, as well as real-time data acquisition systems.\nPerformance analysis and optimisation of cryogenic instrumentation systems. \nSkills\nMetrology, Radiology, LabView or similar, Python, data acquisition system.\nDiagnostics and troubleshooting of electrical and instrumentation issues in complex process systems.\nApplying practical knowledge of measurement and electronic technologies in operational environments,\nCollaborating within multidisciplinary teams and contributing to the training and supervision of students.\nSpoken and written English or French, with a commitment to learn the other language.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nYou have a professional background in Applied Physics/Electromechanical Engineering, Electronic Engineering (or a related field) and have either:\na Master's degree with 2 to 6 years of post-graduation professional experience;\nor a PhD with no more than 3 years of post-graduation professional experience.\nYou have never had a CERN fellow or graduate contract before.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000129137889-instrumentation-engineer-te-crg-ic-2026-94-grap-?oga=true",
-    "status": "matched"
-  },
   "https://api.smartrecruiters.com/v1/companies/Sobi/postings/744000129125647": {
     "description": "About the role\nAs the Director of Information Security Governance & Compliance, you will play a key leadership role in ensuring that Sobi’s information security framework is robust, effective and fit for a highly regulated environment. You will lead governance and compliance activities across Sobi and our external partners, drive audits and control reviews, maintain a strong and up-to-date ISMS, and oversee CAPA and continuous improvement initiatives. In this role, you will work closely with the CISO, Quality and key stakeholders across the business to make sure our policies, processes and responsibilities are clear, aligned and continuously improving.\nYou will join our Global Information Security team, report to the CISO, and be based at our Stockholm HQ or Global Hub in Basel. This is a hybrid role with the opportunity to work in an international setting where your expertise will have visible impact across the organisation.\n \nYour impact will include:\nLead and evolve Sobi’s information security governance framework and ISMS, including policies, standards and procedures.\nEnsure alignment with key regulatory and industry frameworks such as NIS2, GDPR and ISO 27001.\nPlan and lead internal and external audits, as well as compliance reviews across the organisation and third parties.\nOversee incident follow-up, root cause analysis, CAPA activities and risk mitigation tracking to closure.\nEstablish meaningful compliance and risk metrics, continuous improvement processes and provide clear reporting to support decision-making.\nPartner closely with the CISO, Quality, business stakeholders, auditors and external partners to build a strong culture of accountability and security awareness.",
     "external_url": "https://jobs.smartrecruiters.com/Sobi/744000129125647-director-of-information-security-governance-compliance?oga=true",
@@ -829,11 +799,6 @@
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000129467168": {
     "description": "As a member of our team, you will contribute to the development, maintenance, and operational support of CERN's cryogenics process control systems. You will play an active role in major consolidation projects carried out during Long Shutdown 3, supporting the cryogenic infrastructure of the LHC accelerator as well as the ATLAS and CMS detectors.\nThis diverse role combines software development, hardware installation, and system integration activities. You will collaborate closely with a wide range of CERN services and work alongside the Cryogenics Operations team to deliver reliable and innovative solutions that support world-leading scientific research.\nYour responsibilities:\nContribute to the design, development, implementation and commissioning of control systems, using automated software production methods based on GitLab CI and CERN control frameworks.\nContribute to the review and propose improvements of process control logic.\nParticipate in the installation and commissioning of control hardware on site.\nParticipate to the maintenance and insertion of control system's configuration data in CERN's databases.\nCooperate with CERN's service providers to resolve issues and share best practices.\nYour profile:\nExperience in Python and bash programming.\nProficiency in code refactoring, optimisation, and testing.\nExperience with relational databases (Oracle), data manipulation and SQL.\nKnowledge of code versioning systems (Git), issue tracking (Jira) and continuous integration (GitLab CI).\nBasic experience with PLC-based control systems (Siemens, Schneider).\nAbility to understand and analyse systems, identify issues and propose solutions.\nMaster's Degree or equivalent relevant experience in the field of Computing Engineering or Automation Engineering or a related field.\nSkills:\nPython, Bash, Git, Jira.\nRelational databases, SQL.\nDevOps, Continuous Integration.\nProcess controls, PLC programming (SCL).\nSpoken and written English or French, with a commitment to learn the other language.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nYou have a professional background in Computing or Automation Engineering (or a related field) and have either:\na Master's degree with 2 to 6 years of post-graduation professional experience;\nor a PhD with no more than 3 years of post-graduation professional experience.\nYou have never had a CERN fellow or graduate contract before.",
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000129467168-process-controls-software-engineer-te-crg-ic-2026-96-grap-?oga=true",
-    "status": "matched"
-  },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000129427824": {
-    "description": "Introduction:\nAre you an experienced agile-minded Business Analyst who is client-oriented, passionate about your work, positive, with a can-do attitude, and highly collaborative yet results-oriented? Join the Business Computing Group and bring your value to CERN! Take part!\nYou will join the Business Computing Group (BC), where 80+ talented international colleagues are responsible for delivering information systems for all of CERN’s business functions.\nThe product management driven group is working for clients across the whole Organisation (HR, Finance, Planning, Site Management, Purchasing, Logistics, and Accelerator Operations). The type of products under the group’s responsibility ranges from custom-made solutions for a few users to large and widely integrated systems with 15,000+ users. Hence, working for the BC group provides numerous perspectives for being in touch with different technologies and business areas.\nFunctions:\nAs a Business Analyst, you will liaise between agile teams, product managers, business partners and users to understand the underlying demands and advise on the best solutions. \nThis transversal position will include activities in three main areas: solution, strategy, and relationship management. You will take on the following responsibilities:\nSolution:\nAnalyse business processes and systems to identify areas for improvement and optimisation.\nDevelop and maintain business process documentation (using BPMN and specialised business process modelling tools), including process flows and user requirements.\nGuide cross-functional teams in the implementation of process improvements and system enhancements.\nIn addition, familiarity with UX principles and methodologies would be advantageous in this role.\nStrategy:\nLead business analysis efforts to support the strategic objectives of our activities\nProvide strategic guidance and recommendations to senior management based on analysis findings.\nMonitor and report on key performance indicators to track progress towards organisational goals.\nRelationship Management:\nCollaborate with stakeholders to gather and prioritise business requirements.\nInvolved in the BA/UX chapter activities such as coordinating practices, contributing to the definition and continuous improvement of shared methodologies, and supporting the development and coaching of team members.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000129427824-business-analyst-fap-bc-pm-2026-109-ld-?oga=true",
     "status": "matched"
   },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000129658059": {
@@ -1495,11 +1460,6 @@
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000132845671-applied-physicist-on-daq-software-ep-cms-id-2026-113-grap-?oga=true",
     "status": "matched"
   },
-  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000132856872": {
-    "description": "À la recherche d’un stage dans l’informatique, vous collaborez avec notre analyste en informatique en qualité de correspondant ou correspondante informatique stagiaire pour le département des neurosciences cliniques.\nVous soutenez les utilisateurs des 5 services : Neurochirurgie, Neurologie, ORL, Neurorééducation et Ophtalmologie du département en matière informatique, vous aidez au choix et à l’utilisation de matériel et de logiciels, vous caractérisez les problèmes rencontrés, vous en assurez le suivi et soutenez la gestion des droits d’accès.\nVous travaillez sur des dossiers de conception d’applications informatiques.\nVous participez à des projets spécifiques.",
-    "external_url": "https://jobs.smartrecruiters.com/HUG/744000132856872-stage-en-informatique-100-?oga=true",
-    "status": "matched"
-  },
   "https://www.michaelpage.ch/fr/job-detail/portfolio-manager-fr-eng-100-m-f/ref/jn-042026-6999371?lang=en": {
     "external_url": "https://www.michaelpage.ch/fr/job-detail/portfolio-manager-fr-eng-100-m-f/ref/jn-042026-6999371?lang=en",
     "status": "ignored",
@@ -1586,7 +1546,7 @@
     "title": "Supervisor Flow Cytometry",
     "company": "Labcorp",
     "location": "CHE - Geneva - 7 rue Moise-Marcinhes",
-    "posted_date": "2026-06-05",
+    "posted_date": "2026-06-04",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -1612,68 +1572,6 @@
     ],
     "deducted_keywords": []
   },
-  "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-senior-scientist-bcqc-lengnau-berne-880270/1": {
-    "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-senior-scientist-bcqc-lengnau-berne-880270/1",
-    "status": "ignored",
-    "title": "Senior Scientist BCQC(m/f/d)",
-    "company": "Hays Switzerland",
-    "location": "Lengnau, Berne, Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": 0,
-    "matched_keywords": [],
-    "deducted_keywords": []
-  },
-  "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-analytical-project-leader-scientist-senior-scientist-basel-stadt-873611/1": {
-    "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-analytical-project-leader-scientist-senior-scientist-basel-stadt-873611/1",
-    "status": "ignored",
-    "title": "Analytical Project Leader (Scientist / Senior Scientist)(m/f/d)",
-    "company": "Hays Switzerland",
-    "location": "Basel Stadt, Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": 0,
-    "matched_keywords": [],
-    "deducted_keywords": []
-  },
-  "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-vice-president-of-business-development-basel-land-873413/1": {
-    "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-vice-president-of-business-development-basel-land-873413/1",
-    "status": "ignored",
-    "title": "Vice President of Business Development(m/f/d)",
-    "company": "Hays Switzerland",
-    "location": "Basel Land, Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": 0,
-    "matched_keywords": [],
-    "deducted_keywords": []
-  },
-  "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-scientist-lab-technician-assay-development-zug-873185/1": {
-    "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-scientist-lab-technician-assay-development-zug-873185/1",
-    "status": "ignored",
-    "title": "Scientist Lab Technician Assay Development(m/f/d)",
-    "company": "Hays Switzerland",
-    "location": "Zug, Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": 1,
-    "matched_keywords": [
-      "assay development"
-    ],
-    "deducted_keywords": []
-  },
-  "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-qc-scientist-microbiology-lengnau-berne-864632/1": {
-    "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-qc-scientist-microbiology-lengnau-berne-864632/1",
-    "status": "ignored",
-    "title": "QC Scientist Microbiology(m/f/d)",
-    "company": "Hays Switzerland",
-    "location": "Lengnau, Berne, Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": 0,
-    "matched_keywords": [],
-    "deducted_keywords": []
-  },
   "/job/Tolochenaz-Switzerland/Product-Manager---Spatial-Biology_JR101854": {
     "description": "By joining Bio-Techne, you’ll join a company with a powerful and positive purpose of enabling cutting-edge research in Life Sciences and Clinical Diagnostics. Bio-Techne, and all of its brands, provides tools for researchers to further treat and prevent disease worldwide.\n\nPay Range: CHF 83,000 - CHF136,550\nPlacement within the salary range will vary depending on experience, qualifications, geographic location, and internal equity considerations.\n\nResponsibilities\nOwnership of the Product Lifecycle Management of the assigned Spatial Biology product sub-portfolio to ensure functional monitoring, identify unique attractiveness to the market, evaluate & ensure business benefit and establish & maintain operational sustainability\nUnderstanding & analysis of the user needs and transformation of these into actions and portfolio improvements\nMonitoring & analysis of competitor activities and market trends to propose actions utilizing the full commercial toolset in collaboration with Sales and Marketing\nBuild KOL connections and represent the company and products at conferences, interest groups, exhibitions and other marketing events\nBe an expert and go-to person for the responsible portfolio including presentations to customers and training of Sales and Customer Support\nDevise strategies to improve the portfolio, business benefit and product positioning based on market, user and competitor analysis\nCoordinate with R&D and V&V teams on development and validation activities, specifically, aligning on technical requirements, reviewing designs, risks and mitigations, maintaining product documentation, and perform user testing.\nPrepare commercial launches and releases and ensure clear value proposition, USPs and positioning in collaboration with Marketing\nRepresent and advocate for the needs of the responsible portfolio within the development teams, with leadership and all stakeholders within the organization\n\nRequired qualifications\nMSc. Or PhD in biology, life sciences, bioengineering, or similar field.\nMinimum 5 years of experience as a product manager with global responsibilities\nExperience as product manager for imaging instrumentation and/or antibodies\nSolid understanding of Proteomics (automated preferred) immunofluorescence technology and multiplex experimental design including related use cases\nGood understanding of laboratory techniques such as immunohistochemistry, microscopy and image analysis.\nProven experience in VOC gathering, validation and analysis\nProven experience of working and collaborating in cross-functional teams in a matrix organization\nProven user experience understanding and respective approaches to support maximum ease and safety in the use of products\nExperience in a regulated or clinical environment is a plus\nExperience in at least one of the following scientific fields: immune-oncology, immunology, neurobiology, infectious disease, cell therapy\nExperience with or understanding of project management good practice principles\nProficiency in English (at least C1)\nAdvanced skills in MS Applications, i.e. Excel (array formulas, pivot tables…) and PowerPoint\n\nRequired soft skills\nSelf-starter\nCapability to identify business opportunities and analyze them for potential\nOutstanding communication and presentation skills (written and oral)\nFormulating and condensing complex strategies into concise & comprehensible outputs including KPIs\nDecisive based on good analytical skills\nCapacity to adapt in a constantly changing environment\nAbility to influence, interact and work in a team\nCreative problem solving\nPositive customer-centric attitude\nOvernight, international travel, up to 3 times a quarter\n\nBio-Techne is committed to product quality, customer satisfaction, continued improvement, minimising environmental impacts and conserving natural resources. Environmental and quality management is an integral core value and vital part of the Bio-Techne culture.\n\nWhy Join Bio-Techne:\n\nWe offer competitive wages along with extensive benefits for employees and their families.\n\nWe invest in our employees’ financial futures through retirement programs and an employee stock purchase plan.\n\nWe help our employees develop their careers through mentorship, promotional opportunities, training and development, internship programs, and more.\n\nWe offer an international and diverse working environment, enriched by employee resource groups; volunteer and charity events; and employee events that build a culture of caring and belonging. \n\nWe foster a culture of empowerment and innovation, where employees feel valued and encouraged to bring their new ideas to the table.\n\nBio-Techne is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or status as a protected veteran.\n\nTo protect the interests of all, Bio-Techne will not accept unsolicited resumes from any source other than a candidate application. Any unsolicited resumes sent to Bio-Techne will be considered Bio-Techne property.\n\nIf you require a reasonable accommodation to complete an application, participate in an interview, or take part in any other stage of the recruitment process, please contact hr@bio-techne.com for assistance.",
     "external_url": "https://biotechne.wd5.myworkdayjobs.com/Biotechne/job/Tolochenaz-Switzerland/Product-Manager---Spatial-Biology_JR101854",
@@ -1681,7 +1579,7 @@
     "title": "Product Manager - Spatial Biology",
     "company": "Bio-Techne / Lunaphore",
     "location": "Tolochenaz, Switzerland",
-    "posted_date": "2026-06-09",
+    "posted_date": "2026-06-08",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -1703,7 +1601,7 @@
     "title": "Clinical Scientist in neurosciences",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-06-20",
+    "posted_date": "2026-06-19",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1719,7 +1617,7 @@
     "title": "Operations AI Data Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-06-20",
+    "posted_date": "2026-06-19",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1732,7 +1630,7 @@
     "title": "Scientist/ Sr. Scientist - Image Analysis (2 year contract)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-06-08",
+    "posted_date": "2026-06-07",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1749,7 +1647,7 @@
     "title": "Scientist, Pharmaceutical Development & Data Analytics _2 years temporary contract",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-06-11",
+    "posted_date": "2026-06-10",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1777,7 +1675,7 @@
     "title": "Genomics Data Scientist (2 year contract)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-06-08",
+    "posted_date": "2026-06-07",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1842,7 +1740,7 @@
     "title": "Global Medical Director, Evidence Generation Lead",
     "company": "Biogen",
     "location": "Baar, Switzerland",
-    "posted_date": "2026-06-18",
+    "posted_date": "2026-06-17",
     "department": "",
     "score": -2,
     "matched_keywords": [
@@ -1861,7 +1759,7 @@
     "title": "Senior Medical Director, Nephrology, Global Medical Affairs",
     "company": "Biogen",
     "location": "Baar, Switzerland",
-    "posted_date": "2026-06-18",
+    "posted_date": "2026-06-17",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -1879,7 +1777,7 @@
     "title": "Project Scientist Phys-Chem Quality Control 80-100%",
     "company": "Lonza",
     "location": "CH - Basel",
-    "posted_date": "2026-06-18",
+    "posted_date": "2026-06-17",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1894,7 +1792,7 @@
     "title": "Senior Scientist Process Development Drug Product 12 months fix-term contract 80-100%",
     "company": "Lonza",
     "location": "CH - Basel",
-    "posted_date": "2026-06-05",
+    "posted_date": "2026-06-04",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1909,7 +1807,7 @@
     "title": "Scientist, Technical Operations",
     "company": "CSL Behring / Vifor",
     "location": "EMEA, CH, Kanton Bern, Bern, CSL Behring",
-    "posted_date": "2026-06-19",
+    "posted_date": "2026-06-18",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1925,7 +1823,7 @@
     "title": "Senior Scientist, Tech Ops (Analytical Testing)",
     "company": "CSL Behring / Vifor",
     "location": "EMEA, CH, Kanton Bern, Bern, CSL Behring",
-    "posted_date": "2026-06-20",
+    "posted_date": "2026-06-19",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1952,7 +1850,7 @@
     "title": "Senior Scientist, Tech Ops",
     "company": "CSL Behring / Vifor",
     "location": "EMEA, CH, Kanton Bern, Bern, CSL Behring",
-    "posted_date": "2026-06-05",
+    "posted_date": "2026-06-04",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1969,7 +1867,7 @@
     "title": "Sr Account Director, Business Development - RWE",
     "company": "Thermo Fisher Scientific",
     "location": "Remote, Switzerland",
-    "posted_date": "2026-06-02",
+    "posted_date": "2026-06-01",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -1986,7 +1884,7 @@
     "title": "Senior Scientist Material Management & Qualification - Quality Control",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-06-03",
+    "posted_date": "2026-06-02",
     "department": "",
     "score": -1,
     "matched_keywords": [
@@ -2003,7 +1901,7 @@
     "title": "Senior Scientist microbiological Quality Control",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-06-10",
+    "posted_date": "2026-06-09",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -2033,7 +1931,7 @@
     "title": "Scientist – QC Lab Systems & CSV (GMP)",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-06-18",
+    "posted_date": "2026-06-17",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -2048,7 +1946,7 @@
     "title": "Clinical Sciences Trial Leader/Senior Clinical Sciences Trial Leader, Translational Medicine (Multiple Listings) 80-100%",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-06-08",
+    "posted_date": "2026-06-07",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -2069,7 +1967,7 @@
     "title": "Regulatory Affairs Manager/Senior Manager, CMC",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-06-18",
+    "posted_date": "2026-06-17",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2109,7 +2007,7 @@
     "title": "International Medical Affairs Head, CRM",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-06-11",
+    "posted_date": "2026-06-10",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -2131,7 +2029,7 @@
     "title": "Translational Medicine Expert – Dermatology, Associate Director",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-06-17",
+    "posted_date": "2026-06-16",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -2159,7 +2057,7 @@
     "title": "Global Program Regulatory Manager - Neuroscience",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-06-17",
+    "posted_date": "2026-06-16",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2174,7 +2072,7 @@
     "title": "Global Program Regulatory Manager - Neuroscience",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-06-17",
+    "posted_date": "2026-06-16",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2269,6 +2167,33 @@
     "department": "",
     "score": 0,
     "matched_keywords": [],
+    "deducted_keywords": []
+  },
+  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000133269569": {
+    "description": "Les spécialistes cliniques rattaché ou rattachées au pôle de l’expertise clinique et des pratiques professionnelles de la Direction des soins constituent une équipe de professionnels experts dans différents domaines des soins et contribuent par leurs actions à l'amélioration des pratiques et de la qualité des soins prodigués aux patients, au sein de l’institution. Ils sont regroupés par spécialité clinique ou programme tel que le programme plaies et cicatrisation.\nAux Hôpitaux universitaires de Genève, le programme plaies et cicatrisation est rattaché au pôle expertise clinque et pratiques professionnelles de la Direction des soins. Ce programme a pour trois objectifs : diminuer la prévalence des escarres au sein de l’institution, développer l'expertise des équipes soignantes en matière de prise en charge des plaies et des cicatrisations, et promouvoir l'élaboration, le diffusion ainsi que l'implantation de recommandations, protocoles et pratiques cliniques fondées sur des résultats probants.\nÀ ce jour, l'équipe est composée d’un médecin responsable, d’un chercheur, de deux infirmières et infirmiers spécialistes cliniques et de deux infirmières et infirmiers spécialisés. Ses membres interviennent en tant que consultants et experts cliniques auprès des collaboratrices et collaborateurs ainsi que des patientes et patients. Les membres de l'équipe assurent la mise en place des recommandations de bonnes pratiques et accompagnent les collaboratrices et les collaborateurs dans le développement de leurs connaissances et de leurs compétences dans le domaine des plaies.\nLe programme plaies et cicatrisation, en partenariat avec la Direction des soins, recherche un ou une physiothérapeute en mesure d’exercer une fonction d’expert ou d’experte et de leader clinique dans le domaine des plaies et de la cicatrisation pour renforcer son équipe, en prise directe avec l’activité clinique.\nVous intervenez de façon transversale au sein des différents départements et sur l’ensemble des services des HUG, auprès des patients et patientes adultes et enfants souffrant de lésions cutanées tel que des ulcères des membres inférieurs d’étiologie multifactorielle, des ulcères de pressions, des plaies post-opératoires ou traumatique lors de situations complexes, ainsi qu’auprès des professionnelles de soins, afin d’assurer au patient une prise en charge optimale.\nVous développez des protocoles de prise en charge et travaillez sur des projets d’amélioration des pratiques cliniques. Vous introduisez des pratiques actualisées basées sur des résultats probants au niveau des soins et des thérapies en collaboration avec les cadres de gestion. Vous accompagnez la patientèle et soutenez les équipes de soins dans les trajectoires de la personne souffrant de plaie, par des itinéraires cliniques.\nDoté ou dotée d'un réel intérêt pour l'enseignement et l'accompagnement, vous concevez et dispensez des formations destinées aux différents professionnels et différentes professionnelles de la santé dans le domaine des plaies, de la cicatrisation et de la compression. Par votre curiosité et à l'actualisation de vos connaissances, vous participez au développement des connaissances dans ce domaine.",
+    "external_url": "https://jobs.smartrecruiters.com/HUG/744000133269569-physiotherapeute-specialiste-clinique-dans-le-domaine-des-plaies-et-de-la-cicatrisation-20-?oga=true",
+    "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000133269428": {
+    "description": "Au sein du secrétariat de la policlinique d’oncologie, vous occupez un poste de secrétaire médical ou médicale spécialisée et contribuez activement, en rotation avec l’équipe, à la coordination du parcours de soins ambulatoires des patientes et patients. En collaboration étroite avec les médecins oncologues, les équipes infirmières et les partenaires internes et externes, vous contribuez au bon déroulement des prises en charge et à la fluidité du parcours patient.\nVous assurez l’accueil, l’information et l’orientation de la patientèle et de leurs proches, ainsi que les admissions et l’enregistrement des données administratives selon les exigences institutionnelles.\nVous organisez et coordonnez les rendez-vous simples et complexes, incluant les consultations médicales, les examens complémentaires (prises de sang, examens radiologiques ou autres) ainsi que les traitements oncologiques. Vous garantissez un suivi rigoureux des agendas médicaux et soignants, en respectant les contraintes thérapeutiques et les impératifs spécifiques liés aux différentes pathologies.\nVous gérez également les appels téléphoniques interne/externe ainsi que la messagerie commune du secrétariat.\nVous assurez la frappe, la correction et la mise en page des rapports médicaux, ainsi que leur facturation. Vous prenez en charge la gestion du courrier entrant et sortant, son classement et son archivage, ainsi que la numérisation et la mise à jour des dossiers patients informatisés afin d’en garantir la complétude avant les consultations.\nDoté ou dotée de réactivité, de rigueur et d’un sens relationnel développé, vous évoluez dans un environnement médical spécialisé où l’écoute, la discrétion et l’empathie sont essentielles. Votre esprit d’équipe et votre collaboration avec les équipes pluridisciplinaires contribuent directement à la qualité de la prise en charge et à l’accompagnement des patients et patientes tout au long de leur parcours en oncologie.",
+    "external_url": "https://jobs.smartrecruiters.com/HUG/744000133269428-secretaire-medical-ou-medicale-au-service-d-oncologie-80-?oga=true",
+    "status": "matched"
+  },
+  "https://jobs.boehringer-ingelheim.com/job/Basel-Medical-Science-Liaison-Cardio-Renal-Metabolic-100-%28mfd%29-Swit/1406800733/": {
+    "description": "The position\n\nAs a Medical Scientific Liaison (MSL) in the Cardio-Renal-Metabolic therapeutic area, you serve as the central interface at Boehringer Ingelheim for external specialists and health care professionals within Switzerland. In this key role, you promote scientific exchange, support the safe use of our products in clinical practice, and make an important contribution to ongoing medical education. You take on both proactive and reactive tasks, actively bringing your expertise into internal and external working groups.\n\nTasks & responsibilities\n\nAct as the main contact for clinical professionals and centers in Switzerland and leading local medical-scientific activities\n\nDrive cross-functional projects in close collaboration with teams from Marketing, Medical Affairs, Sales, and Market Access\n\nTake on medical-scientific support for our soon-to-be-approved products and/or indications\n\nInform clinical professionals and the specialist audience about the latest clinical study results and product characteristics\n\nDesign workshops, symposia, and training sessions\n\nSeek advice from regional advisory boards\n\nEnsure successful events with your professional competence\n\nWork closely with the internal teams to select suitable clinical trial centers\n\nRepresent our company and contribute to the planning and implementation of internal and external training sessions at (inter-)national professional congresses \n\nRequirements\n\nSuccessfully completed medical or scientific degree, ideally with a doctorate (PhD, MD)\n\nAt least several years of professional experience in Medical Affairs (MSL, Scientific/Medical Advisor, etc.), clinical research, complemented by solid product and literature knowledge as well as sound medical fundamentals in the cardio-renal-metabolic space\n\nStrong professional and analytical expertise, combined with excellent communication skills and empathy for the perspectives of professionals and colleagues\n\nAbility to work independently\n\nCooperative and goal-oriented working style, paired with outstanding management and organizational talents\n\nFlexibility and high willingness to travel\n\nFoundational understanding of the Swiss Pharma Landscape, including Swiss regulations and compliance rules across the lifespan of a pharmaceutical product. \n\nComprehensive market understanding and ability to successfully execute medical strategy compliantly across the lifecycle of a product\n\nFluent in French and English, both spoken and written (German and/or Italian is a plus)\n\nYour Benefits \n\nFlexible working time models: \n\nHome office and flexible working hours, depending on department and position – many things are possible with us. Since this is a field-based position, office-time either at the offices or at home is possible in agreement with line manager and job expectations\n\nLearning & development: diverse training and development opportunities for your personal and professional growth.\n\nAttractive and competitive salary package\n\nMental health support (Employee Assistance Program, coaching)\n\nCollaborative environment with strong team support despite field‑based work\n\nAppreciative culture\n\nOpportunity to actively shape customer relationships and regional market presence\n\nWe are looking forward to receiving your application online!\n\nBy uploading your application documents via our application portal, we can treat your data confidentially and in compliance with the GDPR. On our career site you will find further information about Boehringer Ingelheim as an employer as well as information about the application process and our different departments. Would you like to know what makes our employees special? What they tell about their motivation and their everyday work? Watch this video and hear for yourself what our colleagues have to share.",
+    "external_url": "https://jobs.boehringer-ingelheim.com/job/Basel-Medical-Science-Liaison-Cardio-Renal-Metabolic-100-%28mfd%29-Swit/1406800733/",
+    "status": "matched",
+    "title": "Medical Science Liaison Cardio-Renal-Metabolic 100% (m/f/d)",
+    "company": "Boehringer Ingelheim",
+    "location": "Basel, Switzerland, Basel-Stadt",
+    "posted_date": "",
+    "department": "",
+    "score": 3,
+    "matched_keywords": [
+      "French",
+      "PhD",
+      "medical affairs"
+    ],
     "deducted_keywords": []
   }
 }
