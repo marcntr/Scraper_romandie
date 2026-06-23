@@ -2112,56 +2112,6 @@
     ],
     "deducted_keywords": []
   },
-  "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-senior-scientist-bcqc-lengnau-berne-880270/1": {
-    "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-senior-scientist-bcqc-lengnau-berne-880270/1",
-    "status": "ignored",
-    "title": "Senior Scientist BCQC(m/f/d)",
-    "company": "Hays Switzerland",
-    "location": "Lengnau, Berne, Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": 0,
-    "matched_keywords": [],
-    "deducted_keywords": []
-  },
-  "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-analytical-project-leader-scientist-senior-scientist-basel-stadt-873611/1": {
-    "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-analytical-project-leader-scientist-senior-scientist-basel-stadt-873611/1",
-    "status": "ignored",
-    "title": "Analytical Project Leader (Scientist / Senior Scientist)(m/f/d)",
-    "company": "Hays Switzerland",
-    "location": "Basel Stadt, Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": 0,
-    "matched_keywords": [],
-    "deducted_keywords": []
-  },
-  "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-vice-president-of-business-development-basel-land-873413/1": {
-    "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-vice-president-of-business-development-basel-land-873413/1",
-    "status": "ignored",
-    "title": "Vice President of Business Development(m/f/d)",
-    "company": "Hays Switzerland",
-    "location": "Basel Land, Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": 0,
-    "matched_keywords": [],
-    "deducted_keywords": []
-  },
-  "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-scientist-lab-technician-assay-development-zug-873185/1": {
-    "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-scientist-lab-technician-assay-development-zug-873185/1",
-    "status": "ignored",
-    "title": "Scientist Lab Technician Assay Development(m/f/d)",
-    "company": "Hays Switzerland",
-    "location": "Zug, Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": 1,
-    "matched_keywords": [
-      "assay development"
-    ],
-    "deducted_keywords": []
-  },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000133510249": {
     "description": "Introduction:\nAs Mechanical Technician you will contribute to the upgrade project of the electromagnetic calorimeter (ECAL) of the CMS detector at LHC covering a large panel of activities and responsibilities, from mechanical works, handling and assembly of detector parts, logistic activities. You will work in close collaboration with all ECAL collaborators and CMS technical team.\nFunctions:\nProvide mechanical support for all the ECAL activities.\nEnsure the safe handling of very fragile ECAL detector Supermodules during extraction, insertion and refurbishment .\nCoordinate the logistics of materials and equipment required for ECAL detector refurbishment activities.\nServe as the technical contact person between CMS experiment site and ECAL refurbishment team.\nProvide technical support for detector maintenance activities, including cooling systems, mechatronic equipment, and instrumentation set-ups.",
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000133510249-mechanical-technician-for-the-cms-ecal-detector-at-lhc-ep-cms-ld-2026-138-ld-?oga=true",
@@ -2352,5 +2302,19 @@
       "drug development"
     ],
     "deducted_keywords": []
+  },
+  "https://www.michaelpage.ch/job-detail/group-marketing-director-global-portfolio-and-growth/ref/jn-042026-7004251?ng-src=other-users-applied&ng-jn=job-search": {
+    "external_url": "https://www.michaelpage.ch/job-detail/group-marketing-director-global-portfolio-and-growth/ref/jn-042026-7004251?ng-src=other-users-applied&ng-jn=job-search",
+    "status": "matched",
+    "title": "Group Marketing Director - Global Portfolio of Businesses - Dubai Based",
+    "company": "Michael Page Switzerland",
+    "location": "Switzerland",
+    "posted_date": "",
+    "department": "",
+    "score": -2,
+    "matched_keywords": [],
+    "deducted_keywords": [
+      "location:Switzerland"
+    ]
   }
 }
