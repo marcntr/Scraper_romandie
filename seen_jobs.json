@@ -717,16 +717,6 @@
     "external_url": "https://jobs.smartrecruiters.com/Sobi/744000128222115-strategic-planning-manager-supply-chain?oga=true",
     "status": "matched"
   },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000128642199": {
-    "description": "You will work at the interface between Software and Reliability Engineering, contributing to the technical design of the next generation of particle accelerators, by developing and maintaining Python-based software frameworks for availability modelling, fault data analysis, and reliability-driven design across multiple accelerator subsystems. In parallel, you will contribute to R&D of software-oriented reliability solutions for large-scale accelerator systems, exploring new modelling approaches, data-driven methods, and verification / validation techniques tailored to complex cyber-physical infrastructures. Your responsibilities: Design, implement, and maintain production-quality Python software supporting reliability, availability, and maintainability (RAM) analyses for complex accelerator systems. Contribute to availability modelling, fault and downtime data analysis, and reliability-driven design studies across multiple accelerator domains. Develop, extend, and refactor modular, well-documented, and testable software frameworks that support accelerator design and validation workflows. Research, prototype, and help formalise software-oriented reliability methods for large-scale cyber-physical systems, including data-driven, simulation-based, and verification-oriented approaches. Integrate reliability models with operational data sources, simulation pipelines, and system-level workflows to support performance and design trade-off studies. Apply and promote modern software engineering practices, including structured version control workflows, code review, automated testing, and continuous integration. Collaborate with accelerator physicists, system engineers, and reliability specialists to translate engineering requirements into robust software solutions. Contribute to technical documentation, internal reports, and design reviews, supporting accelerator design, validation, and long-term planning activities. Your profile: Demonstrated experience developing scientific or large-scale software systems with a strong focus on code quality, robustness, maintainability, and production readiness. Built simulation and analysis pipelines with consideration for assumptions, uncertainties, and reproducibility. Conducted applied, software-driven research, including evaluating methods, prototyping solutions, validating models, and translating research into robust production-quality software. Derived actionable engineering insights from complex datasets through analysis, modelling, and simulation techniques. Contributed to collaborative engineering environments through code reviews, shared development workflows, and clear technical communication. Skills: Advanced Python proficiency for scientific and engineering applications, producing clear, modular, reusable, well-tested, and maintainable code. Strong software engineering practices, including Git workflows, code reviews, automated testing, CI pipelines, API design, and documentation. Experienced in data analysis, modelling, and simulation using scientific Python tools such as NumPy, pandas, and SciPy. Skilled in analysing complex, imperfect real-world datasets, including data cleaning, validation, reproducibility, and uncertainty awareness. Strong technical communication and writing skills, including documentation, reports, and design contributions. Effective collaborator in multidisciplinary teams, while also able to work autonomously. Interest in research-driven problem solving, modelling approaches, and long-term scientific projects. Exposure to reliability, availability, risk modelling, or related domains is advantageous. Spoken and written English, with a commitment to learn French. Eligibility criteria: You are a national of a CERN Member or Associate Member State . You have a professional background in Computer Science, Software Engineering (or a related field) and have either: a Master's degree with 2 to 6 years of post-graduation professional experience; or a PhD with no more than 3 years of post-graduation professional experience. You have never had a CERN fellow or graduate contract before.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000128642199-software-engineer-software-reliability-te-mpe-cb-2026-93-grap-?oga=true",
-    "status": "matched"
-  },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000128687059": {
-    "description": "Introduction You will join the Safety Office team within the Experimental Physics Department, contributing to the definition and oversight of safety measures to support compliance of installations, activities, and projects with CERN Safety Rules and best practices. Functions Carry out risk assessments for installations and activities, recommend appropriate control measures and monitor on their implementation. Perform and coordinate safety inspections with subject matter experts. Support responsible teams in preparing, reviewing and maintaining safety documentation (e.g. technical descriptions, operation and maintenance procedures, etc.). Provide clear guidance and actionable advice to stakeholders on safety-related matters. Promote a proactive and sustainable Safety Culture through stakeholder engagement and safety awareness initiatives. Organise and contribute to regular safety meetings and collaborate with safety officers, technical experts, and other stakeholders. Analyse occupational incidents, prepare related reports, and follow up on the implementation of corrective actions.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000128687059-safety-engineer-for-the-physics-department-ep-di-so-2026-113-ld-?oga=true",
-    "status": "matched"
-  },
   "https://www.michaelpage.ch/job-detail/sp%C3%A9cialiste-middle-office-portfolio-management-1-mois/ref/jn-052026-7018018": {
     "external_url": "https://www.michaelpage.ch/job-detail/sp%C3%A9cialiste-middle-office-portfolio-management-1-mois/ref/jn-052026-7018018",
     "status": "ignored",
@@ -2296,53 +2286,49 @@
     ],
     "deducted_keywords": []
   },
-  "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-senior-scientist-bcqc-lengnau-berne-880270/1": {
-    "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-senior-scientist-bcqc-lengnau-berne-880270/1",
-    "status": "matched",
-    "title": "Senior Scientist BCQC(m/f/d)",
-    "company": "Hays Switzerland",
-    "location": "Lengnau, Berne, Switzerland",
+  "https://careers.ompharma.com/job/Meyrin-MSAT-Senior-Scientist-Geneva-Gene/1399891533/": {
+    "description": "We are recruiting a Manufacturing Science and Technology (MSAT) Senior Scientist at our headquarters and biotech production site in Geneva. Reporting to the Head of MSAT, as part of a team of five and working cross-functionally with a strong presence in the field (production zone), your mission encompasses the development, optimization and continuous improvement of drug product processes and formulations, with a particular focus on lyophilization, encapsulation, dry granulation and intranasal delivery technologies.\n\nYour main responsibilities are as follows:\n\nLead development and industrialization of new pharmaceutical products, from formulation and process design to scale-up and validation\n\nDefine development strategies including QTPP, risk assessments, technical requirements, timelines and budgets\n\nProvide expertise in galenics, formulation, pharmaceutical processes and technology transfer, including CDMO interactions when needed\n\nDrive optimization of existing manufacturing processes to improve performance, robustness and compliance\n\nAct as technical expert for troubleshooting, root cause analysis, CAPA implementation and continuous improvement initiatives\n\nDefine Critical Process Parameters (CPPs), Critical Quality Attributes (CQAs) and lead process risk assessments in cross-functional teams\n\nManage MSAT Pharma Laboratory activities (equipment qualification, stock management, laboratory support)\n\nPlan and execute development trials with internal stakeholders (Manufacturing, Quality, Validation, Regulatory CMC), ensuring robust documentation and data analysis\n\nEnsure full traceability and compliance of development activities in line with GxP requirements\n\nContribute to regulatory documentation (e.g. CTD modules) in collaboration with Regulatory CMC\n\nBusiness travel is required for this position for punctual topics (maximum 5% of working time).\n\nTo carry out this mission, we are looking for a person with the following profile:\n\nMaster’s degree in Pharmaceutical Sciences, Biotechnology or equivalent\n\nAt least 8 years of experience related to pharmaceutical process development, formulation development and industrial transposition, with strong expertise in galenics and pharmaceutics\n\nProven experience in project management in a cross-functional and GxP environment; experience with regulatory activities is an asset\n\nFluent in French with good English skills\n\nProficiency in MS Office, with experience using ERP systems (Sage X3 preferred)\n\n \n\nTo succeed in this role, we are looking for a hands-on, pragmatic and innovation-driven scientist, combining strong technical expertise with a solid business and production mindset. You demonstrate natural leadership, strong communication skills and the ability to collaborate effectively with diverse stakeholders. Entrepreneurial and creative, you continuously seek improvement opportunities and actively contribute to shaping better, more efficient processes. You are solution-oriented, structured, and committed to delivering high-quality results in a dynamic environment.\n\nAre you interested in this opportunity? Apply as soon as possible and join OM Pharma!\n\n \n\n \nAbout Us\n\nOM Pharma is a global Geneva-based biopharmaceutical company. It is a leader in the prevention of recurrent respiratory and urinary tract infections and is also active in the treatment of vascular diseases.\n\nIt operates worldwide through a strong network of international partners and invests its profits in R&D to develop microbial derived immunotherapeutic products to treat acute and chronic immunological disorders resulting from inflammation and infections. \n\nThe company strives to improve the quality of life of patients around the world by providing access to better treatment of immunological imbalances.\n\nFor more information, visit the website: ompharma.com.",
+    "external_url": "https://careers.ompharma.com/job/Meyrin-MSAT-Senior-Scientist-Geneva-Gene/1399891533/",
+    "status": "ignored",
+    "title": "MSAT Senior Scientist - Geneva",
+    "company": "OM Pharma",
+    "location": "Meyrin, Geneva, CH",
     "posted_date": "",
     "department": "",
-    "score": 0,
-    "matched_keywords": [],
-    "deducted_keywords": []
-  },
-  "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-analytical-project-leader-scientist-senior-scientist-basel-stadt-873611/1": {
-    "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-analytical-project-leader-scientist-senior-scientist-basel-stadt-873611/1",
-    "status": "matched",
-    "title": "Analytical Project Leader (Scientist / Senior Scientist)(m/f/d)",
-    "company": "Hays Switzerland",
-    "location": "Basel Stadt, Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": 0,
-    "matched_keywords": [],
-    "deducted_keywords": []
-  },
-  "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-vice-president-of-business-development-basel-land-873413/1": {
-    "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-vice-president-of-business-development-basel-land-873413/1",
-    "status": "matched",
-    "title": "Vice President of Business Development(m/f/d)",
-    "company": "Hays Switzerland",
-    "location": "Basel Land, Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": 0,
-    "matched_keywords": [],
-    "deducted_keywords": []
-  },
-  "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-scientist-lab-technician-assay-development-zug-873185/1": {
-    "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-scientist-lab-technician-assay-development-zug-873185/1",
-    "status": "matched",
-    "title": "Scientist Lab Technician Assay Development(m/f/d)",
-    "company": "Hays Switzerland",
-    "location": "Zug, Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": 1,
+    "score": 5,
     "matched_keywords": [
-      "assay development"
+      "French",
+      "location:geneva"
+    ],
+    "deducted_keywords": []
+  },
+  "https://jobdetails.nestle.com/job/Lausanne-Statistics-and-Data-Science-Specialist/1404979633/": {
+    "description": "Location: Lausanne, Switzerland\nWork model: Hybrid / Full time 100%\nContract type / duration: 12 month Limited Contract\n\nShape the future through scientific breakthroughs and innovation.\n\nAs a Statistics and Data Science Specialist at Nestlé Research, your mission is to apply advanced statistics and data science to accelerate scientific discovery and innovation across our product portfolio. You’ll make a difference by collaborating closely with food scientists, product developers, process engineers, sensory teams, and project teams. This is your opportunity to turn ideas into sustainable and innovative solutions for people, pets, and the planet.\n\nHow you’ll make an impact as a Statistics and Data Science Specialist\n\nDesigning robust lab and pilot experiments that generate reliable evidence and accelerate scientific progress.\n\nAnalysing complex experimental data to uncover actionable insights, quantify uncertainty, and strengthen decision-making.\n\nCollaborating across scientific and technical teams to refine hypotheses and integrate data-driven thinking into innovation projects.\n\nTranslating statistical outputs into clear recommendations that guide formulation, process, and product development choices.\n\nBuilding visualisations and models that make complex findings accessible to diverse stakeholders and project teams.\n\nDriving innovation by applying advanced analytics to support better products, smarter decisions, and faster learning cycles.\n\nWhat will make you successful\n\nBringing a Ph.D. or Master’s degree in Statistics, Applied Mathematics, or Data Science.\n\nApplying hands-on experience in mathematics-based data collection methodologies to generate robust experimental data.\n\nUsing hands-on expertise in statistical inference, statistical modelling techniques, optimization algorithms, and machine learning techniques to solve scientific challenges.\n\nBringing proficiency in Python programming, with knowledge of R as a plus, and proven experience in data-driven modelling for product design, particularly in food or related consumer products, as a plus.\n\nCommunicating fluently in English.\n\nBringing collaboration, fresh thinking, bold questions, respect, and a positive, wellbeing-oriented mindset.\n\nAt Nestlé Research, we place people at the core of everything we do.\n\nOur benefits are designed to support your growth and wellbeing, so you can thrive at work and in life:\n\nFlexible working options, including hybrid work possibilities (for office based roles)\n\nPaid holidays beyond legal requirements\n\nLearning and development opportunities to grow your career\n\nPerformance based bonus\n\nHealthcare contribution and access to the Employee Assistance Program\n\nStrong employer contribution to your pension plan\n\nGenerous parental leave and comprehensive family support solutions\n\nAttractive employee discounts across various products and services\n\nWhat to expect from our hiring process\n\nWe are committed to an inclusive and respectful hiring experience and are happy to provide reasonable accommodations if needed. Our workplaces are fully accessible and supported by a strong safety culture, with modern installations and procedures to ensure a safe environment for everyone.\n\nThe hiring process typically includes a video interview with Talent Acquisition, an interview with the hiring team, and a final discussion and offer. We review applications as they are received and close the role once a strong list of relevant candidates is identified, so we encourage you to apply early. All information is treated confidentially.\n\nReady to #BreakthroughTogether?\n\nApply now and shape the future through scientific breakthroughs and innovation.",
+    "external_url": "https://jobdetails.nestle.com/job/Lausanne-Statistics-and-Data-Science-Specialist/1404979633/",
+    "status": "matched",
+    "title": "Statistics and Data Science Specialist",
+    "company": "Nestlé",
+    "location": "Lausanne, CH",
+    "posted_date": "",
+    "department": "",
+    "score": 4,
+    "matched_keywords": [
+      "location:lausanne"
+    ],
+    "deducted_keywords": []
+  },
+  "https://jobdetails.nestle.com/job/Lausanne-Systems-Biology-and-Microbiome-Data-Science-Intern/1405586333/": {
+    "description": "Location: Lausanne, Switzerland\nWork model: On site\nContract type / duration: Internship – 6 months\nTarget start date: September 1, 2026\n\nDeadline for applications: July 2, 2026\n\n \n\nBe a force for good and transform your potential into something extraordinary.\n\nAs a Systems Biology and Microbiome Data Science Intern at Nestlé Research, Nestlé Institute of Health Sciences, your mission is to help transform complex scientific information into structured, usable data that supports microbiome research and innovation in human health. You will work closely with scientists and partners across Nestlé to identify relevant information from detailed reports and sample-based studies, bring together data from different sources, and make it ready for future analysis and decision-making. This is your opportunity to make an impact while gaining hands on experience and mentorship to kick-start your career.\n\nHow you’ll make an impact as a Systems Biology and Microbiome Data Science Intern\n\nDriving data mining and computational analysis of microbiome assays to uncover insights that support human health research.\n\nConducting literature reviews to identify scientific advancements and strengthen the foundation of ongoing research projects.\n\nBuilding on existing analyses to generate new biological understanding of microbiome and host interactions.\n\nPartnering with interdisciplinary experts to translate scientific questions into actionable research outputs.\n\nPresenting findings through reports and scientific communication to help shape future research directions.\n\nWhat will make you successful\n\nCurrent student or fresh graduate in computational science, systems biology, microbiology, biochemistry, biotechnology, or a related field.\n\nHaving confidence using programming tools such as R, Python, or similar technologies to explore and interpret complex scientific data.\n\nBeing curious about microbiome science, motivated by human health, and comfortable collaborating across disciplines and teams to turn ideas into insight.\n\nCommunicating fluently in English.\n\nDemonstrating courage, collaboration, speed and continuous learning.\n\nAt Nestlé Research, we place people at the heart of everything we do.\n\nOur benefits are designed to support your growth and wellbeing, so you can thrive at work and in life:\n\nFlexible working options, including hybrid work possibilities (for office-based roles)\n\nLearning and development opportunities to grow your career\n\nHealthcare contribution and access to the Employee Assistance Program\n\nAttractive employee discounts across various products and services\n\nWhat to expect from our hiring process\n\nWe are committed to an inclusive and respectful hiring experience and are happy to provide reasonable accommodations if needed. Our workplaces are fully accessible and supported by a strong safety culture, with modern installations and procedures to ensure a safe environment for everyone.\n\nThe hiring process typically includes a video interview with Talent Acquisition, an interview with the hiring team, and a final discussion and offer. We review applications as they are received and close the role once a strong list of relevant candidates is identified, so we encourage you to apply early. All information is treated confidentially.\n\nReady to start your career journey with us?\n\nApply now and transform your potential into something extraordinary.",
+    "external_url": "https://jobdetails.nestle.com/job/Lausanne-Systems-Biology-and-Microbiome-Data-Science-Intern/1405586333/",
+    "status": "matched",
+    "title": "Systems Biology and Microbiome Data Science Intern",
+    "company": "Nestlé",
+    "location": "Lausanne, CH",
+    "posted_date": "",
+    "department": "",
+    "score": 4,
+    "matched_keywords": [
+      "location:lausanne"
     ],
     "deducted_keywords": []
   }
