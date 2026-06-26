@@ -2486,5 +2486,19 @@
     "deducted_keywords": [
       "location:Switzerland"
     ]
+  },
+  "https://www.michaelpage.ch/job-detail/transformation-strategy-consultant-mf/ref/jn-062026-7049957": {
+    "external_url": "https://www.michaelpage.ch/job-detail/transformation-strategy-consultant-mf/ref/jn-062026-7049957",
+    "status": "matched",
+    "title": "Transformation & Strategy Consultant (M/F) - International Organization",
+    "company": "Michael Page Switzerland",
+    "location": "Switzerland",
+    "posted_date": "",
+    "department": "",
+    "score": -2,
+    "matched_keywords": [],
+    "deducted_keywords": [
+      "location:Switzerland"
+    ]
   }
 }
