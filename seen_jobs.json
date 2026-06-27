@@ -590,7 +590,8 @@
     "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Basel-City/Regulatory-Affairs-Manager-Senior-Manager--CMC_REQ-10079740-1": "ignored",
     "https://www.michaelpage.ch/job-detail/business-development-officer-6-month-contract/ref/jn-062026-7045477": "ignored",
     "https://jobs.smartrecruiters.com/Sobi/744000130749944-global-director-medical-affairs?oga=true": "ignored",
-    "https://jobs.smartrecruiters.com/Sobi/744000129677437-director-business-development-alliance-management?oga=true": "ignored"
+    "https://jobs.smartrecruiters.com/Sobi/744000129677437-director-business-development-alliance-management?oga=true": "ignored",
+    "https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Basel-Switzerland/R-D-Scientist---Scientific-Data-Analytics--d-f-m-_R1313206": "ignored"
   },
   "_generic:Hurdle Bio": {
     "keywords": "npp"
@@ -803,11 +804,6 @@
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000130394659": {
     "description": "Introduction:\nJoin the Resources Management Office in the CMS Collaboration Experimental Physics Department, in the EP-CMS-ORG section and provide a seamless service to the many scientists coming from all over the world.\nFunctions:\nMonitor the payment of cost-of-living allowances and subsistence for associated members of personnel and follow up the related budget allocations.\nCoordinate several matters related to contributions to the CMS collaboration, including the issuance of invoices for the full yearly budgets and liaison with representatives of Funding Agencies.\nProvide administrative support for the management; analyse and follow-up of financial matters related to orders, invoices and payments of various types.\nPrepare and maintain financial reports, web pages, shared files, and records to ensure accurate and up-to-date information.\nManage Project Associate and Experimental Associate contracts in compliance with CERN rules and procedures.\nProvide administrative support and guidance to all categories of members of personnel, including the organisation of their arrival and departure formalities.\nOrganise, schedule and coordinate meetings, events and related administrative activities.\nAssist in the preparation, monitoring, and follow-up of budgets requests and allocations, as well as Memoranda of Understanding and specific agreements with institutes joining the CMS collaboration.\nEnsure the correct application of CERN rules, regulations and administrative procedures in a variety of situations.\nAct as a back-up to the supervisor during period of absence.",
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000130394659-financial-support-officer-for-the-cms-experiment-ep-cms-org-2026-120-ld-?oga=true",
-    "status": "matched"
-  },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000130388349": {
-    "description": "The CERN ATLAS Team plays a major role in the construction of the future silicon ATLAS Inner Tracker (ITk). In particular, the CERN team focuses on the development of the Pixel Outer Barrel, including the design, prototyping and assembly of the support structures as well as the final detector integration and testing.\nAs a mechanical engineer in the CERN ATLAS Team, you will contribute to these activities, playing an active role in the assembly and quality control of the detector components. As part of your role, you will be responsible for the implementation and conduction of suitable quality assurance procedures and test benches to verify the performance of the final assemblies. In addition, you will take part in the engineering of the precision tooling required for the assembly and installation of detector components.\nYour responsibilities\nParticipating in the conception, detailed design, production, testing, and installation of detector components, assembly tooling, and test infrastructure for the ITk Pixel Outer Barrel.\nDeveloping, documenting, and implementing procedures for the assembly, testing, installation, and repair of detector components and sub-assemblies.\nManaging the procurement of materials, detector components, and tooling, including follow-up on acceptance and installation.\nContributing hands-on to the production and quality control of detector components, including OB local supports, global structures, cooling pipe extensions, and detector sub-assemblies (e.g. inclined units).\nMore information here.\nYour profile\nFamiliarity with the design of precision mechanical components and systems.\nInitial experience in the use of CAD software for 3D modelling (ideally CATIA V5), and in producing 2D technical drawings in accordance with relevant ISO standards for dimensioning and tolerancing.\nHands-on experience in the assembly and thermal and/or mechanical testing of prototypes.\nKnowledge of LabVIEW and hands-on experience in the operation of temperature forcing systems and/or CO2 cooling plants would be considered an asset.\nExperience with two-phase cooling systems would be considered an advantage.\nSkills\nA \"can-do\" attitude and a willingness to take part directly in the assembly and testing of unique detector components.\nA rigorous and organised approach to work, delivering high-quality results from the outset.\nAbility to work effectively as part of a team.\nFlexible approach to work, with the ability to adapt quickly to changing priorities and requirements.\nGood understanding of tracking detector mechanics would be considered an asset.\nPractical knowledge of adhesive bonding and composite materials would be advantageous.\nSpoken and written English, with a commitment to learn French.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nBy the application deadline, you have a maximum of two years of professional experience since graduation in Mechanical or Aerospace Engineering (or a related field) and your highest educational qualification is either a Bachelor's or Master's degree.\nYou have never had a CERN fellow or graduate contract before.\nApplicants without University degree are not eligible.\nApplicants with a PhD are not eligible.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000130388349--mechanical-engineer-atlas-itk-pixel-ep-atl-trk-2026-157-grae-?oga=true",
     "status": "matched"
   },
   "https://jobs.boehringer-ingelheim.com/job/Basel-Head-of-Medical-Affairs-IOMH-%28mfd%29-Swit/1391030633/": {
@@ -1378,7 +1374,7 @@
     "title": "Supervisor Flow Cytometry",
     "company": "Labcorp",
     "location": "CHE - Geneva - 7 rue Moise-Marcinhes",
-    "posted_date": "2026-06-05",
+    "posted_date": "2026-06-04",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -1411,7 +1407,7 @@
     "title": "Product Manager - Spatial Biology",
     "company": "Bio-Techne / Lunaphore",
     "location": "Tolochenaz, Switzerland",
-    "posted_date": "2026-06-09",
+    "posted_date": "2026-06-08",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -1433,7 +1429,7 @@
     "title": "Clinical Scientist in neurosciences",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-06-20",
+    "posted_date": "2026-06-19",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1449,7 +1445,7 @@
     "title": "Scientist, Pharmaceutical Development & Data Analytics _2 years temporary contract",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-06-11",
+    "posted_date": "2026-06-10",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1525,7 +1521,7 @@
     "title": "Global Medical Director, Evidence Generation Lead",
     "company": "Biogen",
     "location": "Baar, Switzerland",
-    "posted_date": "2026-06-18",
+    "posted_date": "2026-06-17",
     "department": "",
     "score": -2,
     "matched_keywords": [
@@ -1544,7 +1540,7 @@
     "title": "Senior Medical Director, Nephrology, Global Medical Affairs",
     "company": "Biogen",
     "location": "Baar, Switzerland",
-    "posted_date": "2026-06-18",
+    "posted_date": "2026-06-17",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -1562,7 +1558,7 @@
     "title": "Senior Scientist Process Development Drug Product 12 months fix-term contract 80-100%",
     "company": "Lonza",
     "location": "CH - Basel",
-    "posted_date": "2026-06-05",
+    "posted_date": "2026-06-04",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1577,7 +1573,7 @@
     "title": "Scientist, Technical Operations",
     "company": "CSL Behring / Vifor",
     "location": "EMEA, CH, Kanton Bern, Bern, CSL Behring",
-    "posted_date": "2026-06-19",
+    "posted_date": "2026-06-18",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1598,7 +1594,7 @@
     "title": "Clinical Sciences Trial Leader/Senior Clinical Sciences Trial Leader, Translational Medicine (Multiple Listings) 80-100%",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-06-08",
+    "posted_date": "2026-06-07",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -1644,7 +1640,7 @@
     "title": "International Medical Affairs Head, CRM",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-06-11",
+    "posted_date": "2026-06-10",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1666,7 +1662,7 @@
     "title": "Translational Medicine Expert – Dermatology, Associate Director",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-06-17",
+    "posted_date": "2026-06-16",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -1694,7 +1690,7 @@
     "title": "Global Program Regulatory Manager - Neuroscience",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-06-17",
+    "posted_date": "2026-06-16",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1709,7 +1705,7 @@
     "title": "Global Program Regulatory Manager - Neuroscience",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-06-17",
+    "posted_date": "2026-06-16",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1807,7 +1803,7 @@
     "title": "Director, Medical Affairs",
     "company": "Gilead Sciences",
     "location": "Switzerland - Zug",
-    "posted_date": "2026-06-23",
+    "posted_date": "2026-06-22",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1926,7 +1922,7 @@
     "title": "Director - Immunology Therapeutic Area Biomarker Lead (TABL)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-06-24",
+    "posted_date": "2026-06-23",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -1975,7 +1971,7 @@
     "title": "Senior AI/ML Data Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-06-24",
+    "posted_date": "2026-06-23",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1992,7 +1988,7 @@
     "title": "Senior Specialist Data Science, AI & Quantum",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-06-24",
+    "posted_date": "2026-06-23",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2073,7 +2069,7 @@
     "title": "International Medical Affairs Director, Neuroscience",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-06-25",
+    "posted_date": "2026-06-24",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -2090,7 +2086,7 @@
     "title": "Patent Attorney",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-06-25",
+    "posted_date": "2026-06-24",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -2207,7 +2203,7 @@
     "title": "Translational Medicine, Strategic Feasibility Expert-Associate Director",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "",
+    "posted_date": "2026-06-25",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -2244,7 +2240,7 @@
     "title": "Commercial Portfolio Head Region Europe",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "",
+    "posted_date": "2026-06-25",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -2304,7 +2300,7 @@
     "title": "Associate Director, Search & Evaluation (Immunology)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-06-27",
+    "posted_date": "",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2358,7 +2354,7 @@
     "title": "Research Scientist II or Senior Scientist I- Toxicology (80-100%) (Dual Level Posting)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-06-27",
+    "posted_date": "",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -2417,6 +2413,101 @@
     "score": 1,
     "matched_keywords": [
       "assay development"
+    ],
+    "deducted_keywords": []
+  },
+  "/job/Remote-Switzerland/Sr-Account-Director--Business-Development---RWE_R-01355580": {
+    "description": "Work ScheduleStandard (Mon-Fri)\n\nEnvironmental ConditionsOffice\n\nJob Description\n\nAs part of the Thermo Fisher Scientific team, you’ll discover meaningful work that makes a positive impact on a global scale. Join our colleagues in bringing our Mission to life every single day to enable our customers to make the world healthier, cleaner and safer. We provide our global teams with the resources needed to achieve individual career goals while helping to take science a step beyond by developing solutions for some of the world’s toughest challenges, like protecting the environment, making sure our food is safe or helping find cures for cancer.\n\nDESCRIPTION:\nJoin Thermo Fisher Scientific as a Lead Account Manager and contribute to growth through consultative sales of our clinical research and laboratory services. You'll collaborate with decision-makers at pharmaceutical and biotech companies to position PPD as their preferred provider while contributing to global health. Through professional relationship building and strategic account management, you'll help advance the delivery of life-changing therapies to patients worldwide. We offer a dynamic environment where you can apply our comprehensive portfolio of services spanning clinical trials, laboratory testing, and real-world evidence solutions.\n\nREQUIREMENTS:\n• Masters Degree plus 12 years of experience in pharmaceutical/biotech industry, with demonstrated success in meeting/exceeding targets\n• Preferred Fields of Study: life sciences, business, or related field\n• Additional relevant certifications beneficial\n• Valid driver's license and ability to travel independently\n• Strong scientific and technical knowledge of drug development, clinical trials, and laboratory services\n• Demonstrated ability to develop and maintain executive-level relationships with key decision makers\n• Excellence in consultative selling, proposal development, and contract negotiations\n• Strong presentation and communication skills for engaging diverse stakeholders\n• Experience with CRM systems and Microsoft Office suite\n• Proven ability to work independently while collaborating across matrix organizations\n• Strong project management and organizational skills\n• Strategic thinking and business knowledge to identify and develop opportunities\n• Ability to travel 25-50% of time for client meetings and business development\n• Fluent English required; additional language skills valuable",
+    "external_url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Switzerland/Sr-Account-Director--Business-Development---RWE_R-01355580",
+    "status": "ignored",
+    "title": "Sr Account Director, Business Development - RWE",
+    "company": "Thermo Fisher Scientific",
+    "location": "Remote, Switzerland",
+    "posted_date": "2026-06-01",
+    "department": "",
+    "score": 6,
+    "matched_keywords": [
+      "Masters degree",
+      "drug development",
+      "location:remote"
+    ],
+    "deducted_keywords": []
+  },
+  "/job/Lengnau-Switzerland/Senior-Scientist--Material-Qualification-and-Release--QC-GMP-_R-01349179": {
+    "description": "Work ScheduleStandard (Mon-Fri)\n\nEnvironmental ConditionsAdherence to all Good Manufacturing Practices (GMP) Safety Standards, Office\n\nJob Description\n\nAre you ready to make a meaningful impact in the world of science? Join Thermo Fisher Scientific as a Senior Scientist Material Management & Qualification within our Quality Control organization at our Lengnau site.\nIn this role, you will play a pivotal part in ensuring GMP compliance, material integrity, and operational excellence — directly contributing to our mission of enabling our customers to make the world healthier, cleaner, and safer.\n\nDiscover Impactful Work\nAs a Senior Scientist within Services & Support Quality Control, you will act as the subject matter expert for raw material qualification and release in a GMP-regulated manufacturing environment. You will ensure that materials meet regulatory requirements and remain in a continuous state of compliance.\nThis position requires strong technical expertise, regulatory knowledge, and the ability to lead complex quality topics across internal and external laboratories.\n\nKey Responsibilities:\nMaterial Qualification & Release\nIn charge of raw material qualification and supporting GMP documentation, including laboratory communication\nLead and execute material disposition activities\nCollaborate with QC laboratories to ensure compliant sampling, testing, and release of incoming raw materials.\n\nCompliance & Regulatory Readiness\nSupport OOS/OOT investigations, change control and deviation management, troubleshooting, and continuous improvement initiatives.\nAuthor, review, and maintain GMP-relevant documentation (SOPs, risk assessments, reports, protocols).\nConduct gap assessments and define/implement remediation measures to maintain inspection readiness.\nSME in the area of expertise during internal audits, customer audits, and regulatory inspections.\n\nOperational Excellence\nDrive efficiency improvements while maintaining the highest standards of compliance and product quality.\nSupport implementation and optimization of digital quality systems including SAP, TrackWise, LIMS, and document management systems.\nIdentify compliance risks proactively and recommend sustainable corrective and preventive actions\n\nWho We Are Looking For:\nEducation\nBachelor’s or Master’s degree in Chemistry, Biochemistry, Molecular Biology, Chemical Engineering, or a related scientific discipline.\nEquivalent professional experience in a GMP-regulated pharmaceutical or biopharmaceutical environment will be considered.\n\nExperience\nMinimum 5 years of experience in a GMP laboratory within the pharmaceutical or biopharmaceutical industry.\nDemonstrated expertise in raw material qualification and release within a GMP-regulated manufacturing environment.\nStrong working knowledge of health authority expectations and regulatory compliance.\nProficiency in technical English (written and spoken).\n\nSkills & Competencies\nStrong commitment to quality, compliance, and data integrity.\nStructured, risk-based mindset with high attention to detail.\nAbility to work independently while effectively collaborating cross-functionally.\nStrong analytical thinking and problem-solving capabilities.\nExcellent communication, organizational, and prioritization skills.\nInterest in digitalization and modernization of analytical systems and QC processes.\nContinuous learning mindset with motivation to further develop technical and regulatory expertise.",
+    "external_url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Lengnau-Switzerland/Senior-Scientist--Material-Qualification-and-Release--QC-GMP-_R-01349179",
+    "status": "ignored",
+    "title": "Senior Scientist Material Management & Qualification - Quality Control",
+    "company": "Thermo Fisher Scientific",
+    "location": "Lengnau, Switzerland",
+    "posted_date": "2026-06-02",
+    "department": "",
+    "score": -1,
+    "matched_keywords": [
+      "molecular biology"
+    ],
+    "deducted_keywords": [
+      "location:Lengnau, Switzerland"
+    ]
+  },
+  "/job/Lengnau-Switzerland/Senior-Scientist-microbiological-Quality-Control_R-01349188": {
+    "description": "Work ScheduleStandard (Mon-Fri)\n\nEnvironmental ConditionsAdherence to all Good Manufacturing Practices (GMP) Safety Standards\n\nJob Description\n\nAs part of the Thermo Fisher Scientific team, you’ll discover meaningful work that makes a positive impact on a global scale. Join our colleagues in bringing our Mission to life every single day to enable our customers to make the world healthier, cleaner and safer. We provide our global teams with the resources needed to achieve individual career goals while helping to take science a step beyond by developing solutions for some of the world’s toughest challenges, like protecting the environment, making sure our food is safe or helping find cures for cancer.\n\nLocation/Division Specific Information:\nThis position is part of the Microbiological Quality Control (MBQC) team from Thermo Fisher Scientific in Lengnau (CH), supporting GMP-regulated manufacturing operations. The role operates within a laboratory environment focused on ensuring microbiological quality and compliance of pharmaceutical products and processes.\n\nA Day in the Life:\n\nCoordinate and work on the transfer, development and validation of analytical methods including qualification of equipment needed for analysis.\n\nActively contribute to the GMP Inspection Readiness of QC to ensure the fully compliance of relevant Quality System and Procedural documents.\n\nActively contribute to the QC operational readiness managing projects (external and internal) and the assigned to ressources (including coordination of people daily tasks). Participates in the transfer, development and validation of analytical methods including qualification of equipment needed for analysis.\n\nResponsible for development, transfer and validation of analytical procedures professionally and according to timelines.\n\nEnsure ready to state activities in the MBQC lab.\n\nCollaboration in the solution of MBQC problematic and / or questions (quality problems, government inquiries, etc.).\n\nSupporting of laboratory employee during troubleshooting activities.\n\nEfficient communication: Informing the MBQC head in a timely manner regarding ongoing business activities, deviations, and problems within the team.\n\nResponsible for writing and revision of standard operating procedures (SOPs) and instructions (Wis) professionally and according to timelines.\n\nResponsible for SME review and approval of methods, plans, protocols and reports, gap assessments\n\nEducation & Experience:\n\nDegree (Master or higher) in the Microbiology or Life Science Area\n\nAt least 5 years experience in microbiological laboratories including experience in a regulated GMP environment.\n\nKnowledge, Abilities:\n\nExtensive knowledge of microbiological testing techniques (bioburden, endotoxin, qPCR) and laboratory best practices\n\nStrong knowledge of cGMP requirements, method validation/verification, and documentation standards (SOPs, WIs)\n\nAbility to troubleshoot microbiological issues, support investigations, and collaborate in cross-functional teams\n\nFluent English (written and spoken), German is a plus\n\nWhat We Offer:\n\nCompensation\n\nCompetitive Pay\n\nPerformance Related Bonus where eligible\n\nAnnual merit performance-based increase",
+    "external_url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Lengnau-Switzerland/Senior-Scientist-microbiological-Quality-Control_R-01349188",
+    "status": "ignored",
+    "title": "Senior Scientist microbiological Quality Control",
+    "company": "Thermo Fisher Scientific",
+    "location": "Lengnau, Switzerland",
+    "posted_date": "2026-06-09",
+    "department": "",
+    "score": -2,
+    "matched_keywords": [],
+    "deducted_keywords": [
+      "location:Lengnau, Switzerland"
+    ]
+  },
+  "/job/Lengnau-Switzerland/Scientist---QC-Lab-Systems---CSV--GMP-_R-01347540": {
+    "description": "Work ScheduleStandard (Mon-Fri)\n\nEnvironmental ConditionsAdherence to all Good Manufacturing Practices (GMP) Safety Standards, Laboratory Setting, Office, Some degree of PPE (Personal Protective Equipment) required (safety glasses, gowning, gloves, lab coat, ear plugs etc.)\n\nJob Description\n\nJoin Thermo Fisher Scientific at our Lengnau site as a Scientist – QC Lab Systems & CSV (GMP) in the Quality Control department. In this role, you will contribute to ensuring GMP compliance, data integrity, and operational excellence of electronic laboratory systems and analytical equipment. You will support the lifecycle management, validation, and continuous improvement of QC applications, directly contributing to reliable product quality and regulatory compliance.\n\nKey Responsibilities\nEnsure lifecycle management of QC applications (e.g., SM LIMS, Empower, LabX, Tiamo), including administration and first- and second-level support\nSupport qualification of analytical equipment, including Computerized System Validation (CSV) of electronic laboratory systems\nCoordinate activities between QC, QA, IT, and external vendors for system implementation, maintenance, and enhancements\nCreate, review, and maintain GxP lifecycle documentation to ensure compliance with regulatory requirements\nEnsure compliant storage, handling, and integrity of laboratory raw data\nSupport QC laboratories in deviation, change controls, and troubleshooting activities\nParticipate in gap assessments and support actions to ensure inspection and audit readiness; actively contribute during audits\nContribute to automation and digitalization initiatives, including implementation of automated data flows\nCollaborate with local and global teams to support continuous improvement (PPI) and system optimization\nEnsure adherence to cGMP, quality, and EHSS requirements\n\nQualifications\nBachelor’s or Master’s degree in Life Sciences (e.g., Chemistry, Biochemistry, Microbiology, Physics) or an IT/Automation background with experience in a GMP-regulated environment or similar education with experience in maintaining QC laboratory applications.\n\nExperience\nMinimum 3+ years of experience in a GMP-regulated laboratory or pharmaceutical environment. Hands-on experience with Computerized System Validation (CSV) and electronic laboratory systems is required. Experience with systems such as LIMS, Empower, Tiamo, LabXChromeleon, or similar platforms is advantageous. Basic knowledge of IT systems, databases is beneficial.\n\nSkills & Competencies\nStrong understanding of GMP, data integrity, and regulatory requirements for computerized systems\nStructured, detail-oriented, and risk-based approach to work\nAbility to work independently while collaborating across cross-functional teams\nStrong communication, organization, and prioritization skills\nCustomer-focused mindset with a proactive approach to problem solving\nInterest in digitalization, automation, and continuous improvement (PPI)\nFluency in technical English; German language skills are an advantage\n\nThermo Fisher Scientific is an equal opportunity employer and values diversity and inclusion in the workplace.",
+    "external_url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Lengnau-Switzerland/Scientist---QC-Lab-Systems---CSV--GMP-_R-01347540",
+    "status": "ignored",
+    "title": "Scientist – QC Lab Systems & CSV (GMP)",
+    "company": "Thermo Fisher Scientific",
+    "location": "Lengnau, Switzerland",
+    "posted_date": "2026-06-17",
+    "department": "",
+    "score": -2,
+    "matched_keywords": [],
+    "deducted_keywords": [
+      "location:Lengnau, Switzerland"
+    ]
+  },
+  "/job/Lengnau-Switzerland/Scientist-Microbiological-Quality-Control_R-01344554": {
+    "description": "Work ScheduleStandard (Mon-Fri)\n\nEnvironmental ConditionsAdherence to all Good Manufacturing Practices (GMP) Safety Standards\n\nJob Description\n\nAs part of the Thermo Fisher Scientific team, you’ll discover meaningful work that makes a positive impact on a global scale. Join our colleagues in bringing our Mission to life every single day to enable our customers to make the world healthier, cleaner and safer. We provide our global teams with the resources needed to achieve individual career goals while helping to take science a step beyond by developing solutions for some of the world’s toughest challenges, like protecting the environment, making sure our food is safe or helping find cures for cancer.\n\nDescription:\nJoin our team at Thermo Fisher Scientific as a Lead QC Technician, where you'll help make the world healthier, cleaner and safer. In this important role, you'll ensure quality standards are met through testing and inspection of products in a cGMP environment. You'll coordinate quality control activities, lead a team of QC technicians, and collaborate with cross-functional teams to maintain the highest quality standards. You'll perform analytical testing, document results, and support continuous improvement initiatives while mentoring team members.\n\nResponsibilities :\nResponsible for the organization of daily operations in the Microbiological QC (MBQC) laboratory and to maintain the laboratory operational (incl. maintenance of equipment).\nResponsible for the creation and revision of guidance documents such as SOPs/Wls and other related documents.\nSystem Matter Expert (SME) for Bioburden, Growth Promotion, Micro Identifications and Endotoxin testing method and related quality events.\nParticipates in the transfer, development and verification/validation of microbiological methods including qualification of equipment needed for analysis.\nTesting of final and intermediate products, in process samples, samples from cleaning validation, utilities and environmental monitoring samples as back up.\nSupports the GMP Inspection Readiness of QC to ensure the fully compliance of relevant Quality System and Procedural documents.\nSupports of the QC teams (MBQC and Service and Support) in the ordering of material, logistic of samples and inventory management of the QC labs.\nActs as Biosafety officer at the Thermo Fisher Scientific Lengnau site in accordance with the Swiss law (SAMV, ESV).\n\nRequirements:\nMinimum 4 years of experience in quality control within a regulated environment (pharmaceutical/medical device preferred)\nPreferred Fields of Study: Chemistry, Biology, or related scientific field\nDemonstrated proficiency with analytical testing equipment and techniques (HPLC, GC, spectrophotometry)\nStrong understanding of cGMP requirements and quality systems\nExperience with quality documentation and data review\nProven ability to lead and mentor others while maintaining quality standards\nExcellent attention to detail and organizational skills\nStrong verbal and written communication abilities\nProficiency with standard office software and LIMS systems\nAbility to work in cleanroom environments and follow gowning procedures\nPhysical ability to stand for extended periods, lift up to 25 lbs occasionally\nFlexibility to work various shifts as needed\nProblem-solving skills and ability to troubleshoot technical issues\nExperience writing and reviewing SOPs and technical documentation",
+    "external_url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Lengnau-Switzerland/Scientist-Microbiological-Quality-Control_R-01344554",
+    "status": "ignored",
+    "title": "Scientist Microbiological Quality Control",
+    "company": "Thermo Fisher Scientific",
+    "location": "Lengnau, Switzerland",
+    "posted_date": "2026-05-28",
+    "department": "",
+    "score": -2,
+    "matched_keywords": [],
+    "deducted_keywords": [
+      "location:Lengnau, Switzerland"
+    ]
+  },
+  "/job/Basel-Switzerland/R-D-Scientist---Scientific-Data-Analytics--d-f-m-_R1313206": {
+    "description": "Bring more to life.\n\nAre you ready to accelerate your potential and make a real difference within life sciences, diagnostics and biotechnology?\n\nAt Genedata, one of Danaher’s 15+ operating companies, our work saves lives—and we’re all united by a shared commitment to innovate for tangible impact.\nYou’ll thrive in a culture of belonging where you and your unique viewpoint matter. And by harnessing Danaher’s system of continuous improvement, you help turn ideas into impact – innovating at the speed of life.\n\nThe biopharmaceutical industry is undergoing a transformation, requiring advanced digitalization to adopt data- and AI-driven approaches and develop innovative therapies quicker. Genedata’s market-leading enterprise software fuels this transformation by enabling leading biopharma, biotech, and contract research as well as contract development and manufacturing organizations worldwide to automate processes and leverage data analytics and AI, so they can deliver breakthrough therapies to patients faster. Join us and help scientists around the world accelerate the pace of biopharma R&D.\n\nLearn about the Danaher Business System which makes everything possible.\n\nThe R&D Scientist – Scientific Data Analytics (d/f/m) is responsible for designing, prototyping, and implementing advanced scientific data analysis workflows that extend the capabilities of Genedata Screener® and Genedata Chromatics®, translating cutting-edge scientific concepts into robust enterprise software solutions. This role operates at the intersection of science, data analytics, and software engineering, supporting pharmaceutical scientists in data-driven decision-making.\n\nThis position reports to the Head of Science and is part of the Screener business unit located in Basel, Switzerland and will be an on-site role.\n\nIn this role, you will have the opportunity to:\n\nConceptualize, design, prototype, and implement scientific data analysis workflows for Genedata Screener®.\n\nTranslate advanced scientific methods into enterprise-grade software components and licensable modules.\n\nCollaborate in an agile/SCRUM environment with software engineers to deliver robust, production-ready solutions.\n\nEngage with pharmaceutical scientists to translate their requirements into automated data analysis workflows.\n\nAnalyze experimental life science data, perform feasibility studies, and ensure mathematical and statistical correctness of implemented methods.\n\nThe essential requirements of the job include:\n\nPhD in physics, biophysics, applied mathematics, data science, bioinformatics, or a related quantitative field.\n\nMultiple years of experience in scientific programming and workflow development.\n\nDemonstrated experience with life science data analysis (e.g., high-throughput screening, dose-response analysis, biophysical assays).\n\nProficiency in Python and scientific computing libraries (e.g., NumPy, SciPy, pandas).\n\nExperience delivering software solutions used by end users in a professional or enterprise setting.\n\nIt would be a plus if you also possess previous experience in:\n\nJava programming.\n\nWorking in agile/SCRUM development environments.\n\nIndustry background in pharmaceutical, biotech, or contract research organizations.\n\n#LI-KK1\nJoin our winning team today. Together, we’ll accelerate the real-life impact of tomorrow’s science and technology. We partner with customers across the globe to help them solve their most complex challenges, architecting solutions that bring the power of science to life.\n\nFor more information, visit www.danaher.com.",
+    "external_url": "https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Basel-Switzerland/R-D-Scientist---Scientific-Data-Analytics--d-f-m-_R1313206",
+    "status": "ignored",
+    "title": "R&D Scientist – Scientific Data Analytics (d/f/m)",
+    "company": "Danaher",
+    "location": "Basel, Switzerland",
+    "posted_date": "2026-06-23",
+    "department": "",
+    "score": 2,
+    "matched_keywords": [
+      "PhD",
+      "bioinformatics"
     ],
     "deducted_keywords": []
   }
