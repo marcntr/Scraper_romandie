@@ -1137,11 +1137,6 @@
     "external_url": "https://jobs.smartrecruiters.com/HUG/744000131415182-medecin-adjoint-ou-adjointe-au-sein-de-l-unite-d-orthopedie-et-traumatologie-pediatriques-80-?oga=true",
     "status": "matched"
   },
-  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000131379439": {
-    "description": "La Direction des blocs opératoires (DBO) fait face à de nombreux défis, notamment l’optimisation de l’organisation et la fluidité de l’ensemble de ses processus dans un environnement particulièrement complexe et contraint. Elle doit renforcer l’efficacité de la programmation opératoire et optimiser l’utilisation de ses ressources, tout en garantissant en permanence la qualité et la sécurité des soins, que ce soit en situation d’urgence ou en activité élective.\nVous contribuez à ces objectifs en étant intégré ou intégrée à la DBO sous la responsabilité fonctionnelle de son Directeur et sous la responsabilité hiérarchique de l’ingénieur flux sénior en poste au service de l’ingénierie des flux et des organisations (SIFO) rattaché à la direction des finances. A la demande du Directeur de la DBO, vous menez activement des projets majeurs d’analyse et d’optimisation en étroite coordination avec les équipes médico-soignantes et administratives en place et en vous appuyant sur les méthodologies d’ingénierie des flux validées par le SIFO.\nVous gérez un portefeuille d’analyses de flux patients et logistiques pour soutenir les projets institutionnels et optimiser l’organisation, les ressources et la qualité des processus. Vous réalisez des études, diagnostics et simulations à partir de données complexes, en mobilisant des méthodologies telles que Lean Six Sigma, DMAIC, process mining ou la simulation statistique.\nVous animez et coordonnez des groupes de travail pluridisciplinaires, définissez les missions, conduisez les analyses et garantissez l’atteinte des objectifs. Vous favorisez l’émergence de solutions innovantes, gérez les divergences et accompagnez les changements organisationnels induits par vos recommandations.\nVous conseillez les dirigeants sur les enjeux d’organisation, de performance et de gestion des risques. Vous présentez vos résultats aux instances de gouvernance et rédigez des rapports d’analyse structurés, permettant une prise de décision éclairée.\nVous préparez, modélisez et analysez les données nécessaires aux études de flux, en utilisant des outils tels qu’Excel, SQL, R, Python ou FlexSim. Vous accompagnez les équipes dans la mise en place de revues de performance, de pertinence et de pilotage à l’aide de tableaux de bord.\nVous formez et accompagnez les collaborateurs et collaboratrices aux méthodes d’analyse et d’optimisation des processus, et contribuez à diffuser une culture d’amélioration continue au sein de l’institution. Vous assurez enfin une veille stratégique et représentez l’ingénierie des flux lors de colloques ou partenariats externes.",
-    "external_url": "https://jobs.smartrecruiters.com/HUG/744000131379439-ingenieur-ou-ingenieure-flux-pour-la-direction-des-blocs-operatoires-100-?oga=true",
-    "status": "matched"
-  },
   "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000131378475": {
     "description": "Dans le cadre de vos activités, vous êtes rattaché ou rattaché à l’Unité de guidance petite enfance destinée à la prise en charge de petits (0-4 ans) et de leurs familles.\nVous travaillez au sein du foyer OBB et/ou de la maison Dora, des structures rattachées à l’Office de l’enfance et de la jeunesse, qui accueillent prioritairement des familles particulièrement vulnérables. Vous avez la possibilité d'offrir un accompagnement dans le développement des liens parent-enfant auprès des familles à haut risque psychosocial.\nVous effectuez des évaluations puis un accompagnement parent-bébé dans une collaboration étroite avec les équipes d’OBB ou de la maison Dora (équipe éducative de la FOJ) et celle du SPEA (équipe de liaison périnatale de l’unité Guidance petite enfance destinée à la prise en charge de petits (0-4 ans) et de leurs familles).\nEn tant que titulaire du poste, vous avez la charge de rencontrer aux HUG les familles susceptibles d’intégrer le foyer OBB ou la maison Dora. Au foyer OBB comme à la maison Dora, vous prenez en charge en collaboration avec l’équipe d’éducateurs, plusieurs dyades, triades ou familles dans le foyer ou au sein de la Maison de l’enfance et de l’adolescence lors de rendez-vous hebdomadaires. Vous êtes le ou la référente pédopsychologue des dyades ou familles accueillies (environ 10 familles à la maison OBB et 4 à la maison Dora). Vous soutenez et évaluez l’établissement des liens parent-bébé/enfant au cours des soins quotidiens (bain, change, repas, sommeil, interactions/jeux…) et les compétences du bébé/enfant ainsi que son développement en accompagnant ses parents dans la lecture, le décodage et les réponses à ses signaux.\nVous soutenez et accompagnez le parent selon son état psychique (dépression post-partum, trouble de la personnalité, trouble psychiatrique non-décompensé…).\nEn outre, vous soutenez et évaluez les compétences parentales en collaboration étroite avec l’équipe pluridisciplinaire du foyer OBB et de la maison Dora (psychomotricienne, psychiatre adulte, pédiatre, éducatrice, infirmière spécialisée, sage-femme, assistante sociale ainsi qu’avec l’équipe pédopsychiatrique de liaison périnatale du SPEA).\nUne participation est également demandée aux colloques d’équipe, aux supervisions, aux réseaux psycho-sociaux autour de la famille tant dans le cadre du foyer qu’aux HUG.\nEnfin, sur le plan administratif, vous vous chargez des notes de suite des observations quotidiennes de l’enfant et de la relation parent-bébé pour chaque famille dans le dossier HUG de l’enfant. Vous participez à l’élaboration et la rédaction de rapports ainsi qu'à la facturation.",
     "external_url": "https://jobs.smartrecruiters.com/HUG/744000131378475-psychologue-au-service-de-psychiatrie-de-l-enfant-et-de-l-adolescent-50-a-100-?oga=true",
@@ -1383,7 +1378,7 @@
     "title": "Supervisor Flow Cytometry",
     "company": "Labcorp",
     "location": "CHE - Geneva - 7 rue Moise-Marcinhes",
-    "posted_date": "2026-06-04",
+    "posted_date": "2026-06-05",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -1400,7 +1395,7 @@
     "title": "Flow Cytometry Analyst",
     "company": "Labcorp",
     "location": "CHE - Geneva - 7 rue Moise-Marcinhes",
-    "posted_date": "2026-05-27",
+    "posted_date": "2026-05-28",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -1416,7 +1411,7 @@
     "title": "Product Manager - Spatial Biology",
     "company": "Bio-Techne / Lunaphore",
     "location": "Tolochenaz, Switzerland",
-    "posted_date": "2026-06-08",
+    "posted_date": "2026-06-09",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -1438,7 +1433,7 @@
     "title": "Clinical Scientist in neurosciences",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-06-19",
+    "posted_date": "2026-06-20",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1454,7 +1449,7 @@
     "title": "Scientist, Pharmaceutical Development & Data Analytics _2 years temporary contract",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-06-10",
+    "posted_date": "2026-06-11",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1469,7 +1464,7 @@
     "title": "Technical Expert Portfolio Mgmt, Technical Feasibility and Planning",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-05-27",
+    "posted_date": "2026-05-28",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1487,7 +1482,7 @@
     "title": "Sr. Scientist - Computational Biology - Neuroscience & Rare Diseases",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-05-27",
+    "posted_date": "2026-05-28",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -1510,7 +1505,7 @@
     "title": "Discovery Scientists, in vitro and in vivo Pharmacology, in Cardiovascular & Metabolic Disease Research",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-05-27",
+    "posted_date": "2026-05-28",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -1530,7 +1525,7 @@
     "title": "Global Medical Director, Evidence Generation Lead",
     "company": "Biogen",
     "location": "Baar, Switzerland",
-    "posted_date": "2026-06-17",
+    "posted_date": "2026-06-18",
     "department": "",
     "score": -2,
     "matched_keywords": [
@@ -1549,7 +1544,7 @@
     "title": "Senior Medical Director, Nephrology, Global Medical Affairs",
     "company": "Biogen",
     "location": "Baar, Switzerland",
-    "posted_date": "2026-06-17",
+    "posted_date": "2026-06-18",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -1567,7 +1562,7 @@
     "title": "Senior Scientist Process Development Drug Product 12 months fix-term contract 80-100%",
     "company": "Lonza",
     "location": "CH - Basel",
-    "posted_date": "2026-06-04",
+    "posted_date": "2026-06-05",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1582,7 +1577,7 @@
     "title": "Scientist, Technical Operations",
     "company": "CSL Behring / Vifor",
     "location": "EMEA, CH, Kanton Bern, Bern, CSL Behring",
-    "posted_date": "2026-06-18",
+    "posted_date": "2026-06-19",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1603,7 +1598,7 @@
     "title": "Sr Account Director, Business Development - RWE",
     "company": "Thermo Fisher Scientific",
     "location": "Remote, Switzerland",
-    "posted_date": "2026-06-01",
+    "posted_date": "2026-06-02",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -1620,7 +1615,7 @@
     "title": "Senior Scientist Material Management & Qualification - Quality Control",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-06-02",
+    "posted_date": "2026-06-03",
     "department": "",
     "score": -1,
     "matched_keywords": [
@@ -1637,7 +1632,7 @@
     "title": "Senior Scientist microbiological Quality Control",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-06-09",
+    "posted_date": "2026-06-10",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -1652,7 +1647,7 @@
     "title": "Scientist Microbiological Quality Control",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-05-27",
+    "posted_date": "2026-05-28",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -1667,7 +1662,7 @@
     "title": "Scientist – QC Lab Systems & CSV (GMP)",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-06-17",
+    "posted_date": "2026-06-18",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -1682,7 +1677,7 @@
     "title": "Clinical Sciences Trial Leader/Senior Clinical Sciences Trial Leader, Translational Medicine (Multiple Listings) 80-100%",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-06-07",
+    "posted_date": "2026-06-08",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -1708,7 +1703,7 @@
     "title": "Medical Director, Gastroenterology, Early Clinical Development",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-05-27",
+    "posted_date": "2026-05-28",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -1728,7 +1723,7 @@
     "title": "International Medical Affairs Head, CRM",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-06-10",
+    "posted_date": "2026-06-11",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1750,7 +1745,7 @@
     "title": "Translational Medicine Expert – Dermatology, Associate Director",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-06-16",
+    "posted_date": "2026-06-17",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -1778,7 +1773,7 @@
     "title": "Global Program Regulatory Manager - Neuroscience",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-06-16",
+    "posted_date": "2026-06-17",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1793,7 +1788,7 @@
     "title": "Global Program Regulatory Manager - Neuroscience",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-06-16",
+    "posted_date": "2026-06-17",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1891,7 +1886,7 @@
     "title": "Director, Medical Affairs",
     "company": "Gilead Sciences",
     "location": "Switzerland - Zug",
-    "posted_date": "2026-06-22",
+    "posted_date": "2026-06-23",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2010,7 +2005,7 @@
     "title": "Director - Immunology Therapeutic Area Biomarker Lead (TABL)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-06-23",
+    "posted_date": "2026-06-24",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -2044,7 +2039,7 @@
     "title": "R&D Scientist – Scientific Data Analytics (d/f/m)",
     "company": "Danaher",
     "location": "Basel, Switzerland",
-    "posted_date": "2026-06-23",
+    "posted_date": "2026-06-24",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2075,7 +2070,7 @@
     "title": "Senior AI/ML Data Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-06-23",
+    "posted_date": "2026-06-24",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -2092,7 +2087,7 @@
     "title": "Senior Specialist Data Science, AI & Quantum",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-06-23",
+    "posted_date": "2026-06-24",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2173,7 +2168,7 @@
     "title": "International Medical Affairs Director, Neuroscience",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-06-24",
+    "posted_date": "2026-06-25",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -2190,7 +2185,7 @@
     "title": "Patent Attorney",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-06-24",
+    "posted_date": "2026-06-25",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -2404,7 +2399,7 @@
     "title": "Associate Director, Search & Evaluation (Immunology)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-06-26",
+    "posted_date": "2026-06-27",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2458,7 +2453,7 @@
     "title": "Research Scientist II or Senior Scientist I- Toxicology (80-100%) (Dual Level Posting)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-06-26",
+    "posted_date": "2026-06-27",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -2467,6 +2462,56 @@
       "bioinformatics",
       "in vitro",
       "molecular biology"
+    ],
+    "deducted_keywords": []
+  },
+  "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-senior-scientist-bcqc-lengnau-berne-880270/1": {
+    "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-senior-scientist-bcqc-lengnau-berne-880270/1",
+    "status": "matched",
+    "title": "Senior Scientist BCQC(m/f/d)",
+    "company": "Hays Switzerland",
+    "location": "Lengnau, Berne, Switzerland",
+    "posted_date": "",
+    "department": "",
+    "score": 0,
+    "matched_keywords": [],
+    "deducted_keywords": []
+  },
+  "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-analytical-project-leader-scientist-senior-scientist-basel-stadt-873611/1": {
+    "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-analytical-project-leader-scientist-senior-scientist-basel-stadt-873611/1",
+    "status": "matched",
+    "title": "Analytical Project Leader (Scientist / Senior Scientist)(m/f/d)",
+    "company": "Hays Switzerland",
+    "location": "Basel Stadt, Switzerland",
+    "posted_date": "",
+    "department": "",
+    "score": 0,
+    "matched_keywords": [],
+    "deducted_keywords": []
+  },
+  "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-vice-president-of-business-development-basel-land-873413/1": {
+    "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-vice-president-of-business-development-basel-land-873413/1",
+    "status": "matched",
+    "title": "Vice President of Business Development(m/f/d)",
+    "company": "Hays Switzerland",
+    "location": "Basel Land, Switzerland",
+    "posted_date": "",
+    "department": "",
+    "score": 0,
+    "matched_keywords": [],
+    "deducted_keywords": []
+  },
+  "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-scientist-lab-technician-assay-development-zug-873185/1": {
+    "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-scientist-lab-technician-assay-development-zug-873185/1",
+    "status": "matched",
+    "title": "Scientist Lab Technician Assay Development(m/f/d)",
+    "company": "Hays Switzerland",
+    "location": "Zug, Switzerland",
+    "posted_date": "",
+    "department": "",
+    "score": 1,
+    "matched_keywords": [
+      "assay development"
     ],
     "deducted_keywords": []
   }
