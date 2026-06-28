@@ -720,20 +720,6 @@
     "external_url": "https://jobs.smartrecruiters.com/Sobi/744000128222115-strategic-planning-manager-supply-chain?oga=true",
     "status": "matched"
   },
-  "https://www.michaelpage.ch/job-detail/sp%C3%A9cialiste-middle-office-portfolio-management-1-mois/ref/jn-052026-7018018": {
-    "external_url": "https://www.michaelpage.ch/job-detail/sp%C3%A9cialiste-middle-office-portfolio-management-1-mois/ref/jn-052026-7018018",
-    "status": "ignored",
-    "title": "Spécialiste Middle Office / Portfolio Management - Mission Temporaire",
-    "company": "Michael Page Switzerland",
-    "location": "Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": -2,
-    "matched_keywords": [],
-    "deducted_keywords": [
-      "location:Switzerland"
-    ]
-  },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000129096464": {
     "description": "Introduction: As a Python Software Engineer with a strong interest in both API development and desktop application engineering (with PyQt6), you will work on tools at the heart of CERN's accelerator complex, used daily across operations, engineering, and physics. This role spans the Python APIs that interface to the CERN control system, and the PyQt6-based desktop applications built on top of them. On the API side, you will develop frameworks, libraries, and bindings integrating tightly with backend control system services, with a strong emphasis on developer experience, robustness, and long-term maintenance. On the UI side, you will work on applications for operating, monitoring, and configuring accelerator systems, ensuring reliable, responsive, and effective user experiences. You will collaborate with colleagues across the organisation, contributing to design reviews, documentation, training, and technical support, while staying abreast of relevant emerging technologies and playing an active part in shaping the future of CERN's accelerator control system. Functions: Design and maintain Python bindings to the accelerator control system, using a range of technologies such as REST, gRPC, event-driven messaging (e.g. ZMQ), as well as bindings to existing C++ and Java libraries. Build reusable components, widgets, and libraries supporting control application development at CERN. Develop and maintain a number of PyQt-based control applications used in the CERN Control Centre. Contribute to the selection and configuration of a coherent DevOps toolchain for Python, covering dependency management, packaging, testing, CI/CD, and deployment monitoring. Collaborate with user communities to establish and document best practices for developing Python-based control applications. Contribute relevant developments back to the open source community. Take ownership of one or more key systems or tools, driving their evolution through active engagement with stakeholders and structured follow-through. Mentor junior engineers, sharing knowledge and supporting their growth as they contribute to the above areas.",
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000129096464-python-software-engineer-be-css-ide-2026-114-ld-?oga=true",
