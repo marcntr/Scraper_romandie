@@ -359,7 +359,7 @@
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-06-21"
+    "cached_at": "2026-06-29"
   },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000103064566": {
     "description": "Your responsibilities Join us in a place that can be hotter than the centre of the sun, and colder than the vacuum of space, at the very same time. This is the smartest way to learn more than you can imagine and see your work travel at the speed of light. Almost. This is the fastest way to give your career momentum. This is your Origin. Where your career begins. Take part! All our currently available projects are published individually on our career site here . If none of these opened projects match your profile and if you meet all eligibility criteria below, you can apply here spontaneously. Your profile may then be considered for unpublished projects or extra needs. Please note this is not mandatory nor a guarantee that you will be contacted by hiring managers for an interview. Eligibility criteria: You are a national of a CERN Member or Associate Member State . You have a maximum of two years of professional experience since graduation by the application deadline . Your highest educational qualification is a general secondary education diploma . You have never had a CERN fellow or graduate contract before. Applicants with a Bachelor’s, Master’s or PhD degree are not eligible.",
@@ -393,7 +393,7 @@
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-06-21"
+    "cached_at": "2026-06-29"
   },
   "_facets:alirahealth:AliraHealth": {
     "facets": {},
@@ -1084,11 +1084,6 @@
     "external_url": "https://jobs.smartrecruiters.com/HUG/744000132118550-technicien-ou-technicienne-en-analyses-biomedicales-aux-laboratoires-de-cytogenetique-hematologique-80-?oga=true",
     "status": "matched"
   },
-  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000132119157": {
-    "description": "Le Service d’anesthésiologie est un service transversal des HUG au cœur du plateau technique. Avec ses 6 unités médicales et une unité de recherche et d'innovation, sa mission vise à assurer le confort et la sécurité des patients et patientes au cours d'actes thérapeutiques ou diagnostiques, médicaux ou chirurgicaux, ainsi que lors des soins post- interventionnels, tout en veillant à la bonne prise en charge de la douleur.\nPlus grand centre de Suisse en nombres d’actes interventionnels assumés par année, le service d’anesthésiologie est à la pointe des progrès réalisés dans ce domaine. Le service pourvoit également l’enseignement pré, post-gradué et continu des infirmiers et infirmières et médecins en formation spécialisée.\nLe service de prestations, l’anesthésiologie intervient également dans le domaine de l’antalgie interventionnelle et dans des situations d’urgences vitales intra-hospitalières ou pré- hospitalières aux côtés du service des urgences.",
-    "external_url": "https://jobs.smartrecruiters.com/HUG/744000132119157-commis-ou-commise-administrative-80-?oga=true",
-    "status": "matched"
-  },
   "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000131896859": {
     "description": "Vous souhaitez évoluer au sein de l’institution médicale universitaire de référence du canton ? Force de proposition, vous avez envie de contribuer aux projets d’une grande institution telle que les HUG et vous vous reconnaissez dans nos valeurs institutionnelles (respect, esprit d’équipe, reconnaissance, confiance, égalité et inclusion).\nVous supervisez et assurez des prestations médicales de qualité, sous la supervision de la hiérarchie médicale, d'une unité de soins au sein du département de réadaptation et gériatrie.\nVous coordonnez les activités pratiques, les interventions cliniques ou thérapeutiques sur le plan clinique mais aussi administratif et organisationnel.\nVous participez à la formation des médecins stagiaires et avez la possibilité de bénéficier d'une formation post-graduée de qualité contribuant à l'obtention du titre de spécialiste en médecine interne et générale (service de médecine interne générale de catégorie B), l'obtention du titre de spécialiste en gériatrie (service de gériatrie de catégorie A), l'obtention du titre de spécialiste en médecine physique et de réadaptation.\nDe plus, vous contribuez à une mission noble et d'utilité majeure pour la société actuelle et bénéficiez d'un cadre de formation diversifié au sein du département. Une équipe pluridisciplinaire et hautement qualifiée vous accompagnera.\nL'épanouissement de nos collaborateurs et collaboratrices dans leur mission est une valeur importante pour nous avec un parcours de carrière personnalisé et plusieurs perspectives d'évolution au sein de l'institution.",
     "external_url": "https://jobs.smartrecruiters.com/HUG/744000131896859-medecin-interne-au-departement-de-readaptation-et-geriatrie-100-?oga=true",
@@ -1355,7 +1350,7 @@
     "title": "Supervisor Flow Cytometry",
     "company": "Labcorp",
     "location": "CHE - Geneva - 7 rue Moise-Marcinhes",
-    "posted_date": "2026-06-04",
+    "posted_date": "2026-06-05",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -1372,7 +1367,7 @@
     "title": "Flow Cytometry Analyst",
     "company": "Labcorp",
     "location": "CHE - Geneva - 7 rue Moise-Marcinhes",
-    "posted_date": "2026-05-29",
+    "posted_date": "2026-05-30",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -1388,7 +1383,7 @@
     "title": "Product Manager - Spatial Biology",
     "company": "Bio-Techne / Lunaphore",
     "location": "Tolochenaz, Switzerland",
-    "posted_date": "2026-06-08",
+    "posted_date": "2026-06-09",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -1410,7 +1405,7 @@
     "title": "Clinical Scientist in neurosciences",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-06-19",
+    "posted_date": "2026-06-20",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1426,7 +1421,7 @@
     "title": "Scientist, Pharmaceutical Development & Data Analytics _2 years temporary contract",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-06-10",
+    "posted_date": "2026-06-11",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1441,7 +1436,7 @@
     "title": "Technical Expert Portfolio Mgmt, Technical Feasibility and Planning",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-05-29",
+    "posted_date": "2026-05-30",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1459,7 +1454,7 @@
     "title": "Sr. Scientist - Computational Biology - Neuroscience & Rare Diseases",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-05-29",
+    "posted_date": "2026-05-30",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -1482,7 +1477,7 @@
     "title": "Discovery Scientists, in vitro and in vivo Pharmacology, in Cardiovascular & Metabolic Disease Research",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-05-29",
+    "posted_date": "2026-05-30",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -1502,7 +1497,7 @@
     "title": "Global Medical Director, Evidence Generation Lead",
     "company": "Biogen",
     "location": "Baar, Switzerland",
-    "posted_date": "2026-06-17",
+    "posted_date": "2026-06-18",
     "department": "",
     "score": -2,
     "matched_keywords": [
@@ -1521,7 +1516,7 @@
     "title": "Senior Medical Director, Nephrology, Global Medical Affairs",
     "company": "Biogen",
     "location": "Baar, Switzerland",
-    "posted_date": "2026-06-17",
+    "posted_date": "2026-06-18",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -1539,7 +1534,7 @@
     "title": "Senior Scientist Process Development Drug Product 12 months fix-term contract 80-100%",
     "company": "Lonza",
     "location": "CH - Basel",
-    "posted_date": "2026-06-04",
+    "posted_date": "2026-06-05",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1554,7 +1549,7 @@
     "title": "Scientist, Technical Operations",
     "company": "CSL Behring / Vifor",
     "location": "EMEA, CH, Kanton Bern, Bern, CSL Behring",
-    "posted_date": "2026-06-18",
+    "posted_date": "2026-06-19",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1575,7 +1570,7 @@
     "title": "Clinical Sciences Trial Leader/Senior Clinical Sciences Trial Leader, Translational Medicine (Multiple Listings) 80-100%",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-06-07",
+    "posted_date": "2026-06-08",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -1601,7 +1596,7 @@
     "title": "Medical Director, Gastroenterology, Early Clinical Development",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-05-29",
+    "posted_date": "2026-05-30",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -1621,7 +1616,7 @@
     "title": "International Medical Affairs Head, CRM",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-06-10",
+    "posted_date": "2026-06-11",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1643,7 +1638,7 @@
     "title": "Translational Medicine Expert – Dermatology, Associate Director",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-06-16",
+    "posted_date": "2026-06-17",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -1671,7 +1666,7 @@
     "title": "Global Program Regulatory Manager - Neuroscience",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-06-16",
+    "posted_date": "2026-06-17",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1686,7 +1681,7 @@
     "title": "Global Program Regulatory Manager - Neuroscience",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-06-16",
+    "posted_date": "2026-06-17",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1776,21 +1771,6 @@
     "description": "Au sein du Centre de l’innovation, vous participez au déploiement et à la promotion des plateformes numériques Concerto et Mon Espace PRO auprès des professionnels et professionnelles de santé, des collaborateurs et collaboratrices des HUG ainsi que des patientes et patients. \nEncadré par les cheffes de projet Mon Espace PRO et Concerto, vous apportez un soutien aux activités administratives, organisationnelles et opérationnelles liées au développement des plateformes. \nDans le cadre de vos missions, vous réalisez les activités suivantes :\nVous accueillez, informez, orientez et accompagnez les utilisateurs et utilisatrices de Concerto et Mon Espace PRO, en présentiel ou à distance, afin de faciliter leur prise en main des plateformes et leur accès aux services numériques.\nVous assurez un premier niveau de support aux patients et patientes, aux professionnelles et professionnels de santé et aux autres utilisateurs et utilisatrices, notamment pour la connexion, l’authentification, la vérification d’identité et l’utilisation des différentes fonctionnalités des outils numériques.\nVous présentez la plateforme Concerto aux patients hospitalisés et ambulatoires, afin de promouvoir ses usages et pour les accompagner dans la complétion des formulaires et questionnaires cliniques numériques (PROMs).\nVous maintenez un contact régulier avec les utilisateurs afin de favoriser l’adoption des solutions digitales, recueillir leurs besoins et contribuer à l’amélioration continue de leur expérience.\nVous participez à l’organisation et à l’animation de formations, ateliers, démonstrations et actions de sensibilisation destinés aux patients et patientes, aux soignants et aux autres équipes autour de Concerto, Mon Espace PRO et des outils numériques associés.\nVous contribuez à la promotion des plateformes numériques lors d’événements internes et externes et vous soutenez la diffusion des bonnes pratiques liées à leur utilisation.\nVous collaborez avec les équipes soignantes, les responsables de projet et les équipes métiers afin d’identifier les besoins des utilisateurs et utilisatrices, de recueillir leurs retours et de participer à l’évolution des services numériques.\nVous soutenez la création, la mise à jour et la diffusion de supports de communication, de guides pratiques et de matériel d’accompagnement destinés aux utilisatrices et utilisateurs.\nVous assurez le suivi des demandes reçues par téléphone, courriel ou lors des permanences, ainsi que diverses tâches administratives en lien avec les activités du Centre de l’innovation.\nVous déployez et mettez à disposition des iPads auprès des patientes et patients isolés afin de favoriser le maintien du lien avec leurs proches durant leur hospitalisation.\nL’affectation peut comprendre des déplacements ponctuels au sein des institutions partenaires du réseau de soins genevois (EMS, cliniques, cabinets médicaux ou services de soins à domicile).\nCette mission vous permet de découvrir les enjeux de la santé numérique, de l’innovation hospitalière et de la gestion de projets dans un environnement universitaire dynamique.",
     "external_url": "https://jobs.smartrecruiters.com/HUG/744000133311639-service-civil-affectation-au-centre-de-l-innovation-100-?oga=true",
     "status": "matched"
-  },
-  "/job/Switzerland---Zug/Director--Medical-Affairs_R0051289-1": {
-    "description": "At Gilead, we’re creating a healthier world for all people. For more than 35 years, we’ve tackled diseases such as HIV, viral hepatitis, COVID-19 and cancer – working relentlessly to develop therapies that help improve lives and to ensure access to these therapies across the globe. We continue to fight against the world’s biggest health challenges, and our mission requires collaboration, determination and a relentless drive to make a difference.\n \nEvery member of Gilead’s team plays a critical role in the discovery and development of life-changing scientific innovations. Our employees are our greatest asset as we work to achieve our bold ambitions, and we’re looking for the next wave of passionate and ambitious people ready to make a direct impact.\n \nWe believe every employee deserves a great leader. People Leaders are the cornerstone to the employee experience at Gilead and Kite. As a people leader now or in the future, you are the key driver in evolving our culture and creating an environment where every employee feels included, developed and empowered to fulfil their aspirations. Join Gilead and help create possible, together.\n\nJob Description\n \nThe Country Medical Director (CMD) has office-based responsibilities combined with in-field  coaching activities as well as key stakeholders’ engagement activities when necessary. This role has oversight the Country Medical Affairs strategic plans and follow-up through its cross-functional execution with a focus on performance and stakeholders’ engagement. The incumbent will lead a team of medical leads.  It reports directly to the Executive Midsize Markets Medical Director.\n\nThe CMD is responsible for ensuring Gilead’s medical affairs activities comply with pharmaceutical regulations and laws and providing expertise on drug safety and medical topics, and to ensure accuracy of data to support existing products commercialization or new product launches.\nAs a member of the Country Leadership team the CMD will contribute to deliver the country budget and OPEX in addition to provide strategic leadership of the country organization\n\nDedicates a significant percentage of time to develop and follow on the execution of the Medical Affairs strategic plan. Field activities include team coaching and stakeholders’ engagement to establish strategic relationship with opinion leaders, payers, clinical investigators, providers at academic and non-academic settings and relevant non-governmental organizations\n\nThrough the team the CMD is responsible for:\n\nEstablishing and maintaining appropriate scientific interactions with TA experts/opinion leaders (OLs). Maintains a country OL (opinion leaders) list and updates it twice yearly.  \n\nDriving discussions and projects with the aim to integrate scientific data in clinical decision making for the benefit of patients\n\nIdentification and collaboration with local experts on local data generation activities\n\nAssisting with pipeline activities and liaises with Clin Ops. May assist site selection for both Phase IV and other clinical trials. Works on Gilead Phase IV program that includes collaboration with investigators and internal Gilead personnel. medical engagement plan for participation in scientific conferences and for the discussion of key scientific data with HCPs/stakeholders\n\nEngaging health care providers in one-on-one scientific interactions, supports medical responses by having scientific discussions or attending medical meetings and provides scientific data to opinion leaders. \n\nResponding to medical information inquiries on marketed or developmental Gilead products.\n\nGenerating and communicating insights as a result of field interactions: identification of data gaps; customer needs and wants; patients’ needs and wants and knowledge gaps.\n\nAssisting physician driven compassionate use or early access requests for Gilead products.\n\nThe CMD may represent the company to various groups of experts, medical professional groups, scientific societies, regulatory, payer groups or patient organizations at local and international scientific meetings (examples may include presentation of key scientific data to payers and clinical guideline committees)\n\nResponsibilities\n\nOversight the development and the execution of the medical plan of action (POA) in line with global strategic planning and contributes to the local affiliate brand/ cross-functional POA. Develops and executes projects and tactics according to the national strategic plan.\n\nOversight the medical affairs team quantitative and qualitative performance \n\nCoach and support the development of the team competencies and capabilities\n\nOversight the Review and approval of the medical content of Gilead organized medical education events and promotional and non-promotional activities of the TA.  Gives input in promotional material. Ensures appropriate medical quality of promotional materials and activities within approval process. \n\nWorking collaboratively and cross-functionally with Gilead personnel from all relevant local and global functions\n\nClose collaboration with the regional and global medical team. Active participation in relevant medical meetings and teleconferences.\n\nParticipation in required training initiatives that includes therapeutic area training as well as internal trainings on standard operating procedures and regulations\n\nSupporting the development of local clinical data through clinical trials, investigator sponsored research (ISRs) and local sponsored studies (LSS).\n\nScientific input in HTA (Health Technology Assessment) dossiers and payer negotiations\n\nDesigning and implementing Gilead medical education events on relevant therapeutic areas and medicine. \n\nAnalysing trial data and providing interpretation to marketing and sales departments.\n\nRequirements\n\nProfessional Training\n\n  Degree in Medicine is required\n\nExperience\n\nRelevant experience must include in pharmaceutical industry. This must include significant experience in a country affiliate.\n\nProven experience of people management\n\nExperience within therapeutic area of interest is desirable\n\nSkills & Knowledge\n\nBusiness and scientific acumen\n\nPeople management and leadership\n\nGrowth mindset and proven track record in performance management\n\nHigh willingness for continuous training and personal development\n\nTeam worker showing high social skills including conflict management\n\nProven ability to support cross functional teams in a medical role.\n\nExcellent verbal, written and interpersonal communication skills including active listening\n\nStrategic thinking and open mindset\n\nAbility to build and maintain sound relationships with external and internal stakeholders\n\nAbility of transferring complex scientific/medical data into understandable medical communication and education\n\nKnowledge and adherence to external and company-related regulations\n\nExcellent communication, presentation and negotiation skills are required along with the ability to provide clear and concise analysis of quantitative and qualitative concepts\n\nGood negotiation skills\n\nKnowledge in project management\n\nIn-depth knowledge of the respective therapeutic area, the national healthcare system and the medical environment\n\nBusiness fluency in English and one of the local languages\n\nComputer literacy\n\nHigh willingness to travel\n\n \nEqual Employment Opportunity (EEO)\nIt is the policy of Gilead Sciences, Inc. and its subsidiaries and affiliates (collectively \"Gilead\" or the \"Company\") to recruit select and employ the most qualified persons available for positions throughout the Company.  Except if otherwise provided by applicable law, all  employment actions relating to issues such as compensation, benefits, transfers, layoffs, returns from layoffs, company-sponsored training, education assistance, social and recreational programs are administered on a non-discriminatory basis (i.e. without regard to protected characteristics or prohibited grounds, which may include an individual’s gender, race, co",
-    "external_url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/Switzerland---Zug/Director--Medical-Affairs_R0051289-1",
-    "status": "ignored",
-    "title": "Director, Medical Affairs",
-    "company": "Gilead Sciences",
-    "location": "Switzerland - Zug",
-    "posted_date": "2026-06-22",
-    "department": "",
-    "score": 1,
-    "matched_keywords": [
-      "medical affairs"
-    ],
-    "deducted_keywords": []
   },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000133510249": {
     "description": "Introduction:\nAs Mechanical Technician you will contribute to the upgrade project of the electromagnetic calorimeter (ECAL) of the CMS detector at LHC covering a large panel of activities and responsibilities, from mechanical works, handling and assembly of detector parts, logistic activities. You will work in close collaboration with all ECAL collaborators and CMS technical team.\nFunctions:\nProvide mechanical support for all the ECAL activities.\nEnsure the safe handling of very fragile ECAL detector Supermodules during extraction, insertion and refurbishment .\nCoordinate the logistics of materials and equipment required for ECAL detector refurbishment activities.\nServe as the technical contact person between CMS experiment site and ECAL refurbishment team.\nProvide technical support for detector maintenance activities, including cooling systems, mechatronic equipment, and instrumentation set-ups.",
@@ -1903,7 +1883,7 @@
     "title": "Director - Immunology Therapeutic Area Biomarker Lead (TABL)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-06-23",
+    "posted_date": "2026-06-24",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -1952,7 +1932,7 @@
     "title": "Senior AI/ML Data Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-06-23",
+    "posted_date": "2026-06-24",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1969,7 +1949,7 @@
     "title": "Senior Specialist Data Science, AI & Quantum",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-06-23",
+    "posted_date": "2026-06-24",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2050,7 +2030,7 @@
     "title": "International Medical Affairs Director, Neuroscience",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-06-24",
+    "posted_date": "2026-06-25",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -2067,7 +2047,7 @@
     "title": "Patent Attorney",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-06-24",
+    "posted_date": "2026-06-25",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -2184,7 +2164,7 @@
     "title": "Translational Medicine, Strategic Feasibility Expert-Associate Director",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-06-25",
+    "posted_date": "2026-06-26",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -2221,7 +2201,7 @@
     "title": "Commercial Portfolio Head Region Europe",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-06-25",
+    "posted_date": "2026-06-26",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -2281,7 +2261,7 @@
     "title": "Associate Director, Search & Evaluation (Immunology)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-06-26",
+    "posted_date": "2026-06-27",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2335,7 +2315,7 @@
     "title": "Research Scientist II or Senior Scientist I- Toxicology (80-100%) (Dual Level Posting)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-06-26",
+    "posted_date": "2026-06-27",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -2354,7 +2334,7 @@
     "title": "Sr Account Director, Business Development - RWE",
     "company": "Thermo Fisher Scientific",
     "location": "Remote, Switzerland",
-    "posted_date": "2026-06-01",
+    "posted_date": "2026-06-02",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -2371,7 +2351,7 @@
     "title": "Senior Scientist Material Management & Qualification - Quality Control",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-06-02",
+    "posted_date": "2026-06-03",
     "department": "",
     "score": -1,
     "matched_keywords": [
@@ -2388,7 +2368,7 @@
     "title": "Senior Scientist microbiological Quality Control",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-06-09",
+    "posted_date": "2026-06-10",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -2403,7 +2383,7 @@
     "title": "Scientist – QC Lab Systems & CSV (GMP)",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-06-17",
+    "posted_date": "2026-06-18",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -2418,7 +2398,7 @@
     "title": "Scientist Microbiological Quality Control",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-05-29",
+    "posted_date": "2026-05-30",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -2433,7 +2413,7 @@
     "title": "R&D Scientist – Scientific Data Analytics (d/f/m)",
     "company": "Danaher",
     "location": "Basel, Switzerland",
-    "posted_date": "2026-06-23",
+    "posted_date": "2026-06-24",
     "department": "",
     "score": 2,
     "matched_keywords": [
