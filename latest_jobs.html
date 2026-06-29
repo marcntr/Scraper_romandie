@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Job Dashboard — 2026-06-29 14:59</title>
+<title>Job Dashboard — 2026-06-29 19:17</title>
 <style>
 /* ── Reset & base ── */
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
@@ -537,7 +537,7 @@ a { color: inherit; text-decoration: none; }
 
 <div class="header">
   <h1>Biopharma Job Dashboard</h1>
-  <div class="subtitle">Run: 2026-06-29 14:59</div>
+  <div class="subtitle">Run: 2026-06-29 19:17</div>
 </div>
 
 <button class="sync-btn" onclick="openSyncModal()">
@@ -564,11 +564,11 @@ a { color: inherit; text-decoration: none; }
 
 <div class="tab-bar">
   <button id="tab-btn-matched" class="tab-btn active" onclick="showTab(this,'matched')">Matched Jobs (12)</button>
-  <button id="tab-btn-ignored" class="tab-btn" onclick="showTab(this,'ignored')">Ignored (50)</button>
+  <button id="tab-btn-ignored" class="tab-btn" onclick="showTab(this,'ignored')">Ignored (55)</button>
   <button id="tab-btn-applied" class="tab-btn" onclick="showTab(this,'applied')">Applied (2)</button>
-  <button class="tab-btn" onclick="showTab(this,'alerts')">Alerts (1)</button>
+  
   <button class="tab-btn" onclick="showTab(this,'companies')">Companies (164)</button>
-  <button class="tab-btn" onclick="showTab(this,'screening')">Screening (96)</button>
+  <button class="tab-btn" onclick="showTab(this,'screening')">Screening (98)</button>
 </div>
 
 <div class="content">
@@ -582,6 +582,52 @@ a { color: inherit; text-decoration: none; }
     <div id="job-list">
       
 <div class="job-card"
+     data-company="Debiopharm"
+     data-score="7"
+     data-date="2026-06-29"
+     data-location="romandie"
+     data-url="https://apply.workable.com/debiopharm/j/717B7C1897/"
+     data-status="matched"
+     data-text="t2608 - personalised medicine intern debiopharm molecular biology location:lausanne phd oncology">
+  <div class="card-header">
+    <div class="card-left">
+      <span class="score-badge score-green">+7</span>
+      <span class="new-badge">New</span>
+      <span class="job-title">T2608 - Personalised Medicine Intern</span>
+    </div>
+    <a class="open-link" href="https://apply.workable.com/debiopharm/j/717B7C1897/" target="_blank" rel="noopener">Open ↗</a>
+  </div>
+  <div class="card-meta">
+    <span class="company">Debiopharm</span>
+    <span class="location">📍 Lausanne, Vaud, Switzerland / Lausanne, Vaud, Switzerland</span>
+    <span class="tag tag-romandie">Romandie</span>
+    <span class="posted">Posted 2026-06-29</span>
+  </div>
+  <div class="card-keywords">
+    <span class="kw-label kw-plus">+</span><span class="kw-text">molecular biology  location:lausanne  PhD  oncology</span>
+    &nbsp;&nbsp;
+    <span class="kw-label kw-minus">−</span><span class="kw-text">(none)</span>
+  </div>
+  <div class="card-desc">
+    <button class="toggle-btn" onclick="toggleDesc(this,0)">▸ Description</button>
+    <div id="desc-more-0" class="desc-structured" hidden><div class="desc-sec"><p class="desc-para">Join us at the cutting edge of oncology innovation. In this role, you will immerse yourself in the exciting and innovative field of liquid-biopsy based biomarker investigation in oncology with direct application to our internal project’s portfolio.
+Liquid biopsies represent a major advance in the molecular diagnostic space and are increasingly used in clinical trials. By replacing invasive tissue biopsies with minimally invasive blood sampling, They facilitate patient recruitment, enable earlier assessment of treatment response, and improve  identification of appropriate patient populations. In addition, they provide valuable insight into disease biology  and support the development of predictive and prognostic biomarkers. Debiopharm is now expanding the implementation of these technologies across our portfolio.
+As an intern in the Personalised Medicine team, part of the Translation Medicine Team, you will participate in fore-front clinical investigations, contribute directly to patient-centric clinical trials design and help shape the future of targeted oncology therapies.
+Working under the guidance and mentorship of an Associate Principal Scientist, your core responsibilities will be but not limited to:
+perform advanced data analyses on liquid biopsy sequencing results and propose additional investigations
+drive the integration of liquid biopsy approaches within the context of our portfolio, provide input into the clinical trial protocols
+support internal advocacy for the adoption of liquid biopsy technologies within project teams and management
+support the definition and implementation of biomarker strategies where liquid biopsy data are critical</p></div>
+<div class="desc-sec"><div class="desc-sh">Requirements</div><ul class="desc-list"><li>PhD in Life sciences, molecular biology, genetics, or a related discipline</li><li>Experience in large datasets analysis</li><li>Comfortable with using basic bioinformatic tools</li><li>Previous experience with molecular diagnostic assays is an asset</li><li>Ready to work in cross-functional team and fast-paced environment</li><li>A collaborative spirit, looking to tackle new challenges</li><li>Excellent communication skills in English (oral and written)</li><li>What we Offer:</li><li>Being part of a company where innovation, collaboration, and impact aren’t just values — they’re how we work every day</li><li>Partner with teams across disciplines, at the forefront of oncology and anti-infective development</li><li>An inclusive and respectful workplace — proud to be Equal-Pay certified</li><li>Grow in a culture that values people, purpose, and performance</li><li>A chance to grow, share, and shape the future of healthcare</li></ul></div>
+<div class="desc-sec"><div class="desc-sh">What to Expect in the Recruitment Process</div><p class="desc-para">If your application is selected, you’ll be invited to interviews with Talent Acquisition and the Hiring Manager via Teams, followed by a panel interview and reference checks. Communication is handled via Workable—check your spam folder for emails from *@outbound.workable.com.
+Please contact our HR Department prior to submitting any profiles. We cannot accept unsolicited applications from agencies or recruiters.</p></div></div>
+  </div>
+  <div class="card-actions">
+    <button class="action-btn action-ignore" onclick="setJobStatus(this,'ignored')">Ignore</button><button class="action-btn action-applied" onclick="setJobStatus(this,'applied')">&#10003; Applied</button>
+  </div>
+</div>
+
+<div class="job-card"
      data-company="Thermo Fisher Scientific"
      data-score="-2"
      data-date="2026-06-29"
@@ -592,7 +638,7 @@ a { color: inherit; text-decoration: none; }
   <div class="card-header">
     <div class="card-left">
       <span class="score-badge score-orange">-2</span>
-      <span class="new-badge">New</span>
+      
       <span class="job-title">Senior Scientist QA Operations</span>
     </div>
     <a class="open-link" href="https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Lengnau-Switzerland/Senior-Scientist-QA-Operations_R-01356760" target="_blank" rel="noopener">Open ↗</a>
@@ -609,8 +655,8 @@ a { color: inherit; text-decoration: none; }
     <span class="kw-label kw-minus">−</span><span class="kw-text">location:Lengnau, Switzerland</span>
   </div>
   <div class="card-desc">
-    <button class="toggle-btn" onclick="toggleDesc(this,0)">▸ Description</button>
-    <div id="desc-more-0" class="desc-structured" hidden><div class="desc-sec"></div>
+    <button class="toggle-btn" onclick="toggleDesc(this,1)">▸ Description</button>
+    <div id="desc-more-1" class="desc-structured" hidden><div class="desc-sec"></div>
 <div class="desc-sec"><div class="desc-sh">About the Role</div><p class="desc-para">As part of the Thermo Fisher Scientific team, you’ll discover meaningful work that makes a positive impact on a global scale. Join our colleagues in bringing our Mission to life every single day to enable our customers to make the world healthier, cleaner and safer. We provide our global teams with the resources needed to achieve individual career goals while helping to take science a step beyond by developing solutions for some of the world’s toughest challenges, like protecting the environment, making sure our food is safe or helping find cures for cancer.</p></div>
 <div class="desc-sec"><div class="desc-sh">REQUIREMENTS</div><ul class="desc-list"><li>Advanced Degree with no prior experience, or Bachelor&#x27;s Degree plus 2 years of quality assurance experience in GMP/ISO regulated environments, preferably in medical devices, pharmaceuticals or biotechnology</li><li>Preferred Fields of Study: Life Sciences, Engineering, Chemistry or related scientific/technical field</li><li>ISO 13485/FDA Lead Auditor certification beneficial</li><li>ASQ certification (CQE, CQA) advantageous</li><li>Strong knowledge of quality systems, cGMP regulations, and standards including ISO 13485, 21 CFR Part 820</li><li>Expertise in quality tools and methodologies including risk management, root cause analysis, CAPA, and change control</li><li>Demonstrated experience leading investigations, analyzing quality data, and implementing effective corrective actions</li><li>Excellent documentation and technical writing skills for developing SOPs, protocols and reports</li><li>Strong proficiency in quality management software (TrackWise, SAP QM, etc.) and Microsoft Office suite</li><li>Experience conducting internal audits and supporting external regulatory inspections</li><li>Demonstrated ability to build consensus and collaborate across functions</li><li>Strong verbal and written communication skills</li><li>Ability to work independently while contributing effectively in team environments</li><li>Strong attention to detail with analytical and problem-solving capabilities</li><li>Experience with statistical analysis tools and quality metrics reporting</li><li>Project management skills and ability to prioritize effectively</li><li>Ability to work in clean room environments when required</li><li>Foreign language skills beneficial</li></ul></div></div>
   </div>
@@ -626,7 +672,7 @@ a { color: inherit; text-decoration: none; }
      data-location="switzerland"
      data-url="https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Basel-City/Associate-Director--Search---Evaluation--Immunology-_REQ-10080739-1"
      data-status="matched"
-     data-text="associate director, search &amp; evaluation (immunology) novartis drug discovery immunology">
+     data-text="associate director, search &amp; evaluation (immunology) novartis immunology drug discovery">
   <div class="card-header">
     <div class="card-left">
       <span class="score-badge score-blue">+2</span>
@@ -642,13 +688,13 @@ a { color: inherit; text-decoration: none; }
     <span class="posted">Posted 2026-06-26</span>
   </div>
   <div class="card-keywords">
-    <span class="kw-label kw-plus">+</span><span class="kw-text">drug discovery  immunology</span>
+    <span class="kw-label kw-plus">+</span><span class="kw-text">immunology  drug discovery</span>
     &nbsp;&nbsp;
     <span class="kw-label kw-minus">−</span><span class="kw-text">(none)</span>
   </div>
   <div class="card-desc">
-    <button class="toggle-btn" onclick="toggleDesc(this,1)">▸ Description</button>
-    <div id="desc-more-1" class="desc-structured" hidden><div class="desc-sec"></div>
+    <button class="toggle-btn" onclick="toggleDesc(this,2)">▸ Description</button>
+    <div id="desc-more-2" class="desc-structured" hidden><div class="desc-sec"></div>
 <div class="desc-sec"><div class="desc-sh">Job Description Summary#LI-Hybrid</div><p class="desc-para">Location: Basel, Switzerland</p></div>
 <div class="desc-sec"><div class="desc-sh">Internal title: Associate Director, Search &amp; Evaluation</div><p class="desc-para">Join us at the forefront of scientific innovation, where your insights can shape the future of Immunology at Novartis. In this role, you will identify and evaluate novel therapeutics with the potential to transform the practice of medicine for patients suffering from immunological diseases. The scope includes a wide range of tasks from contributing to the partnering strategy, accessing targets and novel biology of therapeutic relevance across all development stages. The individual acts as an ambassador for the Immunology Therapeutic Area and for the broader organization and serves as a go to person for respective external partnering opportunities. Working across research, commercial, and business development teams, you will play a pivotal role in uncovering high-impact opportunities, building strategic partnerships, and driving growth through informed decision-making. If you are passionate about translating scientific innovation into real-world impact and thrive in a collaborative, fast-paced environment, this is your opportunity to make a difference.</p></div>
 <div class="desc-sec"><div class="desc-sh">Key Responsibilities</div><ul class="desc-list"><li>Identify and evaluate external therapeutic opportunities aligned with Immunology strategy across the development value chain</li><li>Lead search activities and efficient triaging and prioritization leveraging in depth knowledge in the immunology therapeutic area, and ensure prioritization aligns with strategic business development and licensing objectives</li><li>Build and analyze competitive landscapes and innovation ecosystems to inform opportunity sourcing and decision-making</li><li>Conduct triage and due diligence for inbound opportunities with clear documentation and structured recommendations</li><li>Collaborate cross-functionally to prepare high-quality materials for governance reviews and deal execution processes</li><li>Engage stakeholders across research, commercial, and corporate development to drive alignment and informed decisions</li><li>Present strategic opportunities to senior leadership and contribute to internal consensus building</li><li>Represent Novartis at industry conferences and external meetings to strengthen partnerships and market visibility</li></ul></div>
@@ -675,7 +721,7 @@ https://www.novartis.com/sites/novartis_com/files/novartis-life-handbook.pdf</p>
      data-location="switzerland"
      data-url="https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Basel-City/International-Medical-Affairs-Director--Neuroscience_REQ-10080860-1"
      data-status="matched"
-     data-text="international medical affairs director, neuroscience novartis drug development medical affairs phd">
+     data-text="international medical affairs director, neuroscience novartis medical affairs drug development phd">
   <div class="card-header">
     <div class="card-left">
       <span class="score-badge score-lime">+3</span>
@@ -691,13 +737,13 @@ https://www.novartis.com/sites/novartis_com/files/novartis-life-handbook.pdf</p>
     <span class="posted">Posted 2026-06-24</span>
   </div>
   <div class="card-keywords">
-    <span class="kw-label kw-plus">+</span><span class="kw-text">drug development  medical affairs  PhD</span>
+    <span class="kw-label kw-plus">+</span><span class="kw-text">medical affairs  drug development  PhD</span>
     &nbsp;&nbsp;
     <span class="kw-label kw-minus">−</span><span class="kw-text">(none)</span>
   </div>
   <div class="card-desc">
-    <button class="toggle-btn" onclick="toggleDesc(this,2)">▸ Description</button>
-    <div id="desc-more-2" class="desc-structured" hidden><div class="desc-sec"></div>
+    <button class="toggle-btn" onclick="toggleDesc(this,3)">▸ Description</button>
+    <div id="desc-more-3" class="desc-structured" hidden><div class="desc-sec"></div>
 <div class="desc-sec"><div class="desc-sh">Location: Basel, Switzerland</div><p class="desc-para">We are currently looking for 2 associates to join our team.
 The International Medical Affairs (IMA) team represents the voice of the International markets, with a focus on our top priority markets and addresses their needs across pre-launch, launch, life-cycle management and in-market.
 We are seeking a Medical Affairs Director Neuroscience, to provide aligned input from the top priority International markets into IEP and is responsible for the implementation of the scientific communications and medical education strategy, as well as relevant medical standards in these markets.
@@ -750,8 +796,8 @@ Skills DesiredAgility (Inactive), Agility (Inactive), Cross-Functional Collabora
     <span class="kw-label kw-minus">−</span><span class="kw-text">(none)</span>
   </div>
   <div class="card-desc">
-    <button class="toggle-btn" onclick="toggleDesc(this,3)">▸ Description</button>
-    <div id="desc-more-3" class="desc-structured" hidden><div class="desc-sec"></div>
+    <button class="toggle-btn" onclick="toggleDesc(this,4)">▸ Description</button>
+    <div id="desc-more-4" class="desc-structured" hidden><div class="desc-sec"></div>
 <div class="desc-sec"><div class="desc-sh">Job Description Summary#LI-Hybrid</div><p class="desc-para">Location: Basel, Switzerland or Cambridge, United States (see separate posting)
 Ready to shape the future of innovation at Novartis? As a Patent Attorney, you will play a pivotal role in protecting groundbreaking scientific discoveries and enabling life-changing medicines to reach patients worldwide. Partnering closely with R&amp;D teams, you will drive strategic intellectual property decisions, build robust patent portfolios, and navigate complex legal landscapes to safeguard innovation across the product lifecycle.</p></div>
 <div class="desc-sec"><div class="desc-sh">Key Responsibilities</div><ul class="desc-list"><li>Provide clear, strategic, and business-focused counsel to Novartis R&amp;D clients on invention protection, portfolio development, publication strategy, and third-party risks</li><li>Build and manage patent portfolios for Novartis R&amp;D projects by identifying inventions and preparing, prosecuting, maintaining, and defending patent filings across areas such as new molecular entities, processes, manufacturing, platforms, technologies, and clinical developments</li><li>Render legal opinions on patentability, validity, and freedom to operate, and develop patent strategies that strengthen IP positions, support freedom to operate, and enable effective IP defense</li><li>Apply deep knowledge of national patent law and practice, including relevant legal developments and patent trends, to shape strategy and advice</li><li>Understand and apply other forms of exclusivity protection, as appropriate</li><li>Communicate effectively with colleagues and leaders across the legal, IP, and R&amp;D organizations</li><li>Build and manage relationships with outside counsel and collaborators, including extensive interaction within a multicultural global patent function</li><li>Conduct due diligence and provide counsel based on those assessments, including freedom-to-operate, infringement, validity, risk evaluation, and risk mitigation strategies</li><li>Provide IP support for transactional matters, including M&amp;A, research collaborations, and in-licensing opportunities, with advice on contract drafting and negotiation</li><li>Ensure high-quality, timely delivery of work aligned with business goals and budgets</li></ul></div>
@@ -778,7 +824,7 @@ https://www.novartis.com/sites/novartis_com/files/novartis-life-handbook.pdf</p>
      data-location="switzerland"
      data-url="https://csl.wd1.myworkdayjobs.com/CSL_External/job/EMEA-CH-Kanton-Bern-Bern-CSL-Behring/Scientist--Technical-Operations_R-281927"
      data-status="matched"
-     data-text="scientist, technical operations csl behring / vifor phd immunology">
+     data-text="scientist, technical operations csl behring / vifor immunology phd">
   <div class="card-header">
     <div class="card-left">
       <span class="score-badge score-blue">+2</span>
@@ -794,13 +840,13 @@ https://www.novartis.com/sites/novartis_com/files/novartis-life-handbook.pdf</p>
     <span class="posted">Posted 2026-06-18</span>
   </div>
   <div class="card-keywords">
-    <span class="kw-label kw-plus">+</span><span class="kw-text">PhD  immunology</span>
+    <span class="kw-label kw-plus">+</span><span class="kw-text">immunology  PhD</span>
     &nbsp;&nbsp;
     <span class="kw-label kw-minus">−</span><span class="kw-text">(none)</span>
   </div>
   <div class="card-desc">
-    <button class="toggle-btn" onclick="toggleDesc(this,4)">▸ Description</button>
-    <div id="desc-more-4" class="desc-structured" hidden><div class="desc-sec"></div>
+    <button class="toggle-btn" onclick="toggleDesc(this,5)">▸ Description</button>
+    <div id="desc-more-5" class="desc-structured" hidden><div class="desc-sec"></div>
 <div class="desc-sec"><div class="desc-sh">Main Responsibilities &amp; Accountabilities</div><p class="desc-para">Execute laboratory and process development experiments according to defined protocols, study plans, and timelines, under the guidance of senior scientists or technical leads.
 Apply established scientific methods and standard analytical and process‑development techniques to generate accurate, reliable, and reproducible data.
 Support Quality by Design (QbD) activities by contributing experimental data that informs understanding of process parameters, variability, and critical quality attributes (CQAs).
@@ -832,7 +878,7 @@ To learn more about inclusion and belonging visit https://www.csl.com/careers/in
      data-location="switzerland"
      data-url="https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Basel-City/Translational-Medicine-Expert---Dermatology--Associate-Director_REQ-10079552-1"
      data-status="matched"
-     data-text="translational medicine expert – dermatology, associate director novartis in vivo pharmacology in vitro drug development translational medicine immunology drug discovery clinical pharmacology translational research">
+     data-text="translational medicine expert – dermatology, associate director novartis translational medicine immunology translational research in vitro in vivo drug discovery clinical pharmacology pharmacology drug development">
   <div class="card-header">
     <div class="card-left">
       <span class="score-badge score-green">+9</span>
@@ -848,13 +894,13 @@ To learn more about inclusion and belonging visit https://www.csl.com/careers/in
     <span class="posted">Posted 2026-06-16</span>
   </div>
   <div class="card-keywords">
-    <span class="kw-label kw-plus">+</span><span class="kw-text">in vivo  pharmacology  in vitro  drug development  translational medicine  immunology  drug discovery  clinical pharmacology  translational research</span>
+    <span class="kw-label kw-plus">+</span><span class="kw-text">translational medicine  immunology  translational research  in vitro  in vivo  drug discovery  clinical pharmacology  pharmacology  drug development</span>
     &nbsp;&nbsp;
     <span class="kw-label kw-minus">−</span><span class="kw-text">(none)</span>
   </div>
   <div class="card-desc">
-    <button class="toggle-btn" onclick="toggleDesc(this,5)">▸ Description</button>
-    <div id="desc-more-5" class="desc-structured" hidden><div class="desc-sec"></div>
+    <button class="toggle-btn" onclick="toggleDesc(this,6)">▸ Description</button>
+    <div id="desc-more-6" class="desc-structured" hidden><div class="desc-sec"></div>
 <div class="desc-sec"><div class="desc-sh">Job Description Summary#LI-Hybrid</div><p class="desc-para">Location: Basel, Switzerland
 As a Translational Medicine Expert (TME) you will provide medical and scientific expertise and leadership to:
 • Drive success of early global programs, develop and implement strategies to achieve Transition Decision Point (TDP)
@@ -924,8 +970,8 @@ Skills DesiredClinical Trials, Cross-Functional Teams, Data Analysis, Data Monit
     <span class="kw-label kw-minus">−</span><span class="kw-text">(none)</span>
   </div>
   <div class="card-desc">
-    <button class="toggle-btn" onclick="toggleDesc(this,6)">▸ Description</button>
-    <div id="desc-more-6" class="desc-structured" hidden><div class="desc-sec"></div>
+    <button class="toggle-btn" onclick="toggleDesc(this,7)">▸ Description</button>
+    <div id="desc-more-7" class="desc-structured" hidden><div class="desc-sec"></div>
 <div class="desc-sec"><div class="desc-sh">Job Description SummaryWork Arrangement: Hybrid, #LI-Hybrid</div><p class="desc-para">Location: Basel, Switzerland
 Relocation Support: This role is based in Basel, Switzerland. Novartis is unable to offer relocation support: please only apply if accessible.</p></div>
 <div class="desc-sec"><div class="desc-sh">Key Responsibilities</div><ul class="desc-list"><li>Implement regulatory strategy and manage operational activities across assigned regions</li><li>Support development of global regulatory strategy and identify risks or gaps for assigned regions</li><li>Partner with regional teams to align regulatory plans and ensure effective execution</li><li>Lead preparation of Health Authority interactions, including briefing documents and response plans</li><li>Drive coordination and submission of regulatory dossiers across assigned regions</li><li>Review, approve, and submit Clinical Trial Applications and Investigational New Drug applications</li><li>Manage responses to Health Authority queries and support timely approvals while minimising delays</li></ul></div>
@@ -970,8 +1016,8 @@ Skills DesiredClinical Trials, Detail-Oriented, Drug Development, Lifesciences, 
     <span class="kw-label kw-minus">−</span><span class="kw-text">(none)</span>
   </div>
   <div class="card-desc">
-    <button class="toggle-btn" onclick="toggleDesc(this,7)">▸ Description</button>
-    <div id="desc-more-7" class="desc-structured" hidden><div class="desc-sec"></div>
+    <button class="toggle-btn" onclick="toggleDesc(this,8)">▸ Description</button>
+    <div id="desc-more-8" class="desc-structured" hidden><div class="desc-sec"></div>
 <div class="desc-sec"><div class="desc-sh">Job Description Summary#Li-Hybrid</div><p class="desc-para">Work Arrangement: Hybrid
 Location: Basel, Switzerland
 Relocation Support: This role is based in Basel, Switzerland. Novartis is unable to offer relocation support: please only apply if accessible.</p></div>
@@ -995,7 +1041,7 @@ Benefits and Rewards: Learn about all the ways we’ll help you thrive person
      data-location="switzerland"
      data-url="https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Basel-City/Clinical-Sciences-Trial-Leader-Senior-Clinical-Sciences-Trial-Leader--Translational-Medicine--Multiple-Listings--80-100-_REQ-10079860-2"
      data-status="matched"
-     data-text="clinical sciences trial leader/senior clinical sciences trial leader, translational medicine (multiple listings) 80-100% novartis drug development translational medicine phd msc">
+     data-text="clinical sciences trial leader/senior clinical sciences trial leader, translational medicine (multiple listings) 80-100% novartis translational medicine msc drug development phd">
   <div class="card-header">
     <div class="card-left">
       <span class="score-badge score-slate">0</span>
@@ -1011,13 +1057,13 @@ Benefits and Rewards: Learn about all the ways we’ll help you thrive person
     <span class="posted">Posted 2026-06-07</span>
   </div>
   <div class="card-keywords">
-    <span class="kw-label kw-plus">+</span><span class="kw-text">drug development  translational medicine  PhD  MSc</span>
+    <span class="kw-label kw-plus">+</span><span class="kw-text">translational medicine  MSc  drug development  PhD</span>
     &nbsp;&nbsp;
-    <span class="kw-label kw-minus">−</span><span class="kw-text">clinical operations  clinical trial management</span>
+    <span class="kw-label kw-minus">−</span><span class="kw-text">clinical trial management  clinical operations</span>
   </div>
   <div class="card-desc">
-    <button class="toggle-btn" onclick="toggleDesc(this,8)">▸ Description</button>
-    <div id="desc-more-8" class="desc-structured" hidden><div class="desc-sec"></div>
+    <button class="toggle-btn" onclick="toggleDesc(this,9)">▸ Description</button>
+    <div id="desc-more-9" class="desc-structured" hidden><div class="desc-sec"></div>
 <div class="desc-sec"><div class="desc-sh">Job Description Summary#LI-Hybrid</div><p class="desc-para">Location: Basel
 This role is based in Basel, Switzerland. Novartis is unable to offer
 relocation support for this role: please only apply if this location is accessible for you.
@@ -1066,8 +1112,8 @@ Skills DesiredAuditing, Clinical Monitoring, Clinical Research, Clinical Study R
     <span class="kw-label kw-minus">−</span><span class="kw-text">(none)</span>
   </div>
   <div class="card-desc">
-    <button class="toggle-btn" onclick="toggleDesc(this,9)">▸ Description</button>
-    <div id="desc-more-9" class="desc-structured" hidden><div class="desc-sec"></div>
+    <button class="toggle-btn" onclick="toggleDesc(this,10)">▸ Description</button>
+    <div id="desc-more-10" class="desc-structured" hidden><div class="desc-sec"></div>
 <div class="desc-sec"><div class="desc-sh">About the Role</div><p class="desc-para">As a Medical Scientific Liaison (MSL) in the Cardio-Renal-Metabolic (CRM) therapeutic area, you serve as the central interface at Boehringer Ingelheim for external specialists and health care professionals within Switzerland. In this key role, you promote scientific exchange, support the safe use of our products in clinical practice, and make an important contribution to ongoing medical education. You take on both proactive and reactive tasks, actively bringing your expertise into internal and external working groups.</p></div>
 <div class="desc-sec"><div class="desc-sh">Tasks &amp; responsibilities</div><p class="desc-para">Act as the main contact for clinical professionals and centers in Switzerland and leading local medical-scientific activities
 Drive cross-functional projects in close collaboration with teams from Marketing, Medical Affairs, Sales, and Market Access
@@ -1120,8 +1166,8 @@ Collaborative environment with strong team support despite field‑based work</p
     <span class="kw-label kw-minus">−</span><span class="kw-text">(none)</span>
   </div>
   <div class="card-desc">
-    <button class="toggle-btn" onclick="toggleDesc(this,10)">▸ Description</button>
-    <div id="desc-more-10" class="desc-structured" hidden><div class="desc-sec"></div>
+    <button class="toggle-btn" onclick="toggleDesc(this,11)">▸ Description</button>
+    <div id="desc-more-11" class="desc-structured" hidden><div class="desc-sec"></div>
 <div class="desc-sec"><div class="desc-sh">Location: Lausanne, Switzerland</div><p class="desc-para">Work model: Hybrid / Full time 100%
 Contract type / duration: 12 month Limited Contract
 Shape the future through scientific breakthroughs and innovation.</p></div>
@@ -1151,42 +1197,6 @@ Attractive employee discounts across various products and services</p></div>
     <button class="action-btn action-ignore" onclick="setJobStatus(this,'ignored')">Ignore</button><button class="action-btn action-applied" onclick="setJobStatus(this,'applied')">&#10003; Applied</button>
   </div>
 </div>
-
-<div class="job-card"
-     data-company="Michael Page Switzerland"
-     data-score="-2"
-     data-date=""
-     data-location="switzerland"
-     data-url="https://www.michaelpage.ch/job-detail/sp%C3%A9cialiste-middle-office-portfolio-management-1-mois/ref/jn-052026-7018018"
-     data-status="matched"
-     data-text="spécialiste middle office / portfolio management - mission temporaire michael page switzerland ">
-  <div class="card-header">
-    <div class="card-left">
-      <span class="score-badge score-orange">-2</span>
-      
-      <span class="job-title">Spécialiste Middle Office / Portfolio Management - Mission Temporaire</span>
-    </div>
-    <a class="open-link" href="https://www.michaelpage.ch/job-detail/sp%C3%A9cialiste-middle-office-portfolio-management-1-mois/ref/jn-052026-7018018" target="_blank" rel="noopener">Open ↗</a>
-  </div>
-  <div class="card-meta">
-    <span class="company">Michael Page Switzerland</span>
-    <span class="location">📍 Switzerland</span>
-    <span class="tag tag-swiss">Switzerland</span>
-    
-  </div>
-  <div class="card-keywords">
-    <span class="kw-label kw-plus">+</span><span class="kw-text">(none)</span>
-    &nbsp;&nbsp;
-    <span class="kw-label kw-minus">−</span><span class="kw-text">location:Switzerland</span>
-  </div>
-  <div class="card-desc">
-    
-    
-  </div>
-  <div class="card-actions">
-    <button class="action-btn action-ignore" onclick="setJobStatus(this,'ignored')">Ignore</button><button class="action-btn action-applied" onclick="setJobStatus(this,'applied')">&#10003; Applied</button>
-  </div>
-</div>
     </div>
   </div>
 
@@ -1201,7 +1211,7 @@ Attractive employee discounts across various products and services</p></div>
      data-location="switzerland"
      data-url="https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Basel-City/Research-Scientist-II-or-Senior-Scientist-I--Toxicology--80-100----Dual-Level-Posting-_REQ-10079252-2"
      data-status="ignored"
-     data-text="research scientist ii or senior scientist i- toxicology (80-100%) (dual level posting) novartis molecular biology in vitro bioinformatics crispr phd">
+     data-text="research scientist ii or senior scientist i- toxicology (80-100%) (dual level posting) novartis bioinformatics molecular biology in vitro phd crispr">
   <div class="card-header">
     <div class="card-left">
       <span class="score-badge score-lime">+5</span>
@@ -1217,7 +1227,7 @@ Attractive employee discounts across various products and services</p></div>
     <span class="posted">Posted 2026-06-26</span>
   </div>
   <div class="card-keywords">
-    <span class="kw-label kw-plus">+</span><span class="kw-text">molecular biology  in vitro  bioinformatics  CRISPR  PhD</span>
+    <span class="kw-label kw-plus">+</span><span class="kw-text">bioinformatics  molecular biology  in vitro  PhD  CRISPR</span>
     &nbsp;&nbsp;
     <span class="kw-label kw-minus">−</span><span class="kw-text">(none)</span>
   </div>
@@ -1263,7 +1273,7 @@ Skills DesiredAnimal Models, Bioinformatics, Collaboration, Communication Skills
      data-location="romandie"
      data-url="https://jobs.smartrecruiters.com/CERN/744000134176711-project-engineer-scientist-radiation-effects-sy-sti-bmp-2026-118-grap-?oga=true"
      data-status="ignored"
-     data-text="project engineer/scientist - radiation effects (sy-sti-bmp-2026-118-grap) cern master&#x27;s degree french phd location:geneva">
+     data-text="project engineer/scientist - radiation effects (sy-sti-bmp-2026-118-grap) cern french master&#x27;s degree location:geneva phd">
   <div class="card-header">
     <div class="card-left">
       <span class="score-badge score-green">+7</span>
@@ -1279,7 +1289,7 @@ Skills DesiredAnimal Models, Bioinformatics, Collaboration, Communication Skills
     <span class="posted">Posted 2026-06-25</span>
   </div>
   <div class="card-keywords">
-    <span class="kw-label kw-plus">+</span><span class="kw-text">Master&#x27;s degree  French  PhD  location:geneva</span>
+    <span class="kw-label kw-plus">+</span><span class="kw-text">French  Master&#x27;s degree  location:geneva  PhD</span>
     &nbsp;&nbsp;
     <span class="kw-label kw-minus">−</span><span class="kw-text">(none)</span>
   </div>
@@ -1350,7 +1360,7 @@ Skills DesiredAgility (Inactive), Agility (Inactive), Asset Management, Business
      data-location="switzerland"
      data-url="https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Basel-City/Translational-Medicine--Strategic-Feasibility-Expert-Associate-Director_REQ-10079984-2"
      data-status="ignored"
-     data-text="translational medicine, strategic feasibility expert-associate director novartis drug development translational medicine">
+     data-text="translational medicine, strategic feasibility expert-associate director novartis translational medicine drug development">
   <div class="card-header">
     <div class="card-left">
       <span class="score-badge score-slate">0</span>
@@ -1366,7 +1376,7 @@ Skills DesiredAgility (Inactive), Agility (Inactive), Asset Management, Business
     <span class="posted">Posted 2026-06-25</span>
   </div>
   <div class="card-keywords">
-    <span class="kw-label kw-plus">+</span><span class="kw-text">drug development  translational medicine</span>
+    <span class="kw-label kw-plus">+</span><span class="kw-text">translational medicine  drug development</span>
     &nbsp;&nbsp;
     <span class="kw-label kw-minus">−</span><span class="kw-text">clinical operations</span>
   </div>
@@ -1445,7 +1455,7 @@ Skills DesiredBudget Management, Clinical Research, Clinical Trial Protocols, Cl
      data-location="switzerland"
      data-url="https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Basel-City/Director---Immunology-Therapeutic-Area-Biomarker-Lead--TABL-_REQ-10081622-1"
      data-status="ignored"
-     data-text="director - immunology therapeutic area biomarker lead (tabl) novartis genomics molecular biology preclinical french immunology biomarker strategy drug discovery phd drug development proteomics">
+     data-text="director - immunology therapeutic area biomarker lead (tabl) novartis preclinical immunology genomics molecular biology proteomics french drug discovery phd biomarker strategy drug development">
   <div class="card-header">
     <div class="card-left">
       <span class="score-badge score-green">+10</span>
@@ -1461,7 +1471,7 @@ Skills DesiredBudget Management, Clinical Research, Clinical Trial Protocols, Cl
     <span class="posted">Posted 2026-06-23</span>
   </div>
   <div class="card-keywords">
-    <span class="kw-label kw-plus">+</span><span class="kw-text">genomics  molecular biology  preclinical  French  immunology  biomarker strategy  drug discovery  PhD  drug development  proteomics</span>
+    <span class="kw-label kw-plus">+</span><span class="kw-text">preclinical  immunology  genomics  molecular biology  proteomics  French  drug discovery  PhD  biomarker strategy  drug development</span>
     &nbsp;&nbsp;
     <span class="kw-label kw-minus">−</span><span class="kw-text">(none)</span>
   </div>
@@ -1499,7 +1509,7 @@ Skills DesiredAccountability, Chemical Biology, Clinical Research, Clinical Tria
      data-location="romandie"
      data-url="https://jobs.smartrecruiters.com/CERN/744000133598850-detector-scientist-ep-atl-trk-2026-116-grap-?oga=true"
      data-status="ignored"
-     data-text="detector scientist (ep-atl-trk-2026-116-grap) cern master&#x27;s degree french phd location:geneva">
+     data-text="detector scientist (ep-atl-trk-2026-116-grap) cern french master&#x27;s degree location:geneva phd">
   <div class="card-header">
     <div class="card-left">
       <span class="score-badge score-green">+7</span>
@@ -1515,7 +1525,7 @@ Skills DesiredAccountability, Chemical Biology, Clinical Research, Clinical Tria
     <span class="posted">Posted 2026-06-23</span>
   </div>
   <div class="card-keywords">
-    <span class="kw-label kw-plus">+</span><span class="kw-text">Master&#x27;s degree  French  PhD  location:geneva</span>
+    <span class="kw-label kw-plus">+</span><span class="kw-text">French  Master&#x27;s degree  location:geneva  PhD</span>
     &nbsp;&nbsp;
     <span class="kw-label kw-minus">−</span><span class="kw-text">(none)</span>
   </div>
@@ -1584,7 +1594,7 @@ Work with research infrastructures and scientific domains such as particle physi
      data-location="switzerland"
      data-url="https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Senior-AI-ML-Data-Scientist_202605-112664-1"
      data-status="ignored"
-     data-text="senior ai/ml data scientist roche drug development phd msc">
+     data-text="senior ai/ml data scientist roche msc drug development phd">
   <div class="card-header">
     <div class="card-left">
       <span class="score-badge score-lime">+3</span>
@@ -1600,7 +1610,7 @@ Work with research infrastructures and scientific domains such as particle physi
     <span class="posted">Posted 2026-06-23</span>
   </div>
   <div class="card-keywords">
-    <span class="kw-label kw-plus">+</span><span class="kw-text">drug development  PhD  MSc</span>
+    <span class="kw-label kw-plus">+</span><span class="kw-text">MSc  drug development  PhD</span>
     &nbsp;&nbsp;
     <span class="kw-label kw-minus">−</span><span class="kw-text">(none)</span>
   </div>
@@ -1942,7 +1952,7 @@ Thermo Fisher Scientific is an equal opportunity employer and values diversity a
      data-location="switzerland"
      data-url="https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Basel-City/International-Medical-Affairs-Head--CRM_REQ-10079239-1"
      data-status="ignored"
-     data-text="international medical affairs head, crm novartis drug development medical affairs phd">
+     data-text="international medical affairs head, crm novartis medical affairs drug development phd">
   <div class="card-header">
     <div class="card-left">
       <span class="score-badge score-lime">+3</span>
@@ -1958,7 +1968,7 @@ Thermo Fisher Scientific is an equal opportunity employer and values diversity a
     <span class="posted">Posted 2026-06-10</span>
   </div>
   <div class="card-keywords">
-    <span class="kw-label kw-plus">+</span><span class="kw-text">drug development  medical affairs  PhD</span>
+    <span class="kw-label kw-plus">+</span><span class="kw-text">medical affairs  drug development  PhD</span>
     &nbsp;&nbsp;
     <span class="kw-label kw-minus">−</span><span class="kw-text">(none)</span>
   </div>
@@ -2081,7 +2091,7 @@ Ability to troubleshoot microbiological issues, support investigations, and coll
      data-location="romandie"
      data-url="https://labcorp.wd1.myworkdayjobs.com/External/job/CHE---Geneva---7-rue-Moise-Marcinhes/Supervisor-Flow-Cytometry_2619078"
      data-status="ignored"
-     data-text="supervisor flow cytometry labcorp drug development french location:geneva">
+     data-text="supervisor flow cytometry labcorp french drug development location:geneva">
   <div class="card-header">
     <div class="card-left">
       <span class="score-badge score-green">+6</span>
@@ -2097,7 +2107,7 @@ Ability to troubleshoot microbiological issues, support investigations, and coll
     <span class="posted">Posted 2026-06-04</span>
   </div>
   <div class="card-keywords">
-    <span class="kw-label kw-plus">+</span><span class="kw-text">drug development  French  location:geneva</span>
+    <span class="kw-label kw-plus">+</span><span class="kw-text">French  drug development  location:geneva</span>
     &nbsp;&nbsp;
     <span class="kw-label kw-minus">−</span><span class="kw-text">(none)</span>
   </div>
@@ -2268,7 +2278,7 @@ Continuous learning mindset with motivation to further develop technical and reg
      data-location="switzerland"
      data-url="https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Switzerland/Sr-Account-Director--Business-Development---RWE_R-01355580"
      data-status="ignored"
-     data-text="sr account director, business development - rwe thermo fisher scientific drug development location:remote masters degree">
+     data-text="sr account director, business development - rwe thermo fisher scientific drug development masters degree location:remote">
   <div class="card-header">
     <div class="card-left">
       <span class="score-badge score-green">+6</span>
@@ -2284,7 +2294,7 @@ Continuous learning mindset with motivation to further develop technical and reg
     <span class="posted">Posted 2026-06-01</span>
   </div>
   <div class="card-keywords">
-    <span class="kw-label kw-plus">+</span><span class="kw-text">drug development  location:remote  Masters degree</span>
+    <span class="kw-label kw-plus">+</span><span class="kw-text">drug development  Masters degree  location:remote</span>
     &nbsp;&nbsp;
     <span class="kw-label kw-minus">−</span><span class="kw-text">(none)</span>
   </div>
@@ -2307,7 +2317,7 @@ Continuous learning mindset with motivation to further develop technical and reg
      data-location="switzerland"
      data-url="https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Sr-Scientist---Computational-Biology_202603-108151-1"
      data-status="ignored"
-     data-text="sr. scientist - computational biology - neuroscience &amp; rare diseases roche scrna-seq preclinical bioinformatics high-dimensional data computational biology drug discovery phd translational research proteomics">
+     data-text="sr. scientist - computational biology - neuroscience &amp; rare diseases roche scrna-seq preclinical translational research high-dimensional data bioinformatics computational biology proteomics drug discovery phd">
   <div class="card-header">
     <div class="card-left">
       <span class="score-badge score-green">+9</span>
@@ -2323,7 +2333,7 @@ Continuous learning mindset with motivation to further develop technical and reg
     <span class="posted">Posted 2026-05-30</span>
   </div>
   <div class="card-keywords">
-    <span class="kw-label kw-plus">+</span><span class="kw-text">scRNA-seq  preclinical  bioinformatics  high-dimensional data  computational biology  drug discovery  PhD  translational research  proteomics</span>
+    <span class="kw-label kw-plus">+</span><span class="kw-text">scRNA-seq  preclinical  translational research  high-dimensional data  bioinformatics  computational biology  proteomics  drug discovery  PhD</span>
     &nbsp;&nbsp;
     <span class="kw-label kw-minus">−</span><span class="kw-text">(none)</span>
   </div>
@@ -2358,7 +2368,7 @@ Support the scientific growth of team members by sharing knowledge and expertise
      data-location="switzerland"
      data-url="https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Discovery-Scientists--in-vitro-and-in-vivo-Pharmacology--in-Cardiovascular---Metabolic-Disease-Research_202605-111706-1"
      data-status="ignored"
-     data-text="discovery scientists, in vitro and in vivo pharmacology, in cardiovascular &amp; metabolic disease research roche in vivo pharmacology in vitro preclinical immunology phd">
+     data-text="discovery scientists, in vitro and in vivo pharmacology, in cardiovascular &amp; metabolic disease research roche preclinical immunology in vitro in vivo phd pharmacology">
   <div class="card-header">
     <div class="card-left">
       <span class="score-badge score-green">+6</span>
@@ -2374,7 +2384,7 @@ Support the scientific growth of team members by sharing knowledge and expertise
     <span class="posted">Posted 2026-05-30</span>
   </div>
   <div class="card-keywords">
-    <span class="kw-label kw-plus">+</span><span class="kw-text">in vivo  pharmacology  in vitro  preclinical  immunology  PhD</span>
+    <span class="kw-label kw-plus">+</span><span class="kw-text">preclinical  immunology  in vitro  in vivo  PhD  pharmacology</span>
     &nbsp;&nbsp;
     <span class="kw-label kw-minus">−</span><span class="kw-text">(none)</span>
   </div>
@@ -2414,7 +2424,7 @@ Ready to take the next step? We&#x27;d love to hear from you. Apply now to explo
      data-location="switzerland"
      data-url="https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Basel-City/Medical-Director--Gastroenterology--Early-Clinical-Development_REQ-10076205-1"
      data-status="ignored"
-     data-text="medical director, gastroenterology, early clinical development novartis pharmacology preclinical translational medicine drug discovery clinical pharmacology drug development">
+     data-text="medical director, gastroenterology, early clinical development novartis translational medicine preclinical drug discovery clinical pharmacology pharmacology drug development">
   <div class="card-header">
     <div class="card-left">
       <span class="score-badge score-green">+6</span>
@@ -2430,7 +2440,7 @@ Ready to take the next step? We&#x27;d love to hear from you. Apply now to explo
     <span class="posted">Posted 2026-05-30</span>
   </div>
   <div class="card-keywords">
-    <span class="kw-label kw-plus">+</span><span class="kw-text">pharmacology  preclinical  translational medicine  drug discovery  clinical pharmacology  drug development</span>
+    <span class="kw-label kw-plus">+</span><span class="kw-text">translational medicine  preclinical  drug discovery  clinical pharmacology  pharmacology  drug development</span>
     &nbsp;&nbsp;
     <span class="kw-label kw-minus">−</span><span class="kw-text">(none)</span>
   </div>
@@ -2673,7 +2683,7 @@ Acts as Biosafety officer at the Thermo Fisher Scientific Lengnau site in accord
      data-location="switzerland"
      data-url="https://jobs.ashbyhq.com/benchling/fd008c7e-bb3c-495f-90f1-215915fb4f3f"
      data-status="ignored"
-     data-text="implementation manager benchling bioinformatics molecular biology immunology">
+     data-text="implementation manager benchling bioinformatics immunology molecular biology">
   <div class="card-header">
     <div class="card-left">
       <span class="score-badge score-lime">+3</span>
@@ -2689,7 +2699,7 @@ Acts as Biosafety officer at the Thermo Fisher Scientific Lengnau site in accord
     <span class="posted">Posted 2026-03-11</span>
   </div>
   <div class="card-keywords">
-    <span class="kw-label kw-plus">+</span><span class="kw-text">bioinformatics  molecular biology  immunology</span>
+    <span class="kw-label kw-plus">+</span><span class="kw-text">bioinformatics  immunology  molecular biology</span>
     &nbsp;&nbsp;
     <span class="kw-label kw-minus">−</span><span class="kw-text">(none)</span>
   </div>
@@ -2741,7 +2751,7 @@ We are an equal opportunity employer. That means we don’t discriminate on the 
      data-location="romandie"
      data-url="https://jobs.smartrecruiters.com/CERN/744000080108845-non-member-state-postdoc-fellowship-programme-theoretical-physics-?oga=true"
      data-status="ignored"
-     data-text="non-member state postdoc fellowship programme (theoretical physics) cern postdoc postdoctoral location:geneva">
+     data-text="non-member state postdoc fellowship programme (theoretical physics) cern postdoc location:geneva postdoctoral">
   <div class="card-header">
     <div class="card-left">
       <span class="score-badge score-green">+6</span>
@@ -2757,7 +2767,7 @@ We are an equal opportunity employer. That means we don’t discriminate on the 
     <span class="posted">Posted 2025-09-05</span>
   </div>
   <div class="card-keywords">
-    <span class="kw-label kw-plus">+</span><span class="kw-text">Postdoc  postdoctoral  location:geneva</span>
+    <span class="kw-label kw-plus">+</span><span class="kw-text">Postdoc  location:geneva  postdoctoral</span>
     &nbsp;&nbsp;
     <span class="kw-label kw-minus">−</span><span class="kw-text">(none)</span>
   </div>
@@ -3223,20 +3233,164 @@ For more information, visit the website: ompharma.com.</p></div></div>
 </div>
 
 <div class="job-card"
+     data-company="Hays Switzerland"
+     data-score="0"
+     data-date=""
+     data-location="switzerland"
+     data-url="https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-senior-scientist-bcqc-lengnau-berne-880270/1"
+     data-status="ignored"
+     data-text="senior scientist bcqc(m/f/d) hays switzerland ">
+  <div class="card-header">
+    <div class="card-left">
+      <span class="score-badge score-slate">0</span>
+      
+      <span class="job-title">Senior Scientist BCQC(m/f/d)</span>
+    </div>
+    <a class="open-link" href="https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-senior-scientist-bcqc-lengnau-berne-880270/1" target="_blank" rel="noopener">Open ↗</a>
+  </div>
+  <div class="card-meta">
+    <span class="company">Hays Switzerland</span>
+    <span class="location">📍 Lengnau, Berne, Switzerland</span>
+    <span class="tag tag-swiss">Switzerland</span>
+    
+  </div>
+  <div class="card-keywords">
+    <span class="kw-label kw-plus">+</span><span class="kw-text">(none)</span>
+    &nbsp;&nbsp;
+    <span class="kw-label kw-minus">−</span><span class="kw-text">(none)</span>
+  </div>
+  <div class="card-desc">
+    
+    
+  </div>
+  <div class="card-actions">
+    <button class="action-btn action-match" onclick="setJobStatus(this,'matched')">&#8629; Back to Matched</button>
+  </div>
+</div>
+
+<div class="job-card"
+     data-company="Hays Switzerland"
+     data-score="0"
+     data-date=""
+     data-location="switzerland"
+     data-url="https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-analytical-project-leader-scientist-senior-scientist-basel-stadt-873611/1"
+     data-status="ignored"
+     data-text="analytical project leader (scientist / senior scientist)(m/f/d) hays switzerland ">
+  <div class="card-header">
+    <div class="card-left">
+      <span class="score-badge score-slate">0</span>
+      
+      <span class="job-title">Analytical Project Leader (Scientist / Senior Scientist)(m/f/d)</span>
+    </div>
+    <a class="open-link" href="https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-analytical-project-leader-scientist-senior-scientist-basel-stadt-873611/1" target="_blank" rel="noopener">Open ↗</a>
+  </div>
+  <div class="card-meta">
+    <span class="company">Hays Switzerland</span>
+    <span class="location">📍 Basel Stadt, Switzerland</span>
+    <span class="tag tag-swiss">Switzerland</span>
+    
+  </div>
+  <div class="card-keywords">
+    <span class="kw-label kw-plus">+</span><span class="kw-text">(none)</span>
+    &nbsp;&nbsp;
+    <span class="kw-label kw-minus">−</span><span class="kw-text">(none)</span>
+  </div>
+  <div class="card-desc">
+    
+    
+  </div>
+  <div class="card-actions">
+    <button class="action-btn action-match" onclick="setJobStatus(this,'matched')">&#8629; Back to Matched</button>
+  </div>
+</div>
+
+<div class="job-card"
+     data-company="Hays Switzerland"
+     data-score="0"
+     data-date=""
+     data-location="switzerland"
+     data-url="https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-vice-president-of-business-development-basel-land-873413/1"
+     data-status="ignored"
+     data-text="vice president of business development(m/f/d) hays switzerland ">
+  <div class="card-header">
+    <div class="card-left">
+      <span class="score-badge score-slate">0</span>
+      
+      <span class="job-title">Vice President of Business Development(m/f/d)</span>
+    </div>
+    <a class="open-link" href="https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-vice-president-of-business-development-basel-land-873413/1" target="_blank" rel="noopener">Open ↗</a>
+  </div>
+  <div class="card-meta">
+    <span class="company">Hays Switzerland</span>
+    <span class="location">📍 Basel Land, Switzerland</span>
+    <span class="tag tag-swiss">Switzerland</span>
+    
+  </div>
+  <div class="card-keywords">
+    <span class="kw-label kw-plus">+</span><span class="kw-text">(none)</span>
+    &nbsp;&nbsp;
+    <span class="kw-label kw-minus">−</span><span class="kw-text">(none)</span>
+  </div>
+  <div class="card-desc">
+    
+    
+  </div>
+  <div class="card-actions">
+    <button class="action-btn action-match" onclick="setJobStatus(this,'matched')">&#8629; Back to Matched</button>
+  </div>
+</div>
+
+<div class="job-card"
+     data-company="Hays Switzerland"
+     data-score="1"
+     data-date=""
+     data-location="switzerland"
+     data-url="https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-scientist-lab-technician-assay-development-zug-873185/1"
+     data-status="ignored"
+     data-text="scientist lab technician assay development(m/f/d) hays switzerland assay development">
+  <div class="card-header">
+    <div class="card-left">
+      <span class="score-badge score-blue">+1</span>
+      
+      <span class="job-title">Scientist Lab Technician Assay Development(m/f/d)</span>
+    </div>
+    <a class="open-link" href="https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-scientist-lab-technician-assay-development-zug-873185/1" target="_blank" rel="noopener">Open ↗</a>
+  </div>
+  <div class="card-meta">
+    <span class="company">Hays Switzerland</span>
+    <span class="location">📍 Zug, Switzerland</span>
+    <span class="tag tag-swiss">Switzerland</span>
+    
+  </div>
+  <div class="card-keywords">
+    <span class="kw-label kw-plus">+</span><span class="kw-text">assay development</span>
+    &nbsp;&nbsp;
+    <span class="kw-label kw-minus">−</span><span class="kw-text">(none)</span>
+  </div>
+  <div class="card-desc">
+    
+    
+  </div>
+  <div class="card-actions">
+    <button class="action-btn action-match" onclick="setJobStatus(this,'matched')">&#8629; Back to Matched</button>
+  </div>
+</div>
+
+<div class="job-card"
      data-company="Michael Page Switzerland"
      data-score="-2"
      data-date=""
      data-location="switzerland"
-     data-url="https://www.michaelpage.ch/de/job-detail/junior-technical-sales-business-development-mwd/ref/jn-062026-7035709?lang=en"
+     data-url="https://www.michaelpage.ch/job-detail/business-development-manager-dacheurope-mwd/ref/jn-062026-7035692"
      data-status="ignored"
-     data-text="(junior) technical sales / business development (m/w/d) michael page switzerland ">
+     data-text="business development manager dach / europe (m/w/d) michael page switzerland ">
   <div class="card-header">
     <div class="card-left">
       <span class="score-badge score-orange">-2</span>
       
-      <span class="job-title">(Junior) Technical Sales / Business Development (m/w/d)</span>
+      <span class="job-title">Business Development Manager DACH / Europe (m/w/d)</span>
     </div>
-    <a class="open-link" href="https://www.michaelpage.ch/de/job-detail/junior-technical-sales-business-development-mwd/ref/jn-062026-7035709?lang=en" target="_blank" rel="noopener">Open ↗</a>
+    <a class="open-link" href="https://www.michaelpage.ch/job-detail/business-development-manager-dacheurope-mwd/ref/jn-062026-7035692" target="_blank" rel="noopener">Open ↗</a>
   </div>
   <div class="card-meta">
     <span class="company">Michael Page Switzerland</span>
@@ -3263,16 +3417,16 @@ For more information, visit the website: ompharma.com.</p></div></div>
      data-score="-2"
      data-date=""
      data-location="switzerland"
-     data-url="https://www.michaelpage.ch/job-detail/business-development-manager-dacheurope-mwd/ref/jn-062026-7035692"
+     data-url="https://www.michaelpage.ch/de/job-detail/junior-technical-sales-business-development-mwd/ref/jn-062026-7035709?lang=en"
      data-status="ignored"
-     data-text="business development manager dach / europe (m/w/d) michael page switzerland ">
+     data-text="(junior) technical sales / business development (m/w/d) michael page switzerland ">
   <div class="card-header">
     <div class="card-left">
       <span class="score-badge score-orange">-2</span>
       
-      <span class="job-title">Business Development Manager DACH / Europe (m/w/d)</span>
+      <span class="job-title">(Junior) Technical Sales / Business Development (m/w/d)</span>
     </div>
-    <a class="open-link" href="https://www.michaelpage.ch/job-detail/business-development-manager-dacheurope-mwd/ref/jn-062026-7035692" target="_blank" rel="noopener">Open ↗</a>
+    <a class="open-link" href="https://www.michaelpage.ch/de/job-detail/junior-technical-sales-business-development-mwd/ref/jn-062026-7035709?lang=en" target="_blank" rel="noopener">Open ↗</a>
   </div>
   <div class="card-meta">
     <span class="company">Michael Page Switzerland</span>
@@ -3479,6 +3633,42 @@ For more information, visit the website: ompharma.com.</p></div></div>
      data-score="-2"
      data-date=""
      data-location="switzerland"
+     data-url="https://www.michaelpage.ch/job-detail/sp%C3%A9cialiste-middle-office-portfolio-management-1-mois/ref/jn-052026-7018018"
+     data-status="ignored"
+     data-text="spécialiste middle office / portfolio management - mission temporaire michael page switzerland ">
+  <div class="card-header">
+    <div class="card-left">
+      <span class="score-badge score-orange">-2</span>
+      
+      <span class="job-title">Spécialiste Middle Office / Portfolio Management - Mission Temporaire</span>
+    </div>
+    <a class="open-link" href="https://www.michaelpage.ch/job-detail/sp%C3%A9cialiste-middle-office-portfolio-management-1-mois/ref/jn-052026-7018018" target="_blank" rel="noopener">Open ↗</a>
+  </div>
+  <div class="card-meta">
+    <span class="company">Michael Page Switzerland</span>
+    <span class="location">📍 Switzerland</span>
+    <span class="tag tag-swiss">Switzerland</span>
+    
+  </div>
+  <div class="card-keywords">
+    <span class="kw-label kw-plus">+</span><span class="kw-text">(none)</span>
+    &nbsp;&nbsp;
+    <span class="kw-label kw-minus">−</span><span class="kw-text">location:Switzerland</span>
+  </div>
+  <div class="card-desc">
+    
+    
+  </div>
+  <div class="card-actions">
+    <button class="action-btn action-match" onclick="setJobStatus(this,'matched')">&#8629; Back to Matched</button>
+  </div>
+</div>
+
+<div class="job-card"
+     data-company="Michael Page Switzerland"
+     data-score="-2"
+     data-date=""
+     data-location="switzerland"
      data-url="https://www.michaelpage.ch/fr/job-detail/portfolio-manager-fr-eng-100-m-f/ref/jn-042026-6999371?lang=en"
      data-status="ignored"
      data-text="portfolio manager fr / eng 100% (m / f) michael page switzerland ">
@@ -3559,7 +3749,7 @@ For more information, visit the website: ompharma.com.</p></div></div>
      data-location="switzerland"
      data-url="https://jobs.ashbyhq.com/benchling/33b3deda-15df-442f-be7f-c01552906791"
      data-status="applied"
-     data-text="implementation manager - bilingual (english/french) benchling molecular biology bioinformatics french immunology bilingual">
+     data-text="implementation manager - bilingual (english/french) benchling immunology bilingual bioinformatics molecular biology french">
   <div class="card-header">
     <div class="card-left">
       <span class="score-badge score-lime">+5</span>
@@ -3575,13 +3765,13 @@ For more information, visit the website: ompharma.com.</p></div></div>
     <span class="posted">Posted 2026-03-17</span>
   </div>
   <div class="card-keywords">
-    <span class="kw-label kw-plus">+</span><span class="kw-text">molecular biology  bioinformatics  French  immunology  bilingual</span>
+    <span class="kw-label kw-plus">+</span><span class="kw-text">immunology  bilingual  bioinformatics  molecular biology  French</span>
     &nbsp;&nbsp;
     <span class="kw-label kw-minus">−</span><span class="kw-text">(none)</span>
   </div>
   <div class="card-desc">
-    <button class="toggle-btn" onclick="toggleDesc(this,62)">▸ Description</button>
-    <div id="desc-more-62" class="desc-structured" hidden><div class="desc-sec"><p class="desc-para">Biotechnology is rewriting life as we know it, from the medicines we take, to the crops we grow, the materials we wear, and the household goods that we rely on every day. But moving at the new speed of science requires better technology.
+    <button class="toggle-btn" onclick="toggleDesc(this,67)">▸ Description</button>
+    <div id="desc-more-67" class="desc-structured" hidden><div class="desc-sec"><p class="desc-para">Biotechnology is rewriting life as we know it, from the medicines we take, to the crops we grow, the materials we wear, and the household goods that we rely on every day. But moving at the new speed of science requires better technology.
 Benchling’s mission is to unlock the power of biotechnology. The world’s most innovative biotech companies use Benchling’s R&amp;D Cloud to power the development of breakthrough products and accelerate time to milestone and market.
 Come help us bring modern software to modern science.</p></div>
 <div class="desc-sec"><div class="desc-sh">About the Role</div><p class="desc-para">Benchling is building a world-class Professional Services team to drive implementations for our rapidly expanding customer base. Implementation Managers work with our customers, from small Biotech startups to the largest BioPharmas in the world to develop a deep understanding of their R&amp;D Processes, and roll out solutions that transform how their research teams work together.
@@ -3657,8 +3847,8 @@ We are an equal opportunity employer. That means we don’t discriminate on the 
     <span class="kw-label kw-minus">−</span><span class="kw-text">(none)</span>
   </div>
   <div class="card-desc">
-    <button class="toggle-btn" onclick="toggleDesc(this,63)">▸ Description</button>
-    <div id="desc-more-63" class="desc-structured" hidden><div class="desc-sec"><p class="desc-para">Nestlé Institute of Strategic Research Operations Welcome to Nestlé Research, a global organization, with most of our passionate team located in Lausanne, Switzerland! Our work is powered by five specialized Nestlé Institutes and key strategic units. Here, we embrace fresh thinking and collaborate to create amazing solutions. How about taking a step inside our organization and discover the exciting research activities and expertise that drive us forward? Want to learn more ! At Nestlé Research, we place people at the core of everything we do, driven by a passion for innovation that inspires us to embrace change. Our commitment to staying at the forefront of science allows us to make a meaningful impact on our world , fostering a culture of creativity and growth . Join us in our mission to inspire people and ignite innovation as we work together to shape a better future. Position Snapshot: Your opportunity to #breakthrough with us! Location: Nestlé Research, Lausanne, Switzerland Institute: Nestlé Institute of Strategic Research Operations Company: Société des Produits Nestlé S.A. Act. Rate: Full-Time Act. Rate 100% Type of contract: Permanent contract</p></div>
+    <button class="toggle-btn" onclick="toggleDesc(this,68)">▸ Description</button>
+    <div id="desc-more-68" class="desc-structured" hidden><div class="desc-sec"><p class="desc-para">Nestlé Institute of Strategic Research Operations Welcome to Nestlé Research, a global organization, with most of our passionate team located in Lausanne, Switzerland! Our work is powered by five specialized Nestlé Institutes and key strategic units. Here, we embrace fresh thinking and collaborate to create amazing solutions. How about taking a step inside our organization and discover the exciting research activities and expertise that drive us forward? Want to learn more ! At Nestlé Research, we place people at the core of everything we do, driven by a passion for innovation that inspires us to embrace change. Our commitment to staying at the forefront of science allows us to make a meaningful impact on our world , fostering a culture of creativity and growth . Join us in our mission to inspire people and ignite innovation as we work together to shape a better future. Position Snapshot: Your opportunity to #breakthrough with us! Location: Nestlé Research, Lausanne, Switzerland Institute: Nestlé Institute of Strategic Research Operations Company: Société des Produits Nestlé S.A. Act. Rate: Full-Time Act. Rate 100% Type of contract: Permanent contract</p></div>
 <div class="desc-sec"><div class="desc-sh">What We Offer</div><p class="desc-para">at Nestlé Exciting opportunities to develop your career your way Flexible working arrangements - facilitating creativity and collaboration. A culture of respect, with diversity, equity and inclusion at its core. A dynamic international environment empowering you to learn, develop and grow. Don’t hesitate to connect with us during the recruitment process to learn more</p></div>
 <div class="desc-sec"><div class="desc-sh">About the Role</div><p class="desc-para">As a Foresight and Scientific Intelligence Analyst you will be responsible for shaping and managing Nestlé’s scientific information ecosystem while delivering research outputs for scientific foresight and scientific intelligence insights to support strategic decision-making. In this role, you will ensure high-quality access to scientific publications across the entire Nestlé R&amp;D, NHS, and Purina Petcare. This encompasses contractual relationships with major publishing houses, service providers for subscription management and document delivery. Further to that you will lead intelligence for scientific foresight, scientific landscaping and intelligence with the purpose to keep track of emerging scientific trends, to identify potential future collaboration partners and ecosystems. Further to that you work closely with scientists, IT, procurement, legal functions and external partners, and contribute to future-proofing Nestlé’s scientific intelligence capabilities and informing mid- to long-term research, innovation, and partnership strategies. A Day in the Life of a Foresight and Scientific Intelligence Analyst Manage scientific publication services and subscriptions supporting global Nestlé research and innovation communities. Collaborate with external publishers and providers to optimize databases, platforms, and document delivery solutions. Perform global usage analyses and define strategies to adapt the scientific subscription portfolio. Monitor scientific publication markets to identify future-proof opportunities and system evolution needs. Develop and apply foresight and scientific intelligence methodologies across emerging science and technologies. Analyze scientific trends, key researchers, and collaboration networks to inform research priorities. Conduct competitive and benchmark analyses on external R&amp;D pipelines, partnerships, and IP strategies. Deliver clear intelligence briefs and partnership insights to senior leadership and stakeholders. What Will Make You Successful Advanced degree in engineering, life sciences, information science, data science, or a related scientific field. A PhD degree is of interest but not required. Willingness to get professional and proficient in scientific information management, intelligence, foresight, or research analytics. Strong analytical, synthesis, and communication skills with ability to translate data into clear recommendations. Ability to collaborate effectively across multidisciplinary and international stakeholder groups. Experience working with scientific databases, publication platforms, and external service providers. Strategic mindset with curiosity for emerging science, technology trends, and competitive landscapes. Fluency in English. Additional languages are an advantage. Exciting Opportunity Ahead! After submitting your application, you will receive an invitation to create a short video introduction, guided by a few specific questions. This is your chance to showcase your personality and passion. We kindly ask that you submit your video within 7 days of your application to ensure we can assess</p></div>
 <div class="desc-sec"><div class="desc-sh">Requirements</div><ul class="desc-list"><li>thoroughly</li><li>Please note that if this step is not completed within the specified time, we will assume you have chosen to withdraw your application, Nestlé is committed to the accessibility of its recruitment process</li><li>If you require an adaptation during the recruitment process, please do let us know so we can support you effectively</li><li>All information will be treated confidentially</li><li>At Nestlé, we want to help shape a better and healthier world, inspire people to live healthier lives and deliver impact at a scale and pace that makes a difference</li><li>We do this by fostering a diverse, friendly, supportive, and collaborative environment, that creates positive disruption, embraces innovation, and empowers people and teams to win</li><li>We aim to hire friendly, respectful, inspiring people who care about the people’s lives that we touch every single day</li><li>Be a force for good</li><li>Join Nestlé and visit us on www.nestle.com</li></ul></div></div>
@@ -3671,23 +3861,17 @@ We are an equal opportunity employer. That means we don’t discriminate on the 
   </div>
 
   <!-- ── Alerts tab (only rendered when there are alerts) ── -->
-  <div id="tab-alerts" class="tab-panel">
-<div class="alert-card">
-  <div class="alert-header">
-    <span class="alert-company">Charles River Laboratories</span>
-    <a class="open-link" href="https://jobs.criver.com/job-search-results/" target="_blank" rel="noopener">Visit ↗</a>
-  </div>
-  <div class="alert-url">https://jobs.criver.com/job-search-results/</div>
-  <div class="alert-keywords">regulatory</div>
-</div></div>
+  
 
   <!-- ── Screening Filters tab ── -->
   <div id="tab-screening" class="tab-panel">
-    <h3 style="margin-bottom:16px;font-size:15px;color:#e2e8f0">Title filters (96 terms)</h3>
+    <h3 style="margin-bottom:16px;font-size:15px;color:#e2e8f0">Title filters (98 terms)</h3>
     <ul style="list-style:none;display:flex;flex-wrap:wrap;gap:8px">
       <li>translational science</li>
       <li>translational medicine</li>
       <li>precision medicine</li>
+      <li>personalised medicine</li>
+      <li>personalized medicine</li>
       <li>biomarker science</li>
       <li>biomarker</li>
       <li>data science</li>
