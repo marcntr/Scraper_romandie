@@ -720,11 +720,6 @@
     "external_url": "https://jobs.smartrecruiters.com/Sobi/744000128222115-strategic-planning-manager-supply-chain?oga=true",
     "status": "matched"
   },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000129096464": {
-    "description": "Introduction: As a Python Software Engineer with a strong interest in both API development and desktop application engineering (with PyQt6), you will work on tools at the heart of CERN's accelerator complex, used daily across operations, engineering, and physics. This role spans the Python APIs that interface to the CERN control system, and the PyQt6-based desktop applications built on top of them. On the API side, you will develop frameworks, libraries, and bindings integrating tightly with backend control system services, with a strong emphasis on developer experience, robustness, and long-term maintenance. On the UI side, you will work on applications for operating, monitoring, and configuring accelerator systems, ensuring reliable, responsive, and effective user experiences. You will collaborate with colleagues across the organisation, contributing to design reviews, documentation, training, and technical support, while staying abreast of relevant emerging technologies and playing an active part in shaping the future of CERN's accelerator control system. Functions: Design and maintain Python bindings to the accelerator control system, using a range of technologies such as REST, gRPC, event-driven messaging (e.g. ZMQ), as well as bindings to existing C++ and Java libraries. Build reusable components, widgets, and libraries supporting control application development at CERN. Develop and maintain a number of PyQt-based control applications used in the CERN Control Centre. Contribute to the selection and configuration of a coherent DevOps toolchain for Python, covering dependency management, packaging, testing, CI/CD, and deployment monitoring. Collaborate with user communities to establish and document best practices for developing Python-based control applications. Contribute relevant developments back to the open source community. Take ownership of one or more key systems or tools, driving their evolution through active engagement with stakeholders and structured follow-through. Mentor junior engineers, sharing knowledge and supporting their growth as they contribute to the above areas.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000129096464-python-software-engineer-be-css-ide-2026-114-ld-?oga=true",
-    "status": "matched"
-  },
   "https://jobs.ashbyhq.com/benchling/fd008c7e-bb3c-495f-90f1-215915fb4f3f": {
     "description": "We are rebuilding biotech for the AI era.\n\nWhen a breakthrough is delayed, the world waits. Getting a molecule from discovery to patients, or a crop from lab to field, involves thousands of slow, manual, disconnected steps. AI has the potential to change this, compressing decades of R&D work into years. But that only happens when clean, structured scientific data and AI are built into how science gets done.\n\nBenchling is the AI platform for biotech R&D. Scientists use Benchling to design experiments, capture structured data, and run AI agents and models directly in their workflows. Over 200,000 scientists around the world trust Benchling to power their most important work, from academic labs to Sanofi, Moderna, and more than half of the world's top 50 biopharma.\n\nWe’re building an AI scientist for our customers. We can’t do that if we haven’t built the muscle ourselves. AI fluency is the foundation we build on; it's core to how we work, and we're committed to helping every new hire integrate it into their day-to-day. As part of our interview process, you'll complete a brief AI-focused exercise or discussion so we can understand how you think about and use AI to drive impact in your role. Feel free to reference any tools, platforms, or workflows you use today.\n\n\nROLE OVERVIEW\n\nBenchling is building a world-class Professional Services team to drive implementations for our rapidly expanding customer base. Implementation Managers work with our customers, from small Biotech startups to the largest BioPharmas in the world to develop a deep understanding of their R&D Processes, and roll out solutions that transform how their research teams work together.\n\nTo be successful in this role, you will leverage your scientific background, project management skills, and product expertise to drive successful implementations of the Benchling platform. You will work hand in hand with the research scientists at our customers, and teams throughout Benchling to implement our solutions, and ensure our customers are successful. Implementation Managers lead all aspects of customer rollouts from requirements analysis and solution design, to configurations, testing, training, and onboarding users onto the system.\n\n\n\nRESPONSIBILITIES\n\n -  Manage initial rollouts for new Benchling customers as well as expansion projects with new teams or for new processes at existing customers\n\n - Own implementation success from project kickoff to go-live, leveraging strong project management skills, scientific expertise, and deep product knowledge.\n\n - Build and execute detailed project plans, own project activities, work with other team members to execute on project deliverables to ensure on time, on budget, high quality deployments.\n\n - Understand customers' scientific workflows and determine how Benchling can best be leveraged to meet their key business needs.\n\n - Lead requirements and design workshops, perform data modeling & application configuration, develop test plans and guide UAT execution, train and onboard users.\n\n - Act as a trusted advisor for customers, guiding them through the implementation ensuring they leverage and apply Benchling Best Practices.\n\n - Understand and document customer pain points, advocate for them internally to influence product changes.\n\n - Identify and work with sales on opportunities for account expansion post go-live.\n   \n\n\nQUALIFICATIONS\n\n - MS or Ph.D. in Molecular Biology, Biochemistry, Biotechnology, Immunology, Bioinformatics, Biological Engineering or a related field.\n\n - At least 2 years of experience in a lab or R&D setting, ideally in antibody discovery or strain engineering or process development. You must be able to empathize with scientists and quickly understand complicated scientific concepts.\n\n - Software Implementation experience, preferably with a SaaS software company.\n\n - Strong communication skills. You must be able to quickly and effectively connect with a range of stakeholders, including scientists, IT project leads, and executives.\n\n - Self-starter with the ability to be successful in a startup environment.\n\n - Curious, creative, and tenacious. You should be excited to collaborate with customers and other Benchling teammates as a thought partner.\n\n - Ability to travel up to 25% based on customer and project needs.\n\n - Experience using Benchling platform\n\nBonus if you have:\n\n - Experience using Benchling, especially if you’ve been a Benchling administrator.\n\n - Software Implementation experience, preferably with a SaaS software company.\n\n\nHOW WE WORK\n\nWe offer a flexible hybrid work arrangement that prioritizes in-office collaboration. Employees are expected to be on-site 3 days per week (Monday, Tuesday, and Thursday).\n\n\n\nSALARY & BENEFITS\n\nFull-time employees outside the U.S. enjoy a comprehensive benefits program tailored to their region of residence.\n\nBenchling takes a market-based approach to pay. The candidate's starting pay will be determined based on job-related skills, experience, qualifications, interview performance, and work location.\n\n\n#LI-Hybrid\n\n#BI-Hybrid\n\n#LI-TD1\n\n\n\nBenchling welcomes everyone.\n\nWe believe diversity enriches our team so we hire people with a wide range of identities, backgrounds, and experiences.\n\nWe are an equal opportunity employer. That means we don’t discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. We also consider for employment qualified applicants with arrest and conviction records, consistent with applicable federal, state and local law, including but not limited to the San Francisco Fair Chance Ordinance.",
     "external_url": "https://jobs.ashbyhq.com/benchling/fd008c7e-bb3c-495f-90f1-215915fb4f3f",
@@ -780,11 +775,6 @@
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000130517442": {
     "description": "Introduction:\nThe Engineering Department (EN) provides CERN with the Engineering expertise, Infrastructure Systems and Technical Coordination necessary for the design, installation, operation, maintenance and dismantling phases of the CERN accelerator complex and its experimental facilities.  \nThe position is within the Accelerator Coordination and Engineering (EN-ACE) group, which coordinates the activities for the interventions and changes to the accelerators complex. It includes configuration & layout management, integration studies and maintenance of the related 3D-CAD representations, organisation and scheduling of programmed stops, management of the mid- and long-term schedule, worksites follow-up and management of accelerator facilities, and operational safety coordination.\nAs a Planning and Scheduling Engineer in EN-ACE, you will plan and coordinate a wide range of technologies across CERN’s current and future accelerator complex. You will collaborate closely with domain experts to develop practical solutions for the installation and maintenance of complex equipment, contributing to the Engineering Department’s mission of supporting the full lifecycle of CERN’s infrastructure and future projects.\nFunctions:\nCoordinate all installation and maintenance activities for existing or future accelerators.\nProduce baseline schedules ensuring all activities follow it, considering safety rules and quality standards.\nPrepare all supporting documentation and liaise between the stakeholders.\nIdentify and resolve conflicting co-activity issues with stakeholders and project leaders.\nManage the impact of operational issues affecting the installation and maintenance work on the schedule, in order to minimise delays.\nEnsure that all safety concerns related to the installation works are identified and that the relevant safety rules/procedures are implemented.\nFollow up and report on activities progress, to identify deviations and anticipate co-activities issues.",
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000130517442-scheduling-and-coordination-engineer-en-ace-2026-123-ld-?oga=true",
-    "status": "matched"
-  },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000130506379": {
-    "description": "As full-stack developer in the Tools Team at SY-EPC-CCS, you'll become the main responsible for a set of crucial web applications used by converter experts to ensure smooth operation of the power converters at CERN. You'll be working closely with other team members, applying an agile work approach and work on different products in sprints (Scrum).\nYour responsibilities\nWorking on Full-stack Web applications and databases. \nGathering and iterating over requirements and features with our users and stakeholders (Power Converter Experts).\nProviding application support to converter experts / users (debugging, fixing, etc.).\nCollaborating closely in a team of developers who are working on the full stack of web applications, using the Scrum framework.\nOwn a subset of our full-stack web applications and lead sprints on them.\nMore information here.\nYour profile\nExperience with UI/UX design and web front-end development.\nExperience with web back-end (REST API) design and development.\nExperience with database design and development.\nExperience with identifying user requirements.\nKnowledge of or experience with DevOps (CI/CD, Docker, Compose, Kubernetes) would be an advantage.\nSkills\nJavaScript / TypeScript (Vue3.js, Pinia, Vite).\nPython (FastAPI, SQLAlchemy, Pydantic, asyncio).\nSQL (PostgreSQL, Oracle).\nSpoken and written English, with a commitment to learn French.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nBy the application deadline, you have a maximum of two years of professional experience since graduation in Computer Science (or a related field) and your highest educational qualification is either a Bachelor's or Master's degree.\nYou have never had a CERN fellow or graduate contract before.\nApplicants without University degree are not eligible.\nApplicants with a PhD are not eligible.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000130506379-full-stack-web-developer-sy-epc-ccs-2026-155-grae-?oga=true",
     "status": "matched"
   },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000130394659": {
@@ -1990,20 +1980,6 @@
     "external_url": "https://jobs.smartrecruiters.com/HUG/744000133918109-infirmiere-ou-infirmiere-au-service-de-psychiatrie-de-l-enfant-et-de-l-adolescent-60-a-100-?oga=true",
     "status": "matched"
   },
-  "https://www.michaelpage.ch/fr/job-detail/business-development-lead-fnm/ref/jn-062026-7047374?lang=en": {
-    "external_url": "https://www.michaelpage.ch/fr/job-detail/business-development-lead-fnm/ref/jn-062026-7047374?lang=en",
-    "status": "ignored",
-    "title": "Business Development Lead (F/N/M) - AI-Powered Digital Solutions",
-    "company": "Michael Page Switzerland",
-    "location": "Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": -2,
-    "matched_keywords": [],
-    "deducted_keywords": [
-      "location:Switzerland"
-    ]
-  },
   "https://www.michaelpage.ch/job-detail/senior-manager-regulatory-affairs/ref/jn-052026-7023979": {
     "external_url": "https://www.michaelpage.ch/job-detail/senior-manager-regulatory-affairs/ref/jn-052026-7023979",
     "status": "ignored",
@@ -2102,7 +2078,7 @@
   "https://jobdetails.nestle.com/job/Lausanne-Systems-Biology-and-Microbiome-Data-Science-Intern/1405586333/": {
     "description": "Location: Lausanne, Switzerland\nWork model: On site\nContract type / duration: Internship – 6 months\nTarget start date: September 1, 2026\n\nDeadline for applications: July 2, 2026\n\n \n\nBe a force for good and transform your potential into something extraordinary.\n\nAs a Systems Biology and Microbiome Data Science Intern at Nestlé Research, Nestlé Institute of Health Sciences, your mission is to help transform complex scientific information into structured, usable data that supports microbiome research and innovation in human health. You will work closely with scientists and partners across Nestlé to identify relevant information from detailed reports and sample-based studies, bring together data from different sources, and make it ready for future analysis and decision-making. This is your opportunity to make an impact while gaining hands on experience and mentorship to kick-start your career.\n\nHow you’ll make an impact as a Systems Biology and Microbiome Data Science Intern\n\nDriving data mining and computational analysis of microbiome assays to uncover insights that support human health research.\n\nConducting literature reviews to identify scientific advancements and strengthen the foundation of ongoing research projects.\n\nBuilding on existing analyses to generate new biological understanding of microbiome and host interactions.\n\nPartnering with interdisciplinary experts to translate scientific questions into actionable research outputs.\n\nPresenting findings through reports and scientific communication to help shape future research directions.\n\nWhat will make you successful\n\nCurrent student or fresh graduate in computational science, systems biology, microbiology, biochemistry, biotechnology, or a related field.\n\nHaving confidence using programming tools such as R, Python, or similar technologies to explore and interpret complex scientific data.\n\nBeing curious about microbiome science, motivated by human health, and comfortable collaborating across disciplines and teams to turn ideas into insight.\n\nCommunicating fluently in English.\n\nDemonstrating courage, collaboration, speed and continuous learning.\n\nAt Nestlé Research, we place people at the heart of everything we do.\n\nOur benefits are designed to support your growth and wellbeing, so you can thrive at work and in life:\n\nFlexible working options, including hybrid work possibilities (for office-based roles)\n\nLearning and development opportunities to grow your career\n\nHealthcare contribution and access to the Employee Assistance Program\n\nAttractive employee discounts across various products and services\n\nWhat to expect from our hiring process\n\nWe are committed to an inclusive and respectful hiring experience and are happy to provide reasonable accommodations if needed. Our workplaces are fully accessible and supported by a strong safety culture, with modern installations and procedures to ensure a safe environment for everyone.\n\nThe hiring process typically includes a video interview with Talent Acquisition, an interview with the hiring team, and a final discussion and offer. We review applications as they are received and close the role once a strong list of relevant candidates is identified, so we encourage you to apply early. All information is treated confidentially.\n\nReady to start your career journey with us?\n\nApply now and transform your potential into something extraordinary.",
     "external_url": "https://jobdetails.nestle.com/job/Lausanne-Systems-Biology-and-Microbiome-Data-Science-Intern/1405586333/",
-    "status": "matched",
+    "status": "ignored",
     "title": "Systems Biology and Microbiome Data Science Intern",
     "company": "Nestlé",
     "location": "Lausanne, CH",
@@ -2334,7 +2310,7 @@
     "title": "Sr Account Director, Business Development - RWE",
     "company": "Thermo Fisher Scientific",
     "location": "Remote, Switzerland",
-    "posted_date": "2026-06-02",
+    "posted_date": "2026-06-01",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -2351,7 +2327,7 @@
     "title": "Senior Scientist Material Management & Qualification - Quality Control",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-06-03",
+    "posted_date": "2026-06-02",
     "department": "",
     "score": -1,
     "matched_keywords": [
@@ -2368,7 +2344,7 @@
     "title": "Senior Scientist microbiological Quality Control",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-06-10",
+    "posted_date": "2026-06-09",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -2383,7 +2359,7 @@
     "title": "Scientist – QC Lab Systems & CSV (GMP)",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-06-18",
+    "posted_date": "2026-06-17",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -2413,7 +2389,7 @@
     "title": "R&D Scientist – Scientific Data Analytics (d/f/m)",
     "company": "Danaher",
     "location": "Basel, Switzerland",
-    "posted_date": "2026-06-24",
+    "posted_date": "2026-06-23",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2471,5 +2447,19 @@
       "assay development"
     ],
     "deducted_keywords": []
+  },
+  "https://www.michaelpage.ch/job-detail/sp%C3%A9cialiste-middle-office-portfolio-management-1-mois/ref/jn-052026-7018018": {
+    "external_url": "https://www.michaelpage.ch/job-detail/sp%C3%A9cialiste-middle-office-portfolio-management-1-mois/ref/jn-052026-7018018",
+    "status": "matched",
+    "title": "Spécialiste Middle Office / Portfolio Management - Mission Temporaire",
+    "company": "Michael Page Switzerland",
+    "location": "Switzerland",
+    "posted_date": "",
+    "department": "",
+    "score": -2,
+    "matched_keywords": [],
+    "deducted_keywords": [
+      "location:Switzerland"
+    ]
   }
 }
