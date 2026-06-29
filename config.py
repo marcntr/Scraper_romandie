@@ -38,6 +38,8 @@ TITLE_FILTERS: list[str] = [
     "translational science",
     "translational medicine",
     "precision medicine",
+    "personalised medicine",
+    "personalized medicine",
     "biomarker science",
     "biomarker",
     "data science",
