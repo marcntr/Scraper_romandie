@@ -512,6 +512,15 @@ COMPANIES: list[dict] = [
         # EMEA HQ in Geneva; operations in Hünenberg (Zug).
         "search_fallback_terms": ["Geneva", "Hünenberg", "Zurich"],
     },
+    # Edwards LifeSciences (Nyon, Vaud — heart valves & hemodynamic monitoring)
+    {
+        "name": "Edwards LifeSciences",
+        "ats": "workday",
+        "tenant": "edwards",
+        "instance": "wd5",
+        "portal": "EdwardsCareers",
+        "location_facets": {},
+    },
     {
         "name": "Galderma",
         "ats": "workday",
@@ -1117,6 +1126,13 @@ COMPANIES: list[dict] = [
         "name": "Alec Allan",
         "ats": "alecallan",
     },
+    # CK QLS — CK Quality Labor Solutions (Swiss SECO-licensed staffing; pharma/biotech/chem)
+    {
+        "name": "CK QLS",
+        "ats": "generic",
+        "careers_url": "https://ckqls.ch/search/",
+        "keywords": TITLE_FILTERS,
+    },
     # Hays Switzerland (global staffing — Liferay / Life Sciences specialism)
     {
         "name": "Hays Switzerland",
@@ -1241,7 +1257,6 @@ EXCLUDE_TITLE_PATTERNS: list[str] = [
     r"\bVP\b",                # Vice President — but not "MVP", "VPM", etc.
     r"\bHead\s+of\b",
     r"\bSenior\s+Director\b",
-    r"\bPrincipal\b",
     # Roles where ML is the *primary* specialty (in parens = job focus)
     # Keeps roles that merely use ML as a tool (e.g. "Drug Discovery Scientist ... using ML")
     r"\(Machine Learning\)",
