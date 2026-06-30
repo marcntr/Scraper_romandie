@@ -400,7 +400,7 @@
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-06-22"
+    "cached_at": "2026-06-30"
   },
   "_facets:onehealthineers:SHSJB": {
     "facets": {},
@@ -1063,24 +1063,9 @@
     "external_url": "https://jobs.smartrecruiters.com/HUG/744000132121659-stagiaire-rh-conventionne-80-a-100-?oga=true",
     "status": "matched"
   },
-  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000132118550": {
-    "description": "Au sein du laboratoire de cytogénétique hématologique, vous réalisez les analyses selon les techniques en place et celles en développement, dans le respect des procédures du laboratoire.\nVous êtes capable d’adapter la stratégie analytique en fonction de l’indication clinique\nVous préparez les échantillons après réception et assurez leur prise en charge pré-analytique, comptage cellulaire, la mise en culture, les récoltes et le suivi, la priorisation en fonction de l’indication clinique, la séparation cellulaire, la coloration et mise sur lame, pour les analyses de cytogénétique conventionnelle et moléculaire des néoplasies hématologiques.\nVous participez aux activités quotidiennes du laboratoire ainsi qu’au développement de nouvelles méthodes de diagnostic génétique basées sur des approches moléculaires avancées. Polyvalent ou polyvalente, vous disposez d’au moins une année d’expérience spécifique en cytogénétique hématologique.\nVous vous engagez dans les activités d’assurance qualité et contribuez activement au processus d’accréditation des laboratoires du service de génétique.\nCette énumération de tâches n’est pas à considérer comme étant exhaustive. Les missions peuvent varier selon les besoins spécifiques du service d’affectation.",
-    "external_url": "https://jobs.smartrecruiters.com/HUG/744000132118550-technicien-ou-technicienne-en-analyses-biomedicales-aux-laboratoires-de-cytogenetique-hematologique-80-?oga=true",
-    "status": "matched"
-  },
   "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000131896859": {
     "description": "Vous souhaitez évoluer au sein de l’institution médicale universitaire de référence du canton ? Force de proposition, vous avez envie de contribuer aux projets d’une grande institution telle que les HUG et vous vous reconnaissez dans nos valeurs institutionnelles (respect, esprit d’équipe, reconnaissance, confiance, égalité et inclusion).\nVous supervisez et assurez des prestations médicales de qualité, sous la supervision de la hiérarchie médicale, d'une unité de soins au sein du département de réadaptation et gériatrie.\nVous coordonnez les activités pratiques, les interventions cliniques ou thérapeutiques sur le plan clinique mais aussi administratif et organisationnel.\nVous participez à la formation des médecins stagiaires et avez la possibilité de bénéficier d'une formation post-graduée de qualité contribuant à l'obtention du titre de spécialiste en médecine interne et générale (service de médecine interne générale de catégorie B), l'obtention du titre de spécialiste en gériatrie (service de gériatrie de catégorie A), l'obtention du titre de spécialiste en médecine physique et de réadaptation.\nDe plus, vous contribuez à une mission noble et d'utilité majeure pour la société actuelle et bénéficiez d'un cadre de formation diversifié au sein du département. Une équipe pluridisciplinaire et hautement qualifiée vous accompagnera.\nL'épanouissement de nos collaborateurs et collaboratrices dans leur mission est une valeur importante pour nous avec un parcours de carrière personnalisé et plusieurs perspectives d'évolution au sein de l'institution.",
     "external_url": "https://jobs.smartrecruiters.com/HUG/744000131896859-medecin-interne-au-departement-de-readaptation-et-geriatrie-100-?oga=true",
-    "status": "matched"
-  },
-  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000131820150": {
-    "description": "Votre principale mission consiste à colliger les données nécessaires pour les différents projets de recherche réalisés dans le service des soins.",
-    "external_url": "https://jobs.smartrecruiters.com/HUG/744000131820150-commis-ou-commise-administrative-weekendiste-20-?oga=true",
-    "status": "matched"
-  },
-  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000131822360": {
-    "description": "Vous rejoignez le Département de médecine aiguë des HUG, au sein du Service des soins intensifs, et intégrez une équipe de recherche interprofessionnelle (médecins, infirmiers et infirmières, diététiciennes et diététiciens, physiothérapeutes) dynamique et hautement qualifiée.\nÀ l’interface entre la pratique clinique et la recherche, vous participez activement à des projets en nutrition et métabolisme visant à améliorer la prise en charge des patientes et patients critiques.\nVous assurez la coordination des études de recherche sur le terrain : screening, recueil des consentements auprès des proches et des patients, inclusion de la patientèle et mise en œuvre des interventions nutritionnelles en collaboration interprofessionnelle.\nVous recueillez, saisissez et gérez les données de recherche.\nVous formez les équipes médico-soignantes dans le cadre des protocoles d’études en cours.\nVous coollaborez avec les autres centres participants dans le cadre d’études multicentriques.",
-    "external_url": "https://jobs.smartrecruiters.com/HUG/744000131822360-dieteticien-ou-dieteticienne-en-recherche-clinique-au-service-des-soins-intensifs-adultes-40-?oga=true",
     "status": "matched"
   },
   "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000131596984": {
@@ -1334,7 +1319,7 @@
     "title": "Supervisor Flow Cytometry",
     "company": "Labcorp",
     "location": "CHE - Geneva - 7 rue Moise-Marcinhes",
-    "posted_date": "2026-06-04",
+    "posted_date": "2026-06-05",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -1351,7 +1336,7 @@
     "title": "Flow Cytometry Analyst",
     "company": "Labcorp",
     "location": "CHE - Geneva - 7 rue Moise-Marcinhes",
-    "posted_date": "2026-05-30",
+    "posted_date": "2026-05-31",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -1367,7 +1352,7 @@
     "title": "Clinical Scientist in neurosciences",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-06-19",
+    "posted_date": "2026-06-20",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1383,7 +1368,7 @@
     "title": "Scientist, Pharmaceutical Development & Data Analytics _2 years temporary contract",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-06-10",
+    "posted_date": "2026-06-11",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1398,7 +1383,7 @@
     "title": "Technical Expert Portfolio Mgmt, Technical Feasibility and Planning",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-05-30",
+    "posted_date": "2026-05-31",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1416,7 +1401,7 @@
     "title": "Sr. Scientist - Computational Biology - Neuroscience & Rare Diseases",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-05-30",
+    "posted_date": "2026-05-31",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -1439,7 +1424,7 @@
     "title": "Discovery Scientists, in vitro and in vivo Pharmacology, in Cardiovascular & Metabolic Disease Research",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-05-30",
+    "posted_date": "2026-05-31",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -1459,7 +1444,7 @@
     "title": "Global Medical Director, Evidence Generation Lead",
     "company": "Biogen",
     "location": "Baar, Switzerland",
-    "posted_date": "2026-06-17",
+    "posted_date": "2026-06-18",
     "department": "",
     "score": -2,
     "matched_keywords": [
@@ -1478,7 +1463,7 @@
     "title": "Senior Medical Director, Nephrology, Global Medical Affairs",
     "company": "Biogen",
     "location": "Baar, Switzerland",
-    "posted_date": "2026-06-17",
+    "posted_date": "2026-06-18",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -1496,7 +1481,7 @@
     "title": "Senior Scientist Process Development Drug Product 12 months fix-term contract 80-100%",
     "company": "Lonza",
     "location": "CH - Basel",
-    "posted_date": "2026-06-04",
+    "posted_date": "2026-06-05",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1511,7 +1496,7 @@
     "title": "Scientist, Technical Operations",
     "company": "CSL Behring / Vifor",
     "location": "EMEA, CH, Kanton Bern, Bern, CSL Behring",
-    "posted_date": "2026-06-18",
+    "posted_date": "2026-06-19",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1532,7 +1517,7 @@
     "title": "Clinical Sciences Trial Leader/Senior Clinical Sciences Trial Leader, Translational Medicine (Multiple Listings) 80-100%",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-06-07",
+    "posted_date": "2026-06-08",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -1558,7 +1543,7 @@
     "title": "Medical Director, Gastroenterology, Early Clinical Development",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-05-30",
+    "posted_date": "2026-05-31",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -1578,7 +1563,7 @@
     "title": "International Medical Affairs Head, CRM",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-06-10",
+    "posted_date": "2026-06-11",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1600,7 +1585,7 @@
     "title": "Translational Medicine Expert – Dermatology, Associate Director",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-06-16",
+    "posted_date": "2026-06-17",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -1628,7 +1613,7 @@
     "title": "Global Program Regulatory Manager - Neuroscience",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-06-16",
+    "posted_date": "2026-06-17",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1643,7 +1628,7 @@
     "title": "Global Program Regulatory Manager - Neuroscience",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-06-16",
+    "posted_date": "2026-06-17",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1845,7 +1830,7 @@
     "title": "Director - Immunology Therapeutic Area Biomarker Lead (TABL)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-06-23",
+    "posted_date": "2026-06-24",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -1894,7 +1879,7 @@
     "title": "Senior AI/ML Data Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-06-23",
+    "posted_date": "2026-06-24",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1911,7 +1896,7 @@
     "title": "Senior Specialist Data Science, AI & Quantum",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-06-23",
+    "posted_date": "2026-06-24",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1978,7 +1963,7 @@
     "title": "International Medical Affairs Director, Neuroscience",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-06-24",
+    "posted_date": "2026-06-25",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1995,7 +1980,7 @@
     "title": "Patent Attorney",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-06-24",
+    "posted_date": "2026-06-25",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -2107,7 +2092,7 @@
     "title": "Translational Medicine, Strategic Feasibility Expert-Associate Director",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-06-25",
+    "posted_date": "2026-06-26",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -2130,7 +2115,7 @@
     "title": "Commercial Portfolio Head Region Europe",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-06-25",
+    "posted_date": "2026-06-26",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -2185,7 +2170,7 @@
     "title": "Associate Director, Search & Evaluation (Immunology)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-06-26",
+    "posted_date": "2026-06-27",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2211,7 +2196,7 @@
     "title": "Research Scientist II or Senior Scientist I- Toxicology (80-100%) (Dual Level Posting)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-06-26",
+    "posted_date": "2026-06-27",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -2230,7 +2215,7 @@
     "title": "Sr Account Director, Business Development - RWE",
     "company": "Thermo Fisher Scientific",
     "location": "Remote, Switzerland",
-    "posted_date": "2026-06-01",
+    "posted_date": "2026-06-02",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -2247,7 +2232,7 @@
     "title": "Senior Scientist Material Management & Qualification - Quality Control",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-06-02",
+    "posted_date": "2026-06-03",
     "department": "",
     "score": -1,
     "matched_keywords": [
@@ -2264,7 +2249,7 @@
     "title": "Senior Scientist microbiological Quality Control",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-06-09",
+    "posted_date": "2026-06-10",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -2279,7 +2264,7 @@
     "title": "Scientist – QC Lab Systems & CSV (GMP)",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-06-17",
+    "posted_date": "2026-06-18",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -2294,7 +2279,7 @@
     "title": "Scientist Microbiological Quality Control",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-05-30",
+    "posted_date": "2026-05-31",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -2309,7 +2294,7 @@
     "title": "R&D Scientist – Scientific Data Analytics (d/f/m)",
     "company": "Danaher",
     "location": "Basel, Switzerland",
-    "posted_date": "2026-06-23",
+    "posted_date": "2026-06-24",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2379,7 +2364,7 @@
     "title": "Senior Scientist QA Operations",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-06-29",
+    "posted_date": "2026-06-30",
     "department": "",
     "score": -2,
     "matched_keywords": [],
