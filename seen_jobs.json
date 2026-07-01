@@ -361,11 +361,6 @@
     ],
     "cached_at": "2026-06-29"
   },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000103064566": {
-    "description": "Your responsibilities Join us in a place that can be hotter than the centre of the sun, and colder than the vacuum of space, at the very same time. This is the smartest way to learn more than you can imagine and see your work travel at the speed of light. Almost. This is the fastest way to give your career momentum. This is your Origin. Where your career begins. Take part! All our currently available projects are published individually on our career site here . If none of these opened projects match your profile and if you meet all eligibility criteria below, you can apply here spontaneously. Your profile may then be considered for unpublished projects or extra needs. Please note this is not mandatory nor a guarantee that you will be contacted by hiring managers for an interview. Eligibility criteria: You are a national of a CERN Member or Associate Member State . You have a maximum of two years of professional experience since graduation by the application deadline . Your highest educational qualification is a general secondary education diploma . You have never had a CERN fellow or graduate contract before. Applicants with a Bachelor’s, Master’s or PhD degree are not eligible.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000103064566-early-career-professionals-technical-field-spontaneous-applications?oga=true",
-    "status": "matched"
-  },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000085340717": {
     "description": "One of CERN’s key missions is education. Our experts enjoy sharing their knowledge with committed and passionate students. If you are an undergraduate student in a technical or administrative field , and you’re looking to spend a few months training on-the-job, imagine doing your internship at CERN in Geneva. An impressive addition to your CV! We offer a limited number of placements in our practical training programme. Duration 1 – 6 months. !Important!: Please note that only nationals of CERN Member States or Associate Member States are eligible to apply. Applications from other countries will not be considered.",
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000085340717-short-term-internship-2026?oga=true",
@@ -407,7 +402,7 @@
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-06-23"
+    "cached_at": "2026-07-01"
   },
   "_generic:Release Therapeutics": {
     "keywords": "npp"
@@ -620,46 +615,6 @@
       "location:geneva"
     ],
     "deducted_keywords": []
-  },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000118193937": {
-    "description": "What you'll do You’ll join an environment where learning and discovery go hand in hand. As a Technical Student, you’ll gain hands-on experience while supporting projects in mechanical engineering. You’ll be part of a community where your curiosity and willingness to learn matter most. Your responsibilities · Learn from and assist experienced engineers, technicians and scientists in your field of study. · Contribute to ongoing projects in areas such as design, manufacturing, assembly or testing of mechanical components and systems. · Take part in day-to-day technical activities under close supervision. · Collaborate and exchange ideas within an international and multidisciplinary team. Your profile · You are currently studying in Mechanical Engineering or a related field. · You are required or encouraged by your university to complete a practical training period. · You are eager to develop your skills through on-the-job learning. · You enjoy teamwork and learning from others in a collaborative setting. Your skills · A good understanding of mechanical engineering fundamentals relevant to your studies. · Curiosity, precision and a proactive attitude towards learning. · Good communication skills and ability to work effectively in a multicultural team.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000118193937-technical-studentship-mechanical-engineering-2026-3?oga=true",
-    "status": "matched"
-  },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000118190002": {
-    "description": "What you'll do You’ll join an environment where learning and discovery go hand in hand. As a Technical Student, you’ll gain hands-on experience while supporting projects in applied physics. You’ll be part of a community where your curiosity and willingness to learn matter most. Your responsibilities · Learn from and assist experienced engineers, technicians and scientists in your field of study. · Contribute to ongoing projects in areas such as instrumentation, sensors, data acquisition or radiation measurements. · Take part in day-to-day technical activities under close supervision. · Collaborate and exchange ideas within an international and multidisciplinary team. Your profile · You are currently studying in Applied Physics, Engineering Physics or a related field. · You are required or encouraged by your university to complete a practical training period. · You are eager to develop your skills through on-the-job learning. · You enjoy teamwork and learning from others in a collaborative setting. Your skills · A good understanding of applied physics fundamentals relevant to your studies. · Curiosity, precision and a proactive attitude towards learning. · Good communication skills and ability to work effectively in a multicultural team.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000118190002-technical-studentship-applied-physics-2026-3?oga=true",
-    "status": "matched"
-  },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000118189617": {
-    "description": "What you'll do You’ll join an environment where learning and discovery go hand in hand. As a Technical Student, you’ll gain hands-on experience while supporting projects in information technologies, mathematics or robotics. You’ll be part of a community where your curiosity and willingness to learn matter most. Your responsibilities · Learn from and assist experienced engineers, technicians and scientists in your field of study. · Contribute to ongoing projects in areas such as software development, computing infrastructure or robotics. · Take part in day-to-day technical activities under close supervision. · Collaborate and exchange ideas within an international and multidisciplinary team. Your profile · You are currently studying in Computer Science, Mathematics, Robotics, Engineering, or a related field. · You are required or encouraged by your university to complete a practical training period. · You are eager to develop your skills through on-the-job learning. · You enjoy teamwork and learning from others in a collaborative setting. Your skills · A good understanding of computing or software engineering fundamentals relevant to your studies. · Curiosity, precision and a proactive attitude towards learning. · Good communication skills and ability to work effectively in a multicultural team.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000118189617-technical-studentship-it-mathematics-robotics-2026-3?oga=true",
-    "status": "matched"
-  },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000118192307": {
-    "description": "What you'll do You’ll join an environment where learning and discovery go hand in hand. As a Technical Student, you’ll gain hands-on experience while supporting projects in electrical and electronics engineering. You’ll be part of a community where your curiosity and willingness to learn matter most. Your responsibilities · Learn from and assist experienced engineers, technicians and scientists in your field of study. · Contribute to ongoing projects in areas such as installation, testing or maintenance of electrical and electronic systems. · Take part in day-to-day technical activities under close supervision. · Collaborate and exchange ideas within an international and multidisciplinary team. Your profile · You are currently studying in Electrical Engineering, Electronics, or a related field. · You are required or encouraged by your university to complete a practical training period. · You are eager to develop your skills through on-the-job learning. · You enjoy teamwork and learning from others in a collaborative setting. Your skills · A good understanding of electrical engineering or electronics fundamentals relevant to your studies. · Curiosity, precision and a proactive attitude towards learning. · Good communication skills and ability to work effectively in a multicultural team.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000118192307-technical-studentship-electrical-electronics-engineering-2026-3?oga=true",
-    "status": "matched"
-  },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000118186447": {
-    "description": "What you'll do You’ll gain practical experience in an international and multicultural environment while learning how administration supports world-leading scientific research. As an Administrative Student, you’ll develop your skills, contribute to real projects and discover how your studies translate into meaningful work. Your responsibilities Learn from and assist experienced professionals in your field of study. Support daily operations by preparing documents, analysing data or helping coordinate activities. Take part in day-to-day support activities under close supervision. Collaborate and exchange ideas within an international and multidisciplinary team. Your profile You are currently studying in Administration, Communication, Finance, Human Resources, Law, Logistics, Procurement, or a related field. You are required or encouraged by your university to complete a practical training period. You are eager to develop your skills through on-the-job learning. You enjoy teamwork and learning from others in a collaborative setting. Your skills A good understanding of office software and digital tools relevant to your studies. Curiosity, precision and a proactive attitude towards learning. Good communication skills and ability to work effectively in a multicultural team. Please note that in case you are studying in a STEM/engineering field, you are not eligible to apply for this position. Instead, please consider applying for the CERN Technical Student programme .",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000118186447-administrative-student-programme-2026-3?oga=true",
-    "status": "matched"
-  },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000118188067": {
-    "description": "What you'll do You’ll join an environment where learning and discovery go hand in hand. As a Technical Student, you’ll gain hands-on experience while supporting projects in general and civil engineering. You’ll be part of a community where your curiosity and willingness to learn matter most. Your responsibilities · Learn from and assist experienced engineers, technicians and scientists in your field of study. · Contribute to ongoing projects in areas such as design, analysis, surveying or construction-related activities. · Take part in day-to-day technical activities under close supervision. · Collaborate and exchange ideas within an international and multidisciplinary team. Your profile · You are currently studying in General or Civil Engineering or a related field. · You are required or encouraged by your university to complete a practical training period. · You are eager to develop your skills through on-the-job learning. · You enjoy teamwork and learning from others in a collaborative setting. Your skills · A good understanding of general or civil engineering fundamentals relevant to your studies. · Curiosity, precision and a proactive attitude towards learning. · Good communication skills and ability to work effectively in a multicultural team.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000118188067-technical-studentship-general-civil-engineering-2026-3?oga=true",
-    "status": "matched"
-  },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000118184655": {
-    "description": "What you'll do You will spend up to 36 months working on your doctoral thesis in a truly unique environment where science, technology and innovation meet. You’ll be part of an international community of experts, gaining experience at the forefront of research and engineering. Your responsibilities · Carry out your doctoral research in collaboration with CERN and your home university. · Contribute to ongoing projects in domains such as applied physics, computing, engineering or related technical fields. · Present and document your work as part of your academic and research objectives. · Learn from and work alongside world-class scientists, engineers and technicians within an international and multidisciplinary team. Your profile · Your field of study is in Applied Physics, Engineering, Computing, or a related area. · You are motivated to develop your research in a hands-on, collaborative and innovative environment. · You enjoy teamwork and learning from others in a collaborative setting. Your skills · Solid theoretical foundation in your research area, combined with an interest in practical applications. · Curiosity, precision and a proactive attitude towards learning. · Good communication skills and ability to work effectively in a multicultural team.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000118184655-doctoral-student-programme-2026-3?oga=true",
-    "status": "matched"
-  },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000118196747": {
-    "description": "What you'll do You’ll join an environment where learning and discovery go hand in hand. As a Technical Student, you’ll gain hands-on experience while supporting projects in material and surface science. You’ll be part of a community where your curiosity and willingness to learn matter most. Your responsibilities · Learn from and assist experienced engineers, technicians and scientists in your field of study. · Contribute to ongoing projects in areas such as analyses, testing or characterisation of materials and coatings. · Take part in day-to-day technical activities under close supervision. · Collaborate and exchange ideas within an international and multidisciplinary team. Your profile · You are currently studying in Applied Physics, Engineering Physics or a related field. · You are required or encouraged by your university to complete a practical training period. · You are eager to develop your skills through on-the-job learning. · You enjoy teamwork and learning from others in a collaborative setting. Your skills · A good understanding of material and surface science fundamentals relevant to your studies. · Curiosity, precision and a proactive attitude towards learning. · Good communication skills and ability to work effectively in a multicultural team.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000118196747-technical-studentship-material-surface-science-2026-3?oga=true",
-    "status": "matched"
   },
   "_generic:SIB Swiss Institute of Bioinformatics": {
     "keywords": "bioinformatics,research fellow,scientist"
@@ -1057,19 +1012,9 @@
     "external_url": "https://jobs.smartrecruiters.com/HUG/744000131896859-medecin-interne-au-departement-de-readaptation-et-geriatrie-100-?oga=true",
     "status": "matched"
   },
-  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000131596984": {
-    "description": "Le nombre croissant d'installations radioscopiques dans les blocs opératoires offre des avantages considérables aux patients et patientes tout en soulevant des enjeux importants en matière de radioprotection.\nAinsi, dans le cadre de l’initiative visant à renforcer la sécurité radiologique au sein des huit blocs opératoires rattachés à la Direction des soins, vous intégrez le Service de radiologie en qualité d’experte ou expert en radioprotection. En tant que moteur de cette nouvelle fonction, vous êtes responsable de la mise en place et de l'amélioration continue des pratiques d'imagerie médicale.\nVous veillez à l’application des bonnes pratiques de radioprotection pour assurer la sécurité de la patientèle ainsi que du personnel. Vous travaillez particulièrement sur l'optimisation des techniques radiologiques lors des interventions les plus irradiantes telles que la scopie 3D et l’O-Arm en collaboration avec le groupe de radioprotection et de physique médicale. Ensemble, vous contribuez à développer des stratégies et des solutions innovantes en étant force de proposition visant à renforcer la sécurité de toutes les personnes présentes en salle d'intervention.\nVous travaillez en étroite collaboration avec les chirurgiens et chirurgiennes, les instrumentistes, ainsi que les aides de bloc opératoire. Votre capacité à gérer efficacement le stress et à prioriser les tâches est essentielle dans cet environnement dynamique.\nGrâce à votre sens relationnel, vous apportez un soutien précieux en formant et en accompagnant les utilisateurs et utilisatrices des équipements de scopie mobile, toujours plus complexes et diversifiés. Ainsi, vous contribuez à améliorer la qualité des images tout en minimisant les doses de radiation délivrées à la patientèle et au personnel.\nDes formations spécialisées seront proposées pour renforcer vos compétences dans l'utilisation des appareils de scopie, ainsi que pour vous familiariser avec les spécificités du travail en bloc opératoire et les principes fondamentaux de la radioprotection.",
-    "external_url": "https://jobs.smartrecruiters.com/HUG/744000131596984-technicien-ou-technicienne-en-radiologie-medicale-trm-aux-blocs-operatoires-50-?oga=true",
-    "status": "matched"
-  },
   "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000131415182": {
     "description": "En votre qualité de médecin adjoint ou adjointe de l'unité d’orthopédie et traumatologie pédiatriques, vous contribuez à la supervision de l'activité, à l'encadrement des médecins internes et des chefs et cheffes de clinique.\nVous collaborez aux activités cliniques avec les médecins cheffes et chefs de service et les médecins adjoints et adjointes.\nVous possédez une solide expérience en orthopédie pédiatrique et exercez principalement dans cette spécialité pour ce qui est de l'activité programmée.\nVous assurez la coordination des activités pratiques, les interventions cliniques, thérapeutiques ou chirurgicales des patients et patientes qui vous sont confiées. Vous participez au système de gardes et de piquets.\nDémontrant un intérêt confirmé dans l'enseignement, vous participez à l'instruction pré/post-graduée et continue dans l'unité.\nDe nature dynamique, flexible et engagée, vous développez des projets cliniques interdisciplinaires. Vous participez, déployez et assurez la recherche dans l'unité, particulièrement dans le domaine des pathologies du rachis de l’enfant et de l’adolescent et notamment des scolioses.\nVous êtes une personne reconnue pour votre leadership et mettez à profit vos excellentes compétences organisationnelles, relationnelles et de communication, en équipe pluridisciplinaire et avec les personnes prises en charge et leur famille.",
     "external_url": "https://jobs.smartrecruiters.com/HUG/744000131415182-medecin-adjoint-ou-adjointe-au-sein-de-l-unite-d-orthopedie-et-traumatologie-pediatriques-80-?oga=true",
-    "status": "matched"
-  },
-  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000131378475": {
-    "description": "Dans le cadre de vos activités, vous êtes rattaché ou rattaché à l’Unité de guidance petite enfance destinée à la prise en charge de petits (0-4 ans) et de leurs familles.\nVous travaillez au sein du foyer OBB et/ou de la maison Dora, des structures rattachées à l’Office de l’enfance et de la jeunesse, qui accueillent prioritairement des familles particulièrement vulnérables. Vous avez la possibilité d'offrir un accompagnement dans le développement des liens parent-enfant auprès des familles à haut risque psychosocial.\nVous effectuez des évaluations puis un accompagnement parent-bébé dans une collaboration étroite avec les équipes d’OBB ou de la maison Dora (équipe éducative de la FOJ) et celle du SPEA (équipe de liaison périnatale de l’unité Guidance petite enfance destinée à la prise en charge de petits (0-4 ans) et de leurs familles).\nEn tant que titulaire du poste, vous avez la charge de rencontrer aux HUG les familles susceptibles d’intégrer le foyer OBB ou la maison Dora. Au foyer OBB comme à la maison Dora, vous prenez en charge en collaboration avec l’équipe d’éducateurs, plusieurs dyades, triades ou familles dans le foyer ou au sein de la Maison de l’enfance et de l’adolescence lors de rendez-vous hebdomadaires. Vous êtes le ou la référente pédopsychologue des dyades ou familles accueillies (environ 10 familles à la maison OBB et 4 à la maison Dora). Vous soutenez et évaluez l’établissement des liens parent-bébé/enfant au cours des soins quotidiens (bain, change, repas, sommeil, interactions/jeux…) et les compétences du bébé/enfant ainsi que son développement en accompagnant ses parents dans la lecture, le décodage et les réponses à ses signaux.\nVous soutenez et accompagnez le parent selon son état psychique (dépression post-partum, trouble de la personnalité, trouble psychiatrique non-décompensé…).\nEn outre, vous soutenez et évaluez les compétences parentales en collaboration étroite avec l’équipe pluridisciplinaire du foyer OBB et de la maison Dora (psychomotricienne, psychiatre adulte, pédiatre, éducatrice, infirmière spécialisée, sage-femme, assistante sociale ainsi qu’avec l’équipe pédopsychiatrique de liaison périnatale du SPEA).\nUne participation est également demandée aux colloques d’équipe, aux supervisions, aux réseaux psycho-sociaux autour de la famille tant dans le cadre du foyer qu’aux HUG.\nEnfin, sur le plan administratif, vous vous chargez des notes de suite des observations quotidiennes de l’enfant et de la relation parent-bébé pour chaque famille dans le dossier HUG de l’enfant. Vous participez à l’élaboration et la rédaction de rapports ainsi qu'à la facturation.",
-    "external_url": "https://jobs.smartrecruiters.com/HUG/744000131378475-psychologue-au-service-de-psychiatrie-de-l-enfant-et-de-l-adolescent-50-a-100-?oga=true",
     "status": "matched"
   },
   "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000131159082": {
@@ -1092,11 +1037,6 @@
     "external_url": "https://jobs.smartrecruiters.com/HUG/744000129988839-weekendiste-au-service-desk-25-?oga=true",
     "status": "matched"
   },
-  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000129979104": {
-    "description": "Vous intégrez le pôle RSE et assistez la responsable du pôle et l’équipe RSE au développement et la mise en œuvre de la stratégie de durabilité et au chiffrage carbone des activités de l’hôpital. Vous contribuez activement aux projets de sensibilisation et aux évènements pilotés par le pôle RSE.\nVous participez à des projets en lien avec la mise en œuvre de la stratégie de durabilité.\nVous collectez et traitez des données et contribuez à l’élaboration du Rapport de durabilité 2026 et du bilan carbone 2026 des HUG.\nVous collaborez avec la Direction de la communication pour la création et l’élaboration de divers contenus et supports de sensibilisation à usage interne.\nVous contribuez à l’organisation et à la coordination d’évènements sur le thème de la durabilité, vous conseillez sur les bonnes pratiques, répondez aux questions afin de promouvoir la durabilité et la mobilité durable au sein des HUG.\nA cela s'ajoute votre participation à l'organisation quotidienne du pôle avec, par exemple, la préparation et l’organisation de séances, la tenue de tableaux de bord, etc.",
-    "external_url": "https://jobs.smartrecruiters.com/HUG/744000129979104-stage-responsabilite-sociale-et-environnementale-rse-80-a-100-?oga=true",
-    "status": "matched"
-  },
   "https://www.stettlerconsulting.ch/en/current-vacancies/conseiller-medical-en-urologie-a-definir/": {
     "external_url": "https://www.stettlerconsulting.ch/en/current-vacancies/conseiller-medical-en-urologie-a-definir/",
     "status": "ignored",
@@ -1116,21 +1056,6 @@
   },
   "_generic:IPI": {
     "keywords": "brevets,conseil en brevets"
-  },
-  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000128988009": {
-    "description": "Le Secteur de la voirie a la responsabilité de récolter, transporter, conditionner et évacuer tous les types de déchets produits au sein de l'hôpital. Le secteur est le garant de l'application des lois et directives tant fédérales que cantonales, ainsi que du respect de l'environnement. Les objectifs principaux sont de revoir et d'optimiser le circuit des déchets dans le contexte HUG.\nAuprès des professionnels et professionnelles encadrant, vous contribuez à la collecte et au tri raisonné de tous les déchets de l'institution (6'000 tonnes de déchets par an), dans le respect des directives institutionnelles et législatives.\nVous êtes amené ou amenée à communiquer et renseigner les utilisateurs et les utilisatrices sur les bons gestes de tri, afin de contribuer à faire de nos déchets une ressource.",
-    "external_url": "https://jobs.smartrecruiters.com/HUG/744000128988009-apprentissage-recycleuse-ou-recycleur-cfc-100-?oga=true",
-    "status": "matched"
-  },
-  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000128475655": {
-    "description": "En tant qu’apprenti ou apprentie, vous vous formez au sein d'une équipe multidisciplinaire composée de professionnelles et professionnels de la santé, de médecins, de brancardiers et brancardières, ainsi que de personnel des services de restauration, d'intendance et de maintenance.\nVous offrez des prestations personnalisées qui répondent aux besoins alimentaires et à l'entretien de l'environnement des patientes et des patients. En les accompagnant dans le choix de leurs menus, vous tenez compte de leur régime alimentaire. Vous préparez la mise en place des repas et des collations en garantissant un service adapté à l'état de santé et aux besoins personnels des patientes et des patients, tout au long de la journée.\nVous veillez également à l'entretien quotidien de l'environnement de la patientèle, ainsi qu'aux autres activités hôtelières et logistiques, telles que le rangement, la gestion des stocks et le linge. Vous vous assurez du respect des règles d’hygiène, de sécurité alimentaire et de contagion et vous vous coordonnez avec les équipes de soins afin de réaliser vos tâches en adéquation avec les consignes et restrictions spécifiques à chaque patiente et patient.",
-    "external_url": "https://jobs.smartrecruiters.com/HUG/744000128475655-apprentissage-gestionnaire-en-hotellerie-intendance-cfc-100-?oga=true",
-    "status": "matched"
-  },
-  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000128475599": {
-    "description": "Le Service restauration regroupe sept cuisines et onze pôles de restaurations (brasserie, cafétéria, café, sandwicherie) qui servent quelques 9'000 repas par jour. Ce service a pour mission d'offrir des prestations de qualité et des moments agréables et conviviaux.\nLors de votre apprentissage, vous abordez les différents aspects de gestion et d’exploitation d’un restaurant.\nVous participez à la réception et au contrôle de marchandises ainsi qu’à la préparation de plats et l’élaboration de boissons. De plus, vous assurez l’accueil, la vente, et le conseil à la clientèle au sein des restaurants. Vous gérez également la mise en place des produits en veillant à leur présentation.\nPar ailleurs, vous participez à la planification et l’organisation des activités de terrain comme la gestion des plannings ou la mise en place de processus de travail. La sécurité alimentaire, l’hygiène, le suivi de la qualité et le marketing sont autant de notions qui viennent parfaire votre formation.\nLa diversité des prestations fournies et l’exigence qu’impose le milieu hospitalier permettent au Service restauration d'offrir aux apprentis et apprenties un parcours de formation varié et complet.\nL'apprenti ou apprentie effectue son apprentissage sur plusieurs sites : hôpital des Trois-Chêne, hôpital de Belle-Idée et hôpital de Bellerive.",
-    "external_url": "https://jobs.smartrecruiters.com/HUG/744000128475599-apprentissage-gestionnaire-en-restauration-de-systeme-cfc-100-?oga=true",
-    "status": "matched"
   },
   "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000127814549": {
     "description": "Votre engagement s’inscrit dans le cadre une formation complète de pédiatrie de cinq ans dont un ou deux ans dans l’un de nos hôpitaux partenaires (Hôpital de la Tour, Hôpital de Fribourg, Hôpital de Sion, Hôpital Riviera-Chablais, Hôpital de Neuchâtel, Hôpital de Nyon).\nIl vous est également possible de vous engager uniquement pour trois ans, ceci afin d’obtenir la validation des années dans un centre A.\nVous progressez dans un cursus de formation selon un plan prédéterminé dans les secteurs ci-dessous :\nUnités d'hospitalisation\n\nUrgences pédiatriques\n\nSoins intensifs pédiatriques\n\nNéonatologie\n\nMaternité et consultation du développement\n\nSpécialités pédiatriques et certaines entités partenaires (médecine de l'adolescent, allergologie, cardiologie, endocrinologie, gastro-entérologie & hépatologie, infectiologie, néphrologie, neurologie, onco-hématologie, ORL, orthopédie, pneumologie, rhumatologie, Médecins sans frontières)\nVous assurez sous la supervision de la hiérarchie médicale, les activités pratiques et thérapeutiques qui vous sont confiées et vous vous engagez dans une formation post-grade en pédiatrie selon le programme de l’ISFM.\nVous devez travailler en équipe multidisciplinaire et contribuer aux enseignements et supervisions liés à une structure universitaire.\nA la fin de votre formation, vous êtes prêt à passer l’examen FMH de pédiatrie et avez rempli toutes les exigences FMH pour le titre de spécialisation en pédiatrie.\nPour plus d’informations sur notre programme de formation, n’hésitez pas à consulter notre site internet ici.",
@@ -1162,24 +1087,9 @@
     "external_url": "https://jobs.smartrecruiters.com/HUG/744000126253119-chef-ou-cheffe-de-clinique-avec-ou-sans-titre-de-specialite-a-l-unite-de-chirurgie-pediatrique-80-a-100-?oga=true",
     "status": "matched"
   },
-  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000126251421": {
-    "description": "Dans le cadre de vos fonctions en qualité de médecin interne, vous assurez, sous la supervision de la hiérarchie médicale, les activités pratiques et thérapeutiques qui vous sont confiées et vous vous engagez dans une formation postgrade en chirurgie pédiatrique selon le programme de l’ISFM.\nVous devez travailler en équipe multidisciplinaire et contribuer aux enseignements et supervisions liés à une structure universitaire, contribuant ainsi aussi à la formation des étudiants de médecine.\nVous garantissez des prestations médicales de qualité, tant sur le plan clinique et administratif qu'organisationnel.",
-    "external_url": "https://jobs.smartrecruiters.com/HUG/744000126251421-medecin-interne-a-l-unite-de-chirurgie-pediatrique-80-a-100-?oga=true",
-    "status": "matched"
-  },
   "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000126030230": {
     "description": "En tant que chef ou cheffe de clinique avec/sans titre de spécialité, vous garantissez en autonomie la qualité des prestations médicales dans les unités de soins de votre domaine de compétence.\nVous coordonnez les activités pratiques ainsi que les stratégies diagnostiques et thérapeutiques des patientes et patients qui vous sont confiés en étroite collaboration avec les médecins adjoints et adjointes.\nVous évoluez dans un environnement universitaire stimulant, au sein d’une équipe pluridisciplinaire, votre leadership vous permet d’accompagner de manière efficiente les médecins internes dans leur développement de compétences.",
     "external_url": "https://jobs.smartrecruiters.com/HUG/744000126030230-cheffe-ou-chef-de-clinique-avec-ou-sans-titre-de-specialite-fellowship-en-medecine-intensive-pediatrique-100-?oga=true",
-    "status": "matched"
-  },
-  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000125086094": {
-    "description": "Dans le cadre de la réorganisation de la gestion des secrétariats du Département de médecine (DMED), vous occupez un rôle central dans la coordination et le pilotage des secrétariats médicaux. Rattachée ou rattaché hiérarchiquement à la coordinatrice du secrétariat du DMED, vous êtes responsable de l’organisation, de la supervision et du bon fonctionnement des secrétariats de deux services, dans le respect des directives départementales et institutionnelles.\nVous planifiez, coordonnez et encadrez l’ensemble des activités de secrétariat médical et d’accueil de la patientèle. Vous mettez en place des processus garantissant la qualité des prestations, l’harmonisation des pratiques professionnelles et la cohérence administrative au sein du département. Vous mettez également en place des processus visant à garantir la programmation et le suivi des examens des plateaux d’endoscopies et veillez à son bon fonctionnement.\nEn étroite collaboration avec les médecins-chefs et cheffes de service, vous contribuez à une communication fluide entre les équipes médicales et administratives et les informez régulièrement des procédures et évolutions impactant les secrétariats. Vous garantissez la bonne gestion des dossiers médicaux des patientes et patients, depuis leur constitution jusqu’à leur mise à jour et leur classement, incluant la documentation externe. Vous veillez au contrôle et à la finalisation de la documentation clinique, ainsi qu’au respect des exigences et délais institutionnels.\nVous encadrez, motivez et accompagnez les collaboratrices et collaborateurs placés sous votre responsabilité. Vous veillez à l’adéquation des ressources avec la charge de travail, gérez les plannings et les remplacements. Vous animez des séances d’équipe, conduisez les entretiens d’évaluation et assurez le développement des compétences de l’équipe, tout apportant un soutien opérationnel lorsque nécessaire.\nVous assurez le suivi du codage, de la facturation et des relations avec les assurances, en coordination avec les médecins responsables. En tant que référente ou référent administratif, vous êtes l’interlocutrice ou l’interlocuteur répondant auprès du service du codage pour toute question relative à la documentation clinique. Vous participez activement aux projets du département ou de l’institution et contribuez à la formation et à l’accompagnement des nouveaux collaborateurs et collaboratrices, ainsi que des personnes en stage ou en apprentissage. En complément, vous prenez en charge les tâches de secrétariat propres à votre service.",
-    "external_url": "https://jobs.smartrecruiters.com/HUG/744000125086094-cheffe-ou-chef-de-secretariat-80-a-100-?oga=true",
-    "status": "matched"
-  },
-  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000124568419": {
-    "description": "L’assistant ou assistante de recherche clinique joue un rôle clé dans la gestion, la coordination et la mise en œuvre des études de recherche menées au sein du service de pharmacologie et toxicologie cliniques. Il assure la coordination des projets de recherche clinique, le suivi des protocoles, la gestion des données et la conformité aux réglementations en vigueur. Il travaille en étroite collaboration avec les investigateurs principaux, les équipes cliniques, les équipes de recherche et les organismes de réglementation.\nVous assurez le bon déroulement des études en respectant les protocoles et les délais.\nVous planifiez et organisez les activités liées aux essais cliniques (recrutement des patients et patientes, visites, suivi, collecte des données).\nVous veillez au respect des Bonnes Pratiques Cliniques (BPC) et des réglementations en vigueur (ICH-GCP, éthique, confidentialité des données).\nVous préparez et soumettez les dossiers aux comités d’éthique et aux autorités réglementaires (Swissmedic).\nVous assurez la conformité aux exigences légales et institutionnelles.\nVous maintenez la documentation des études (CRF, consentements, monitoring).\nVous informez et obtenez le consentement de la patientèle participant aux études.\nVous assurez la collecte et l’entrée des données dans les bases électroniques (eCRF).\nVous suivez les événements indésirables et assurez leur déclaration selon les exigences réglementaires.",
-    "external_url": "https://jobs.smartrecruiters.com/HUG/744000124568419-assistant-ou-assistante-de-recherche-au-service-de-pharmacologie-et-toxicologie-cliniques-80-a-100-?oga=true",
     "status": "matched"
   },
   "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000123894409": {
@@ -1187,24 +1097,9 @@
     "external_url": "https://jobs.smartrecruiters.com/HUG/744000123894409-medecin-interne-au-service-de-medecine-de-premier-recours-50-a-100-?oga=true",
     "status": "matched"
   },
-  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000119554887": {
-    "description": "En tant que cheffe ou chef de clinique, avec ou sans titre de spécialité, vous assurez le suivi psychiatrique des patients/détenus et des patientes/détenues au sein du service (milieu fermé ou ouvert).\nVous intervenez dans un cadre clinique exigeant, au croisement des enjeux de soins, de justice et de sécurité, en lien étroit avec des équipes pluridisciplinaires expérimentées.\nVotre approche s’inscrit dans un abord thérapeutique individualisé visant la stabilisation des troubles mentaux, la rééducation des symptômes et la prévention de la récidive. Vous contribuez à une prise en charge globale, respectueuse de la dignité des personnes et des principes éthiques propres à la psychiatrie en contexte de contrainte. A ce titre, vous travaillez de manière coordonnée avec des personnes professionnelles aux compétences complémentaires, telles qu’infirmiers et infirmières, psychologues, psychiatres, ergothérapeutes, psychomotriciens et psychomotriciennes.\nParallèlement à votre activité, vous avez l'opportunité de finaliser, si cela n'est pas encore le cas, votre formation post-graduée de qualité intégrée contribuant à l'obtention du titre de spécialiste en psychiatrie et psychothérapie.",
-    "external_url": "https://jobs.smartrecruiters.com/HUG/744000119554887-chef-ou-cheffe-de-clinique-avec-ou-sans-titre-de-specialite-80-a-100-?oga=true",
-    "status": "matched"
-  },
   "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000116950648": {
     "description": "Vous participez à la conduite médicale opérationnelle du Service des urgences dans les domaines intra et extrahospitaliers (SMUR).  \nVous rejoignez une équipe au fonctionnement collégial pour assurer, en étroite collaboration avec votre hiérarchie, la direction d’une unité de soin et la coordination des activités cliniques qui vous sont confiées. A ce titre, vous êtes responsable, sous supervision, des actes médicaux en établissant un équilibre entre le travail demandé et les possibilités des médecins de l’équipe. Vous transmettez en temps utile les décisions médicales et toute information nécessaire aux médecins, à l’équipe soignante et aux partenaires concernés.  \nDans votre activité, vous renseignez les patients et patientes de façon simple et les proches dans la limite du secret professionnel. \nVous élaborez et traitez le dossier médical et travaillez en étroite collaboration avec le secrétariat médical pour sa mise à jour régulière et sa clôture. Vous consignez les prestations effectuées afin d’en générer la facturation. \nVous participez activement aux activités de formation et de supervision des médecins internes du service, aux activités de développement et de recherche ainsi qu'au développement de la médecine d'urgence.",
     "external_url": "https://jobs.smartrecruiters.com/HUG/744000116950648-chef-ou-cheffe-de-clinique-avec-ou-sans-titre-de-specialite-au-service-des-urgences-80-a-100-?oga=true",
-    "status": "matched"
-  },
-  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000115236672": {
-    "description": "Vous souhaitez évoluer au sein de l’institution médicale universitaire de référence du canton ? Vous souhaitez collaborer avec des spécialistes renommés de la gériatrie et de la médecine interne ?\nEn tant que Chef ou Cheffe de clinique, avec ou sans titre de spécialité, vous garantissez la qualité des prestations médicales dans les unités de soins de votre domaine de compétence.\nVous coordonnez les activités pratiques ainsi que les stratégies diagnostiques et thérapeutiques des patients et patientes qui vous sont confiées en étroite collaboration avec les médecins adjoints ou adjointes.\nEvoluant dans un environnement universitaire stimulant, au sein d’une équipe interdisciplinaire, vous contribuez aussi à la formation des médecins internes.\nVous participez aux activités de recherche clinique et vous débutez, selon votre intérêt personnel, un projet qualité ou de recherche clinique avec un encadrement spécifique.",
-    "external_url": "https://jobs.smartrecruiters.com/HUG/744000115236672-chef-ou-cheffe-de-clinique-avec-ou-sans-titre-de-specialite-80-a-100-?oga=true",
-    "status": "matched"
-  },
-  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000103228586": {
-    "description": "Le service de radiologie est à la recherche d’un ou une médecin adjointe référente ORL et  et maxillo-faciale pour la coordination et le développement des activités diagnostiques cliniques et de recherche dans ce domaine.\nVous supervisez l’activité de consultation et l’interprétation des examens de l’unité de radiologie ORL et maxillo-faciale et vous assurez le développement de cette unité, en étroite collaboration avec la médecin adjointe responsable de cette unité et selon les objectifs fixés par cette dernière et le médecin-chef de service.\nVous veillez au bon fonctionnement de l'unité en termes de qualité et délai des prestations et d'encadrement des collaborateurs et collaboratrices.\nVous participez aux activités de garde et de piquet en radiologie, selon la désignation du médecin-chef du service.\nVous garantissez une bonne interface avec les autres unités et secteurs du service des urgences et de radiologie, ainsi que les autres services cliniques des HUG.\nVous participez à l'enseignement pré/post-gradué et continu en radiologie.\nVous veillez et contribuez au développement d'une recherche de qualité au sein de l'unité dans le domaine de la radiologie ORL et maxillo-faciale.\nVous contribuez à l’élaboration des projets de collaboration dans le domaine de la radiologie ORL et maxillo-faciale avec le service de radiologie, et les autres services du département diagnostique et les autres départements des HUG.",
-    "external_url": "https://jobs.smartrecruiters.com/HUG/744000103228586-medecin-adjoint-ou-adjointe-en-radiologie-orl-et-maxillo-faciale-100-?oga=true",
     "status": "matched"
   },
   "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000103227285": {
@@ -1291,11 +1186,6 @@
     "external_url": "https://jobs.smartrecruiters.com/HUG/744000133001425-educateur-ou-educatrice-sociale-en-psychiatrie-80-?oga=true",
     "status": "matched"
   },
-  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000133001420": {
-    "description": "Dans le cadre de vos activités, vous évoluez au sein de l'Unité de guidance petite enfance, à la consultation ambulatoire. \nVotre mission consiste à évaluer et à prendre en charge les difficultés de langage et de communication chez des enfants d’âge préscolaire. Vous définissez et mettez en œuvre des objectifs de prévention et de prise en charge thérapeutique adaptés aux besoins de chaque enfant en collaboration avec l’équipe pluridisciplinaire et le réseau genevois. Vous accompagnez également les parents afin de les aider à soutenir le développement de leur enfant.\nVotre participation aux colloques d’équipe fait partie intégrante de votre activité.",
-    "external_url": "https://jobs.smartrecruiters.com/HUG/744000133001420-logopediste-50-a-60-?oga=true",
-    "status": "matched"
-  },
   "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000133002490": {
     "description": "Force de proposition, vous avez envie de contribuer aux projets d’une grande institution telle que les HUG et vous vous reconnaissez dans nos valeurs institutionnelles ?\nEn tant qu'ergothérapeute en psychiatrie adulte, vous avez la responsabilité d’élaborer et de réaliser un projet thérapeutique individualisé autour des occupations humaines et adapté au statut du patient ou de la patiente.\nVous jouez un rôle clé dans la promotion de l’autonomie, la réhabilitation et l’accompagnement psycho-affectif des patients et patientes souffrant de troubles psychiatriques. Vous intervenez au sein d’un centre ambulatoire de psychiatrie et de psychothérapie intégrées (CAPPI) proposant des traitements psychiatriques, psychosociaux et psychothérapeutiques aux patients du secteur Servette.\nVous êtes responsable de la conduite des plans de traitement en ergothérapie en individuel et en groupe ainsi que de la saisie des prestations effectuées à but de facturation.\nVous gérez et actualisez les dossiers patients en documentant les prestations fournies et les informations cliniques.\nVous vous montrez synthétique dans vos transmissions d’information. Vous mesurez et réévaluez les objectifs thérapeutiques lors des rencontres interdisciplinaires (visites et/ou colloques).\nVous garantissez la qualité et la continuité des soins en lien avec les autres professionnels et professionnelles de santé.\nVotre fonction vous amène à participer aux projets interprofessionnels de votre département ainsi que de partager votre pratique auprès la filière des ergothérapeutes des HUG.",
     "external_url": "https://jobs.smartrecruiters.com/HUG/744000133002490-ergotherapeute-en-ambulatoire-de-psychiatrie-70-?oga=true",
@@ -1308,7 +1198,7 @@
     "title": "Supervisor Flow Cytometry",
     "company": "Labcorp",
     "location": "CHE - Geneva - 7 rue Moise-Marcinhes",
-    "posted_date": "2026-06-04",
+    "posted_date": "2026-06-05",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -1325,7 +1215,7 @@
     "title": "Clinical Scientist in neurosciences",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-06-19",
+    "posted_date": "2026-06-20",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1341,7 +1231,7 @@
     "title": "Scientist, Pharmaceutical Development & Data Analytics _2 years temporary contract",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-06-10",
+    "posted_date": "2026-06-11",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1356,7 +1246,7 @@
     "title": "Technical Expert Portfolio Mgmt, Technical Feasibility and Planning",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-05-31",
+    "posted_date": "2026-06-01",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1369,7 +1259,7 @@
     "title": "Principal Real World Data Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-05-31",
+    "posted_date": "2026-06-01",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -1387,7 +1277,7 @@
     "title": "Sr. Scientist - Computational Biology - Neuroscience & Rare Diseases",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-05-31",
+    "posted_date": "2026-06-01",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -1410,7 +1300,7 @@
     "title": "Discovery Scientists, in vitro and in vivo Pharmacology, in Cardiovascular & Metabolic Disease Research",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-05-31",
+    "posted_date": "2026-06-01",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -1430,7 +1320,7 @@
     "title": "Global Medical Director, Evidence Generation Lead",
     "company": "Biogen",
     "location": "Baar, Switzerland",
-    "posted_date": "2026-06-17",
+    "posted_date": "2026-06-18",
     "department": "",
     "score": -2,
     "matched_keywords": [
@@ -1449,7 +1339,7 @@
     "title": "Senior Medical Director, Nephrology, Global Medical Affairs",
     "company": "Biogen",
     "location": "Baar, Switzerland",
-    "posted_date": "2026-06-17",
+    "posted_date": "2026-06-18",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -1467,7 +1357,7 @@
     "title": "Senior Scientist Process Development Drug Product 12 months fix-term contract 80-100%",
     "company": "Lonza",
     "location": "CH - Basel",
-    "posted_date": "2026-06-04",
+    "posted_date": "2026-06-05",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1482,7 +1372,7 @@
     "title": "Principal Scientist Tech Ops (CMC Science)",
     "company": "CSL Behring / Vifor",
     "location": "EMEA, CH, Kanton Bern, Bern, CSL Behring",
-    "posted_date": "2026-06-11",
+    "posted_date": "2026-06-12",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1499,7 +1389,7 @@
     "title": "Clinical Sciences Trial Leader/Senior Clinical Sciences Trial Leader, Translational Medicine (Multiple Listings) 80-100%",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-06-07",
+    "posted_date": "2026-06-08",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -1525,7 +1415,7 @@
     "title": "Medical Director, Gastroenterology, Early Clinical Development",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-05-31",
+    "posted_date": "2026-06-01",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -1538,23 +1428,6 @@
     ],
     "deducted_keywords": []
   },
-  "/job/Basel-City/International-Medical-Affairs-Head--CRM_REQ-10079239-1": {
-    "description": "Job Description SummaryThe Head of International Medical Affairs (IMA) Cardiovascular, Renal, Metabolic (CRM) plays an important role in supporting pre-launch preparation and new product or indication launches for priority brands internationally. This position is central to bringing innovative therapies to international markets by providing medical and scientific leadership and helping shape the strategic direction of launches and Life Cycle Management (LCM).\n\nBy advancing innovative launch readiness solutions, this role helps ensure the therapeutic area is well prepared to deliver value for patients, clinicians, and healthcare systems. It includes translating deep science in to differentiating and patient focused medical affairs strategies to support key pre-launch and launch activities. The role brings together medical perspectives across regions and priority countries, helping ensure consistency and alignment on Integrated Evidence Plans, as well as messaging and strategy that support access and clinical adoption.\n\nBy coordinating efforts internationally, this role helps connect regional and country-specific needs with broader organizational objectives. This includes tailoring medical activities to address the unique opportunities and challenges within each market, supporting access and demonstrating the value of new therapies to our patients, healthcare professionals, and healthcare systems. Through close collaboration with cross-functional teams, the role contributes not only to successful launches but also to the long-term success of products in the marketplace, helping advance the mission to improve and extend people’s lives.\nThe Head of IMA for CRM leads the CRM Medical Affairs team responsible for the CRM portfolio, launches of new products or indications, and priority Life Cycle Management (LCM), with a focus on priority countries.\n\nReporting to the Head of International Medical Affairs, this role is a member of the International Medical Affairs Leadership Team and TA Leadership Team.\n\n \nJob Description\nMajor Accountabilities:\nMedical and scientific leadership input into priority assets, LCM of the CRM portfolio and pipeline (post-TDP)\nInnovative launch readiness solutions for the TA including MA planning and execution of the medical/scientific engagement strategy (MSL / field medical affairs strategy, medical education programs, scientific congresses, medical expert network development, and input into scientific publication planning) delivering strategic pre-launch and launch medical activities, addressing needs for patient, and clinical adoption, while partnering with Value and Access, Commercial Launch Strategy and in alignment with the international MA strategy\nOne cohesive medical voice for the regions and priority countries by engaging with regional and priority countries MA to consolidate IMA perspective for launch considerations, drive enterprise efficiency, and support in-country MA\nInternational MA input into the IEP planning and evidence generation strategy and implementation\nProvide the IMA TA Head and team with an integrated Medical Affairs perspective from priority countries to help shape the IMA TA strategy, including launch readiness and execution\nEnsure trial operationalization optimally addresses priority country needs (e.g., footprint, patient population)\nProvides medical input into post-TDP with the focus on innovative evidence solutions (interventional studies, NIS and RWE studies) addressing the needs of patients, clinical, access and value to health care systems across priority countries\nProvide consolidated view for IEP gaps for priority countries to support launch\nProvide IMA inputs to enhance patient access and best use of optimal medical treatment by clearly demonstrating value to practitioners and payors throughout the lifecycle of each product\nBuilds relationships with external healthcare professionals, patient associations, professional bodies, and major professional societies\nExcellent operational execution and financial tracking to ensure timely and cost-effective development and execution of medical activities related to the TA\nLead and support a high-performing team, while fostering medical transformation through talent attraction, development, and retention\n\nRequirements:\nAdvanced medical degree, Medical Doctor, PhD, or PharmD.\n10+ years of clinical and Medical Affairs experience within pharmaceutical organizations, with demonstrated functional expertise. Experience in evidence generation and launch excellence, scientific engagement and communications, clinical trials, medical operational excellence, and compliance is important. Clinical experience spanning research and medical affairs is preferred.\nExperience in CRM TA preferred, with proven record in Launch Medical.\nCountry Head level experience with direct P+L responsibility preferred. Global, multi and/or above country experience desirable.\nBuilds credibility, collaborates effectively, and influences across a diverse stakeholder group in a matrix organization, navigating an environment of shared outcomes and cross-business accountability\nActs as a credible external representative for Novartis Medical Affairs with global KOLs, medical societies, and industry forums\nCombines operational excellence with innovation, bringing a forward-looking and strategic mindset with the ability to create and implement a vision supported by next-generation capabilities and processes\nProven ability to build, lead, and support teams in delivering strong results\n\n \nSkills DesiredApache Continuum, Behavioral Economics, Clinical Practices, Clinical Trials, Collaboration, Cystic Fibrosis, Data Entry, Diversity & Inclusion, Drug Development, Job Description, Leadership, Medical Records, Patient Care, PCB (Printed Circuit Board), People Management, Physical Therapy, Prioritization, Telemetry",
-    "external_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Basel-City/International-Medical-Affairs-Head--CRM_REQ-10079239-1",
-    "status": "ignored",
-    "title": "International Medical Affairs Head, CRM",
-    "company": "Novartis",
-    "location": "Basel (City)",
-    "posted_date": "2026-06-10",
-    "department": "",
-    "score": 3,
-    "matched_keywords": [
-      "PhD",
-      "drug development",
-      "medical affairs"
-    ],
-    "deducted_keywords": []
-  },
   "/job/Basel-City/Senior-Investigator-Associate-Director---Biology_REQ-10081057-1": {
     "description": "Salary Range:CHF122,500.00 - CHF227,500.00\n\n \nJob Description Summary#LI-Onsite\nLocation: Basel, Switzerland\nThis role is based in Basel, Switzerland.\n\nThe Oncology Translational Research (OTR) group at Novartis Biomedical Research is seeking a highly accomplished translational scientist who combines exceptional scientific depth in cancer and molecular biology with the ability to lead, influence, and align complex, cross functional organizations.\nThis role is designed for a scientific leader who not only drives cutting edge research but also shapes broader program direction by connecting discovery, translational science, and clinical strategy. The successful candidate will play a pivotal role in advancing oncology programs by translating deep biological insights into impactful therapeutic and biomarker strategies, while effectively navigating and influencing a global, matrixed research environment.\n\n \nJob Description\nKey Responsibilities\n\nDefine and drive translational research strategies grounded in deep expertise in cancer biology, molecular signaling, and biomarker science\n\nTranslate complex biological insights into actionable therapeutic hypotheses and clinical development strategies\n\nLead oncology programs from early discovery through clinical translation, ensuring scientific rigor and strategic alignment\n\nOversee mechanism-of-action studies, combination strategies, and biomarker development\n\nAct as a key integrator across drug discovery, translational, bioinformatics, and clinical teams\n\nInfluence decision-making and align cross-functional stakeholders within a global, matrixed organization\n\nPartner with computational and data science teams to integrate genomic, molecular, and translational datasets into program strategy\n\nEnsure robust interpretation of data into clear scientific and clinical insights\n\nLead and mentor multidisciplinary teams, fostering a culture of scientific excellence, accountability, and collaboration\n\nCommunicate scientific strategies and findings effectively to senior leadership, governance bodies, and external partners\n\nContribute to external scientific visibility through publications, conferences, and collaborations\n\nEssential Requirements\n\nPhD in Molecular Biology, Cancer Biology, Cell Biology, Biochemistry, Genetics, or a related scientific discipline.\n\nCompleted postdoctoral plus at least 4+ years of biotechnology, pharmaceutical, academic translational research experience (see leveling below)\n\nDemonstrated leadership experience in oncology research and translational therapeutic development\n\nProven track record of leading multidisciplinary scientific programs in matrixed organizations\n\nStrong scientific communication, leadership, collaboration, and mentoring capabilities\n\nEstablished record of scientific innovation, publications, and translational impact\n\nHigh level of scientific curiosity, agility, and a positive, solution-oriented mindset\n\nRole Leveling (Dual Posting)\nFinal level will be determined by the hiring team based on skills, experience, and business needs.\n\nBenefits & Rewards\nAt Novartis, we’re committed to reimagining medicine together — and rewarding the people who make it happen.\n\nExpected Annual Base Salary Range for role: CHF 122,500 to CHF 227,500\nThe base salary offered is determined based on gender-neutral objectives, such as relevant skills, competencies and experience in accordance with the Novartis pay setting policy and upon joining Novartis will be reviewed periodically.\n\nIn addition to your base salary, you may be eligible for a performance-based bonus depending on certain performance parameters.\nThe rewards of being part of our team go far beyond base pay and incentives. We also offer a variety of competitive benefits in kind to help you thrive personally and professionally, such as insurance plans, retirement plans, wellbeing resources and global recognition programs. In addition, we provide flexible and hybrid working options, where possible, and minimum 14 weeks paid parental leave.\nPay equity is a fundamental principle of our employment policy and reflects our commitment to create a diverse, equitable and inclusive environment that treats all employees with dignity and respect, as outlined in our Code of Ethics.\n\nRead our brochure to learn more about our global total rewards offering:\nhttps://www.novartis.com/sites/novartis_com/files/novartis-life-handbook.pdf\n\nNote: Benefits and compensation may vary by country and are subject to local legal requirements, including provisions of collective bargaining agreements where applicable. A full overview of your compensation package, including any relevant collective bargaining agreement details applicable to your role based on your employment location and Novartis employer entity, will be communicated separately to you during the application process.\n\nCommitment to Diversity and Inclusion / EEO\nNovartis is committed to building an outstanding, inclusive work environment and diverse teams representative of the patients and communities we serve.\n\n \nSkills DesiredAnalytical Skill, Analytical Skill, Analytical Thinking, Chemical Biology, Chemistry, Clinical Research, Clinical Trials, Collaboration, Communication Skills, Curious Mindset, Data, Data Analysis, Decision Making, Design Of Experiments, Detail-Oriented, Drug Development, Drug Discovery, Ethics, Gene Therapy- Leadership, Influence, Laboratory, Lifesciences, Machine Learning (ML), Medical Research, Mentorship {+ 11 more}",
     "external_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Basel-City/Senior-Investigator-Associate-Director---Biology_REQ-10081057-1",
@@ -1562,7 +1435,7 @@
     "title": "Senior Principal Scientist / Associate Director Translational Oncology",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-06-15",
+    "posted_date": "2026-06-16",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -1586,7 +1459,7 @@
     "title": "Translational Medicine Expert – Dermatology, Associate Director",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-06-16",
+    "posted_date": "2026-06-17",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -1609,7 +1482,7 @@
     "title": "Senior Principal Scientist/Principal Scientist I/II",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-06-16",
+    "posted_date": "2026-06-17",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -1630,7 +1503,7 @@
     "title": "Global Program Regulatory Manager - Neuroscience",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-06-16",
+    "posted_date": "2026-06-17",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1645,7 +1518,7 @@
     "title": "Global Program Regulatory Manager - Neuroscience",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-06-16",
+    "posted_date": "2026-06-17",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1716,11 +1589,6 @@
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000133320799-controls-and-automation-engineer-en-cv-cl-2026-171-grae-?oga=true",
     "status": "matched"
   },
-  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000133345020": {
-    "description": "Dans le cadre de votre fonction, vous assurez la surveillance du bassin de Beau-Séjour et des usagers, accueillant quotidiennement une patientèle en rééducation. Vous veillez au respect des règles d’hygiène, de sécurité et du règlement interne et participez activement à la prévention des accidents. Vous intervenez en cas d’incident ou d’accident conformément aux procédures en vigueur, notamment en matière de sauvetage, de premiers secours, de massage cardiaque et d’utilisation du défibrillateur automatique.\nVous accueillez, informez et encadrez les usagers, adoptez un comportement approprié face à une clientèle aux profils variés et êtes en mesure de désamorcer des situations délicates ou conflictuelles. Vous communiquez avec bienveillance en instaurant un climat de confiance.\nVous veillez au bon fonctionnement des installations, au contrôle et intervention technique selon les protocoles définis, au contrôle du matériel, à l’ordre et à la propreté des locaux (nettoyage des vestiaires et autres zones). Vous signalez toute anomalie et assurez la transmission des informations nécessaires à la hiérarchie.\nLe poste requiert une rigueur, un sens aigu des responsabilités, une bonne condition physique et une capacité à gérer les situations d’urgence.",
-    "external_url": "https://jobs.smartrecruiters.com/HUG/744000133345020-gardien-ou-gardienne-de-bains-a-beau-sejour-80-a-100-?oga=true",
-    "status": "matched"
-  },
   "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000133308900": {
     "description": "En tant que stagiaire au sein de la Direction des Ressources Humaines, vous rejoignez une équipe dynamique et polyvalente qui a pour mission de garantir l’amélioration continue des conditions de travail et de préserver la santé des collaborateurs et collaboratrices, à travers l’application de la la Loi sur le Travail (LTr) au sein de l’institution.\nVous êtes impliquée ou impliqué dans des missions variées, contribuant au bon fonctionnement de l’équipe et aux reportings auprès des instances dirigeantes.\nVous participez à la préparation des supports, à la préparation des différentes séances et au suivi des actions menées.\nVous préparez les différents points de suivi et de coordinations avec les parties prenantes.\nVous participez aux analyses de données et assurez le suivi hebdomadaire des indicateurs.\nVous contribuez à la consolidation du rapport d'activité.\nVous apportez un soutien aux projets et demandes de la Direction des Ressources Humaines, notamment en réalisant des analyses, des recherches documentaires et des travaux de conceptualisation.",
     "external_url": "https://jobs.smartrecruiters.com/HUG/744000133308900-stage-bachelor-master-a-la-drh-conformite-loi-sur-le-travail-80-?oga=true",
@@ -1748,7 +1616,7 @@
     "title": "Principal Scientist I/II, Oncology Drug Discovery Biology",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-06-23",
+    "posted_date": "2026-06-24",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -1802,16 +1670,6 @@
     "external_url": "https://jobs.smartrecruiters.com/HUG/744000133569339-sage-femme-ou-homme-sage-femme-de-recherche-au-sein-de-la-plateforme-de-recherche-clinique-pediatrie-gynecologie-et-obstetrique-60-a-80-?oga=true",
     "status": "matched"
   },
-  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000133569269": {
-    "description": "Grâce à votre aisance relationnelle, vous accueillez, renseignez et orientez la patientèle se présentant au service et vous gérez les appels téléphoniques que vous recevez.\nVous organisez les consultations en gérant l’agenda électronique des médecins et en préparant les dossiers patients et patientes. Après les consultations, vous assurez de manière autonome et rapide la frappe de rapports médicaux. Au besoin, vous programmez les examens médicaux complémentaires.\nTout en répondant aux diverses sollicitations, vous menez à bien et de manière autonome les activités administratives en lien avec votre fonction comme par exemple le suivi des dossiers patientes et patients, la gestion du courrier et de la messagerie électronique, la gestion des plannings de vacances.\nVous faites preuve de proactivité pour effectuer les tâches logistiques découlant de la vie d’un secrétariat comme par exemple les commandes, les notes d’honoraires, l’archivage.\nAu sein de l’équipe, vous développez un lien de proximité avec vos collègues secrétaires médicales et médicaux et vous assurez une continuité de service lors des absences. Et plus généralement, votre sens du service fait de vous une personne agile prête à mettre votre polyvalence au service de l’institution pour exercer dans différents services en fonction des besoins.",
-    "external_url": "https://jobs.smartrecruiters.com/HUG/744000133569269-secretaire-medical-ou-medicale-bureau-de-programmation-80-a-100-?oga=true",
-    "status": "matched"
-  },
-  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000133569079": {
-    "description": "Grâce à votre aisance relationnelle, vous accueillez, renseignez et orientez les patients et patientes se présentant au bureau de programmation et vous gérez les appels téléphoniques que vous recevez.\nVous organisez les consultations en gérant l’agenda électronique des médecins et en préparant les dossiers patientes et patients. Après les consultations, vous assurez de manière autonome et rapide la frappe de rapports médicaux. Au besoin, vous programmez les examens médicaux complémentaires.\nTout en répondant aux diverses sollicitations, vous menez à bien et de manière autonome les activités administratives en lien avec votre fonction comme par exemple le suivi des dossiers patients et patientes, la gestion du courrier et de la messagerie électronique, la gestion des plannings de vacances.\nVous faites preuve de proactivité pour effectuer les tâches logistiques découlant de la vie d’un secrétariat comme par exemple les commandes, les notes d’honoraires, l’archivage.\nAu sein de l’équipe, vous développez un lien de proximité avec vos collègues secrétaires médicales et médicaux et vous assurez une continuité de service lors des absences. Et plus généralement, votre sens du service fait de vous une personne agile prête à mettre votre polyvalence au service de l’institution pour exercer dans différents services en fonction des besoins.",
-    "external_url": "https://jobs.smartrecruiters.com/HUG/744000133569079-secretaire-medical-ou-medicale-bureau-de-programmation-80-a-100-?oga=true",
-    "status": "matched"
-  },
   "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000133569399": {
     "description": "Rejoindre notre équipe, c’est évoluer dans un environnement stimulant au cœur de l’innovation numérique en santé, collaborer avec des équipes pluridisciplinaires (APPS & UX, Cybersanté et télémédecine, communication, directions médicales et des soins, partenaires externes) et contribuer à des projets à fort impact pour les professionnels et professionnelles de santé ainsi que pour les patientes et patients, dans une culture de travail collaborative et orientée solutions. \nEn tant que commis administratif ou administrative au sein de la plateforme d’innovation, vous jouez un rôle clé dans le déploiement et l’adoption des plateformes numériques Concerto et Mon Espace PRO auprès des professionnels et professionnelles du réseau de soins genevois, des collaborateurs et collaboratrices des HUG ainsi que des patientes et patients. \nÀ ce titre, vous assurez l’accueil, l’information et l’accompagnement des utilisateurs et utilisatrices dans la création et l’activation de leur compte ainsi que dans l’utilisation des services numériques associés. Vous intervenez aussi bien en présentiel qu’à distance afin d’apporter un support de qualité et une expérience utilisateur fluide. \nVous participez aux permanences d’inscription organisées au sein des HUG et lors d’évènements externes. Vous êtes également amené ou amenée à vous déplacer au sein des institutions partenaires du réseau de soins genevois (EMS, cliniques, cabinets médicaux, services de soins à domicile, etc.) afin de promouvoir Mon Espace PRO et accompagner les professionnels et professionnelles dans leurs démarches d’enrôlement. \nVous contrôlez et authentifiez les identités conformément aux procédures établies et veillez au respect des exigences institutionnelles en matière de confidentialité et de protection des données. \nVous fournissez également un support administratif et technique de premier niveau, en présentiel et à distance, auprès des professionnels et professionnelles de santé, des collaborateurs et collaboratrices HUG ainsi que des patientes et patients. À ce titre, vous répondez aux demandes des utilisateurs et utilisatrices, assurez leur suivi et contribuez à garantir une expérience fluide et de qualité. \nVous participez également à la création, à l’adaptation et à la diffusion de supports de communication et d’accompagnement destinés aux utilisateurs et utilisatrices des plateformes numériques. Dans ce cadre, vous contribuez aux actions de sensibilisation, de démonstration et de formation liées à l’utilisation de Concerto et Mon Espace PRO. \nEn lien étroit avec les cheffes de projet Mon Espace PRO et Concerto, vous assurez un reporting régulier des activités terrain, des retours utilisateurs et des problématiques rencontrées lors des permanences, enrôlements et actions de support. Grâce à votre proximité avec les utilisateurs et utilisatrices, vous participez activement à l’identification des besoins métiers et des axes d’amélioration des plateformes numériques. Vous contribuez ainsi à alimenter les réflexions et les priorisations liées aux évolutions de Mon Espace PRO et Concerto. \nGrâce à votre sens du contact, votre aisance relationnelle et votre orientation service, vous contribuez activement à promouvoir la stratégie de la plateforme d’innovation et à favoriser l’adoption des outils numériques de santé, Concerto et Mon Espace PRO, développés par les HUG.",
     "external_url": "https://jobs.smartrecruiters.com/HUG/744000133569399-commis-ou-commise-administrative-pour-la-plateforme-d-innovation-80-a-100-?oga=true",
@@ -1860,7 +1718,7 @@
     "title": "Director - Immunology Therapeutic Area Biomarker Lead (TABL)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-06-23",
+    "posted_date": "2026-06-24",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -1884,7 +1742,7 @@
     "title": "(Associate) Principal Scientist Bioanalytics 12 months fix-term contract 80-100%",
     "company": "Lonza",
     "location": "CH - Basel",
-    "posted_date": "2026-06-23",
+    "posted_date": "2026-06-24",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1899,7 +1757,7 @@
     "title": "Principal Scientist, Tech Ops (Tech Transfer and Outsourcing)",
     "company": "CSL Behring / Vifor",
     "location": "EMEA, CH, Kanton Bern, Bern, CSL Behring",
-    "posted_date": "2026-06-23",
+    "posted_date": "2026-06-24",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1931,7 +1789,7 @@
     "title": "Senior AI/ML Data Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-06-23",
+    "posted_date": "2026-06-24",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1948,7 +1806,7 @@
     "title": "Senior Specialist Data Science, AI & Quantum",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-06-23",
+    "posted_date": "2026-06-24",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2001,7 +1859,7 @@
     "title": "International Medical Affairs Director, Neuroscience",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-06-24",
+    "posted_date": "2026-06-25",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -2018,7 +1876,7 @@
     "title": "Patent Attorney",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-06-24",
+    "posted_date": "2026-06-25",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -2084,7 +1942,7 @@
     "title": "Translational Medicine, Strategic Feasibility Expert-Associate Director",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-06-25",
+    "posted_date": "2026-06-26",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -2107,7 +1965,7 @@
     "title": "Commercial Portfolio Head Region Europe",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-06-25",
+    "posted_date": "2026-06-26",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -2162,7 +2020,7 @@
     "title": "Associate Director, Search & Evaluation (Immunology)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-06-26",
+    "posted_date": "2026-06-27",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2178,7 +2036,7 @@
     "title": "Associate Principal Scientist Process Development Drug Product 80-100%",
     "company": "Lonza",
     "location": "CH - Basel",
-    "posted_date": "2026-06-26",
+    "posted_date": "2026-06-27",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -2200,7 +2058,7 @@
     "title": "Research Scientist II or Senior Scientist I- Toxicology (80-100%) (Dual Level Posting)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-06-26",
+    "posted_date": "2026-06-27",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -2219,7 +2077,7 @@
     "title": "Sr Account Director, Business Development - RWE",
     "company": "Thermo Fisher Scientific",
     "location": "Remote, Switzerland",
-    "posted_date": "2026-06-01",
+    "posted_date": "2026-06-02",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -2236,7 +2094,7 @@
     "title": "Senior Scientist Material Management & Qualification - Quality Control",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-06-02",
+    "posted_date": "2026-06-03",
     "department": "",
     "score": -1,
     "matched_keywords": [
@@ -2253,7 +2111,7 @@
     "title": "Senior Scientist microbiological Quality Control",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-06-09",
+    "posted_date": "2026-06-10",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -2268,7 +2126,7 @@
     "title": "Scientist – QC Lab Systems & CSV (GMP)",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-06-17",
+    "posted_date": "2026-06-18",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -2283,7 +2141,7 @@
     "title": "Scientist Microbiological Quality Control",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-05-31",
+    "posted_date": "2026-06-01",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -2298,7 +2156,7 @@
     "title": "R&D Scientist – Scientific Data Analytics (d/f/m)",
     "company": "Danaher",
     "location": "Basel, Switzerland",
-    "posted_date": "2026-06-23",
+    "posted_date": "2026-06-24",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2503,7 +2361,7 @@
     "title": "Senior Expert / Senior Principal PKS Data Scientist & Scientific Software Engineer (Dual level posting)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-06-30",
+    "posted_date": "2026-07-01",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -2564,7 +2422,7 @@
     "title": "Scientist, Tech Ops",
     "company": "CSL Behring / Vifor",
     "location": "EMEA, CH, Kanton Bern, Bern, CSL Behring",
-    "posted_date": "2026-06-30",
+    "posted_date": "2026-07-01",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2583,7 +2441,7 @@
     "title": "Associate Scientist / Senior Laboratory Specialist",
     "company": "CSL Behring / Vifor",
     "location": "EMEA, CH, Kanton Bern, Bern, CSL Behring",
-    "posted_date": "2026-06-30",
+    "posted_date": "2026-07-01",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2597,5 +2455,61 @@
       "Switzerland"
     ],
     "cached_at": "2026-06-30"
+  },
+  "https://careers.ompharma.com/job/Meyrin-MSAT-Senior-Scientist-Geneva-Gene/1399891533/": {
+    "description": "We are recruiting a Manufacturing Science and Technology (MSAT) Senior Scientist at our headquarters and biotech production site in Geneva. Reporting to the Head of MSAT, as part of a team of five and working cross-functionally with a strong presence in the field (production zone), your mission encompasses the development, optimization and continuous improvement of drug product processes and formulations, with a particular focus on lyophilization, encapsulation, dry granulation and intranasal delivery technologies.\n\nYour main responsibilities are as follows:\n\nLead development and industrialization of new pharmaceutical products, from formulation and process design to scale-up and validation\n\nDefine development strategies including QTPP, risk assessments, technical requirements, timelines and budgets\n\nProvide expertise in galenics, formulation, pharmaceutical processes and technology transfer, including CDMO interactions when needed\n\nDrive optimization of existing manufacturing processes to improve performance, robustness and compliance\n\nAct as technical expert for troubleshooting, root cause analysis, CAPA implementation and continuous improvement initiatives\n\nDefine Critical Process Parameters (CPPs), Critical Quality Attributes (CQAs) and lead process risk assessments in cross-functional teams\n\nManage MSAT Pharma Laboratory activities (equipment qualification, stock management, laboratory support)\n\nPlan and execute development trials with internal stakeholders (Manufacturing, Quality, Validation, Regulatory CMC), ensuring robust documentation and data analysis\n\nEnsure full traceability and compliance of development activities in line with GxP requirements\n\nContribute to regulatory documentation (e.g. CTD modules) in collaboration with Regulatory CMC\n\nBusiness travel is required for this position for punctual topics (maximum 5% of working time).\n\nTo carry out this mission, we are looking for a person with the following profile:\n\nMaster’s degree in Pharmaceutical Sciences, Biotechnology or equivalent\n\nAt least 8 years of experience related to pharmaceutical process development, formulation development and industrial transposition, with strong expertise in galenics and pharmaceutics\n\nProven experience in project management in a cross-functional and GxP environment; experience with regulatory activities is an asset\n\nFluent in French with good English skills\n\nProficiency in MS Office, with experience using ERP systems (Sage X3 preferred)\n\n \n\nTo succeed in this role, we are looking for a hands-on, pragmatic and innovation-driven scientist, combining strong technical expertise with a solid business and production mindset. You demonstrate natural leadership, strong communication skills and the ability to collaborate effectively with diverse stakeholders. Entrepreneurial and creative, you continuously seek improvement opportunities and actively contribute to shaping better, more efficient processes. You are solution-oriented, structured, and committed to delivering high-quality results in a dynamic environment.\n\nAre you interested in this opportunity? Apply as soon as possible and join OM Pharma!\n\n \n\n \nAbout Us\n\nOM Pharma is a global Geneva-based biopharmaceutical company. It is a leader in the prevention of recurrent respiratory and urinary tract infections and is also active in the treatment of vascular diseases.\n\nIt operates worldwide through a strong network of international partners and invests its profits in R&D to develop microbial derived immunotherapeutic products to treat acute and chronic immunological disorders resulting from inflammation and infections. \n\nThe company strives to improve the quality of life of patients around the world by providing access to better treatment of immunological imbalances.\n\nFor more information, visit the website: ompharma.com.",
+    "external_url": "https://careers.ompharma.com/job/Meyrin-MSAT-Senior-Scientist-Geneva-Gene/1399891533/",
+    "status": "ignored",
+    "title": "MSAT Senior Scientist - Geneva",
+    "company": "OM Pharma",
+    "location": "Meyrin, Geneva, CH",
+    "posted_date": "",
+    "department": "",
+    "score": 5,
+    "matched_keywords": [
+      "French",
+      "location:geneva"
+    ],
+    "deducted_keywords": []
+  },
+  "https://jobdetails.nestle.com/job/Lausanne-Statistics-and-Data-Science-Specialist/1404979633/": {
+    "description": "Location: Lausanne, Switzerland\nWork model: Hybrid / Full time 100%\nContract type / duration: 12 month Limited Contract\n\nShape the future through scientific breakthroughs and innovation.\n\nAs a Statistics and Data Science Specialist at Nestlé Research, your mission is to apply advanced statistics and data science to accelerate scientific discovery and innovation across our product portfolio. You’ll make a difference by collaborating closely with food scientists, product developers, process engineers, sensory teams, and project teams. This is your opportunity to turn ideas into sustainable and innovative solutions for people, pets, and the planet.\n\nHow you’ll make an impact as a Statistics and Data Science Specialist\n\nDesigning robust lab and pilot experiments that generate reliable evidence and accelerate scientific progress.\n\nAnalysing complex experimental data to uncover actionable insights, quantify uncertainty, and strengthen decision-making.\n\nCollaborating across scientific and technical teams to refine hypotheses and integrate data-driven thinking into innovation projects.\n\nTranslating statistical outputs into clear recommendations that guide formulation, process, and product development choices.\n\nBuilding visualisations and models that make complex findings accessible to diverse stakeholders and project teams.\n\nDriving innovation by applying advanced analytics to support better products, smarter decisions, and faster learning cycles.\n\nWhat will make you successful\n\nBringing a Ph.D. or Master’s degree in Statistics, Applied Mathematics, or Data Science.\n\nApplying hands-on experience in mathematics-based data collection methodologies to generate robust experimental data.\n\nUsing hands-on expertise in statistical inference, statistical modelling techniques, optimization algorithms, and machine learning techniques to solve scientific challenges.\n\nBringing proficiency in Python programming, with knowledge of R as a plus, and proven experience in data-driven modelling for product design, particularly in food or related consumer products, as a plus.\n\nCommunicating fluently in English.\n\nBringing collaboration, fresh thinking, bold questions, respect, and a positive, wellbeing-oriented mindset.\n\nAt Nestlé Research, we place people at the core of everything we do.\n\nOur benefits are designed to support your growth and wellbeing, so you can thrive at work and in life:\n\nFlexible working options, including hybrid work possibilities (for office based roles)\n\nPaid holidays beyond legal requirements\n\nLearning and development opportunities to grow your career\n\nPerformance based bonus\n\nHealthcare contribution and access to the Employee Assistance Program\n\nStrong employer contribution to your pension plan\n\nGenerous parental leave and comprehensive family support solutions\n\nAttractive employee discounts across various products and services\n\nWhat to expect from our hiring process\n\nWe are committed to an inclusive and respectful hiring experience and are happy to provide reasonable accommodations if needed. Our workplaces are fully accessible and supported by a strong safety culture, with modern installations and procedures to ensure a safe environment for everyone.\n\nThe hiring process typically includes a video interview with Talent Acquisition, an interview with the hiring team, and a final discussion and offer. We review applications as they are received and close the role once a strong list of relevant candidates is identified, so we encourage you to apply early. All information is treated confidentially.\n\nReady to #BreakthroughTogether?\n\nApply now and shape the future through scientific breakthroughs and innovation.",
+    "external_url": "https://jobdetails.nestle.com/job/Lausanne-Statistics-and-Data-Science-Specialist/1404979633/",
+    "status": "ignored",
+    "title": "Statistics and Data Science Specialist",
+    "company": "Nestlé",
+    "location": "Lausanne, CH",
+    "posted_date": "",
+    "department": "",
+    "score": 4,
+    "matched_keywords": [
+      "location:lausanne"
+    ],
+    "deducted_keywords": []
+  },
+  "https://jobdetails.nestle.com/job/Lausanne-Systems-Biology-and-Microbiome-Data-Science-Intern/1405586333/": {
+    "description": "Location: Lausanne, Switzerland\nWork model: On site\nContract type / duration: Internship – 6 months\nTarget start date: September 1, 2026\n\nDeadline for applications: July 2, 2026\n\n \n\nBe a force for good and transform your potential into something extraordinary.\n\nAs a Systems Biology and Microbiome Data Science Intern at Nestlé Research, Nestlé Institute of Health Sciences, your mission is to help transform complex scientific information into structured, usable data that supports microbiome research and innovation in human health. You will work closely with scientists and partners across Nestlé to identify relevant information from detailed reports and sample-based studies, bring together data from different sources, and make it ready for future analysis and decision-making. This is your opportunity to make an impact while gaining hands on experience and mentorship to kick-start your career.\n\nHow you’ll make an impact as a Systems Biology and Microbiome Data Science Intern\n\nDriving data mining and computational analysis of microbiome assays to uncover insights that support human health research.\n\nConducting literature reviews to identify scientific advancements and strengthen the foundation of ongoing research projects.\n\nBuilding on existing analyses to generate new biological understanding of microbiome and host interactions.\n\nPartnering with interdisciplinary experts to translate scientific questions into actionable research outputs.\n\nPresenting findings through reports and scientific communication to help shape future research directions.\n\nWhat will make you successful\n\nCurrent student or fresh graduate in computational science, systems biology, microbiology, biochemistry, biotechnology, or a related field.\n\nHaving confidence using programming tools such as R, Python, or similar technologies to explore and interpret complex scientific data.\n\nBeing curious about microbiome science, motivated by human health, and comfortable collaborating across disciplines and teams to turn ideas into insight.\n\nCommunicating fluently in English.\n\nDemonstrating courage, collaboration, speed and continuous learning.\n\nAt Nestlé Research, we place people at the heart of everything we do.\n\nOur benefits are designed to support your growth and wellbeing, so you can thrive at work and in life:\n\nFlexible working options, including hybrid work possibilities (for office-based roles)\n\nLearning and development opportunities to grow your career\n\nHealthcare contribution and access to the Employee Assistance Program\n\nAttractive employee discounts across various products and services\n\nWhat to expect from our hiring process\n\nWe are committed to an inclusive and respectful hiring experience and are happy to provide reasonable accommodations if needed. Our workplaces are fully accessible and supported by a strong safety culture, with modern installations and procedures to ensure a safe environment for everyone.\n\nThe hiring process typically includes a video interview with Talent Acquisition, an interview with the hiring team, and a final discussion and offer. We review applications as they are received and close the role once a strong list of relevant candidates is identified, so we encourage you to apply early. All information is treated confidentially.\n\nReady to start your career journey with us?\n\nApply now and transform your potential into something extraordinary.",
+    "external_url": "https://jobdetails.nestle.com/job/Lausanne-Systems-Biology-and-Microbiome-Data-Science-Intern/1405586333/",
+    "status": "ignored",
+    "title": "Systems Biology and Microbiome Data Science Intern",
+    "company": "Nestlé",
+    "location": "Lausanne, CH",
+    "posted_date": "",
+    "department": "",
+    "score": 4,
+    "matched_keywords": [
+      "location:lausanne"
+    ],
+    "deducted_keywords": []
+  },
+  "https://jobdetails.nestle.com/job/Vevey-Global-Medical-Affairs-Lead-Critical-Care/1408800633/": {
+    "description": "Location: Vevey, Switzerland\nWork model: Hybrid / Full-time\n\nContract type / duration: Permanent\n\n \n\nStart date: As soon as possible\n\nDeadline for applications:  12 / 07 /2026\n\n \n\nBe a force for good and accelerate change that improves lives and the planet.\n\n \n\nAs a Global Medical Affairs Lead – Critical Care at Nestlé Nutrition & Health Strategic Business Unit (SBU), your mission is to define and execute the global medical and scientific strategy for the Critical Care portfolio across the full product lifecycle. You’ll make a difference by collaborating closely with R&D, commercial teams, local medical teams, and external scientific experts. This is your opportunity to take ownership, grow your expertise, and drive evidence-based innovation that improves patient and population health outcomes at scale.\n\n \n\nHow you’ll make an impact as a Global Medical Affairs Lead – Critical Care\n\n \n\nLeading the global medical strategy by shaping evidence generation and guiding product development across the lifecycle\n\nDriving cross-functional alignment by connecting R&D, commercial and medical teams to deliver impactful outcomes\n\nBuilding strong external engagement by partnering with healthcare professionals, scientific experts and associations\n\nDelivering high-quality medical education and scientific communication to healthcare providers and internal stakeholders\n\nTranslating scientific evidence into clear, relevant content to support markets and influence clinical practice\n\nMonitoring scientific developments and competitive activities to inform strategy and strengthen positioning\n\n \n\nWhat will make you successful\n\n \n\nBringing strong expertise in medical and scientific affairs within clinical nutrition or pharmaceutical environments\n\nApplying the ability to lead evidence generation strategies and translate complex data into actionable insights\n\nUsing strong stakeholder management skills to influence cross-functional teams and external experts\n\nCollaborating effectively in a global, matrix organization to drive alignment and impact\n\nCommunicating fluently in English\n\nBringing collaboration, fresh thinking, bold questions, respect, and a positive, wellbeing-oriented mindset.\n\nDemonstrating courage, collaboration, speed and continuous learning.\n\n \n\nAt Nestlé in Switzerland, we place people at the heart of everything we do. \n\n \n\nOur benefits are designed to support your growth and wellbeing, so you can thrive at work and in life:\n\nFlexible working options, including hybrid work possibilities (for office based roles)\n\nPaid holidays beyond legal requirements\n\nLearning and development opportunities to grow your career\n\nPerformance based bonus\n\nHealthcare contribution and access to the Employee Assistance Program\n\nStrong employer contribution to your pension plan\n\nGenerous parental leave and comprehensive family support solutions\n\nAttractive employee discounts across various products and services\n\n \n\nWhat to expect from our hiring process\n\n \n\nWe are committed to an inclusive and respectful hiring experience and are happy to provide reasonable accommodations if needed. Our workplaces are fully accessible and supported by a strong safety culture, with modern installations and procedures to ensure a safe environment for everyone.\n\nThe hiring process typically includes a video interview with Talent Acquisition, an interview with the hiring team, and a final discussion and offer. We review applications as they are received and close the role once a strong list of relevant candidates is identified, so we encourage you to apply early. All information is treated confidentially.\n\nStay vigilant: Nestlé will only contact candidates via official company email addresses and will never ask for payments or sensitive personal information at any stage of the hiring process.\n\n \n\nReady to Be a Force for Good?\n\n \n\nApply now and accelerate change that improves lives and the planet.",
+    "external_url": "https://jobdetails.nestle.com/job/Vevey-Global-Medical-Affairs-Lead-Critical-Care/1408800633/",
+    "status": "matched"
+  },
+  "https://jobdetails.nestle.com/job/Vevey-Global-Medical-Affairs-Lead-Diabetes-&-Obesity/1408799633/": {
+    "description": "Location: Vevey, Switzerland\nWork model: Hybrid/[Full time\nContract type / duration: Permanent\n\n \n\nStart date: As soon as possible\n\nDeadline for applications:  12 / 07 /2026\n\n \n\nBe a force for good and accelerate change that improves lives and the planet.\n\n \n\nAs a Global Medical Affairs Lead – Diabetes & Obesity at Nestlé Nutrition & Health Strategic Business Unit (SBU), your mission is to define and execute the global medical and scientific strategy for the Diabetes & Obesity portfolio across the full product lifecycle. You’ll make a difference by collaborating closely with R&D, commercial teams, local medical teams, and external scientific experts. This is your opportunity to take ownership, grow your expertise, and drive evidence-based innovation that improves patient and population health outcomes at scale.\n\n \n\nHow you’ll make an impact as a Global Medical Affairs Lead – Diabetes & Obesity\n\n \n\nLeading the global medical strategy by shaping evidence generation and guiding product development across the lifecycle\n\nDriving cross-functional alignment by connecting R&D, commercial and medical teams to deliver impactful outcomes\n\nBuilding strong external engagement by partnering with healthcare professionals, scientific experts and associations\n\nDelivering high-quality medical education and scientific communication to healthcare providers and internal stakeholders\n\nTranslating scientific evidence into clear, relevant content to support markets and influence clinical practice\n\nMonitoring scientific developments and competitive activities to inform strategy and strengthen positioning\n\n \n\nWhat will make you successful\n\n \n\nBringing strong expertise in medical and scientific affairs within clinical nutrition or pharmaceutical environments\n\nApplying the ability to lead evidence generation strategies and translate complex data into actionable insights\n\nUsing strong stakeholder management skills to influence cross-functional teams and external experts\n\nCollaborating effectively in a global, matrix organization to drive alignment and impact\n\nCommunicating fluently in English\n\nBringing collaboration, fresh thinking, bold questions, respect, and a positive, wellbeing-oriented mindset.\n\nDemonstrating courage, collaboration, speed and continuous learning.\n\n \n\nAt Nestlé in Switzerland, we place people at the heart of everything we do. \n\n \n\nOur benefits are designed to support your growth and wellbeing, so you can thrive at work and in life:\n\nFlexible working options, including hybrid work possibilities (for office based roles)\n\nPaid holidays beyond legal requirements\n\nLearning and development opportunities to grow your career\n\nPerformance based bonus\n\nHealthcare contribution and access to the Employee Assistance Program\n\nStrong employer contribution to your pension plan\n\nGenerous parental leave and comprehensive family support solutions\n\nAttractive employee discounts across various products and services\n\n \n\nWhat to expect from our hiring process\n\n \n\nWe are committed to an inclusive and respectful hiring experience and are happy to provide reasonable accommodations if needed. Our workplaces are fully accessible and supported by a strong safety culture, with modern installations and procedures to ensure a safe environment for everyone.\n\nThe hiring process typically includes a video interview with Talent Acquisition, an interview with the hiring team, and a final discussion and offer. We review applications as they are received and close the role once a strong list of relevant candidates is identified, so we encourage you to apply early. All information is treated confidentially.\n\nStay vigilant: Nestlé will only contact candidates via official company email addresses and will never ask for payments or sensitive personal information at any stage of the hiring process.\n\n \n\nReady to Be a Force for Good?\n\n \n\nApply now and accelerate change that improves lives and the planet.",
+    "external_url": "https://jobdetails.nestle.com/job/Vevey-Global-Medical-Affairs-Lead-Diabetes-&-Obesity/1408799633/",
+    "status": "matched"
   }
 }
