@@ -1247,6 +1247,12 @@ COMPANIES: list[dict] = [
         "careers_url": "https://www.ludwigcancerresearch.org/about/#careers",
         "keywords": TITLE_FILTERS,
     },
+    # Adaptyv Bio (Lausanne — protein engineering / synthetic biology) — Ashby
+    {
+        "name": "Adaptyv Bio",
+        "ats": "ashby",
+        "slug": "adaptyv",
+    },
 ]
 
 # ---------------------------------------------------------------------------
