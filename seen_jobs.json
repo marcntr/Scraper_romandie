@@ -787,20 +787,6 @@
     "external_url": "https://jobs.smartrecruiters.com/Sobi/744000131421024-senior-director-medicine-development-leader?oga=true",
     "status": "matched"
   },
-  "https://www.michaelpage.ch/job-detail/senior-legal-compliance-regulatory-counsel-mfd-100/ref/jn-052026-7020163": {
-    "external_url": "https://www.michaelpage.ch/job-detail/senior-legal-compliance-regulatory-counsel-mfd-100/ref/jn-052026-7020163",
-    "status": "ignored",
-    "title": "Senior Legal Compliance & Regulatory Counsel (m/f/d) 100%",
-    "company": "Michael Page Switzerland",
-    "location": "Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": -2,
-    "matched_keywords": [],
-    "deducted_keywords": [
-      "location:Switzerland"
-    ]
-  },
   "https://api.smartrecruiters.com/v1/companies/AbbVie/postings/3743990013596046": {
     "description": "Are you a visionary medical affairs leader ready to shape strategy, drive scientific excellence, evidence generation, and make a meaningful impact on patient outcomes? We are looking for an exceptional Head of Medical Immunology to join our leadership team — a role that sits at the heart of our organisation, bridging science, strategy, and commercial ambition.\nAbout the Role\nAs Head of Medical Immunology, you will lead and define our medical strategy, ensuring that scientific integrity, regulatory compliance, and patient-centricity sit at the core of everything we do. Reporting directly to the Medical Director, you will provide senior medical leadership across the organisation — partnering with Commercial, Regulatory, and Market Access teams to deliver results that matter.\nThis is a high-impact, cross-functional leadership role for a seasoned medical affairs professional who thrives in a fast-paced, science-driven environment.\nWhat You Will Do\nMedical Strategy & Leadership\nDefine and execute the overarching medical strategy, aligning it with broader business and portfolio objectives.\nRepresent the Medical function at senior leadership and executive forums, bringing a credible scientific voice to strategic decision-making.\nLead and develop a high-performing Medical team, fostering a culture of scientific excellence and continuous development.\nScientific Engagement & KOL Relations\nBuild and sustain meaningful, ethical relationships with Key Opinion Leaders (KOLs), external experts, and the broader scientific community.\nChampion robust medical communications that translate complex science into clear, compelling, and compliant messaging.\nRepresent the company at scientific congresses, advisory boards, and industry forums.\nClinical Development & Evidence Generation\nOversee the design and delivery of clinical development programmes and evidence generation activities to support product strategy.\nEnsure that data and insights are used to drive informed, evidence-based decisions across the organisation.\nPartner with Regulatory and Market Access teams to support submissions, reimbursement strategies, and lifecycle management.\nGovernance, Compliance & Cross-Functional Collaboration\nUphold the highest standards of medical governance, ethics, and regulatory compliance across all medical activities.\nLead cross-functional collaboration with Commercial, Regulatory, Market Access, and other key stakeholders to ensure integrated, aligned delivery.\nAct as a trusted partner and deputy to the Medical Director, providing leadership continuity and organisational resilience.",
     "external_url": "https://jobs.smartrecruiters.com/AbbVie/3743990013596046-head-of-medical-immunology?oga=true",
@@ -1016,7 +1002,7 @@
     "title": "Clinical Scientist in neurosciences",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-06-20",
+    "posted_date": "2026-06-19",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1032,7 +1018,7 @@
     "title": "Scientist, Pharmaceutical Development & Data Analytics _2 years temporary contract",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-06-11",
+    "posted_date": "2026-06-10",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1101,7 +1087,7 @@
     "title": "Global Medical Director, Evidence Generation Lead",
     "company": "Biogen",
     "location": "Baar, Switzerland",
-    "posted_date": "2026-06-18",
+    "posted_date": "2026-06-17",
     "department": "",
     "score": -2,
     "matched_keywords": [
@@ -1120,7 +1106,7 @@
     "title": "Senior Medical Director, Nephrology, Global Medical Affairs",
     "company": "Biogen",
     "location": "Baar, Switzerland",
-    "posted_date": "2026-06-18",
+    "posted_date": "2026-06-17",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -1153,7 +1139,7 @@
     "title": "Principal Scientist Tech Ops (CMC Science)",
     "company": "CSL Behring / Vifor",
     "location": "EMEA, CH, Kanton Bern, Bern, CSL Behring",
-    "posted_date": "2026-06-12",
+    "posted_date": "2026-06-11",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1195,7 +1181,7 @@
     "title": "Senior Principal Scientist / Associate Director Translational Oncology",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-06-16",
+    "posted_date": "2026-06-15",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -1219,7 +1205,7 @@
     "title": "Translational Medicine Expert – Dermatology, Associate Director",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-06-17",
+    "posted_date": "2026-06-16",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -1332,7 +1318,7 @@
     "title": "Director - Immunology Therapeutic Area Biomarker Lead (TABL)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-06-24",
+    "posted_date": "2026-06-23",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -1356,7 +1342,7 @@
     "title": "(Associate) Principal Scientist Bioanalytics 12 months fix-term contract 80-100%",
     "company": "Lonza",
     "location": "CH - Basel",
-    "posted_date": "2026-06-24",
+    "posted_date": "2026-06-23",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1371,7 +1357,7 @@
     "title": "Principal Scientist, Tech Ops (Tech Transfer and Outsourcing)",
     "company": "CSL Behring / Vifor",
     "location": "EMEA, CH, Kanton Bern, Bern, CSL Behring",
-    "posted_date": "2026-06-24",
+    "posted_date": "2026-06-23",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1403,7 +1389,7 @@
     "title": "Senior Specialist Data Science, AI & Quantum",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-06-24",
+    "posted_date": "2026-06-23",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1439,23 +1425,6 @@
     "external_url": "https://jobs.smartrecruiters.com/HUG/744000133956869-controleur-ou-controleuse-de-gestion-de-departement-80-?oga=true",
     "status": "matched"
   },
-  "/job/Basel-City/International-Medical-Affairs-Director--Neuroscience_REQ-10080860-1": {
-    "description": "Salary Range:CHF150,500.00 - CHF279,500.00\n\n \nJob Description Summary#LI-Hybrid\n\nLocation: Basel, Switzerland\n\nWe are currently looking for 2 associates to join our team.\n\nThe International Medical Affairs (IMA) team represents the voice of the International markets, with a focus on our top priority markets and addresses their needs across pre-launch, launch, life-cycle management and in-market.\n\nWe are seeking a Medical Affairs Director Neuroscience, to provide aligned input from the top priority International markets into IEP and is responsible for the implementation of the scientific communications and medical education strategy, as well as relevant medical standards in these markets.\nThis role will support the planning and execution at International for the medical/scientific engagement strategy (MSL/ Field Medical Affairs strategy, medical education programs, scientific publication planning and Medical Expert network development) addressing and delivering strategic pre-launch and launch medical activities needs for patient, clinical, access and value to health care systems.\n\nActing as a subject matter expert in the development of the overarching strategies for International, the Director IMA will provide inputs during design and along the end-to-end execution of programs.\nActs as a strategic partner to International Commercial, International Value & Access, Global, Regional and US MA, and Development.\n\nThe role reports into the Executive Director, International Medical Affairs.\n\n \nJob Description\n\nKey Responsibilities:\n\nExecute medical affairs launch strategy for Neuroscience programs in key International countries including transformation tactics such as innovative partnerships.\n\nPartner with Medical Affairs organizations in key International countries and regions to ensure strong delivery focus on country needs.\n\nAdvisory to plans for evidence generation, MSL / Field Medical Affairs strategy, medical education programs, scientific publication planning and Medical Expert network development with TAs.\n\nProvide input to and shape the development and implementation of innovative education and scientific communication plans for external stakeholders at International.\n\nFinancial tracking to ensure timely and cost-effective development & execution of medical activities.\n\nRepresent International Medical Affairs around prioritized portfolio with internal (Global Medical Affairs, Development, Biomedical Research etc.) and external audiences, in collaboration with International Commercial including the investment, medical and regulatory communities, as well as pharmaceutical or biotechnology industry collaborators/partners.\n\nProvide direction and input into the development and implementation of successful reimbursement and market-access strategies.\n\nProvide input to shape Field Medical Strategies, develops, and executes Field Medical plans, ensure implementation of key Field Medical initiatives, e.g., insight gathering, sharing and translation into action, development and conduct of trainings on disease area and medical/ scientific knowledge, and guides MSL deployment.\n\nProvide proactive medical input to asset lifecycle management to consider new therapeutic opportunities. Ensure that Patient Access programs are supported within International Medical Affairs and delivered with full compliance.\n\nEnsures International Medical Affairs activities are designed and executed in compliance with company policy guidelines and highest medical quality standards.\n\nEssential Requirements:\n\nAdvanced scientific degree (MD, PhD, or PharmD) in Health or Life Sciences.\n\n8+ years of experience in Medical Affairs from the Pharmaceutical industry.\n\nSignificant medical affairs pre-launch and launch experience in a major International market. \n\nExperience working in matrix organizations and leading cross-functional medical projects, with the ability to influence and collaborate across functions and geographies.\n\nStrong track record of leading complex medical affairs initiatives with clear impact on timelines, quality, and strategic outcomes.\n\nFull professional fluency in English.\n\nDesirable Requirements:\n\nExperience in Neuroscience therapeutic area.\n\nAccessibility and accommodation\nNovartis is committed to working with and providing reasonable accommodation to all individuals. If, because of a medical condition or disability, you need a reasonable accommodation for any part of the recruitment process, or in order to receive more detailed information about the essential functions of a position, please send an e-mail to diversity.inclusion_ch@novartis.com and let us know the nature of your request and your contact information. Please include the job requisition number in your message.\n\nBenefits: Read our handbook to learn about all the ways we’ll help you thrive personally and professionally: Novartis Life Handbook\n\nExpected Annual Base Salary Range for role:  150,500.00 - 279,500.00 CHF\n\nThe base salary offered is determined based on gender-neutral objectives, such as relevant skills, competencies and experience in accordance with the Novartis pay setting policy and upon joining Novartis will be reviewed periodically. \n\n  \n\nIn addition to your base salary, you may be eligible for a performance-based bonus depending on certain performance parameters. \n\n  \n\nThe rewards of being part of our team go far beyond base pay and incentives. We also offer a variety of competitive benefits in kind to help you thrive personally and professionally, such as insurance plans, retirement plans, wellbeing resources and global recognition programs. In addition, we provide flexible and hybrid working options, where possible, and minimum 14 weeks paid parental leave. \n\n  \n\nIn addition to your base salary, you may be eligible for a performance-based bonus depending on certain performance parameters. Long-term equity awards granted at group level may also be part of your package. Further details will be provided during the application process. \n\nNote: Benefits and compensation may vary by country and are subject to local legal requirements, including provisions of collective bargaining agreements where applicable. A full overview of your compensation package, including any relevant collective bargaining agreement details applicable to your role based on your employment location and Novartis employer entity, will be communicated separately to you during the application process. \nCommitment to Diversity & Inclusion: Novartis is committed to building an outstanding, inclusive work environment and diverse teams representative of the patients and communities we serve.\n\n \nSkills DesiredAgility (Inactive), Agility (Inactive), Cross-Functional Collaboration, Data Analysis, Drug Development, Employee Development, Healthcare Sector Understanding (Inactive), Health Sciences, Influencing Skills, Innovation, Inspirational Leadership, Integrated Evidence Generation (Inactive), Medical Affairs, Medical Communications, Medical Education (Inactive), Patient Care, People Management, Pharmaceutics, Priority Disease Areas Expertise (Inactive), Product Launches, Product Strategies, Real World Evidence (RWE), Regulatory Compliance, Research Methodologies, Results-Oriented {+ 3 more}",
-    "external_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Basel-City/International-Medical-Affairs-Director--Neuroscience_REQ-10080860-1",
-    "status": "ignored",
-    "title": "International Medical Affairs Director, Neuroscience",
-    "company": "Novartis",
-    "location": "Basel (City)",
-    "posted_date": "2026-06-25",
-    "department": "",
-    "score": 3,
-    "matched_keywords": [
-      "PhD",
-      "drug development",
-      "medical affairs"
-    ],
-    "deducted_keywords": []
-  },
   "/job/Basel-City/Patent-Attorney_REQ-10081840-1": {
     "description": "Salary Range:CHF146,300.00 - CHF271,700.00\n\n \nJob Description Summary#LI-Hybrid\nLocation: Basel, Switzerland or Cambridge, United States (see separate posting)\n\nReady to shape the future of innovation at Novartis? As a Patent Attorney, you will play a pivotal role in protecting groundbreaking scientific discoveries and enabling life-changing medicines to reach patients worldwide. Partnering closely with R&D teams, you will drive strategic intellectual property decisions, build robust patent portfolios, and navigate complex legal landscapes to safeguard innovation across the product lifecycle.\n\n \nJob Description\nKey Responsibilities\nProvide clear, strategic, and business-focused counsel to Novartis R&D clients on invention protection, portfolio development, publication strategy, and third-party risks.\nBuild and manage patent portfolios for Novartis R&D projects by identifying inventions and preparing, prosecuting, maintaining, and defending patent filings across areas such as new molecular entities, processes, manufacturing, platforms, technologies, and clinical developments.\nRender legal opinions on patentability, validity, and freedom to operate, and develop patent strategies that strengthen IP positions, support freedom to operate, and enable effective IP defense.\nApply deep knowledge of national patent law and practice, including relevant legal developments and patent trends, to shape strategy and advice.\nUnderstand and apply other forms of exclusivity protection, as appropriate.\nCommunicate effectively with colleagues and leaders across the legal, IP, and R&D organizations.\nBuild and manage relationships with outside counsel and collaborators, including extensive interaction within a multicultural global patent function.\nConduct due diligence and provide counsel based on those assessments, including freedom-to-operate, infringement, validity, risk evaluation, and risk mitigation strategies.\nProvide IP support for transactional matters, including M&A, research collaborations, and in-licensing opportunities, with advice on contract drafting and negotiation\nEnsure high-quality, timely delivery of work aligned with business goals and budgets\n\nEssential Requirements\nJuris Doctor degree with admission to at least one state bar, and registration to practice before the U.S. Patent and Trademark Office.\nAdvanced degree in chemistry or related field, with strong preference for a doctoral degree\nSignificant experience as a patent attorney within a law firm or pharmaceutical or biotechnology environment\nStrong technical expertise in chemistry, preferably including experience with small molecules, synthesis, or pharmaceutical development.\nExpertise in U.S. and PCT patent law, filing processes, and prosecution practice, with a detailed understanding of European patent law and other major global patent systems\nProven ability to partner with scientific and business stakeholders to deliver strategic intellectual property advice\nStrong analytical, communication, and decision-making skills with high attention to detail\nAbility to manage multiple priorities effectively within a fast-paced, global environment\n\nBenefits & Rewards \n\nAt Novartis, we’re committed to reimagining medicine together - and rewarding the people who make it happen. \n\n  \n\nExpected Annual Base Salary Range for role: CHF 146.300 - CHF 271.700\n\n  \n\nThe base salary offered is determined based on gender-neutral objectives, such as relevant skills, competencies and experience in accordance with the Novartis pay setting policy and upon joining Novartis will be reviewed periodically. \n\n  \n\nThe rewards of being part of our team go far beyond base pay and incentives. We also offer a variety of competitive benefits in kind to help you thrive personally and professionally, such as insurance plans, retirement plans, wellbeing resources and global recognition programs. In addition, we provide flexible and hybrid working options, where possible, and minimum 14 weeks paid parental leave. \n\nIn addition to your base salary, you may be eligible for a performance-based bonus depending on certain performance parameters. Long-term equity awards granted at group level may also be part of your package. Further details will be provided during the application process.  \n\n  \n\nRead our brochure to learn more about our global total rewards offering: \n\nhttps://www.novartis.com/sites/novartis_com/files/novartis-life-handbook.pdf \n\n  \n\nNote: Benefits and compensation may vary by country and are subject to local legal requirements, including provisions of collective bargaining agreements where applicable. A full overview of your compensation package, including any relevant collective bargaining agreement details applicable to your role based on your employment location and Novartis employer entity, will be communicated separately to you during the application process. \n\nCommitment to Diversity and Inclusion:\nNovartis is committed to building an outstanding, inclusive work environment and diverse teams representative of the patients and communities we serve.\n\nAccessibility and Accommodation:\nNovartis is committed to working with and providing reasonable accommodation to all individuals. If, because of a medical condition or disability, you need a reasonable accommodation for any part of the recruitment process, or in order to receive more detailed information about the essential functions of a position, please send an e-mail to diversity.inclusion_ch@novartis.com and let us know the nature of your request and your contact information. Please include the job requisition number in your message. \n\n \nSkills Desired",
     "external_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Basel-City/Patent-Attorney_REQ-10081840-1",
@@ -1463,7 +1432,7 @@
     "title": "Patent Attorney",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "",
+    "posted_date": "2026-07-06",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1519,7 +1488,7 @@
     "title": "Translational Medicine, Strategic Feasibility Expert-Associate Director",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-06-26",
+    "posted_date": "2026-06-25",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -1562,22 +1531,6 @@
   "_generic:Numab Therapeutics": {
     "keywords": "npp"
   },
-  "/job/Basel-City/Associate-Director--Search---Evaluation--Immunology-_REQ-10080739-1": {
-    "description": "Salary Range:CHF129,500.00 - CHF240,500.00\n\n \nJob Description Summary#LI-Hybrid\nLocation: Basel, Switzerland\n\nInternal title: Associate Director, Search & Evaluation\n\nJoin us at the forefront of scientific innovation, where your insights can shape the future of Immunology at Novartis. In this role, you will identify and evaluate novel therapeutics with the potential to transform the practice of medicine for patients suffering from immunological diseases. The scope includes a wide range of tasks from contributing to the partnering strategy, accessing targets and novel biology of therapeutic relevance across all development stages. The individual acts as an ambassador for the Immunology Therapeutic Area and for the broader organization and serves as a go to person for respective external partnering opportunities. Working across research, commercial, and business development teams, you will play a pivotal role in uncovering high-impact opportunities, building strategic partnerships, and driving growth through informed decision-making. If you are passionate about translating scientific innovation into real-world impact and thrive in a collaborative, fast-paced environment, this is your opportunity to make a difference.\n\n \nJob Description\nKey Responsibilities\nIdentify and evaluate external therapeutic opportunities aligned with Immunology strategy across the development value chain\nLead search activities and efficient triaging and prioritization leveraging in depth knowledge in the immunology therapeutic area, and ensure prioritization aligns with strategic business development and licensing objectives.\nBuild and analyze competitive landscapes and innovation ecosystems to inform opportunity sourcing and decision-making\nConduct triage and due diligence for inbound opportunities with clear documentation and structured recommendations\nCollaborate cross-functionally to prepare high-quality materials for governance reviews and deal execution processes\nEngage stakeholders across research, commercial, and corporate development to drive alignment and informed decisions\nPresent strategic opportunities to senior leadership and contribute to internal consensus building\nRepresent Novartis at industry conferences and external meetings to strengthen partnerships and market visibility\n\nEssential Requirements\nAdvanced university degree in life sciences\nWorking experience in the pharmaceutical or biotechnology industry, preferably in business development, strategy, consulting, or research, either in-house in a biotech or pharmaceutical company or working with health care clients\nStrong understanding of drug discovery, clinical development, and emerging therapeutic concepts\nDemonstrated ability to analyze complex scientific data and translate insights into strategic recommendations\nProven experience collaborating across cross-functional teams in a matrixed global organization\nExcellent communication and stakeholder engagement skills, with ability to influence senior leadership\n\nBenefits & Rewards \n\nAt Novartis, we’re committed to reimagining medicine together - and rewarding the people who make it happen. \n\n  \n\nExpected Annual Base Salary Range for role: CHF 129.500 - CHF 240.500\n\n  \n\nThe base salary offered is determined based on gender-neutral objectives, such as relevant skills, competencies and experience in accordance with the Novartis pay setting policy and upon joining Novartis will be reviewed periodically. \n\n  \n\nIn addition to your base salary, you may be eligible for a performance-based bonus depending on certain performance parameters. \n\n  \n\nThe rewards of being part of our team go far beyond base pay and incentives. We also offer a variety of competitive benefits in kind to help you thrive personally and professionally, such as insurance plans, retirement plans, wellbeing resources and global recognition programs. In addition, we provide flexible and hybrid working options, where possible, and minimum 14 weeks paid parental leave. \n\n  \n\nRead our brochure to learn more about our global total rewards offering: \n\nhttps://www.novartis.com/sites/novartis_com/files/novartis-life-handbook.pdf \n\n  \n\nNote: Benefits and compensation may vary by country and are subject to local legal requirements, including provisions of collective bargaining agreements where applicable. A full overview of your compensation package, including any relevant collective bargaining agreement details applicable to your role based on your employment location and Novartis employer entity, will be communicated separately to you during the application process. \n\nCommitment to Diversity and Inclusion:\nNovartis is committed to building an outstanding, inclusive work environment and diverse teams representative of the patients and communities we serve.\n\nAccessibility and Accommodation:\nNovartis is committed to working with and providing reasonable accommodation to all individuals. If, because of a medical condition or disability, you need a reasonable accommodation for any part of the recruitment process, or in order to receive more detailed information about the essential functions of a position, please send an e-mail to diversity.inclusion_ch@novartis.com and let us know the nature of your request and your contact information. Please include the job requisition number in your message. \n\n \nSkills Desired",
-    "external_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Basel-City/Associate-Director--Search---Evaluation--Immunology-_REQ-10080739-1",
-    "status": "ignored",
-    "title": "Associate Director, Search & Evaluation (Immunology)",
-    "company": "Novartis",
-    "location": "Basel (City)",
-    "posted_date": "2026-06-27",
-    "department": "",
-    "score": 2,
-    "matched_keywords": [
-      "drug discovery",
-      "immunology"
-    ],
-    "deducted_keywords": []
-  },
   "/job/CH---Basel/Associate-Principal-Scientist-Process-Development-Drug-Product-80-100-_R76464": {
     "description": "The actual location of this job is in Basel Stücki, Switzerland.\n\nFor our successful Drug Product Services (DPS) focused branch located in Basel and Stein, Switzerland, we have exciting opportunities. Become part of a group that enables its customers to meet some of the greatest challenges in patient treatment and join us by applying for the Associate Principal Scientist Process Development DP position.\n\nWhat you will get:\n\nAn agile career and a dynamic work culture\n\nAn inclusive and ethical workplace\n\nCompensation programs that recognize high performance\n\nWhat you will do:\n\nAssist establishment of Drug Product process development infrastructure and services for parenteral drug products for clinical and commercial use\n\nInstall, qualify, and maintain equipment for process development, non-GMP manufacturing and related analytics in close alignment with current best practices and regulations\n\nPlan and perform process development and characterization studies for liquid and lyophilized parenteral drug products of biologics (e.g. monoclonal antibodies, novel formats, ADCs, peptides) and small molecules\n\nDocument data following applicable lab procedures and current documentation practices\n\nAct as project lead for assigned projects, being the customer’s SPOC for DPS activities\n\nEnable innovation and technical strategy projects, generate IP and contribute to scientific publications\n\nExecute analytical tests to support formulation and process development (e.g. HPLC and CE purity methods, content by UV, identity, color, clarity and opalescence, pH, osmolality, visible particles, subvisible particles)\n\nManufacture non-GMP drug product samples for supportive stability studies and preclinical use (e.g. GLP tox studies) applying aseptic working techniques\n\nSupport manufacture of clinical drug supplies at GMP sites\n\nWhat we are looking for:\n\nScience or engineering degree (PhD, MSc) in a relevant discipline, e.g. Pharmaceutical Sciences, Chemical or Biochemical Engineering, or a training on the job as lab technician, or equivalent\n\nWork experience as a research/technical assistant in the pharmaceutical or chemical industry, preferably in process development\n\nUnderstanding of Drug Product process development, and technical knowledge of handling basic analytical equipment e.g. UV-VIS, pH, osmolality\n\nExperience with parenteral dosage forms, protein formulation and analytics and aseptic working techniques is a plus\n\nVery good knowledge of reporting, interpretation and documentation of scientific results\n\nStrong communication skills and ability to work independently within a team\n\nExcellent knowledge of written and spoken English\n\nAbout Lonza\nAt Lonza, our people are our greatest strength. With 30+ sites across five continents, our globally connected teams work together every day to manufacture the medicines of tomorrow. Our core values of Collaboration, Accountability, Excellence, Passion and Integrity reflect who we are and how we work together. Everyone’s ideas, big or small, have the potential to improve millions of lives, and that’s the kind of work we want you to be part of.\n\nInnovation thrives when people from all backgrounds bring their unique perspectives to the table. At Lonza, we value diversity and are committed to creating an inclusive environment for all employees. If you’re ready to help turn our customers’ breakthrough ideas into viable therapies, we look forward to welcoming you on board.\n\nReady to shape the future of life sciences? Apply now.",
     "external_url": "https://lonza.wd3.myworkdayjobs.com/Lonza_Careers/job/CH---Basel/Associate-Principal-Scientist-Process-Development-Drug-Product-80-100-_R76464",
@@ -1585,7 +1538,7 @@
     "title": "Associate Principal Scientist Process Development Drug Product 80-100%",
     "company": "Lonza",
     "location": "CH - Basel",
-    "posted_date": "2026-06-27",
+    "posted_date": "2026-06-26",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1602,7 +1555,7 @@
     "title": "Research Scientist II or Senior Scientist I- Toxicology (80-100%) (Dual Level Posting)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-06-27",
+    "posted_date": "2026-06-26",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -1638,7 +1591,7 @@
     "title": "Senior Scientist microbiological Quality Control",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-06-10",
+    "posted_date": "2026-06-09",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -1668,7 +1621,7 @@
     "title": "R&D Scientist – Scientific Data Analytics (d/f/m)",
     "company": "Danaher",
     "location": "Basel, Switzerland",
-    "posted_date": "2026-06-24",
+    "posted_date": "2026-06-23",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1723,7 +1676,7 @@
     "title": "Senior Scientist QA Operations",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-06-30",
+    "posted_date": "2026-06-29",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -1785,7 +1738,7 @@
     "title": "Senior Expert / Senior Principal PKS Data Scientist & Scientific Software Engineer (Dual level posting)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-07-01",
+    "posted_date": "2026-06-30",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -1835,7 +1788,7 @@
     "title": "Associate Scientist / Senior Laboratory Specialist",
     "company": "CSL Behring / Vifor",
     "location": "EMEA, CH, Kanton Bern, Bern, CSL Behring",
-    "posted_date": "2026-07-01",
+    "posted_date": "2026-06-30",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1867,7 +1820,7 @@
     "title": "In Vitro Bioanalysis Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-02",
+    "posted_date": "2026-07-01",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -1920,7 +1873,7 @@
     "title": "Principal Scientist si-RNA Design",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-02",
+    "posted_date": "2026-07-01",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1936,7 +1889,7 @@
     "title": "Mechanistic Immuno Tox Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-02",
+    "posted_date": "2026-07-01",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -1955,7 +1908,7 @@
     "title": "Investigative Toxicology Junior Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-02",
+    "posted_date": "2026-07-01",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -1979,7 +1932,7 @@
     "title": "Hematology and Safety Biomarker Expert",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-02",
+    "posted_date": "2026-07-01",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -2000,7 +1953,7 @@
     "title": "Internship Scientist Forensic Chemistry 6 months contract 80-100%",
     "company": "Lonza",
     "location": "CH - Basel",
-    "posted_date": "2026-07-02",
+    "posted_date": "2026-07-01",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2131,7 +2084,7 @@
     "title": "Associate Scientist in Pharmaceutical Development (Fixed- term for 1 year in Basel)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-02",
+    "posted_date": "2026-07-01",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -2144,7 +2097,7 @@
     "title": "Data Science & AI Innovation Postdoctoral Fellow Immunology",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-07-08",
+    "posted_date": "",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -2165,7 +2118,7 @@
     "title": "Data Science & AI Innovation Postdoctoral Fellow in Machine Learning for Chemical Synthesis and Reactivity Prediction",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-07-02",
+    "posted_date": "2026-07-01",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -2183,7 +2136,7 @@
     "title": "Data Science & AI Innovation Postdoctoral Fellow d42",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-07-02",
+    "posted_date": "2026-07-01",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -2206,7 +2159,7 @@
     "title": "Data Science & AI Innovation Postdoctoral Fellow Foundational & Multimodal Proteochemometrics models",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-07-02",
+    "posted_date": "2026-07-01",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -2250,7 +2203,7 @@
     "title": "Senior Scientist Electronic Laboratory Systems",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-07-03",
+    "posted_date": "2026-07-02",
     "department": "",
     "score": -1,
     "matched_keywords": [
@@ -2297,7 +2250,7 @@
     "title": "In vivo Senior Scientist (80-100%)*",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-07-03",
+    "posted_date": "2026-07-02",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -2316,7 +2269,7 @@
     "title": "Principal Scientist I/II, Oncology Drug Discovery Biology",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-07-03",
+    "posted_date": "2026-07-02",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -2349,7 +2302,7 @@
     "title": "Medical Science Liaison - Respiratory",
     "company": "AstraZeneca",
     "location": "Switzerland - Baar",
-    "posted_date": "2026-07-04",
+    "posted_date": "2026-07-03",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2414,7 +2367,7 @@
     "title": "Expert Analytical Scientist (m/f/d)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "",
+    "posted_date": "2026-07-06",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2626,7 +2579,7 @@
     "title": "International Medical Affairs Head, CRM",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-07-08",
+    "posted_date": "",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2661,7 +2614,7 @@
     "title": "Senior/Principal Scientist - NMR Expert",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-08",
+    "posted_date": "",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2677,7 +2630,7 @@
     "title": "Director, Corporate Strategy & Business Development",
     "company": "Alcon",
     "location": "Geneva, Switzerland",
-    "posted_date": "2026-07-08",
+    "posted_date": "",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -2741,5 +2694,22 @@
     "description": "Introduction:\nYou will drive the evolution of CERN’s Service Management platform, currently based on ServiceNow, in line with business needs and developments from the platform provider.\nFunctions:\nIdentify and present relevant technical solutions (e.g. AI based automation)  by following new releases and announcements from the PaaS service provider (ServiceNow).\nRegularly interact with business process experts to capture business needs.\nPrepare and maintain a functional platform development plan in collaboration with our providers, business and the lead developer, participate to prototype building.\nAssist and replace when needed the platform lead developer in coordinating development effort.\nParticipate to the control and support of development activities, ensuring maximum optimisation, health and compliance with the PaaS platform, security and service management industry best practices.",
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000136380259-software-architect-service-management-platform-osi-sms-2026-140-ld-?oga=true",
     "status": "matched"
+  },
+  "/job/Basel-Switzerland/Scientific-Consultant-Assay-Analytics_R1311454": {
+    "description": "Are you ready to accelerate your potential and make a real difference within life sciences, diagnostics and biotechnology?\n\nAt Genedata, one of Danaher’s 15+ operating companies, our work saves lives – and we’re all united by a shared commitment to innovate for tangible impact.\n\nYou’ll thrive in a culture of belonging where you and your unique viewpoint matter. And by harnessing Danaher’s system of continuous improvement, you help turn ideas into impact – innovating at the speed of life.\n\nThe biopharmaceutical industry is undergoing a digitalization revolution, adopting data-driven R&D approaches to develop innovative therapies quicker. Genedata’s market-leading enterprise software is fueling this revolution, enabling leading biopharma, biotech, and CRDMO companies worldwide to automate processes and leverage biopharma R&D data analytics so they can find breakthrough therapies faster. Join this digital transformation and help scientists around the world accelerate the pace of biopharma R&D.\n\nLearn about the Danaher Business System which makes everything possible.\n\nThe Scientific Consultant is responsible for  ensuring our customers maximize the value of our leading software solution throughout its adoption lifecycle. This involves a mix of scientific, technical, and project management responsibilities while serving as a subject matter expert, educator, collaborator, and trusted partner. In this role, you will help shape how major biopharmaceutical organizations analyze, manage, and leverage biological data using the industry standard platform, Genedata Screener.\n\nThis position reports to the EU Lead Scientific Account Manager and is part of the Screener Business Unit located in Basel (Switzerland). This role is an on-site role.\n\nIn this role, you will have the opportunity to:\nBecome a subject matter expert in Genedata Screener and the analysis of biological data\nProvide end-to-end customer support, from pre-sales engagements through deployment, implementation, optimization, and production usage\nPlan and lead a variety of projects, including scientific consulting, custom implementations, system integrations, and data analysis initiatives\nCollaborate closely with sales team colleagues to clearly communicate the value and impact of Genedata products to prospective and existing customers\nApply your scientific and technical insights to contribute to strategic initiatives in science, marketing, development, and product management functions\n\nThe essential requirements of the job include:\nA postgraduate degree in biology, bioinformatics, biochemistry, chemistry, or related life science discipline\nBasic familiarity with the shell command-line interface\nBasic experience with Python scripting language\nProject Management experience or training\nAbility to present complex scientific topics in an understandable and compelling way\n\nTravel, Motor Vehicle Record & Physical/Environment Requirements:\nAbility to travel – overnight stays up to 4 times a year in continental Europe, up to once a year intercontinental\n\nIt would be a plus if you also possess previous experience in:\nExperience from industry or academia within a drug discovery or drug development setting\n\nGenedata, a Danaher operating company, offers a broad array of comprehensive, competitive benefit programs that add value to our lives. Whether it’s a health care program or paid time off, our programs contribute to life beyond the job.\nJoin our winning team today. Together, we’ll accelerate the real-life impact of tomorrow’s science and technology. We partner with customers across the globe to help them solve their most complex challenges, architecting solutions that bring the power of science to life.\n\nFor more information, visit www.danaher.com.",
+    "external_url": "https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Basel-Switzerland/Scientific-Consultant-Assay-Analytics_R1311454",
+    "status": "matched",
+    "title": "Scientific Consultant Assay Analytics",
+    "company": "Danaher",
+    "location": "Basel, Switzerland",
+    "posted_date": "2026-07-08",
+    "department": "",
+    "score": 3,
+    "matched_keywords": [
+      "bioinformatics",
+      "drug development",
+      "drug discovery"
+    ],
+    "deducted_keywords": []
   }
 }
