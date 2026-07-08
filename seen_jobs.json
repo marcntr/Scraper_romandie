@@ -2635,7 +2635,7 @@
   "https://apply.workable.com/debiopharm/j/67E3E798A2/": {
     "description": "Mission\nThe Clinical Development Quality Manager (CDQM) is responsible for ensuring quality oversight across clinical development activities and supporting the maintenance of GCP compliance. This role supports stakeholders in vendor qualification, study risk management, quality oversight, team training compliance, and coaching as needed. Responsibilities include monitoring Key Quality Indicators (KQIs), analyzing trends in quality events,  ensuring protocol adherence and providing support for quality events, audits, and corrective and preventive actions (CAPAs). The CDQM ensures proactive identification and mitigation of risks to maintain the integrity of clinical trial data and protect patient safety. \nMain responsibilities\nGCP Support and Oversight :\nProvide GCP support and guidance to clinical development stakeholders. \nMaintain and manage the CDQM GCP query log, ensuring all GCP-related queries are logged, tracked, and resolved promptly. \n \nVendor Qualification and Oversight :\nResponsible for conducting qualification assessment of clinical service providers to ensure compliance with regulatory requirements and internal processes. \nWork closely with internal stakeholders and service providers QA representatives to ensure effective oversight and continuous monitoring. \n \nRisk Management :\nReview and assess study risks in collaboration with stakeholders. \nFacilitate the identification of study-specific risks and critical to quality factors. \nMonitor KQIs on a monthly to quarterly basis through analytics and provide insights to stakeholders. \nPerform trending analyses on KQIs,  and quality events to identify patterns and risks. \nCommunicate potential quality issues identified during KQI reviews and support mitigation planning. \n \nAudit and Inspection Readiness :\nProvide input to audit management for risk assessments to support the generation of the audit plan. \nSupport stakeholders in preparing for audits, including site and service provider’s audits, regulatory inspections, and internal audits. \nReview CAPAs related to audits and inspections to ensure thoroughness and alignment with compliance requirements. \n \nQuality Events and Deviations Management :\nSupport stakeholders in managing quality events and deviations, including investigations and root cause analyses. \nAssist in the development and implementation of CAPAs to address identified quality events and deviations. \n \nTeam Training and Compliance Oversight :\nPerform follow-up on study document training compliance for the Clinical Trial Team (CTT). \nEnsure the CTT team remains up to date with protocol training, and study-specific updates. \n \nContinuous Improvement :\nAnalyze quality trends from  KQI reviews, audits, and quality events to recommend continuous improvement initiatives. \nProvide training and awareness sessions to stakeholders on GCP compliance, risk management, and quality oversight. \n \nProfile  \nUniversity Degree in Sciences or relevant academic background \n4-5 years’ experience in the clinical setting of the pharmaceutical/biotech industry, including at least 3 years within Clinical Quality Management System & Compliance \nExperience in managing and conducting GCP audits (Internal processes, Service Providers, TMF, Investigational Sites and CSR) \nExcellent knowledge of GCP. Current and strong working knowledge of GCP, CFR Title 21 and regulatory guidance’s including, ICH E6-R3 implementation,  multidisciplinary guidance documents, and 21 CFR Part 11 compliance \nStrong experience in the mechanism of multiple QA service provider’s oversight \nExperience in setting and updating SOPs  \nKnowledge of computerized systems validation \nRigor, adaptability, proactivity and organization \nPragmatism focused on efficiency and continuous improvement \nCapacity to think strategically and to keep an overall view while bringing efficiency to daily detailed activities  \nFluent in English, French an asset \nWhat we Offer\n· Being part of a company where innovation, collaboration, and impact aren’t just values — they’re how we work every day\n· Partner with teams across disciplines, at the forefront of oncology and anti-infective development\n· An inclusive and respectful workplace — proud to be Equal-Pay certified\n· Grow in a culture that values people, purpose, and performance\n· A chance to grow, share, and shape the future of healthcare\n\nWhat to Expect in the Recruitment Process:\nIf your application is selected, you’ll be invited to interviews with Talent Acquisition and the Hiring Manager via Teams, followed by a panel interview and reference checks. Communication is handled via Workable—check your spam folder for emails from *@outbound.workable.com.\n\nWe do not accept unsolicited applications from agencies or recruiters.",
     "external_url": "https://apply.workable.com/debiopharm/j/67E3E798A2/",
-    "status": "matched",
+    "status": "ignored",
     "title": "T2609 Clinical Development Quality Manager (contractor until end of May 2027)",
     "company": "Debiopharm",
     "location": "Lausanne, Vaud, Switzerland / Lausanne, Vaud, Switzerland",
@@ -2651,7 +2651,7 @@
   },
   "https://gloorlang.starhunter.software/Headhunter/project/job-ad/hash/6a43b0782443b": {
     "external_url": "https://gloorlang.starhunter.software/Headhunter/project/job-ad/hash/6a43b0782443b",
-    "status": "matched",
+    "status": "ignored",
     "title": "Senior Scientist MS&T – Biologics",
     "company": "Gloor & Lang",
     "location": "Neuchatel - Lausanne Region, Switzerland",
@@ -2665,7 +2665,7 @@
   },
   "https://gloorlang.starhunter.software/Headhunter/project/job-ad/hash/6a201d0a1a053": {
     "external_url": "https://gloorlang.starhunter.software/Headhunter/project/job-ad/hash/6a201d0a1a053",
-    "status": "matched",
+    "status": "ignored",
     "title": "Validation & Investigation Scientist",
     "company": "Gloor & Lang",
     "location": "Neuchatel - Lausanne Region, Switzerland",
@@ -2679,7 +2679,7 @@
   },
   "https://gloorlang.starhunter.software/Headhunter/project/job-ad/hash/69e5f1b516f9f": {
     "external_url": "https://gloorlang.starhunter.software/Headhunter/project/job-ad/hash/69e5f1b516f9f",
-    "status": "matched",
+    "status": "ignored",
     "title": "Regulatory Affairs Specialist",
     "company": "Gloor & Lang",
     "location": "Zürich Region, Switzerland",
@@ -2691,7 +2691,7 @@
   },
   "https://gloorlang.starhunter.software/Headhunter/project/job-ad/hash/68b5a83b99a4d": {
     "external_url": "https://gloorlang.starhunter.software/Headhunter/project/job-ad/hash/68b5a83b99a4d",
-    "status": "matched",
+    "status": "ignored",
     "title": "Regulatory Affairs Manager 80%",
     "company": "Gloor & Lang",
     "location": "Basel, Switzerland",
@@ -2700,5 +2700,33 @@
     "score": 0,
     "matched_keywords": [],
     "deducted_keywords": []
+  },
+  "https://www.stettlerconsulting.ch/en/current-vacancies/sales-business-development-manager-labor-kuehlgeraete-m-w-100/": {
+    "external_url": "https://www.stettlerconsulting.ch/en/current-vacancies/sales-business-development-manager-labor-kuehlgeraete-m-w-100/",
+    "status": "matched",
+    "title": "Sales- / Business Development Manager ​ Labor-Kühlgeräte (m/w) 100%",
+    "company": "Stettler Consulting",
+    "location": "Region Deutschschweiz, Switzerland",
+    "posted_date": "",
+    "department": "",
+    "score": -2,
+    "matched_keywords": [],
+    "deducted_keywords": [
+      "location:Region Deutschschweiz, Switzerland"
+    ]
+  },
+  "https://www.michaelpage.ch/job-detail/fund-portfolio-coordinator-9-months/ref/jn-042026-6999523": {
+    "external_url": "https://www.michaelpage.ch/job-detail/fund-portfolio-coordinator-9-months/ref/jn-042026-6999523",
+    "status": "matched",
+    "title": "Fund Portfolio Coordinator for 9 months",
+    "company": "Michael Page Switzerland",
+    "location": "Switzerland",
+    "posted_date": "",
+    "department": "",
+    "score": -2,
+    "matched_keywords": [],
+    "deducted_keywords": [
+      "location:Switzerland"
+    ]
   }
 }
