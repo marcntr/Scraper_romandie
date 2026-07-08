@@ -596,7 +596,8 @@
     "https://jobdetails.nestle.com/job/Lausanne-Statistics-and-Data-Science-Specialist/1404979633/": "ignored",
     "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Basel-City/Global-Program-Regulatory-Manager---Neuroscience_REQ-10080341-1": "ignored",
     "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Basel-City/Global-Program-Regulatory-Manager---Neuroscience_REQ-10080339-1": "ignored",
-    "https://csl.wd1.myworkdayjobs.com/CSL_External/job/EMEA-CH-Kanton-Bern-Bern-CSL-Behring/Scientist--Tech-Ops_R-282898": "ignored"
+    "https://csl.wd1.myworkdayjobs.com/CSL_External/job/EMEA-CH-Kanton-Bern-Bern-CSL-Behring/Scientist--Tech-Ops_R-282898": "ignored",
+    "https://gloorlang.starhunter.software/Headhunter/project/job-ad/hash/6a43b0782443b": "ignored"
   },
   "_generic:Hurdle Bio": {
     "keywords": "npp"
@@ -811,20 +812,6 @@
     "description": "Key Responsibilities\nOverall accountability for quantitative clinical pharmacology strategies and activities in appointed clinical projects with focus on late-stage development including filing and life-cycle management.\nDefine appropriate strategies for clinical pharmacology/translational medicine, clinical PK, PK/PD, exposure-response, and M&S in clinical development plans that enable clinical development and regulatory decisions.\nProvide matrix leadership to collaborate, align and influence across the cross-functional teams to identify and mitigate key project challenges related to the clinical pharmacology discipline.\nProvide expert knowledge on clinical pharmacology and communicate clinical pharmacology aspects internally and during health authority interactions.\nOversee that Model Based Drug Development (MBDD) is applied in clinical programs when clinically relevant.\nEnsure that translational aspects are considered and that pre-clinical and clinical PK/PD information are optimally used and integrated into development plans.\nContribute and decide on the biomarker strategy in clinical programs.\nContribute to the clinical development plan.\nResponsible for clinical pharmacology sections in regulatory documents and at interactions with regulatory authorities.\nRepresent clinical pharmacology on project Core Teams.\nContribute to clinical pharmacology evaluations at in-licensing and due-diligence activities.",
     "external_url": "https://jobs.smartrecruiters.com/Sobi/744000132160476-associate-director-director-clinical-pharmacology?oga=true",
     "status": "matched"
-  },
-  "https://www.michaelpage.ch/job-detail/fund-portfolio-coordinator-9-months/ref/jn-042026-6999523": {
-    "external_url": "https://www.michaelpage.ch/job-detail/fund-portfolio-coordinator-9-months/ref/jn-042026-6999523",
-    "status": "ignored",
-    "title": "Fund Portfolio Coordinator for 9 months",
-    "company": "Michael Page Switzerland",
-    "location": "Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": -2,
-    "matched_keywords": [],
-    "deducted_keywords": [
-      "location:Switzerland"
-    ]
   },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000132368970": {
     "description": "Introduction\nAs a versatile electromechanical technician with experience in installing and maintaining a wide range of equipment, you will play a key role in the infrastructure upgrade and implementation of the ATLAS upgrade project (2026–2030). As part of the ATLAS Technical Coordination team, you will liaise with detector teams, contribute to the decommissioning of existing equipment, and participate in the installation and commissioning of the new rack infrastructure, while supporting detector teams in their installation work.\n\n \nFunctions\nParticipate in the decommissioning of existing electronics racks.\nContribute to the installation of new racks in the underground service caverns, including rack cooling and power distribution systems as well as ventilation turbines, to meet the future needs of the ATLAS detector systems.\nParticipate in the commissioning of the racks and be responsible for the maintenance of rack cooling and  power distribution systems, including spare parts management.\nContribute to the assembly, installation, and maintenance of rack ventilation turbines.\nSupport the upgrade and maintenance of the PLC-based Detector Safety System (DSS) hardware.\nParticipate in cable routing and in the installation of electromechanical equipment for ATLAS detector infrastructure.\nSupport the maintenance of common environmental control and monitoring devices (e.g., webcams, temperature, and humidity sensors, etc.).\nSupport the operation, maintenance and refurbishment of the ATLAS surface facilities.\nCoordinate, in collaboration with the group responsible for Access & Alarms, the maintenance of the sniffer system used to monitor the concentration of smoke or flammable gas.\nBe part of the Detector Safety System (DSS) on-call team.",
@@ -2660,6 +2647,58 @@
       "location:lausanne",
       "oncology"
     ],
+    "deducted_keywords": []
+  },
+  "https://gloorlang.starhunter.software/Headhunter/project/job-ad/hash/6a43b0782443b": {
+    "external_url": "https://gloorlang.starhunter.software/Headhunter/project/job-ad/hash/6a43b0782443b",
+    "status": "matched",
+    "title": "Senior Scientist MS&T – Biologics",
+    "company": "Gloor & Lang",
+    "location": "Neuchatel - Lausanne Region, Switzerland",
+    "posted_date": "",
+    "department": "",
+    "score": 4,
+    "matched_keywords": [
+      "location:lausanne"
+    ],
+    "deducted_keywords": []
+  },
+  "https://gloorlang.starhunter.software/Headhunter/project/job-ad/hash/6a201d0a1a053": {
+    "external_url": "https://gloorlang.starhunter.software/Headhunter/project/job-ad/hash/6a201d0a1a053",
+    "status": "matched",
+    "title": "Validation & Investigation Scientist",
+    "company": "Gloor & Lang",
+    "location": "Neuchatel - Lausanne Region, Switzerland",
+    "posted_date": "",
+    "department": "",
+    "score": 4,
+    "matched_keywords": [
+      "location:lausanne"
+    ],
+    "deducted_keywords": []
+  },
+  "https://gloorlang.starhunter.software/Headhunter/project/job-ad/hash/69e5f1b516f9f": {
+    "external_url": "https://gloorlang.starhunter.software/Headhunter/project/job-ad/hash/69e5f1b516f9f",
+    "status": "matched",
+    "title": "Regulatory Affairs Specialist",
+    "company": "Gloor & Lang",
+    "location": "Zürich Region, Switzerland",
+    "posted_date": "",
+    "department": "",
+    "score": 0,
+    "matched_keywords": [],
+    "deducted_keywords": []
+  },
+  "https://gloorlang.starhunter.software/Headhunter/project/job-ad/hash/68b5a83b99a4d": {
+    "external_url": "https://gloorlang.starhunter.software/Headhunter/project/job-ad/hash/68b5a83b99a4d",
+    "status": "matched",
+    "title": "Regulatory Affairs Manager 80%",
+    "company": "Gloor & Lang",
+    "location": "Basel, Switzerland",
+    "posted_date": "",
+    "department": "",
+    "score": 0,
+    "matched_keywords": [],
     "deducted_keywords": []
   }
 }
