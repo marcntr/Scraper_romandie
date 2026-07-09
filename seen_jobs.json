@@ -597,7 +597,8 @@
     "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Basel-City/Global-Program-Regulatory-Manager---Neuroscience_REQ-10080341-1": "ignored",
     "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Basel-City/Global-Program-Regulatory-Manager---Neuroscience_REQ-10080339-1": "ignored",
     "https://csl.wd1.myworkdayjobs.com/CSL_External/job/EMEA-CH-Kanton-Bern-Bern-CSL-Behring/Scientist--Tech-Ops_R-282898": "ignored",
-    "https://gloorlang.starhunter.software/Headhunter/project/job-ad/hash/6a43b0782443b": "ignored"
+    "https://gloorlang.starhunter.software/Headhunter/project/job-ad/hash/6a43b0782443b": "ignored",
+    "https://csl.wd1.myworkdayjobs.com/CSL_External/job/EMEA-CH-Kanton-Bern-Bern-CSL-Behring/Principal-Scientist-Tech-Ops--CMC-Science-_R-281150": "ignored"
   },
   "_generic:Hurdle Bio": {
     "keywords": "npp"
@@ -2714,5 +2715,55 @@
     "description": "Introduction:\nYou will contribute to the planning, deployment, operation and maintenance of a modern and high-end hybrid conference infrastructure consisting of nearly 200 meeting rooms and 13 auditoriums used every day by thousands of people at CERN. Working with users, technical teams and external contractors, you will coordinate audiovisual installations and refurbishments, ensure the standardisation of AV equipment, support the deployment of new technologies and contribute to the continuous improvement of conferencing services.\nFunctions:\nEnsure the standardisation of AV equipment across conference and meeting rooms (projectors, LCD screens, video/audio conferencing systems, sound reinforcement and interpretation systems) and maintain an active technology watch to recommend the most suitable AV solutions.\nCoordinate the design, installation and renovation AV systems in compliance with CERN technical standards, including the programming and maintenance of Extron and Crestron equipment controllers.\nEstablish and maintain the master plan for the renovation of AV equipment in meeting rooms and auditoriums, including equipment selection, installation design, commercial offer analysis and coordination with other services involved in room renovation.\nCoordinate the work of external contractors, including equipment installers and operational support teams, organise site visits, ensure maintenance and operational interventions, and manage AV maintenance contracts.\nProvide third-line technical support, identify and resolve complex technical issues, collaborate with webcast, recording and video conferencing services, and contribute to the continuous improvement of conferencing services.",
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000136833040-audiovisual-installation-operations-coordinator-sce-sg-tf-2026-143-ld-?oga=true",
     "status": "matched"
+  },
+  "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-senior-scientist-bcqc-lengnau-berne-880270/1": {
+    "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-senior-scientist-bcqc-lengnau-berne-880270/1",
+    "status": "matched",
+    "title": "Senior Scientist BCQC(m/f/d)",
+    "company": "Hays Switzerland",
+    "location": "Lengnau, Berne, Switzerland",
+    "posted_date": "",
+    "department": "",
+    "score": 0,
+    "matched_keywords": [],
+    "deducted_keywords": []
+  },
+  "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-analytical-project-leader-scientist-senior-scientist-basel-stadt-873611/1": {
+    "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-analytical-project-leader-scientist-senior-scientist-basel-stadt-873611/1",
+    "status": "matched",
+    "title": "Analytical Project Leader (Scientist / Senior Scientist)(m/f/d)",
+    "company": "Hays Switzerland",
+    "location": "Basel Stadt, Switzerland",
+    "posted_date": "",
+    "department": "",
+    "score": 0,
+    "matched_keywords": [],
+    "deducted_keywords": []
+  },
+  "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-vice-president-of-business-development-basel-land-873413/1": {
+    "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-vice-president-of-business-development-basel-land-873413/1",
+    "status": "matched",
+    "title": "Vice President of Business Development(m/f/d)",
+    "company": "Hays Switzerland",
+    "location": "Basel Land, Switzerland",
+    "posted_date": "",
+    "department": "",
+    "score": 0,
+    "matched_keywords": [],
+    "deducted_keywords": []
+  },
+  "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-scientist-lab-technician-assay-development-zug-873185/1": {
+    "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-scientist-lab-technician-assay-development-zug-873185/1",
+    "status": "matched",
+    "title": "Scientist Lab Technician Assay Development(m/f/d)",
+    "company": "Hays Switzerland",
+    "location": "Zug, Switzerland",
+    "posted_date": "",
+    "department": "",
+    "score": 1,
+    "matched_keywords": [
+      "assay development"
+    ],
+    "deducted_keywords": []
   }
 }
