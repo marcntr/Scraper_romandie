@@ -88,7 +88,7 @@
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-07-03"
+    "cached_at": "2026-07-11"
   },
   "_facets:roche:roche-ext": {
     "facets": {},
@@ -96,7 +96,7 @@
       "Basel",
       "Kaiseraugst"
     ],
-    "cached_at": "2026-07-03"
+    "cached_at": "2026-07-11"
   },
   "_facets:novartis:Novartis_Careers": {
     "facets": {},
@@ -104,63 +104,63 @@
       "Basel",
       "Stein"
     ],
-    "cached_at": "2026-07-03"
+    "cached_at": "2026-07-11"
   },
   "_facets:sanofi:SanofiCareers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-07-03"
+    "cached_at": "2026-07-11"
   },
   "_facets:abbott:abbottcareers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-07-03"
+    "cached_at": "2026-07-11"
   },
   "_facets:pfizer:PfizerCareers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-07-03"
+    "cached_at": "2026-07-11"
   },
   "_facets:gsk:GSKCareers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-07-03"
+    "cached_at": "2026-07-11"
   },
   "_facets:astrazeneca:Careers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-07-03"
+    "cached_at": "2026-07-11"
   },
   "_facets:amgen:Careers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-07-03"
+    "cached_at": "2026-07-11"
   },
   "_facets:gilead:gileadcareers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-07-03"
+    "cached_at": "2026-07-11"
   },
   "_facets:modernatx:M_tx": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-07-03"
+    "cached_at": "2026-07-11"
   },
   "_facets:takeda:External": {
     "facets": {},
@@ -169,28 +169,28 @@
       "Zug",
       "Glattpark"
     ],
-    "cached_at": "2026-07-03"
+    "cached_at": "2026-07-11"
   },
   "_facets:beigene:BeiGene": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-07-03"
+    "cached_at": "2026-07-11"
   },
   "_facets:msd:SearchJobs": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-07-03"
+    "cached_at": "2026-07-11"
   },
   "_facets:vrtx:Vertex_Careers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-07-03"
+    "cached_at": "2026-07-11"
   },
   "_facets:lonza:Lonza_Careers": {
     "facets": {},
@@ -199,7 +199,7 @@
       "Visp",
       "Stein"
     ],
-    "cached_at": "2026-07-03"
+    "cached_at": "2026-07-11"
   },
   "_facets:csl:CSL_External": {
     "facets": {},
@@ -209,7 +209,7 @@
       "St. Gallen",
       "Romont"
     ],
-    "cached_at": "2026-07-03"
+    "cached_at": "2026-07-11"
   },
   "_facets:alcon:careers_alcon": {
     "facets": {},
@@ -218,7 +218,7 @@
       "Hünenberg",
       "Zurich"
     ],
-    "cached_at": "2026-07-03"
+    "cached_at": "2026-07-11"
   },
   "_facets:galderma:External": {
     "facets": {},
@@ -227,63 +227,63 @@
       "La Tour-de-Peilz",
       "Lausanne"
     ],
-    "cached_at": "2026-07-03"
+    "cached_at": "2026-07-11"
   },
   "_facets:iqvia:IQVIA": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-07-03"
+    "cached_at": "2026-07-11"
   },
   "_facets:icon:broadbean_external": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-07-03"
+    "cached_at": "2026-07-11"
   },
   "_facets:parexel:Parexel_External_Careers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-07-03"
+    "cached_at": "2026-07-11"
   },
   "_facets:syneoshealth:Syneos_Health_External_Site": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-07-03"
+    "cached_at": "2026-07-11"
   },
   "_facets:myhrabc:Global": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-07-03"
+    "cached_at": "2026-07-11"
   },
   "_facets:thermofisher:ThermoFisherCareers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-07-03"
+    "cached_at": "2026-07-11"
   },
   "_facets:danaher:DanaherJobs": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-07-03"
+    "cached_at": "2026-07-11"
   },
   "_facets:illumina:illumina-careers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-07-03"
+    "cached_at": "2026-07-11"
   },
   "_facets:qiagen:QIAGEN": {
     "facets": {},
@@ -304,7 +304,7 @@
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-07-03"
+    "cached_at": "2026-07-11"
   },
   "_generic:Tigen Pharma": {
     "keywords": "npp"
@@ -968,7 +968,7 @@
     "title": "Clinical Scientist in neurosciences",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-06-19",
+    "posted_date": "2026-06-20",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -984,7 +984,7 @@
     "title": "Scientist, Pharmaceutical Development & Data Analytics _2 years temporary contract",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-06-10",
+    "posted_date": "2026-06-11",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -999,7 +999,7 @@
     "title": "Technical Expert Portfolio Mgmt, Technical Feasibility and Planning",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-06-10",
+    "posted_date": "2026-06-11",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1012,7 +1012,7 @@
     "title": "Principal Real World Data Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-06-10",
+    "posted_date": "2026-06-11",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -1030,7 +1030,7 @@
     "title": "Sr. Scientist - Computational Biology - Neuroscience & Rare Diseases",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-06-10",
+    "posted_date": "2026-06-11",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -1053,7 +1053,7 @@
     "title": "Global Medical Director, Evidence Generation Lead",
     "company": "Biogen",
     "location": "Baar, Switzerland",
-    "posted_date": "2026-06-17",
+    "posted_date": "2026-06-18",
     "department": "",
     "score": -2,
     "matched_keywords": [
@@ -1072,7 +1072,7 @@
     "title": "Senior Medical Director, Nephrology, Global Medical Affairs",
     "company": "Biogen",
     "location": "Baar, Switzerland",
-    "posted_date": "2026-06-17",
+    "posted_date": "2026-06-18",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -1095,7 +1095,7 @@
     "title": "Medical Director, Gastroenterology, Early Clinical Development",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-06-10",
+    "posted_date": "2026-06-11",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -1115,7 +1115,7 @@
     "title": "Senior Principal Scientist / Associate Director Translational Oncology",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-06-15",
+    "posted_date": "2026-06-16",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -1139,7 +1139,7 @@
     "title": "Translational Medicine Expert – Dermatology, Associate Director",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-06-16",
+    "posted_date": "2026-06-17",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -1185,11 +1185,6 @@
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000133509239-full-stack-software-engineer-it-ca-ir-2026-99-grae-?oga=true",
     "status": "matched"
   },
-  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000133569339": {
-    "description": "Nous cherchons un homme sage-femme ou une sage-femme pour assurer les prestations pour les projets de recherche clinique effectués dans le cadre de la plateforme de recherche clinique du département, particulièrement en lien avec le service de gynécologie et d’obstétrique mais pouvant également contribuer aux projets pédiatriques, dans la limite de ses compétences.\nDans le cadre de vos fonctions, vous participez à la mise en place et à la conduite des essais cliniques et autres études de la plateforme.\nVous programmez des rendez-vous avec les patientes, coordonnez entre les différentes et différents intervenants d'une étude (au sein de l’institution et en dehors) et accompagnez les patientes.\nVous prodiguez des soins liés aux études cliniques, recueillez des informations nécessaires au protocole de recherche clinique et réalisez des examens prévus dans le cadre des protocoles.\nVous réceptionnez des résultats d'examens et les rentrez dans la base de données des études en cours.\nDe plus, vous travaillez entre le site de la maternité (service de gynécologie et d'obstétrique) et celui de l'Hôpital des enfants (pédiatrie).",
-    "external_url": "https://jobs.smartrecruiters.com/HUG/744000133569339-sage-femme-ou-homme-sage-femme-de-recherche-au-sein-de-la-plateforme-de-recherche-clinique-pediatrie-gynecologie-et-obstetrique-60-a-80-?oga=true",
-    "status": "matched"
-  },
   "https://jobs.boehringer-ingelheim.com/job/Basel-Medical-Science-Liaison%2C-Cardio-Renal-Metabolic-%28French-speaking-Switzerland%29-100-%28mfd%29-Swit/1406800733/": {
     "description": "The position\n\nAs a Medical Scientific Liaison (MSL) in the Cardio-Renal-Metabolic (CRM) therapeutic area, you serve as the central interface at Boehringer Ingelheim for external specialists and health care professionals within Switzerland. In this key role, you promote scientific exchange, support the safe use of our products in clinical practice, and make an important contribution to ongoing medical education. You take on both proactive and reactive tasks, actively bringing your expertise into internal and external working groups.\n\nTasks & responsibilities\n\nAct as the main contact for clinical professionals and centers in Switzerland and leading local medical-scientific activities\n\nDrive cross-functional projects in close collaboration with teams from Marketing, Medical Affairs, Sales, and Market Access\n\nTake on medical-scientific support for our soon-to-be-approved products and/or indications\n\nInform clinical professionals and the specialist audience about the latest clinical study results and product characteristics\n\nDesign workshops, symposia, and training sessions\n\nSeek advice from regional advisory boards\n\nEnsure successful events with your professional competence\n\nWork closely with the internal teams to select suitable clinical trial centers\n\nRepresent our company and contribute to the planning and implementation of internal and external training sessions at (inter-)national professional congresses \n\nRequirements\n\nSuccessfully completed medical or scientific degree, ideally with a doctorate (PhD, MD)\n\nAt least several years of professional experience in Medical Affairs (MSL, Scientific/Medical Advisor, etc.), clinical research, complemented by solid product and literature knowledge as well as sound medical fundamentals in the cardio-renal-metabolic space\n\nStrong professional and analytical expertise, combined with excellent communication skills and empathy for the perspectives of professionals and colleagues\n\nAbility to work independently\n\nCooperative and goal-oriented working style, paired with outstanding management and organizational talents\n\nFlexibility and high willingness to travel\n\nFoundational understanding of the Swiss Pharma Landscape, including Swiss regulations and compliance rules across the lifespan of a pharmaceutical product. \n\nComprehensive market understanding and ability to successfully execute medical strategy compliantly across the lifecycle of a product\n\nFluent in French and English, both spoken and written (German and/or Italian is a plus)\n\nYour Benefits \n\nFlexible working time models: \n\nHome office and flexible working hours, depending on department and position – many things are possible with us. Since this is a field-based position, office-time either at the offices or at home is possible in agreement with line manager and job expectations\n\nLearning & development: diverse training and development opportunities for your personal and professional growth.\n\nAttractive and competitive salary package\n\nMental health support (Employee Assistance Program, coaching)\n\nCollaborative environment with strong team support despite field‑based work\n\nAppreciative culture\n\nOpportunity to actively shape customer relationships and regional market presence\n\nWe are looking forward to receiving your application online!\n\nBy uploading your application documents via our application portal, we can treat your data confidentially and in compliance with the GDPR. On our career site you will find further information about Boehringer Ingelheim as an employer as well as information about the application process and our different departments. Would you like to know what makes our employees special? What they tell about their motivation and their everyday work? Watch this video and hear for yourself what our colleagues have to share.",
     "external_url": "https://jobs.boehringer-ingelheim.com/job/Basel-Medical-Science-Liaison%2C-Cardio-Renal-Metabolic-%28French-speaking-Switzerland%29-100-%28mfd%29-Swit/1406800733/",
@@ -1214,7 +1209,7 @@
     "title": "Director - Immunology Therapeutic Area Biomarker Lead (TABL)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-06-23",
+    "posted_date": "2026-06-24",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -1253,7 +1248,7 @@
     "title": "Senior Specialist Data Science, AI & Quantum",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-06-23",
+    "posted_date": "2026-06-24",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1284,11 +1279,6 @@
     "matched_keywords": [],
     "deducted_keywords": []
   },
-  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000133956869": {
-    "description": "Dans le cadre de votre fonction au sein du département de psychiatrie, vous secondez le ou la responsable administrative et financière (RAF) et intégrez son équipe en collaborant activement à la gestion efficace du département et de ses services et en apportant votre expertise financière.\nVous collaborez à l'élaboration du budget et des objectifs du département ainsi que de ses services dans le respect du cadre budgétaire fixé et vérifiez leur mise en œuvre.\nVous participez au développement d’outils de pilotage et au suivi d'indicateurs et tableaux de bord pour vérifier leur mise en œuvre.\nVous identifiez, répertoriez et évaluez l’impact financier des objectifs fixés et des moyens prévus/demandes budgétaires des services afin de les préparer pour les négociations entreprises par le/la RAF avec les services concernés.\nVous participez au contrôle de gestion opérationnel des services, au reporting (financier et activité) et assistez les cadres des services dans leur gestion opérationnelle. A cette fin, vous analysez les indicateurs de pilotage, les exploitez statistiquement et mettez en évidence les points clés, analysez les écarts (budgets/prévisions/réalisations) et proposez des corrections avec le ou la RAF et son adjoint.\nVous participez à l'analyse des résultats de la comptabilité de gestion.\nVous réalisez également des analyses économiques et financières ainsi que des business plans en lien avec le développement de l'activité.\nVous accomplissez ces tâches en étroite collaboration avec les cadres de la filière médicale, des soins et le service RH du département.",
-    "external_url": "https://jobs.smartrecruiters.com/HUG/744000133956869-controleur-ou-controleuse-de-gestion-de-departement-80-?oga=true",
-    "status": "matched"
-  },
   "/job/Basel-City/Patent-Attorney_REQ-10081840-1": {
     "description": "Salary Range:CHF146,300.00 - CHF271,700.00\n\n \nJob Description Summary#LI-Hybrid\nLocation: Basel, Switzerland or Cambridge, United States (see separate posting)\n\nReady to shape the future of innovation at Novartis? As a Patent Attorney, you will play a pivotal role in protecting groundbreaking scientific discoveries and enabling life-changing medicines to reach patients worldwide. Partnering closely with R&D teams, you will drive strategic intellectual property decisions, build robust patent portfolios, and navigate complex legal landscapes to safeguard innovation across the product lifecycle.\n\n \nJob Description\nKey Responsibilities\nProvide clear, strategic, and business-focused counsel to Novartis R&D clients on invention protection, portfolio development, publication strategy, and third-party risks.\nBuild and manage patent portfolios for Novartis R&D projects by identifying inventions and preparing, prosecuting, maintaining, and defending patent filings across areas such as new molecular entities, processes, manufacturing, platforms, technologies, and clinical developments.\nRender legal opinions on patentability, validity, and freedom to operate, and develop patent strategies that strengthen IP positions, support freedom to operate, and enable effective IP defense.\nApply deep knowledge of national patent law and practice, including relevant legal developments and patent trends, to shape strategy and advice.\nUnderstand and apply other forms of exclusivity protection, as appropriate.\nCommunicate effectively with colleagues and leaders across the legal, IP, and R&D organizations.\nBuild and manage relationships with outside counsel and collaborators, including extensive interaction within a multicultural global patent function.\nConduct due diligence and provide counsel based on those assessments, including freedom-to-operate, infringement, validity, risk evaluation, and risk mitigation strategies.\nProvide IP support for transactional matters, including M&A, research collaborations, and in-licensing opportunities, with advice on contract drafting and negotiation\nEnsure high-quality, timely delivery of work aligned with business goals and budgets\n\nEssential Requirements\nJuris Doctor degree with admission to at least one state bar, and registration to practice before the U.S. Patent and Trademark Office.\nAdvanced degree in chemistry or related field, with strong preference for a doctoral degree\nSignificant experience as a patent attorney within a law firm or pharmaceutical or biotechnology environment\nStrong technical expertise in chemistry, preferably including experience with small molecules, synthesis, or pharmaceutical development.\nExpertise in U.S. and PCT patent law, filing processes, and prosecution practice, with a detailed understanding of European patent law and other major global patent systems\nProven ability to partner with scientific and business stakeholders to deliver strategic intellectual property advice\nStrong analytical, communication, and decision-making skills with high attention to detail\nAbility to manage multiple priorities effectively within a fast-paced, global environment\n\nBenefits & Rewards \n\nAt Novartis, we’re committed to reimagining medicine together - and rewarding the people who make it happen. \n\n  \n\nExpected Annual Base Salary Range for role: CHF 146.300 - CHF 271.700\n\n  \n\nThe base salary offered is determined based on gender-neutral objectives, such as relevant skills, competencies and experience in accordance with the Novartis pay setting policy and upon joining Novartis will be reviewed periodically. \n\n  \n\nThe rewards of being part of our team go far beyond base pay and incentives. We also offer a variety of competitive benefits in kind to help you thrive personally and professionally, such as insurance plans, retirement plans, wellbeing resources and global recognition programs. In addition, we provide flexible and hybrid working options, where possible, and minimum 14 weeks paid parental leave. \n\nIn addition to your base salary, you may be eligible for a performance-based bonus depending on certain performance parameters. Long-term equity awards granted at group level may also be part of your package. Further details will be provided during the application process.  \n\n  \n\nRead our brochure to learn more about our global total rewards offering: \n\nhttps://www.novartis.com/sites/novartis_com/files/novartis-life-handbook.pdf \n\n  \n\nNote: Benefits and compensation may vary by country and are subject to local legal requirements, including provisions of collective bargaining agreements where applicable. A full overview of your compensation package, including any relevant collective bargaining agreement details applicable to your role based on your employment location and Novartis employer entity, will be communicated separately to you during the application process. \n\nCommitment to Diversity and Inclusion:\nNovartis is committed to building an outstanding, inclusive work environment and diverse teams representative of the patients and communities we serve.\n\nAccessibility and Accommodation:\nNovartis is committed to working with and providing reasonable accommodation to all individuals. If, because of a medical condition or disability, you need a reasonable accommodation for any part of the recruitment process, or in order to receive more detailed information about the essential functions of a position, please send an e-mail to diversity.inclusion_ch@novartis.com and let us know the nature of your request and your contact information. Please include the job requisition number in your message. \n\n \nSkills Desired",
     "external_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Basel-City/Patent-Attorney_REQ-10081840-1",
@@ -1296,7 +1286,7 @@
     "title": "Patent Attorney",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-07-06",
+    "posted_date": "2026-07-07",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1372,25 +1362,6 @@
   "_generic:Numab Therapeutics": {
     "keywords": "npp"
   },
-  "/job/Basel-City/Research-Scientist-II-or-Senior-Scientist-I--Toxicology--80-100----Dual-Level-Posting-_REQ-10079252-2": {
-    "description": "Salary Range:CHF65,870.00 - CHF122,330.00\n\n \nJob Description Summary#LI-Onsite\nLocation: Basel\nInternal Title: Research Scientist II or Senior Scientist I\n\nWe are seeking a highly motivated Associate Scientist to join a multidisciplinary team working on genome safety assessment for advanced therapies. The role focuses on studies supporting the genotoxicity assessment of gene and cell therapies, including AAV-based approaches and CAR-T platforms.\nThis position offers the opportunity to contribute to cutting-edge research addressing integration risk and tumorigenicity, in a highly collaborative environment interfacing with regulatory, nonclinical, and translational teams. The position is located in Basel (Switzerland). 100% on site.\n\nAbout the Role\nThe role will primarily support genome safety assessment of the gene and cell therapy portfolio. In addition, there will be an opportunity for cross-functional contributions to mechanistic safety assessment of additional therapeutic modailities including LMW compounds, xRNA and Biologics. This role is suited for individuals who are energized by scientific challenges and a diverse range of activities.\n\n \nJob Description\nKey responsibilities\n\nConduct in vitro studies to support genotoxicity assessment of gene therapies (AAVs, lentiviruses, etc) for regulatory use\n\nSupport mechanistic evaluation of genome integrity following gene therapy modalities\n\nGenerate, analyze, and interpret experimental data to support nonclinical safety assessments\n\nContribute to integration site analysis (ISA) strategies and interpretation\n\nDesign and execute cell-based assays to investigate DNA damage and other mechanisms responsible to viral integration\n\nDevelop and implement state-of-the-art innovative technologies and systems for regulatory and investigative genetic toxicity testing across all therapeutic areas and modalities.\n\nCollaborate with internal experts and external partners to align on study design and data interpretation\n\nDocument and communicate results in reports, presentations, and regulatory-relevant summaries\n\nEssential Requirements:\n\nMaster degree in cellular biology, molecular biology, toxicology or a related subject. No PhD.\n\nExperience with mammalian cell culture (primary cells and established cell lines)\n\nMolecular biology: DNA/RNA extraction, PCR based methods, library preparation for sequencing\n\nBasic programming skills for data analysis (R, Python, etc)\n\nStrong data interpretation skills and attention to detail\n\nAbility to work independently and collaboratively in a cross-functional environment\n\nEffective communication skills: including presenting, manuscript preparation, and collaboration\n\nA proactive, flexible mindset and enthusiasm for tackling non-routine scientific challenges are essential\n\nAbility to comply with Good Laboratory Science standards, Safety, Health and Environment standards\n \nDesirable\n\nExperience with gene therapy systems (e.g. AAV, lentiviral vectors, CRISPR/Cas9)\n\nCRISPR/Cas9 editing\n\nExperience with DNA damage/repair readouts (e.g. γH2AX, western blot, immunofluorescence, flow cytometry)\n\nKaryotyping, molecular karyotyping, advanced cytogenetics (FISH, SKY)\n\nFamiliarity with genome safety concepts (integration, clonal expansion, tumorigenicity)\n\nExposure to primary human cells (e.g. hepatocytes) and/or advanced in vitro models\n\nUnderstanding of regulatory context for nonclinical safety\n\nThis is a dual posting. The final level & title of the offer role would be determined by the hiring team based on the skills, experience & capabilities required to perform the role at the level the role has been offered.\n\nBenefits & Rewards \nAt Novartis, we’re committed to reimagining medicine together - and rewarding the people who make it happen. \n  \nExpected Annual Base Salary Range for role: \n65,870.00 - 122,330.00 CHF Annual\nThe base salary offered is determined based on gender-neutral objectives, such as relevant skills, competencies and experience in accordance with the Novartis pay setting policy and upon joining Novartis will be reviewed periodically. \n  \nIn addition to your base salary, you may be eligible for a performance-based bonus depending on certain performance parameters. \n  \nThe rewards of being part of our team go far beyond base pay and incentives. We also offer a variety of competitive benefits in kind to help you thrive personally and professionally, such as insurance plans, retirement plans, wellbeing resources and global recognition programs. In addition, we provide flexible and hybrid working options, where possible, and minimum 14 weeks paid parental leave. \n   \nIn addition to your base salary, you may be eligible for a performance-based bonus depending on certain performance parameters. Long-term equity awards granted at group level may also be part of your package. Further details will be provided during the application process.  \n\nPay equity is a fundamental principle of our employment policy and reflects our commitment to create a diverse, equitable and inclusive environment that treats all employees with dignity and respect, as outlined in our Code of Ethics. \n  \nRead our brochure to learn more about our global total rewards offering: \n  \nhttps://www.novartis.com/sites/novartis_com/files/novartis-life-handbook.pdf \n  \nNote: Benefits and compensation may vary by country and are subject to local legal requirements, including provisions of collective bargaining agreements where applicable. A full overview of your compensation package, including any relevant collective bargaining agreement details applicable to your role based on your employment location and Novartis employer entity, will be communicated separately to you during the application process. \n\nCommitment to Diversity and Inclusion / EEO\nNovartis is committed to building an outstanding, inclusive work environment and diverse teams’ representative of the patients and communities we serve.\n\nAccessibility and accommodation\nNovartis is committed to working with and providing reasonable accommodation to all individuals. If, because of a medical condition or disability, you need a reasonable accommodation for any part of the recruitment process, or in order to receive more detailed information about the essential functions of a \nposition, please send an e-mail to diversity.inclusion_ch@novartis.com and let us know the nature of your request and your contact information. Please include the job requisition number in your message.\n\n \nSkills DesiredAnimal Models, Bioinformatics, Collaboration, Communication Skills (Inactive), Data Analysis, Ethics, Laboratory (Inactive), Problem Solving, Regulatory Compliance, Researching, Risk Assessments, Toxicology",
-    "external_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Basel-City/Research-Scientist-II-or-Senior-Scientist-I--Toxicology--80-100----Dual-Level-Posting-_REQ-10079252-2",
-    "status": "ignored",
-    "title": "Research Scientist II or Senior Scientist I- Toxicology (80-100%) (Dual Level Posting)",
-    "company": "Novartis",
-    "location": "Basel (City)",
-    "posted_date": "2026-06-26",
-    "department": "",
-    "score": 5,
-    "matched_keywords": [
-      "CRISPR",
-      "PhD",
-      "bioinformatics",
-      "in vitro",
-      "molecular biology"
-    ],
-    "deducted_keywords": []
-  },
   "/job/Lengnau-Switzerland/Senior-Scientist--Material-Qualification-and-Release--QC-GMP-_R-01349179": {
     "description": "Work ScheduleStandard (Mon-Fri)\n\nEnvironmental ConditionsAdherence to all Good Manufacturing Practices (GMP) Safety Standards, Office\n\nJob Description\n\nAre you ready to make a meaningful impact in the world of science? Join Thermo Fisher Scientific as a Senior Scientist Material Management & Qualification within our Quality Control organization at our Lengnau site.\nIn this role, you will play a pivotal part in ensuring GMP compliance, material integrity, and operational excellence — directly contributing to our mission of enabling our customers to make the world healthier, cleaner, and safer.\n\nDiscover Impactful Work\nAs a Senior Scientist within Services & Support Quality Control, you will act as the subject matter expert for raw material qualification and release in a GMP-regulated manufacturing environment. You will ensure that materials meet regulatory requirements and remain in a continuous state of compliance.\nThis position requires strong technical expertise, regulatory knowledge, and the ability to lead complex quality topics across internal and external laboratories.\n\nKey Responsibilities:\nMaterial Qualification & Release\nIn charge of raw material qualification and supporting GMP documentation, including laboratory communication\nLead and execute material disposition activities\nCollaborate with QC laboratories to ensure compliant sampling, testing, and release of incoming raw materials.\n\nCompliance & Regulatory Readiness\nSupport OOS/OOT investigations, change control and deviation management, troubleshooting, and continuous improvement initiatives.\nAuthor, review, and maintain GMP-relevant documentation (SOPs, risk assessments, reports, protocols).\nConduct gap assessments and define/implement remediation measures to maintain inspection readiness.\nSME in the area of expertise during internal audits, customer audits, and regulatory inspections.\n\nOperational Excellence\nDrive efficiency improvements while maintaining the highest standards of compliance and product quality.\nSupport implementation and optimization of digital quality systems including SAP, TrackWise, LIMS, and document management systems.\nIdentify compliance risks proactively and recommend sustainable corrective and preventive actions\n\nWho We Are Looking For:\nEducation\nBachelor’s or Master’s degree in Chemistry, Biochemistry, Molecular Biology, Chemical Engineering, or a related scientific discipline.\nEquivalent professional experience in a GMP-regulated pharmaceutical or biopharmaceutical environment will be considered.\n\nExperience\nMinimum 5 years of experience in a GMP laboratory within the pharmaceutical or biopharmaceutical industry.\nDemonstrated expertise in raw material qualification and release within a GMP-regulated manufacturing environment.\nStrong working knowledge of health authority expectations and regulatory compliance.\nProficiency in technical English (written and spoken).\n\nSkills & Competencies\nStrong commitment to quality, compliance, and data integrity.\nStructured, risk-based mindset with high attention to detail.\nAbility to work independently while effectively collaborating cross-functionally.\nStrong analytical thinking and problem-solving capabilities.\nExcellent communication, organizational, and prioritization skills.\nInterest in digitalization and modernization of analytical systems and QC processes.\nContinuous learning mindset with motivation to further develop technical and regulatory expertise.",
     "external_url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Lengnau-Switzerland/Senior-Scientist--Material-Qualification-and-Release--QC-GMP-_R-01349179",
@@ -1398,7 +1369,7 @@
     "title": "Senior Scientist Material Management & Qualification - Quality Control",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-06-10",
+    "posted_date": "2026-06-11",
     "department": "",
     "score": -1,
     "matched_keywords": [
@@ -1415,7 +1386,7 @@
     "title": "Senior Scientist microbiological Quality Control",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-06-10",
+    "posted_date": "2026-06-11",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -1430,7 +1401,7 @@
     "title": "Scientist Microbiological Quality Control",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-06-10",
+    "posted_date": "2026-06-11",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -1445,7 +1416,7 @@
     "title": "R&D Scientist – Scientific Data Analytics (d/f/m)",
     "company": "Danaher",
     "location": "Basel, Switzerland",
-    "posted_date": "2026-06-23",
+    "posted_date": "2026-06-24",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1483,11 +1454,6 @@
     "external_url": "https://jobs.smartrecruiters.com/HUG/744000134777979-assistant-ou-assistante-de-gestion-60-?oga=true",
     "status": "matched"
   },
-  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000134779987": {
-    "description": "Rattaché ou rattachée à la cheffe de service de soins palliatifs, vous supervisez les prises en charge multidisciplinaires conformément aux procédures établies par le Centre.\nVous coordonnez le réseau de référents soins palliatifs en collaboration avec les départements ainsi que les différentes activités du centre (organisation de symposium , RESOPAL)\nVous collaborez avec l'Itinéraire Patient Manager (IPM) et les RES pour améliorer les prises en charge. Vous participez à la coordination des différents projets en cours.\nVous formez les collaboratrices et collaborateurs concernés à l’identification des patients et patientes éligibles aux prises en charge standardisées ou complexes. Ainsi qu’à l'utilisation des outils d'évaluation et de suivi liés aux processus et prises en charge standardisées.\nVous implémentez et suivez les indicateurs pertinents (ex : taux de couverture des prises en charge).\nVous améliorez la qualité des soins en proposant des actions qualités et participez à la promotion du Centre au sein du réseau.",
-    "external_url": "https://jobs.smartrecruiters.com/HUG/744000134779987-case-manager-centre-de-soins-palliatifs-et-soins-de-support-80-?oga=true",
-    "status": "matched"
-  },
   "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000134770779": {
     "description": "Vous coordonnez et développez les activités diagnostiques médico-légales post-mortem et cliniques (CT-scanner, IRM, RX). Vous assurez également une bonne interface avec les autres unités et secteurs du CURML ainsi qu'avec les techniciens et techniciennes en radiologie médicale. Vous réalisez également des expertises sur mandat du Ministère public. Vous participez aux auditions en qualité d’expert devant le Ministère public et/ou le Tribunal. Vous êtes aussi capable d’illustrer des rapports radiologiques par des supports PowerPoint. Vous participez également activement à l’activité de recherche au sein du CURML.",
     "external_url": "https://jobs.smartrecruiters.com/HUG/744000134770779-chef-ou-cheffe-de-clinique-en-radiologie-avec-titre-de-specialite-ou-medecin-adjoint-ou-adjointe-50-?oga=true",
@@ -1500,7 +1466,7 @@
     "title": "Senior Scientist QA Operations",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-06-29",
+    "posted_date": "2026-06-30",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -1548,7 +1514,7 @@
     "title": "Senior Expert / Senior Principal PKS Data Scientist & Scientific Software Engineer (Dual level posting)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-06-30",
+    "posted_date": "2026-07-01",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -1598,7 +1564,7 @@
     "title": "Associate Scientist / Senior Laboratory Specialist",
     "company": "CSL Behring / Vifor",
     "location": "EMEA, CH, Kanton Bern, Bern, CSL Behring",
-    "posted_date": "2026-06-30",
+    "posted_date": "2026-07-01",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1630,7 +1596,7 @@
     "title": "In Vitro Bioanalysis Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-01",
+    "posted_date": "2026-07-02",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -1683,7 +1649,7 @@
     "title": "Principal Scientist si-RNA Design",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-01",
+    "posted_date": "2026-07-02",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1699,7 +1665,7 @@
     "title": "Mechanistic Immuno Tox Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-01",
+    "posted_date": "2026-07-02",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -1718,7 +1684,7 @@
     "title": "Investigative Toxicology Junior Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-01",
+    "posted_date": "2026-07-02",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -1742,7 +1708,7 @@
     "title": "Hematology and Safety Biomarker Expert",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-01",
+    "posted_date": "2026-07-02",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -1763,7 +1729,7 @@
     "title": "Internship Scientist Forensic Chemistry 6 months contract 80-100%",
     "company": "Lonza",
     "location": "CH - Basel",
-    "posted_date": "2026-07-01",
+    "posted_date": "2026-07-02",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1894,7 +1860,7 @@
     "title": "Associate Scientist in Pharmaceutical Development (Fixed- term for 1 year in Basel)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-01",
+    "posted_date": "2026-07-02",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1907,7 +1873,7 @@
     "title": "Data Science & AI Innovation Postdoctoral Fellow Immunology",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-07-07",
+    "posted_date": "2026-07-08",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -1928,7 +1894,7 @@
     "title": "Data Science & AI Innovation Postdoctoral Fellow in Machine Learning for Chemical Synthesis and Reactivity Prediction",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-07-01",
+    "posted_date": "2026-07-02",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -1946,7 +1912,7 @@
     "title": "Data Science & AI Innovation Postdoctoral Fellow d42",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-07-01",
+    "posted_date": "2026-07-02",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -1969,7 +1935,7 @@
     "title": "Data Science & AI Innovation Postdoctoral Fellow Foundational & Multimodal Proteochemometrics models",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-07-01",
+    "posted_date": "2026-07-02",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -2013,7 +1979,7 @@
     "title": "Senior Scientist Electronic Laboratory Systems",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-07-02",
+    "posted_date": "2026-07-03",
     "department": "",
     "score": -1,
     "matched_keywords": [
@@ -2060,7 +2026,7 @@
     "title": "In vivo Senior Scientist (80-100%)*",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-07-02",
+    "posted_date": "2026-07-03",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -2135,7 +2101,7 @@
     "title": "Expert Analytical Scientist (m/f/d)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-07-06",
+    "posted_date": "2026-07-07",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2286,7 +2252,7 @@
     "title": "International Medical Affairs Head, CRM",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-07-07",
+    "posted_date": "2026-07-08",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2321,7 +2287,7 @@
     "title": "Senior/Principal Scientist - NMR Expert",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-07",
+    "posted_date": "2026-07-08",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2337,7 +2303,7 @@
     "title": "Director, Corporate Strategy & Business Development",
     "company": "Alcon",
     "location": "Geneva, Switzerland",
-    "posted_date": "2026-07-07",
+    "posted_date": "2026-07-08",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -2666,10 +2632,51 @@
     "title": "Principal Operations AI Data Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-10",
+    "posted_date": "2026-07-11",
     "department": "",
     "score": 0,
     "matched_keywords": [],
     "deducted_keywords": []
+  },
+  "https://careers.ompharma.com/job/Meyrin-MSAT-Senior-Scientist-Geneva-Gene/1399891533/": {
+    "description": "We are recruiting a Manufacturing Science and Technology (MSAT) Senior Scientist at our headquarters and biotech production site in Geneva. Reporting to the Head of MSAT, as part of a team of five and working cross-functionally with a strong presence in the field (production zone), your mission encompasses the development, optimization and continuous improvement of drug product processes and formulations, with a particular focus on lyophilization, encapsulation, dry granulation and intranasal delivery technologies.\n\nYour main responsibilities are as follows:\n\nLead development and industrialization of new pharmaceutical products, from formulation and process design to scale-up and validation\n\nDefine development strategies including QTPP, risk assessments, technical requirements, timelines and budgets\n\nProvide expertise in galenics, formulation, pharmaceutical processes and technology transfer, including CDMO interactions when needed\n\nDrive optimization of existing manufacturing processes to improve performance, robustness and compliance\n\nAct as technical expert for troubleshooting, root cause analysis, CAPA implementation and continuous improvement initiatives\n\nDefine Critical Process Parameters (CPPs), Critical Quality Attributes (CQAs) and lead process risk assessments in cross-functional teams\n\nManage MSAT Pharma Laboratory activities (equipment qualification, stock management, laboratory support)\n\nPlan and execute development trials with internal stakeholders (Manufacturing, Quality, Validation, Regulatory CMC), ensuring robust documentation and data analysis\n\nEnsure full traceability and compliance of development activities in line with GxP requirements\n\nContribute to regulatory documentation (e.g. CTD modules) in collaboration with Regulatory CMC\n\nBusiness travel is required for this position for punctual topics (maximum 5% of working time).\n\nTo carry out this mission, we are looking for a person with the following profile:\n\nMaster’s degree in Pharmaceutical Sciences, Biotechnology or equivalent\n\nAt least 8 years of experience related to pharmaceutical process development, formulation development and industrial transposition, with strong expertise in galenics and pharmaceutics\n\nProven experience in project management in a cross-functional and GxP environment; experience with regulatory activities is an asset\n\nFluent in French with good English skills\n\nProficiency in MS Office, with experience using ERP systems (Sage X3 preferred)\n\n \n\nTo succeed in this role, we are looking for a hands-on, pragmatic and innovation-driven scientist, combining strong technical expertise with a solid business and production mindset. You demonstrate natural leadership, strong communication skills and the ability to collaborate effectively with diverse stakeholders. Entrepreneurial and creative, you continuously seek improvement opportunities and actively contribute to shaping better, more efficient processes. You are solution-oriented, structured, and committed to delivering high-quality results in a dynamic environment.\n\nAre you interested in this opportunity? Apply as soon as possible and join OM Pharma!\n\n \n\n \nAbout Us\n\nOM Pharma is a global Geneva-based biopharmaceutical company. It is a leader in the prevention of recurrent respiratory and urinary tract infections and is also active in the treatment of vascular diseases.\n\nIt operates worldwide through a strong network of international partners and invests its profits in R&D to develop microbial derived immunotherapeutic products to treat acute and chronic immunological disorders resulting from inflammation and infections. \n\nThe company strives to improve the quality of life of patients around the world by providing access to better treatment of immunological imbalances.\n\nFor more information, visit the website: ompharma.com.",
+    "external_url": "https://careers.ompharma.com/job/Meyrin-MSAT-Senior-Scientist-Geneva-Gene/1399891533/",
+    "status": "ignored",
+    "title": "MSAT Senior Scientist - Geneva",
+    "company": "OM Pharma",
+    "location": "Meyrin, Geneva, CH",
+    "posted_date": "",
+    "department": "",
+    "score": 5,
+    "matched_keywords": [
+      "French",
+      "location:geneva"
+    ],
+    "deducted_keywords": []
+  },
+  "https://jobdetails.nestle.com/job/Lausanne-Statistics-and-Data-Science-Specialist/1404979633/": {
+    "description": "Location: Lausanne, Switzerland\nWork model: Hybrid / Full time 100%\nContract type / duration: 12 month Limited Contract\n\nShape the future through scientific breakthroughs and innovation.\n\nAs a Statistics and Data Science Specialist at Nestlé Research, your mission is to apply advanced statistics and data science to accelerate scientific discovery and innovation across our product portfolio. You’ll make a difference by collaborating closely with food scientists, product developers, process engineers, sensory teams, and project teams. This is your opportunity to turn ideas into sustainable and innovative solutions for people, pets, and the planet.\n\nHow you’ll make an impact as a Statistics and Data Science Specialist\n\nDesigning robust lab and pilot experiments that generate reliable evidence and accelerate scientific progress.\n\nAnalysing complex experimental data to uncover actionable insights, quantify uncertainty, and strengthen decision-making.\n\nCollaborating across scientific and technical teams to refine hypotheses and integrate data-driven thinking into innovation projects.\n\nTranslating statistical outputs into clear recommendations that guide formulation, process, and product development choices.\n\nBuilding visualisations and models that make complex findings accessible to diverse stakeholders and project teams.\n\nDriving innovation by applying advanced analytics to support better products, smarter decisions, and faster learning cycles.\n\nWhat will make you successful\n\nBringing a Ph.D. or Master’s degree in Statistics, Applied Mathematics, or Data Science.\n\nApplying hands-on experience in mathematics-based data collection methodologies to generate robust experimental data.\n\nUsing hands-on expertise in statistical inference, statistical modelling techniques, optimization algorithms, and machine learning techniques to solve scientific challenges.\n\nBringing proficiency in Python programming, with knowledge of R as a plus, and proven experience in data-driven modelling for product design, particularly in food or related consumer products, as a plus.\n\nCommunicating fluently in English.\n\nBringing collaboration, fresh thinking, bold questions, respect, and a positive, wellbeing-oriented mindset.\n\nAt Nestlé Research, we place people at the core of everything we do.\n\nOur benefits are designed to support your growth and wellbeing, so you can thrive at work and in life:\n\nFlexible working options, including hybrid work possibilities (for office based roles)\n\nPaid holidays beyond legal requirements\n\nLearning and development opportunities to grow your career\n\nPerformance based bonus\n\nHealthcare contribution and access to the Employee Assistance Program\n\nStrong employer contribution to your pension plan\n\nGenerous parental leave and comprehensive family support solutions\n\nAttractive employee discounts across various products and services\n\nWhat to expect from our hiring process\n\nWe are committed to an inclusive and respectful hiring experience and are happy to provide reasonable accommodations if needed. Our workplaces are fully accessible and supported by a strong safety culture, with modern installations and procedures to ensure a safe environment for everyone.\n\nThe hiring process typically includes a video interview with Talent Acquisition, an interview with the hiring team, and a final discussion and offer. We review applications as they are received and close the role once a strong list of relevant candidates is identified, so we encourage you to apply early. All information is treated confidentially.\n\nReady to #BreakthroughTogether?\n\nApply now and shape the future through scientific breakthroughs and innovation.",
+    "external_url": "https://jobdetails.nestle.com/job/Lausanne-Statistics-and-Data-Science-Specialist/1404979633/",
+    "status": "ignored",
+    "title": "Statistics and Data Science Specialist",
+    "company": "Nestlé",
+    "location": "Lausanne, CH",
+    "posted_date": "",
+    "department": "",
+    "score": 4,
+    "matched_keywords": [
+      "location:lausanne"
+    ],
+    "deducted_keywords": []
+  },
+  "https://jobdetails.nestle.com/job/Vevey-Global-Medical-Affairs-Lead-Critical-Care/1408800633/": {
+    "description": "Location: Vevey, Switzerland\nWork model: Hybrid / Full-time\n\nContract type / duration: Permanent\n\n \n\nStart date: As soon as possible\n\nDeadline for applications:  12 / 07 /2026\n\n \n\nBe a force for good and accelerate change that improves lives and the planet.\n\n \n\nAs a Global Medical Affairs Lead – Critical Care at Nestlé Nutrition & Health Strategic Business Unit (SBU), your mission is to define and execute the global medical and scientific strategy for the Critical Care portfolio across the full product lifecycle. You’ll make a difference by collaborating closely with R&D, commercial teams, local medical teams, and external scientific experts. This is your opportunity to take ownership, grow your expertise, and drive evidence-based innovation that improves patient and population health outcomes at scale.\n\n \n\nHow you’ll make an impact as a Global Medical Affairs Lead – Critical Care\n\n \n\nLeading the global medical strategy by shaping evidence generation and guiding product development across the lifecycle\n\nDriving cross-functional alignment by connecting R&D, commercial and medical teams to deliver impactful outcomes\n\nBuilding strong external engagement by partnering with healthcare professionals, scientific experts and associations\n\nDelivering high-quality medical education and scientific communication to healthcare providers and internal stakeholders\n\nTranslating scientific evidence into clear, relevant content to support markets and influence clinical practice\n\nMonitoring scientific developments and competitive activities to inform strategy and strengthen positioning\n\n \n\nWhat will make you successful\n\n \n\nBringing strong expertise in medical and scientific affairs within clinical nutrition or pharmaceutical environments\n\nApplying the ability to lead evidence generation strategies and translate complex data into actionable insights\n\nUsing strong stakeholder management skills to influence cross-functional teams and external experts\n\nCollaborating effectively in a global, matrix organization to drive alignment and impact\n\nCommunicating fluently in English\n\nBringing collaboration, fresh thinking, bold questions, respect, and a positive, wellbeing-oriented mindset.\n\nDemonstrating courage, collaboration, speed and continuous learning.\n\n \n\nAt Nestlé in Switzerland, we place people at the heart of everything we do. \n\n \n\nOur benefits are designed to support your growth and wellbeing, so you can thrive at work and in life:\n\nFlexible working options, including hybrid work possibilities (for office based roles)\n\nPaid holidays beyond legal requirements\n\nLearning and development opportunities to grow your career\n\nPerformance based bonus\n\nHealthcare contribution and access to the Employee Assistance Program\n\nStrong employer contribution to your pension plan\n\nGenerous parental leave and comprehensive family support solutions\n\nAttractive employee discounts across various products and services\n\n \n\nWhat to expect from our hiring process\n\n \n\nWe are committed to an inclusive and respectful hiring experience and are happy to provide reasonable accommodations if needed. Our workplaces are fully accessible and supported by a strong safety culture, with modern installations and procedures to ensure a safe environment for everyone.\n\nThe hiring process typically includes a video interview with Talent Acquisition, an interview with the hiring team, and a final discussion and offer. We review applications as they are received and close the role once a strong list of relevant candidates is identified, so we encourage you to apply early. All information is treated confidentially.\n\nStay vigilant: Nestlé will only contact candidates via official company email addresses and will never ask for payments or sensitive personal information at any stage of the hiring process.\n\n \n\nReady to Be a Force for Good?\n\n \n\nApply now and accelerate change that improves lives and the planet.",
+    "external_url": "https://jobdetails.nestle.com/job/Vevey-Global-Medical-Affairs-Lead-Critical-Care/1408800633/",
+    "status": "matched"
+  },
+  "https://jobdetails.nestle.com/job/Vevey-Global-Medical-Affairs-Lead-Diabetes-&-Obesity/1408799633/": {
+    "description": "Location: Vevey, Switzerland\nWork model: Hybrid/[Full time\nContract type / duration: Permanent\n\n \n\nStart date: As soon as possible\n\nDeadline for applications:  12 / 07 /2026\n\n \n\nBe a force for good and accelerate change that improves lives and the planet.\n\n \n\nAs a Global Medical Affairs Lead – Diabetes & Obesity at Nestlé Nutrition & Health Strategic Business Unit (SBU), your mission is to define and execute the global medical and scientific strategy for the Diabetes & Obesity portfolio across the full product lifecycle. You’ll make a difference by collaborating closely with R&D, commercial teams, local medical teams, and external scientific experts. This is your opportunity to take ownership, grow your expertise, and drive evidence-based innovation that improves patient and population health outcomes at scale.\n\n \n\nHow you’ll make an impact as a Global Medical Affairs Lead – Diabetes & Obesity\n\n \n\nLeading the global medical strategy by shaping evidence generation and guiding product development across the lifecycle\n\nDriving cross-functional alignment by connecting R&D, commercial and medical teams to deliver impactful outcomes\n\nBuilding strong external engagement by partnering with healthcare professionals, scientific experts and associations\n\nDelivering high-quality medical education and scientific communication to healthcare providers and internal stakeholders\n\nTranslating scientific evidence into clear, relevant content to support markets and influence clinical practice\n\nMonitoring scientific developments and competitive activities to inform strategy and strengthen positioning\n\n \n\nWhat will make you successful\n\n \n\nBringing strong expertise in medical and scientific affairs within clinical nutrition or pharmaceutical environments\n\nApplying the ability to lead evidence generation strategies and translate complex data into actionable insights\n\nUsing strong stakeholder management skills to influence cross-functional teams and external experts\n\nCollaborating effectively in a global, matrix organization to drive alignment and impact\n\nCommunicating fluently in English\n\nBringing collaboration, fresh thinking, bold questions, respect, and a positive, wellbeing-oriented mindset.\n\nDemonstrating courage, collaboration, speed and continuous learning.\n\n \n\nAt Nestlé in Switzerland, we place people at the heart of everything we do. \n\n \n\nOur benefits are designed to support your growth and wellbeing, so you can thrive at work and in life:\n\nFlexible working options, including hybrid work possibilities (for office based roles)\n\nPaid holidays beyond legal requirements\n\nLearning and development opportunities to grow your career\n\nPerformance based bonus\n\nHealthcare contribution and access to the Employee Assistance Program\n\nStrong employer contribution to your pension plan\n\nGenerous parental leave and comprehensive family support solutions\n\nAttractive employee discounts across various products and services\n\n \n\nWhat to expect from our hiring process\n\n \n\nWe are committed to an inclusive and respectful hiring experience and are happy to provide reasonable accommodations if needed. Our workplaces are fully accessible and supported by a strong safety culture, with modern installations and procedures to ensure a safe environment for everyone.\n\nThe hiring process typically includes a video interview with Talent Acquisition, an interview with the hiring team, and a final discussion and offer. We review applications as they are received and close the role once a strong list of relevant candidates is identified, so we encourage you to apply early. All information is treated confidentially.\n\nStay vigilant: Nestlé will only contact candidates via official company email addresses and will never ask for payments or sensitive personal information at any stage of the hiring process.\n\n \n\nReady to Be a Force for Good?\n\n \n\nApply now and accelerate change that improves lives and the planet.",
+    "external_url": "https://jobdetails.nestle.com/job/Vevey-Global-Medical-Affairs-Lead-Diabetes-&-Obesity/1408799633/",
+    "status": "matched"
   }
 }
