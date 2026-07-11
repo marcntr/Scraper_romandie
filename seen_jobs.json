@@ -297,7 +297,7 @@
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-07-03"
+    "cached_at": "2026-07-11"
   },
   "_facets:jsrglobal:KBI_Biopharma": {
     "facets": {},
@@ -601,7 +601,8 @@
     "https://csl.wd1.myworkdayjobs.com/CSL_External/job/EMEA-CH-Kanton-Bern-Bern-CSL-Behring/Principal-Scientist-Tech-Ops--CMC-Science-_R-281150": "ignored",
     "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/Switzerland---Baar/Medical-Science-Liaison---Respiratory_R-255832": "ignored",
     "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Basel-City/Principal-Scientist-I-II--Oncology-Drug-Discovery-Biology_REQ-10081528-1": "ignored",
-    "https://lonza.wd3.myworkdayjobs.com/Lonza_Careers/job/CH---Basel/Associate-Principal-Scientist-Process-Development-Drug-Product-80-100-_R76464": "ignored"
+    "https://lonza.wd3.myworkdayjobs.com/Lonza_Careers/job/CH---Basel/Associate-Principal-Scientist-Process-Development-Drug-Product-80-100-_R76464": "ignored",
+    "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Basel-City/Research-Scientist-II-or-Senior-Scientist-I--Toxicology--80-100----Dual-Level-Posting-_REQ-10079252-2": "ignored"
   },
   "_generic:Hurdle Bio": {
     "keywords": "npp"
@@ -2678,5 +2679,19 @@
     "description": "Location: Vevey, Switzerland\nWork model: Hybrid/[Full time\nContract type / duration: Permanent\n\n \n\nStart date: As soon as possible\n\nDeadline for applications:  12 / 07 /2026\n\n \n\nBe a force for good and accelerate change that improves lives and the planet.\n\n \n\nAs a Global Medical Affairs Lead – Diabetes & Obesity at Nestlé Nutrition & Health Strategic Business Unit (SBU), your mission is to define and execute the global medical and scientific strategy for the Diabetes & Obesity portfolio across the full product lifecycle. You’ll make a difference by collaborating closely with R&D, commercial teams, local medical teams, and external scientific experts. This is your opportunity to take ownership, grow your expertise, and drive evidence-based innovation that improves patient and population health outcomes at scale.\n\n \n\nHow you’ll make an impact as a Global Medical Affairs Lead – Diabetes & Obesity\n\n \n\nLeading the global medical strategy by shaping evidence generation and guiding product development across the lifecycle\n\nDriving cross-functional alignment by connecting R&D, commercial and medical teams to deliver impactful outcomes\n\nBuilding strong external engagement by partnering with healthcare professionals, scientific experts and associations\n\nDelivering high-quality medical education and scientific communication to healthcare providers and internal stakeholders\n\nTranslating scientific evidence into clear, relevant content to support markets and influence clinical practice\n\nMonitoring scientific developments and competitive activities to inform strategy and strengthen positioning\n\n \n\nWhat will make you successful\n\n \n\nBringing strong expertise in medical and scientific affairs within clinical nutrition or pharmaceutical environments\n\nApplying the ability to lead evidence generation strategies and translate complex data into actionable insights\n\nUsing strong stakeholder management skills to influence cross-functional teams and external experts\n\nCollaborating effectively in a global, matrix organization to drive alignment and impact\n\nCommunicating fluently in English\n\nBringing collaboration, fresh thinking, bold questions, respect, and a positive, wellbeing-oriented mindset.\n\nDemonstrating courage, collaboration, speed and continuous learning.\n\n \n\nAt Nestlé in Switzerland, we place people at the heart of everything we do. \n\n \n\nOur benefits are designed to support your growth and wellbeing, so you can thrive at work and in life:\n\nFlexible working options, including hybrid work possibilities (for office based roles)\n\nPaid holidays beyond legal requirements\n\nLearning and development opportunities to grow your career\n\nPerformance based bonus\n\nHealthcare contribution and access to the Employee Assistance Program\n\nStrong employer contribution to your pension plan\n\nGenerous parental leave and comprehensive family support solutions\n\nAttractive employee discounts across various products and services\n\n \n\nWhat to expect from our hiring process\n\n \n\nWe are committed to an inclusive and respectful hiring experience and are happy to provide reasonable accommodations if needed. Our workplaces are fully accessible and supported by a strong safety culture, with modern installations and procedures to ensure a safe environment for everyone.\n\nThe hiring process typically includes a video interview with Talent Acquisition, an interview with the hiring team, and a final discussion and offer. We review applications as they are received and close the role once a strong list of relevant candidates is identified, so we encourage you to apply early. All information is treated confidentially.\n\nStay vigilant: Nestlé will only contact candidates via official company email addresses and will never ask for payments or sensitive personal information at any stage of the hiring process.\n\n \n\nReady to Be a Force for Good?\n\n \n\nApply now and accelerate change that improves lives and the planet.",
     "external_url": "https://jobdetails.nestle.com/job/Vevey-Global-Medical-Affairs-Lead-Diabetes-&-Obesity/1408799633/",
     "status": "matched"
+  },
+  "https://www.michaelpage.ch/job-detail/senior-regulatory-change-manager/ref/jn-072026-7058880?ng-src=other-users-applied&ng-jn=job-search": {
+    "external_url": "https://www.michaelpage.ch/job-detail/senior-regulatory-change-manager/ref/jn-072026-7058880?ng-src=other-users-applied&ng-jn=job-search",
+    "status": "matched",
+    "title": "Senior Regulatory Change Manager",
+    "company": "Michael Page Switzerland",
+    "location": "Switzerland",
+    "posted_date": "",
+    "department": "",
+    "score": -2,
+    "matched_keywords": [],
+    "deducted_keywords": [
+      "location:Switzerland"
+    ]
   }
 }
