@@ -950,7 +950,7 @@
     "title": "Clinical Scientist in neurosciences",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-06-20",
+    "posted_date": "2026-06-19",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1035,7 +1035,7 @@
     "title": "Global Medical Director, Evidence Generation Lead",
     "company": "Biogen",
     "location": "Baar, Switzerland",
-    "posted_date": "2026-06-18",
+    "posted_date": "2026-06-17",
     "department": "",
     "score": -2,
     "matched_keywords": [
@@ -1054,7 +1054,7 @@
     "title": "Senior Medical Director, Nephrology, Global Medical Affairs",
     "company": "Biogen",
     "location": "Baar, Switzerland",
-    "posted_date": "2026-06-18",
+    "posted_date": "2026-06-17",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -1250,7 +1250,7 @@
     "title": "R&D Scientist – Scientific Data Analytics (d/f/m)",
     "company": "Danaher",
     "location": "Basel, Switzerland",
-    "posted_date": "2026-06-24",
+    "posted_date": "2026-06-23",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1286,7 +1286,7 @@
     "title": "Senior Scientist QA Operations",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-06-30",
+    "posted_date": "2026-06-29",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -1347,7 +1347,7 @@
     "title": "Associate Scientist / Senior Laboratory Specialist",
     "company": "CSL Behring / Vifor",
     "location": "EMEA, CH, Kanton Bern, Bern, CSL Behring",
-    "posted_date": "2026-07-01",
+    "posted_date": "2026-06-30",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1379,7 +1379,7 @@
     "title": "In Vitro Bioanalysis Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-02",
+    "posted_date": "2026-07-01",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -1432,7 +1432,7 @@
     "title": "Principal Scientist si-RNA Design",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-02",
+    "posted_date": "2026-07-01",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1448,7 +1448,7 @@
     "title": "Mechanistic Immuno Tox Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-02",
+    "posted_date": "2026-07-01",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -1467,7 +1467,7 @@
     "title": "Investigative Toxicology Junior Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-02",
+    "posted_date": "2026-07-01",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -1491,7 +1491,7 @@
     "title": "Hematology and Safety Biomarker Expert",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-02",
+    "posted_date": "2026-07-01",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -1512,7 +1512,7 @@
     "title": "Internship Scientist Forensic Chemistry 6 months contract 80-100%",
     "company": "Lonza",
     "location": "CH - Basel",
-    "posted_date": "2026-07-02",
+    "posted_date": "2026-07-01",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1643,7 +1643,7 @@
     "title": "Associate Scientist in Pharmaceutical Development (Fixed- term for 1 year in Basel)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-02",
+    "posted_date": "2026-07-01",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1681,7 +1681,7 @@
     "title": "Senior Scientist Electronic Laboratory Systems",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-07-03",
+    "posted_date": "2026-07-02",
     "department": "",
     "score": -1,
     "matched_keywords": [
@@ -1855,11 +1855,6 @@
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000136184119-c-software-engineer-sy-epc-ccs-2026-115-grap-?oga=true",
     "status": "matched"
   },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000136180402": {
-    "description": "Join the Cooling and Ventilation developers team within CERN's Engineering Department (EN), where you will contribute to the development, commissioning, and maintenance of Industrial Control Systems (ICS) and automation solutions essential to the operation of CERN's accelerators, detectors, and infrastructure.\nAs part of a multidisciplinary team of technicians and engineers, you will be involved in the specification, design, commissioning, and maintenance of a wide range of ICS dedicated to cooling and ventilation plants for accelerator facilities, experimental areas, and technical infrastructure.\nThis position offers the opportunity to work on large-scale industrial installations in a highly technical and collaborative environment.\nYour responsibilities\nGather control system requirements and compile all relevant technical documentation.\nDesign automation solutions and control systems for Industrial ventilation and cooling plants.\nDevelop and implement PLC applications for ICS.\nDefine and execute tests of ICS on simulators.\nPerform on-site commissioning of ICS.\nDesign, implement, and deploy improvements and corrective actions for operational control systems.\nMore information here.\nYour profile\nProven experience in Programmable Logic Controller (PLC) programming.\nGood knowledge of PLC development based on the IEC 61131 standard.\nInitial experience in Python programming or other high-level programming languages.\nAbility to read and work with electrical schematics.\nInitial experience in the configuration, programming, and operation of SCADA (Supervisory Control and Data Acquisition) systems.\nUnderstanding of industrial automation principles and control systems.\nExperience with SCADA systems in an industrial environment is considered an advantage.\nKnowledge of automation theory and industrial process control is considered an advantage.\nSkills\nPLC programming using SIEMENS Step7, TIA Portal and/or Schneider Control Expert.\nHigh-level programming languages (e.g. Python).\nVersion control software systems (e.g. Git).\nSpoken and written English, with a commitment to learn French.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nBy the application deadline, you have a maximum of two years of professional experience since graduation in Automation and Controls (or a related field) and your highest educational qualification is either a Bachelor's or Master's degree.\nYou have never had a CERN fellow or graduate contract before.\nApplicants without University degree are not eligible.\nApplicants with a PhD are not eligible.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000136180402-controls-and-automation-engineer-en-cv-cl-2026-171-grae-?oga=true",
-    "status": "matched"
-  },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000136182989": {
     "description": "As a Project Engineer within the SCE Department (Project Portfolio Management Group), you will contribute to the delivery of complex construction projects at CERN. Reporting to a CERN Project Manager, you will coordinate interfaces with internal and external stakeholders throughout the design and construction phases, ensuring smooth collaboration while meeting technical, scheduling, budgetary, and safety objectives.\nYour responsibilities:\nParticipate in feasibility studies and preliminary design of new projects, including the coordination of civil engineering design services with external design offices (architects/engineers) and other equipment/services (MEP building services and accelerator equipment), leading to the submission of detailed designs to CERN users.\nParticipate in the preparation of invitations to tender, selection of firms, opening of offers and decisions related to designer or contractor selection.\nSupervise the execution of civil engineering works on-site, ensuring compliance with contractual design drawings and specification documents in liaison with external consultants (architects/engineers), while monitoring measurements, payments, costs and schedules.\nOrganise hand-over procedures for civil works, follow up any subsequent work required to ensure compliance with specifications, and ensure that all safety measures are implemented on-site to keep the accident rate to a minimum.\nYour profile:\nInterest in construction projects and project coordination, with a willingness to learn under the guidance of senior engineers.\nOrganised, proactive, flexible and able to work autonomously in a multi-tasking environment.\nGood communication and team spirit in an international environment, with an open-minded and diplomatic approach.\nSkills:\nGood knowledge of project management tools, including proficiency in the MS Office suite and MS Project.\nExcellent communication and negotiation skills.\nSpoken and written English or French, with a commitment to learn the other language.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nYou have a professional background in Civil Engineering (or a related field) and have either:\na Master's degree with 2 to 6 years of post-graduation professional experience;\nor a PhD with no more than 3 years of post-graduation professional experience.\nYou have never had a CERN fellow or graduate contract before.",
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000136182989-project-engineer-machine-sce-ppm-pm-2026-110-grap-?oga=true",
@@ -1929,7 +1924,7 @@
     "title": "Senior/Principal Scientist - NMR Expert",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-08",
+    "posted_date": "2026-07-07",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1945,7 +1940,7 @@
     "title": "Director, Corporate Strategy & Business Development",
     "company": "Alcon",
     "location": "Geneva, Switzerland",
-    "posted_date": "2026-07-08",
+    "posted_date": "2026-07-07",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -2091,7 +2086,7 @@
     "title": "Scientific Consultant Assay Analytics",
     "company": "Danaher",
     "location": "Basel, Switzerland",
-    "posted_date": "2026-07-10",
+    "posted_date": "2026-07-09",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -2193,7 +2188,7 @@
     "title": "Principal Operations AI Data Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-11",
+    "posted_date": "2026-07-10",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -2360,7 +2355,7 @@
     "title": "International Medical Affairs Head, CRM",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-07-08",
+    "posted_date": "2026-07-07",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2376,7 +2371,7 @@
     "title": "Senior Principal Scientist / Associate Director Translational Oncology",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-06-16",
+    "posted_date": "2026-06-15",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -2400,7 +2395,7 @@
     "title": "In vivo Senior Scientist (80-100%)*",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-07-03",
+    "posted_date": "2026-07-02",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -2419,7 +2414,7 @@
     "title": "Director - Immunology Therapeutic Area Biomarker Lead (TABL)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-06-24",
+    "posted_date": "2026-06-23",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -2443,7 +2438,7 @@
     "title": "Translational Medicine Expert – Dermatology, Associate Director",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-06-17",
+    "posted_date": "2026-06-16",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -2466,7 +2461,7 @@
     "title": "Senior Specialist Data Science, AI & Quantum",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-06-24",
+    "posted_date": "2026-06-23",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2481,7 +2476,7 @@
     "title": "Expert Analytical Scientist (m/f/d)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-07-07",
+    "posted_date": "2026-07-06",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2496,7 +2491,7 @@
     "title": "Patent Attorney",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-07-07",
+    "posted_date": "2026-07-06",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -2509,7 +2504,7 @@
     "title": "Senior Principal Scientist - Proteomics",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-07-10",
+    "posted_date": "2026-07-09",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -2529,7 +2524,7 @@
     "title": "Senior Expert / Senior Principal PKS Data Scientist & Scientific Software Engineer (Dual level posting)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-07-01",
+    "posted_date": "2026-06-30",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -2552,7 +2547,7 @@
     "title": "Data Science & AI Innovation Postdoctoral Fellow d42",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-07-02",
+    "posted_date": "2026-07-01",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -2575,7 +2570,7 @@
     "title": "Data Science & AI Innovation Postdoctoral Fellow in Machine Learning for Chemical Synthesis and Reactivity Prediction",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-07-02",
+    "posted_date": "2026-07-01",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -2593,7 +2588,7 @@
     "title": "Data Science & AI Innovation Postdoctoral Fellow Immunology",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-07-08",
+    "posted_date": "2026-07-07",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -2614,7 +2609,7 @@
     "title": "Data Science & AI Innovation Postdoctoral Fellow Foundational & Multimodal Proteochemometrics models",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-07-02",
+    "posted_date": "2026-07-01",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -2633,7 +2628,7 @@
     "title": "Director, Therapeutic Area Biomarker Lead (Neuroscience)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-07-10",
+    "posted_date": "2026-07-09",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -2642,6 +2637,52 @@
       "drug discovery",
       "pharmacology"
     ],
+    "deducted_keywords": []
+  },
+  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000137389502": {
+    "description": "Introduction\nAre you looking to develop your career in project finance, budget coordination, and resource planning? Would you like to contribute to large-scale international scientific initiatives while building expertise in financial analysis, reporting, and stakeholder coordination? Join CERN’s IT Department and help support projects at the forefront of science and technology.\n\nThe IT Department supports a broad portfolio of international scientific and technology initiatives, including collaborations with research institutions, industry partners, and the European Commission. These projects range from technology assessments to the co-development of digital solutions across the areas covered by the Department’s mandate and in support of the CERN community.\nFunctions\nSupport budget planning, forecasting, and the maintenance of financial records, tracking files, and reporting tools.\nPrepare and consolidate financial reports, budget updates, and analytical material for internal reviews, governance meetings, and audits.\nMonitor expenditure, validate financial transactions and purchase requests, and help ensure compliance with internal procedures and financial rules.\nAnalyse financial and resource data to support planning, prioritisation, and decision-making.\nTrack project milestones, deliverables, and resource assumptions, helping to align operational planning with budgetary constraints.",
+    "external_url": "https://jobs.smartrecruiters.com/CERN/744000137389502-project-budget-resource-coordinator-it-rpm-bm-2026-145-ld-?oga=true",
+    "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000137378837": {
+    "description": "En votre qualité de chef ou cheffe de clinique avec titre de spécialité en gynécologie et obstétrique à l'Unité de sénologie chirurgicale, vous assurez, sous la supervision de la hiérarchie médicale, la prise en charge des patientes atteintes de pathologies mammaires, bénignes ou malignes, nécessitant une prise en charge médico-chirurgicale.\nDans ce cadre, vous contribuez à l'encadrement et à la formation des médecins internes et des stagiaires.\nEn votre qualité de chef ou cheffe de clinique vous participez également aux gardes dans les services de gynécologie et d'obstétrique.\nÉvoluant dans un environnement universitaire stimulant, au sein d’une équipe pluridisciplinaire, vous encadrez et supervisez les médecins internes et les stagiaires, contribuant ainsi à leur formation.",
+    "external_url": "https://jobs.smartrecruiters.com/HUG/744000137378837-chef-ou-cheffe-de-clinique-a-l-unite-de-senologie-chirurgicale-100-?oga=true",
+    "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000137375649": {
+    "description": "Sous la responsabilité du médecin adjoint agrégé du SPCI et en collaboration avec le service des soins intensifs, vous participez au projet de recherche « Thermal DeepCath », qui vise à combiner imagerie thermique, photographies standard du site d’insertion des cathéters veineux centraux et données cliniques, afin de développer un modèle capable d’évaluer le risque d’infection lié aux cathéters veineux centraux chez les patients et patientes hospitalisées aux soins intensifs des HUG.\nScreening quotidien des patients et patientes éligibles aux soins intensifs;\nVous participez à la procédure d’inclusion et au recueil du consentement;\nVous observez et faites l'acquisition standardisée de photos classiques et thermiques des sites de CVC au lit du ou de la patiente;\nVous saisissez des données dans REDCap et stockage sécurisé des images sur le réseau HUG.",
+    "external_url": "https://jobs.smartrecruiters.com/HUG/744000137375649-commis-ou-commise-administrative-30-?oga=true",
+    "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000137374305": {
+    "description": "Avec un rattachement au chef de département, vous êtes en charge de gérer et encadrer les activités des secrétariats médicaux du service d’anesthésiologie, service des urgences, service des soins intensifs et le pool DMA. Vous mettez en place des processus visant à garantir la qualité des activités des secrétariats, à harmoniser les pratiques professionnelles et à maintenir une cohérence entre les différents services au niveau administratif. Vous veillez à l'adéquation des ressources par rapport à la charge de travail.\nVous assurez la coordination de l'activité en motivant et animant une équipe de plus de 20 collaborateur-rices. Vous vous attachez à développer leurs compétences en mettant en place une polyvalence et un système de suppléance entre les services.",
+    "external_url": "https://jobs.smartrecruiters.com/HUG/744000137374305-chef-ou-cheffe-de-secretariat-80-a-100-?oga=true",
+    "status": "matched"
+  },
+  "/job/Basel/Technical-R-D-Scientist_202607-117406-1": {
+    "description": "At Roche you can show up as yourself, embraced for the unique qualities you bring. Our culture encourages personal expression, open dialogue, and genuine connections,  where you are valued, accepted and respected for who you are, allowing you to thrive both personally and professionally. This is how we aim to prevent, stop and cure diseases and ensure everyone has access to healthcare today and for generations to come. Join Roche, where every voice matters.\n\nThe Position\nAm Standort Basel ist der Bereich Pharma Technical Development Synthetic Molecules (PTDC) für die technische Entwicklung der Synthetic Molecules Pipeline von Drug Substances (DS) und Drug Products (DP) für klinische Studien verantwortlich.\n \n\nDie Abteilung Operations Support & Compliance (OSC) ist für die Unterstützung aller GMP- und nicht-GMP-relevanten Aktivitäten und die Ermöglichung der Entwicklung synthetischer und grosser Moleküle durch qualitativ hochwertige Unterstützung unserer Partner zuständig. Als Teil der OSC-Abteilung konzentriert sich der Bereich Laboratory Support and Compliance darauf, eine zuverlässige Unterstützung der analytischen Labore zu gewährleisten und mit vielen internen und externen Partnern zusammenzuarbeiten.\n\nDie Möglichkeit:\n\nDu gestaltest und betreust Masterdaten im SAP S/4HANA für Laborgeräte, die in modernen analytischen Laboren (DS & DP) eingesetzt werden.\n\nDu wirkst als SME (Subject Matter Expert) für die zugewiesenen Laborgeräte und organisierst die Qualifizierung, reguläre Wartung und das Troubleshooting.\n\nDu verbindest Systeme und Schnittstellen und hilfst dabei, bestehende und neue Lösungen optimal miteinander zu vernetzen.\n\nDu arbeitest eng mit PTD-Teams in Basel zusammen und bringst neue Prozesse und Arbeitsweisen erfolgreich in den Alltag.\n\nDu schreibst und aktualisierst SOPs, harmonisierst Abläufe und stellst sicher, dass Dokumentationen stets GMP-konform sind.\n\nDu übernimmst Changes, Deviations und CAPAs und sorgst für stabile, GMP-konforme Prozesse.\n\nDu vernetzt dich mit globalen Stakeholdern, förderst den Wissensaustausch und trägst zu Projekten und Initiativen bei, inkl. kontinuierlicher Verbesserungen.\n \nWer du bist:\n\nDu hast ein abgeschlossenes naturwissenschaftliches Studium (idealerweise Bachelor oder Master) mit mind. 3-5 Jahren Berufserfahrung oder eine gleichwertige Qualifikation durch relevante Berufserfahrung in der pharmazeutischen Industrie im GMP-Umfeld eines analytischen Labors oder der QC.\n\nDu arbeitest sehr sorgfältig, strukturiert und qualitätsbewusst.\n\nDu hast eine ausgeprägte Affinität zu Systemen, Datenbanken und Digitalisierung sowie Erfahrung in der Betreuung von Masterdaten für Laborgeräte in SAP S/4HANA.\n\nDu verfügst über ein starkes Verständnis für GMP, Datenintegrität und ALCOA+.\n\nDu bist flexibel, arbeitest selbstständig, lernst kontinuierlich und kannst Prioritäten setzen; auch in einem anspruchsvollen und dynamischen Umfeld.\n\nDu bist ein Teamplayer mit sehr guten Kommunikationsfähigkeiten und hast Freude an der Zusammenarbeit mit lokalen und globalen Stakeholdern.\n\nDu besitzt fliessende Deutsch- und Englischkenntnisse.\n \nBereit für den nächsten Schritt? Wir freuen uns darauf, von dir zu hören. Bewirb dich jetzt, um diese spannende Möglichkeit zu entdecken!\n\n \n \n\nWho we are\nA healthier future drives us to innovate. Together, more than 100’000 employees across the globe are dedicated to advance science, ensuring everyone has access to healthcare today and for generations to come. Our efforts result in more than 26 million people treated with our medicines and over 30 billion tests conducted using our Diagnostics products. We empower each other to explore new possibilities, foster creativity, and keep our ambitions high, so we can deliver life-changing healthcare solutions that make a global impact.\n\nLet’s build a healthier future, together.\n\nRoche is an Equal Opportunity Employer.",
+    "external_url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Technical-R-D-Scientist_202607-117406-1",
+    "status": "matched",
+    "title": "Technical R&D Scientist",
+    "company": "Roche",
+    "location": "Basel",
+    "posted_date": "2026-07-13",
+    "department": "",
+    "score": 0,
+    "matched_keywords": [],
+    "deducted_keywords": []
+  },
+  "/job/Basel-City/Head-CD-Technology---AI_REQ-10080166-1": {
+    "description": "Salary Range:CHF214,200.00 - CHF397,800.00\n\n \nJob Description SummaryHead Clinical Development AI & Technology\n\nPrimary Location: London, United Kingdom\nOther Locations: Dublin, Ireland; Basel, Switzerland; United States\nRelocation Support: Yes\n\nLead the design and execution of a scalable, enterprise-aligned technology, data, and artificial intelligence strategy for Clinical Development. As Head Clinical Development AI &Tech you will architect and operationalize advanced digital platforms, analytics ecosystems, and artificial intelligence and generative artificial intelligence capabilities to optimize end-to-end clinical development execution from study design through submission. Working at the intersection of clinical science, data engineering, and platform technologies, you will drive integration of structured and unstructured data assets, industrialize artificial intelligence use cases tied to key scientific questions, and ensure compliant, high-performance systems that accelerate evidence generation, optimize delivery, and enable real-time, data-driven decision-making at global scale.\n\n \nJob Description\nKey Responsibilities\nDefine and execute end-to-end technology, data, and artificial intelligence strategy for Clinical Development\nAct as strategic advisor to senior leadership on digital transformation, automation, and data modernization\nDeep ecosystem engagement to proactively identify emerging trends and translate them into iterative, impact-driven plans that accelerate Clinical Development\nLead delivery of scalable platforms and artificial intelligence solutions across all clinical development capability areas\nOversee product roadmaps, lifecycle governance, vendor partnerships, and platform performance\nDrive identification, prioritization, and industrialization of artificial intelligence and generative artificial intelligence use cases with measurable impact\nIntegrate analytics, automation, and diverse data assets to enable seamless end-to-end clinical workflows\nEnsure compliance with good clinical practice, data privacy, cybersecurity, and regulatory standards globally\nEstablish robust governance frameworks, operating models, and cross-functional collaboration structures\nLead global, matrixed teams across technology, data science, engineering, and platform leadership\nDrive continuous improvement in delivery quality, release management, and operational resilience\n\nEssential Requirements\nAdvanced degree in Technology, Data Science, Engineering, or Life Sciences or equivalent experience\nMinimum 10 years of leadership experience within global, matrixed environments in regulated industries such as pharmaceuticals or healthcare\nDeep expertise in clinical development processes and supporting technology platforms across the full development lifecycle\nProven experience designing and scaling artificial intelligence and machine learning solutions in regulated environments\nStrong knowledge of data architecture, cloud technologies, and enterprise-scale digital platform implementation\nDemonstrated ability to lead multidisciplinary teams across technology, data science, and engineering functions\nStrong understanding of regulatory requirements including good clinical practice, data privacy, and data integrity standards\nExcellent communication and stakeholder engagement skills with the ability to translate complex technical concepts clearly\n\nDesirable Requirements\nMaster of Business Administration or equivalent leadership qualification\nExperience leading large-scale organisational transformation and artificial intelligence-driven change management initiatives\n\nRewards \nAt Novartis, we’re committed to reimagining medicine together - and rewarding the people who make it happen. \n\nThe rewards of being part of our team go far beyond base pay and incentives. We also offer a variety of competitive benefits in kind to help you thrive personally and professionally, such as insurance plans, retirement plans, wellbeing resources and global recognition programs. In addition, we provide flexible and hybrid working options, where possible, and a minimum of 14 weeks paid parental leave. \n\nExpected Annual Base Salary Range for role: \nSwitzerland 214,200.00 - 397,800.00 CHF Annual\n\nThe salary offered is determined based on gender-neutral objectives, such as relevant skills, competencies and experience in accordance with the Novartis pay setting policy and upon joining Novartis will be reviewed periodically.  \n\nIn addition to your base salary, you may be eligible for a performance-based bonus depending on certain performance parameters. Further details will be provided during the application process.  \n\nPay equity is a fundamental principle of our employment policy and reflects our commitment to create a diverse, equitable and inclusive environment that treats all employees with dignity and respect, as outlined in our Code of Ethics. \n\nRead our brochure to learn more about our global total rewards offering: https://www.novartis.com/sites/novartis_com/files/novartis-life-handbook.pdf  \nNote: Benefits and compensation may vary by country and are subject to local legal requirements, including provisions of collective bargaining agreements where applicable. A full overview of your compensation package, including any relevant collective bargaining agreement details applicable to your role based on your employment location and Novartis employer entity, will be communicated separately to you during the application process.    \n\nCommitment to Diversity and Inclusion / EEO paragraph: \nNovartis is committed to building an outstanding, inclusive work environment and diverse teams’ representative of the patients and communities we serve. \n\nWhy Novartis: Helping people with disease and their families takes more than innovative science. It takes a community of smart, passionate people like you. Collaborating, supporting and inspiring each other. Combining to achieve breakthroughs that change patients’ lives. Ready to create a brighter future together? https://www.novartis.com/about/strategy/people-and-culture \n\nBenefits and Rewards: Read our handbook to learn about all the ways we’ll help you thrive personally and professionally: https://www.novartis.com/careers/benefits-rewards  \n\n \nSkills DesiredAgile (Programming Methodology) (Inactive), Artificial Intelligence (AI), Business Value Creation, Change Management, Cluster Analysis, Curious Mindset, Data Engineering, Data Governance, Data Literacy, Data Management, Data Quality, Data Science, Data Strategies, Data Visualization, Deep Learning, Learning Agility, Machine Learning (ML), Machine Learning Algorithms, Mentorship, Organization Awareness (Inactive), Stakeholder Engagement, Time Series Analysis, Vision (Inactive)",
+    "external_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Basel-City/Head-CD-Technology---AI_REQ-10080166-1",
+    "status": "matched",
+    "title": "Head Clinical Development AI & Technology",
+    "company": "Novartis",
+    "location": "Basel (City)",
+    "posted_date": "2026-07-13",
+    "department": "",
+    "score": 0,
+    "matched_keywords": [],
     "deducted_keywords": []
   }
 }
