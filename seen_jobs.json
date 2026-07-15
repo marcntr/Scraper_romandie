@@ -619,7 +619,8 @@
     "https://www.michaelpage.ch/fr/job-detail/junior-portfolio-manager-investissement-immobilier-hf/ref/jn-062026-7030669?lang=en": "ignored",
     "https://jobs.smartrecruiters.com/AbbVie/3743990013903306-medical-advisor-neurology?oga=true": "ignored",
     "https://jobs.smartrecruiters.com/AbbVie/3743990013903636-medical-advisor-neurology?oga=true": "ignored",
-    "https://apply.workable.com/sophia-genetics/j/39F1F5A7B1/": "ignored"
+    "https://apply.workable.com/sophia-genetics/j/39F1F5A7B1/": "ignored",
+    "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Associate-Scientist-in-Pharmaceutical-Development--Fixed--term-for-1-year-in-Basel-_202606-116269-2": "ignored"
   },
   "_generic:Hurdle Bio": {
     "keywords": "npp"
@@ -943,7 +944,7 @@
     "title": "Clinical Scientist in neurosciences",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-06-19",
+    "posted_date": "2026-06-20",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -959,7 +960,7 @@
     "title": "Scientist, Pharmaceutical Development & Data Analytics _2 years temporary contract",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-06-14",
+    "posted_date": "2026-06-15",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -974,7 +975,7 @@
     "title": "Technical Expert Portfolio Mgmt, Technical Feasibility and Planning",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-06-14",
+    "posted_date": "2026-06-15",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -987,7 +988,7 @@
     "title": "Principal Real World Data Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-06-14",
+    "posted_date": "2026-06-15",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -1005,7 +1006,7 @@
     "title": "Sr. Scientist - Computational Biology - Neuroscience & Rare Diseases",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-06-14",
+    "posted_date": "2026-06-15",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -1367,7 +1368,7 @@
     "title": "In Vitro Bioanalysis Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-01",
+    "posted_date": "2026-07-02",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -1420,7 +1421,7 @@
     "title": "Principal Scientist si-RNA Design",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-01",
+    "posted_date": "2026-07-02",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1436,7 +1437,7 @@
     "title": "Mechanistic Immuno Tox Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-01",
+    "posted_date": "2026-07-02",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -1455,7 +1456,7 @@
     "title": "Investigative Toxicology Junior Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-01",
+    "posted_date": "2026-07-02",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -1479,7 +1480,7 @@
     "title": "Hematology and Safety Biomarker Expert",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-01",
+    "posted_date": "2026-07-02",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -1846,7 +1847,7 @@
     "title": "Senior/Principal Scientist - NMR Expert",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-07",
+    "posted_date": "2026-07-08",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2105,7 +2106,7 @@
     "title": "Principal Operations AI Data Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-10",
+    "posted_date": "2026-07-11",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -2146,20 +2147,6 @@
     "external_url": "https://www.michaelpage.ch/job-detail/senior-regulatory-change-manager/ref/jn-072026-7058880",
     "status": "ignored",
     "title": "Senior Regulatory Change Manager",
-    "company": "Michael Page Switzerland",
-    "location": "Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": -2,
-    "matched_keywords": [],
-    "deducted_keywords": [
-      "location:Switzerland"
-    ]
-  },
-  "https://www.michaelpage.ch/fr/job-detail/junior-portfolio-manager-investissement-immobilier-hf/ref/jn-062026-7030669?lang=en": {
-    "external_url": "https://www.michaelpage.ch/fr/job-detail/junior-portfolio-manager-investissement-immobilier-hf/ref/jn-062026-7030669?lang=en",
-    "status": "ignored",
-    "title": "Junior Portfolio Manager - Investissement immobilier (H/F)",
     "company": "Michael Page Switzerland",
     "location": "Switzerland",
     "posted_date": "",
@@ -2247,7 +2234,7 @@
     "title": "Medical Director, Gastroenterology, Early Clinical Development",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-06-14",
+    "posted_date": "2026-06-15",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -2272,7 +2259,7 @@
     "title": "International Medical Affairs Head, CRM",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-07-07",
+    "posted_date": "2026-07-08",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2288,7 +2275,7 @@
     "title": "Director - Immunology Therapeutic Area Biomarker Lead (TABL)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-06-23",
+    "posted_date": "2026-06-24",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -2312,7 +2299,7 @@
     "title": "Translational Medicine Expert – Dermatology, Associate Director",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-06-16",
+    "posted_date": "2026-06-17",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -2335,7 +2322,7 @@
     "title": "Senior Specialist Data Science, AI & Quantum",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-06-23",
+    "posted_date": "2026-06-24",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2350,7 +2337,7 @@
     "title": "Expert Analytical Scientist (m/f/d)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-07-06",
+    "posted_date": "2026-07-07",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2365,7 +2352,7 @@
     "title": "Patent Attorney",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-07-06",
+    "posted_date": "2026-07-07",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -2378,7 +2365,7 @@
     "title": "Senior Principal Scientist - Proteomics",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-07-09",
+    "posted_date": "2026-07-10",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -2398,7 +2385,7 @@
     "title": "Senior Expert / Senior Principal PKS Data Scientist & Scientific Software Engineer (Dual level posting)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-06-30",
+    "posted_date": "2026-07-01",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -2421,7 +2408,7 @@
     "title": "Data Science & AI Innovation Postdoctoral Fellow d42",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-07-01",
+    "posted_date": "2026-07-02",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -2444,7 +2431,7 @@
     "title": "Data Science & AI Innovation Postdoctoral Fellow in Machine Learning for Chemical Synthesis and Reactivity Prediction",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-07-01",
+    "posted_date": "2026-07-02",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -2462,7 +2449,7 @@
     "title": "Data Science & AI Innovation Postdoctoral Fellow Immunology",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-07-07",
+    "posted_date": "2026-07-08",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -2483,7 +2470,7 @@
     "title": "Data Science & AI Innovation Postdoctoral Fellow Foundational & Multimodal Proteochemometrics models",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-07-01",
+    "posted_date": "2026-07-02",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -2502,7 +2489,7 @@
     "title": "Director, Therapeutic Area Biomarker Lead (Neuroscience)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-07-09",
+    "posted_date": "2026-07-10",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -2614,7 +2601,7 @@
     "title": "Post Doctoral Scientist (m/w/d)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-14",
+    "posted_date": "2026-07-15",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -2657,7 +2644,7 @@
     "title": "Internship in the PD Medical Affairs Nucleus Team - Service Solutions & Innovation (SSI) - as of 1 January 2027 for 12 months in Basel",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-14",
+    "posted_date": "2026-07-15",
     "department": "",
     "score": 1,
     "matched_keywords": [
