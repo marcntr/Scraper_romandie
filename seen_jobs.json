@@ -359,7 +359,7 @@
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-07-07"
+    "cached_at": "2026-07-15"
   },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000085340717": {
     "description": "One of CERN’s key missions is education. Our experts enjoy sharing their knowledge with committed and passionate students. If you are an undergraduate student in a technical or administrative field , and you’re looking to spend a few months training on-the-job, imagine doing your internship at CERN in Geneva. An impressive addition to your CV! We offer a limited number of placements in our practical training programme. Duration 1 – 6 months. !Important!: Please note that only nationals of CERN Member States or Associate Member States are eligible to apply. Applications from other countries will not be considered.",
@@ -388,7 +388,7 @@
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-07-07"
+    "cached_at": "2026-07-15"
   },
   "_facets:alirahealth:AliraHealth": {
     "facets": {},
@@ -801,11 +801,6 @@
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000132368970-electromechanical-technician-ep-atl-so-2026-129-ld-?oga=true",
     "status": "matched"
   },
-  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000132402617": {
-    "description": "Vous participerez au projet national multicentrique iGASWISS‑2, consacré à l’étude des infections invasives à streptocoque du groupe A (iGAS) en Suisse. Ce projet, mené en collaboration avec plusieurs centres universitaires du pays, vise à approfondir les connaissances épidémiologiques, cliniques et microbiologiques sur les iGAS afin d’améliorer les stratégies de prévention et de prise en charge.\nSous la supervision des investigateurs principaux, vous contribuez aux activités scientifiques et opérationnelles liées à la conduite de l’étude.\nVous collectez et extrayez les données cliniques à partir des dossiers médicaux informatisés, puis vous en vérifiez la qualité, la cohérence et l’exhaustivité.\nVous participez à la gestion et à la mise à jour de la base de données REDCap et vous coordonnez les échanges avec les centres participants pour assurer le suivi des inclusions et résoudre les données manquantes.\nVous prenez part aux procédures de validation et au contrôle qualité des données, ainsi qu’aux premières analyses descriptives en collaboration avec l’équipe méthodologique.\nVous contribuez également à la rédaction de rapports scientifiques, de résumés pour des congrès et de manuscrits, et vous participez aux réunions de recherche.",
-    "external_url": "https://jobs.smartrecruiters.com/HUG/744000132402617-medecin-interne-de-recherche-au-service-des-maladies-infectieuses-20-?oga=true",
-    "status": "matched"
-  },
   "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000132120490": {
     "description": "Votre activité de neuro-monitorage en continu (électroencéphalographie, potentiels évoquées somesthésiques, Doppler transcrânien) se déroule aux soins intensifs pour des patients et patientes en état critique.\nVous assistez les médecins cheffes et chefs de service et les médecins adjoints et adjointes dans les soins, la coordination des activités pratiques, les interventions cliniques, thérapeutiques ou chirurgicales de la patientèle confiée.\nVous participez au système de gardes.\nVous garantissez des prestations médicales de qualité, tant sur le plan clinique et administratif qu'organisationnel.\nVous participez au développement de la prise en charge globale et interdisciplinaire du patient et de la patiente.\nVous travaillez au sein d'une équipe médicale dont la supervision est assurée par des cadres confirmés.\nVous contribuez au développement de l'enseignement théorique au sein de la clinique.",
     "external_url": "https://jobs.smartrecruiters.com/HUG/744000132120490-chef-ou-cheffe-de-clinique-avec-ou-sans-titre-de-specialite-au-service-de-neurologie-neuro-monitorage-aux-soins-intensifs-100-?oga=true",
@@ -1033,7 +1028,7 @@
     "title": "Global Medical Director, Evidence Generation Lead",
     "company": "Biogen",
     "location": "Baar, Switzerland",
-    "posted_date": "2026-06-17",
+    "posted_date": "2026-06-18",
     "department": "",
     "score": -2,
     "matched_keywords": [
@@ -1052,7 +1047,7 @@
     "title": "Senior Medical Director, Nephrology, Global Medical Affairs",
     "company": "Biogen",
     "location": "Baar, Switzerland",
-    "posted_date": "2026-06-17",
+    "posted_date": "2026-06-18",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -1196,7 +1191,7 @@
     "title": "Senior Scientist Material Management & Qualification - Quality Control",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-06-14",
+    "posted_date": "2026-06-15",
     "department": "",
     "score": -1,
     "matched_keywords": [
@@ -1213,7 +1208,7 @@
     "title": "Senior Scientist microbiological Quality Control",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-06-14",
+    "posted_date": "2026-06-15",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -1228,7 +1223,7 @@
     "title": "Scientist Microbiological Quality Control",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-06-14",
+    "posted_date": "2026-06-15",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -1243,7 +1238,7 @@
     "title": "R&D Scientist – Scientific Data Analytics (d/f/m)",
     "company": "Danaher",
     "location": "Basel, Switzerland",
-    "posted_date": "2026-06-23",
+    "posted_date": "2026-06-24",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1279,7 +1274,7 @@
     "title": "Senior Scientist QA Operations",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-06-29",
+    "posted_date": "2026-06-30",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -1340,7 +1335,7 @@
     "title": "Associate Scientist / Senior Laboratory Specialist",
     "company": "CSL Behring / Vifor",
     "location": "EMEA, CH, Kanton Bern, Bern, CSL Behring",
-    "posted_date": "2026-06-30",
+    "posted_date": "2026-07-01",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1505,7 +1500,7 @@
     "title": "Internship Scientist Forensic Chemistry 6 months contract 80-100%",
     "company": "Lonza",
     "location": "CH - Basel",
-    "posted_date": "2026-07-01",
+    "posted_date": "2026-07-02",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1611,27 +1606,9 @@
     ],
     "deducted_keywords": []
   },
-  "/job/Basel/Associate-Scientist-in-Pharmaceutical-Development--Fixed--term-for-1-year-in-Basel-_202606-116269-2": {
-    "description": "At Roche you can show up as yourself, embraced for the unique qualities you bring. Our culture encourages personal expression, open dialogue, and genuine connections,  where you are valued, accepted and respected for who you are, allowing you to thrive both personally and professionally. This is how we aim to prevent, stop and cure diseases and ensure everyone has access to healthcare today and for generations to come. Join Roche, where every voice matters.\n\nThe Position\nRoche is leading the industry with respect to the investment in R&D. We drive one of the largest and most promising pipelines.\nPharma Technical Development (PTD) engages with all R&D engines within the Roche group and supports more than 100 development projects with CMC (Chemistry, Manufacturing and Controls) activities.\nPharma Technical Development (PTD) brings game-changing therapies from clinical phase I into the market to serve every patient, every day. Our core business is to develop safe, innovative and effective drugs using cutting edge technologies for manufacturing processes (Drug Substance and Drug Product), clinical supply, formulation, device, packaging, and analytical development. Our daily work also includes compiling of regulatory documents and the transfer of development projects to commercial manufacturing.\nWe are striving for a caring and sensing network organization, which lives a culture of trust and collaboration. Our smart people drive innovation through their expertise, passion and \"getting it done\" mentality. The benefit for the patient is in the center of our thoughts and efforts. To achieve this goal we have embraced new ways of working and thinking.\nThe department of Pharmaceutical Development is responsible for the development of parenteral drug products from Phase 1 up to Launch. Activities encompass formulation and manufacturing process development for parenteral drug products for all clinical stages and the market, the transfer of product and process to commercial manufacturing sites, commercial product support, line extension development, and drug product supplies for pre-clinical studies.\n\nAs an Associate Scientist within Pharmaceutical Development, you are responsible for laboratory studies related to drug product formulation and process development for parenteral dosage forms, including large biological molecules, small synthetic molecules, and gene therapy. \n\nThe Opportunity\nPlan and coordinate lab work packages with support from the Pharmaceutical Project Leader (PPL) and peers\nWrite study protocols and reports\nExecute hands-on laboratory studies related to parenteral drug product formulation and process development (Ph0 to Ph3), identify support needs, prioritize tasks, and consider flexibility in execution\nIndependently analyze, interpret and present results\nPlan timing, instrument use, analytical methods, materials, and sample logistics for studies, ensuring robust and timely sample flow and storage.\nHigh quality standard from study planning, execution and data handling, ensuring proper documentation, data integrity, and adherence to ALCOA+ (Attributable, Legible, Contemporaneous, Original, Accurate +) and FAIR (Findable, Accessible, Interoperable and Reusable) data principles.\nThe position is limited to 1 year. Extension might be possible.\n\nWho You Are\nCompleted apprenticeship as a chemical/biological laboratory technician; Chemical-Technical Assistant (CTA), or Biological-Technical Assistant (BTA) or related fields\nProven knowledge and hands-on experience in laboratory\nA high degree of self-motivation, curiosity and high aspiration in terms of quality is required\nExcellent communication and collaboration skills with a deep commitment to working in a delivery oriented environment\nStrong team player attitude \nStrong interest to embrace new ways of working and to act as change agent\nFluent in English (written and spoken) is a must. German language skills are a plus.\n \nReady to take the next step in your career? We're excited to see what you'll bring to the team. Apply now and upload your CV and degree certificates to get started.\n\n \n \n\nWho we are\nA healthier future drives us to innovate. Together, more than 100’000 employees across the globe are dedicated to advance science, ensuring everyone has access to healthcare today and for generations to come. Our efforts result in more than 26 million people treated with our medicines and over 30 billion tests conducted using our Diagnostics products. We empower each other to explore new possibilities, foster creativity, and keep our ambitions high, so we can deliver life-changing healthcare solutions that make a global impact.\n\nLet’s build a healthier future, together.\n\nRoche is an Equal Opportunity Employer.",
-    "external_url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Associate-Scientist-in-Pharmaceutical-Development--Fixed--term-for-1-year-in-Basel-_202606-116269-2",
-    "status": "ignored",
-    "title": "Associate Scientist in Pharmaceutical Development (Fixed- term for 1 year in Basel)",
-    "company": "Roche",
-    "location": "Basel",
-    "posted_date": "2026-07-01",
-    "department": "",
-    "score": 0,
-    "matched_keywords": [],
-    "deducted_keywords": []
-  },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000135412509": {
     "description": "The EP-ATL-PO section plays a key role in the upgrade and maintenance of the ATLAS detector at the LHC. As a Junior Mechanical Technician, you will support experienced colleagues in mechanical installation and integration activities on the detector and its infrastructure during Long Shutdown 3 (LS3), while gaining hands-on experience in a cutting-edge experimental physics environment.\nYour responsibilities:\nParticipate in large-scale ATLAS detector movements in the experimental cavern and in the installation of access platforms.\nSupport sub-detector installation activities, including handling, transport, and positioning using appropriate lifting and alignment techniques.\nPrepare and set up work areas and tooling, and provide logistical support for detector interventions.\nRead and interpret mechanical drawings, perform basic dimensional checks, and report progress to supervising engineers.\nWhen required, manufacture parts and tooling using conventional machining techniques, such as drilling, milling, and turning.\nYour profile:\nInitial hands-on experience in mechanical assembly, fitting, or maintenance.\nAbility to read and interpret mechanical drawings, blueprints, and 2D/3D CAD models.\nInitial experience with conventional machining techniques and workshop practices.\nBasic metrology skills, including the use of calipers, gauges, and dimensional inspection tools.\nAwareness of occupational health and safety principles in workshop and industrial environments.\nSkills:\nFollow technical procedures, assembly instructions, and work specifications.\nUse of standard hand and power tools for mechanical operations.\nStrong teamwork and communication skills, with the ability to collaborate in an international and multidisciplinary environment.\nRigorous, detail-oriented, and safety-conscious approach to work.\nAccurately document completed work and maintain high quality standards while following technical procedures and safety requirements.\nSpoken and written English or French, with a commitment to learn the basics of the other language.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nBy the application deadline, you have a maximum of two years of professional experience since graduation in Mechanical Engineering or equivalent (or a related field) and your highest educational qualification is a general secondary education diploma.\nYou have never had a CERN fellow or graduate contract before.\nApplicants with a Bachelor's, Master's or PhD degree are not eligible.",
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000135412509-atlas-detector-installation-technician-ep-atl-po-2026-178-grae-?oga=true",
-    "status": "matched"
-  },
-  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000135428067": {
-    "description": "Vous assurez la prise en charge nutritionnelle des patientes et patients hospitalisés en soins aigus gériatriques ainsi qu’en réadaptation gériatrique, pour le Département de réadaptation et gériatrie, au sein de l’Hôpital des Trois-Chêne.\nEn qualité de diététicienne ou diététicien, votre mission est de permettre aux patients et patientes de maintenir, restaurer ou améliorer leur état nutritionnel, leurs capacités fonctionnelles et leur qualité de vie dans le respect des principes éthiques et déontologiques.\nVous appliquez l’Evidence Based Practice (EBP) et effectuez vos prises en charge conformément au processus de soins nutritionnel.\nVous êtes responsable d’une documentation rigoureuse et régulière des dossiers patients.\nVous participez activement aux colloques interdisciplinaires de réadaptation et de soins aigus et collaborez étroitement avec l’ensemble de l’équipe interprofessionnelle.\nVous contribuez à l’amélioration continue des pratiques professionnelles et de la qualité des soins, notamment dans le domaine de la malnutrition protéino-énergétique en contexte gériatrique, et êtes force de proposition.\nVous assurez, au besoin, le remplacement de vos collègues au sein des autres unités de soins de l’Hôpital des Trois-Chêne.\nVous participez à la formation des étudiants et étudiantes.",
-    "external_url": "https://jobs.smartrecruiters.com/HUG/744000135428067-dieteticien-ou-dieteticienne-site-de-trois-chene-80-a-100-?oga=true",
     "status": "matched"
   },
   "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000135426019": {
@@ -1656,7 +1633,7 @@
     "title": "Senior Scientist Electronic Laboratory Systems",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-07-02",
+    "posted_date": "2026-07-03",
     "department": "",
     "score": -1,
     "matched_keywords": [
@@ -1885,7 +1862,7 @@
     "title": "Director, Corporate Strategy & Business Development",
     "company": "Alcon",
     "location": "Geneva, Switzerland",
-    "posted_date": "2026-07-07",
+    "posted_date": "2026-07-08",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -2026,7 +2003,7 @@
     "title": "Scientific Consultant Assay Analytics",
     "company": "Danaher",
     "location": "Basel, Switzerland",
-    "posted_date": "2026-07-09",
+    "posted_date": "2026-07-10",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -2633,7 +2610,7 @@
   "/job/Basel/Post-Doctoral-Scientist--m-w-d-_202604-110674-1": {
     "description": "At Roche you can show up as yourself, embraced for the unique qualities you bring. Our culture encourages personal expression, open dialogue, and genuine connections,  where you are valued, accepted and respected for who you are, allowing you to thrive both personally and professionally. This is how we aim to prevent, stop and cure diseases and ensure everyone has access to healthcare today and for generations to come. Join Roche, where every voice matters.\n\nThe Position\nWe are seeking a highly motivated postdoctoral scientist with pharmaceutical sciences, peptide chemistry or related background to undertake an exciting, industry research project.\n\nThe opportunity\n\nPeptide based therapeutics is a rapidly evolving field, but the physicochemical challenges associated with these molecules, coupled with increasing complexity demands, require a deeper understanding of the factors that impact their stability. This Postdoctoral project will focus on understanding and optimizing lead formulations for peptide candidates and fixed-dose co-formulations. The candidate should be able to work effectively with an interdisciplinary team from academia and industry to implement innovative solutions.\n\nDevelop a study plan and design adequate experiments for pharmaceutical development of peptide and co-formulations\n\nExecute in vitro stability studies \n\nBe a catalyst in creating an environment of innovation, learning and growth in the field of pharmaceutical development for peptide therapeutics\n\nPresent research findings through internal reports, scientific contributions, supervision of research projects and initiation of new research activities.\n\nWho are you\n\nPh.D. in pharmaceutical sciences, peptide chemistry, or a related field \n\nStrong hands-on experience in testing peptide delivery systems and relevant analytical methods and desire to learn/develop new methods\n\nHighly motivated with a passion for applied scientific research and technical innovation\n\nExcellent communication skills and interpersonal skills are required. Must be able to participate and collaborate in highly effective, international and cross-functional teams, organizing and implementing complex research plans\n\nDemonstrates technical proficiency, scientific creativity, collaboration with others and independent thought in suggesting experimental design\n\nExperience with data analysis or programming tools (e.g. MatLab, R) is a plus\n\nWe are looking forward to your application!\n \n \n\nWho we are\nA healthier future drives us to innovate. Together, more than 100’000 employees across the globe are dedicated to advance science, ensuring everyone has access to healthcare today and for generations to come. Our efforts result in more than 26 million people treated with our medicines and over 30 billion tests conducted using our Diagnostics products. We empower each other to explore new possibilities, foster creativity, and keep our ambitions high, so we can deliver life-changing healthcare solutions that make a global impact.\n\nLet’s build a healthier future, together.\n\nRoche is an Equal Opportunity Employer.",
     "external_url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Post-Doctoral-Scientist--m-w-d-_202604-110674-1",
-    "status": "matched",
+    "status": "ignored",
     "title": "Post Doctoral Scientist (m/w/d)",
     "company": "Roche",
     "location": "Basel",
@@ -2654,7 +2631,7 @@
     "title": "Analytical Testing Lead / Principal Scientist",
     "company": "CSL Behring / Vifor",
     "location": "EMEA, CH, Kanton Bern, Bern, CSL Behring",
-    "posted_date": "2026-07-14",
+    "posted_date": "2026-07-15",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2676,7 +2653,7 @@
   "/job/Basel/Internship-in-the-PD-Medical-Affairs-Nucleus-Team---Service-Solutions---Innovation--SSI----as-of-1-January-2027-for-12-months-in-Basel_202607-117989": {
     "description": "At Roche you can show up as yourself, embraced for the unique qualities you bring. Our culture encourages personal expression, open dialogue, and genuine connections,  where you are valued, accepted and respected for who you are, allowing you to thrive both personally and professionally. This is how we aim to prevent, stop and cure diseases and ensure everyone has access to healthcare today and for generations to come. Join Roche, where every voice matters.\n\nThe Position\nPD Medical Affairs (PDMA) plays a pivotal role in advancing the future of healthcare by connecting scientific advances with medical practice needs and embedding medical practice realities into Roche strategies. Join the Product Development Medical Affairs (PDMA) Nucleus Team in the Services, Solutions, and Innovation space for a 12-month internship in Basel. The Services, Solutions & Innovation team within Roche’s Nucleus is driving digital transformation in Medical Affairs. This is your opportunity to gain hands-on experience in driving organizational projects with new systems, ranging from optimizing data for smarter decisions and supporting communications to project management and cross-functional collaboration with higher visibility.\n\nThe Opportunity: \n\nYou contribute actively to digital transformation and the development of solutions that enable reliable reporting and data-driven decision-making.\n\nYour role involves assisting in the planning, tracking, and thorough documentation of ongoing project progress.\n\nYou prepare engaging communications and high-quality materials to effectively connect with and inform stakeholders.\n\nCross-functional collaboration is a key part of your work as you seek to understand and support large-scale organizational initiatives.\n\nYou take full ownership of small-scale projects, driving them from the initial concept all the way to successful delivery.\n\nBy gathering stakeholder needs, you act as a bridge between teams and technical partners to drive the human-centered adoption of new digital tools and systems.\n\nWho you are:\n\nYou are currently enrolled at a university or have graduated within 12 months prior to the start of the internship in the fields of Business Administration, Life Sciences, Data Sciences, or related fields. \n\nYou are open-minded, flexible, creative, and proactive, approaching tasks with a strong can-do attitude.\n\nAs a natural team player, you possess exceptional communication, assertiveness, and self-reflection skills.\n\nYour strong organizational talent is complemented by solid project management capabilities and a highly analytical mindset.\n\nFluency in spoken and written English allows you to communicate confidently in an international environment.\n\nIdeally, you bring some international work experience alongside a genuine interest in digital transformation or the pharmaceutical industry.\n\nYou feel completely comfortable using Google Apps Suite, leveraging AI tools, and working with modern project management methodologies.\n\nApplication Process:\n\nPlease upload your CV (in English), a motivation letter with your application, and a certificate of enrolment (if you are currently studying) or your degree certificate (if you have already completed your studies). \n\nNon-EU/Non-EFTA citizens must attach a confirmation from the university to the application documents, stating that a mandatory internship is part of the education and be continuously enrolled in their university for the whole duration of this internship.\n\nAdditional Information:\n\nStart Date: from January 2027\n\nDuration: 12 months, full-time (40 hours/week)\n\nLocation: Basel\n\nReady to take the next step? We'd love to hear from you. Apply now to explore this exciting opportunity!\n \n \n\nWho we are\nA healthier future drives us to innovate. Together, more than 100’000 employees across the globe are dedicated to advance science, ensuring everyone has access to healthcare today and for generations to come. Our efforts result in more than 26 million people treated with our medicines and over 30 billion tests conducted using our Diagnostics products. We empower each other to explore new possibilities, foster creativity, and keep our ambitions high, so we can deliver life-changing healthcare solutions that make a global impact.\n\nLet’s build a healthier future, together.\n\nRoche is an Equal Opportunity Employer.",
     "external_url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Internship-in-the-PD-Medical-Affairs-Nucleus-Team---Service-Solutions---Innovation--SSI----as-of-1-January-2027-for-12-months-in-Basel_202607-117989",
-    "status": "matched",
+    "status": "ignored",
     "title": "Internship in the PD Medical Affairs Nucleus Team - Service Solutions & Innovation (SSI) - as of 1 January 2027 for 12 months in Basel",
     "company": "Roche",
     "location": "Basel",
@@ -2685,23 +2662,6 @@
     "score": 1,
     "matched_keywords": [
       "medical affairs"
-    ],
-    "deducted_keywords": []
-  },
-  "/job/Basel-City/Head--Global-Medical-Affairs-Oncology_REQ-10077892": {
-    "description": "Salary Range:CHF207,900.00 - CHF386,100.00\n\n \nJob Description SummaryReady to shape the future of oncology on a global scale? As Head, Global Medical Affairs Oncology, you will lead the integrated medical strategy across the product lifecycle - bringing scientific leadership into early portfolio decisions, strengthening the global medical voice in late-stage development, and ensuring evidence plans meet real stakeholder needs. This is a highly visible opportunity to develop medical plans, accelerate innovative evidence generation, and maximise impact at launch and beyond, while building trusted partnerships across the global oncology ecosystem to improve patient outcomes.\n\nLocation: Basel, Switzerland #LI-Hybrid\n\n \nJob Description\nResponsibilities:                                                                                                                \n\nDefine and drive an integrated global medical affairs strategy across oncology, aligned with United States and International priorities\n\nShape early portfolio strategy by providing expert medical input into development programmes and identifying innovative evidence generation opportunities\n\nEnsure a strong and consistent global medical voice within programme governance, reflecting clinical practice, patient needs and real-world insights\n\nDevelop and deliver integrated evidence generation plans, proactively identifying and closing evidence gaps to support patient needs\n\nOversee the design, approval and execution of global medical affairs studies, ensuring scientific integrity, quality and full compliance\n\nBuild and strengthen strategic partnerships with healthcare professionals, scientific leaders and external stakeholders\n\nLead medical communications and scientific engagement strategies to support data dissemination, education, stakeholder alignment and the effective use of AI-enabled approaches\n\nInspire, lead and develop a high-performing global team, fostering a culture of innovation, accountability and continuous development\n\nEssential for the role:\n\nMedical Doctor qualification with strong scientific credibility and the ability to represent medical affairs at a senior global level\n\n10+ years’ experience in medical affairs, clinical development or clinical practice within pharmaceutical, biotechnology or academic environments\n\nProven leadership experience managing global teams, with a strong track record of developing talent and building high-performing organisations\n\nDirect oncology therapeutic area experience, a well-established external scientific network, and the ability to influence credibly across the external oncology landscape\n\nDeep expertise in evidence generation, including clinical trials, real-world evidence studies and integrated evidence planning\n\nDemonstrated experience shaping and influencing global medical strategy across the product lifecycle, from early development to launch\n\nExcellent collaboration and influencing skills across complex, matrixed global organisations, with the ability to leverage AI and digital innovation to enhance insight generation, decision-making and execution\n\nStrong understanding of ethics, compliance and governance requirements within medical affairs, with a commitment to acting with integrity\n\nCommitment to Diversity & Inclusion:\nNovartis is committed to building an outstanding, inclusive work environment and diverse teams representative of the patients and communities we serve.\n\nAccessibility and accommodation: \nNovartis is committed to working with and providing reasonable accommodation to all individuals. If, because of a medical condition or disability, you need a reasonable accommodation for any part of the recruitment process, or in order to receive more detailed information about the essential functions of a position, please send an e-mail to diversity.inclusion_ch@novartis.com and let us know the nature of your request and your contact information. Please include the job requisition number in your message. \n\n \nSkills DesiredApache Continuum, Behavioral Economics, Clinical Trials, Collaboration, Data Entry, Diversity and Inclusion (D&I), Drug Development, Job Description (Inactive), Leadership, Medical Records Management, Patient Care, PCB (Printed Circuit Board) (Inactive), People Management, Physical Therapy, Prioritization, Telemetry",
-    "external_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Basel-City/Head--Global-Medical-Affairs-Oncology_REQ-10077892",
-    "status": "ignored",
-    "title": "Head, Global Medical Affairs Oncology",
-    "company": "Novartis",
-    "location": "Basel (City)",
-    "posted_date": "2026-07-14",
-    "department": "",
-    "score": 3,
-    "matched_keywords": [
-      "drug development",
-      "medical affairs",
-      "oncology"
     ],
     "deducted_keywords": []
   }
