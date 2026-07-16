@@ -1901,56 +1901,6 @@
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000136833040-audiovisual-installation-operations-coordinator-sce-sg-tf-2026-143-ld-?oga=true",
     "status": "matched"
   },
-  "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-senior-scientist-bcqc-lengnau-berne-880270/1": {
-    "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-senior-scientist-bcqc-lengnau-berne-880270/1",
-    "status": "ignored",
-    "title": "Senior Scientist BCQC(m/f/d)",
-    "company": "Hays Switzerland",
-    "location": "Lengnau, Berne, Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": 0,
-    "matched_keywords": [],
-    "deducted_keywords": []
-  },
-  "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-analytical-project-leader-scientist-senior-scientist-basel-stadt-873611/1": {
-    "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-analytical-project-leader-scientist-senior-scientist-basel-stadt-873611/1",
-    "status": "ignored",
-    "title": "Analytical Project Leader (Scientist / Senior Scientist)(m/f/d)",
-    "company": "Hays Switzerland",
-    "location": "Basel Stadt, Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": 0,
-    "matched_keywords": [],
-    "deducted_keywords": []
-  },
-  "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-vice-president-of-business-development-basel-land-873413/1": {
-    "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-vice-president-of-business-development-basel-land-873413/1",
-    "status": "ignored",
-    "title": "Vice President of Business Development(m/f/d)",
-    "company": "Hays Switzerland",
-    "location": "Basel Land, Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": 0,
-    "matched_keywords": [],
-    "deducted_keywords": []
-  },
-  "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-scientist-lab-technician-assay-development-zug-873185/1": {
-    "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-scientist-lab-technician-assay-development-zug-873185/1",
-    "status": "ignored",
-    "title": "Scientist Lab Technician Assay Development(m/f/d)",
-    "company": "Hays Switzerland",
-    "location": "Zug, Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": 1,
-    "matched_keywords": [
-      "assay development"
-    ],
-    "deducted_keywords": []
-  },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000137046376": {
     "description": "Introduction\nThe Engineering Department (EN) pushes forward the limits of technology so that physicists can carry out their research. Within the EN department, the Cooling and Ventilation (EN-CV) group is responsible for the design, the construction, the operation and the maintenance of the cooling and ventilation plants for large energy physics accelerators, experiments and technical facilities. The EN-CV group pursues sustainable cooling and ventilation systems enhancing energy savings and recovery.\n\nYou will join the Methods, Store and Electrical Section (CES), which oversees the operation and maintenance of water treatment systems, as well as the development of maintenance procedures, implementation of computerised maintenance management (CMMS), documentation management, spare parts store management and electrical works.\n\nAre you a qualified and proactive and specialised in industrial water treatment systems, ready to contribute to a unique working environment at the heart of one of the world's most complex scientific installations?\n\nIn this role, you will contribute to the analysis, optimisation and development of water treatment systems used for cooling and ventilation installations. You will ensure system performance, reliability and compliance with environmental and safety requirements, while supporting operation and maintenance activities. \nFunctions\nStudy, design and validate the performance of new water treatment installations or upgrade of existing water treatment installations. \nContribute to the water treatment contract management, produce technical specification and all the documents for the tendering procedure for the renewal of the contract.\nLead technical investigations and root cause analysis for complex or recurring issues affecting water treatment systems.\nPlan, coordinate and oversee preventive and corrective maintenance activities (by using the CMMS system), defining appropriate strategies and ensuring alignment with operational needs.\nMonitor system performance and follow up on activities, ensuring reporting on progress, schedule and costs.\nTechnically coordinate contractors’ activities for maintenance and installation work, ensuring compliance with contractual clauses, technical standards and safety requirements.\nEnsure that technical documentation is complete, structured and up to date, in line with quality standards.",
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000137046376-technical-engineer-for-water-treatment-systems-en-cv-ces-2026-124-ld-?oga=true",
