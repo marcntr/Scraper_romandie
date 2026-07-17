@@ -883,19 +883,9 @@
     "external_url": "https://jobs.smartrecruiters.com/HUG/744000103028645-chef-ou-cheffe-de-clinique-en-radiologie-avec-titre-de-specialite-100-?oga=true",
     "status": "matched"
   },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000132780603": {
-    "description": "Introduction\nIn close collaboration with the Archivist, the Archives Assistant and the Data Governance Officer, you will be responsible for establishing, implementing, and maintaining records management best practices across CERN, ensuring that information is managed effectively throughout its lifecycle.\nFunctions\nCoordinate and oversee records management practices across CERN, including the DRO (Departmental Records Officers) network.\nProvide operational support for records management activities (data/metadata processing, quality control, digital migration).\nEstablish a records management implementation strategy and related processes and procedures, and contribute to policy development.\nDevelop and maintain retention schedules and related processes in collaboration with stakeholders.\nLead innovation and continuous improvement initiatives in records management, and monitor KPIs.\nLead apprentices, interns, and colleagues in records management.\nDeliver training and guidance to users and contribute to outreach and service activities.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000132780603-records-manager-osi-sis-al-2026-131-ld-?oga=true",
-    "status": "matched"
-  },
   "https://api.smartrecruiters.com/v1/companies/Sobi/postings/744000132996289": {
     "description": "Key Responsibilities\nManage, lead, and coach a team of publication managers, fostering a collaborative and high-performance culture\nOversee the planning, development, and execution of strategic publication plans across the Therapeutic Areas\nProvide guidance on governance and industry standards to foster effective and compliant publications execution\nDevelop, coordinate, and standardise key operational processes and frameworks, ensuring efficiency and effectiveness of publications activities\nLiaise with medical colleagues and other cross-functional/regional partners to enhance the value of medical and scientific publications, whilst demonstrating their impact to the wider organization and the external community",
     "external_url": "https://jobs.smartrecruiters.com/Sobi/744000132996289-head-of-global-medical-publications?oga=true",
-    "status": "matched"
-  },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000133074060": {
-    "description": "Introduction\nWithin the Beam department (BE) and the Accelerator and Beam Physics group (ABP), join the Hadron Sources and Linacs section (HSL) at CERN as a lead applied physicist overseeing the Linac3 ion source, a role bringing together multiple physics domains coupled with beam dynamics, including high voltages, high magnetic fields, plasma heating with microwaves, the delivery of gases and vapours into vacuum systems as well as x-ray generation and shielding. You will ensure the high-performance delivery of heavy ion beams, driving both daily operations and long-term technical development of the system providing particle beams for one of the world's most unique accelerator complexes, serving fixed-target users and the LHC.\nFunctions\nCoordinate and participate in the Linac3 ion source assembly and maintenance activities during technical stops and shutdowns to ensure preparation for high-availability operation.\nAs the expert in-charge, commission and operate the source, tuning it precisely to optimise performance and stability for Linac3 and the downstream injectors, ensuring compliance with beam quality specifications for CERN ion runs and various tests.\nDesign and implement technical solutions to test and validate the production of different ion species requested for future physics programmes.\nBe part of the machine expert team, contributing to broader beam operations and participating in the on-call service rotation to ensure 24/7 injector reliable operation.\nSupervise and mentor a multidisciplinary team including physicists, engineers, technicians and students.\nConduct advanced beam measurements and data analysis to characterise Linac3 performance and identify areas for optimisation.\nContribute to the design studies and execution of upgrades for the CERN ion injector complex, focusing on source technology and low energy beam transport (LEBT).\nContribute to other BE-ABP-HSL activities through beam dynamics design, simulations and commissioning for present and future hadron linacs and sources under the section’s responsibility.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000133074060-source-and-linac-physicist-be-abp-hsl-2026-133-ld-?oga=true",
     "status": "matched"
   },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000133051854": {
@@ -910,7 +900,7 @@
     "title": "Clinical Scientist in neurosciences",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-06-20",
+    "posted_date": "2026-06-19",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -977,7 +967,7 @@
     "title": "Global Medical Director, Evidence Generation Lead",
     "company": "Biogen",
     "location": "Baar, Switzerland",
-    "posted_date": "2026-06-18",
+    "posted_date": "2026-06-17",
     "department": "",
     "score": -2,
     "matched_keywords": [
@@ -996,7 +986,7 @@
     "title": "Senior Medical Director, Nephrology, Global Medical Affairs",
     "company": "Biogen",
     "location": "Baar, Switzerland",
-    "posted_date": "2026-06-18",
+    "posted_date": "2026-06-17",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -1073,11 +1063,6 @@
       "medical affairs"
     ],
     "deducted_keywords": []
-  },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000134256199": {
-    "description": "Are you a hands-on physicist with a strong interest in advanced detector technologies and software development? Join CERN's Experimental Physics (EP) Department and contribute to the next generation of instrumentation for the ATLAS experiment at the High-Luminosity LHC.\nYou will work in close collaboration with international teams contributing to the LUminosity Cherenkov Integrating Detector (LUCID-3) and the High-Luminosity Zero Degree Calorimeter (HL-ZDC).\nThis position offers a unique opportunity to work at the forefront of experimental particle physics, combining hardware, firmware and software development in a highly collaborative and international environment.\nYour responsibilities\nContribute to the the testing and validation of components for the ATLAS Forward Detector upgrade.\nDevelopment and maintenance of software for data acquisition electronics.\nDesign and support of online monitoring tools.\nPlay an active role in laboratory-based activities at CERN, including the testing of individual electronics components and the validation of the full detector readout chain within the Forward Detectors laboratories.\nYour profile\nProven experience with data acquisition systems in high-energy physics experiments, including detector readout and integration.\nFamiliarity with firmware (e.g. FPGA-based systems) and hardware-software integration is highly desirable.\nExperience with online monitoring systems and real-time data quality assessment is an asset.\nUnderstanding of trigger systems (in particular Level-1) and detector control/operation concepts is advantageous.\nPractical experience in laboratory work, including testing and validation of electronics components and readout chains.\nSkills\nStrong programming skills in C++ and Python, with solid experience in UNIX/Linux environments.\nExperience with ROOT-based data handling, analysis, and visualisation.\nDemonstrated problem-solving ability and a proactive, \"can-do\" attitude, with willingness to contribute to detector operation and on-call activities.\nRigorous and well-organised approach to work, with attention to detail and ability to deliver high-quality results.\nAbility to work effectively both independently and within an international, collaborative team environment.\nSpoken and written English, with a commitment to learn French.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nYou have a professional background in Physics or related (or a related field) and have either:\na Master's degree with 2 to 6 years of post-graduation professional experience;\nor a PhD with no more than 3 years of post-graduation professional experience.\nYou have never had a CERN fellow or graduate contract before.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000134256199-atlas-forward-detector-daq-developments-ep-atl-am-2026-119-grap-?oga=true",
-    "status": "matched"
   },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000134176711": {
     "description": "RADNEXT 2030 is a Horizon Europe Research Infrastructure Services project that provides coordinated transnational access to radiation effects testing facilities across Europe and beyond. CERN is the project coordinator and also operates two key facilities within the network: CHARM and HEARTS@CERN.\nThis position is embedded in the Radiation to Electronics (R2E) activity within the Accelerator Systems department. You will work at the interface between project management, user access operations, and radiation effects research, contributing to the successful delivery of RADNEXT 2030's objectives.\nYou will gain broad exposure to the European radiation hardness assurance community, to CERN's accelerator infrastructure, and to the design, execution and analysis of radiation effects experiments.\nYour responsibilities:\nWork on the definition and coordination of the transnational access workflow for facilities within the RADNEXT 2030 framework.\nContribute to the definition, testing and improvement of the facility access online portal.\nProvide scientific support to the organisation and delivery of RADNEXT 2030 consortium activities.\nSupport the scientific communication, dissemination and outreach activities of RADNEXT 2030.\nContribute to applied research tasks, with a focus on novel beam techniques and radiation environment characterisation, in particular fragmented heavy-ion beams for full LET-spectrum testing and pulsed-electron SEE proxy studies.\nSupport the integration of the HEARTS@CERN facility and its related user management into the RADNEXT 2030 consortium.\nEngage with the broader radiation effects community through the RADNEXT 2030 user base, supporting training activities including the Radiation Effects Testing Summer School.\nYour profile:\nExperience in radiation effects testing and radiation hardness assurance.\nExperience in the design, preparation and execution of irradiation experiments.\nExperience in scientific writing and dissemination (publications, reports, conference contributions).\nFamiliarity with project coordination, user support or scientific service activities would be an advantage.\nSkills:\nKnowledge of radiation effects in electronics and of the main radiation test standards and methodologies (e.g. ESA/ECSS, MIL-STD).\nKnowledge of particle accelerator facilities and radiation-matter interaction physics relevant to radiation effects testing.\nAbility to work in an international, multi-institutional project environment and to interact with a diverse user community.\nStrong organisational and communication skills, with ability to manage multiple tasks and deadlines.\nSpoken and written English, with a commitment to learn French.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nYou have a professional background in Applied Physics, Electronics Engineering (or a related field) and have either:\na Master's Degree with 2 to 6 years of post-graduation professional experience;\nor a PhD with no more than 3 years of post-graduation professional experience.\nYou have never had a CERN fellow or graduate contract before.",
@@ -1164,7 +1149,7 @@
     "title": "R&D Scientist – Scientific Data Analytics (d/f/m)",
     "company": "Danaher",
     "location": "Basel, Switzerland",
-    "posted_date": "2026-06-24",
+    "posted_date": "2026-06-23",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1200,7 +1185,7 @@
     "title": "Senior Scientist QA Operations",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-06-30",
+    "posted_date": "2026-06-29",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -1261,7 +1246,7 @@
     "title": "Associate Scientist / Senior Laboratory Specialist",
     "company": "CSL Behring / Vifor",
     "location": "EMEA, CH, Kanton Bern, Bern, CSL Behring",
-    "posted_date": "2026-07-01",
+    "posted_date": "2026-06-30",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1293,7 +1278,7 @@
     "title": "In Vitro Bioanalysis Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-02",
+    "posted_date": "2026-07-01",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -1331,7 +1316,7 @@
     "title": "Principal Scientist si-RNA Design",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-02",
+    "posted_date": "2026-07-01",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1347,7 +1332,7 @@
     "title": "Mechanistic Immuno Tox Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-02",
+    "posted_date": "2026-07-01",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -1366,7 +1351,7 @@
     "title": "Investigative Toxicology Junior Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-02",
+    "posted_date": "2026-07-01",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -1390,7 +1375,7 @@
     "title": "Hematology and Safety Biomarker Expert",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-02",
+    "posted_date": "2026-07-01",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -1411,7 +1396,7 @@
     "title": "Internship Scientist Forensic Chemistry 6 months contract 80-100%",
     "company": "Lonza",
     "location": "CH - Basel",
-    "posted_date": "2026-07-02",
+    "posted_date": "2026-07-01",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1529,7 +1514,7 @@
     "title": "Senior Scientist Electronic Laboratory Systems",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-07-03",
+    "posted_date": "2026-07-02",
     "department": "",
     "score": -1,
     "matched_keywords": [
@@ -1714,7 +1699,7 @@
     "title": "Senior/Principal Scientist - NMR Expert",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-08",
+    "posted_date": "2026-07-07",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1730,7 +1715,7 @@
     "title": "Director, Corporate Strategy & Business Development",
     "company": "Alcon",
     "location": "Geneva, Switzerland",
-    "posted_date": "2026-07-08",
+    "posted_date": "2026-07-07",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -1906,7 +1891,7 @@
     "title": "Principal Operations AI Data Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-11",
+    "posted_date": "2026-07-10",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -2014,7 +1999,7 @@
     "title": "Director - Immunology Therapeutic Area Biomarker Lead (TABL)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-06-24",
+    "posted_date": "2026-06-23",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -2061,7 +2046,7 @@
     "title": "Senior Specialist Data Science, AI & Quantum",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-06-24",
+    "posted_date": "2026-06-23",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2076,7 +2061,7 @@
     "title": "Expert Analytical Scientist (m/f/d)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-07-07",
+    "posted_date": "2026-07-06",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2091,7 +2076,7 @@
     "title": "Patent Attorney",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-07-07",
+    "posted_date": "2026-07-06",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -2104,7 +2089,7 @@
     "title": "Senior Principal Scientist - Proteomics",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-07-10",
+    "posted_date": "2026-07-09",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -2124,7 +2109,7 @@
     "title": "Senior Expert / Senior Principal PKS Data Scientist & Scientific Software Engineer (Dual level posting)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-07-01",
+    "posted_date": "2026-06-30",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -2147,7 +2132,7 @@
     "title": "Director, Therapeutic Area Biomarker Lead (Neuroscience)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-07-10",
+    "posted_date": "2026-07-09",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -2185,7 +2170,7 @@
     "title": "Technical R&D Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-14",
+    "posted_date": "2026-07-13",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -2198,7 +2183,7 @@
     "title": "Head Clinical Development AI & Technology",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-07-14",
+    "posted_date": "2026-07-13",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -2259,7 +2244,7 @@
     "title": "Post Doctoral Scientist (m/w/d)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-15",
+    "posted_date": "2026-07-14",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -2286,7 +2271,7 @@
     "title": "Internship in the PD Medical Affairs Nucleus Team - Service Solutions & Innovation (SSI) - as of 1 January 2027 for 12 months in Basel",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-15",
+    "posted_date": "2026-07-14",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2350,7 +2335,7 @@
     "title": "Director, Medical Affairs",
     "company": "Gilead Sciences",
     "location": "Switzerland - Zug",
-    "posted_date": "",
+    "posted_date": "2026-07-15",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2388,30 +2373,6 @@
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000137897517-industrial-controls-technician-en-el-cbs-2026-187-grae-?oga=true",
     "status": "matched"
   },
-  "/job/Basel-City/Senior-Investigator-Associate-Director---Biology_REQ-10081057-1": {
-    "description": "Salary Range:CHF122,500.00 - CHF227,500.00\n\n \nJob Description Summary#LI-Onsite\nLocation: Basel, Switzerland\nThis role is based in Basel, Switzerland.\n\nThe Oncology Translational Research (OTR) group at Novartis Biomedical Research is seeking a highly accomplished translational scientist who combines exceptional scientific depth in cancer and molecular biology with the ability to lead, influence, and align complex, cross functional organizations.\nThis role is designed for a scientific leader who not only drives cutting edge research but also shapes broader program direction by connecting discovery, translational science, and clinical strategy. The successful candidate will play a pivotal role in advancing oncology programs by translating deep biological insights into impactful therapeutic and biomarker strategies, while effectively navigating and influencing a global, matrixed research environment.\n\n \nJob Description\nKey Responsibilities\n\nDefine and drive translational research strategies grounded in deep expertise in cancer biology, molecular signaling, and biomarker science\n\nTranslate complex biological insights into actionable therapeutic hypotheses and clinical development strategies\n\nLead oncology programs from early discovery through clinical translation, ensuring scientific rigor and strategic alignment\n\nOversee mechanism-of-action studies, combination strategies, and biomarker development\n\nAct as a key integrator across drug discovery, translational, bioinformatics, and clinical teams\n\nInfluence decision-making and align cross-functional stakeholders within a global, matrixed organization\n\nPartner with computational and data science teams to integrate genomic, molecular, and translational datasets into program strategy\n\nEnsure robust interpretation of data into clear scientific and clinical insights\n\nLead and mentor multidisciplinary teams, fostering a culture of scientific excellence, accountability, and collaboration\n\nCommunicate scientific strategies and findings effectively to senior leadership, governance bodies, and external partners\n\nContribute to external scientific visibility through publications, conferences, and collaborations\n\nEssential Requirements\n\nPhD in Molecular Biology, Cancer Biology, Cell Biology, Biochemistry, Genetics, or a related scientific discipline.\n\nCompleted postdoctoral plus at least 4+ years of biotechnology, pharmaceutical, academic translational research experience (see leveling below)\n\nDemonstrated leadership experience in oncology research and translational therapeutic development\n\nProven track record of leading multidisciplinary scientific programs in matrixed organizations\n\nStrong scientific communication, leadership, collaboration, and mentoring capabilities\n\nEstablished record of scientific innovation, publications, and translational impact\n\nHigh level of scientific curiosity, agility, and a positive, solution-oriented mindset\n\nRole Leveling (Dual Posting)\nFinal level will be determined by the hiring team based on skills, experience, and business needs.\n\nBenefits & Rewards\nAt Novartis, we’re committed to reimagining medicine together — and rewarding the people who make it happen.\n\nExpected Annual Base Salary Range for role: CHF 122,500 to CHF 227,500\nThe base salary offered is determined based on gender-neutral objectives, such as relevant skills, competencies and experience in accordance with the Novartis pay setting policy and upon joining Novartis will be reviewed periodically.\n\nIn addition to your base salary, you may be eligible for a performance-based bonus depending on certain performance parameters.\nThe rewards of being part of our team go far beyond base pay and incentives. We also offer a variety of competitive benefits in kind to help you thrive personally and professionally, such as insurance plans, retirement plans, wellbeing resources and global recognition programs. In addition, we provide flexible and hybrid working options, where possible, and minimum 14 weeks paid parental leave.\nPay equity is a fundamental principle of our employment policy and reflects our commitment to create a diverse, equitable and inclusive environment that treats all employees with dignity and respect, as outlined in our Code of Ethics.\n\nRead our brochure to learn more about our global total rewards offering:\nhttps://www.novartis.com/sites/novartis_com/files/novartis-life-handbook.pdf\n\nNote: Benefits and compensation may vary by country and are subject to local legal requirements, including provisions of collective bargaining agreements where applicable. A full overview of your compensation package, including any relevant collective bargaining agreement details applicable to your role based on your employment location and Novartis employer entity, will be communicated separately to you during the application process.\n\nCommitment to Diversity and Inclusion / EEO\nNovartis is committed to building an outstanding, inclusive work environment and diverse teams representative of the patients and communities we serve.\n\n \nSkills DesiredAnalytical Skill (Inactive), Analytical Skill (Inactive), Analytical Thinking, Chemical Biology, Chemistry, Clinical Research, Clinical Trials, Collaboration, Communication Skills (Inactive), Curious Mindset, Data (Inactive), Data Analysis, Decision Making, Design of Experiments (DOE), Detail-Oriented, Drug Development, Drug Discovery Process, Ethics, Gene Therapy- Leadership (Inactive), Influence (Inactive), Laboratory (Inactive), Leading Project Teams, Lifesciences (Inactive), Machine Learning (ML), Medical Research {+ 11 more}",
-    "external_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Basel-City/Senior-Investigator-Associate-Director---Biology_REQ-10081057-1",
-    "status": "ignored",
-    "title": "Senior Principal Scientist / Associate Director Translational Oncology",
-    "company": "Novartis",
-    "location": "Basel (City)",
-    "posted_date": "",
-    "department": "",
-    "score": 10,
-    "matched_keywords": [
-      "Cancer Biology",
-      "PhD",
-      "Postdoc",
-      "bioinformatics",
-      "drug development",
-      "drug discovery",
-      "molecular biology",
-      "oncology",
-      "postdoctoral",
-      "translational research"
-    ],
-    "deducted_keywords": []
-  },
   "/job/Switzerland---Basel/Sr-Global-HEOR---Payer-Evidence-Lead_31156318": {
     "description": "JOB DESCRIPTION:\n\nShape the Future of Healthcare with Abbott\n\nAbbott is a global healthcare leader dedicated to helping people live their best lives at every stage. Our portfolio spans life-changing technologies in diagnostics, medical devices, nutrition, and branded generic medicines. With 114,000 colleagues serving patients in 160+ countries, we are committed to advancing health worldwide.\n\nAre you passionate about driving evidence-based strategies that improve patient outcomes? At Abbott’s Established Pharmaceutical Division (EPD), we are looking for a Senior Manager in Health Economics & Outcomes Research to shape global initiatives that make a real impact.\nAbout the Role\n\nJoin us as a Sr Global HEOR & Payer Evidence Lead and help shape access to life-saving therapies in oncology and immunology. This is a unique opportunity to make a global impact while working in a collaborative, inclusive environment that values diverse perspectives.\nReporting to the Director, Global HEOR, you will lead strategic and hands-on initiatives across emerging markets (Latin America, Middle East, Asia-Pacific, China, Russia, India, and Africa). Your work will directly influence patient access and affordability, ensuring innovative treatments reach those who need them most.\n\nWhat You’ll Do\n\nLead with purpose: Oversee HEOR projects with external partners, ensuring scientific rigor and timely delivery.\n\nEmpower teams globally: Co-create country-level HEOR plans and mentor local professionals to build capabilities.\n\nDrive innovation: Adapt economic models and guide Real-World Evidence (RWE) studies to meet diverse market needs.\n\nCommunicate impact: Translate complex data into clear, compelling value stories for HTA submissions and payer negotiations.\n\nCollaborate across cultures: Work with cross-functional teams and external stakeholders to strengthen global access strategies.\n\nChampion visibility: Lead publication planning and represent HEOR at international congresses.\n\nAbout You\n\n8+ years’ experience in the biotech, pharma or healthcare sector (incl. consulting) with strong focus in Health Economics, Market Access, or related functions/fields\n\nExperience across multiple global regions, especially emerging markets\n\nDeep knowledge of healthcare system and evolving trends of the major HTA countries and Emerging countries\n\nStrong knowledge of health economic modeling and RWE.\n\nProven leadership in cross-functional or cross-country initiatives.\n\nAdvanced degree (MSc, PhD, PharmD, MPH) in health economics, public health, epidemiology, or related field.\n\nOncology and/or immunology experience preferred.\n\nPassion for improving patient access and affordability.\n\nWhat We Offer\n\nInclusive culture: We value diversity and encourage different perspectives to drive innovation.\n\nCareer growth: Leadership development, mentoring, and exposure to strategic decision-making.\n\nImpactful work: Contribute to therapies that change lives worldwide.\n\nDo you like the sound of this job and think you’ve got what it takes? Then send us your CV today. We look forward to receiving your application as pdf.\n\n(If you want to upload several documents, don`t save in between uploading them to be able to do so. Once you save your uploads, you will not be able to add more documents)\n\n     \nThe base pay for this position is N/A\nIn specific locations, the pay range may vary from the range posted.\n     \nJOB FAMILY:Market Access\n     \nDIVISION:EPD Established Pharma\n        \nLOCATION:Switzerland > Allschwil : H-127\n     \nADDITIONAL LOCATIONS:\n     \nWORK SHIFT:Standard\n     \nTRAVEL:Not specified\n     \nMEDICAL SURVEILLANCE:Not Applicable\n     \nSIGNIFICANT WORK ACTIVITIES:Not Applicable",
     "external_url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Switzerland---Basel/Sr-Global-HEOR---Payer-Evidence-Lead_31156318",
@@ -2419,7 +2380,7 @@
     "title": "Sr Global HEOR & Payer Evidence Lead",
     "company": "Abbott",
     "location": "Switzerland - Basel",
-    "posted_date": "",
+    "posted_date": "2026-07-15",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -2548,7 +2509,7 @@
     "title": "Staff Scientist - Spectral Cytometry Expert",
     "company": "Labcorp",
     "location": "CHE - Geneva - 7 rue Moise-Marcinhes",
-    "posted_date": "2026-07-17",
+    "posted_date": "",
     "department": "",
     "score": 8,
     "matched_keywords": [
@@ -2581,7 +2542,7 @@
     "title": "Scientific Consultant Assay Analytics",
     "company": "Danaher",
     "location": "Basel, Switzerland",
-    "posted_date": "2026-07-17",
+    "posted_date": "",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -2650,5 +2611,59 @@
       "assay development"
     ],
     "deducted_keywords": []
+  },
+  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000138257619": {
+    "description": "En votre qualité de médecin adjoint ou adjointe de l’unité de médecine et soins dans la communauté (UMSCOM), vous assistez le médecin adjoint responsable d’unité dans la réalisation et la supervision des activités cliniques, académiques et administratives.\nVous participez au bon fonctionnement de l'unité en aidant à coordonner et en collaborant avec l’équipe pluridisciplinaire, composée de médecins, d’assistants et assistantes sociales, d’infirmières et infirmiers et de secrétaires.\nVous êtes soucieux ou soucieuse d'offrir un cadre de travail dynamique et bienveillant en valorisant et en développant les compétences de votre équipe. Grâce à votre leadership, vous avez la capacité à fédérer votre équipe autour d'objectifs communs et à les impliquer dans des projets de développement, de recherche et institutionnels.\nVous contribuez à l'amélioration de la qualité des prestations de l'UMSCOM, en particulier de la prise en charge de la patientèle, au travers de propositions et d’initiatives personnelles validées par la direction.\nVous portez une ambition d’académisation de votre position et contribuez activement à la recherche scientifique dans le domaine de la santé des personnes désavantagées. Vous menez des projets d’études, publiez et développez l’expertise académique de votre unité. Vous participez à l’enseignement pré et postgradué, et collaborez étroitement avec la direction pour concevoir et dispenser des formations de qualité.\nEnfin, en tant que spécialiste de la prise en charge des patients et patientes précaires, vous représentez l’unité (UMSCOM), le service (SMPR) et le département (DMCPR) aussi bien à l’intérieur des HUG qu’envers tout interlocutrice ou interlocuteur externe.",
+    "external_url": "https://jobs.smartrecruiters.com/HUG/744000138257619-medecin-adjoint-ou-adjointe-a-l-unite-de-medecine-et-soins-dans-la-communaute-umscom-80-?oga=true",
+    "status": "matched"
+  },
+  "https://www.michaelpage.ch/de/job-detail/sales-project-manager-premium-retail-solutions-mwd/ref/jn-072026-7064752?lang=en": {
+    "external_url": "https://www.michaelpage.ch/de/job-detail/sales-project-manager-premium-retail-solutions-mwd/ref/jn-072026-7064752?lang=en",
+    "status": "matched",
+    "title": "Business Development & Project Manager - Schweizer Design Unternehmen",
+    "company": "Michael Page Switzerland",
+    "location": "Switzerland",
+    "posted_date": "",
+    "department": "",
+    "score": -2,
+    "matched_keywords": [],
+    "deducted_keywords": [
+      "location:Switzerland"
+    ]
+  },
+  "/job/Basel/Modelling-and-Simulations-Scientist---2-year-contract-_202605-111063-1": {
+    "description": "At Roche you can show up as yourself, embraced for the unique qualities you bring. Our culture encourages personal expression, open dialogue, and genuine connections,  where you are valued, accepted and respected for who you are, allowing you to thrive both personally and professionally. This is how we aim to prevent, stop and cure diseases and ensure everyone has access to healthcare today and for generations to come. Join Roche, where every voice matters.\n\nThe Position\nAt Roche, we believe it’s urgent to deliver medical solutions right now – even as we develop innovations for the future. We are passionate about transforming patients’ lives, and we are fearless in both decision and action. We commit ourselves to scientific rigor, unassailable ethics, and access to medical innovations for all.\n\nRoche Pharma Research and Early Development (pRED) translates extraordinary science into medical innovation through a diversity of technologies and talent. The translational Modelling and Simulation (tM&S) capability, part of the Predictive Modeling (PM) Chapter, aims to enhance understanding of disease biology and inform the selection of the right molecules for development.\n\nWe are looking for a scientist to support early research and development with mathematical modeling. This role requires a candidate with a strong mathematical background and a pragmatic approach to drug development. You will design innovative quantitative approaches to predict clinical efficacy and safety, integrating pharmacological and toxicological data to ensure the optimal conduct of clinical studies.\n\nThe Opportunity\n\nYour mission will be to conduct modelling and simulation activities at the project level through the development of quantitative physiology/mechanism-based and drug-disease models. You will:\n\nDevelop multi-scale models for PK, efficacy, and toxicology by integrating experimental data (in vitro, in vivo, and omics) and literature-based evidence.\n\nBuild complex quantitative systems pharmacology (QSP) models, such as mechanistic tumor-site interaction models for small molecules, to predict drug disposition and target attainment.\n\nApply mechanistic insights to characterize drug accumulation and PK/PD relationships, including the impact of lysosomal trapping and binding dynamics.\n\nExtend modeling frameworks to areas such as combination therapies, antibody drug conjugates and antibiotic PK/PD.\n\nDesign and deploy interactive tools, specifically using R and Shiny applications, to facilitate model exploration and guide internal decision-making.\n\nLeverage AI and Machine Learning to enhance predictive accuracy, automate data integration, and explore high-dimensional biological datasets.\n\nPerform rigorous parameter estimation through Bayesian methods and stochastic modeling techniques to extend deterministic frameworks.\n\nCommunicate results quickly and effectively to project teams and senior management, ensuring M&S activities align with overall project goals and Roche standards.\n\nWho you are\n\nA PhD-level degree in natural sciences, mathematics, physical sciences, or engineering is required.\n\nAdvanced programming skills in R and Python, with a proven ability to code quickly and with high rigor are required.\n\nExtensive experience in mechanistic modeling is required.\n\nA strong mathematical foundation applied to drug discovery, with the ability to put complex results into the perspective of the drug development process is required.\n\nAn independent thinker with high creativity and a track record of scientific excellence is required.\n\nStrong lead author history of publications and a history of effective scientific communication both inside and outside the company is required.\n\nInclusive mindset and the ability to interact effectively with pharmacology scientists, project leaders, and experimental collaborators.\n\nGrowth mindset characterized by curiosity and a willingness to learn and go beyond standard solutions and methods.\n\nWillingness to speak up, bring different perspectives, and lead consultants or outside collaborators effectively.\n\nProactive attitude that takes initiative, proposes solutions, and maintains a \"can-do\" approach to complex scientific challenges.\n\nIndependent thinker with a track record of scientific excellence and a strong lead author history of publications.\n\nThe next step is yours. To apply today, click on the \"Apply online\" button.\n \n \n\nWho we are\nA healthier future drives us to innovate. Together, more than 100’000 employees across the globe are dedicated to advance science, ensuring everyone has access to healthcare today and for generations to come. Our efforts result in more than 26 million people treated with our medicines and over 30 billion tests conducted using our Diagnostics products. We empower each other to explore new possibilities, foster creativity, and keep our ambitions high, so we can deliver life-changing healthcare solutions that make a global impact.\n\nLet’s build a healthier future, together.\n\nRoche is an Equal Opportunity Employer.",
+    "external_url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Modelling-and-Simulations-Scientist---2-year-contract-_202605-111063-1",
+    "status": "ignored",
+    "title": "Modelling and Simulations Scientist ( 2 year contract)",
+    "company": "Roche",
+    "location": "Basel",
+    "posted_date": "2026-07-17",
+    "department": "",
+    "score": 6,
+    "matched_keywords": [
+      "PhD",
+      "drug development",
+      "drug discovery",
+      "in vitro",
+      "in vivo",
+      "pharmacology"
+    ],
+    "deducted_keywords": []
+  },
+  "/job/Switzerland---Baar/Business-Development-Manager--m-w-d--Neuromodulation---Schweiz_31156326": {
+    "description": "JOB DESCRIPTION:\nAbbott ist ein weltweit führendes Unternehmen im Gesundheitswesen, das bahnbrechende wissenschaftliche Erkenntnisse nutzt und Lösungen zur Verbesserung der Gesundheit der Menschen entwickelt. Wir blicken stets in die Zukunft und antizipieren Veränderungen in der medizinischen Wissenschaft und Technologie. \n\nARBEITEN BEI ABBOTT \nBei Abbott finden Sie eine Aufgabe, die von Bedeutung ist, und können sich weiterentwickeln und lernen, für sich und Ihre Familie sorgen, sich selbst verwirklichen und ein erfülltes Leben führen. Abbott bietet Ihnen:  \n\nEntwicklungsmöglichkeiten in einem internationalen Unternehmen, in dem Sie die Karriere machen können, von der Sie träumen\n\nEine herausfordernde Position in einer schnell wachsenden krisenunabhängigen Branche \n\nTeil eines dynamischen, hochqualifizierten und motivierten Teams zu werden \n\nFlache Hierarchien, offene, wertschätzende Mentalität und effiziente, konstruktive Kommunikationswege\n\nEin multinationales Umfeld, in dem wir die Entwicklung unserer Talente innerhalb des Unternehmens fördern \n\nEin Unternehmen, das als eine der Best Big Companies to Work For anerkannt ist, sowie als bester Arbeitsplatz für Vielfalt, arbeitende Mütter, weibliche Führungskräfte und Wissenschaftler:innen sowie als Top Employer Deutschlands ausgezeichnet wurde\n\nUnser Neuromodulationsgeschäft umfasst implantierbare Geräte, die mit mobiler Technologie kompatibel sind, um Menschen zu helfen, die an chronischen Schmerzen und Bewegungsstörungen leiden. Diese nicht-opioiden Therapien ermöglichen es uns, Patienten während des gesamten Schmerzkontinuums eine interventionelle Schmerztherapie anzubieten.\n\nZur Verstärkung unseres Neuromodulation-Teams in der Schweiz suchen wir zum nächstmöglichen Zeitpunkt eine/n\n\nBusiness Development Manager (m/w/d) Neuromodulation – Schweiz\nhome-office based in der Schweiz\n\nIn dieser Position übernehmen Sie die Verantwortung für die Weiterentwicklung und Etablierung unserer Neuromodulationstherapien im Bereich Deep Brain Stimulation (DBS), Dorsal Root Ganglion (DRG) und Radiofrequenztherapie (RF) in der Schweiz. Gemeinsam mit Vertrieb, Clinical Specialists und Marketing entwickeln Sie nachhaltige Wachstumsstrategien, bauen ein starkes Netzwerk aus Key Opinion Leadern auf und sorgen für die erfolgreiche Umsetzung unserer Vertriebs- und Marktziele.\n\nAufgaben\nEntwicklung und Umsetzung von Markt- und Vertriebsstrategien zur erfolgreichen Positionierung von DBS-, DRG- und RF-Therapien in der Schweiz\nIdentifikation, Entwicklung und Ausbau strategischer Kundenaccounts zur Steigerung der Marktdurchdringung in DBS\nSegmentierung des Marktes sowie Priorisierung geeigneter Zielkunden in DBS &DRG in enger Zusammenarbeit mit Territory Managern, Clinical Specialists und Marketing\nAufbau, Pflege und Weiterentwicklung eines nationalen Key Opinion Leader (KOL)-Netzwerks im Bereich DBS &DRG\nVerantwortung für die Therapiestrategie im Bereich DRG sowie Initiierung und Leitung relevanter klinischer Kundenveranstaltungen, Workshops und Round Tables\nErstellung und Umsetzung individueller Account-Pläne zur Erreichung der Umsatz- und Wachstumsziele\nFunktion als nationale/r Trainer/in und fachliche/r Ansprechpartner/in für DRG- und RF-Therapien in der Schweiz\nUnterstützung europäischer Ausbildungs- und Schulungsaktivitäten im Bereich Neuromodulation\nSchulung und fachliche Begleitung von Vertriebsmitarbeitenden sowie Unterstützung von Ärztinnen, Ärzten und Pflegepersonal bei Implantationen und Follow-up-Terminen\nAnalyse von Markt-, Wettbewerbs- und Kundenentwicklungen zur Identifikation neuer Geschäftsmöglichkeiten und Wachstumsfelder\nDurchführung von Produktpräsentationen sowie Repräsentation des Unternehmens auf Kongressen, Fachveranstaltungen und Messen\nSicherstellung aktueller Fachkenntnisse zu Therapien, Produkten, klinischen Anwendungen, regulatorischen Anforderungen und Qualitätsstandards\nAktive Unterstützung von Marketingaktivitäten sowie regelmäßiges Reporting relevanter Markt- und Vertriebsinformationen an das Management\nFörderung einer engen und erfolgreichen Zusammenarbeit innerhalb des Vertriebs- und Funktionsübergreifenden Teams\n\nIhr Profil\nAbgeschlossenes Studium im medizinischen, naturwissenschaftlichen, technischen oder betriebswirtschaftlichen Bereich oder eine vergleichbare Qualifikation\nMindestens 5 Jahre erfolgreiche Vertriebserfahrung im Gesundheitswesen, idealerweise im Bereich Neuromodulation oder mit komplexen Medizinprodukten\nFundierte Erfahrung in der Geschäftsentwicklung sowie im Aufbau langfristiger Kunden- und Netzwerkbeziehungen\nAusgeprägtes Verständnis für Markt- und Wettbewerbsdynamiken im Medizintechnik- oder Neuromodulationsumfeld\nErfahrung im Umgang mit Key Opinion Leadern und klinischen Stakeholdern\nStarke kommerzielle Orientierung sowie ausgeprägte Fähigkeiten im Beziehungsmanagement\nÜberzeugende Präsentations- und Kommunikationsfähigkeiten sowohl in großen Gruppen als auch im persönlichen Austausch\nHervorragende schriftliche und mündliche Kommunikationsfähigkeiten\nSelbstständige, strukturierte und ergebnisorientierte Arbeitsweise mit hoher Eigeninitiative\nTeamorientierte Persönlichkeit mit professionellem und kundenorientiertem Auftreten\nVerhandlungssichere Deutsch- und Englischkenntnisse; Französischkenntnisse sind von Vorteil\nHohe Reisebereitschaft innerhalb der Schweiz\n\nHaben wir Ihr Interesse geweckt? Dann bewerben Sie sich bei uns.   \nWir freuen uns auf Sie! \n\nFolgen Sie Ihren Karrierezielen bei Abbott für vielfältige Möglichkeiten mit einem Unternehmen, das Ihnen helfen kann, Ihre Zukunft aufzubauen und Ihr bestes Leben zu führen. Abbott ist ein Arbeitgeber für Chancengleichheit, der sich der Vielfalt der Mitarbeiter verschrieben hat.\n\nWir bitten um Ihr Verständnis, dass wir ausschließlich Online-Bewerbungen über unser Online-Bewerbungsportal berücksichtigen. Bewerbungen per E-Mail oder per Post können nicht verarbeitet werden. Originalunterlagen werden nicht zurückgeschickt.   \n\nBleiben Sie in Kontakt über www.abbott.com, Facebook www.facebook.com/Abbott und X @AbbottNews and @AbbottGlobal. \n     \nThe base pay for this position is N/A\nIn specific locations, the pay range may vary from the range posted.\n     \nJOB FAMILY:Sales Force\n     \nDIVISION:NM Neuromodulation\n        \nLOCATION:Switzerland > Baar : Remote\n     \nADDITIONAL LOCATIONS:\n     \nWORK SHIFT:Standard\n     \nTRAVEL:Yes, 75 % of the Time\n     \nMEDICAL SURVEILLANCE:Not Applicable\n     \nSIGNIFICANT WORK ACTIVITIES:Not Applicable",
+    "external_url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Switzerland---Baar/Business-Development-Manager--m-w-d--Neuromodulation---Schweiz_31156326",
+    "status": "matched",
+    "title": "Business Development Manager (m/w/d) Neuromodulation – Schweiz",
+    "company": "Abbott",
+    "location": "Switzerland - Baar",
+    "posted_date": "2026-07-17",
+    "department": "",
+    "score": -2,
+    "matched_keywords": [],
+    "deducted_keywords": [
+      "location:Switzerland - Baar"
+    ]
   }
 }
