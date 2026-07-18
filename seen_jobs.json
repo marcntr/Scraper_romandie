@@ -2435,7 +2435,7 @@
   },
   "https://www.michaelpage.ch/job-detail/business-development-officer-not-profit/ref/jn-062026-7045477": {
     "external_url": "https://www.michaelpage.ch/job-detail/business-development-officer-not-profit/ref/jn-062026-7045477",
-    "status": "matched",
+    "status": "ignored",
     "title": "Business Development Officer - New Revenue & Digital Products (6-month contract)",
     "company": "Michael Page Switzerland",
     "location": "Switzerland",
@@ -2547,7 +2547,7 @@
   },
   "https://www.michaelpage.ch/job-detail/senior-portfolio-manager-multi-asset/ref/jn-062026-7048738": {
     "external_url": "https://www.michaelpage.ch/job-detail/senior-portfolio-manager-multi-asset/ref/jn-062026-7048738",
-    "status": "matched",
+    "status": "ignored",
     "title": "Senior Portfolio Manager - Multi Asset",
     "company": "Michael Page Switzerland",
     "location": "Switzerland",
@@ -2561,7 +2561,7 @@
   },
   "https://www.michaelpage.ch/fr/job-detail/business-development-lead-fnm/ref/jn-062026-7047374?lang=en": {
     "external_url": "https://www.michaelpage.ch/fr/job-detail/business-development-lead-fnm/ref/jn-062026-7047374?lang=en",
-    "status": "matched",
+    "status": "ignored",
     "title": "Business Development Lead (F/N/M) - AI-Powered Digital Solutions",
     "company": "Michael Page Switzerland",
     "location": "Switzerland",
@@ -2642,5 +2642,55 @@
     "deducted_keywords": [
       "location:Switzerland"
     ]
+  },
+  "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-senior-scientist-bcqc-lengnau-berne-880270/1": {
+    "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-senior-scientist-bcqc-lengnau-berne-880270/1",
+    "status": "matched",
+    "title": "Senior Scientist BCQC(m/f/d)",
+    "company": "Hays Switzerland",
+    "location": "Lengnau, Berne, Switzerland",
+    "posted_date": "",
+    "department": "",
+    "score": 0,
+    "matched_keywords": [],
+    "deducted_keywords": []
+  },
+  "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-analytical-project-leader-scientist-senior-scientist-basel-stadt-873611/1": {
+    "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-analytical-project-leader-scientist-senior-scientist-basel-stadt-873611/1",
+    "status": "matched",
+    "title": "Analytical Project Leader (Scientist / Senior Scientist)(m/f/d)",
+    "company": "Hays Switzerland",
+    "location": "Basel Stadt, Switzerland",
+    "posted_date": "",
+    "department": "",
+    "score": 0,
+    "matched_keywords": [],
+    "deducted_keywords": []
+  },
+  "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-vice-president-of-business-development-basel-land-873413/1": {
+    "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-vice-president-of-business-development-basel-land-873413/1",
+    "status": "matched",
+    "title": "Vice President of Business Development(m/f/d)",
+    "company": "Hays Switzerland",
+    "location": "Basel Land, Switzerland",
+    "posted_date": "",
+    "department": "",
+    "score": 0,
+    "matched_keywords": [],
+    "deducted_keywords": []
+  },
+  "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-scientist-lab-technician-assay-development-zug-873185/1": {
+    "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-scientist-lab-technician-assay-development-zug-873185/1",
+    "status": "matched",
+    "title": "Scientist Lab Technician Assay Development(m/f/d)",
+    "company": "Hays Switzerland",
+    "location": "Zug, Switzerland",
+    "posted_date": "",
+    "department": "",
+    "score": 1,
+    "matched_keywords": [
+      "assay development"
+    ],
+    "deducted_keywords": []
   }
 }
