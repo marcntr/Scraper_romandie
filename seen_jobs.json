@@ -623,7 +623,13 @@
     "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Associate-Scientist-in-Pharmaceutical-Development--Fixed--term-for-1-year-in-Basel-_202606-116269-2": "ignored",
     "https://jobs.smartrecruiters.com/CERN/744000136184834-detector-scientist-ep-atl-trk-2026-116-grap-?oga=true": "ignored",
     "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Principal-Real-World-Data-Scientist_202604-109153-1": "ignored",
-    "https://jobs.smartrecruiters.com/Sobi/744000133913042-pharmacovigilance-licensing-manager?oga=true": "ignored"
+    "https://jobs.smartrecruiters.com/Sobi/744000133913042-pharmacovigilance-licensing-manager?oga=true": "ignored",
+    "https://www.michaelpage.ch/de/job-detail/business-development-specialist-100/ref/jn-072026-7064010?lang=en": "ignored",
+    "https://www.michaelpage.ch/de/job-detail/sales-project-manager-premium-retail-solutions-mwd/ref/jn-072026-7064752?lang=en": "ignored",
+    "https://www.michaelpage.ch/job-detail/business-development-manager-dacheurope-mwd/ref/jn-062026-7035692": "ignored",
+    "https://www.michaelpage.ch/de/job-detail/junior-technical-sales-business-development-mwd/ref/jn-062026-7035709?lang=en": "ignored",
+    "https://www.michaelpage.ch/de/job-detail/sales-consultant-business-development-manager-mwd/ref/jn-072026-7057195?lang=en": "ignored",
+    "https://www.michaelpage.ch/job-detail/senior-regulatory-change-manager/ref/jn-072026-7058880": "ignored"
   },
   "_generic:Hurdle Bio": {
     "keywords": "npp"
@@ -867,7 +873,7 @@
     "title": "Clinical Scientist in neurosciences",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-06-20",
+    "posted_date": "2026-06-19",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1054,11 +1060,6 @@
     "external_url": "https://jobs.smartrecruiters.com/Sobi/744000134274779-indirect-sourcing-manager-fixed-term-12-months?oga=true",
     "status": "matched"
   },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000134435899": {
-    "description": "The Event Filter (EF) is part of the ATLAS Trigger and Data Acquisition (TDAQ) system and consists of a multi-threaded asynchronous processing farm of commodity servers (CPUs with or without accelerators) running a subset of offline-like reconstruction algorithms together with menu-driven event selection.\nThe high-luminosity conditions expected during Phase-II operations introduce significant challenges for object and event reconstruction algorithms planned for the EF, particularly for track reconstruction. The recent definition of the EF farm as a heterogeneous architecture combining CPUs and GPUs opens new opportunities for deploying machine learning models within the EF tracking workflow.\nYou will be part of the CERN ATLAS team and will contribute to research into the application of ML techniques for track reconstruction at the HL-LHC, with the goal of identifying and exploring the most promising approaches for deployment in the ATLAS EF tracking. The position is part of the Next Generation Trigger programme.\nYour responsibilities:\nConduct research on machine learning (ML) and AI-based approaches for track reconstruction, with a focus on the applicability and performance of these methods in the high pile-up environment of the HL-LHC.\nInvestigate and benchmark novel ML-based tracking algorithms and their integration into the ACTS-based EF tracking workflow.\nContribute to studies of both physics performance and computational performance of the different configurations under study.\nThis role includes team supervision responsibilities.\nYour profile:\nUnderstanding of tracking challenges in high track density environments, such as at the High-Luminosity LHC.\nExperience in the development and application of machine learning or deep learning methods in a physics or scientific computing context.\nHands-on experience in the development of offline and/or online reconstruction software.\nAbility to lead teams and define directions.\nSkills:\nMachine learning and deep learning frameworks.\nExperience with ML inference deployment.\nKnowledge of ML model training, evaluation, and optimisation, including hyperparameter tuning and performance benchmarking.\nProgramming languages: C++ and Python, including software development workflows (Git, Jira).\nExperience with large-scale scientific software frameworks (e.g. ACTS, Athena) is considered an asset.\nSpoken and written English, with a commitment to learn French.\nEligibility criteria:\nYou have a professional background in PhD in Particle Physics / CS (or a related field) and have either:\na Master's degree with 2 to 6 years of post-graduation professional experience;\nor a PhD with no more than 3 years of post-graduation professional experience.\nYou have never had a CERN fellow or graduate contract before.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000134435899-sw-developer-experimental-physicist-ep-atl-osw-2026-121-grap-?oga=true",
-    "status": "matched"
-  },
   "_generic:Numab Therapeutics": {
     "keywords": "npp"
   },
@@ -1116,7 +1117,7 @@
     "title": "R&D Scientist – Scientific Data Analytics (d/f/m)",
     "company": "Danaher",
     "location": "Basel, Switzerland",
-    "posted_date": "2026-06-24",
+    "posted_date": "2026-06-23",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1147,7 +1148,7 @@
     "title": "Senior Scientist QA Operations",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-06-30",
+    "posted_date": "2026-06-29",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -1208,7 +1209,7 @@
     "title": "Associate Scientist / Senior Laboratory Specialist",
     "company": "CSL Behring / Vifor",
     "location": "EMEA, CH, Kanton Bern, Bern, CSL Behring",
-    "posted_date": "2026-07-01",
+    "posted_date": "2026-06-30",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1240,7 +1241,7 @@
     "title": "In Vitro Bioanalysis Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-02",
+    "posted_date": "2026-07-01",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -1278,7 +1279,7 @@
     "title": "Principal Scientist si-RNA Design",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-02",
+    "posted_date": "2026-07-01",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1294,7 +1295,7 @@
     "title": "Mechanistic Immuno Tox Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-02",
+    "posted_date": "2026-07-01",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -1313,7 +1314,7 @@
     "title": "Investigative Toxicology Junior Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-02",
+    "posted_date": "2026-07-01",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -1337,7 +1338,7 @@
     "title": "Hematology and Safety Biomarker Expert",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-02",
+    "posted_date": "2026-07-01",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -1358,7 +1359,7 @@
     "title": "Internship Scientist Forensic Chemistry 6 months contract 80-100%",
     "company": "Lonza",
     "location": "CH - Basel",
-    "posted_date": "2026-07-02",
+    "posted_date": "2026-07-01",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1476,7 +1477,7 @@
     "title": "Senior Scientist Electronic Laboratory Systems",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-07-03",
+    "posted_date": "2026-07-02",
     "department": "",
     "score": -1,
     "matched_keywords": [
@@ -1637,7 +1638,7 @@
     "title": "Senior/Principal Scientist - NMR Expert",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-08",
+    "posted_date": "2026-07-07",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1653,7 +1654,7 @@
     "title": "Director, Corporate Strategy & Business Development",
     "company": "Alcon",
     "location": "Geneva, Switzerland",
-    "posted_date": "2026-07-08",
+    "posted_date": "2026-07-07",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -1824,7 +1825,7 @@
     "title": "Principal Operations AI Data Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-11",
+    "posted_date": "2026-07-10",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1862,7 +1863,7 @@
     "title": "Director - Immunology Therapeutic Area Biomarker Lead (TABL)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-06-24",
+    "posted_date": "2026-06-23",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -1909,7 +1910,7 @@
     "title": "Senior Specialist Data Science, AI & Quantum",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-06-24",
+    "posted_date": "2026-06-23",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1924,7 +1925,7 @@
     "title": "Expert Analytical Scientist (m/f/d)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-07-07",
+    "posted_date": "2026-07-06",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1939,7 +1940,7 @@
     "title": "Patent Attorney",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-07-07",
+    "posted_date": "2026-07-06",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1952,7 +1953,7 @@
     "title": "Senior Principal Scientist - Proteomics",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-07-10",
+    "posted_date": "2026-07-09",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -1972,7 +1973,7 @@
     "title": "Senior Expert / Senior Principal PKS Data Scientist & Scientific Software Engineer (Dual level posting)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-07-01",
+    "posted_date": "2026-06-30",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -1995,7 +1996,7 @@
     "title": "Director, Therapeutic Area Biomarker Lead (Neuroscience)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-07-10",
+    "posted_date": "2026-07-09",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -2033,7 +2034,7 @@
     "title": "Technical R&D Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-14",
+    "posted_date": "2026-07-13",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -2046,7 +2047,7 @@
     "title": "Head Clinical Development AI & Technology",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-07-14",
+    "posted_date": "2026-07-13",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -2107,7 +2108,7 @@
     "title": "Post Doctoral Scientist (m/w/d)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-15",
+    "posted_date": "2026-07-14",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -2134,7 +2135,7 @@
     "title": "Internship in the PD Medical Affairs Nucleus Team - Service Solutions & Innovation (SSI) - as of 1 January 2027 for 12 months in Basel",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-15",
+    "posted_date": "2026-07-14",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2184,7 +2185,7 @@
     "title": "Director, Medical Affairs",
     "company": "Gilead Sciences",
     "location": "Switzerland - Zug",
-    "posted_date": "2026-07-16",
+    "posted_date": "2026-07-15",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2229,7 +2230,7 @@
     "title": "Sr Global HEOR & Payer Evidence Lead",
     "company": "Abbott",
     "location": "Switzerland - Basel",
-    "posted_date": "2026-07-16",
+    "posted_date": "2026-07-15",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -2343,7 +2344,7 @@
     "title": "Staff Scientist - Spectral Cytometry Expert",
     "company": "Labcorp",
     "location": "CHE - Geneva - 7 rue Moise-Marcinhes",
-    "posted_date": "",
+    "posted_date": "2026-07-16",
     "department": "",
     "score": 8,
     "matched_keywords": [
@@ -2427,7 +2428,7 @@
     "title": "Modelling and Simulations Scientist ( 2 year contract)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-18",
+    "posted_date": "",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -2447,7 +2448,7 @@
     "title": "Business Development Manager (m/w/d) Neuromodulation – Schweiz",
     "company": "Abbott",
     "location": "Switzerland - Baar",
-    "posted_date": "2026-07-18",
+    "posted_date": "",
     "department": "",
     "score": -2,
     "matched_keywords": [],
