@@ -735,34 +735,6 @@
   "_generic:CDD Vault": {
     "keywords": "npp"
   },
-  "https://www.michaelpage.ch/job-detail/business-development-manager-dacheurope-mwd/ref/jn-062026-7035692": {
-    "external_url": "https://www.michaelpage.ch/job-detail/business-development-manager-dacheurope-mwd/ref/jn-062026-7035692",
-    "status": "ignored",
-    "title": "Business Development Manager DACH / Europe (m/w/d)",
-    "company": "Michael Page Switzerland",
-    "location": "Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": -2,
-    "matched_keywords": [],
-    "deducted_keywords": [
-      "location:Switzerland"
-    ]
-  },
-  "https://www.michaelpage.ch/de/job-detail/junior-technical-sales-business-development-mwd/ref/jn-062026-7035709?lang=en": {
-    "external_url": "https://www.michaelpage.ch/de/job-detail/junior-technical-sales-business-development-mwd/ref/jn-062026-7035709?lang=en",
-    "status": "ignored",
-    "title": "(Junior) Technical Sales / Business Development (m/w/d)",
-    "company": "Michael Page Switzerland",
-    "location": "Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": -2,
-    "matched_keywords": [],
-    "deducted_keywords": [
-      "location:Switzerland"
-    ]
-  },
   "https://api.smartrecruiters.com/v1/companies/Sobi/postings/744000131421024": {
     "description": "The Medicine Development Leader (MDL) has the overall accountability for developing, driving and representing the clinical development strategy for the nephrology program within the Core Asset Team (CAT), including benefit/risk evaluation, pharmacovigilance (PV) and safety. The MDL leads the Medicine Development Team (MDT) and assures, in close collaboration with the TA head, the appropriate communication flow between the CAT, the MDT and other associated teams (e.g. the Study Team).\nKey Responsibilities\nDrives the clinical development strategy for the assigned compound(s) across the medicine lifecycle, from proof of concept to successful global regulatory approval(s)/market access for multiple treatment indications.\nProvides clinical and scientific expertise to set and execute the asset strategy and optimize project success.\nWorks with functional members, TA head and CAT Leaders to develop Integrated Project Plans (IPP) documents.\nIdentifies risks for the program with other functions and develops mitigation strategies to address them.\nPresents the nephrology clinical program to internal (including the CEO and the Executive Committee of the Organisation) and external stakeholders (Health Authorities, Steering Committees, Independent Data Monitoring Committees, and Patient Organisations etc), engages when necessary with Key Opinion Leaders across geographies.\nIs a core member of the benefit risk team (BRT), of regulatory submission teams and of the labeling working group.\nEnsures endorsement of clinical development plans and study documents by Sobi governance bodies (e.g. Sobi Evidence Generation Board, Study Document Review Forum).\nLeads in a matrix the clinical scientists and the Medicine Development Team (consists of representatives from Medical Affairs, Clinical Science, Regulatory, Safety/PV, non-clinical/PK, Biostatistics/Data management, Clinical Program Management, Heath Economics and Outcome Research, RWE, Program Management), providing strategic guidance and being the ultimate accountable for:\nClinical trial design (clinical study synopsis and protocol development), planning (e.g. sites and countries selection), execution (e.g.medical monitoring, resolution of safety issues; interpretation of statistical analyses) and internal and external communication of study results\nCreation of clinical components of key documents (Clinical Development Plans, Clinical Study Protocols, Investigator’s Brochures, Clinical Study Reports, regulatory documents including maintenance of product licenses, Clinical Modules of registration dossiers, Briefing Books for interactions with Health Authorities) with high quality and consistency with the Integrated Project Plan and Target Product Profile.\nProvision of required input on clinical efficacy, safety, dosing/administration, mechanism of action, etc for the Target Product Profile (TPP)\nSupport to registration and market access (Core Data Sheet, Development Safety Update Report, Periodic Safety Update Report, clinical benefit-risk assessment) o Collaboration with Regulatory team to determine international submission strategy",
     "external_url": "https://jobs.smartrecruiters.com/Sobi/744000131421024-senior-director-medicine-development-leader?oga=true",
@@ -895,7 +867,7 @@
     "title": "Clinical Scientist in neurosciences",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-06-19",
+    "posted_date": "2026-06-20",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -911,7 +883,7 @@
     "title": "Scientist, Pharmaceutical Development & Data Analytics _2 years temporary contract",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-06-17",
+    "posted_date": "2026-06-18",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -926,7 +898,7 @@
     "title": "Technical Expert Portfolio Mgmt, Technical Feasibility and Planning",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-06-17",
+    "posted_date": "2026-06-18",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -939,7 +911,7 @@
     "title": "Sr. Scientist - Computational Biology - Neuroscience & Rare Diseases",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-06-17",
+    "posted_date": "2026-06-18",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -1268,7 +1240,7 @@
     "title": "In Vitro Bioanalysis Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-01",
+    "posted_date": "2026-07-02",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -1306,7 +1278,7 @@
     "title": "Principal Scientist si-RNA Design",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-01",
+    "posted_date": "2026-07-02",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1322,7 +1294,7 @@
     "title": "Mechanistic Immuno Tox Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-01",
+    "posted_date": "2026-07-02",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -1341,7 +1313,7 @@
     "title": "Investigative Toxicology Junior Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-01",
+    "posted_date": "2026-07-02",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -1365,7 +1337,7 @@
     "title": "Hematology and Safety Biomarker Expert",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-01",
+    "posted_date": "2026-07-02",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -1658,20 +1630,6 @@
     "external_url": "https://jobs.smartrecruiters.com/HUG/744000136232630-chef-ou-cheffe-de-clinique-avec-titre-de-specialite-pour-une-specialisation-rachis-100-?oga=true",
     "status": "matched"
   },
-  "https://www.michaelpage.ch/de/job-detail/sales-consultant-business-development-manager-mwd/ref/jn-072026-7057195?lang=en": {
-    "external_url": "https://www.michaelpage.ch/de/job-detail/sales-consultant-business-development-manager-mwd/ref/jn-072026-7057195?lang=en",
-    "status": "ignored",
-    "title": "(Senior) Sales Consultant / Business Development Manager (m/w/d)",
-    "company": "Michael Page Switzerland",
-    "location": "Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": -2,
-    "matched_keywords": [],
-    "deducted_keywords": [
-      "location:Switzerland"
-    ]
-  },
   "/job/Basel/Senior-Principal-Scientist---NMR-Expert_202607-117312": {
     "description": "At Roche you can show up as yourself, embraced for the unique qualities you bring. Our culture encourages personal expression, open dialogue, and genuine connections,  where you are valued, accepted and respected for who you are, allowing you to thrive both personally and professionally. This is how we aim to prevent, stop and cure diseases and ensure everyone has access to healthcare today and for generations to come. Join Roche, where every voice matters.\n\nThe Position\n\nNMR Expert in pRED-pCMC Analytical Chemistry\n\nIn Roche’s Pharmaceutical Research and Early Development organization (pRED), we make transformative medicines for patients in order to tackle some of the world’s toughest unmet healthcare needs. At pRED, we are united by our mission to transform science into medicine. Together, we create a culture defined by curiosity, responsibility and humility, where our talented people are empowered and inspired to bring forward extraordinary life-changing innovation at speed.\nThis role is situated within the preclinical Chemistry, Manufacturing, and Controls (pCMC) department, part of the Small Molecule Research organization in pRED Therapeutic Modalities (TMo). We pave the path for drug candidates from early research to development in a diverse, ambitious, and innovative environment. Collaborating actively with our discovery and development partners, we leverage cutting-edge technologies and scientific excellence to transform molecules into future medicines. As CMC experts, we bring a rich diversity of technical expertise in chemistry, formulation design, material science, and analytical chemistry, pioneering advancements in small molecules, peptides, and nucleic acid-based medicines.\n\nThe Opportunity\n\nWe are offering a unique opportunity for a hands-on NMR Expert in our Analytical Molecular Characterization group. As a Centre of Excellence for Analytics, we provide state-of-the-art methods and services for determining chemical structures, purities, and impurities, supporting portfolio projects throughout the entire value chain. In this role you plan, run and report NMR experiments for structure elucidation and inter- and intra-molecular interaction studies.\n\nInnovative Analytics: By applying cutting-edge analytics you support synthesis and formulation development enabling fast progress for projects, and identification of possible challenges.\n\nMethod Development: You develop and implement new NMR experiments and give input for future developments of our NMR group.\n\nScientific Excellence: You enhance scientific excellence by identifying relevant industry trends, and building and maintaining academic partnerships. \n\nStrategic Vision: You contribute deep scientific insights to shape the mid- and long-term strategy for NMR within the Roche portfolio. Working alongside the NMR group and the Leadership Team, you guide the translation of your strategic input into actionable team strategies. \n\nCollaboration and Relationship Building: You foster trustful relationships and effective collaboration with internal discovery and technical development teams as well as with external partners.\n\nWho You Are\n\nEducational Background: Masters with a minimum of 5 years or PhD in analytical chemistry or related fields with a minimum of 3 years of professional experience in the industry.\n\nTechnical Expertise: Comprehensive knowledge of NMR analytics and its applications paired with a deep understanding of the technical and theoretical basis beyond the standard experiments for liquid and solid state NMR. Experience with other methods for biophysical characterization is a plus.\n\nProven Experience: Hands on expertise in structure elucidation and interaction studies by NMR for synthetic oligonucleotides and/or peptides. Demonstrated expertise on higher order structure studies and aggregation studies.\n\nMindset: You possess an open-minded and highly proactive, \"just-do-it\" approach. You enjoy problem-solving and developing new ways of working. You comfortably navigate working in a multidisciplinary matrix team.\n\nIf you are an expert in NMR and enjoy being a part of an innovative and impact oriented team, we would love to hear from you.\n \n \n\nWho we are\nA healthier future drives us to innovate. Together, more than 100’000 employees across the globe are dedicated to advance science, ensuring everyone has access to healthcare today and for generations to come. Our efforts result in more than 26 million people treated with our medicines and over 30 billion tests conducted using our Diagnostics products. We empower each other to explore new possibilities, foster creativity, and keep our ambitions high, so we can deliver life-changing healthcare solutions that make a global impact.\n\nLet’s build a healthier future, together.\n\nRoche is an Equal Opportunity Employer.",
     "external_url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Senior-Principal-Scientist---NMR-Expert_202607-117312",
@@ -1679,7 +1637,7 @@
     "title": "Senior/Principal Scientist - NMR Expert",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-07",
+    "posted_date": "2026-07-08",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1866,81 +1824,11 @@
     "title": "Principal Operations AI Data Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-10",
+    "posted_date": "2026-07-11",
     "department": "",
     "score": 0,
     "matched_keywords": [],
     "deducted_keywords": []
-  },
-  "https://www.michaelpage.ch/job-detail/senior-regulatory-change-manager/ref/jn-072026-7058880": {
-    "external_url": "https://www.michaelpage.ch/job-detail/senior-regulatory-change-manager/ref/jn-072026-7058880",
-    "status": "ignored",
-    "title": "Senior Regulatory Change Manager",
-    "company": "Michael Page Switzerland",
-    "location": "Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": -2,
-    "matched_keywords": [],
-    "deducted_keywords": [
-      "location:Switzerland"
-    ]
-  },
-  "https://www.michaelpage.ch/de/job-detail/business-development-specialist-100/ref/jn-032026-6968386?lang=en": {
-    "external_url": "https://www.michaelpage.ch/de/job-detail/business-development-specialist-100/ref/jn-032026-6968386?lang=en",
-    "status": "ignored",
-    "title": "Business Development Specialist (a) 100%",
-    "company": "Michael Page Switzerland",
-    "location": "Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": -2,
-    "matched_keywords": [],
-    "deducted_keywords": [
-      "location:Switzerland"
-    ]
-  },
-  "https://www.michaelpage.ch/job-detail/fund-portfolio-coordinator-9-months/ref/jn-042026-6999523": {
-    "external_url": "https://www.michaelpage.ch/job-detail/fund-portfolio-coordinator-9-months/ref/jn-042026-6999523",
-    "status": "ignored",
-    "title": "Fund Portfolio Coordinator for 9 months",
-    "company": "Michael Page Switzerland",
-    "location": "Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": -2,
-    "matched_keywords": [],
-    "deducted_keywords": [
-      "location:Switzerland"
-    ]
-  },
-  "https://www.michaelpage.ch/job-detail/sp%C3%A9cialiste-middle-office-portfolio-management-1-mois/ref/jn-052026-7018018": {
-    "external_url": "https://www.michaelpage.ch/job-detail/sp%C3%A9cialiste-middle-office-portfolio-management-1-mois/ref/jn-052026-7018018",
-    "status": "ignored",
-    "title": "Spécialiste Middle Office / Portfolio Management - Mission Temporaire",
-    "company": "Michael Page Switzerland",
-    "location": "Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": -2,
-    "matched_keywords": [],
-    "deducted_keywords": [
-      "location:Switzerland"
-    ]
-  },
-  "https://www.michaelpage.ch/de/job-detail/product-business-development-manager/ref/jn-032026-6970319?lang=en": {
-    "external_url": "https://www.michaelpage.ch/de/job-detail/product-business-development-manager/ref/jn-032026-6970319?lang=en",
-    "status": "ignored",
-    "title": "Product & Business Development Manager",
-    "company": "Michael Page Switzerland",
-    "location": "Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": -2,
-    "matched_keywords": [],
-    "deducted_keywords": [
-      "location:Switzerland"
-    ]
   },
   "/job/Basel-City/Medical-Director--Gastroenterology--Early-Clinical-Development_REQ-10076205-1": {
     "description": "Job Description Summary#LI-Hybrid\nInternal job title: Director\nLocation: Basel, Switzerland\n\nTranslational Medicine Discovery & Profiling (TMDP) is a group of physicians and clinical researchers who drive innovative science from discovery to the patient through the selection, profiling, and early clinical development of medicines. Medical directors oversee phase 1 first-in-human (FiH) and phase 2 proof-of-concept (PoC) and dose range finding (DRF) studies in support for Phase 3 development. Medical directors in translational medicine are key and highly visible members of global cross-functional project teams that design and implement early research and discovery projects. Medical directors in translational medicine collaborate with colleagues in biology and chemistry to identify targets in diseases with significant unmet medical needs and provide input on likely clinical development pathways, design clinical development plans in collaboration with late phase development, draft clinical trial protocols and serve as medical leads for these trials. As a Medical Director in Translational Medicine Gastroenterology, you will report to the TM Head.\n\n \nJob Description\nKey Responsibilities: \nLead global clinical trial teams through phase 1 and 2 development\nDraft the early clinical development plan\nAct as medical lead for early clinical studies\nRepresent the team in relevant decision boards\nServe a primary contact for internal and external key opinion leaders\nOversee publication and internal/external presentation of clinical study results\nWork closely with biomarker experts in implementation\nCollaborate with research scientists to identify, develop and implement strategy for preclinical support of program related objectives\nActively participate in Health Authority interactions\n\nEssential Requirements: \nMedical doctor with board certification in gastroenterology.\nSeveral years of clinical experience treating IBD (UC and CD) patients.\nAbility to learn fast and work independently\nAbility to lead multidisciplinary teams in a matrix organization.\nExcellent communication and presentation skills\n\nDesirable Requirements:\nResearch experience (e.g., Ph.D.) is a plus but not a strict requirement\nDrug development experience as trial investigator or pharma experience are a plus but not strict requirements.\nPublications in the field of IBD are a plus but not a strict requirement\n\nAccessibility and Accommodation:\nNovartis is committed to working with and providing reasonable accommodation to all individuals. If, because of a medical condition or disability, you need a reasonable accommodation for any part of the recruitment process, or in order to receive more detailed information about the essential functions of a position, please send an e-mail to inclusion.switzerland@novartis.com and let us know the nature of your request and your contact information. Please include the job requisition number in your message.\n\n \nSkills DesiredActive Directory, Artificial Intelligence (AI), Biostatistics, Classification Systems, Clinical Pharmacology, Critical Thinking, Customer Satisfaction, Drug Discovery, Electronic Components, Lifesciences, Medical Research, Modeling And Simulation, Patient Care, Personalized Medicine, Sales, Selling Skills, Translational Medicine",
@@ -1949,7 +1837,7 @@
     "title": "Medical Director, Gastroenterology, Early Clinical Development",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-06-17",
+    "posted_date": "2026-06-18",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -1974,7 +1862,7 @@
     "title": "Director - Immunology Therapeutic Area Biomarker Lead (TABL)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-06-23",
+    "posted_date": "2026-06-24",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -1998,7 +1886,7 @@
     "title": "Translational Medicine Expert – Dermatology, Associate Director",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-06-17",
+    "posted_date": "2026-06-18",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -2021,7 +1909,7 @@
     "title": "Senior Specialist Data Science, AI & Quantum",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-06-23",
+    "posted_date": "2026-06-24",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2036,7 +1924,7 @@
     "title": "Expert Analytical Scientist (m/f/d)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-07-06",
+    "posted_date": "2026-07-07",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2051,7 +1939,7 @@
     "title": "Patent Attorney",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-07-06",
+    "posted_date": "2026-07-07",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -2064,7 +1952,7 @@
     "title": "Senior Principal Scientist - Proteomics",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-07-09",
+    "posted_date": "2026-07-10",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -2084,7 +1972,7 @@
     "title": "Senior Expert / Senior Principal PKS Data Scientist & Scientific Software Engineer (Dual level posting)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-06-30",
+    "posted_date": "2026-07-01",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -2107,7 +1995,7 @@
     "title": "Director, Therapeutic Area Biomarker Lead (Neuroscience)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-07-09",
+    "posted_date": "2026-07-10",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -2145,7 +2033,7 @@
     "title": "Technical R&D Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-13",
+    "posted_date": "2026-07-14",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -2158,7 +2046,7 @@
     "title": "Head Clinical Development AI & Technology",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-07-13",
+    "posted_date": "2026-07-14",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -2219,7 +2107,7 @@
     "title": "Post Doctoral Scientist (m/w/d)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-14",
+    "posted_date": "2026-07-15",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -2246,7 +2134,7 @@
     "title": "Internship in the PD Medical Affairs Nucleus Team - Service Solutions & Innovation (SSI) - as of 1 January 2027 for 12 months in Basel",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-14",
+    "posted_date": "2026-07-15",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2289,20 +2177,6 @@
     "external_url": "https://jobs.smartrecruiters.com/HUG/744000137853029-pharmacien-ou-pharmacienne-interne-50-a-60-?oga=true",
     "status": "matched"
   },
-  "https://www.michaelpage.ch/fr/job-detail/junior-portfolio-manager-investissement-immobilier-hf/ref/jn-062026-7030669?lang=en": {
-    "external_url": "https://www.michaelpage.ch/fr/job-detail/junior-portfolio-manager-investissement-immobilier-hf/ref/jn-062026-7030669?lang=en",
-    "status": "ignored",
-    "title": "Junior Portfolio Manager - Investissement immobilier (H/F)",
-    "company": "Michael Page Switzerland",
-    "location": "Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": -2,
-    "matched_keywords": [],
-    "deducted_keywords": [
-      "location:Switzerland"
-    ]
-  },
   "/job/Switzerland---Zug/Director--Medical-Affairs_R0051289-1": {
     "description": "At Gilead, we’re creating a healthier world for all people. For more than 35 years, we’ve tackled diseases such as HIV, viral hepatitis, COVID-19 and cancer – working relentlessly to develop therapies that help improve lives and to ensure access to these therapies across the globe. We continue to fight against the world’s biggest health challenges, and our mission requires collaboration, determination and a relentless drive to make a difference.\n \nEvery member of Gilead’s team plays a critical role in the discovery and development of life-changing scientific innovations. Our employees are our greatest asset as we work to achieve our bold ambitions, and we’re looking for the next wave of passionate and ambitious people ready to make a direct impact.\n \nWe believe every employee deserves a great leader. People Leaders are the cornerstone to the employee experience at Gilead and Kite. As a people leader now or in the future, you are the key driver in evolving our culture and creating an environment where every employee feels included, developed and empowered to fulfil their aspirations. Join Gilead and help create possible, together.\n\nJob Description\n \nThe Country Medical Director (CMD) has office-based responsibilities combined with in-field  coaching activities as well as key stakeholders’ engagement activities when necessary. This role has oversight the Country Medical Affairs strategic plans and follow-up through its cross-functional execution with a focus on performance and stakeholders’ engagement. The incumbent will lead a team of medical leads.  It reports directly to the Executive Midsize Markets Medical Director.\n\nThe CMD is responsible for ensuring Gilead’s medical affairs activities comply with pharmaceutical regulations and laws and providing expertise on drug safety and medical topics, and to ensure accuracy of data to support existing products commercialization or new product launches.\nAs a member of the Country Leadership team the CMD will contribute to deliver the country budget and OPEX in addition to provide strategic leadership of the country organization\n\nDedicates a significant percentage of time to develop and follow on the execution of the Medical Affairs strategic plan. Field activities include team coaching and stakeholders’ engagement to establish strategic relationship with opinion leaders, payers, clinical investigators, providers at academic and non-academic settings and relevant non-governmental organizations\n\nThrough the team the CMD is responsible for:\n\nEstablishing and maintaining appropriate scientific interactions with TA experts/opinion leaders (OLs). Maintains a country OL (opinion leaders) list and updates it twice yearly.  \n\nDriving discussions and projects with the aim to integrate scientific data in clinical decision making for the benefit of patients\n\nIdentification and collaboration with local experts on local data generation activities\n\nAssisting with pipeline activities and liaises with Clin Ops. May assist site selection for both Phase IV and other clinical trials. Works on Gilead Phase IV program that includes collaboration with investigators and internal Gilead personnel. medical engagement plan for participation in scientific conferences and for the discussion of key scientific data with HCPs/stakeholders\n\nEngaging health care providers in one-on-one scientific interactions, supports medical responses by having scientific discussions or attending medical meetings and provides scientific data to opinion leaders. \n\nResponding to medical information inquiries on marketed or developmental Gilead products.\n\nGenerating and communicating insights as a result of field interactions: identification of data gaps; customer needs and wants; patients’ needs and wants and knowledge gaps.\n\nAssisting physician driven compassionate use or early access requests for Gilead products.\n\nThe CMD may represent the company to various groups of experts, medical professional groups, scientific societies, regulatory, payer groups or patient organizations at local and international scientific meetings (examples may include presentation of key scientific data to payers and clinical guideline committees)\n\nResponsibilities\n\nOversight the development and the execution of the medical plan of action (POA) in line with global strategic planning and contributes to the local affiliate brand/ cross-functional POA. Develops and executes projects and tactics according to the national strategic plan.\n\nOversight the medical affairs team quantitative and qualitative performance \n\nCoach and support the development of the team competencies and capabilities\n\nOversight the Review and approval of the medical content of Gilead organized medical education events and promotional and non-promotional activities of the TA.  Gives input in promotional material. Ensures appropriate medical quality of promotional materials and activities within approval process. \n\nWorking collaboratively and cross-functionally with Gilead personnel from all relevant local and global functions\n\nClose collaboration with the regional and global medical team. Active participation in relevant medical meetings and teleconferences.\n\nParticipation in required training initiatives that includes therapeutic area training as well as internal trainings on standard operating procedures and regulations\n\nSupporting the development of local clinical data through clinical trials, investigator sponsored research (ISRs) and local sponsored studies (LSS).\n\nScientific input in HTA (Health Technology Assessment) dossiers and payer negotiations\n\nDesigning and implementing Gilead medical education events on relevant therapeutic areas and medicine. \n\nAnalysing trial data and providing interpretation to marketing and sales departments.\n\nRequirements\n\nProfessional Training\n\n  Degree in Medicine is required\n\nExperience\n\nRelevant experience must include in pharmaceutical industry. This must include significant experience in a country affiliate.\n\nProven experience of people management\n\nExperience within therapeutic area of interest is desirable\n\nSkills & Knowledge\n\nBusiness and scientific acumen\n\nPeople management and leadership\n\nGrowth mindset and proven track record in performance management\n\nHigh willingness for continuous training and personal development\n\nTeam worker showing high social skills including conflict management\n\nProven ability to support cross functional teams in a medical role.\n\nExcellent verbal, written and interpersonal communication skills including active listening\n\nStrategic thinking and open mindset\n\nAbility to build and maintain sound relationships with external and internal stakeholders\n\nAbility of transferring complex scientific/medical data into understandable medical communication and education\n\nKnowledge and adherence to external and company-related regulations\n\nExcellent communication, presentation and negotiation skills are required along with the ability to provide clear and concise analysis of quantitative and qualitative concepts\n\nGood negotiation skills\n\nKnowledge in project management\n\nIn-depth knowledge of the respective therapeutic area, the national healthcare system and the medical environment\n\nBusiness fluency in English and one of the local languages\n\nComputer literacy\n\nHigh willingness to travel\n\n \nEqual Employment Opportunity (EEO)\nIt is the policy of Gilead Sciences, Inc. and its subsidiaries and affiliates (collectively \"Gilead\" or the \"Company\") to recruit select and employ the most qualified persons available for positions throughout the Company.  Except if otherwise provided by applicable law, all  employment actions relating to issues such as compensation, benefits, transfers, layoffs, returns from layoffs, company-sponsored training, education assistance, social and recreational programs are administered on a non-discriminatory basis (i.e. without regard to protected characteristics or prohibited grounds, which may include an individual’s gender, race, co",
     "external_url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/Switzerland---Zug/Director--Medical-Affairs_R0051289-1",
@@ -2310,7 +2184,7 @@
     "title": "Director, Medical Affairs",
     "company": "Gilead Sciences",
     "location": "Switzerland - Zug",
-    "posted_date": "2026-07-15",
+    "posted_date": "2026-07-16",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2355,7 +2229,7 @@
     "title": "Sr Global HEOR & Payer Evidence Lead",
     "company": "Abbott",
     "location": "Switzerland - Basel",
-    "posted_date": "2026-07-15",
+    "posted_date": "2026-07-16",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -2481,20 +2355,6 @@
     ],
     "deducted_keywords": []
   },
-  "https://www.michaelpage.ch/de/job-detail/business-development-specialist-100/ref/jn-072026-7064010?lang=en": {
-    "external_url": "https://www.michaelpage.ch/de/job-detail/business-development-specialist-100/ref/jn-072026-7064010?lang=en",
-    "status": "ignored",
-    "title": "Business Development Specialist (a) 100%",
-    "company": "Michael Page Switzerland",
-    "location": "Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": -2,
-    "matched_keywords": [],
-    "deducted_keywords": [
-      "location:Switzerland"
-    ]
-  },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000138106526": {
     "description": "Introduction\nAs Business Continuity Lead, you will play a central role in strengthening CERN’s organisational resilience by leading and coordinating business continuity activities across the Organization.\nWorking in the Improvement, Continuity and Sustainability (OSI-ICS) Group within the Organisational Support and Improvement (OSI) Department, you will contribute to the consolidation of CERN’s approach to risk management, crisis preparedness and business continuity within an integrated governance framework.\nFunctions\nDevelop, implement and maintain CERN’s Business Continuity Management (BCM) framework, in alignment with CERN policies, international standards and good practice.\nFacilitate and coordinate the identification and analysis of critical activities, dependencies, vulnerabilities and recovery requirements together with process and service owners.\nCoordinate and support the development of Business Continuity Plans (BCPs) and disaster recovery arrangements across departments and functions.\nContribute to the integration of business continuity management with CERN's enterprise risk management and crisis management activities.\nDesign, organise and lead continuity exercises, simulations and stress tests; analyse outcomes and drive continuous improvement.\nProvide expert advice to management and stakeholders on continuity strategies, disruption preparedness, recovery capabilities and resilience measures.\nDevelop guidance, methodologies, tools and training to build business continuity awareness, culture and capabilities across CERN.\nMonitor, review and report on the effectiveness of business continuity arrangements and maturity.\nContribute to organisational resilience initiatives and continuous improvement activities within OSI-ICS.\nSuch other tasks as required for fulfilment of the Business Continuity Lead function.",
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000138106526-business-continuity-lead-osi-ics-2026-154-ld-?oga=true",
@@ -2560,20 +2420,6 @@
     "external_url": "https://jobs.smartrecruiters.com/HUG/744000138257619-medecin-adjoint-ou-adjointe-a-l-unite-de-medecine-et-soins-dans-la-communaute-umscom-80-?oga=true",
     "status": "matched"
   },
-  "https://www.michaelpage.ch/de/job-detail/sales-project-manager-premium-retail-solutions-mwd/ref/jn-072026-7064752?lang=en": {
-    "external_url": "https://www.michaelpage.ch/de/job-detail/sales-project-manager-premium-retail-solutions-mwd/ref/jn-072026-7064752?lang=en",
-    "status": "ignored",
-    "title": "Business Development & Project Manager - Schweizer Design Unternehmen",
-    "company": "Michael Page Switzerland",
-    "location": "Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": -2,
-    "matched_keywords": [],
-    "deducted_keywords": [
-      "location:Switzerland"
-    ]
-  },
   "/job/Basel/Modelling-and-Simulations-Scientist---2-year-contract-_202605-111063-1": {
     "description": "At Roche you can show up as yourself, embraced for the unique qualities you bring. Our culture encourages personal expression, open dialogue, and genuine connections,  where you are valued, accepted and respected for who you are, allowing you to thrive both personally and professionally. This is how we aim to prevent, stop and cure diseases and ensure everyone has access to healthcare today and for generations to come. Join Roche, where every voice matters.\n\nThe Position\nAt Roche, we believe it’s urgent to deliver medical solutions right now – even as we develop innovations for the future. We are passionate about transforming patients’ lives, and we are fearless in both decision and action. We commit ourselves to scientific rigor, unassailable ethics, and access to medical innovations for all.\n\nRoche Pharma Research and Early Development (pRED) translates extraordinary science into medical innovation through a diversity of technologies and talent. The translational Modelling and Simulation (tM&S) capability, part of the Predictive Modeling (PM) Chapter, aims to enhance understanding of disease biology and inform the selection of the right molecules for development.\n\nWe are looking for a scientist to support early research and development with mathematical modeling. This role requires a candidate with a strong mathematical background and a pragmatic approach to drug development. You will design innovative quantitative approaches to predict clinical efficacy and safety, integrating pharmacological and toxicological data to ensure the optimal conduct of clinical studies.\n\nThe Opportunity\n\nYour mission will be to conduct modelling and simulation activities at the project level through the development of quantitative physiology/mechanism-based and drug-disease models. You will:\n\nDevelop multi-scale models for PK, efficacy, and toxicology by integrating experimental data (in vitro, in vivo, and omics) and literature-based evidence.\n\nBuild complex quantitative systems pharmacology (QSP) models, such as mechanistic tumor-site interaction models for small molecules, to predict drug disposition and target attainment.\n\nApply mechanistic insights to characterize drug accumulation and PK/PD relationships, including the impact of lysosomal trapping and binding dynamics.\n\nExtend modeling frameworks to areas such as combination therapies, antibody drug conjugates and antibiotic PK/PD.\n\nDesign and deploy interactive tools, specifically using R and Shiny applications, to facilitate model exploration and guide internal decision-making.\n\nLeverage AI and Machine Learning to enhance predictive accuracy, automate data integration, and explore high-dimensional biological datasets.\n\nPerform rigorous parameter estimation through Bayesian methods and stochastic modeling techniques to extend deterministic frameworks.\n\nCommunicate results quickly and effectively to project teams and senior management, ensuring M&S activities align with overall project goals and Roche standards.\n\nWho you are\n\nA PhD-level degree in natural sciences, mathematics, physical sciences, or engineering is required.\n\nAdvanced programming skills in R and Python, with a proven ability to code quickly and with high rigor are required.\n\nExtensive experience in mechanistic modeling is required.\n\nA strong mathematical foundation applied to drug discovery, with the ability to put complex results into the perspective of the drug development process is required.\n\nAn independent thinker with high creativity and a track record of scientific excellence is required.\n\nStrong lead author history of publications and a history of effective scientific communication both inside and outside the company is required.\n\nInclusive mindset and the ability to interact effectively with pharmacology scientists, project leaders, and experimental collaborators.\n\nGrowth mindset characterized by curiosity and a willingness to learn and go beyond standard solutions and methods.\n\nWillingness to speak up, bring different perspectives, and lead consultants or outside collaborators effectively.\n\nProactive attitude that takes initiative, proposes solutions, and maintains a \"can-do\" approach to complex scientific challenges.\n\nIndependent thinker with a track record of scientific excellence and a strong lead author history of publications.\n\nThe next step is yours. To apply today, click on the \"Apply online\" button.\n \n \n\nWho we are\nA healthier future drives us to innovate. Together, more than 100’000 employees across the globe are dedicated to advance science, ensuring everyone has access to healthcare today and for generations to come. Our efforts result in more than 26 million people treated with our medicines and over 30 billion tests conducted using our Diagnostics products. We empower each other to explore new possibilities, foster creativity, and keep our ambitions high, so we can deliver life-changing healthcare solutions that make a global impact.\n\nLet’s build a healthier future, together.\n\nRoche is an Equal Opportunity Employer.",
     "external_url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Modelling-and-Simulations-Scientist---2-year-contract-_202605-111063-1",
@@ -2581,7 +2427,7 @@
     "title": "Modelling and Simulations Scientist ( 2 year contract)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-17",
+    "posted_date": "2026-07-18",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -2601,7 +2447,7 @@
     "title": "Business Development Manager (m/w/d) Neuromodulation – Schweiz",
     "company": "Abbott",
     "location": "Switzerland - Baar",
-    "posted_date": "2026-07-17",
+    "posted_date": "2026-07-18",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -2618,20 +2464,6 @@
     "description": "Vous élaborez, proposez, appliquez et évaluez des traitements de physiothérapie conformément au bilan physiothérapeutique, au diagnostic et à la prescription médicale afin de récupérer, améliorer ou maintenir les fonctions et activités bio-psycho-sociales des patients et patientes.\nVous assurez la prise en charge individuelle ou en groupe de patientes et patients majeurs et veillez à leur confort physique et psychologique tout au long du processus thérapeutique. Vous utilisez également des approches pédagogiques de type éducation thérapeutique, favorisant l’adhésion aux traitements, la prévention et l’éducation à la santé.\nVous participez activement aux échanges interdisciplinaires, aux colloques et aux discussions de cas. Vous collaborez étroitement avec les médecins, les professionnels et professionnelles de la santé et l’ensemble des partenaires de soins afin de garantir une prise en charge coordonnée et de haute qualité.\nVous assurez la traçabilité des interventions dans le dossier patient, participez à la gestion et à l’entretien du matériel thérapeutique et contribuez à l’amélioration continue des prestations du service.\nVous participez à l’accueil, à l’intégration et à l’encadrement des nouveaux et nouvelles collaboratrices, étudiantes et étudiants et stagiaires. Vous contribuez également au développement des connaissances professionnelles par votre participation aux activités de formation et, le cas échéant, aux projets de recherche clinique.\nRigoureux ou rigoureuse, autonome et organisée ou organisé, vous faites preuve d’excellentes compétences relationnelles et appréciez le travail en équipe interprofessionnelle dans un environnement dynamique.",
     "external_url": "https://jobs.smartrecruiters.com/HUG/744000138338761-physiotherapeute-crans-montana-80-?oga=true",
     "status": "matched"
-  },
-  "https://www.michaelpage.ch/de/job-detail/portfolio-manager-international-equities-mwd/ref/jn-062026-7052410?lang=en": {
-    "external_url": "https://www.michaelpage.ch/de/job-detail/portfolio-manager-international-equities-mwd/ref/jn-062026-7052410?lang=en",
-    "status": "matched",
-    "title": "Aktien Portfolio Manager - Internationaler Vermögensverwalter",
-    "company": "Michael Page Switzerland",
-    "location": "Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": -2,
-    "matched_keywords": [],
-    "deducted_keywords": [
-      "location:Switzerland"
-    ]
   },
   "https://jobs.ashbyhq.com/benchling/c5d40183-f39b-4de3-ac78-cd6867b89d00": {
     "description": "We are rebuilding biotech for the AI era.\n\nWhen a breakthrough is delayed, the world waits. Getting a molecule from discovery to patients, or a crop from lab to field, involves thousands of slow, manual, disconnected steps. AI has the potential to change this, compressing decades of R&D work into years. But that only happens when clean, structured scientific data and AI are built into how science gets done.\n\nBenchling is the AI platform for biotech R&D. Scientists use Benchling to design experiments, capture structured data, and run AI agents and models directly in their workflows. Over 200,000 scientists around the world trust Benchling to power their most important work, from academic labs to Sanofi, Moderna, and more than half of the world's top 50 biopharma.\n\nWe’re building an AI scientist for our customers. We can’t do that if we haven’t built the muscle ourselves. AI fluency is the foundation we build on; it's core to how we work, and we're committed to helping every new hire integrate it into their day-to-day. As part of our interview process, you'll complete a brief AI-focused exercise or discussion so we can understand how you think about and use AI to drive impact in your role. Feel free to reference any tools, platforms, or workflows you use today.\n\n\n\n\n\n\nROLE OVERVIEW\n\nBenchling is building a world-class Professional Services team to drive implementations for our rapidly expanding customer base. Implementation Managers work with our customers, from small Biotech startups to the largest BioPharmas in the world to develop a deep understanding of their R&D Processes, and roll out solutions that transform how their research teams work together.\n\n\nTo be successful in this role, you will leverage your scientific background, project management skills, and product expertise to drive successful implementations of the Benchling platform. You will work hand in hand with the research scientists at our customers, and teams throughout Benchling to implement our solutions, and ensure our customers are successful. Implementation Managers lead all aspects of customer rollouts from requirements analysis and solution design, to configurations, testing, training, and onboarding users onto the system.\n\n\n\nRESPONSIBILITIES\n\n - Manage initial rollouts for new Benchling customers as well as expansion projects with new teams or for new processes at existing customers\n\n - Own implementation success from project kickoff to go-live, leveraging strong project management skills, scientific expertise, and deep product knowledge.\n\n - Build and execute detailed project plans, own project activities, work with other team members to execute on project deliverables to ensure on time, on budget, high quality deployments.\n\n - Understand customers' scientific workflows and determine how Benchling can best be leveraged to meet their key business needs.\n\n - Lead requirements and design workshops, perform data modeling & application configuration, develop test plans and guide UAT execution, train and onboard users.\n\n - Act as a trusted advisor for customers, guiding them through the implementation ensuring they leverage and apply Benchling Best Practices.\n\n - Understand and document customer pain points, advocate for them internally to influence product changes.\n\n - Identify and work with sales on opportunities for account expansion post go-live.\n\n\n\n\nQUALIFICATIONS\n\n - MS or Ph.D. in Molecular Biology, Biochemistry, Biotechnology, Immunology, Bioinformatics, Biological Engineering or a related field.\n\n - At least 2 years of experience in a lab or R&D setting, ideally in antibody discovery or strain engineering or process development. You must be able to empathize with scientists and quickly understand complicated scientific concepts.\n\n - Software Implementation experience, preferably with a SaaS software company.\n\n - Strong communication skills. You must be able to quickly and effectively connect with a range of stakeholders, including scientists, IT project leads, and executives.\n\n - Self-starter with the ability to be successful in a startup environment.\n\n - Curious, creative, and tenacious. You should be excited to collaborate with customers and other Benchling teammates as a thought partner.\n\n - Ability to travel up to 25% based on customer and project needs.\n\n - Experience using Benchling, especially if you’ve been a Benchling administrator, is preferred but not required.\n\nBenchling welcomes everyone.\n\nWe believe diversity enriches our team so we hire people with a wide range of identities, backgrounds, and experiences.\n\nWe are an equal opportunity employer. That means we don’t discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. We also consider for employment qualified applicants with arrest and conviction records, consistent with applicable federal, state and local law, including but not limited to the San Francisco Fair Chance Ordinance.",
