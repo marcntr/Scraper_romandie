@@ -2366,56 +2366,6 @@
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000138103429-hr-legal-adviser-hr-lsm-la-2026-159-ld-?oga=true",
     "status": "matched"
   },
-  "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-senior-scientist-bcqc-lengnau-berne-880270/1": {
-    "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-senior-scientist-bcqc-lengnau-berne-880270/1",
-    "status": "ignored",
-    "title": "Senior Scientist BCQC(m/f/d)",
-    "company": "Hays Switzerland",
-    "location": "Lengnau, Berne, Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": 0,
-    "matched_keywords": [],
-    "deducted_keywords": []
-  },
-  "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-analytical-project-leader-scientist-senior-scientist-basel-stadt-873611/1": {
-    "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-analytical-project-leader-scientist-senior-scientist-basel-stadt-873611/1",
-    "status": "ignored",
-    "title": "Analytical Project Leader (Scientist / Senior Scientist)(m/f/d)",
-    "company": "Hays Switzerland",
-    "location": "Basel Stadt, Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": 0,
-    "matched_keywords": [],
-    "deducted_keywords": []
-  },
-  "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-vice-president-of-business-development-basel-land-873413/1": {
-    "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-vice-president-of-business-development-basel-land-873413/1",
-    "status": "ignored",
-    "title": "Vice President of Business Development(m/f/d)",
-    "company": "Hays Switzerland",
-    "location": "Basel Land, Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": 0,
-    "matched_keywords": [],
-    "deducted_keywords": []
-  },
-  "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-scientist-lab-technician-assay-development-zug-873185/1": {
-    "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-scientist-lab-technician-assay-development-zug-873185/1",
-    "status": "ignored",
-    "title": "Scientist Lab Technician Assay Development(m/f/d)",
-    "company": "Hays Switzerland",
-    "location": "Zug, Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": 1,
-    "matched_keywords": [
-      "assay development"
-    ],
-    "deducted_keywords": []
-  },
   "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000138257619": {
     "description": "En votre qualité de médecin adjoint ou adjointe de l’unité de médecine et soins dans la communauté (UMSCOM), vous assistez le médecin adjoint responsable d’unité dans la réalisation et la supervision des activités cliniques, académiques et administratives.\nVous participez au bon fonctionnement de l'unité en aidant à coordonner et en collaborant avec l’équipe pluridisciplinaire, composée de médecins, d’assistants et assistantes sociales, d’infirmières et infirmiers et de secrétaires.\nVous êtes soucieux ou soucieuse d'offrir un cadre de travail dynamique et bienveillant en valorisant et en développant les compétences de votre équipe. Grâce à votre leadership, vous avez la capacité à fédérer votre équipe autour d'objectifs communs et à les impliquer dans des projets de développement, de recherche et institutionnels.\nVous contribuez à l'amélioration de la qualité des prestations de l'UMSCOM, en particulier de la prise en charge de la patientèle, au travers de propositions et d’initiatives personnelles validées par la direction.\nVous portez une ambition d’académisation de votre position et contribuez activement à la recherche scientifique dans le domaine de la santé des personnes désavantagées. Vous menez des projets d’études, publiez et développez l’expertise académique de votre unité. Vous participez à l’enseignement pré et postgradué, et collaborez étroitement avec la direction pour concevoir et dispenser des formations de qualité.\nEnfin, en tant que spécialiste de la prise en charge des patients et patientes précaires, vous représentez l’unité (UMSCOM), le service (SMPR) et le département (DMCPR) aussi bien à l’intérieur des HUG qu’envers tout interlocutrice ou interlocuteur externe.",
     "external_url": "https://jobs.smartrecruiters.com/HUG/744000138257619-medecin-adjoint-ou-adjointe-a-l-unite-de-medecine-et-soins-dans-la-communaute-umscom-80-?oga=true",
@@ -2499,7 +2449,7 @@
   },
   "https://www.michaelpage.ch/job-detail/business-development-manager-dacheurope-mwd/ref/jn-062026-7035692": {
     "external_url": "https://www.michaelpage.ch/job-detail/business-development-manager-dacheurope-mwd/ref/jn-062026-7035692",
-    "status": "matched",
+    "status": "ignored",
     "title": "Business Development Manager DACH / Europe (m/w/d)",
     "company": "Michael Page Switzerland",
     "location": "Switzerland",
@@ -2513,7 +2463,7 @@
   },
   "https://www.michaelpage.ch/de/job-detail/junior-technical-sales-business-development-mwd/ref/jn-062026-7035709?lang=en": {
     "external_url": "https://www.michaelpage.ch/de/job-detail/junior-technical-sales-business-development-mwd/ref/jn-062026-7035709?lang=en",
-    "status": "matched",
+    "status": "ignored",
     "title": "(Junior) Technical Sales / Business Development (m/w/d)",
     "company": "Michael Page Switzerland",
     "location": "Switzerland",
@@ -2527,7 +2477,7 @@
   },
   "https://www.michaelpage.ch/de/job-detail/sales-project-manager-premium-retail-solutions-mwd/ref/jn-072026-7064752?lang=en": {
     "external_url": "https://www.michaelpage.ch/de/job-detail/sales-project-manager-premium-retail-solutions-mwd/ref/jn-072026-7064752?lang=en",
-    "status": "matched",
+    "status": "ignored",
     "title": "Business Development & Project Manager - Schweizer Design Unternehmen",
     "company": "Michael Page Switzerland",
     "location": "Switzerland",
@@ -2555,7 +2505,7 @@
   },
   "https://www.michaelpage.ch/de/job-detail/business-development-specialist-100/ref/jn-072026-7064010?lang=en": {
     "external_url": "https://www.michaelpage.ch/de/job-detail/business-development-specialist-100/ref/jn-072026-7064010?lang=en",
-    "status": "matched",
+    "status": "ignored",
     "title": "Business Development Specialist (a) 100%",
     "company": "Michael Page Switzerland",
     "location": "Switzerland",
@@ -2569,7 +2519,7 @@
   },
   "https://www.michaelpage.ch/de/job-detail/sales-consultant-business-development-manager-mwd/ref/jn-072026-7057195?lang=en": {
     "external_url": "https://www.michaelpage.ch/de/job-detail/sales-consultant-business-development-manager-mwd/ref/jn-072026-7057195?lang=en",
-    "status": "matched",
+    "status": "ignored",
     "title": "(Senior) Sales Consultant / Business Development Manager (m/w/d)",
     "company": "Michael Page Switzerland",
     "location": "Switzerland",
@@ -2583,7 +2533,7 @@
   },
   "https://www.michaelpage.ch/job-detail/senior-regulatory-change-manager/ref/jn-072026-7058880": {
     "external_url": "https://www.michaelpage.ch/job-detail/senior-regulatory-change-manager/ref/jn-072026-7058880",
-    "status": "matched",
+    "status": "ignored",
     "title": "Senior Regulatory Change Manager",
     "company": "Michael Page Switzerland",
     "location": "Switzerland",
@@ -2625,7 +2575,7 @@
   },
   "https://www.michaelpage.ch/fr/job-detail/junior-portfolio-manager-investissement-immobilier-hf/ref/jn-062026-7030669?lang=en": {
     "external_url": "https://www.michaelpage.ch/fr/job-detail/junior-portfolio-manager-investissement-immobilier-hf/ref/jn-062026-7030669?lang=en",
-    "status": "matched",
+    "status": "ignored",
     "title": "Junior Portfolio Manager - Investissement immobilier (H/F)",
     "company": "Michael Page Switzerland",
     "location": "Switzerland",
@@ -2639,7 +2589,7 @@
   },
   "https://www.michaelpage.ch/de/job-detail/business-development-specialist-100/ref/jn-032026-6968386?lang=en": {
     "external_url": "https://www.michaelpage.ch/de/job-detail/business-development-specialist-100/ref/jn-032026-6968386?lang=en",
-    "status": "matched",
+    "status": "ignored",
     "title": "Business Development Specialist (a) 100%",
     "company": "Michael Page Switzerland",
     "location": "Switzerland",
@@ -2653,7 +2603,7 @@
   },
   "https://www.michaelpage.ch/job-detail/fund-portfolio-coordinator-9-months/ref/jn-042026-6999523": {
     "external_url": "https://www.michaelpage.ch/job-detail/fund-portfolio-coordinator-9-months/ref/jn-042026-6999523",
-    "status": "matched",
+    "status": "ignored",
     "title": "Fund Portfolio Coordinator for 9 months",
     "company": "Michael Page Switzerland",
     "location": "Switzerland",
@@ -2667,7 +2617,7 @@
   },
   "https://www.michaelpage.ch/job-detail/sp%C3%A9cialiste-middle-office-portfolio-management-1-mois/ref/jn-052026-7018018": {
     "external_url": "https://www.michaelpage.ch/job-detail/sp%C3%A9cialiste-middle-office-portfolio-management-1-mois/ref/jn-052026-7018018",
-    "status": "matched",
+    "status": "ignored",
     "title": "Spécialiste Middle Office / Portfolio Management - Mission Temporaire",
     "company": "Michael Page Switzerland",
     "location": "Switzerland",
@@ -2681,7 +2631,7 @@
   },
   "https://www.michaelpage.ch/de/job-detail/product-business-development-manager/ref/jn-032026-6970319?lang=en": {
     "external_url": "https://www.michaelpage.ch/de/job-detail/product-business-development-manager/ref/jn-032026-6970319?lang=en",
-    "status": "matched",
+    "status": "ignored",
     "title": "Product & Business Development Manager",
     "company": "Michael Page Switzerland",
     "location": "Switzerland",
