@@ -2460,20 +2460,6 @@
       "location:Switzerland"
     ]
   },
-  "https://www.michaelpage.ch/fr/job-detail/business-development-lead-fnm/ref/jn-062026-7047374?lang=en": {
-    "external_url": "https://www.michaelpage.ch/fr/job-detail/business-development-lead-fnm/ref/jn-062026-7047374?lang=en",
-    "status": "ignored",
-    "title": "Business Development Lead (F/N/M) - AI-Powered Digital Solutions",
-    "company": "Michael Page Switzerland",
-    "location": "Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": -2,
-    "matched_keywords": [],
-    "deducted_keywords": [
-      "location:Switzerland"
-    ]
-  },
   "https://www.michaelpage.ch/fr/job-detail/junior-portfolio-manager-investissement-immobilier-hf/ref/jn-062026-7030669?lang=en": {
     "external_url": "https://www.michaelpage.ch/fr/job-detail/junior-portfolio-manager-investissement-immobilier-hf/ref/jn-062026-7030669?lang=en",
     "status": "ignored",
@@ -2645,5 +2631,48 @@
     "deducted_keywords": [
       "location:Switzerland"
     ]
+  },
+  "https://jobs.ashbyhq.com/benchling/a3aa0c06-baee-4ef1-9eae-6eb44b48446e": {
+    "description": "We are rebuilding biotech for the AI era.\n\nWhen a breakthrough is delayed, the world waits. Getting a molecule from discovery to patients, or a crop from lab to field, involves thousands of slow, manual, disconnected steps. AI has the potential to change this, compressing decades of R&D work into years. But that only happens when clean, structured scientific data and AI are built into how science gets done.\n\nBenchling is the AI platform for biotech R&D. Scientists use Benchling to design experiments, capture structured data, and run AI agents and models directly in their workflows. Over 200,000 scientists around the world trust Benchling to power their most important work, from academic labs to Sanofi, Moderna, and more than half of the world's top 50 biopharma.\n\nWe’re building an AI scientist for our customers. We can’t do that if we haven’t built the muscle ourselves. AI fluency is the foundation we build on; it's core to how we work, and we're committed to helping every new hire integrate it into their day-to-day. As part of our interview process, you'll complete a brief AI-focused exercise or discussion so we can understand how you think about and use AI to drive impact in your role. Feel free to reference any tools, platforms, or workflows you use today.\n\n\n\n\n\n\nROLE OVERVIEW\n\nBenchling is building a world-class Professional Services team to drive implementations for our rapidly expanding customer base. Implementation Managers work with our customers, from small Biotech startups to the largest BioPharmas in the world to develop a deep understanding of their R&D Processes, and roll out solutions that transform how their research teams work together.\n\n\nTo be successful in this role, you will leverage your scientific background, project management skills, and product expertise to drive successful implementations of the Benchling platform. You will work hand in hand with the research scientists at our customers, and teams throughout Benchling to implement our solutions, and ensure our customers are successful. Implementation Managers lead all aspects of customer rollouts from requirements analysis and solution design, to configurations, testing, training, and onboarding users onto the system.\n\n\n\nYou are fluent or native proficiency in French and have experience working with French speaking customers.\n\n\n\nRESPONSIBILITIES\n\n - Manage initial rollouts for new Benchling customers as well as expansion projects with new teams or for new processes at existing customers\n\n - Own implementation success from project kickoff to go-live, leveraging strong project management skills, scientific expertise, and deep product knowledge.\n\n - Build and execute detailed project plans, own project activities, work with other team members to execute on project deliverables to ensure on time, on budget, high quality deployments.\n\n - Understand customers' scientific workflows and determine how Benchling can best be leveraged to meet their key business needs.\n\n - Lead requirements and design workshops, perform data modeling & application configuration, develop test plans and guide UAT execution, train and onboard users.\n\n - Act as a trusted advisor for customers, guiding them through the implementation ensuring they leverage and apply Benchling Best Practices.\n\n - Understand and document customer pain points, advocate for them internally to influence product changes.\n\n - Identify and work with sales on opportunities for account expansion post go-live.\n\n\n\n\nQUALIFICATIONS\n\n - MS or Ph.D. in Molecular Biology, Biochemistry, Biotechnology, Immunology, Bioinformatics, Biological Engineering or a related field.\n\n - At least 2 years of experience in a lab or R&D setting, ideally in antibody discovery or strain engineering or process development. You must be able to empathize with scientists and quickly understand complicated scientific concepts.\n\n - Software Implementation experience, preferably with a SaaS software company.\n\n - Strong communication skills. You must be able to quickly and effectively connect with a range of stakeholders, including scientists, IT project leads, and executives.\n\n - Self-starter with the ability to be successful in a startup environment.\n\n - Curious, creative, and tenacious. You should be excited to collaborate with customers and other Benchling teammates as a thought partner.\n\n - Ability to travel up to 25% based on customer and project needs.\n\n - Experience using Benchling, especially if you’ve been a Benchling administrator, is preferred but not required.\n\n - Fluent or native proficiency in French\n\nBenchling welcomes everyone.\n\nWe believe diversity enriches our team so we hire people with a wide range of identities, backgrounds, and experiences.\n\nWe are an equal opportunity employer. That means we don’t discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. We also consider for employment qualified applicants with arrest and conviction records, consistent with applicable federal, state and local law, including but not limited to the San Francisco Fair Chance Ordinance.",
+    "external_url": "https://jobs.ashbyhq.com/benchling/a3aa0c06-baee-4ef1-9eae-6eb44b48446e",
+    "status": "matched",
+    "title": "Implementation Manager - Bilingual (English/French)",
+    "company": "Benchling",
+    "location": "Zurich, Switzerland",
+    "posted_date": "2026-07-20",
+    "department": "Customer Experience",
+    "score": 5,
+    "matched_keywords": [
+      "French",
+      "bilingual",
+      "bioinformatics",
+      "immunology",
+      "molecular biology"
+    ],
+    "deducted_keywords": []
+  },
+  "/job/Basel-City/Senior-Investigator-Associate-Director---Biology_REQ-10081057-1": {
+    "description": "Salary Range:CHF122,500.00 - CHF227,500.00\n\n \nJob Description Summary#LI-Onsite\nLocation: Basel, Switzerland\nThis role is based in Basel, Switzerland.\n\nThe Oncology Translational Research (OTR) group at Novartis Biomedical Research is seeking a highly accomplished translational scientist who combines exceptional scientific depth in cancer and molecular biology with the ability to lead, influence, and align complex, cross functional organizations.\nThis role is designed for a scientific leader who not only drives cutting edge research but also shapes broader program direction by connecting discovery, translational science, and clinical strategy. The successful candidate will play a pivotal role in advancing oncology programs by translating deep biological insights into impactful therapeutic and biomarker strategies, while effectively navigating and influencing a global, matrixed research environment.\n\n \nJob Description\nKey Responsibilities\n\nDefine and drive translational research strategies grounded in deep expertise in cancer biology, molecular signaling, and biomarker science\n\nTranslate complex biological insights into actionable therapeutic hypotheses and clinical development strategies\n\nLead oncology programs from early discovery through clinical translation, ensuring scientific rigor and strategic alignment\n\nOversee mechanism-of-action studies, combination strategies, and biomarker development\n\nAct as a key integrator across drug discovery, translational, bioinformatics, and clinical teams\n\nInfluence decision-making and align cross-functional stakeholders within a global, matrixed organization\n\nPartner with computational and data science teams to integrate genomic, molecular, and translational datasets into program strategy\n\nEnsure robust interpretation of data into clear scientific and clinical insights\n\nLead and mentor multidisciplinary teams, fostering a culture of scientific excellence, accountability, and collaboration\n\nCommunicate scientific strategies and findings effectively to senior leadership, governance bodies, and external partners\n\nContribute to external scientific visibility through publications, conferences, and collaborations\n\nEssential Requirements\n\nPhD in Molecular Biology, Cancer Biology, Cell Biology, Biochemistry, Genetics, or a related scientific discipline.\n\nCompleted postdoctoral plus at least 4+ years of biotechnology, pharmaceutical, academic translational research experience (see leveling below)\n\nDemonstrated leadership experience in oncology research and translational therapeutic development\n\nProven track record of leading multidisciplinary scientific programs in matrixed organizations\n\nStrong scientific communication, leadership, collaboration, and mentoring capabilities\n\nEstablished record of scientific innovation, publications, and translational impact\n\nHigh level of scientific curiosity, agility, and a positive, solution-oriented mindset\n\nRole Leveling (Dual Posting)\nFinal level will be determined by the hiring team based on skills, experience, and business needs.\n\nBenefits & Rewards\nAt Novartis, we’re committed to reimagining medicine together — and rewarding the people who make it happen.\n\nExpected Annual Base Salary Range for role: CHF 122,500 to CHF 227,500\nThe base salary offered is determined based on gender-neutral objectives, such as relevant skills, competencies and experience in accordance with the Novartis pay setting policy and upon joining Novartis will be reviewed periodically.\n\nIn addition to your base salary, you may be eligible for a performance-based bonus depending on certain performance parameters.\nThe rewards of being part of our team go far beyond base pay and incentives. We also offer a variety of competitive benefits in kind to help you thrive personally and professionally, such as insurance plans, retirement plans, wellbeing resources and global recognition programs. In addition, we provide flexible and hybrid working options, where possible, and minimum 14 weeks paid parental leave.\nPay equity is a fundamental principle of our employment policy and reflects our commitment to create a diverse, equitable and inclusive environment that treats all employees with dignity and respect, as outlined in our Code of Ethics.\n\nRead our brochure to learn more about our global total rewards offering:\nhttps://www.novartis.com/sites/novartis_com/files/novartis-life-handbook.pdf\n\nNote: Benefits and compensation may vary by country and are subject to local legal requirements, including provisions of collective bargaining agreements where applicable. A full overview of your compensation package, including any relevant collective bargaining agreement details applicable to your role based on your employment location and Novartis employer entity, will be communicated separately to you during the application process.\n\nCommitment to Diversity and Inclusion / EEO\nNovartis is committed to building an outstanding, inclusive work environment and diverse teams representative of the patients and communities we serve.\n\n \nSkills DesiredAnalytical Skill (Inactive), Analytical Skill (Inactive), Analytical Thinking, Chemical Biology, Chemistry, Clinical Research, Clinical Trials, Collaboration, Communication Skills (Inactive), Curious Mindset, Data (Inactive), Data Analysis, Decision Making, Design of Experiments (DOE), Detail-Oriented, Drug Development, Drug Discovery Process, Ethics, Gene Therapy- Leadership (Inactive), Influence (Inactive), Laboratory (Inactive), Leading Project Teams, Lifesciences (Inactive), Machine Learning (ML), Medical Research {+ 11 more}",
+    "external_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Basel-City/Senior-Investigator-Associate-Director---Biology_REQ-10081057-1",
+    "status": "ignored",
+    "title": "Senior Principal Scientist / Associate Director Translational Oncology",
+    "company": "Novartis",
+    "location": "Basel (City)",
+    "posted_date": "2026-07-20",
+    "department": "",
+    "score": 10,
+    "matched_keywords": [
+      "Cancer Biology",
+      "PhD",
+      "Postdoc",
+      "bioinformatics",
+      "drug development",
+      "drug discovery",
+      "molecular biology",
+      "oncology",
+      "postdoctoral",
+      "translational research"
+    ],
+    "deducted_keywords": []
   }
 }
