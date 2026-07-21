@@ -861,11 +861,6 @@
     "external_url": "https://jobs.smartrecruiters.com/Sobi/744000132996289-head-of-global-medical-publications?oga=true",
     "status": "matched"
   },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000133051854": {
-    "description": "Introduction\nThis role focuses on improving and evolving software developed in the EP-SFT group such as Geant4 and ROOT, two core software frameworks used for particle physics simulation and data analysis at CERN and laboratories worldwide. The position involves optimising and redesigning key components to run efficiently on modern high-performance computing systems, with a strong emphasis on GPU acceleration and large-scale parallel processing. Responsibilities include contributing to next-generation technologies such as AdePT for GPU-based particle transport, enhancing performance for exabyte-scale data processing, and developing tools for profiling, testing, and validation. Working at the intersection of HPC, C++ software engineering, and experimental physics, the role directly supports future research initiatives including the High-Luminosity LHC and the Future Circular Collider.\nFunctions\nDevise Performance Strategy: Define and execute the performance roadmap for Geant4 and ROOT, also focusing on GPU architectures (CUDA, SYCL) and the exploitation of advanced features of programming languages, such as C++.\nHands-on Development: Implement and refactor critical hot loops, memory layouts, and kernel launches. Use state-of-the-art tools to identify and eliminate bottlenecks.\nTake part in the overall organisation of data simulation, processing, and analysis activities within the EP-SFT group’s\nProjects, including work planning, the organisation of workshops and trainings, and representing the projects and their vision.\nEngage with the projects’ user communities, foster collaboration within the SFT group, the EP department, and CERN, and encourage external contributions from laboratories, universities, and other partners.\nSupervise team members and coordinate activities related to the EP-SFT data simulation, processing, and analysis projects.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000133051854-software-engineer-high-performance-computing-ep-sft-2026-137-ld-?oga=true",
-    "status": "matched"
-  },
   "/job/Basel/Translational-Medicine-Scientist_202606-115450": {
     "description": "At Roche you can show up as yourself, embraced for the unique qualities you bring. Our culture encourages personal expression, open dialogue, and genuine connections,  where you are valued, accepted and respected for who you are, allowing you to thrive both personally and professionally. This is how we aim to prevent, stop and cure diseases and ensure everyone has access to healthcare today and for generations to come. Join Roche, where every voice matters.\n\nThe Position\nWe are currently seeking a Clinical Scientist to join our global team based in Basel in the Early Development department in the Neuroscience and Rare Disease DTA. This role will primarily support our latest development priorities. \n\nWe are a dedicated, collaborative team focused on meaningful lifecycle innovations that directly impact the neuroscience community. This position offers the opportunity to contribute to established science while addressing unmet needs in the Parkinson’s, Alzheimer’s, multiple sclerosis, and rare disease community.\n\nThe Opportunity\n\nProvide support in developing and/or preparing clinical science information for inclusion into the Clinical Development Plan.\nGuided by the Lead/senior Clinical Scientist, contribute to protocol/ICF (writing or amendment), construct appropriate CRFs and coordinate cross-functionally.\nGuided by the Lead/senior Clinical Scientist, contribute to internal/external clinical presentations and communications (e.g. investigator meetings, study site interactions, patient information, study newsletters). Present at appropriate internal meetings, e.g. Study Leadership Team. Contributes to abstracts, posters, content for scientific meetings.\nWork with Lead/senior Clinical Scientists/Medical Directors/Clinical Directors and cross-functional groups to execute the Medical Data Review Plan, data interpretation and contribute to study reporting.\nWork as medical monitor of phase 1 and phase 2 clinical trials in Parkinson’s and Alzheimer’s disease\nWork on advanced imaging technique to measure neurodegeneration (e.g. neuromelanin-MRI) in Parkinson’s and Alzheimer’s disease\nWith guidance, contribute to Clinical Trial Application (CTA)/Ethics Committee (EC) written interactions, briefing packs, written responses to Health Authority (HA) questions, clinical science data/preparations for HA interactions and clinical data input to regulatory submissions.\n\nWho you are\n\nDegree in Medicine required (e.g. MD, MBBS). An advanced clinical/Science Degree is highly preferred (e.g. PhD, PharmD, MSN, MPH, etc.).\n1 to 3 years of clinical development experience. While prior experience is a plus, we are primarily looking for someone with high potential, strong motivation, and a willingness to learn\nFamiliarity with governing laws, regulations, guidelines on global clinical trial execution is required and some knowledge of medical aspects of GCP (Good Clinical Practice), ICH (International Conference on Harmonization of Technical Requirements for Registration of Pharmaceuticals for Human Use), FDA, EMA and other relevant guidelines and regulation.\nGood understanding of the multidisciplinary functions involved in drug development. Some therapeutic area relevant clinical trial experience or clear potential to assimilate with some support.\nStrong collaborative skills with the ability to work effectively within a geographically distributed global team.\n\nAre you ready to make a difference for our patients? We are looking forward to your application – join us now and become part of our journey!\n\n \n \n\nWho we are\nA healthier future drives us to innovate. Together, more than 100’000 employees across the globe are dedicated to advance science, ensuring everyone has access to healthcare today and for generations to come. Our efforts result in more than 26 million people treated with our medicines and over 30 billion tests conducted using our Diagnostics products. We empower each other to explore new possibilities, foster creativity, and keep our ambitions high, so we can deliver life-changing healthcare solutions that make a global impact.\n\nLet’s build a healthier future, together.\n\nRoche is an Equal Opportunity Employer.",
     "external_url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Translational-Medicine-Scientist_202606-115450",
@@ -1112,7 +1107,7 @@
     "title": "R&D Scientist – Scientific Data Analytics (d/f/m)",
     "company": "Danaher",
     "location": "Basel, Switzerland",
-    "posted_date": "2026-06-24",
+    "posted_date": "2026-06-23",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1138,7 +1133,7 @@
     "title": "Senior Scientist QA Operations",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-06-30",
+    "posted_date": "2026-06-29",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -1199,7 +1194,7 @@
     "title": "Associate Scientist / Senior Laboratory Specialist",
     "company": "CSL Behring / Vifor",
     "location": "EMEA, CH, Kanton Bern, Bern, CSL Behring",
-    "posted_date": "2026-07-01",
+    "posted_date": "2026-06-30",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1231,7 +1226,7 @@
     "title": "In Vitro Bioanalysis Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-02",
+    "posted_date": "2026-07-01",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -1269,7 +1264,7 @@
     "title": "Principal Scientist si-RNA Design",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-02",
+    "posted_date": "2026-07-01",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1285,7 +1280,7 @@
     "title": "Mechanistic Immuno Tox Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-02",
+    "posted_date": "2026-07-01",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -1304,7 +1299,7 @@
     "title": "Investigative Toxicology Junior Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-02",
+    "posted_date": "2026-07-01",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -1328,7 +1323,7 @@
     "title": "Hematology and Safety Biomarker Expert",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-02",
+    "posted_date": "2026-07-01",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -1349,7 +1344,7 @@
     "title": "Internship Scientist Forensic Chemistry 6 months contract 80-100%",
     "company": "Lonza",
     "location": "CH - Basel",
-    "posted_date": "2026-07-02",
+    "posted_date": "2026-07-01",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1462,7 +1457,7 @@
     "title": "Senior Scientist Electronic Laboratory Systems",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-07-03",
+    "posted_date": "2026-07-02",
     "department": "",
     "score": -1,
     "matched_keywords": [
@@ -1548,11 +1543,6 @@
     "external_url": "https://jobs.smartrecruiters.com/HUG/744000136143769-medecin-adjoint-ou-adjointe-du-chef-de-service-100-?oga=true",
     "status": "matched"
   },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000136184119": {
-    "description": "As a Software Engineer, you will engage in the development, evolution, and long-term maintenance of C++ software solutions running in Linux environments. Working within a collaborative team of software engineers and domain experts, you will contribute to the core control applications that govern more than 5,000 power converters across the accelerator complex.\nA central aspect of this role is the ownership and modernisation of a set of software classes that support accelerator operations. You will take responsibility for migrating these classes from the existing FGCDv1 and FESA architectures to the next-generation FGCDv2 framework. This work offers a unique opportunity to combine hands-on software development with framework evolution: as you migrate and modernize your assigned components, you will contribute directly to the refinement and completion of the FGCDv2 framework, helping shape its future direction based on practical experience and operational needs.\nYour responsibilities\nDesign, develop, document, and maintain modern C++ control software for power converter systems.\nTake ownership of software components throughout their lifecycle, including the migration of applications to the FGCDv2 framework.\nContribute to the evolution of the FGCDv2 framework by identifying, implementing, and validating improvements based on practical experience.\nSupport software architecture, code quality, and CI/CD practices to ensure reliable, scalable, and maintainable solutions.\nCollaborate closely with software engineers, equipment specialists, and operational teams to deliver robust control applications.\nThis role includes team supervision responsibilities.\nMore information here.\nYour profile\nStrong proficiency in modern C++ and Linux-based development environments.\nExperience designing, developing, and maintaining medium-to-large software systems, applying software quality practices such as testing, code review, continuous integration, and maintainability.\nAbility to take ownership of technical deliverables, communicate effectively, and collaborate within multidisciplinary teams.\nInterest or experience in hardware-software integration, industrial systems, or control systems would be an asset.\nYou will have the opportunity to gain further experience with:\nGitLab and modern CI/CD workflows.\nMeson build system.\nStatic code analysis, sanitisers, and modern development tooling (Clang ecosystem).\nPython development and testing frameworks (pytest, Jinja).\nSkills\nModern C++.\nLinux Software Development.\nCode Quality and Testing Practices.\nSpoken and written English, with a commitment to learn French.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nYou have a professional background in Software Engineering or related (or a related field) and have either:\na Master's degree with 2 to 6 years of post-graduation professional experience;\nor a PhD with no more than 3 years of post-graduation professional experience.\nYou have never had a CERN fellow or graduate contract before.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000136184119-c-software-engineer-sy-epc-ccs-2026-115-grap-?oga=true",
-    "status": "matched"
-  },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000136179909": {
     "description": "The Radioactive Beam Production section (SY-STI-RBP) is seeking a Material Scientist, Materials Engineer, Chemist, or related specialist to contribute to the development of next-generation target materials for radioactive ion beam production at the ISOLDE facility.\nAs a graduate in the RBP section, you will work on the development, characterisation, and production of innovative target materials, both in the upcoming chemical and nano laboratory and in the newly established nano-laboratory dedicated to nano-actinide materials. You will contribute directly to advancing radioactive ion beam production, working at the interface of materials science, chemistry, nuclear physics, and atomic physics.\nYour responsibilities:\nDevelop novel target materials for radioactive ion beam production.\nDesign, synthesise, process, and optimise advanced materials with tailored microstructures and extraction properties.\nContribute to the commissioning of the new chemical and nano laboratory.\nUtilise the section's chemical laboratory and nano-laboratory facilities to develop and produce innovative target materials, including nano-actinide-based systems.\nPlan and conduct material characterisation campaigns using appropriate analytical and structural characterisation techniques.\nActively participate in the qualification, operation, testing, and evaluation of the materials.\nAnalyse experimental performance data and translate findings into improved material designs and production processes.\nCollaborate with multidisciplinary teams of physicists, chemists, engineers, and technicians within CERN and with international partners.\nContribute to scientific publications, technical reports, and presentations at international conferences and workshops.\nYour profile:\nRequired Qualifications:\nExperience in materials development, synthesis, and processing.\nExperience in powder processing technologies and material fabrication techniques.\nExperience with material characterisation methods and interpretation of analytical data.\nExperience in one or more of the following areas would be an asset:\nDevelopment and characterisation of nanosized or porous materials.\nOperation and use of glovebox systems.\nHandling and processing of radioactive materials.\nSafe handling and processing of nanometric materials.\nActinide material development and characterisation.\nSkills:\nMaterials Development and Engineering.\nMaterials Characterisation and Data Analysis.\nNanomaterials.\nExperimental Research and Problem Solving.\nLaboratory Operations and Commissioning.\nCollaboration in Multidisciplinary Teams.\nSpoken and written English, with a commitment to learn French.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nBy the application deadline, you have a maximum of two years of professional experience since graduation in Materials Science/Engineering, Chemistry (or a related field) and your highest educational qualification is either a Bachelor's or Master's degree.\nYou have never had a CERN fellow or graduate contract before.\nApplicants without University degree are not eligible.\nApplicants with a PhD are not eligible.",
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000136179909-material-scientist-isol-targets-sy-sti-rbp-2026-166-grae-?oga=true",
@@ -1588,7 +1578,7 @@
     "title": "Senior/Principal Scientist - NMR Expert",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-08",
+    "posted_date": "2026-07-07",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1604,7 +1594,7 @@
     "title": "Director, Corporate Strategy & Business Development",
     "company": "Alcon",
     "location": "Geneva, Switzerland",
-    "posted_date": "2026-07-08",
+    "posted_date": "2026-07-07",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -1775,7 +1765,7 @@
     "title": "Principal Operations AI Data Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-11",
+    "posted_date": "2026-07-10",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1813,7 +1803,7 @@
     "title": "Director - Immunology Therapeutic Area Biomarker Lead (TABL)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-06-24",
+    "posted_date": "2026-06-23",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -1860,7 +1850,7 @@
     "title": "Senior Specialist Data Science, AI & Quantum",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-06-24",
+    "posted_date": "2026-06-23",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1875,7 +1865,7 @@
     "title": "Expert Analytical Scientist (m/f/d)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-07-07",
+    "posted_date": "2026-07-06",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1890,7 +1880,7 @@
     "title": "Patent Attorney",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-07-07",
+    "posted_date": "2026-07-06",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1903,7 +1893,7 @@
     "title": "Senior Principal Scientist - Proteomics",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-07-10",
+    "posted_date": "2026-07-09",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -1923,7 +1913,7 @@
     "title": "Senior Expert / Senior Principal PKS Data Scientist & Scientific Software Engineer (Dual level posting)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-07-01",
+    "posted_date": "2026-06-30",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -1946,7 +1936,7 @@
     "title": "Director, Therapeutic Area Biomarker Lead (Neuroscience)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-07-10",
+    "posted_date": "2026-07-09",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -1984,7 +1974,7 @@
     "title": "Technical R&D Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-14",
+    "posted_date": "2026-07-13",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1997,7 +1987,7 @@
     "title": "Head Clinical Development AI & Technology",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-07-14",
+    "posted_date": "2026-07-13",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -2058,7 +2048,7 @@
     "title": "Post Doctoral Scientist (m/w/d)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-15",
+    "posted_date": "2026-07-14",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -2085,7 +2075,7 @@
     "title": "Internship in the PD Medical Affairs Nucleus Team - Service Solutions & Innovation (SSI) - as of 1 January 2027 for 12 months in Basel",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-15",
+    "posted_date": "2026-07-14",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2165,7 +2155,7 @@
     "title": "Sr Global HEOR & Payer Evidence Lead",
     "company": "Abbott",
     "location": "Switzerland - Basel",
-    "posted_date": "2026-07-16",
+    "posted_date": "2026-07-15",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -2274,7 +2264,7 @@
     "title": "Staff Scientist - Spectral Cytometry Expert",
     "company": "Labcorp",
     "location": "CHE - Geneva - 7 rue Moise-Marcinhes",
-    "posted_date": "2026-07-17",
+    "posted_date": "2026-07-16",
     "department": "",
     "score": 8,
     "matched_keywords": [
@@ -2308,7 +2298,7 @@
     "title": "Business Development Manager (m/w/d) Neuromodulation – Schweiz",
     "company": "Abbott",
     "location": "Switzerland - Baar",
-    "posted_date": "2026-07-18",
+    "posted_date": "2026-07-17",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -2607,7 +2597,7 @@
     "title": "Technical Development Scientist -1 Jahr befristet",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-21",
+    "posted_date": "",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -2653,7 +2643,7 @@
     "title": "Senior Principal Scientist / Associate Director Translational Oncology",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-07-21",
+    "posted_date": "",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -2669,5 +2659,54 @@
       "translational research"
     ],
     "deducted_keywords": []
+  },
+  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000138790099": {
+    "description": "Introduction\nAre you a skilled and experienced electronics engineer? Do you want to work in one of the world’s leading scientific Intergovernmental Organisations? Come and join a unique environment whose core value is excellence, and whose defining characteristic is teamwork. CERN, take part!\nYou will work in the TS-Group within the HSE Unit, which is responsible for occupational health and safety, including radiation protection, environmental protection, and emergency preparedness and response. Activities cover the monitoring and reporting of the environmental and radiological impacts of the Organization’s activities. \nIn your role as an electronics engineer, you will be involved in the development and improvement of radiation and environmental monitoring solutions. This includes participating in the full lifecycle of hardware and embedded firmware development using modern methodologies and technologies.\nFunctions\nDesign and develop mixed-signal electronics, with a focus on analogue sensor interfaces and ultra-low-current measurement circuits.\nDevelop and maintain embedded code in VHDL and C to support system control, data processing, and hardware interfacing.\nConsolidate and maintain heterogeneous firmware and its development environment (tools, build flow, and supporting infrastructure).\nAdapt the MPSoC architecture to support the required communication interfaces and onboard processing.\nDevelop and integrate firmware updates to meet system functional and performance requirements.\nPerform functional tests to verify correct system behaviour under expected operating conditions.\nDevelop dedicated electronic test boards and complex test benches to evaluate electronic systems under radiation at CERN and at external irradiation facilities.\nCharacterise newly developed systems through measurement, analysis, and validation activities to ensure compliance with functional and performance requirements.\nIdentify issues during testing, troubleshoot root causes, and implement corrective improvements.\nCollaborate with hardware, firmware, and software teams to ensure effective system integration and reliable operation.\nEnsure proper documentation, version control, and traceability of developments using collaborative tools such as GitLab and Jira.",
+    "external_url": "https://jobs.smartrecruiters.com/CERN/744000138790099-electronics-engineer-hse-ts-ims-2026-161-ld-?oga=true",
+    "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000138855480": {
+    "description": "Are you passionate about infrastructure at scale and curious about how bare metal servers are managed across a fleet of 10'000 nodes? Join CERN's IT Cloud team and help run and evolve the OpenStack-based cloud infrastructure that underpins most CERN and LHC experiment services.\nIn this role, you will work at the intersection of systems engineering and software development, contributing to the life-cycle management of physical servers (from delivery and burn-in to provisioning and phase-out) using OpenStack Ironic.\nYou will collaborate closely with senior engineers, the upstream OpenStack community, and CERN's diverse user communities, gaining deep hands-on experience with bare metal provisioning, BMC protocols, and Python development in a large-scale production environment.\nIf you enjoy working close to the hardware, contributing to open-source projects, and solving real operational challenges at scale, come join us!\nYour responsibilities\nRun and help evolve CERN IT's OpenStack-based cloud infrastructure.\nMaintain and develop the bare metal life-cycle management framework built on OpenStack Ironic: integrate new server deliveries, provision nodes to user communities, and maintain tooling for burn-in, stress-testing and phase-out.\nContribute to the upstream OpenStack/Ironic code base, leveraging CERN's links with the open-source community.\nCollaborate on automation and tooling improvements using Python and configuration management systems.\nYour profile\nExperience administering or working with Linux systems in a server or data-centre environment.\nExperience writing Python scripts or applications for automation or systems tasks.\nFamiliarity with configuration management tools such as Puppet or Ansible is a plus.\nExperience with bare metal server management, BMC protocols (IPMI, Redfish) or hardware provisioning workflows is a plus.\nContributions to open-source projects or upstream communities is a plus.\nSkills\nStrong knowledge of the Linux operating system.\nExperience with git version control.\nProgramming experience in Python.\nInterest in bare metal infrastructure and hardware life-cycle management.\nFamiliarity with configuration management systems (e.g. Puppet or Ansible) is a plus.\nExperience with management of physical servers or BMC protocols such as IPMI or Redfish is a plus.\nAbility to collaborate in a multidisciplinary, international team and communicate clearly.\nSpoken and written English, with a commitment to learn French.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nBy the application deadline, you have a maximum of two years of professional experience since graduation in Computer Science or a related field (or a related field) and your highest educational qualification is either a Bachelor's or Master's degree.\nYou have never had a CERN fellow or graduate contract before.\nApplicants without University degree are not eligible.\nApplicants with a PhD are not eligible.",
+    "external_url": "https://jobs.smartrecruiters.com/CERN/744000138855480-bare-metal-openstack-engineer-it-cd-cli-2026-179-grae-?oga=true",
+    "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000138799052": {
+    "description": "En tant qu’assistant ou assistante sociale au sein des HUG, vous intervenez auprès de la patientèle du département de gériatrie et de réadaptation dans une approche globale et pluridisciplinaire. Vous assurez le suivi social des patients et patientes hospitalisées, en particulier dans des unités de réadaptation et d’attente de placement.\nVotre rôle consiste à évaluer les besoins sociaux des patients et patientes et de leurs proches, à identifier les difficultés sociales et à proposer des solutions adaptées. Vous intervenez dans la gestion des demandes administratives et financières, et accompagnez les patients dans leurs démarches de maintien à domicile, de réadaptation ou de transition vers un autre établissement (EMS, structures de soins). Vous travaillez en étroite collaboration avec l’équipe pluridisciplinaire interne ainsi qu’avec les partenaires externes.\nVotre travail repose sur des entretiens individuels, de famille et des colloques multidisciplinaires pour établir une relation de confiance avec les patientes et patients, comprendre leur situation et élaborer des solutions concrètes et personnalisées. Vous êtes également chargé ou chargée de la transmission rigoureuse des besoins sociaux et des projets des patients auprès de l’équipe soignante et des partenaires externes.\nEnfin, vous participez activement à la veille professionnelle sur les thématiques sociales et législatives, en particulier les assurances sociales, et à la prévention des problèmes sociaux. Vous êtes impliquée ou impliqué dans l'amélioration continue des pratiques au sein du service.",
+    "external_url": "https://jobs.smartrecruiters.com/HUG/744000138799052-assistante-ou-assistant-social-50-?oga=true",
+    "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000138800149": {
+    "description": "Force de proposition, vous avez envie de contribuer aux projets d’une grande institution telle que les HUG et vous vous reconnaissez dans nos valeurs institutionnelles.\nDans le cadre de vos activités, vous dispensez des évaluations et thérapies psychomotrices à des patientes et patients en âge AVS, suivis en hôpital de jour. Vous garantissez la qualité et la continuité des soins auprès des patients et patientes.\nVous élaborez et réalisez un projet thérapeutique individualisé.\nVous êtes responsable de la conduite des mesures thérapeutiques en psychomotricité en groupe et en individuel.\nVous êtes apte à collaborer et travailler en équipe pluriprofessionnelle et à travailler en co-conduction thérapeutique.\nVous respectez la confidentialité et le secret de fonction ainsi que les procédures HUG.",
+    "external_url": "https://jobs.smartrecruiters.com/HUG/744000138800149-psychomotricienne-ou-psychomotricien-en-ambulatoire-de-psychiatrie-geriatrique-50-?oga=true",
+    "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000138799269": {
+    "description": "En tant qu’ingénieur ou ingénieure cheffe ou chef de projet, vous renforcez le secteur ingénierie et techniques du bâtiment (SITB). L’équipe, composée d’une dizaine de personnes spécialisées dans les différents domaines techniques du bâtiment : Chauffage-Ventilation-Climatisation (CVC), sanitaire, gaz médicaux et électricité, gère environ 60 projets en parallèle. Vous évoluez ainsi dans un environnement à la fois exigeant et innovant.\nDans ce rôle, vous pilotez des projets de construction ou de rénovation, depuis leur conception jusqu’à leur réalisation, tout en mettant en avant vos expertises en CVC, Sanitaire, Gaz Médicaux et Régulation. Concernant le CVC, vous intervenez sur des installations comme les centrales de traitement d’air, la production et la distribution de chauffage, d’eau surchauffée, de vapeur et d’eau glacée. Pour le sanitaire, vous travaillez sur des projets liés à la production et à la distribution d’eau chaude sanitaire, d’eau purifiée ou refroidie.\nVous réalisez des études avant-projets en analysant la faisabilité, en identifiant les besoins, en estimant les coûts et en définissant le planning. Vous rédigez des cahiers des charges détaillés et proposez des solutions techniques qui permettent une prise de décision éclairée. Vous assurez un cadrage rigoureux des projets, garantissant ainsi une validation précise des objectifs et un déroulement maîtrisé.\nVous évaluez les solutions techniques en sélectionnant les équipements les plus adaptés et en élaborant des plans détaillés. Vous préparez également les soumissions nécessaires pour le lancement des appels d’offres publics. Vous assurez une supervision active en veillant au respect des lois, des normes et des réglementations en vigueur à chaque étape.\nVous supervisez l’exécution des projets en coordonnant les différentes étapes, en suivant le budget et le planning, et en assurant une collaboration optimale avec les équipes projets. Vous participez aux comités de pilotage (COPIL), où vous présentez l’avancement des travaux, proposez des solutions aux éventuels défis et contribuez aux prises de décisions stratégiques.\nEn collaboration avec vos collègues, vous intervenez sur d’autres projets transverses pour coordonner les actions, résoudre les problématiques et proposer des solutions adaptées. Vous partagez également votre expertise avec vos pairs pour les accompagner dans la gestion de leurs propres projets.\nDans une perspective transverse, vous participez activement à l’amélioration continue en contribuant à l’évolution des référentiels et des directives techniques. Vous mettez à jour la documentation, effectuez une veille technologique dans vos domaines d’expertise et proposez des améliorations pertinentes.",
+    "external_url": "https://jobs.smartrecruiters.com/HUG/744000138799269-ingenieure-ou-ingenieur-chef-ou-cheffe-de-projet-technique-et-batiment-cvc-sanitaire-gaz-mediaux-regulation-100-?oga=true",
+    "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000138795151": {
+    "description": "En tant qu’assistant ou assistante sociale au sein des HUG, vous intervenez auprès de la patientèle du département de gériatrie et de réadaptation dans une approche globale et pluridisciplinaire. Vous assurez le suivi social des patients et patientes hospitalisées, en particulier dans des unités de neuroréadaptation.\nVotre rôle consiste à évaluer les besoins sociaux des patientes et patients et de leurs proches, à identifier les difficultés sociales et à proposer des solutions adaptées. Vous intervenez dans la gestion des demandes administratives et financières, et accompagnez la patientèle dans leurs démarches de maintien à domicile, de réadaptation ou de transition vers un autre établissement (EMS, structures de soins). Vous travaillez en étroite collaboration avec l’équipe pluridisciplinaire interne ainsi qu’avec les partenaires externes.\nVotre travail repose sur des entretiens individuels, de famille et des colloques multidisciplinaires pour établir une relation de confiance avec les patients et patientes, comprendre leur situation et élaborer des solutions concrètes et personnalisées. Vous êtes également chargée ou chargé de la transmission rigoureuse des besoins sociaux et des projets des patientes et patients auprès de l’équipe soignante et des partenaires externes.\nEnfin, vous participez activement à la veille professionnelle sur les thématiques sociales et législatives, en particulier les assurances sociales, et à la prévention des problèmes sociaux. Vous êtes impliqué ou impliquée dans l'amélioration continue des pratiques au sein du service.",
+    "external_url": "https://jobs.smartrecruiters.com/HUG/744000138795151-assistante-ou-assistant-social-50-?oga=true",
+    "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000138799149": {
+    "description": "En tant qu’ingénieur ou ingénieure cheffe de projet, vous renforcez le secteur ingénierie et techniques du bâtiment (SITB). L’équipe, composée d’une quinzaine de personnes spécialisées dans les différents domaines techniques du bâtiment : Chauffage-Ventilation-Climatisation (CVC), sanitaire, gaz médicaux et électricité, gère environ 60 projets en parallèle. Vous évoluez ainsi dans un environnement à la fois exigeant et innovant.\nDans ce rôle, vous pilotez des projets de construction ou de rénovation, depuis leur conception jusqu’à leur réalisation, tout en mettant en avant votre expertise en électricité. Vous intervenez ainsi notamment sur des projets incluant la distribution courant fort et faible, la transformation et mise au norme de cabine TGBT et BT, l’installation de panneaux solaire photovoltaïque, de bornes de recharge ou remplacement d’éclairage.\nVous réalisez des études avant-projets en analysant la faisabilité, en identifiant les besoins, en estimant les coûts et en définissant le planning. Vous rédigez des cahiers des charges détaillés et proposez des solutions techniques qui permettent une prise de décision éclairée. Vous assurez un cadrage rigoureux des projets, garantissant ainsi une validation précise des objectifs et un déroulement maîtrisé.\nVous évaluez les solutions techniques en sélectionnant les équipements les plus adaptés et en élaborant des plans détaillés. Vous préparez également les soumissions nécessaires pour le lancement des appels d’offres publics. Vous assurez une supervision active en veillant au respect des lois, des normes et des réglementations en vigueur à chaque étape.\nVous supervisez l’exécution des projets en coordonnant les différentes étapes, en suivant le budget et le planning, et en assurant une collaboration optimale avec les équipes projets. Vous participez aux comités de pilotage (COPIL), où vous présentez l’avancement des travaux, proposez des solutions aux éventuels défis et contribuez aux prises de décisions stratégiques.\nDans une perspective transverse, vous participez activement à l’amélioration continue en contribuant à l’évolution des référentiels et des directives techniques. Vous mettez à jour la documentation, effectuez une veille technologique dans vos domaines d’expertise et proposez des améliorations pertinentes.",
+    "external_url": "https://jobs.smartrecruiters.com/HUG/744000138799149-ingenieur-ou-ingenieure-cheffe-de-projet-technique-et-batiment-en-electricite-100-?oga=true",
+    "status": "matched"
+  },
+  "https://www.michaelpage.ch/fr/job-detail/business-development-lead-fnm/ref/jn-062026-7047374?lang=en": {
+    "external_url": "https://www.michaelpage.ch/fr/job-detail/business-development-lead-fnm/ref/jn-062026-7047374?lang=en",
+    "status": "matched",
+    "title": "Business Development Lead (F/N/M) - AI-Powered Digital Solutions",
+    "company": "Michael Page Switzerland",
+    "location": "Switzerland",
+    "posted_date": "",
+    "department": "",
+    "score": -2,
+    "matched_keywords": [],
+    "deducted_keywords": [
+      "location:Switzerland"
+    ]
   }
 }
