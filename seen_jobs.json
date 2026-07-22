@@ -631,7 +631,8 @@
     "https://www.michaelpage.ch/de/job-detail/sales-consultant-business-development-manager-mwd/ref/jn-072026-7057195?lang=en": "ignored",
     "https://www.michaelpage.ch/job-detail/senior-regulatory-change-manager/ref/jn-072026-7058880": "ignored",
     "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Technical-Development-Scientist--1-Jahr-befristet_202607-118385-1": "ignored",
-    "https://jobs.smartrecruiters.com/CERN/744000133614022-computer-scientist-open-science-analysis-facilities-it-ca-ir-2026-139-ld-?oga=true": "ignored"
+    "https://jobs.smartrecruiters.com/CERN/744000133614022-computer-scientist-open-science-analysis-facilities-it-ca-ir-2026-139-ld-?oga=true": "ignored",
+    "https://jobs.smartrecruiters.com/Sobi/744000137095029-rdma-strategy-and-portfolio-associate-director?oga=true": "ignored"
   },
   "_generic:Hurdle Bio": {
     "keywords": "npp"
@@ -2677,7 +2678,7 @@
   },
   "https://www.michaelpage.ch/job-detail/fund-portfolio-coordinator-9-months/ref/jn-042026-6999523": {
     "external_url": "https://www.michaelpage.ch/job-detail/fund-portfolio-coordinator-9-months/ref/jn-042026-6999523",
-    "status": "matched",
+    "status": "ignored",
     "title": "Fund Portfolio Coordinator for 9 months",
     "company": "Michael Page Switzerland",
     "location": "Switzerland",
@@ -2715,6 +2716,26 @@
     "department": "",
     "score": 0,
     "matched_keywords": [],
+    "deducted_keywords": []
+  },
+  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000139094039": {
+    "description": "You will be working on development of High Temperature Superconducting (HTS) cables and coils. You will work on the design, assembly, commissioning and operation of winding and cabling machines used to produce HTS cables with REBCO tapes.\nWe will teach you everything you need to know, the most important is that you are curious and eager to learn.\nYour responsibilities\nPerform quality control (QC) and measurements on REBCO tapes.\nParticipate in the qualification of the mechanical properties of REBCO tapes.\nMake diagrams, wiring, PLC programming and commissioning of electro-mechanical systems.\nSupport activities related to the integration and use of REBCO tapes in HTS coils and cables.\nMore information here.\nYour profile\nExperience in electrical testing or material testing.\nExperience in reading and drawing of circuit diagrams.\nExperience in the cabling and commissioning of electrical cabinets or machines is an advantage.\nExperience in mechanical assembly is an advantage.\nSkills\nKnowledge in instrumentation and data acquisition is an advantage.\nAble to work independently and in teams.\nReliable and autonomous.\nSpoken and written English or French, with a commitment to learn the other language.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nBy the application deadline, you have a maximum of two years of professional experience since graduation in Electrical and Electronics Engineering (or a related field) and your highest educational qualification is a general secondary education diploma.\nYou have never had a CERN fellow or graduate contract before.\nApplicants with a Bachelor's, Master's or PhD degree are not eligible.",
+    "external_url": "https://jobs.smartrecruiters.com/CERN/744000139094039-electro-mechanical-technician-te-msc-hsd-2026-193-grae-?oga=true",
+    "status": "matched"
+  },
+  "/job/Zurich-Switzerland/Associate-Director--EU-Regulatory-Lead-Neuroscience_R0184504": {
+    "description": "By clicking the “Apply” button, I understand that my employment application process with Takeda will commence and that the information I provide in my application will be processed in line with Takeda’s Privacy Notice and Terms of Use.  I further attest that all information I submit in my employment application is true to the best of my knowledge.\n\nJob Description\n\nAbout the role\nAs the Associate Director, EU Regulatory Lead Neuroscience, you will define and lead regional regulatory strategies for assigned neuroscience assets, supporting successful product development, registration, patient access and lifecycle management. You will work closely with global and regional cross-functional teams to navigate the evolving European regulatory environment, drive high-quality submissions and lead interactions with Health Authorities.\n \nHow you will contribute\n\nDefine, develop and execute progressive EU regulatory strategies for assigned neuroscience assets across development and lifecycle management.\n\nLead and manage regional regulatory submissions, ensuring high-quality execution and timely approvals.\n\nProvide strategic and tactical regulatory guidance to global, regional and cross-functional project teams.\n\nLead Submission Working Groups and represent the EU region on global regulatory and project teams.\n\nLead or support interactions with European and national Health Authorities, including preparation for regulatory meetings and effective communication of outcomes.\n\nAssess emerging regulatory trends, guidance and requirements and translate their potential impact into proactive regulatory strategies.\n\nProvide regulatory expertise across drug development, registration, post-marketing commitments and lifecycle management activities.\n\nMay support value and access team in interactions with Health Technology Assessment bodies.\n\nBuild strong relationships with local and global Regulatory Affairs teams, cross-functional partners, external experts and regulatory authorities.\n \nWhat you bring to Takeda\n\nBachelor’s degree in a scientific discipline required; advanced scientific degree highly preferred.\n\nMinimum 8 years of experience in drug regulatory affairs, preferably with significant experience in the EU region.\n\nStrong knowledge of EU regulatory requirements and guidance across all phases of drug development and ability to orient project teams; an understanding of basic regulatory requirements in other regions globally (US, Emerging markets) is a plus.\n\nProven ability to develop and execute regional regulatory strategies supporting competitive and timely product approvals.\n\nExperience with investigational regulatory submissions, such as clinical trial applications, scientific advice briefing books, orphan designations,  paediatric plans, or initial Marketing Authorisation Applications.\n\nExperience participating in or leading interactions with Health Authorities.\n\nStrong strategic thinking with the ability to assess regulatory opportunities, risks and mitigation strategies.\n\nExcellent communication, influencing and stakeholder management skills across global and cross-functional teams. Can speak up and is perceived as a natural, assertive authority whom peers trust for their advice.\n\nFluent in English, able to work independently in a complex environment and willing to travel internationally as required.\n\nLocationsZurich, Switzerland\n\nBase Salary Range:CHF159,300.00 - CHF219,010.00\n\nFor information about our benefits, please click here.\n\nWorker TypeEmployee\n\nWorker Sub-TypeRegular\n\nTime TypeFull time",
+    "external_url": "https://takeda.wd3.myworkdayjobs.com/External/job/Zurich-Switzerland/Associate-Director--EU-Regulatory-Lead-Neuroscience_R0184504",
+    "status": "matched",
+    "title": "Associate Director, EU Regulatory Lead Neuroscience",
+    "company": "Takeda",
+    "location": "Zurich, Switzerland",
+    "posted_date": "2026-07-22",
+    "department": "",
+    "score": 1,
+    "matched_keywords": [
+      "drug development"
+    ],
     "deducted_keywords": []
   }
 }
