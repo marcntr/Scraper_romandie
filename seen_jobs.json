@@ -869,7 +869,7 @@
     "title": "Clinical Scientist in neurosciences",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-06-21",
+    "posted_date": "2026-06-22",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -885,7 +885,7 @@
     "title": "Scientist, Pharmaceutical Development & Data Analytics _2 years temporary contract",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-06-21",
+    "posted_date": "2026-06-22",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -900,7 +900,7 @@
     "title": "Technical Expert Portfolio Mgmt, Technical Feasibility and Planning",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-06-21",
+    "posted_date": "2026-06-22",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -913,7 +913,7 @@
     "title": "Sr. Scientist - Computational Biology - Neuroscience & Rare Diseases",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-06-21",
+    "posted_date": "2026-06-22",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -971,11 +971,6 @@
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000133362277--mechanical-technician-sy-rf-ac-2026-172-grae-?oga=true",
     "status": "matched"
   },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000133510249": {
-    "description": "Introduction:\nAs Mechanical Technician you will contribute to the upgrade project of the electromagnetic calorimeter (ECAL) of the CMS detector at LHC covering a large panel of activities and responsibilities, from mechanical works, handling and assembly of detector parts, logistic activities. You will work in close collaboration with all ECAL collaborators and CMS technical team.\nFunctions:\nProvide mechanical support for all the ECAL activities.\nEnsure the safe handling of very fragile ECAL detector Supermodules during extraction, insertion and refurbishment .\nCoordinate the logistics of materials and equipment required for ECAL detector refurbishment activities.\nServe as the technical contact person between CMS experiment site and ECAL refurbishment team.\nProvide technical support for detector maintenance activities, including cooling systems, mechatronic equipment, and instrumentation set-ups.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000133510249-mechanical-technician-for-the-cms-ecal-detector-at-lhc-ep-cms-ld-2026-138-ld-?oga=true",
-    "status": "matched"
-  },
   "https://jobs.boehringer-ingelheim.com/job/Basel-Medical-Science-Liaison%2C-Cardio-Renal-Metabolic-%28French-speaking-Switzerland%29-100-%28mfd%29-Swit/1406800733/": {
     "description": "The position\n\nAs a Medical Scientific Liaison (MSL) in the Cardio-Renal-Metabolic (CRM) therapeutic area, you serve as the central interface at Boehringer Ingelheim for external specialists and health care professionals within Switzerland. In this key role, you promote scientific exchange, support the safe use of our products in clinical practice, and make an important contribution to ongoing medical education. You take on both proactive and reactive tasks, actively bringing your expertise into internal and external working groups.\n\nTasks & responsibilities\n\nAct as the main contact for clinical professionals and centers in Switzerland and leading local medical-scientific activities\n\nDrive cross-functional projects in close collaboration with teams from Marketing, Medical Affairs, Sales, and Market Access\n\nTake on medical-scientific support for our soon-to-be-approved products and/or indications\n\nInform clinical professionals and the specialist audience about the latest clinical study results and product characteristics\n\nDesign workshops, symposia, and training sessions\n\nSeek advice from regional advisory boards\n\nEnsure successful events with your professional competence\n\nWork closely with the internal teams to select suitable clinical trial centers\n\nRepresent our company and contribute to the planning and implementation of internal and external training sessions at (inter-)national professional congresses \n\nRequirements\n\nSuccessfully completed medical or scientific degree, ideally with a doctorate (PhD, MD)\n\nAt least several years of professional experience in Medical Affairs (MSL, Scientific/Medical Advisor, etc.), clinical research, complemented by solid product and literature knowledge as well as sound medical fundamentals in the cardio-renal-metabolic space\n\nStrong professional and analytical expertise, combined with excellent communication skills and empathy for the perspectives of professionals and colleagues\n\nAbility to work independently\n\nCooperative and goal-oriented working style, paired with outstanding management and organizational talents\n\nFlexibility and high willingness to travel\n\nFoundational understanding of the Swiss Pharma Landscape, including Swiss regulations and compliance rules across the lifespan of a pharmaceutical product. \n\nComprehensive market understanding and ability to successfully execute medical strategy compliantly across the lifecycle of a product\n\nFluent in French and English, both spoken and written (German and/or Italian is a plus)\n\nYour Benefits \n\nFlexible working time models: \n\nHome office and flexible working hours, depending on department and position – many things are possible with us. Since this is a field-based position, office-time either at the offices or at home is possible in agreement with line manager and job expectations\n\nLearning & development: diverse training and development opportunities for your personal and professional growth.\n\nAttractive and competitive salary package\n\nMental health support (Employee Assistance Program, coaching)\n\nCollaborative environment with strong team support despite field‑based work\n\nAppreciative culture\n\nOpportunity to actively shape customer relationships and regional market presence\n\nWe are looking forward to receiving your application online!\n\nBy uploading your application documents via our application portal, we can treat your data confidentially and in compliance with the GDPR. On our career site you will find further information about Boehringer Ingelheim as an employer as well as information about the application process and our different departments. Would you like to know what makes our employees special? What they tell about their motivation and their everyday work? Watch this video and hear for yourself what our colleagues have to share.",
     "external_url": "https://jobs.boehringer-ingelheim.com/job/Basel-Medical-Science-Liaison%2C-Cardio-Renal-Metabolic-%28French-speaking-Switzerland%29-100-%28mfd%29-Swit/1406800733/",
@@ -990,21 +985,6 @@
       "French",
       "PhD",
       "medical affairs"
-    ],
-    "deducted_keywords": []
-  },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000133614022": {
-    "description": "Introduction:\nAre you passionate about enabling open science through advanced computing services, data infrastructures and collaborative research environments? Do you enjoy combining hands-on technical work with engagement across diverse scientific communities?\n\nJoin CERN’s IT Department and contribute to the development of scientific computing services supporting analysis facilities, open data and interoperable research infrastructures.\nThe Collaborative Applications Group (IT-CA) provides platforms and services enabling collaboration, knowledge sharing and scientific information management across CERN and its communities. Within IT-CA, the Institutional Repositories section (IT-CA-IR) develops and operates services for research data, publications, open science and institutional knowledge. The section is also building and coordinating the EOSC CERN Node, CERN’s contribution to the European Open Science Cloud ecosystem.\nFunctions:\nContribute to the technical design, development and operation of analysis facilities supporting scalable and reproducible scientific analysis workflows.\nDesign and implement Virtual Research Environments (VREs) combining data management, workflow execution, software distribution and analysis services.\nContribute to federated scientific data infrastructures, including data lake concepts, distributed data management and large-scale data access.\nSupport and coordinate technical activities with scientific communities involved in open science data challenges, including particle physics and external research infrastructures, and contribute to the technical coordination role in the ESCAPE collaboration.\nDevelop and maintain software components, service integrations and operational tooling for scientific computing services, including cloud-native deployments and automation.\nPromote common solutions and best practices across communities, contributing to competence centres, working groups and collaborative technical forums.\nWork with research infrastructures and scientific domains such as particle physics, astronomy, astroparticle physics, among others to translate requirements into robust computing solutions.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000133614022-computer-scientist-open-science-analysis-facilities-it-ca-ir-2026-139-ld-?oga=true",
-    "status": "ignored",
-    "title": "Computer Scientist - Open Science/Analysis Facilities (IT-CA-IR-2026-139-LD)",
-    "company": "CERN",
-    "location": "Geneva, Switzerland",
-    "posted_date": "2026-06-23",
-    "department": "Information Technology",
-    "score": 4,
-    "matched_keywords": [
-      "location:geneva"
     ],
     "deducted_keywords": []
   },
@@ -1227,7 +1207,7 @@
     "title": "In Vitro Bioanalysis Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-01",
+    "posted_date": "2026-07-02",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -1265,7 +1245,7 @@
     "title": "Principal Scientist si-RNA Design",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-01",
+    "posted_date": "2026-07-02",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1281,7 +1261,7 @@
     "title": "Mechanistic Immuno Tox Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-01",
+    "posted_date": "2026-07-02",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -1300,7 +1280,7 @@
     "title": "Investigative Toxicology Junior Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-01",
+    "posted_date": "2026-07-02",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -1324,7 +1304,7 @@
     "title": "Hematology and Safety Biomarker Expert",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-01",
+    "posted_date": "2026-07-02",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -1574,7 +1554,7 @@
     "title": "Senior/Principal Scientist - NMR Expert",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-07",
+    "posted_date": "2026-07-08",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1761,7 +1741,7 @@
     "title": "Principal Operations AI Data Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-10",
+    "posted_date": "2026-07-11",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1774,7 +1754,7 @@
     "title": "Medical Director, Gastroenterology, Early Clinical Development",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-06-21",
+    "posted_date": "2026-06-22",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -1799,7 +1779,7 @@
     "title": "Director - Immunology Therapeutic Area Biomarker Lead (TABL)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-06-23",
+    "posted_date": "2026-06-24",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -1823,7 +1803,7 @@
     "title": "Translational Medicine Expert – Dermatology, Associate Director",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-06-21",
+    "posted_date": "2026-06-22",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -1846,7 +1826,7 @@
     "title": "Expert Analytical Scientist (m/f/d)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-07-06",
+    "posted_date": "2026-07-07",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1861,7 +1841,7 @@
     "title": "Patent Attorney",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-07-06",
+    "posted_date": "2026-07-07",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1874,7 +1854,7 @@
     "title": "Senior Principal Scientist - Proteomics",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-07-09",
+    "posted_date": "2026-07-10",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -1894,7 +1874,7 @@
     "title": "Senior Expert / Senior Principal PKS Data Scientist & Scientific Software Engineer (Dual level posting)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-06-30",
+    "posted_date": "2026-07-01",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -1917,7 +1897,7 @@
     "title": "Director, Therapeutic Area Biomarker Lead (Neuroscience)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-07-09",
+    "posted_date": "2026-07-10",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -1955,7 +1935,7 @@
     "title": "Technical R&D Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-13",
+    "posted_date": "2026-07-14",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1968,7 +1948,7 @@
     "title": "Head Clinical Development AI & Technology",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-07-13",
+    "posted_date": "2026-07-14",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -2029,7 +2009,7 @@
     "title": "Post Doctoral Scientist (m/w/d)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-14",
+    "posted_date": "2026-07-15",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -2056,7 +2036,7 @@
     "title": "Internship in the PD Medical Affairs Nucleus Team - Service Solutions & Innovation (SSI) - as of 1 January 2027 for 12 months in Basel",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-14",
+    "posted_date": "2026-07-15",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2240,7 +2220,7 @@
     "title": "Staff Scientist - Spectral Cytometry Expert",
     "company": "Labcorp",
     "location": "CHE - Geneva - 7 rue Moise-Marcinhes",
-    "posted_date": "2026-07-16",
+    "posted_date": "2026-07-17",
     "department": "",
     "score": 8,
     "matched_keywords": [
@@ -2710,19 +2690,5 @@
       "MSc"
     ],
     "deducted_keywords": []
-  },
-  "https://www.michaelpage.ch/job-detail/fund-portfolio-coordinator-9-months/ref/jn-042026-6999523": {
-    "external_url": "https://www.michaelpage.ch/job-detail/fund-portfolio-coordinator-9-months/ref/jn-042026-6999523",
-    "status": "ignored",
-    "title": "Fund Portfolio Coordinator for 9 months",
-    "company": "Michael Page Switzerland",
-    "location": "Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": -2,
-    "matched_keywords": [],
-    "deducted_keywords": [
-      "location:Switzerland"
-    ]
   }
 }
