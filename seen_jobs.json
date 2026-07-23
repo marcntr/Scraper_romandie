@@ -632,7 +632,9 @@
     "https://www.michaelpage.ch/job-detail/senior-regulatory-change-manager/ref/jn-072026-7058880": "ignored",
     "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Technical-Development-Scientist--1-Jahr-befristet_202607-118385-1": "ignored",
     "https://jobs.smartrecruiters.com/CERN/744000133614022-computer-scientist-open-science-analysis-facilities-it-ca-ir-2026-139-ld-?oga=true": "ignored",
-    "https://jobs.smartrecruiters.com/Sobi/744000137095029-rdma-strategy-and-portfolio-associate-director?oga=true": "ignored"
+    "https://jobs.smartrecruiters.com/Sobi/744000137095029-rdma-strategy-and-portfolio-associate-director?oga=true": "ignored",
+    "https://jobs.smartrecruiters.com/CERN/744000134176711-project-engineer-scientist-radiation-effects-sy-sti-bmp-2026-118-grap-?oga=true": "ignored",
+    "https://jobs.boehringer-ingelheim.com/job/Basel-Medical-Science-Liaison%2C-Cardio-Renal-Metabolic-%28French-speaking-Switzerland%29-100-%28mfd%29-Swit/1406800733/": "ignored"
   },
   "_generic:Hurdle Bio": {
     "keywords": "npp"
@@ -2269,20 +2271,6 @@
       "location:Switzerland"
     ]
   },
-  "https://www.michaelpage.ch/fr/job-detail/junior-portfolio-manager-investissement-immobilier-hf/ref/jn-062026-7030669?lang=en": {
-    "external_url": "https://www.michaelpage.ch/fr/job-detail/junior-portfolio-manager-investissement-immobilier-hf/ref/jn-062026-7030669?lang=en",
-    "status": "ignored",
-    "title": "Junior Portfolio Manager - Investissement immobilier (H/F)",
-    "company": "Michael Page Switzerland",
-    "location": "Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": -2,
-    "matched_keywords": [],
-    "deducted_keywords": [
-      "location:Switzerland"
-    ]
-  },
   "https://www.michaelpage.ch/de/job-detail/business-development-specialist-100/ref/jn-032026-6968386?lang=en": {
     "external_url": "https://www.michaelpage.ch/de/job-detail/business-development-specialist-100/ref/jn-032026-6968386?lang=en",
     "status": "ignored",
@@ -2690,6 +2678,42 @@
     "matched_keywords": [
       "drug development",
       "medical affairs"
+    ],
+    "deducted_keywords": []
+  },
+  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000139279984": {
+    "description": "Vous possédez le titre de psychothérapeute reconnu au niveau fédéral et vous souhaitez mettre à profit votre expertise professionnelle au sein de l’Unité d’hospitalisation du service de psychiatrie de l'enfant et de l'adolescent (SPEA). L’Unité d’hospitalisation offre des soins hospitaliers pédopsychiatriques (Lakayou et Oïkos-Hogan), des soins de crise (Kalyva), un programme d’hôpital de Jour (Domus) et une équipe mobile (OCEJ-HUG).\nSelon votre profil, vous participez au pilotage de l’unité d’hospitalisation en collaboration avec les responsables médicaux et infirmiers et vous intégrez l’équipe des cadres de l’unité et collaborez avec les responsables des différents dispositifs intra-hospitaliers et ambulatoires de l’Unité d’Hospitalisation.\nVous collaborez avec les responsables du dispositif interface santé-social, équipe mobile OCEJ-HUG, pour développer des dynamiques collaboratives avec les partenaires institutionnels des mondes du social, de l’éducation, de la pédagogie et de la santé impliqués dans la prise en charge d’enfants et d’adolescents en grandes difficultés.\nVous assumez une fonction d’expert ou experte psychologue et vous transmettez vos connaissances notamment sous la forme de supervisions et de collaboration aux activités d’enseignement.\nDans l’intra-hospitalier, vous assurez des suivis de familles d’enfants et d’adolescents hospitalisés, vous participez à l’élaboration des projets de soins, aux réunions d’équipe et aux synthèses interdisciplinaires, en collaboration étroite avec les chefs et cheffes de cliniques, les médecins internes et avec l’équipe infirmière.\nLa mission de ce poste peut évoluer au cours du temps, pour une prise de responsabilité plus importante.",
+    "external_url": "https://jobs.smartrecruiters.com/HUG/744000139279984-psychologue-a-l-unite-d-hospitalisation-du-service-de-psychiatrie-de-l-enfant-et-de-l-adolescent-100-?oga=true",
+    "status": "matched"
+  },
+  "https://www.michaelpage.ch/job-detail/portfolio-launch-management-solutions-lead/ref/jn-072026-7069016": {
+    "external_url": "https://www.michaelpage.ch/job-detail/portfolio-launch-management-solutions-lead/ref/jn-072026-7069016",
+    "status": "matched",
+    "title": "Portfolio & Launch Management Solutions Lead (a)",
+    "company": "Michael Page Switzerland",
+    "location": "Switzerland",
+    "posted_date": "",
+    "department": "",
+    "score": -2,
+    "matched_keywords": [],
+    "deducted_keywords": [
+      "location:Switzerland"
+    ]
+  },
+  "/job/Basel-Switzerland/Scientific-Consultant-Assay-Analytics_R1314930": {
+    "description": "Are you ready to accelerate your potential and make a real difference within life sciences, diagnostics and biotechnology?\n\nAt Genedata, one of Danaher’s 15+ operating companies, our work saves lives – and we’re all united by a shared commitment to innovate for tangible impact.\n\nYou’ll thrive in a culture of belonging where you and your unique viewpoint matter. And by harnessing Danaher’s system of continuous improvement, you help turn ideas into impact – innovating at the speed of life.\n\nThe biopharmaceutical industry is undergoing a digitalization revolution, adopting data-driven R&D approaches to develop innovative therapies quicker. Genedata’s market-leading enterprise software is fueling this revolution, enabling leading biopharma, biotech, and CRDMO companies worldwide to automate processes and leverage biopharma R&D data analytics so they can find breakthrough therapies faster. Join this digital transformation and help scientists around the world accelerate the pace of biopharma R&D.\n\nLearn about the Danaher Business System which makes everything possible.\n\nThe Scientific Consultant is responsible for  ensuring our customers maximize the value of our leading software solution throughout its adoption lifecycle. This involves a mix of scientific, technical, and project management responsibilities while serving as a subject matter expert, educator, collaborator, and trusted partner. In this role, you will help shape how major biopharmaceutical organizations analyze, manage, and leverage biological data using the industry standard platform, Genedata Screener.\n\nThis position reports to the EU Head Scientific Account Manager and is part of the Screener Business Unit located in Basel (Switzerland). This role is an on-site role.\n\nIn this role, you will have the opportunity to:\nBecome a subject matter expert in Genedata Screener and the analysis of biological data\nProvide end-to-end customer support, from pre-sales engagements through deployment, implementation, optimization, and production usage\nPlan and lead a variety of projects, including scientific consulting, custom implementations, system integrations, and data analysis initiatives\nCollaborate closely with sales team colleagues to clearly communicate the value and impact of Genedata products to prospective and existing customers\nApply your scientific and technical insights to contribute to strategic initiatives in science, marketing, development, and product management functions\n\nThe essential requirements of the job include:\nA postgraduate degree in biology, bioinformatics, biochemistry, chemistry, or related life science discipline\nBasic familiarity with the shell command-line interface\nBasic experience with Python scripting language\nProject Management experience or training\nAbility to present complex scientific topics in an understandable and compelling way\n\nTravel, Motor Vehicle Record & Physical/Environment Requirements:\nAbility to travel – overnight stays up to 4 times a year in continental Europe, up to once a year intercontinental\n\nIt would be a plus if you also possess previous experience in:\nExperience from industry or academia within a drug discovery or drug development setting\n\nGenedata, a Danaher operating company, offers a broad array of comprehensive, competitive benefit programs that add value to our lives. Whether it’s a health care program or paid time off, our programs contribute to life beyond the job.\nJoin our winning team today. Together, we’ll accelerate the real-life impact of tomorrow’s science and technology. We partner with customers across the globe to help them solve their most complex challenges, architecting solutions that bring the power of science to life.\n\nFor more information, visit www.danaher.com.",
+    "external_url": "https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Basel-Switzerland/Scientific-Consultant-Assay-Analytics_R1314930",
+    "status": "matched",
+    "title": "Scientific Consultant Assay Analytics",
+    "company": "Danaher",
+    "location": "Basel, Switzerland",
+    "posted_date": "2026-07-23",
+    "department": "",
+    "score": 3,
+    "matched_keywords": [
+      "bioinformatics",
+      "drug development",
+      "drug discovery"
     ],
     "deducted_keywords": []
   }
