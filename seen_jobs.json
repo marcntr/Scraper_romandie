@@ -359,7 +359,7 @@
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-07-15"
+    "cached_at": "2026-07-23"
   },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000085340717": {
     "description": "One of CERN’s key missions is education. Our experts enjoy sharing their knowledge with committed and passionate students. If you are an undergraduate student in a technical or administrative field , and you’re looking to spend a few months training on-the-job, imagine doing your internship at CERN in Geneva. An impressive addition to your CV! We offer a limited number of placements in our practical training programme. Duration 1 – 6 months. !Important!: Please note that only nationals of CERN Member States or Associate Member States are eligible to apply. Applications from other countries will not be considered.",
@@ -388,7 +388,7 @@
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-07-15"
+    "cached_at": "2026-07-23"
   },
   "_facets:alirahealth:AliraHealth": {
     "facets": {},
@@ -871,7 +871,7 @@
     "title": "Clinical Scientist in neurosciences",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-06-22",
+    "posted_date": "2026-06-23",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -887,7 +887,7 @@
     "title": "Scientist, Pharmaceutical Development & Data Analytics _2 years temporary contract",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-06-22",
+    "posted_date": "2026-06-23",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -902,7 +902,7 @@
     "title": "Technical Expert Portfolio Mgmt, Technical Feasibility and Planning",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-06-22",
+    "posted_date": "2026-06-23",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -915,7 +915,7 @@
     "title": "Sr. Scientist - Computational Biology - Neuroscience & Rare Diseases",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-06-22",
+    "posted_date": "2026-06-23",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -938,7 +938,7 @@
     "title": "Global Medical Director, Evidence Generation Lead",
     "company": "Biogen",
     "location": "Baar, Switzerland",
-    "posted_date": "2026-06-22",
+    "posted_date": "2026-06-23",
     "department": "",
     "score": -2,
     "matched_keywords": [
@@ -957,7 +957,7 @@
     "title": "Senior Medical Director, Nephrology, Global Medical Affairs",
     "company": "Biogen",
     "location": "Baar, Switzerland",
-    "posted_date": "2026-06-22",
+    "posted_date": "2026-06-23",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -1043,7 +1043,7 @@
     "title": "Senior Scientist Material Management & Qualification - Quality Control",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-06-22",
+    "posted_date": "2026-06-23",
     "department": "",
     "score": -1,
     "matched_keywords": [
@@ -1060,7 +1060,7 @@
     "title": "Senior Scientist microbiological Quality Control",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-06-22",
+    "posted_date": "2026-06-23",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -1075,7 +1075,7 @@
     "title": "Scientist Microbiological Quality Control",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-06-22",
+    "posted_date": "2026-06-23",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -1090,7 +1090,7 @@
     "title": "R&D Scientist – Scientific Data Analytics (d/f/m)",
     "company": "Danaher",
     "location": "Basel, Switzerland",
-    "posted_date": "2026-06-23",
+    "posted_date": "2026-06-24",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1116,7 +1116,7 @@
     "title": "Senior Scientist QA Operations",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-06-29",
+    "posted_date": "2026-06-30",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -1172,7 +1172,7 @@
     "title": "Associate Scientist / Senior Laboratory Specialist",
     "company": "CSL Behring / Vifor",
     "location": "EMEA, CH, Kanton Bern, Bern, CSL Behring",
-    "posted_date": "2026-06-30",
+    "posted_date": "2026-07-01",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1204,7 +1204,7 @@
     "title": "In Vitro Bioanalysis Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-01",
+    "posted_date": "2026-07-02",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -1242,7 +1242,7 @@
     "title": "Principal Scientist si-RNA Design",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-01",
+    "posted_date": "2026-07-02",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1258,7 +1258,7 @@
     "title": "Mechanistic Immuno Tox Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-01",
+    "posted_date": "2026-07-02",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -1277,7 +1277,7 @@
     "title": "Investigative Toxicology Junior Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-01",
+    "posted_date": "2026-07-02",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -1301,7 +1301,7 @@
     "title": "Hematology and Safety Biomarker Expert",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-01",
+    "posted_date": "2026-07-02",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -1322,7 +1322,7 @@
     "title": "Internship Scientist Forensic Chemistry 6 months contract 80-100%",
     "company": "Lonza",
     "location": "CH - Basel",
-    "posted_date": "2026-07-01",
+    "posted_date": "2026-07-02",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1435,7 +1435,7 @@
     "title": "Senior Scientist Electronic Laboratory Systems",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-07-02",
+    "posted_date": "2026-07-03",
     "department": "",
     "score": -1,
     "matched_keywords": [
@@ -1551,7 +1551,7 @@
     "title": "Senior/Principal Scientist - NMR Expert",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-07",
+    "posted_date": "2026-07-08",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1567,7 +1567,7 @@
     "title": "Director, Corporate Strategy & Business Development",
     "company": "Alcon",
     "location": "Geneva, Switzerland",
-    "posted_date": "2026-07-07",
+    "posted_date": "2026-07-08",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -1684,11 +1684,6 @@
     "external_url": "https://jobs.smartrecruiters.com/HUG/744000136776039-stage-en-gestion-de-projet-pole-diversite-equite-et-inclusion-100-?oga=true",
     "status": "matched"
   },
-  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000136769671": {
-    "description": "Poste de psychologue en formation en psychothérapie au sein du Service de Psychiatrie de Liaison et d’Intervention de Crise pour une durée de 15 à 20 mois selon le taux d'activité à compter du 1er novembre 2026.\nVous suivez actuellement une formation post graduée en psychothérapie selon le modèle cognitivo-comportemental et vous souhaitez acquérir une expérience clinique dans une consultation spécialisée pour la prise en soins multidisciplinaire de patients et patientes souffrant de troubles du comportement alimentaire et dans une consultation spécialisée en psychotraumatologie, TraumaCare.\nVous avez à assurer des suivis individuels et groupaux ainsi que des évaluations cliniques approfondies sous la supervision de professionnelles et professionnels expérimentés. \nUne expérience dans l’évaluation diagnostique et la prise en charge psychothérapeutique de patientes et patients adultes serait appréciée. Vous devez vous conformer aux directives institutionnelles pour toutes les questions liées aux situations suivies et à la saisie de vos prestations.",
-    "external_url": "https://jobs.smartrecruiters.com/HUG/744000136769671-psychologue-en-formation-en-psychotherapie-selon-le-modele-de-la-therapie-cognitivo-comportementale-60-a-80-?oga=true",
-    "status": "matched"
-  },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000136833040": {
     "description": "Introduction:\nYou will contribute to the planning, deployment, operation and maintenance of a modern and high-end hybrid conference infrastructure consisting of nearly 200 meeting rooms and 13 auditoriums used every day by thousands of people at CERN. Working with users, technical teams and external contractors, you will coordinate audiovisual installations and refurbishments, ensure the standardisation of AV equipment, support the deployment of new technologies and contribute to the continuous improvement of conferencing services.\nFunctions:\nEnsure the standardisation of AV equipment across conference and meeting rooms (projectors, LCD screens, video/audio conferencing systems, sound reinforcement and interpretation systems) and maintain an active technology watch to recommend the most suitable AV solutions.\nCoordinate the design, installation and renovation AV systems in compliance with CERN technical standards, including the programming and maintenance of Extron and Crestron equipment controllers.\nEstablish and maintain the master plan for the renovation of AV equipment in meeting rooms and auditoriums, including equipment selection, installation design, commercial offer analysis and coordination with other services involved in room renovation.\nCoordinate the work of external contractors, including equipment installers and operational support teams, organise site visits, ensure maintenance and operational interventions, and manage AV maintenance contracts.\nProvide third-line technical support, identify and resolve complex technical issues, collaborate with webcast, recording and video conferencing services, and contribute to the continuous improvement of conferencing services.",
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000136833040-audiovisual-installation-operations-coordinator-sce-sg-tf-2026-143-ld-?oga=true",
@@ -1711,7 +1706,7 @@
     "title": "Principal Operations AI Data Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-10",
+    "posted_date": "2026-07-11",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1724,7 +1719,7 @@
     "title": "Medical Director, Gastroenterology, Early Clinical Development",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-06-22",
+    "posted_date": "2026-06-23",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -1749,7 +1744,7 @@
     "title": "Director - Immunology Therapeutic Area Biomarker Lead (TABL)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-06-23",
+    "posted_date": "2026-06-24",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -1773,7 +1768,7 @@
     "title": "Translational Medicine Expert – Dermatology, Associate Director",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-06-22",
+    "posted_date": "2026-06-23",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -1796,7 +1791,7 @@
     "title": "Expert Analytical Scientist (m/f/d)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-07-06",
+    "posted_date": "2026-07-07",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1811,7 +1806,7 @@
     "title": "Patent Attorney",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-07-06",
+    "posted_date": "2026-07-07",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1824,7 +1819,7 @@
     "title": "Senior Principal Scientist - Proteomics",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-07-09",
+    "posted_date": "2026-07-10",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -1844,7 +1839,7 @@
     "title": "Senior Expert / Senior Principal PKS Data Scientist & Scientific Software Engineer (Dual level posting)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-06-30",
+    "posted_date": "2026-07-01",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -1857,24 +1852,6 @@
       "preclinical",
       "translational medicine",
       "translational research"
-    ],
-    "deducted_keywords": []
-  },
-  "/job/Basel-City/Director--Therapeutic-Area-Biomarker-Lead--Neuroscience-_REQ-10081535-1": {
-    "description": "Salary Range:CHF142,100.00 - CHF263,900.00\n\n \nJob Description SummaryOffice Location: Basel, Switzerland\n#LI-Hybrid Hybrid (12 days per month on-site)\n\nRelocation Support: Novartis is unable to offer relocation support - please only apply if this location is accessible to you\n\nAbout this role:\nMake a meaningful impact where science meets patient care—join us in shaping the future of neuroscience. As Director, TABL (Neuroscience), you’ll play a key role in bringing innovative therapies closer to patients by translating scientific discovery into real-world clinical impact. You’ll work alongside passionate, cross-functional teams across research, development, and data science, contributing your expertise to advance precision medicine across a diverse portfolio. This is an exciting opportunity to grow your influence, lead with purpose, and help unlock new possibilities for patients while collaborating in a supportive and forward-thinking environment.\n\n \nJob Description\n\nMajor Accountabilities:\n\nAccountable for development and implementation of the biomarker strategy for a portfolio of program(s)/disease indication and coordinates biomarker and diagnostics related elements for clinical projects as appropriate in close collaboration with research, development, precision medicine and commercial\n\nIdentifies potential project hurdles, provides solutions and establishes contingency plans. Represents Biomarker Development (BMD) on Biomedical Research (BR) or Development project team(s)\n\nResponsible for supervising, training, and mentoring of Biomarker Experts, and to ensure line function excellence with respect to administrative efficiency, scientific and technical achievement\n\nProactively contributes expert biomarker input into key clinical and regulatory documents including clinical study protocols, clinical study reports, investigator brochures, Investigational New Drug application (IND) / Investigational Medicinal Product Dossiers (IMPDs) and New Drug Application/Biologics License Applications within agreed timelines and addresses all regulatory requirements with minimal supervision\n\nResponsible for the biomarker component of study protocols, reports, project summaries and development plans within agreed timelines and which meet regulatory requirements. Prepare appropriate responses to Health Authority questions (globally)\n\nLeads/co-leads Translational Data Science Committee (TDSC) and analytical clusters as relevant to their disease areas or asset, oversees biomarker analyses together with the biomarker sub team and integrates, interprets and reports data to project teams and other customers\n\nLeads Biomarker sub-teams and coordinates with appropriate sub-team members and ensures implantation of project strategy and/or prepares summary documentation\n\nMaintains and enhances technical and drug development expertise (e.g. training courses, external meeting attendance), and trains other BMD associates. May act as technical / scientific subject matter expert in key BMD related area\n\nPublishes internally and/or externally as main contributor; patent applications; reviews current literature in own discipline and related areas and proactively shares\n\nRole Requirements:\n\nDoctor of Philosophy or Doctor of Pharmacy with strong background in biomarker development or related biological sciences\n\nMinimum eight to ten years’ experience in drug development functions such as biomarker or translational science\n\nAt least five years’ experience within a relevant line function in industry, academia, or regulatory agency\n\nExtensive knowledge of disease biomarkers, pharmacology, and pharmacokinetic and pharmacodynamic evaluation\n\nStrong understanding of regulatory requirements and experience supporting clinical and regulatory documentation\n\nDemonstrated success leading and influencing multidisciplinary global project teams, with strong negotiation skills\n\nProven leadership with strong coaching, mentoring, and people management capabilities\n\nFluent in English, both spoken and written; additional languages are an advantage\n\nExcellent organizational and project skills\n\nStrong coaching, mentoring and people management skills\n\nReady to make a meaningful impact in neuroscience and help bring innovative therapies to patients? We would love to hear from you—apply today and join us in shaping the future of medicine.\n\nBenefits & Rewards \n\nAt Novartis, we’re committed to reimagining medicine together - and rewarding the people who make it happen. \n  \nExpected Annual Base Salary Range for role:  CHF 142,100 - 263,900\n \nThe base salary offered is determined based on gender-neutral objectives, such as relevant skills, competencies and experience in accordance with the Novartis pay setting policy and upon joining Novartis will be reviewed periodically. \n  \nIn addition to your base salary, you may be eligible for a performance-based bonus depending on certain performance parameters. Long-term equity awards granted at group level may also be part of your package. Further details will be provided during the application process.  \n\nThe rewards of being part of our team go far beyond base pay and incentives. We also offer a variety of competitive benefits in kind to help you thrive personally and professionally, such as insurance plans, retirement plans, wellbeing resources and global recognition programs. In addition, we provide flexible and hybrid working options, where possible, and minimum 14 weeks paid parental leave. \n\nPay equity is a fundamental principle of our employment policy and reflects our commitment to create a diverse, equitable and inclusive environment that treats all employees with dignity and respect, as outlined in our Code of Ethics. \n  \nRead our brochure to learn more about our global total rewards offering: \n  \nhttps://www.novartis.com/sites/novartis_com/files/novartis-life-handbook.pdf \n  \nNote: Benefits and compensation may vary by country and are subject to local legal requirements, including provisions of collective bargaining agreements where applicable. A full overview of your compensation package, including any relevant collective bargaining agreement details applicable to your role based on your employment location and Novartis employer entity, will be communicated separately to you during the application process.\n  \nAccessibility and accommodation\nNovartis is committed to working with and providing reasonable accommodation to all individuals. If, because of a medical condition or disability, you need a reasonable accommodation for any part of the recruitment process, or in order to receive more detailed information about the essential functions of a \nposition, please send an e-mail to diversity.inclusion_ch@novartis.com and let us know the nature of your request and your contact information. Please include the job requisition number in your message.\n\n \nSkills DesiredAnalytical Skill (Inactive), Analytical Skill (Inactive), Analytical Thinking, Chemical Biology, Chemistry, Clinical Research, Clinical Trials, Collaboration, Communication Skills (Inactive), Curious Mindset, Data (Inactive), Data Analysis, Decision Making, Design of Experiments (DOE), Detail-Oriented, Drug Development, Drug Discovery Process, Ethics, Gene Therapy- Leadership (Inactive), Influence (Inactive), Laboratory (Inactive), Leading Project Teams, Lifesciences (Inactive), Machine Learning (ML), Medical Research {+ 11 more}",
-    "external_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Basel-City/Director--Therapeutic-Area-Biomarker-Lead--Neuroscience-_REQ-10081535-1",
-    "status": "ignored",
-    "title": "Director, Therapeutic Area Biomarker Lead (Neuroscience)",
-    "company": "Novartis",
-    "location": "Basel (City)",
-    "posted_date": "2026-07-09",
-    "department": "",
-    "score": 4,
-    "matched_keywords": [
-      "biomarker strategy",
-      "drug development",
-      "drug discovery",
-      "pharmacology"
     ],
     "deducted_keywords": []
   },
@@ -1905,7 +1882,7 @@
     "title": "Technical R&D Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-13",
+    "posted_date": "2026-07-14",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1918,7 +1895,7 @@
     "title": "Head Clinical Development AI & Technology",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-07-13",
+    "posted_date": "2026-07-14",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1979,7 +1956,7 @@
     "title": "Post Doctoral Scientist (m/w/d)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-14",
+    "posted_date": "2026-07-15",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -2001,7 +1978,7 @@
     "title": "Internship in the PD Medical Affairs Nucleus Team - Service Solutions & Innovation (SSI) - as of 1 January 2027 for 12 months in Basel",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-14",
+    "posted_date": "2026-07-15",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2081,7 +2058,7 @@
     "title": "Sr Global HEOR & Payer Evidence Lead",
     "company": "Abbott",
     "location": "Switzerland - Basel",
-    "posted_date": "2026-07-15",
+    "posted_date": "2026-07-16",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -2185,7 +2162,7 @@
     "title": "Staff Scientist - Spectral Cytometry Expert",
     "company": "Labcorp",
     "location": "CHE - Geneva - 7 rue Moise-Marcinhes",
-    "posted_date": "2026-07-16",
+    "posted_date": "2026-07-17",
     "department": "",
     "score": 8,
     "matched_keywords": [
@@ -2219,7 +2196,7 @@
     "title": "Business Development Manager (m/w/d) Neuromodulation – Schweiz",
     "company": "Abbott",
     "location": "Switzerland - Baar",
-    "posted_date": "2026-07-17",
+    "posted_date": "2026-07-18",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -2509,7 +2486,7 @@
     "title": "Senior Principal Scientist / Associate Director Translational Oncology",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-07-20",
+    "posted_date": "2026-07-21",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -2697,7 +2674,7 @@
     "title": "Scientist Synthesis Automation",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-22",
+    "posted_date": "2026-07-23",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2712,7 +2689,7 @@
     "title": "Commercial Portfolio Head Region Europe",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-07-22",
+    "posted_date": "2026-07-23",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -2730,7 +2707,7 @@
     "title": "Associate Director, EU Regulatory Lead Neuroscience",
     "company": "Takeda",
     "location": "Zurich, Switzerland",
-    "posted_date": "2026-07-22",
+    "posted_date": "2026-07-23",
     "department": "",
     "score": 1,
     "matched_keywords": [
