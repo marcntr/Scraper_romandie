@@ -9,7 +9,7 @@
     "keywords": "npp"
   },
   "_generic:Charles River Laboratories": {
-    "keywords": "business development,business development manager,regulatory"
+    "keywords": "business development,business development manager,regulatory,scientist"
   },
   "_generic:MoonLake Immunotherapeutics": {
     "keywords": "clinical development,medical affairs"
@@ -1350,7 +1350,7 @@
     "company": "Adaptyv Bio",
     "location": "Lausanne",
     "posted_date": "2026-06-06",
-    "department": "Software & Lab Automation",
+    "department": "Software",
     "score": 6,
     "matched_keywords": [
       "assay development",
@@ -2246,20 +2246,6 @@
       "location:Switzerland"
     ]
   },
-  "https://www.michaelpage.ch/de/job-detail/business-development-specialist-100/ref/jn-032026-6968386?lang=en": {
-    "external_url": "https://www.michaelpage.ch/de/job-detail/business-development-specialist-100/ref/jn-032026-6968386?lang=en",
-    "status": "ignored",
-    "title": "Business Development Specialist (a) 100%",
-    "company": "Michael Page Switzerland",
-    "location": "Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": -2,
-    "matched_keywords": [],
-    "deducted_keywords": [
-      "location:Switzerland"
-    ]
-  },
   "https://www.michaelpage.ch/job-detail/sp%C3%A9cialiste-middle-office-portfolio-management-1-mois/ref/jn-052026-7018018": {
     "external_url": "https://www.michaelpage.ch/job-detail/sp%C3%A9cialiste-middle-office-portfolio-management-1-mois/ref/jn-052026-7018018",
     "status": "ignored",
@@ -2665,20 +2651,6 @@
     "external_url": "https://www.michaelpage.ch/job-detail/portfolio-launch-management-solutions-lead/ref/jn-072026-7069016",
     "status": "matched",
     "title": "Portfolio & Launch Management Solutions Lead (a)",
-    "company": "Michael Page Switzerland",
-    "location": "Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": -2,
-    "matched_keywords": [],
-    "deducted_keywords": [
-      "location:Switzerland"
-    ]
-  },
-  "https://www.michaelpage.ch/fr/job-detail/junior-portfolio-manager-investissement-immobilier-hf/ref/jn-062026-7030669?lang=en": {
-    "external_url": "https://www.michaelpage.ch/fr/job-detail/junior-portfolio-manager-investissement-immobilier-hf/ref/jn-062026-7030669?lang=en",
-    "status": "ignored",
-    "title": "Junior Portfolio Manager - Investissement immobilier (H/F)",
     "company": "Michael Page Switzerland",
     "location": "Switzerland",
     "posted_date": "",
