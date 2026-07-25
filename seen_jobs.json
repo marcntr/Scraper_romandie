@@ -9,7 +9,7 @@
     "keywords": "npp"
   },
   "_generic:Charles River Laboratories": {
-    "keywords": "business development,business development manager,regulatory"
+    "keywords": "regulatory"
   },
   "_generic:MoonLake Immunotherapeutics": {
     "keywords": "clinical development,medical affairs"
@@ -402,7 +402,7 @@
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-07-17"
+    "cached_at": "2026-07-25"
   },
   "_generic:Release Therapeutics": {
     "keywords": "npp"
@@ -771,11 +771,6 @@
     "external_url": "https://jobs.smartrecruiters.com/HUG/744000131896859-medecin-interne-au-departement-de-readaptation-et-geriatrie-100-?oga=true",
     "status": "matched"
   },
-  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000130751909": {
-    "description": "En regard de votre parcours de formation pour l’obtention de votre titre en psychiatrie et psychothérapie, vous intégrez une unité de soins du département et assurez, au sein d'une équipe pluridisciplinaire, le suivi psychiatrique et psychothérapeutique ambulatoire des adolescents et adolescentes à la Clairière.\nParallèlement à votre activité, vous bénéficiez d'une formation post-graduée clinique et structurée de qualité selon les exigences de la FMH pour l'obtention du titre de spécialiste en psychiatrie et psychothérapie de l’enfant et de l’adolescent.\nIl vous est également possible de participer aux activités de recherches en cours au niveau des services. Vous pouvez également bénéficier d’un accompagnement pour effectuer une thèse de doctorat.",
-    "external_url": "https://jobs.smartrecruiters.com/HUG/744000130751909-medecin-interne-en-pedopsychiatrie-a-la-clairiere-100-?oga=true",
-    "status": "matched"
-  },
   "https://www.stettlerconsulting.ch/en/current-vacancies/conseiller-medical-en-urologie-a-definir/": {
     "external_url": "https://www.stettlerconsulting.ch/en/current-vacancies/conseiller-medical-en-urologie-a-definir/",
     "status": "ignored",
@@ -868,7 +863,7 @@
     "title": "Clinical Scientist in neurosciences",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-06-24",
+    "posted_date": "2026-06-25",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -884,7 +879,7 @@
     "title": "Scientist, Pharmaceutical Development & Data Analytics _2 years temporary contract",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-06-24",
+    "posted_date": "2026-06-25",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -899,7 +894,7 @@
     "title": "Technical Expert Portfolio Mgmt, Technical Feasibility and Planning",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-06-24",
+    "posted_date": "2026-06-25",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -912,7 +907,7 @@
     "title": "Sr. Scientist - Computational Biology - Neuroscience & Rare Diseases",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-06-24",
+    "posted_date": "2026-06-25",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -935,7 +930,7 @@
     "title": "Global Medical Director, Evidence Generation Lead",
     "company": "Biogen",
     "location": "Baar, Switzerland",
-    "posted_date": "2026-06-24",
+    "posted_date": "2026-06-25",
     "department": "",
     "score": -2,
     "matched_keywords": [
@@ -954,7 +949,7 @@
     "title": "Senior Medical Director, Nephrology, Global Medical Affairs",
     "company": "Biogen",
     "location": "Baar, Switzerland",
-    "posted_date": "2026-06-24",
+    "posted_date": "2026-06-25",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -1005,7 +1000,7 @@
     "title": "Senior Scientist microbiological Quality Control",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-06-24",
+    "posted_date": "2026-06-25",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -1020,7 +1015,7 @@
     "title": "Scientist Microbiological Quality Control",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-06-24",
+    "posted_date": "2026-06-25",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -1035,7 +1030,7 @@
     "title": "R&D Scientist – Scientific Data Analytics (d/f/m)",
     "company": "Danaher",
     "location": "Basel, Switzerland",
-    "posted_date": "2026-06-24",
+    "posted_date": "2026-06-25",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1061,7 +1056,7 @@
     "title": "Senior Scientist QA Operations",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-06-29",
+    "posted_date": "2026-06-30",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -1107,7 +1102,7 @@
     "title": "Associate Scientist / Senior Laboratory Specialist",
     "company": "CSL Behring / Vifor",
     "location": "EMEA, CH, Kanton Bern, Bern, CSL Behring",
-    "posted_date": "2026-06-30",
+    "posted_date": "2026-07-01",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1139,7 +1134,7 @@
     "title": "In Vitro Bioanalysis Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-01",
+    "posted_date": "2026-07-02",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -1172,7 +1167,7 @@
     "title": "Principal Scientist si-RNA Design",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-01",
+    "posted_date": "2026-07-02",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1188,7 +1183,7 @@
     "title": "Mechanistic Immuno Tox Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-01",
+    "posted_date": "2026-07-02",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -1207,7 +1202,7 @@
     "title": "Investigative Toxicology Junior Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-01",
+    "posted_date": "2026-07-02",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -1231,7 +1226,7 @@
     "title": "Hematology and Safety Biomarker Expert",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-01",
+    "posted_date": "2026-07-02",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -1252,7 +1247,7 @@
     "title": "Internship Scientist Forensic Chemistry 6 months contract 80-100%",
     "company": "Lonza",
     "location": "CH - Basel",
-    "posted_date": "2026-07-01",
+    "posted_date": "2026-07-02",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1365,7 +1360,7 @@
     "title": "Senior Scientist Electronic Laboratory Systems",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-07-02",
+    "posted_date": "2026-07-03",
     "department": "",
     "score": -1,
     "matched_keywords": [
@@ -1461,7 +1456,7 @@
     "title": "Senior/Principal Scientist - NMR Expert",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-07",
+    "posted_date": "2026-07-08",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1477,7 +1472,7 @@
     "title": "Director, Corporate Strategy & Business Development",
     "company": "Alcon",
     "location": "Geneva, Switzerland",
-    "posted_date": "2026-07-07",
+    "posted_date": "2026-07-08",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -1611,7 +1606,7 @@
     "title": "Principal Operations AI Data Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-10",
+    "posted_date": "2026-07-11",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1624,7 +1619,7 @@
     "title": "Medical Director, Gastroenterology, Early Clinical Development",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-06-24",
+    "posted_date": "2026-06-25",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -1649,7 +1644,7 @@
     "title": "Director - Immunology Therapeutic Area Biomarker Lead (TABL)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-06-24",
+    "posted_date": "2026-06-25",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -1673,7 +1668,7 @@
     "title": "Translational Medicine Expert – Dermatology, Associate Director",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-06-24",
+    "posted_date": "2026-06-25",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -1696,7 +1691,7 @@
     "title": "Patent Attorney",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-07-06",
+    "posted_date": "2026-07-07",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1709,7 +1704,7 @@
     "title": "Senior Principal Scientist - Proteomics",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-07-09",
+    "posted_date": "2026-07-10",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -1729,7 +1724,7 @@
     "title": "Senior Expert / Senior Principal PKS Data Scientist & Scientific Software Engineer (Dual level posting)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-06-30",
+    "posted_date": "2026-07-01",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -1772,7 +1767,7 @@
     "title": "Technical R&D Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-13",
+    "posted_date": "2026-07-14",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1785,7 +1780,7 @@
     "title": "Head Clinical Development AI & Technology",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-07-13",
+    "posted_date": "2026-07-14",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1846,7 +1841,7 @@
     "title": "Post Doctoral Scientist (m/w/d)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-14",
+    "posted_date": "2026-07-15",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1868,7 +1863,7 @@
     "title": "Internship in the PD Medical Affairs Nucleus Team - Service Solutions & Innovation (SSI) - as of 1 January 2027 for 12 months in Basel",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-14",
+    "posted_date": "2026-07-15",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1948,7 +1943,7 @@
     "title": "Sr Global HEOR & Payer Evidence Lead",
     "company": "Abbott",
     "location": "Switzerland - Basel",
-    "posted_date": "2026-07-15",
+    "posted_date": "2026-07-16",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -2040,11 +2035,6 @@
     "external_url": "https://jobs.smartrecruiters.com/HUG/744000138037854-aide-en-soins-et-accompagnement-80-a-100-?oga=true",
     "status": "matched"
   },
-  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000138039299": {
-    "description": "Le Département de chirurgie recherche un ou une secrétaire médicale polyvalente pour intégrer son équipe et jouer un rôle clé dans le bon fonctionnement des services. Ce poste s’adresse à une personne dynamique, curieuse et autonome, dotée d’un fort sens du service et capable d’évoluer avec aisance dans un environnement exigeant et stimulant.\nEn étroite collaboration avec les équipes médicales et les secrétariats, vous assurez une coordination fluide et contribuez à garantir une continuité de service optimale. Par votre réactivité, votre sens de l’organisation et votre polyvalence, vous participez directement à la qualité de la prise en charge des patients et patientes.\nEn tant que secrétaire polyvalente ou polyvalent, vous intervenez en renfort dans les huit services du département. À ce titre, vous accueillez et orientez la patientèle, gérez les appels téléphoniques, organisez les consultations, préparez les dossiers et planifiez, lorsque nécessaire, les examens complémentaires. Vous assurez le suivi administratif courant, incluant la gestion du courrier, de la messagerie générique, des garanties de prise en charge et des estimations financières.\nVous prenez en charge les activités de back-office, incluant la dactylographie et la relecture de la documentation clinique, ainsi que le traitement des demandes de renseignements médicaux. Vous assurez une gestion administrative rigoureuse et garantissez la confidentialité des informations.",
-    "external_url": "https://jobs.smartrecruiters.com/HUG/744000138039299-secretaire-medical-polyvalent-ou-medicale-polyvalente-100-?oga=true",
-    "status": "matched"
-  },
   "/job/CHE---Geneva---7-rue-Moise-Marcinhes/Senior-Staff-Scientist---Flow-Cytometry_264018-1": {
     "description": "Labcorp is a global leader in laboratory services, providing the insights and answers that help healthcare providers, patients, researchers, pharmaceutical companies and health systems make confident decisions and improve outcomes. Through our unparalleled science, data, technology and laboratory network, we advance diagnostics, accelerate innovation and help address some of the world’s most important health challenges. As we shape the future of healthcare, we are leveraging advanced technologies, intelligent digital solutions and data-driven innovation across our operations to enhance how work gets done and deliver greater value to customers and patients. With our global scale and deep expertise, you’ll have the opportunity to do meaningful work, grow your career and make a real impact on people’s health around the world. Together, we’re improving health and improving lives.\n\nLabcorp is seeking a Staff Scientist in Flow Cytometry for our site in Geneva, Switzerland.\n\nJob Responsibilities\nPerform complex troubleshooting and assist in leading initiatives to solve challenging scientific problems with assays or instrumentation.\nApply and interpret scientific theories, concepts, techniques and regulatory requirements in clinical studies and accept leadership role in developing scientific approaches.\nProvide consultation to scientific and operational staff on technical issues.\nRespond to unscheduled deadlines, client needs, crises, etc. without neglecting other duties.\nAssist with regular monitoring and evaluation of clinical assays to ensure effective scientific performance.\nProvide technical training for operational staff.\nProvide technical/scientific consultation to departments outside the lab (i.e., Project Management) as requested.\nContribute to long-term planning and technical policies of the department.\nAssist in managing scientific vendor relationships to troubleshoot issues and improve capabilities.\nParticipate in client visits.\nRegularly read literature related to scientific area of expertise to remain current in knowledge.\nGive presentations to clients and professional groups.\nAttend meetings, conferences, symposia, and seminars to promote CLS’s capabilities within dedicated scientific area.\n\nMinimum Qualifications\n\nPhD in science\n\n4 or more years of experience in Spectral Flow Cytometry using Cytek Aurora instrumentation.\n\nPreferred Qualifications\n\n3 or more years of experience in clinical laboratory automation, system software, Microsoft applications and laboratory statistics.\n\nAdditional Job Standards\nHighly skilled in conducting research, data interpretation, and writing reports.\nProven track record of method development.\nExperience performing scientific presentations and preparing scientific publications.\nGood team player with effective communication skills with technical staff, business development staff, peers and clients.\nAttention to detail and interpretation of scientific data.\nDemonstrated problem prevention, detection and resolution.\nFluent in English, French is considered as a plus.\n\nIf you are looking for a company where you can gain exposure to a wide variety of science and explore a multitude of career paths across the drug development spectrum, consider working at Labcorp as a Staff Scientist in Flow Cytometry.\nIn this role, you will participate in scientific activities and initiatives in support of global Laboratory Operations. You will perform complex trouble-shooting and problem-solving, supporting Lab Operations to ensure smooth transition of assays into production. You will participate in developing/identifying new strategies, techniques and instrumentation for the development of new ventures in the scientific area of expertise for Central Laboratory Services global Laboratory Operations.\n\nLabcorp is proud to be an Equal Opportunity Employer:\nLabcorp strives for inclusion and belonging in the workforce and does not tolerate harassment or discrimination of any kind. We make employment decisions based on the needs of our business and the qualifications and merit of the individual. Qualified applicants will receive consideration for employment without regard to race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), family or parental status, marital, civil union or domestic partnership status, sexual orientation, gender identity, gender expression, personal appearance, age, veteran status, disability, genetic information, or any other legally protected characteristic. Additionally, all qualified applicants with arrest or conviction records will be considered for employment in accordance with applicable law. \n\nWe encourage all to apply\nIf you are an individual with a disability who needs assistance using our online tools to search and apply for jobs, or needs an accommodation, please visit our accessibility site or contact us at Labcorp Accessibility. For more information about how we collect and store your personal data, please see our Privacy Statement.",
     "external_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/CHE---Geneva---7-rue-Moise-Marcinhes/Senior-Staff-Scientist---Flow-Cytometry_264018-1",
@@ -2052,7 +2042,7 @@
     "title": "Staff Scientist - Spectral Cytometry Expert",
     "company": "Labcorp",
     "location": "CHE - Geneva - 7 rue Moise-Marcinhes",
-    "posted_date": "2026-07-16",
+    "posted_date": "2026-07-17",
     "department": "",
     "score": 8,
     "matched_keywords": [
@@ -2086,7 +2076,7 @@
     "title": "Business Development Manager (m/w/d) Neuromodulation – Schweiz",
     "company": "Abbott",
     "location": "Switzerland - Baar",
-    "posted_date": "2026-07-17",
+    "posted_date": "2026-07-18",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -2492,7 +2482,7 @@
     "title": "Scientist Synthesis Automation",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-22",
+    "posted_date": "2026-07-23",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2507,7 +2497,7 @@
     "title": "Commercial Portfolio Head Region Europe",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-07-22",
+    "posted_date": "2026-07-23",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -2525,7 +2515,7 @@
     "title": "Associate Director, EU Regulatory Lead Neuroscience",
     "company": "Takeda",
     "location": "Zurich, Switzerland",
-    "posted_date": "2026-07-22",
+    "posted_date": "2026-07-23",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2705,11 +2695,11 @@
   "/job/Basel/Cardio-Renal-Discovery-Area-Leader---Expert-Scientist_202606-116302-2": {
     "description": "At Roche you can show up as yourself, embraced for the unique qualities you bring. Our culture encourages personal expression, open dialogue, and genuine connections,  where you are valued, accepted and respected for who you are, allowing you to thrive both personally and professionally. This is how we aim to prevent, stop and cure diseases and ensure everyone has access to healthcare today and for generations to come. Join Roche, where every voice matters.\n\nThe Position\nIn Roche’s Pharmaceutical Research and Early Development organization (pRED), we make transformative medicines for patients in order to tackle some of the world’s toughest unmet healthcare needs. At pRED, we are united by our mission to transform science into medicines. Together, we create a culture defined by curiosity, responsibility, and humility, where our talented people are empowered and inspired to bring forward extraordinary life-changing innovation at speed.\n\npRED Cardiovascular & Metabolism, Immunology (CMI), located in Basel, Switzerland, focuses on the discovery and early development of innovative treatments for specific diseases that affect the lives of millions. In the cardiovascular and metabolism area, we are developing cutting-edge therapies to treat metabolic diseases. \n\nThe Position\nThe Cardio-Renal Discovery Area Leader is a newly created and premier scientific leadership role within the CVRM therapeutic area, acting as the principal architect of the early-stage pipeline in cardiovascular and renal diseases. The focus is on pioneering novel cardiovascular and renal discovery programs and advancing them from target assessment through preclinical candidate selection . This role emphasizes deep, mechanistic disease expertise, leading an elite team of translational scientists and discovery biologists to interrogate the complex, interconnected biology of the cardiorenal axis.  \nThis role reports directly to the Discovery Head of CVRM. Key interactions include presenting high-level portfolio strategies to the Leadership Team and governance boards, as well as maintaining deep collaborative relationships with world-renowned scientists and academic networks in cardiology and nephrology. \n\nAs a leader in CMI, you act as a catalyst for innovation, championing an enterprise mindset that prioritizes long-term scientific impact. You cultivate an environment of high performance and psychological safety, empowering elite teams of translational scientists to interrogate complex cardiorenal biology. Your leadership is defined by an unwavering commitment to integrity, courage, and passion, driving the organization to deliver transformative breakthroughs for patients.\n \nYour key responsibilities will include:  \n\nNovel Target Identification: Drive scientific strategy to validate disease-modifying targets across CV and renal segments.\n\nMechanistic Subspecialties: Champion programs targeting advanced mechanisms like myocardial energetics and podocyte injury.\n\nModality-Agnostic Innovation: Lead teams across small molecules, RNA-based therapeutics, and advanced biologics.\n\nPhenotypic & Human-Centric Screening: Oversee 3D cardiac organoids and kidney-on-a-chip models.\n\nPreclinical-to-Clinical Translation: Accountability for scientific integrity of preclinical pharmacology and design architecture for transitioning leads into IND/CTA-enabling packages.\n\nScouting & Due Diligence: Serve as technical authority for evaluating external assets and biotech platforms.\n\nScientific Eminence: Cultivate collaborative relationships with academic research networks and consortia.\n\nWho You Are\nYou will bring 10+ years of progressive biopharmaceutical industry or premier academic translation experience, with a documented history of driving CV/renal assets from early concept to successful IND/CTA filing and FIH readiness.\n\nQualifications & Experience:\n\nEducation Level: PhD, MD, or MD/PhD in Cardiovascular Physiology, Renal Physiology, Pharmacology, Molecular Biology, or a highly relevant life sciences discipline.\n\nSpecialist Knowledge: Advanced authority on the pathophysiology of cardiorenal networks, including CKD/Nephropathy, Myocardial Remodeling & Fibrosis, the Cardiorenal Axis, Genetic & Rare Diseases, and Atherosclerosis & Lipid Metabolism.\n\nFluency in English (written and spoken) is required.\n\nUnwavering focus, collaborative teamwork and exceptional delivery are key behaviours that drive our mission of doing now what patients need next. Together, we can be transformative\n \n \n\nWho we are\nA healthier future drives us to innovate. Together, more than 100’000 employees across the globe are dedicated to advance science, ensuring everyone has access to healthcare today and for generations to come. Our efforts result in more than 26 million people treated with our medicines and over 30 billion tests conducted using our Diagnostics products. We empower each other to explore new possibilities, foster creativity, and keep our ambitions high, so we can deliver life-changing healthcare solutions that make a global impact.\n\nLet’s build a healthier future, together.\n\nRoche is an Equal Opportunity Employer.",
     "external_url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Cardio-Renal-Discovery-Area-Leader---Expert-Scientist_202606-116302-2",
-    "status": "matched",
+    "status": "ignored",
     "title": "Cardio-Renal Discovery Area Leader - Expert Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-24",
+    "posted_date": "2026-07-25",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -2731,11 +2721,11 @@
   "/job/Basel/Director--Medical-Affairs--Hemato-Oncology--Europe_R35969": {
     "description": "BeOne continues to grow at a rapid pace with challenging and exciting opportunities for experienced professionals. When considering candidates, we look for scientific and business professionals who are highly motivated, collaborative, and most importantly, share our passionate interest in fighting cancer.\n\nThe Medical Director Hemato-Oncology, Medical Affairs, Europe is the internal key expert within the indication area(s), directly supporting the respective products through development, pre-marketing, launch, marketing support and lifecycle management. This includes all areas of medical affairs activities such as support of safe and appropriate product use, data-generation, data-dissemination and HCP interactions. Subject matter expertise is essential.\n\nThe role is part of a matrix organization, reporting to the Executive Director Medical Affairs Europe, but with collaboration with the European Medical Affairs group, other Regional/Country Medical Directors and regional medical\naffairs functions as well as Global Medical Affairs and Global Clinical Development Functions. It requires close interaction with local (country) medical directors with respect to allocated disease area(s) (Hematological malignancies) to assure strategic dialogue considering local specifics and input as well as regional guidance.\n\nThe Medical Director Hematology has accountability for the regional input into the product and indication strategies and works closely with local country medical directors to assure alignment across global, regional and local strategies, messaging as well as tactical implementation.\n\nReports To: Executive Medical Director, Regional Medical Lead Hemato-Oncology, Medical Affairs, Europe\n\nThe role includes, but is not limited to:\n• Matrix leadership in the disease area\n• Proactive contribution to regional and global brand and disease area strategies\n\nIncluding gap analyses\n\nIdentification of areas of interest with respect to ISR\n\nPublication planning\n\nRegional data-dissemination (e.g. company sponsored symposia, congress submissions, medical education activities)\n\nRegional HCP interactions / outreach (e.g. investigator meetings, advisory boards)\n• Close collaboration with regional commercial teams regarding pre-launch, launch and commercialization support, assuring timely medical input and accuracy of medical / scientific content\n\nAs a subject matter expert for the assigned disease area, the incumbent will be accountable to develop regional strategies to support enduring and compliant relationships with Opinion Leaders, Research Collaborators, and Key\nOrganizations in support of BeOne’s pipeline development across the allocated disease area.\nThe incumbent will play a key role in the establishment of BeOne as a valued collaborator and best-in-class biopharmaceutical company.\n\nEssential Functions of the job:\n• Establish and maintain scientifically credible peer-to-peer scientific relationships with key national & regional\nopinion leaders in addition to other healthcare providers\n• Viewed as a Scientific Partner by KOLs\n• Facilitate & monitor strategic partnerships with scientific/clinical experts and serve as a regional-level point of contact with organizations including but not limited to -\n\nGuideline development\n\nCooperative groups\n\nOther (Regional / National Cancer institutions)\n• Facilitate & monitor strategic partnerships with other functional areas within BeOne\n• Leadership in the development and execution of clinically relevant regional medical meetings (e.g., advisory boards, consultant, and investigator meetings), as requested\n• Develop, track, execute and report on goals and objectives.\n• Support disease area Medical Affairs budget planning and management.\n• Be accountable for compliant business practices.\n\nExperience:\n• MD, with relevant clinical / scientific experience in the indication field\n• Minimum 7 years of experience and success within other biotech/pharmaceutical companies.\n• Track record of experience (clinical and industry) in the field of Hemato-Oncology\n• High level of communication (written and verbal), interpersonal, organizational, and cross functional collaboration skills.\n• Flexibility to work with colleagues in a global setting.\n• Able to engage in work-related travel approximately 50%.\n\nCapabilities and Competencies:\n• Impactful verbal and written communication skills.\n• Ability to effectively collaborate in a dynamic environment.\n• Strong comprehension of disease states, and knowledge of differential algorithms for treatment decisions and experience in disease states of interest to BeOne.\n• An expert understanding of the health care delivery system, including the managed care arena and its impact on patient care, regional medical care and the pharmaceutical industry. Ability to identify the unmet medical, educational, and research needs at a local & regional level in the medical community.\n• Ability to interpret key scientific data and translate the findings to meet educational and research needs to affect corporate research strategic activities/decisions.\n• Understanding of the design and execution of research studies and strategic implications.\n• Exhibits high degree of emotional intelligence and appreciation of diversity and multiculturalism.\n• Designs and/or leads training initiatives and best practices.\n• Proven ability to drive results at a high level of quality as a strategic and creative thinker.\n• Demonstrates ability to deal with ambiguity and thrive in an ever-changing environment.\n• Strong project management skills with demonstrated ability to manage projects and/or colleagues in successful implementation of business-critical projects.\n• Strong time management & organizational skills\n\nEducation Required:\nMedical Doctor (MD) degree or PHD or equivalent medical qualification required with relevant clinical / scientific experience in the indication field as well as industry experience and managerial track record required.\n\nSupervisory Responsibilities:\n• Initially, there will be no direct reports\n• As the portfolio in the disease area expands regional medical resources will need to increase leading to supervisory responsibilities within the disease area\n\nComputer Skills:\n• Proficient in Microsoft Office\n• Experienced with electronic CRM systems\n\nOther Qualifications:\n• Fluent in English (written and spoken)\n• Other European languages are an advantage\n\nTravel:\n• A significant amount of travel is expected\n• Participation at major congresses\n\nSalary Range MD: 209,300.00 CHF - 261,600.00 CHF\n\nGlobal Competencies\nWhen we exhibit our values of Patients First, Driving Excellence, Bold Ingenuity, and Collaborative Spirit, through our twelve global competencies below, we help get more affordable medicines to more patients around the world.\nFosters Teamwork\nProvides and Solicits Honest and Actionable Feedback\nSelf-Awareness\nActs Inclusively\nDemonstrates Initiative\nEntrepreneurial Mindset\nContinuous Learning\nEmbraces Change\nResults-Oriented\nAnalytical Thinking/Data Analysis\nFinancial Excellence\nCommunicates with Clarity\n\nWe are proud to be an equal opportunity employer. BeOne does not discriminate on the basis of race, religion, color, sex, gender identity, sexual orientation, age, disability, national origin, veteran status or any other basis covered by appropriate law. All employment is decided on the basis of qualifications, merit, and business need.",
     "external_url": "https://beigene.wd5.myworkdayjobs.com/BeiGene/job/Basel/Director--Medical-Affairs--Hemato-Oncology--Europe_R35969",
-    "status": "matched",
+    "status": "ignored",
     "title": "Director, Medical Affairs, Hemato-Oncology, Europe",
     "company": "BeiGene",
     "location": "Basel",
-    "posted_date": "2026-07-24",
+    "posted_date": "2026-07-25",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -2752,7 +2742,7 @@
     "title": "Associate Scientist, Tech Ops (Analytical Testing)",
     "company": "CSL Behring / Vifor",
     "location": "EMEA, CH, Kanton Bern, Bern, CSL Behring",
-    "posted_date": "2026-07-24",
+    "posted_date": "2026-07-25",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2772,7 +2762,7 @@
     "title": "Portfolio Strategy & Delivery Lead, Data Insight Technology",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-24",
+    "posted_date": "2026-07-25",
     "department": "",
     "score": -1,
     "matched_keywords": [
