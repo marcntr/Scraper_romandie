@@ -88,7 +88,7 @@
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-07-19"
+    "cached_at": "2026-07-27"
   },
   "_facets:roche:roche-ext": {
     "facets": {},
@@ -96,7 +96,7 @@
       "Basel",
       "Kaiseraugst"
     ],
-    "cached_at": "2026-07-19"
+    "cached_at": "2026-07-27"
   },
   "_facets:novartis:Novartis_Careers": {
     "facets": {},
@@ -104,63 +104,63 @@
       "Basel",
       "Stein"
     ],
-    "cached_at": "2026-07-19"
+    "cached_at": "2026-07-27"
   },
   "_facets:sanofi:SanofiCareers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-07-19"
+    "cached_at": "2026-07-27"
   },
   "_facets:abbott:abbottcareers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-07-19"
+    "cached_at": "2026-07-27"
   },
   "_facets:pfizer:PfizerCareers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-07-19"
+    "cached_at": "2026-07-27"
   },
   "_facets:gsk:GSKCareers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-07-19"
+    "cached_at": "2026-07-27"
   },
   "_facets:astrazeneca:Careers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-07-19"
+    "cached_at": "2026-07-27"
   },
   "_facets:amgen:Careers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-07-19"
+    "cached_at": "2026-07-27"
   },
   "_facets:gilead:gileadcareers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-07-19"
+    "cached_at": "2026-07-27"
   },
   "_facets:modernatx:M_tx": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-07-19"
+    "cached_at": "2026-07-27"
   },
   "_facets:takeda:External": {
     "facets": {},
@@ -169,28 +169,28 @@
       "Zug",
       "Glattpark"
     ],
-    "cached_at": "2026-07-19"
+    "cached_at": "2026-07-27"
   },
   "_facets:beigene:BeiGene": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-07-19"
+    "cached_at": "2026-07-27"
   },
   "_facets:msd:SearchJobs": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-07-19"
+    "cached_at": "2026-07-27"
   },
   "_facets:vrtx:Vertex_Careers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-07-19"
+    "cached_at": "2026-07-27"
   },
   "_facets:lonza:Lonza_Careers": {
     "facets": {},
@@ -199,7 +199,7 @@
       "Visp",
       "Stein"
     ],
-    "cached_at": "2026-07-19"
+    "cached_at": "2026-07-27"
   },
   "_facets:csl:CSL_External": {
     "facets": {},
@@ -209,7 +209,7 @@
       "St. Gallen",
       "Romont"
     ],
-    "cached_at": "2026-07-19"
+    "cached_at": "2026-07-27"
   },
   "_facets:alcon:careers_alcon": {
     "facets": {},
@@ -218,7 +218,7 @@
       "Hünenberg",
       "Zurich"
     ],
-    "cached_at": "2026-07-19"
+    "cached_at": "2026-07-27"
   },
   "_facets:galderma:External": {
     "facets": {},
@@ -227,63 +227,63 @@
       "La Tour-de-Peilz",
       "Lausanne"
     ],
-    "cached_at": "2026-07-19"
+    "cached_at": "2026-07-27"
   },
   "_facets:iqvia:IQVIA": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-07-19"
+    "cached_at": "2026-07-27"
   },
   "_facets:icon:broadbean_external": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-07-19"
+    "cached_at": "2026-07-27"
   },
   "_facets:parexel:Parexel_External_Careers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-07-19"
+    "cached_at": "2026-07-27"
   },
   "_facets:syneoshealth:Syneos_Health_External_Site": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-07-19"
+    "cached_at": "2026-07-27"
   },
   "_facets:myhrabc:Global": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-07-19"
+    "cached_at": "2026-07-27"
   },
   "_facets:thermofisher:ThermoFisherCareers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-07-19"
+    "cached_at": "2026-07-27"
   },
   "_facets:danaher:DanaherJobs": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-07-19"
+    "cached_at": "2026-07-27"
   },
   "_facets:illumina:illumina-careers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-07-19"
+    "cached_at": "2026-07-27"
   },
   "_facets:qiagen:QIAGEN": {
     "facets": {},
@@ -297,14 +297,14 @@
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-07-19"
+    "cached_at": "2026-07-27"
   },
   "_facets:jsrglobal:KBI_Biopharma": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-07-19"
+    "cached_at": "2026-07-27"
   },
   "_generic:Tigen Pharma": {
     "keywords": "npp"
@@ -863,7 +863,7 @@
     "title": "Clinical Scientist in neurosciences",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-06-26",
+    "posted_date": "2026-06-27",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -879,7 +879,7 @@
     "title": "Scientist, Pharmaceutical Development & Data Analytics _2 years temporary contract",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-06-26",
+    "posted_date": "2026-06-27",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -894,7 +894,7 @@
     "title": "Technical Expert Portfolio Mgmt, Technical Feasibility and Planning",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-06-26",
+    "posted_date": "2026-06-27",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -907,7 +907,7 @@
     "title": "Sr. Scientist - Computational Biology - Neuroscience & Rare Diseases",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-06-26",
+    "posted_date": "2026-06-27",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -930,7 +930,7 @@
     "title": "Global Medical Director, Evidence Generation Lead",
     "company": "Biogen",
     "location": "Baar, Switzerland",
-    "posted_date": "2026-06-26",
+    "posted_date": "2026-06-27",
     "department": "",
     "score": -2,
     "matched_keywords": [
@@ -949,7 +949,7 @@
     "title": "Senior Medical Director, Nephrology, Global Medical Affairs",
     "company": "Biogen",
     "location": "Baar, Switzerland",
-    "posted_date": "2026-06-26",
+    "posted_date": "2026-06-27",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -1000,7 +1000,7 @@
     "title": "Senior Scientist microbiological Quality Control",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-06-26",
+    "posted_date": "2026-06-27",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -1015,7 +1015,7 @@
     "title": "Scientist Microbiological Quality Control",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-06-26",
+    "posted_date": "2026-06-27",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -1030,7 +1030,7 @@
     "title": "R&D Scientist – Scientific Data Analytics (d/f/m)",
     "company": "Danaher",
     "location": "Basel, Switzerland",
-    "posted_date": "2026-06-26",
+    "posted_date": "2026-06-27",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1056,7 +1056,7 @@
     "title": "Senior Scientist QA Operations",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-06-29",
+    "posted_date": "2026-06-30",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -1102,7 +1102,7 @@
     "title": "Associate Scientist / Senior Laboratory Specialist",
     "company": "CSL Behring / Vifor",
     "location": "EMEA, CH, Kanton Bern, Bern, CSL Behring",
-    "posted_date": "2026-06-30",
+    "posted_date": "2026-07-01",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1134,7 +1134,7 @@
     "title": "In Vitro Bioanalysis Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-01",
+    "posted_date": "2026-07-02",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -1167,7 +1167,7 @@
     "title": "Principal Scientist si-RNA Design",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-01",
+    "posted_date": "2026-07-02",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1183,7 +1183,7 @@
     "title": "Mechanistic Immuno Tox Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-01",
+    "posted_date": "2026-07-02",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -1202,7 +1202,7 @@
     "title": "Investigative Toxicology Junior Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-01",
+    "posted_date": "2026-07-02",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -1226,7 +1226,7 @@
     "title": "Hematology and Safety Biomarker Expert",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-01",
+    "posted_date": "2026-07-02",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -1247,7 +1247,7 @@
     "title": "Internship Scientist Forensic Chemistry 6 months contract 80-100%",
     "company": "Lonza",
     "location": "CH - Basel",
-    "posted_date": "2026-07-01",
+    "posted_date": "2026-07-02",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1360,7 +1360,7 @@
     "title": "Senior Scientist Electronic Laboratory Systems",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-07-02",
+    "posted_date": "2026-07-03",
     "department": "",
     "score": -1,
     "matched_keywords": [
@@ -1456,7 +1456,7 @@
     "title": "Senior/Principal Scientist - NMR Expert",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-07",
+    "posted_date": "2026-07-08",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1472,7 +1472,7 @@
     "title": "Director, Corporate Strategy & Business Development",
     "company": "Alcon",
     "location": "Geneva, Switzerland",
-    "posted_date": "2026-07-07",
+    "posted_date": "2026-07-08",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -1569,11 +1569,6 @@
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000136730472-facility-and-safety-support-technician-ep-atl-so-2026-142-ld-?oga=true",
     "status": "matched"
   },
-  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000136774864": {
-    "description": "Vous rejoignez le pôle d'expertise cybersécurité de la DTN-IA afin de contribuer à l’évolution de l'infrastructure SOC.\nVous évoluez au sein d'un environnement intégrant des solutions d’orchestration, d’automatisation, de scripting, ainsi que des API, permettant de renforcer la protection du système d’information des HUG. \nVotre rôle inclut notamment l’intégration des alertes de sécurité, l’automatisation des réponses aux incidents, ainsi que l'enrichissement de la Cyber Threat Intelligence (CTI) pour améliorer la détection et la gestion proactive des menaces.",
-    "external_url": "https://jobs.smartrecruiters.com/HUG/744000136774864-stage-en-cybersecurite-dans-le-but-d-ameliorer-l-orchestration-d-un-soc-100-?oga=true",
-    "status": "matched"
-  },
   "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000136781579": {
     "description": "En tant que Cheffe ou Chef de clinique titulaire d’un titre de spécialiste en néphrologie, vous assurez les activités cliniques à tour de rôle en néphrologie ambulatoire, hospitalière, hypertension, en dialyse ou en transplantation.\nVous faites preuve de résilience, de sens clinique et d’une grande capacité d’analyse dans la prise en charge de situations parfois complexes. Grâce à votre sens de l’organisation et à votre capacité à prioriser, vous assurez efficacement vos activités cliniques tout en répondant aux multiples sollicitations (patients et patientes, téléphones, correspondances, réunions).\nVous évoluez dans un environnement exigeant, à l’interface des soins, de l’enseignement et de la recherche. À ce titre, vous collaborez étroitement avec l’ensemble de l’équipe médico-soignante et veillez à une communication claire, fluide et respectueuse, tant avec vos collègues qu’avec les patientes et patients, en adaptant votre discours à leur compréhension.\nEn vous appuyant sur votre esprit d’équipe, vous faites preuve de solidarité face aux imprévus. En tant que cheffe ou chef de clinique, vous participez activement à la supervision et à la formation des médecins internes du département de médecine dans le domaine de la néphrologie et hypertension, en adoptant une posture de mentorat et en partageant votre expertise. Vous avez une activité de première ligne. Vous assurez les activités d'enseignement dans le domaine de la néphrologie (AMC, Forum, UIDC, APP, examens, stagiaires).",
     "external_url": "https://jobs.smartrecruiters.com/HUG/744000136781579-chef-ou-cheffe-de-clinique-avec-titre-de-specialite-en-nephrologie-100-?oga=true",
@@ -1594,11 +1589,6 @@
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000137046376-technical-engineer-for-water-treatment-systems-en-cv-ces-2026-124-ld-?oga=true",
     "status": "matched"
   },
-  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000137071799": {
-    "description": "En tant que chef ou cheffe de projet, vous contribuez au développement, à la structuration et à la capitalisation de connaissances scientifiques et méthodologiques nécessaires à l’évolution durable des pratiques médico‑soignantes, en dépassant une approche centrée uniquement sur la prévention ou les comportements individuels. Vous apportez une expertise scientifique transversale pour soutenir la mise en œuvre du programme TES, en traduisant les données scientifiques et institutionnelles en outils, référentiels et supports opérationnels destinés aux professionnels et professionnelles de santé et aux instances internes.\nDans ce cadre, vous assurez un appui scientifique ciblé en identifiant, analysant et synthétisant la littérature scientifique, institutionnelle et réglementaire en lien avec la transition écologique dans les soins. Vous apportez un éclairage scientifique sur des thématiques telles que les pratiques cliniques, l’organisation des soins, les parcours patients ou l’usage des ressources, tout en tenant compte des réalités hospitalières. Vous contribuez ainsi à consolider les fondements scientifiques du programme TES.\nVous participez également au développement de supports opérationnels, notamment par la conception et la rédaction de fiches éco‑soins, documents de référence ou notes de cadrage, en veillant à rendre les connaissances scientifiques compréhensibles, utiles et applicables. Vous garantissez l’articulation entre impacts environnementaux, qualité des soins, sécurité des patients et patientes et acceptabilité professionnelle.\nVous contribuez également à la coordination de projets institutionnels et transversaux en lien avec la transition écologique dans les soins, en facilitant l’articulation entre les différents acteurs impliqués et en veillant à la cohérence des projets avec les orientations stratégiques de l’institution.\nEn appui à l’équipe TES, vous contribuez au suivi et au monitoring des indicateurs du programme. Vous participez à la structuration et à l’exploitation des données nécessaires au tableau de bord, réalisez des extractions ponctuelles à partir de sources existantes et soutenez l’interprétation scientifique des données, sans assurer le pilotage opérationnel des outils. Vous participez également à la réflexion sur l’évolution des indicateurs en fonction de la maturité du programme et des ressources disponibles.\nVotre activité s’inscrit dans une approche systémique et éthique des soins durables. Vous intégrez dans vos analyses les dimensions cliniques, organisationnelles, éthiques, sociales et de santé publique, en veillant à la cohérence avec les autres démarches institutionnelles telles que la qualité, la sécurité, le partenariat patient et patientes ou la durabilité. Vous mobilisez, lorsque pertinent, des méthodes d’évaluation environnementales telles que l’analyse de cycle de vie (ACV) afin d’éclairer les choix relatifs aux pratiques de soins, aux équipements ou aux organisations, dans une logique de soutenabilité et de responsabilité dans l’usage des ressources. Vous contribuez également à l’intégration progressive de dimensions médico‑économiques dans certains projets, dans une logique de soutenabilité des soins.\nVous travaillez en étroite collaboration avec l’équipe TES, les référentes et référents du programme, les partenaires internes et, lorsque pertinent, les patients et patientes partenaires. Vous préparez les contenus destinés à la relecture et à la validation scientifique par les instances compétentes et contribuez à la documentation et à la capitalisation des connaissances produites.\nLe poste est rattaché hiérarchiquement à la responsable de la transition écologique dans les soins et implique des collaborations fonctionnelles avec les équipes soignantes, les référents et référentes TES, les patientes et patients partenaires ainsi que les experts et expertes internes.",
-    "external_url": "https://jobs.smartrecruiters.com/HUG/744000137071799-chef-ou-cheffe-de-projet-programme-tes-40-?oga=true",
-    "status": "matched"
-  },
   "/job/Basel/Operations-AI-Data-Scientist_202606-115569": {
     "description": "At Roche you can show up as yourself, embraced for the unique qualities you bring. Our culture encourages personal expression, open dialogue, and genuine connections,  where you are valued, accepted and respected for who you are, allowing you to thrive both personally and professionally. This is how we aim to prevent, stop and cure diseases and ensure everyone has access to healthcare today and for generations to come. Join Roche, where every voice matters.\n\nThe Position\n\nThis role is based in the Innovation Accelerator (IA) team, the innovation engine and connective tissue for Design, Data and Data Science innovation strategy within Product Development Data Sciences (PDD). We translate our long-term PDD vision into actionable strategy, shaping and prioritizing innovative cross-functional use cases that span PDD, PD, and Pharma. As both integrators and incubators, we explore, prototype, and help productize solutions to deliver impact in close partnership with internal Roche teams and external collaborators. With a mindset rooted in openness, value creation, and adaptability, we navigate the innovation ecosystem to drive transformative impact and future readiness across the organization.\n\nThe Opportunity:\n\nYou lead the design, development, and deployment of AI/ML agents that drive workflow efficiencies and operational insight\n\nYou identify high-impact opportunities for automation across the R&D data ecosystem and translate them into technical solutions\n\nYou design intelligent process monitoring and optimization pipelines leveraging structured and unstructured data\n\nYou prototype and productize AI agents that support internal users across PDD, including metadata enrichment, task routing, or data retrieval\n\nYou apply advanced techniques in NLP, system optimization, or process analytics in real-world business contexts\n\nYou collaborate with engineering, domain experts, and business stakeholders to ensure feasibility, usability, and value delivery\n\nYou contribute to cross-functional initiatives by representing the AI operations strategy and fostering scalable solution design\n\nYou provide technical leadership, share best practices, and guide junior colleagues in navigating operational AI use cases\n\nWho you are:\n\nYou have a Bachelor’s or advanced degree in Computer Science, Machine Learning, Engineering, Biomedical Informatics, or a related field\n\nYou have a minimum of 8 years of experience designing and delivering AI/ML solutions with measurable operational impact; or an advanced degree with 6 years of equivalent work experience\n\nYou have deep expertise in Python software development and AI libraries (e.g., PyTorch, Tensorflow, scikit-learn, Transformers, Langchain/Langgraph, Autogen)\n\nYou have a track record of applying AI or automation to optimize internal workflows or business processes\n\nYou are familiar with operational data, ML pipelines, and AI productization frameworks\n\nYou have a deep understanding of model reproducibility, interpretability, and validation best practices\n\nYou have capacity for independent thinking and ability to make decisions based upon sound principles\n\nRelocation benefits are not available for this posting  \n\n#PPDT\n#PDDBasel\n\n \n \n\nWho we are\nA healthier future drives us to innovate. Together, more than 100’000 employees across the globe are dedicated to advance science, ensuring everyone has access to healthcare today and for generations to come. Our efforts result in more than 26 million people treated with our medicines and over 30 billion tests conducted using our Diagnostics products. We empower each other to explore new possibilities, foster creativity, and keep our ambitions high, so we can deliver life-changing healthcare solutions that make a global impact.\n\nLet’s build a healthier future, together.\n\nRoche is an Equal Opportunity Employer.",
     "external_url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Operations-AI-Data-Scientist_202606-115569",
@@ -1606,7 +1596,7 @@
     "title": "Principal Operations AI Data Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-10",
+    "posted_date": "2026-07-11",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1619,7 +1609,7 @@
     "title": "Medical Director, Gastroenterology, Early Clinical Development",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-06-26",
+    "posted_date": "2026-06-27",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -1644,7 +1634,7 @@
     "title": "Director - Immunology Therapeutic Area Biomarker Lead (TABL)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-06-26",
+    "posted_date": "2026-06-27",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -1668,7 +1658,7 @@
     "title": "Translational Medicine Expert – Dermatology, Associate Director",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-06-26",
+    "posted_date": "2026-06-27",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -1691,7 +1681,7 @@
     "title": "Patent Attorney",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-07-06",
+    "posted_date": "2026-07-07",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1704,7 +1694,7 @@
     "title": "Senior Principal Scientist - Proteomics",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-07-09",
+    "posted_date": "2026-07-10",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -1724,7 +1714,7 @@
     "title": "Senior Expert / Senior Principal PKS Data Scientist & Scientific Software Engineer (Dual level posting)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-06-30",
+    "posted_date": "2026-07-01",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -1755,11 +1745,6 @@
     "external_url": "https://jobs.smartrecruiters.com/HUG/744000137375649-commis-ou-commise-administrative-30-?oga=true",
     "status": "matched"
   },
-  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000137374305": {
-    "description": "Avec un rattachement au chef de département, vous êtes en charge de gérer et encadrer les activités des secrétariats médicaux du service d’anesthésiologie, service des urgences, service des soins intensifs et le pool DMA. Vous mettez en place des processus visant à garantir la qualité des activités des secrétariats, à harmoniser les pratiques professionnelles et à maintenir une cohérence entre les différents services au niveau administratif. Vous veillez à l'adéquation des ressources par rapport à la charge de travail.\nVous assurez la coordination de l'activité en motivant et animant une équipe de plus de 20 collaborateur-rices. Vous vous attachez à développer leurs compétences en mettant en place une polyvalence et un système de suppléance entre les services.",
-    "external_url": "https://jobs.smartrecruiters.com/HUG/744000137374305-chef-ou-cheffe-de-secretariat-80-a-100-?oga=true",
-    "status": "matched"
-  },
   "/job/Basel/Technical-R-D-Scientist_202607-117406-1": {
     "description": "At Roche you can show up as yourself, embraced for the unique qualities you bring. Our culture encourages personal expression, open dialogue, and genuine connections,  where you are valued, accepted and respected for who you are, allowing you to thrive both personally and professionally. This is how we aim to prevent, stop and cure diseases and ensure everyone has access to healthcare today and for generations to come. Join Roche, where every voice matters.\n\nThe Position\nAm Standort Basel ist der Bereich Pharma Technical Development Synthetic Molecules (PTDC) für die technische Entwicklung der Synthetic Molecules Pipeline von Drug Substances (DS) und Drug Products (DP) für klinische Studien verantwortlich.\n \n\nDie Abteilung Operations Support & Compliance (OSC) ist für die Unterstützung aller GMP- und nicht-GMP-relevanten Aktivitäten und die Ermöglichung der Entwicklung synthetischer und grosser Moleküle durch qualitativ hochwertige Unterstützung unserer Partner zuständig. Als Teil der OSC-Abteilung konzentriert sich der Bereich Laboratory Support and Compliance darauf, eine zuverlässige Unterstützung der analytischen Labore zu gewährleisten und mit vielen internen und externen Partnern zusammenzuarbeiten.\n\nDie Möglichkeit:\n\nDu gestaltest und betreust Masterdaten im SAP S/4HANA für Laborgeräte, die in modernen analytischen Laboren (DS & DP) eingesetzt werden.\n\nDu wirkst als SME (Subject Matter Expert) für die zugewiesenen Laborgeräte und organisierst die Qualifizierung, reguläre Wartung und das Troubleshooting.\n\nDu verbindest Systeme und Schnittstellen und hilfst dabei, bestehende und neue Lösungen optimal miteinander zu vernetzen.\n\nDu arbeitest eng mit PTD-Teams in Basel zusammen und bringst neue Prozesse und Arbeitsweisen erfolgreich in den Alltag.\n\nDu schreibst und aktualisierst SOPs, harmonisierst Abläufe und stellst sicher, dass Dokumentationen stets GMP-konform sind.\n\nDu übernimmst Changes, Deviations und CAPAs und sorgst für stabile, GMP-konforme Prozesse.\n\nDu vernetzt dich mit globalen Stakeholdern, förderst den Wissensaustausch und trägst zu Projekten und Initiativen bei, inkl. kontinuierlicher Verbesserungen.\n \nWer du bist:\n\nDu hast ein abgeschlossenes naturwissenschaftliches Studium (idealerweise Bachelor oder Master) mit mind. 3-5 Jahren Berufserfahrung oder eine gleichwertige Qualifikation durch relevante Berufserfahrung in der pharmazeutischen Industrie im GMP-Umfeld eines analytischen Labors oder der QC.\n\nDu arbeitest sehr sorgfältig, strukturiert und qualitätsbewusst.\n\nDu hast eine ausgeprägte Affinität zu Systemen, Datenbanken und Digitalisierung sowie Erfahrung in der Betreuung von Masterdaten für Laborgeräte in SAP S/4HANA.\n\nDu verfügst über ein starkes Verständnis für GMP, Datenintegrität und ALCOA+.\n\nDu bist flexibel, arbeitest selbstständig, lernst kontinuierlich und kannst Prioritäten setzen; auch in einem anspruchsvollen und dynamischen Umfeld.\n\nDu bist ein Teamplayer mit sehr guten Kommunikationsfähigkeiten und hast Freude an der Zusammenarbeit mit lokalen und globalen Stakeholdern.\n\nDu besitzt fliessende Deutsch- und Englischkenntnisse.\n \nBereit für den nächsten Schritt? Wir freuen uns darauf, von dir zu hören. Bewirb dich jetzt, um diese spannende Möglichkeit zu entdecken!\n\n \n \n\nWho we are\nA healthier future drives us to innovate. Together, more than 100’000 employees across the globe are dedicated to advance science, ensuring everyone has access to healthcare today and for generations to come. Our efforts result in more than 26 million people treated with our medicines and over 30 billion tests conducted using our Diagnostics products. We empower each other to explore new possibilities, foster creativity, and keep our ambitions high, so we can deliver life-changing healthcare solutions that make a global impact.\n\nLet’s build a healthier future, together.\n\nRoche is an Equal Opportunity Employer.",
     "external_url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Technical-R-D-Scientist_202607-117406-1",
@@ -1767,7 +1752,7 @@
     "title": "Technical R&D Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-13",
+    "posted_date": "2026-07-14",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1780,7 +1765,7 @@
     "title": "Head Clinical Development AI & Technology",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-07-13",
+    "posted_date": "2026-07-14",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1841,7 +1826,7 @@
     "title": "Post Doctoral Scientist (m/w/d)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-14",
+    "posted_date": "2026-07-15",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1863,7 +1848,7 @@
     "title": "Internship in the PD Medical Affairs Nucleus Team - Service Solutions & Innovation (SSI) - as of 1 January 2027 for 12 months in Basel",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-14",
+    "posted_date": "2026-07-15",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1943,7 +1928,7 @@
     "title": "Sr Global HEOR & Payer Evidence Lead",
     "company": "Abbott",
     "location": "Switzerland - Basel",
-    "posted_date": "2026-07-15",
+    "posted_date": "2026-07-16",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -2026,7 +2011,7 @@
     "title": "Staff Scientist - Spectral Cytometry Expert",
     "company": "Labcorp",
     "location": "CHE - Geneva - 7 rue Moise-Marcinhes",
-    "posted_date": "2026-07-16",
+    "posted_date": "2026-07-17",
     "department": "",
     "score": 8,
     "matched_keywords": [
@@ -2060,7 +2045,7 @@
     "title": "Business Development Manager (m/w/d) Neuromodulation – Schweiz",
     "company": "Abbott",
     "location": "Switzerland - Baar",
-    "posted_date": "2026-07-17",
+    "posted_date": "2026-07-18",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -2452,7 +2437,7 @@
     "title": "Scientist Synthesis Automation",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-22",
+    "posted_date": "2026-07-23",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2467,7 +2452,7 @@
     "title": "Commercial Portfolio Head Region Europe",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-07-22",
+    "posted_date": "2026-07-23",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -2485,7 +2470,7 @@
     "title": "Associate Director, EU Regulatory Lead Neuroscience",
     "company": "Takeda",
     "location": "Zurich, Switzerland",
-    "posted_date": "2026-07-22",
+    "posted_date": "2026-07-23",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2535,7 +2520,7 @@
     "title": "Internship in the PD Medical Affairs Nucleus Team - End to End (E2E) Evidence Generation Sub-chapter - as of 15 November 2026 for 12 months in Basel",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-23",
+    "posted_date": "2026-07-24",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2648,7 +2633,7 @@
     "title": "Cardio-Renal Discovery Area Leader - Expert Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-24",
+    "posted_date": "2026-07-25",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -2674,7 +2659,7 @@
     "title": "Director, Medical Affairs, Hemato-Oncology, Europe",
     "company": "BeiGene",
     "location": "Basel",
-    "posted_date": "2026-07-24",
+    "posted_date": "2026-07-25",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -2691,7 +2676,7 @@
     "title": "Associate Scientist, Tech Ops (Analytical Testing)",
     "company": "CSL Behring / Vifor",
     "location": "EMEA, CH, Kanton Bern, Bern, CSL Behring",
-    "posted_date": "2026-07-24",
+    "posted_date": "2026-07-25",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2707,11 +2692,11 @@
   "/job/Basel/Portfolio-Strategy---Delivery-Lead--Data-Insight-Technology_202606-116913-2": {
     "description": "At Roche you can show up as yourself, embraced for the unique qualities you bring. Our culture encourages personal expression, open dialogue, and genuine connections,  where you are valued, accepted and respected for who you are, allowing you to thrive both personally and professionally. This is how we aim to prevent, stop and cure diseases and ensure everyone has access to healthcare today and for generations to come. Join Roche, where every voice matters.\n\nThe Position\n \nIn Roche’s Pharmaceutical Research and Early Development organisation (pRED), we make transformative medicines for patients to tackle some of the world’s toughest unmet healthcare needs. At pRED, we are united by our mission to transform science into medicines. Together, we create a culture defined by curiosity, responsibility, and humility, where our talented people are empowered and inspired to bring forward extraordinary, life-changing innovation at speed.\n\nStrategy, Portfolio & Operations (SPO) is a unified function that serves as the strategic and operational backbone enabling pRED's strategy from lab to clinic. Operating under a dynamic Chapter Model, SPO centralises specialised skills across critical areas, including Sites & Lab Services, Program & Project Management, Strategy, Clinical Operations, External Operations, Capability Development, Core Lab Technology Platforms (360Labs) and Asset Team Leadership. SPO’s mission is to drive enterprise value creation by delivering operational excellence and accelerating portfolio productivity. As a trusted partner, SPO fosters a culture of collaboration and accountability to ensure pRED transitions assets smoothly from early research to late-stage development. \n\nAt Roche/Genentech Pharma Research and Early Development Clinical Operations (pRED CO), we are determined to transform early drug development and realise our Pharma Ambition to deliver 20 transformative medicines addressing diseases with the highest societal burden by 2029. The pRED Portfolio Strategy & Delivery Lead leads the delivery of one or more of our Discovery & Delivery Areas (DTAs), driving productivity, efficiency and innovation. This senior people leadership position holds significant accountability for the pRED Clinical Operations strategy and execution, as well as enterprise collaboration.\n\nThe Opportunity\n\nThe pRED Portfolio Strategy & Delivery Lead is a senior strategic leader and decision-maker within Roche pRED Clinical Operations and is responsible and accountable for shaping an industry-leading CO DTA strategy that successfully delivers the pRED portfolio of programs and studies in the assigned DTA(s).  Leads the functional area of responsibility (Asset, Study Management, Data & Technology or People), driving the identification and development of new ways of working to push the boundaries of excellence in delivery and engagement continually.  As the DTA Portfolio Strategy & Delivery Lead, you will:\n\nBuild, drive, and enhance cross-functional enterprise collaborations and influence decision-making across early- and late-stage development, while providing a strong strategic operational voice to remove barriers and align on priorities.\n\npRED: Partner with Early Development Heads and Project Team Leaders to translate eSPC and DTA strategies into a coherent pRED CO delivery portfolio strategy that balances business needs with budgets and resources. Serve as the primary decision-maker for prioritising strategic operational DTA decisions, collaborating across early and late-stage teams to optimise day-to-day execution. Additionally, leverage data analytics, informatics, and AI to drive data-driven decision-making, while working cross-functionally with CO leadership to refine delivery strategies, overcome performance challenges, and enhance both operational efficiency and employee engagement. \nPD, gRED and Roche Enterprise: As the voice for pRED in your therapeutic area(s) you must proactively identify, develop, and maintain collaborative relationships with senior leaders across the Roche Enterprise to ensure early development representation and influence for the end-to-end delivery of the portfolio, including late-stage Development and Roche Diagnostics. ,\nExternal Stakeholders:  Proactively identify, develop, and maintain collaborative relationships with key external partners including patient advocacy organisations, Therapeutic Area Experts (TAE), Health Authorities, vendors in accordance with our sourcing strategy, and key development partners. \n\nBy exemplifying our Roche values and Leadership commitments and modelling our Roche Operating principles, you will ensure we achieve our ambitions for our people and patients. As an experienced People Leader, your accountabilities include:\n\nFunctional Responsibility: Lead one of the functional areas of responsibility (Asset, Study Management, Data & Technology or People*) to foster a culture and mindset of performance delivery, ownership and innovation. Inspire the identification and development of new ways of working to push the boundaries of excellence in delivery and engagement continually.\nCapability Building: Articulate the strategic direction for your functional area of responsibility with a strong focus on talent development, effective resource deployment, and future capability development to meet the future needs of a dynamic portfolio.\nTransformation: Lead change management to embed new operating models that increase productivity, speed and quality for pRED CO and across the CO Enterprise that realise our ambition of an industry-leading organisation.\nEngagement & Collaboration: Drive CO-wide engagement by fostering a culture of collaboration, inclusivity, and high performance. Inspire, motivate, and develop talent within the team, ensuring a focus on individual growth and leadership development to build a strong, elevated talent pipeline aligned with organisational objectives.\nPerformance Management: Regular year-round assessment of performance, contributions, and impact and providing feedback, coaching and performance management.\nPeople Leadership: Lead and develop a matrixed organisation of employees, including direct reports who may be people leaders themselves. Support all perspectives and seek out input from underrepresented voices. Provide opportunities for growth and development for all team members and address any barriers that may exist.  People management-related administration (e.g. Workday People & Culture Management system tasks) and contact for employment-related matters.\nOperational & Strategic Leadership: Lead the functional area of responsibility to understand current performance, challenges and opportunities associated with Clinical Program/Study delivery and organisational model and formulate actionable solutions, in collaboration across functional areas and beyond to enhance delivery and engagement.\n​Knowledge Management & Network Building: Knowledge management: develop a strong network of expertise from across the enterprise that can be leveraged to benefit the area of responsibility and across CO. This will also require the postholder to have a highly robust knowledge of the changing internal/external pressures and potential external partners to leverage.\n\nWho You Are\n\nYou hold a university degree or equivalent years of experience (preferred focus in life sciences) with 15+ years of pharmaceutical clinical Operations experience, including at least 10 years in global clinical operations Strategy Leadership.\nYou are talented, passionate, an excellent communicator, and inspired by our mission. You will fit in well with our collaborative, patient-centric, and entrepreneurial spirit, possessing a growth mindset and an excitement for learning through experience.\nYou bring a comprehensive understanding of global Pharma early Clinical development in international settings, alongside strong knowledge in the area of CO, including external trends and issues in the global industry and competitive",
     "external_url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Portfolio-Strategy---Delivery-Lead--Data-Insight-Technology_202606-116913-2",
-    "status": "matched",
+    "status": "ignored",
     "title": "Portfolio Strategy & Delivery Lead, Data Insight Technology",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-24",
+    "posted_date": "2026-07-25",
     "department": "",
     "score": -1,
     "matched_keywords": [
@@ -2785,5 +2770,33 @@
     "deducted_keywords": [
       "location:Switzerland"
     ]
+  },
+  "/job/Basel-City/Lab-scientist-position--f-m-d--80-100---Biologics-Characterization-in-Surface-Plasmon-Resonance-Lab_REQ-10081838": {
+    "description": "Salary Range:CHF76,300.00 - CHF141,700.00\n\n \nJob Description SummaryLocation: Basel, Switzerland\nThis role is based in Basel, Switzerland. Novartis is unable to offer relocation support for this role. Please only apply if this location is accessible for you.\n\nWe are looking for an associate to join the Analytical Characterization (AC) team in Basel, Switzerland. AC supports Novartis’ new biological entities (NBEs) development from proof-of-concept in human (i.e., finalization of the first phase I clinical trial) to commercialization and life-cycle management activities. AC applies a wide range of analytical techniques to characterize biopharmaceutical products. The AC team belongs to the Analytical Development unit, which is part of Novartis Technical Research and Development (TRD).\n\nAs part of the surface plasmon resonance (SPR) laboratory team within AC, the successful applicant will provide analytical support for NBE development by using state-of-the-art biophysical techniques to elucidate binding affinity and kinetics of the active pharmaceutical ingredient to its biological target and to immune receptors. The applicant will work in a highly collaborative and scientific environment, in close interaction with other experts in the analytical community.\n\n \nJob Description\nAccountabilities include\n \nPlan and perform analytical protein characterization by using SPR\nDevelop new SPR methods and apply established methods\nEvaluate and document results accurately and in consistent quality\nWriting of study reports and analytical method description\nSupport the technical organization of the laboratory\nTroubleshoot problems in already established methods\n \nMinimum requirements\nB.Sc./M.Sc. with specialization in biochemistry, biophysics, or analytical chemistry\nPreferably prior experience in surface plasmon resonance\nExperience in working with proteins is considered an asset\nYour strengths include critical and objective interpretation of results and scientific information.\nApplicants should have good organizational and team skills, and good knowledge of English and MS Office software.\n\nBenefits & Rewards \n\n \n\nAt Novartis, we’re committed to reimagining medicine together - and rewarding the people who make it happen. \n\n  \n\nExpected Annual Base Salary Range for role: 76,300.00 - 141,700.00 CHF\n\n  \n\nThe base salary offered is determined based on gender-neutral objectives, such as relevant skills, competencies and experience in accordance with the Novartis pay setting policy and upon joining Novartis will be reviewed periodically. \n\n  \n\nIn addition to your base salary, you may be eligible for a performance-based bonus depending on certain performance parameters. \n\n  \n\nThe rewards of being part of our team go far beyond base pay and incentives. We also offer a variety of competitive benefits in kind to help you thrive personally and professionally, such as insurance plans, retirement plans, wellbeing resources and global recognition programs. In addition, we provide flexible and hybrid working options, where possible, and minimum 14 weeks paid parental leave.  \n\n  \n\nRead our brochure to learn more about our global total rewards offering: \n\n  \n\nhttps://www.novartis.com/sites/novartis_com/files/novartis-life-handbook.pdf \n\n  \n\nNote: Benefits and compensation may vary by country and are subject to local legal requirements, including provisions of collective bargaining agreements where applicable. A full overview of your compensation package, including any relevant collective bargaining agreement details applicable to your role based on your employment location and Novartis employer entity, will be communicated separately to you during the application process. \n\n  \n\n \n\nCommitment to Diversity and Inclusion / EEO paragraph \n\nNovartis is committed to building an outstanding, inclusive work environment and diverse teams’ representative of the patients and communities we serve. \n\n \nSkills DesiredMaterials Science, Process Simulation, Technical Writing, Waterfall Model",
+    "external_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Basel-City/Lab-scientist-position--f-m-d--80-100---Biologics-Characterization-in-Surface-Plasmon-Resonance-Lab_REQ-10081838",
+    "status": "matched",
+    "title": "Lab scientist position (f/m/d, 80-100%) Biologics Characterization in Surface Plasmon Resonance Lab",
+    "company": "Novartis",
+    "location": "Basel (City)",
+    "posted_date": "2026-07-27",
+    "department": "",
+    "score": 0,
+    "matched_keywords": [],
+    "deducted_keywords": []
+  },
+  "/job/Basel-City/Senior-Expert---Device-Project-Leader---Combination-Product-Portfolio--80-100--_REQ-10082597-1": {
+    "description": "Salary Range:CHF93,800.00 - CHF174,200.00\n\n \nJob Description SummaryLocation: Basel, Switzerland, Schaftenau, Austria,\n\n#LI-Hybrid\n\nWith the increasing diversity of Novartis' portfolio, the need for driving our device portfolio is also increasing. As such, we are searching for a Senior Expert – Device Project Leader for joining our team in Basel or Schaftenau in the Portfolio & Customer Center within Global Device and Packaging Development.\n\n \n\nJob Description\n\nIn the role of Senior Expert – Device Project Leader, you will be a vital part of the Portfolio & Customer Center within the Global Device and Packaging Development (GDPD) team based in Basel /CH or Schaftenau/AT. Your primary responsibility is to guide and manage cross-functional project teams both within and outside of the GDPD. This includes representing GDPD in the CMC sub-teams, leading relevant discussions, gaining support, and securing approval for project strategy and changes with the primary focus on the Cell & Gene Therapy (C&GT) and Radioligand Therapy.(RLT) projects.\n\n \nJob Description\n\nYour responsibilities include but are not limited to: \n\nRepresent GDPD in CMC sub-teams, leading device-related discussions and securing endorsement for project strategy or changes.  \n\nLead cross-functional project teams, acting as a single point of contact (SPOC) for all device and packaging related issues. \n\nPlan, manage, and control project resources, schedules, and budgets.  \n\nAssess and negotiate internal & external resource needs on an ongoing basis. Establish and maintain a high-quality if necessary adequate documentation up to Design History File, in case of the product is a combination product for developments and LCM projects until transfer to manufacturing sites.  \n\nEnsure compliance with internal process requirements and current regulations, including Design Control, CMC, FDA combination product regulations and ISO requirements.  \n\nContribute to the improvement of process and delivery technology approaches.  \n\nEvaluate suitable device technology to support different project phases.  \n\nSupport internal and external audits on packaging and medical device related matters. \n\nAssist teams in regulatory dossiers preparation, including documents for medical device/combination product registration and in responding to health authority queries. \n\nEssential Requirements:  \n\n Master or PhD (preferred) in natural science, engineering, pharmaceutical field or equivalent. \n\nMinimum 2-4 years of experience in the pharmaceutical industry, preferably with experience exposure to C&GT and RLT and to drug-device combination product technical development including technical operations. \n\nAbility to work and lead a cross-functional team in a matrix environment \n\nProven knowledge and track record in project and program planning and execution \n\nUnderstanding and awareness of regulatory guidelines for drug-device combination products, including relevant ISOs and current good manufacturing practices (cGMP). \n\nCollaborative spirit, self-driven attitude, high level of learning agility, good listening skills, strategic thinker. \n\nFluent in English (oral and writing), German is beneficial \n\nBenefits & Rewards \n\n \n\nAt Novartis, we’re committed to reimagining medicine together - and rewarding the people who make it happen. \n\n  \n\nExpected Annual Base Salary Range for role: Add: CHF 93,800  to CHF 174,200\n\n  \n\nThe base salary offered is determined based on gender-neutral objectives, such as relevant skills, competencies and experience in accordance with the Novartis pay setting policy and upon joining Novartis will be reviewed periodically. \n\n  \n\nIn addition to your base salary, you may be eligible for a performance-based bonus depending on certain performance parameters. \n\n  \n\nThe rewards of being part of our team go far beyond base pay and incentives. We also offer a variety of competitive benefits in kind to help you thrive personally and professionally, such as insurance plans, retirement plans, wellbeing resources and global recognition programs. In addition, we provide flexible and hybrid working options, where possible, and minimum 14 weeks paid parental leave. \n\nAccessibility and accommodation\nNovartis is committed to working with and providing reasonable accommodation to all individuals. If, because of a medical condition or disability, you need a reasonable accommodation for any part of the recruitment process, or in order to receive more detailed information about the essential functions of a position, please send an e-mail to diversity.inclusion_ch@novartis.com and let us know the nature of your request and your contact information. Please include the job requisition number in your message.\n\nBarrierefreiheit und ZugänglichkeitWenn Sie aufgrund einer Erkrankung oder Behinderung spezielle Unterstützung während des Rekrutierungsprozesses brauchen und/oder deswegen detailliertere Informationen über die wesentlichen Funktionen einer Stelle benötigen, senden Sie bitte eine E-Mail an \ndiversity.inclusion_ch@novartis.com und teilen Sie uns die Art Ihres Anliegens und Ihre Kontaktinformationen mit. Bitte vergessen Sie nicht, dabei die Referenznummer der Stellenausschreibung anzugeben\n\n \n\n \nSkills DesiredData Science, Materials Science, Process Simulation, Technical Writing, Waterfall Model",
+    "external_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Basel-City/Senior-Expert---Device-Project-Leader---Combination-Product-Portfolio--80-100--_REQ-10082597-1",
+    "status": "matched",
+    "title": "Senior Expert - Device Project Leader - Combination Product Portfolio (80-100%)",
+    "company": "Novartis",
+    "location": "Basel (City)",
+    "posted_date": "2026-07-27",
+    "department": "",
+    "score": 1,
+    "matched_keywords": [
+      "PhD"
+    ],
+    "deducted_keywords": []
   }
 }
