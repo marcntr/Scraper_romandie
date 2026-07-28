@@ -9,7 +9,7 @@
     "keywords": "npp"
   },
   "_generic:Charles River Laboratories": {
-    "keywords": "regulatory"
+    "keywords": "regulatory,scientist"
   },
   "_generic:MoonLake Immunotherapeutics": {
     "keywords": "clinical development,medical affairs"
@@ -634,7 +634,8 @@
     "https://jobs.smartrecruiters.com/CERN/744000133614022-computer-scientist-open-science-analysis-facilities-it-ca-ir-2026-139-ld-?oga=true": "ignored",
     "https://jobs.smartrecruiters.com/Sobi/744000137095029-rdma-strategy-and-portfolio-associate-director?oga=true": "ignored",
     "https://jobs.smartrecruiters.com/CERN/744000134176711-project-engineer-scientist-radiation-effects-sy-sti-bmp-2026-118-grap-?oga=true": "ignored",
-    "https://jobs.boehringer-ingelheim.com/job/Basel-Medical-Science-Liaison%2C-Cardio-Renal-Metabolic-%28French-speaking-Switzerland%29-100-%28mfd%29-Swit/1406800733/": "ignored"
+    "https://jobs.boehringer-ingelheim.com/job/Basel-Medical-Science-Liaison%2C-Cardio-Renal-Metabolic-%28French-speaking-Switzerland%29-100-%28mfd%29-Swit/1406800733/": "ignored",
+    "https://jobs.smartrecruiters.com/CERN/744000136179909-material-scientist-isol-targets-sy-sti-rbp-2026-166-grae-?oga=true": "ignored"
   },
   "_generic:Hurdle Bio": {
     "keywords": "npp"
@@ -696,11 +697,6 @@
   "https://api.smartrecruiters.com/v1/companies/AbbVie/postings/3743990012890486": {
     "description": "We’re expanding! The Senior Government Affairs Manager drives AbbVie’s strategic engagement with key Swiss healthcare policy makers, particularly in Bern. The role leverages a strong network of policy influencers and stakeholders to advance AbbVie’s priorities within the Swiss healthcare landscape. With a highly strategic and execution-driven mindset, the Senior Government Affairs Manager collaborates across functions such as Market Access, Government Affairs, Communications, Patient Relations, and Regulatory Affairs to design, communicate, and execute impactful programs and initiatives representing AbbVie’s interests. Key responsibilities: Shapes and leads proactive government affairs strategies to drive and guide the evolution of healthcare and pharmaceutical policy, ensuring alignment and advancement of AbbVie’s business objectives. Actively builds, maintains, and strengthens relationships with policy makers and senior stakeholders in Bern, frequently meeting and working with organizations including Interpharma, FMH, pharmaSuisse, prio.swiss, scienceindustries, Swissmedic, BAG, and other relevant Swiss healthcare bodies. Proactively forms partnerships and coalitions through regular engagement with senior representatives of current and potential partner organizations, positioning AbbVie as a collaborative and trusted partner in sector-wide discussions and initiatives. Possesses deep knowledge of the Swiss healthcare system and understands national policy-making mechanisms. Leads priority programs, represents AbbVie to third-party stakeholders and senior public officials, organizing ongoing briefings to inform General Manager’s involvement in trade associations. Organizes and guides strategic stakeholder meetings and events at the national level, with frequent direct interactions, policy dialogues in Bern, and active participation in regional relationship-building. Collaborates closely with Market Access, Communications, Patient Relations, Regulatory Affairs, and other key internal teams for cohesive execution.",
     "external_url": "https://jobs.smartrecruiters.com/AbbVie/3743990012890486-senior-government-affairs-manager?oga=true",
-    "status": "matched"
-  },
-  "https://api.smartrecruiters.com/v1/companies/Sobi/postings/744000128222115": {
-    "description": "About the role Are you energized by complexity, motivated by purpose, and excited by the opportunity to shape supply planning for a product in a pivotal growth phase? As Strategic Planning Manager for you will play a central role in ensuring robust product availability across Drug Substance, Drug Product and Finished Goods. Working across the full supply chain, you will translate commercial and medical priorities into clear, executable plans, navigate uncertainty with confidence, and help steer key decisions that directly support patients living with rare diseases. This role offers broad visibility and impact, spanning strategic long-term planning, tactical decision-making, and day-to-day supply assurance. You will join our Global Supply Operations team, report to the Head of Planning, and be based at our Stockholm HQ or Global Hub in Basel. In this role, you will: Own and continuously evolve the integrated end-to-end supply plan across short-, mid- and long-term horizons, balancing commercial and medical demand, inventory strategy and supply capabilities. Lead scenario planning and supply risk assessments, translating uncertainty into clear options, recommendations and decision material for governance and senior stakeholders. Turn demand signals into capacity, material and inventory requirements, and drive alignment on assumptions and commitments across key planning cycles. Shape allocation and supply prioritization proposals when demand exceeds supply, ensuring transparent trade-offs and strong alignment across markets, indications and programs. Partner closely with Commercial, Medical, TechOps, Quality, Regulatory, Global Distribution and external partners to create one aligned, executable plan. Prepare and present planning insights, risks and mitigation plans in product teams and governance forums, acting as a trusted voice on supply planning and constraints. Establish meaningful planning KPIs and continuously improve ways of working, data quality and tools to strengthen planning performance over time.",
-    "external_url": "https://jobs.smartrecruiters.com/Sobi/744000128222115-strategic-planning-manager-supply-chain?oga=true",
     "status": "matched"
   },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000130162349": {
@@ -1046,7 +1042,7 @@
     "title": "Senior Scientist QA Operations",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-06-30",
+    "posted_date": "2026-06-29",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -1092,7 +1088,7 @@
     "title": "Associate Scientist / Senior Laboratory Specialist",
     "company": "CSL Behring / Vifor",
     "location": "EMEA, CH, Kanton Bern, Bern, CSL Behring",
-    "posted_date": "2026-07-01",
+    "posted_date": "2026-06-30",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1124,7 +1120,7 @@
     "title": "In Vitro Bioanalysis Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-02",
+    "posted_date": "2026-07-01",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -1157,7 +1153,7 @@
     "title": "Principal Scientist si-RNA Design",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-02",
+    "posted_date": "2026-07-01",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1173,7 +1169,7 @@
     "title": "Mechanistic Immuno Tox Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-02",
+    "posted_date": "2026-07-01",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -1192,7 +1188,7 @@
     "title": "Investigative Toxicology Junior Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-02",
+    "posted_date": "2026-07-01",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -1216,7 +1212,7 @@
     "title": "Hematology and Safety Biomarker Expert",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-02",
+    "posted_date": "2026-07-01",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -1237,7 +1233,7 @@
     "title": "Internship Scientist Forensic Chemistry 6 months contract 80-100%",
     "company": "Lonza",
     "location": "CH - Basel",
-    "posted_date": "2026-07-02",
+    "posted_date": "2026-07-01",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1350,7 +1346,7 @@
     "title": "Senior Scientist Electronic Laboratory Systems",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-07-03",
+    "posted_date": "2026-07-02",
     "department": "",
     "score": -1,
     "matched_keywords": [
@@ -1428,7 +1424,7 @@
     "title": "Senior/Principal Scientist - NMR Expert",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-08",
+    "posted_date": "2026-07-07",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1444,7 +1440,7 @@
     "title": "Director, Corporate Strategy & Business Development",
     "company": "Alcon",
     "location": "Geneva, Switzerland",
-    "posted_date": "2026-07-08",
+    "posted_date": "2026-07-07",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -1537,7 +1533,7 @@
     "title": "Principal Operations AI Data Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-11",
+    "posted_date": "2026-07-10",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1622,7 +1618,7 @@
     "title": "Patent Attorney",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-07-07",
+    "posted_date": "2026-07-06",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1635,7 +1631,7 @@
     "title": "Senior Principal Scientist - Proteomics",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-07-10",
+    "posted_date": "2026-07-09",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -1655,7 +1651,7 @@
     "title": "Senior Expert / Senior Principal PKS Data Scientist & Scientific Software Engineer (Dual level posting)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-07-01",
+    "posted_date": "2026-06-30",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -1688,7 +1684,7 @@
     "title": "Head Clinical Development AI & Technology",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-07-14",
+    "posted_date": "2026-07-13",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1749,7 +1745,7 @@
     "title": "Post Doctoral Scientist (m/w/d)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-15",
+    "posted_date": "2026-07-14",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1831,7 +1827,7 @@
     "title": "Sr Global HEOR & Payer Evidence Lead",
     "company": "Abbott",
     "location": "Switzerland - Basel",
-    "posted_date": "2026-07-16",
+    "posted_date": "2026-07-15",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -1892,11 +1888,6 @@
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000138029540-backend-python-engineer-osi-sis-ts-2026-128-grap-?oga=true",
     "status": "matched"
   },
-  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000138059344": {
-    "description": "Dans le cadre de vos fonctions, vous accueillez des patientes et patients jeunes adultes, âgés de 18 à 25 ans, présentant des troubles psychiques stabilisés. Vous apportez un soutien relationnel et humain durant la nuit, en collaboration étroite avec le personnel infirmier présent dans l’unité.\nDestiné aux étudiantes et étudiants en formation dans les domaines des soins médicaux, paramédicaux, de la HETS ou de la psychologie, ce poste constitue une opportunité privilégiée de découvrir le milieu de la psychiatrie et de la santé mentale tout en développant une expérience pratique auprès d’une population de jeunes adultes.\nVous participez à l’accompagnement des patients et patientes durant les horaires de nuit (22h00 à 7h00) en contribuant au maintien d’un environnement sécurisant et bienveillant. Bien que les nuits soient généralement calmes, vous êtes amenée ou amené à intervenir en soutien du personnel infirmier lorsque la situation nécessite une présence rassurante, une écoute ou un accompagnement relationnel adapté.\nPar votre présence, votre disponibilité et votre sens de l’observation, vous contribuez au bien-être des patients et patientes ainsi qu’à la qualité de leur prise en charge. Vous portez un intérêt marqué aux soins relationnels et souhaitez développer vos connaissances dans le domaine de la santé mentale et de la psychiatrie.\nCe poste requiert une grande flexibilité en matière de planification ainsi qu’une capacité à s’adapter aux besoins du service. Vous appréciez le travail en équipe et faites preuve d’empathie, de maturité et de professionnalisme dans vos interactions avec les patients, les patientes et les professionnels de santé.",
-    "external_url": "https://jobs.smartrecruiters.com/HUG/744000138059344-veilleur-ou-veilleuse-de-nuit-etudiant-ou-etudiante-50-?oga=true",
-    "status": "matched"
-  },
   "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000138037854": {
     "description": "Dans le cadre de la prise en charge de patientes et patients âgés en situations complexes, vous effectuez des soins de base et des tâches d’entretien en entretenant d’excellentes relations humaines.\nVous participez également à l’organisation d’activités quotidiennes permettant d’assurer leur bien-être physique, psychique et social.\nVous apportez ainsi soutien et suppléance dans les activités de la vie quotidienne des patients et patientes et dans l’accompagnement de leur famille.\nVous assurez les tâches hôtelières et ménagères en lien avec l'environnement proche du ou de la patiente et vous contribuez à leur sécurité en respectant les règles d'hygiène et d'asepsie en vigueur.\nVous participez activement à la prévention de complications liées à l’hospitalisation en collaboration avec les autres professionnelles et professionnels de santé (douleur, prévention escarre, prévention chute…).",
     "external_url": "https://jobs.smartrecruiters.com/HUG/744000138037854-aide-en-soins-et-accompagnement-80-a-100-?oga=true",
@@ -1909,7 +1900,7 @@
     "title": "Staff Scientist - Spectral Cytometry Expert",
     "company": "Labcorp",
     "location": "CHE - Geneva - 7 rue Moise-Marcinhes",
-    "posted_date": "2026-07-17",
+    "posted_date": "2026-07-16",
     "department": "",
     "score": 8,
     "matched_keywords": [
@@ -1943,7 +1934,7 @@
     "title": "Business Development Manager (m/w/d) Neuromodulation – Schweiz",
     "company": "Abbott",
     "location": "Switzerland - Baar",
-    "posted_date": "2026-07-18",
+    "posted_date": "2026-07-17",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -2251,21 +2242,6 @@
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000138865845-computer-security-architect-it-di-cso-2026-190-grae-?oga=true",
     "status": "matched"
   },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000138873499": {
-    "description": "What you'll do\nYou will join one of CERN’s experimental physics groups, if selected for this Research Fellowship, to develop and lead your own research programme at the frontier of particle physics. You will work in a highly collaborative and international environment, analysing data, contributing to detector design, construction and/or operations, and engaging in the design, execution and interpretation of physics data analyses. You will also be part of CERN’s vibrant scientific community through seminars, workshops, training activities and collaborative projects.\nYour key tasks\nYou conduct research in experimental physics within a CERN research group of your choice.\nYou contribute to CERN’s experimental physics programme using its large-scale scientific instruments.\nYou collaborate with physicists and engineers on studies of particle interactions and related research activities.\nYou develop and pursue your research interests within the framework of the Fellowship.\nYour profile\nYou hold a strong background in experimental particle physics or a closely related field.\nYou have research experience aligned with the scientific activities carried out at CERN’s experimental facilities.\nYou are motivated to join a research group and contribute to high-impact scientific work.\nYou are eager to develop and pursue your own research interests within the Fellowship framework.\nYour skills\nYou have solid analytical and problem-solving skills in the context of experimental physics.\nYou are able to work collaboratively within large, international scientific teams.\nYou communicate effectively in a scientific environment, including presenting and discussing research results.\nYou can work independently while contributing to shared research objectives and collaborative projects.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000138873499-research-fellowship-experimental-physics-?oga=true",
-    "status": "ignored",
-    "title": "Research Fellowship (Experimental Physics)",
-    "company": "CERN",
-    "location": "Geneva, Switzerland",
-    "posted_date": "2026-07-21",
-    "department": "Research",
-    "score": 4,
-    "matched_keywords": [
-      "location:geneva"
-    ],
-    "deducted_keywords": []
-  },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000138858656": {
     "description": "Are you passionate about cloud infrastructure and curious about how large-scale services are operated and evolved? Join CERN's IT Cloud team and help run and develop the OpenStack-based cloud infrastructure that underpins most CERN and LHC experiment services. In this role, you will work on the systems and software that provide compute, storage, networking and automation capabilities to thousands of users across the organisation.\nYou will collaborate closely with experienced engineers, the upstream OpenStack community, and CERN's diverse user communities, gaining hands-on experience operating and evolving one of the world's largest scientific clouds. From service reliability and automation to feature development and large-scale operations, you will help deliver infrastructure that enables cutting-edge research.\nIf you enjoy solving complex technical challenges, contributing to open-source software, and working with infrastructure at scale, come join us!\nYour responsibilities\nRun and help evolve CERN IT's OpenStack-based cloud infrastructure.\nContribute to the operation and development of cloud services, including compute, storage, networking and related infrastructure components.\nDevelop and maintain automation and tooling using Python and configuration management systems.\nWork closely with other IT teams and user communities to design and integrate new capabilities and services.\nContribute bug fixes and improvements upstream, leveraging CERN's strong links with the OpenStack open-source community.\nParticipate in troubleshooting and performance optimisation of large-scale distributed systems.\nFurther enhance the service's automation to ensure scalability and manageability.\nYour profile\nExperience administering or working with Linux systems in a server or data-centre environment.\nExperience writing Python scripts or applications for automation or systems tasks.\nFamiliarity with cloud platforms, virtualisation technologies or distributed systems is a plus.\nExperience with configuration management tools such as Puppet or Ansible is a plus.\nExperience with container technologies, CI/CD systems or software-defined networking is a plus.\nContributions to open-source projects or upstream communities are a plus.\nSkills\nStrong knowledge of the Linux operating system.\nExperience with git version control.\nProgramming experience in Python.\nInterest in cloud infrastructure and large-scale distributed systems.\nFamiliarity with configuration management systems (e.g. Puppet or Ansible) is a plus.\nUnderstanding of networking concepts and storage technologies is a plus.\nAbility to collaborate in a multidisciplinary, international team and communicate clearly.\nSpoken and written English, with a commitment to learn French.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nBy the application deadline, you have a maximum of two years of professional experience since graduation in Computer Science or a related field (or a related field) and your highest educational qualification is either a Bachelor's or Master's degree.\nYou have never had a CERN fellow or graduate contract before.\nApplicants without University degree are not eligible.\nApplicants with a PhD are not eligible.",
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000138858656-openstack-cloud-engineer-it-cd-cli-2026-180-grae-?oga=true",
@@ -2307,7 +2283,7 @@
     "title": "Scientist Synthesis Automation",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-23",
+    "posted_date": "2026-07-22",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2322,7 +2298,7 @@
     "title": "Commercial Portfolio Head Region Europe",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-07-23",
+    "posted_date": "2026-07-22",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -2340,7 +2316,7 @@
     "title": "Associate Director, EU Regulatory Lead Neuroscience",
     "company": "Takeda",
     "location": "Zurich, Switzerland",
-    "posted_date": "2026-07-23",
+    "posted_date": "2026-07-22",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2390,7 +2366,7 @@
     "title": "Internship in the PD Medical Affairs Nucleus Team - End to End (E2E) Evidence Generation Sub-chapter - as of 15 November 2026 for 12 months in Basel",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-24",
+    "posted_date": "2026-07-23",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2489,7 +2465,7 @@
     "title": "Cardio-Renal Discovery Area Leader - Expert Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-25",
+    "posted_date": "2026-07-24",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -2515,7 +2491,7 @@
     "title": "Director, Medical Affairs, Hemato-Oncology, Europe",
     "company": "BeiGene",
     "location": "Basel",
-    "posted_date": "2026-07-25",
+    "posted_date": "2026-07-24",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -2537,7 +2513,7 @@
     "title": "Portfolio Strategy & Delivery Lead, Data Insight Technology",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-25",
+    "posted_date": "2026-07-24",
     "department": "",
     "score": -1,
     "matched_keywords": [
@@ -2619,7 +2595,7 @@
     "title": "Lab scientist position (f/m/d, 80-100%) Biologics Characterization in Surface Plasmon Resonance Lab",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-07-28",
+    "posted_date": "",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -2632,7 +2608,7 @@
     "title": "Senior Expert - Device Project Leader - Combination Product Portfolio (80-100%)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-07-28",
+    "posted_date": "",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2681,7 +2657,7 @@
     "title": "RiSM Internship for students in Computer Science, Software Engineering, Data Science or Bioinformatics (Basel, 9-12 months)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-28",
+    "posted_date": "",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2696,7 +2672,7 @@
     "title": "RiSM Internship for students in Pharmaceutical Sciences, Pharmaceutical Technology, Data Sciences, Cheminformatics or Chemistry (Basel, 6 months)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-28",
+    "posted_date": "",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -2737,5 +2713,45 @@
     "score": 0,
     "matched_keywords": [],
     "deducted_keywords": []
+  },
+  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000140211788": {
+    "description": "What you'll do\nYou will join one of CERN’s experimental physics groups, if selected for this Research Fellowship, to develop and lead your own research programme at the frontier of particle physics. You will work in a highly collaborative and international environment, analysing data, contributing to detector design, construction and/or operations, and engaging in the design, execution and interpretation of physics data analyses. You will also be part of CERN’s vibrant scientific community through seminars, workshops, training activities and collaborative projects.\nYour key tasks\nYou conduct research in experimental physics within a CERN research group of your choice.\nYou contribute to CERN’s experimental physics programme using its large-scale scientific instruments.\nYou collaborate with physicists and engineers on studies of particle interactions and related research activities.\nYou develop and pursue your research interests within the framework of the Fellowship.\nYour profile\nYou hold a strong background in experimental particle physics or a closely related field.\nYou have research experience aligned with the scientific activities carried out at CERN’s experimental facilities.\nYou are motivated to join a research group and contribute to high-impact scientific work.\nYou are eager to develop and pursue your own research interests within the Fellowship framework.\nYour skills\nYou have solid analytical and problem-solving skills in the context of experimental physics.\nYou are able to work collaboratively within large, international scientific teams.\nYou communicate effectively in a scientific environment, including presenting and discussing research results.\nYou can work independently while contributing to shared research objectives and collaborative projects.",
+    "external_url": "https://jobs.smartrecruiters.com/CERN/744000140211788-research-fellowship-experimental-physics-?oga=true",
+    "status": "matched",
+    "title": "Research Fellowship (Experimental Physics)",
+    "company": "CERN",
+    "location": "Geneva, Switzerland",
+    "posted_date": "2026-07-28",
+    "department": "Research",
+    "score": 4,
+    "matched_keywords": [
+      "location:geneva"
+    ],
+    "deducted_keywords": []
+  },
+  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000140179469": {
+    "description": "You will be joining the COE section (Communication, Outreach and Education), part of the Department Infrastructure group (IT-DI). IT-DI provides services to the department ranging from the architecture and the deployment of the CERN computing facilities to the laboratory computing security and the relations with the CERN user communities and general public.\nThe COE section needs your help to bring the world's largest physics laboratory closer to the scientific community, to students and trainees and to the general public.\nYour responsibilities\nBe part of the activities of the IT-DI-COE section in the areas of Education, Communication and Outreach.\nTake an active part in restructuring the CERN IT website: support the completion of its WordPress migration and design a new information architecture to improve searchability and usability for diverse audiences, including CERN staff, researchers, and key global initiatives like the Worldwide LHC Computing Grid.\nSupport IT-DI-COE in event organisation, notably being part of the back office for the events like Conferences, Project events, CERN OpenDays (CERN IT part). This task includes the streamlining and the improvement of existing processes.\nHelp building new departmental infrastructure — leveraging existing CERN repositories — to organise and maintain resources for inductions, visits, events, and other key processes, giving you the chance to shape a system from the ground up.\nYour profile\nKnowledge of content management systems such as Drupal or WordPress.\nKnowledge of tools like Google Workspace, Office or equivalent.\nKnowledge of tools like Linearity, Canva or equivalent.\nExperience within scientific, research, innovation, or technology environments would be an asset.\nSkills\nEase to rapidly pick up usage of modern technologies to effectively support colleagues (e.g. organisation of meetings, negotiation with service providers, communication with persons using our infrastructure).\nHave basic knowledge of web technologies (HTML, CSS; familiarity with WordPress or other content-management systems is a plus, but not essential).\nAre comfortable with — or eager to learn — modern approaches to information architecture and web accessibility.\nEnjoy communicating clearly, whether in writing, through visuals, or in person.\nBe detail-oriented and comfortable handling multiple small tasks at once.\nAre a good team player who's also happy to take initiative and run with a task.\nSpoken and written English, with a commitment to learn French.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nBy the application deadline, you have a maximum of two years of professional experience since graduation in Business, Communication, Computing (or a related field) and your highest educational qualification is either a Bachelor's or Master's degree.\nYou have never had a CERN fellow or graduate contract before.\nApplicants without University degree are not eligible.\nApplicants with a PhD are not eligible.",
+    "external_url": "https://jobs.smartrecruiters.com/CERN/744000140179469-cern-it-support-officer-it-di-2026-195-grae-?oga=true",
+    "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000140164259": {
+    "description": "Au sein de la Maison OBB et dans le cadre d’une prise en charge pluridisciplinaire et pluri-hebdomadaire, vous assurez de manière autonome la prise en soins psychomotrice (bilan, séances individuelles et/ou groupale à médiation corporelle) d’enfants de 0 à 2 ans et leurs parents.\nVous accompagnez et soutenez la parentalité, le développement psychomoteur de l’enfant et la relation parent-enfant. \nVous participez aux réunions de synthèse, à l’élaboration de projets thérapeutiques et d’orientation.\nAu sein de la Maison OBB, une structure rattachée à l’Office de l’enfance et de la jeunesse, s’adressant prioritairement à des familles particulièrement vulnérables, vous avez la possibilité d'offrir un accompagnement dans le développement des liens parent-enfant auprès des familles à haut risque psychosocial.\nVous effectuez des évaluations psychomotrices puis un accompagnement parent-bébé dans une collaboration étroite avec l’équipe de la Maison OBB (équipe éducative de la FOJ) et celle du SPEA/HUG (pédopsychologue, pédopsychiatre de l’unité Guidance petite enfance, pédiatre, psychiatre adulte et assistante sociale).\nEn outre, vous soutenez et évaluez l’établissement des liens parent-bébé/enfant au cours des soins quotidiens (bain, change, repas, sommeil, interactions/jeux…) et les compétences du bébé/enfant ainsi que son développement psychomoteur en accompagnant ses parents dans la lecture, le décodage et les réponses à ses signaux.\nVous soutenez et accompagnez le parent selon son état psychique (dépression post-partum, trouble de la personnalité, trouble psychiatrique non-décompensé…).\nDe plus, vous soutenez et évaluez les compétences parentales.\nVous pouvez participer à des entretiens conjoint avec la ou le médecin pédopsychiatre ou psychologue.\nUne participation est également demandée aux colloques d’équipe, aux supervisions, aux réseaux psycho-sociaux autour de la famille\nEnfin, sur le plan administratif, vous vous chargez des notes de suite des observations quotidiennes de l’enfant et de la relation parent-bébé pour chaque famille. Vous participez à l’élaboration et la rédaction de rapports ainsi qu'à la facturation.",
+    "external_url": "https://jobs.smartrecruiters.com/HUG/744000140164259-psychomotricien-ou-psychomotricienne-au-service-de-psychiatrie-de-l-enfant-et-de-l-adolescent-50-?oga=true",
+    "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000140163839": {
+    "description": "Vous assistez plusieurs cadres de santé, notamment médecins et responsables d’équipe pour la gestion et l'organisation administrative du service, dans les domaines cliniques, académiques et de recherches, en assurant l'interface entre les différentes filières professionnelles.\nVous organisez les rendez-vous, les séances et les séminaires en gérant l’agenda électronique de ces cadres de santé. Vous préparez les dossiers, rédigez les comptes rendus de séance et coordonnez le suivi des décisions prises. Vous travaillez en coordination avec l’assistant ou l'assistante de la médecin-cheffe de service et vous le ou la remplacez selon nécessité.\nTout en répondant aux diverses sollicitations, vous menez à bien et de manière autonome les activités administratives en lien avec votre fonction telles que la gestion des horaires (VRH) des médecins, la gestion administrative des fonds privés ou facultaires, l’organisation des congrès et colloques du corps médical, le support administratif aux projets des cadres du service, ou en encore le suivi du budget alloué au service et à la recherche.\nVous faites preuve de proactivité pour effectuer les tâches logistiques découlant de la vie d’un secrétariat comme par exemple les commandes, les demandes d'engagement, de remboursement ou de formation.\nAu sein de l’équipe, vous développez un lien de proximité avec vos collègues secrétaires, vous assurez une continuité de service lors des absences. Et plus généralement, votre sens du service fait de vous une personne agile et diplomate.",
+    "external_url": "https://jobs.smartrecruiters.com/HUG/744000140163839-secretaire-de-cadres-hospitalo-universitaire-50-ou-70-?oga=true",
+    "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000140164459": {
+    "description": "Vous rejoignez l’équipe de Malatavie-Unité de crise, qui propose un suivi de crise pour les 13-18 ans présentant un risque suicidaire et pouvant s'engager dans une prise en charge spécifique.\nVous contribuez au travail d’accueil et d’orientation des adolescents et adolescentes, ainsi que des jeunes adultes qui ont des pensées suicidaires et un mal-être important (entretiens d’accueil et d’orientation, évaluation du risque suicidaires, répondre à la Ligne Ados, répondre aux demandes reçues par mail et répondre aux questions posées par les jeunes sur la thématique du suicide via les plateformes Ciao.ch et on tecoute.ch).\nEn tant que psychologue de l’équipe Prévention, vous participez aux supervisions, aux différents temps de réunions et présentez les situations cliniques auprès de vos collègues.\nVous travaillez également en lien étroit avec le réseau genevois.\nVous pouvez donner des enseignements ainsi que des formations sur la question de la Prévention du risque suicidaire.",
+    "external_url": "https://jobs.smartrecruiters.com/HUG/744000140164459-psychologue-au-service-de-psychiatrie-de-l-enfant-et-de-l-adolescent-50-a-60-?oga=true",
+    "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000140164399": {
+    "description": "Vous êtes en charge d’accueillir et prendre en charge des patients et patientes venant effectuer des examens neurophysiologiques.\nVous évoluez sur deux secteurs à la fois en stationnaire et ambulatoire mais également au lit des patients et patientes sur différents sites.\nVous réalisez différents examens : EEG, Polysomnographie, potentiels évoqués (moteurs, sensitifs, visuels et auditifs) qui sont prescrits par l’équipe médicale, pour une patientèle hospitalisée et/ou ambulatoire dont l’âge peut varier du nouveau-né à la personne âgée.\nVous accompagnez la patientèle ainsi que son entourage au décours de la maladie d’épilepsie pour la préparation à une éventuelle chirurgie en s’appuyant sur l’éducation thérapeutique.\nVous travaillez en étroite collaboration avec l’équipe médicale.\nVous dispensez des soins spécifiques autonomes et effectuez des actes médicaux délégués.\nVous gérez les situations d’urgence.",
+    "external_url": "https://jobs.smartrecruiters.com/HUG/744000140164399-technicien-ou-technicienne-unite-epileptologie-eeg-80-a-100-?oga=true",
+    "status": "matched"
   }
 }
