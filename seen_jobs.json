@@ -636,7 +636,8 @@
     "https://jobs.smartrecruiters.com/CERN/744000134176711-project-engineer-scientist-radiation-effects-sy-sti-bmp-2026-118-grap-?oga=true": "ignored",
     "https://jobs.boehringer-ingelheim.com/job/Basel-Medical-Science-Liaison%2C-Cardio-Renal-Metabolic-%28French-speaking-Switzerland%29-100-%28mfd%29-Swit/1406800733/": "ignored",
     "https://jobs.smartrecruiters.com/CERN/744000136179909-material-scientist-isol-targets-sy-sti-rbp-2026-166-grae-?oga=true": "ignored",
-    "https://jobs.smartrecruiters.com/CERN/744000138873499-research-fellowship-experimental-physics-?oga=true": "ignored"
+    "https://jobs.smartrecruiters.com/CERN/744000138873499-research-fellowship-experimental-physics-?oga=true": "ignored",
+    "https://lonza.wd3.myworkdayjobs.com/Lonza_Careers/job/CH---Basel/Internship-Scientist-Forensic-Chemistry-6-months-contract-80-100-_R74840": "ignored"
   },
   "_generic:Hurdle Bio": {
     "keywords": "npp"
@@ -976,11 +977,6 @@
       "medical affairs"
     ],
     "deducted_keywords": []
-  },
-  "https://api.smartrecruiters.com/v1/companies/Sobi/postings/744000134274779": {
-    "description": "Key Responsibility\nThe Indirect sourcing manager supports internal stakeholders in the procurement process to ensure cost efficient, time efficient, and compliant purchases.\nPerform cost and scenario analysis and benchmarking, including identifying savings and optimization opportunities\nPrepare and conduct negotiations according to best-practices\nLead commercial discussions and negotiations with suppliers on agreement setup, and commercial negotiations, including pricing, rate cards, scope of work, and contract terms.\nCollaborate with a broad range of stakeholders across functions and geographies to define business needs, and support sourcing strategies, supplier selection, and agreement setup\nProactively identify opportunities for improvement and drive implementation along the Procurement lifecycle in terms of the 'Source to Pay' process, policies and procedures in collaboration with key stakeholders (e.g. Finance, Legal)\nEnsure compliance to P2P processes including Purchase Order creation and follow-up\nPrepare monthly reports and monitor KPI´s\nDevelop agreements and log them in the contract management system\nContributing to learning and development within the team as well as the wider organization. This includes coaching and assisting in onboarding of new team members\nThe Spend coach team process around 5-10 purchase requests per day. The amount and type of work required for each request varies and ranges from simple administrative approvals to conducting full scale tenders over several weeks/months.",
-    "external_url": "https://jobs.smartrecruiters.com/Sobi/744000134274779-indirect-sourcing-manager-fixed-term-12-months?oga=true",
-    "status": "matched"
   },
   "_generic:Numab Therapeutics": {
     "keywords": "npp"
