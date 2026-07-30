@@ -2215,20 +2215,6 @@
     "external_url": "https://jobs.smartrecruiters.com/HUG/744000139279984-psychologue-a-l-unite-d-hospitalisation-du-service-de-psychiatrie-de-l-enfant-et-de-l-adolescent-100-?oga=true",
     "status": "matched"
   },
-  "https://www.michaelpage.ch/job-detail/portfolio-launch-management-solutions-lead/ref/jn-072026-7069016": {
-    "external_url": "https://www.michaelpage.ch/job-detail/portfolio-launch-management-solutions-lead/ref/jn-072026-7069016",
-    "status": "ignored",
-    "title": "Portfolio & Launch Management Solutions Lead (a)",
-    "company": "Michael Page Switzerland",
-    "location": "Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": -2,
-    "matched_keywords": [],
-    "deducted_keywords": [
-      "location:Switzerland"
-    ]
-  },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000139539249": {
     "description": "Introduction:\nYou will support the integration and commissioning of services and infrastructure for the CMS Tracker construction at CERN, with a focus on the preparation and validation of services, as well as the reception testing of components and detector assemblies. The role also includes the setup and operation of test electronics for the commissioning of detector services and the functional testing of detector components and assemblies.\nFunctions:\nPrepare and support the installation and commissioning of services and infrastructure for large detector assemblies (e.g. cables, racks and test setups).\nSet up and operate test electronics and commissioning setups (e.g. interlocks, sensor interfaces and thermal test configurations).\nPerform reception testing of detector substructures and components, including power distribution hardware delivered to CERN.\nValidate integrated electrical services (power, signal and grounding interfaces) installed on detector assemblies and troubleshoot issues during construction.\nMaintain traceability by updating the production database with acceptance test reports and installation data.",
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000139539249-electronics-technician-ep-cms-id-2026-147-ld-?oga=true",
