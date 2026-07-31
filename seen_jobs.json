@@ -359,7 +359,7 @@
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-07-23"
+    "cached_at": "2026-07-31"
   },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000085340717": {
     "description": "One of CERN’s key missions is education. Our experts enjoy sharing their knowledge with committed and passionate students. If you are an undergraduate student in a technical or administrative field , and you’re looking to spend a few months training on-the-job, imagine doing your internship at CERN in Geneva. An impressive addition to your CV! We offer a limited number of placements in our practical training programme. Duration 1 – 6 months. !Important!: Please note that only nationals of CERN Member States or Associate Member States are eligible to apply. Applications from other countries will not be considered.",
@@ -388,7 +388,7 @@
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-07-23"
+    "cached_at": "2026-07-31"
   },
   "_facets:alirahealth:AliraHealth": {
     "facets": {},
@@ -637,7 +637,8 @@
     "https://jobs.boehringer-ingelheim.com/job/Basel-Medical-Science-Liaison%2C-Cardio-Renal-Metabolic-%28French-speaking-Switzerland%29-100-%28mfd%29-Swit/1406800733/": "ignored",
     "https://jobs.smartrecruiters.com/CERN/744000136179909-material-scientist-isol-targets-sy-sti-rbp-2026-166-grae-?oga=true": "ignored",
     "https://jobs.smartrecruiters.com/CERN/744000138873499-research-fellowship-experimental-physics-?oga=true": "ignored",
-    "https://lonza.wd3.myworkdayjobs.com/Lonza_Careers/job/CH---Basel/Internship-Scientist-Forensic-Chemistry-6-months-contract-80-100-_R74840": "ignored"
+    "https://lonza.wd3.myworkdayjobs.com/Lonza_Careers/job/CH---Basel/Internship-Scientist-Forensic-Chemistry-6-months-contract-80-100-_R74840": "ignored",
+    "https://www.michaelpage.ch/job-detail/portfolio-launch-management-solutions-lead/ref/jn-072026-7069016": "ignored"
   },
   "_generic:Hurdle Bio": {
     "keywords": "npp"
@@ -856,7 +857,7 @@
     "title": "Clinical Scientist in neurosciences",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-06-30",
+    "posted_date": "2026-07-01",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -872,7 +873,7 @@
     "title": "Scientist, Pharmaceutical Development & Data Analytics _2 years temporary contract",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-06-30",
+    "posted_date": "2026-07-01",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -887,7 +888,7 @@
     "title": "Technical Expert Portfolio Mgmt, Technical Feasibility and Planning",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-06-30",
+    "posted_date": "2026-07-01",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -900,7 +901,7 @@
     "title": "Sr. Scientist - Computational Biology - Neuroscience & Rare Diseases",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-06-30",
+    "posted_date": "2026-07-01",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -923,7 +924,7 @@
     "title": "Global Medical Director, Evidence Generation Lead",
     "company": "Biogen",
     "location": "Baar, Switzerland",
-    "posted_date": "2026-06-30",
+    "posted_date": "2026-07-01",
     "department": "",
     "score": -2,
     "matched_keywords": [
@@ -942,7 +943,7 @@
     "title": "Senior Medical Director, Nephrology, Global Medical Affairs",
     "company": "Biogen",
     "location": "Baar, Switzerland",
-    "posted_date": "2026-06-30",
+    "posted_date": "2026-07-01",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -988,7 +989,7 @@
     "title": "Scientist Microbiological Quality Control",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-06-30",
+    "posted_date": "2026-07-01",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -1003,7 +1004,7 @@
     "title": "R&D Scientist – Scientific Data Analytics (d/f/m)",
     "company": "Danaher",
     "location": "Basel, Switzerland",
-    "posted_date": "2026-06-30",
+    "posted_date": "2026-07-01",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1024,7 +1025,7 @@
     "title": "Senior Scientist QA Operations",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-06-30",
+    "posted_date": "2026-07-01",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -1060,7 +1061,7 @@
     "title": "Associate Scientist / Senior Laboratory Specialist",
     "company": "CSL Behring / Vifor",
     "location": "EMEA, CH, Kanton Bern, Bern, CSL Behring",
-    "posted_date": "2026-06-30",
+    "posted_date": "2026-07-01",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1079,24 +1080,6 @@
     "description": "Role and composition of the PFGB\nThe functions of the PFGB are laid down in Article I 2.05 of the Fund’s rules and, amongst other things, include monitoring the actuarial status of the Fund, reviewing the Annual Report & Financial Statements, approving the Statement of Investment Principles, Investment Guidelines, Risk Limit, and Strategic Asset Allocation, and approving the internal audit plan.\nThe composition of the PFGB is laid down in Article I 2.06 of the Fund’s rules. The PFGB is required to have at least ten members, comprising two members appointed by the CERN Council, one appointed by the ESO Council, one ex-officio member appointed by CERN Management, two appointed by the CERN Staff Association, one appointed by the ESO Staff Association, one appointed by the CERN and ESO Pensioner Association, and two professional members specialised in pension fund matters appointed by the CERN Council. The Chief Executive Officer attends all meetings in his capacity as Secretary to the board but is not a voting member.\nThe members of the PFGB are appointed for a maximum period of three years, renewable once for a further maximum consecutive period of three years.\nDescription of Work\nThe PFGB usually holds five meetings each year, including one joint meeting with the ATC and one with the IC, but additional meetings or conference calls may be scheduled if required. Typically, meetings last a full day and take place at CERN in Geneva, Switzerland, or exceptionally by videoconference. Professional members are expected to attend every meeting and are required to act in the best interests of the Fund and to abide by the CERN Code of Conduct and the Pension Fund Implementation Guidelines.",
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000135168039-cern-pension-fund-governing-board-external-professional-expert?oga=true",
     "status": "matched"
-  },
-  "/job/Basel/In-Vitro-Bioanalysis-Scientist_202606-116786-1": {
-    "description": "At Roche you can show up as yourself, embraced for the unique qualities you bring. Our culture encourages personal expression, open dialogue, and genuine connections,  where you are valued, accepted and respected for who you are, allowing you to thrive both personally and professionally. This is how we aim to prevent, stop and cure diseases and ensure everyone has access to healthcare today and for generations to come. Join Roche, where every voice matters.\n\nThe Position\n\nIn Roche’s Pharmaceutical Research and Early Development organization (pRED), we make transformative medicines for patients in order to tackle some of the world’s toughest unmet healthcare needs. At pRED, we are united by our mission to transform science into medicines. Together, we create a culture defined by curiosity, responsibility, and humility, where our talented people are empowered and inspired to bring forward extraordinary life-changing innovation at speed.\n\n \nAt the intersection of science and innovation, pRED’s Pharmaceutical Sciences (PS) organization enables the discovery and development of safe and effective therapeutics at optimal doses in relevant populations with a vision to power translation, continuously improve the accuracy of our predictions and accelerate the development of tomorrow's medicines. By seamlessly integrating our three core pillars—Translational Safety, Translational Pharmacology, and Biomarkers—we drive End to End asset development across the entire value chain, from target assessment to on-market support. Our mission is to continuously improve predictive accuracy, optimize dosing strategies for the right patient populations, and accelerate the development of tomorrow's safe and effective therapeutics. \n\n \nThe Opportunity\n\n \nServing as a technical expert within the ADME chapter of Pharmaceutical Sciences (PS). The primary objective is to drive the discovery portfolio forward by providing high-quality, actionable in vitro bioanalytical data that informs drug candidate selection.\n\nMass Spectrometry & HPLC Operation: Independently develop and validate robust bioanalytical methods using HPLC and triple quad (Sciex) or high-resolution (e.g. Orbitrap/Thermo) mass spectrometry.\n\nMulti-Modality Quantification: Lead the quantification and rigorous data analysis for a diverse portfolio including small molecules, peptides, and oligonucleotides.\n\nDigital Transformation: Design and implement workflow automation and digitalization initiatives to streamline laboratory data flow and experimental execution.\n\nStrategic Throughput Optimization: Continuously evaluate and optimize the BA strategy to specifically increase sample throughput and reduce manual data analysis time.\n\nLarge Molecule Support: Provide technical expertise for the quantification of large molecules as required by the pRED discovery pipeline.\n\nOptimize BA strategy to increase throughput and automation of data analysis\n\nCross-Functional Collaboration: Partner with the ADME team to interpret bioanalytical results and influence project progression.\n\nRoche Leadership Framework: Demonstrate a Creative Mindset and VACC (Visionary, Architect, Catalyst, Coach) principles in all interactions, even as an individual contributor. \n\nWho You Are\n\n \n\nAn MSc or PhD degree in bioanalysis, biochemistry or a related relevant discipline, paired with proven practical experience, ideally within an industrial setting.\n\nTake full ownership of the quality, accuracy, and timely delivery of in vitro bioanalytical data supporting discovery projects.\n\nExercise authority to permanently optimize laboratory processes, ensuring they meet evolving quality and efficiency standards.\n\nAct as a primary technical point of contact for internal stakeholders, utilizing high-level communication and collaboration skills to align on project needs.\n\nApply economic and entrepreneurial thinking to prioritize tasks and manage laboratory resources effectively within the ADME department\n\nPermanently optimizes processes in order to increase quality and efficiency standards.\n\n \nAt Roche, we aim high to deliver life-changing healthcare solutions. If you’re ready to make a meaningful impact on patients and healthcare systems worldwide, this is the place for you. \n \n \n\nWho we are\nA healthier future drives us to innovate. Together, more than 100’000 employees across the globe are dedicated to advance science, ensuring everyone has access to healthcare today and for generations to come. Our efforts result in more than 26 million people treated with our medicines and over 30 billion tests conducted using our Diagnostics products. We empower each other to explore new possibilities, foster creativity, and keep our ambitions high, so we can deliver life-changing healthcare solutions that make a global impact.\n\nLet’s build a healthier future, together.\n\nRoche is an Equal Opportunity Employer.",
-    "external_url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/In-Vitro-Bioanalysis-Scientist_202606-116786-1",
-    "status": "matched",
-    "title": "In Vitro Bioanalysis Scientist",
-    "company": "Roche",
-    "location": "Basel",
-    "posted_date": "2026-07-01",
-    "department": "",
-    "score": 4,
-    "matched_keywords": [
-      "MSc",
-      "PhD",
-      "in vitro",
-      "pharmacology"
-    ],
-    "deducted_keywords": []
   },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000135214699": {
     "description": "Introduction\nWithin the CERN Engineering department (EN), the Cooling and Ventilation (EN-CV) group is responsible for the design, the building, the operation and the maintenance of the cooling and ventilation plants for large energy physics accelerators, experiments and technical facilities. The EN-CV group pursues sustainable cooling and ventilation systems enhancing energy saving and recovery. \nYou will join the PSM Section (EN-CV-PSM), which is in charge of the operation and maintenance of the cooling and ventilation systems of CERN’s accelerator complex and experimental areas. The activity includes the work site supervision for installation work and commissioning of new systems, upgrade of existing systems and consolidation of old systems. \nAre you a qualified technician, specialised in industrial cooling, ventilation & refrigeration systems? Contribute your skill and experience to the operation and maintenance of complex cooling plants in a unique environment hosting some of the world’s most complex technical installations. Join CERN’s Cooling and Ventilation operation team. Take part!\nFunctions\nPlan (by using the CMMS system), coordinate, supervise, check and perform preventive and corrective maintenance activities on cooling and ventilation systems.\nPerform operation activities to ensure appropriate running of the cooling, ventilation & refrigeration systems.\nEnsure regular liaison with clients for all matters related to equipment under your responsibility.\nPropose and define the most appropriate solution to meet user needs in case of modification or renovation works.\nTechnically coordinate contractors’ activities for maintenance and installation work in compliance with contractual clauses and technical standards.\nContribute to projects from the design phase until test and commissioning of new cooling and ventilation systems.\nEnsure that the technical documentation is kept up-to-date and compliant with the quality standards.\nEnsure the respect of safety rules for all interventions.\nFollow up and regularly report on activities progress, schedule and costs.",
@@ -1120,7 +1103,7 @@
     "title": "\"Principal Scientist siRNA Design",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-30",
+    "posted_date": "2026-07-31",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1136,7 +1119,7 @@
     "title": "Mechanistic Immuno Tox Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-01",
+    "posted_date": "2026-07-02",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -1155,7 +1138,7 @@
     "title": "Investigative Toxicology Junior Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-01",
+    "posted_date": "2026-07-02",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -1179,7 +1162,7 @@
     "title": "Hematology and Safety Biomarker Expert",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-01",
+    "posted_date": "2026-07-02",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -1298,7 +1281,7 @@
     "title": "Senior Scientist Electronic Laboratory Systems",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-07-02",
+    "posted_date": "2026-07-03",
     "department": "",
     "score": -1,
     "matched_keywords": [
@@ -1376,7 +1359,7 @@
     "title": "Senior/Principal Scientist - NMR Expert",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-07",
+    "posted_date": "2026-07-08",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1392,7 +1375,7 @@
     "title": "Director, Corporate Strategy & Business Development",
     "company": "Alcon",
     "location": "Geneva, Switzerland",
-    "posted_date": "2026-07-07",
+    "posted_date": "2026-07-08",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -1485,7 +1468,7 @@
     "title": "Principal Operations AI Data Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-10",
+    "posted_date": "2026-07-11",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1498,7 +1481,7 @@
     "title": "Medical Director, Gastroenterology, Early Clinical Development",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-06-30",
+    "posted_date": "2026-07-01",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -1523,7 +1506,7 @@
     "title": "Director - Immunology Therapeutic Area Biomarker Lead (TABL)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-06-30",
+    "posted_date": "2026-07-01",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -1547,7 +1530,7 @@
     "title": "Translational Medicine Expert – Dermatology, Associate Director",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-06-30",
+    "posted_date": "2026-07-01",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -1570,7 +1553,7 @@
     "title": "Patent Attorney",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-07-06",
+    "posted_date": "2026-07-07",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1583,7 +1566,7 @@
     "title": "Senior Principal Scientist - Proteomics",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-07-09",
+    "posted_date": "2026-07-10",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -1603,7 +1586,7 @@
     "title": "Senior Expert / Senior Principal PKS Data Scientist & Scientific Software Engineer (Dual level posting)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-06-30",
+    "posted_date": "2026-07-01",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -1664,7 +1647,7 @@
     "title": "Post Doctoral Scientist (m/w/d)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-14",
+    "posted_date": "2026-07-15",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1726,7 +1709,7 @@
     "title": "Sr Global HEOR & Payer Evidence Lead",
     "company": "Abbott",
     "location": "Switzerland - Basel",
-    "posted_date": "2026-07-15",
+    "posted_date": "2026-07-16",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -1799,7 +1782,7 @@
     "title": "Staff Scientist - Spectral Cytometry Expert",
     "company": "Labcorp",
     "location": "CHE - Geneva - 7 rue Moise-Marcinhes",
-    "posted_date": "2026-07-16",
+    "posted_date": "2026-07-17",
     "department": "",
     "score": 8,
     "matched_keywords": [
@@ -1833,7 +1816,7 @@
     "title": "Business Development Manager (m/w/d) Neuromodulation – Schweiz",
     "company": "Abbott",
     "location": "Switzerland - Baar",
-    "posted_date": "2026-07-17",
+    "posted_date": "2026-07-18",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -2118,7 +2101,7 @@
     "title": "Scientist Synthesis Automation",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-22",
+    "posted_date": "2026-07-23",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2133,7 +2116,7 @@
     "title": "Commercial Portfolio Head Region Europe",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-07-22",
+    "posted_date": "2026-07-23",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -2151,7 +2134,7 @@
     "title": "Associate Director, EU Regulatory Lead Neuroscience",
     "company": "Takeda",
     "location": "Zurich, Switzerland",
-    "posted_date": "2026-07-22",
+    "posted_date": "2026-07-23",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2201,7 +2184,7 @@
     "title": "Internship in the PD Medical Affairs Nucleus Team - End to End (E2E) Evidence Generation Sub-chapter - as of 15 November 2026 for 12 months in Basel",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-23",
+    "posted_date": "2026-07-24",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2286,7 +2269,7 @@
     "title": "Cardio-Renal Discovery Area Leader - Expert Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-24",
+    "posted_date": "2026-07-25",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -2312,7 +2295,7 @@
     "title": "Director, Medical Affairs, Hemato-Oncology, Europe",
     "company": "BeiGene",
     "location": "Basel",
-    "posted_date": "2026-07-24",
+    "posted_date": "2026-07-25",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -2334,7 +2317,7 @@
     "title": "Portfolio Strategy & Delivery Lead, Data Insight Technology",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-24",
+    "posted_date": "2026-07-25",
     "department": "",
     "score": -1,
     "matched_keywords": [
@@ -2402,7 +2385,7 @@
     "title": "Lab scientist position (f/m/d, 80-100%) Biologics Characterization in Surface Plasmon Resonance Lab",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-07-27",
+    "posted_date": "2026-07-28",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -2415,7 +2398,7 @@
     "title": "Senior Expert - Device Project Leader - Combination Product Portfolio (80-100%)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-07-27",
+    "posted_date": "2026-07-28",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2464,7 +2447,7 @@
     "title": "RiSM Internship for students in Computer Science, Software Engineering, Data Science or Bioinformatics (Basel, 9-12 months)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-27",
+    "posted_date": "2026-07-28",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2479,7 +2462,7 @@
     "title": "RiSM Internship for students in Pharmaceutical Sciences, Pharmaceutical Technology, Data Sciences, Cheminformatics or Chemistry (Basel, 6 months)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-27",
+    "posted_date": "2026-07-28",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -2568,7 +2551,7 @@
     "title": "Principal Scientist - Mid/Large Scale Oligonucleotide Synthesis, xRNA Therapeutics",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-07-28",
+    "posted_date": "2026-07-29",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -2697,12 +2680,27 @@
     "title": "Senior Scientist microbiological Quality Control",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-07-30",
+    "posted_date": "2026-07-31",
     "department": "",
     "score": -2,
     "matched_keywords": [],
     "deducted_keywords": [
       "location:Lengnau, Switzerland"
     ]
+  },
+  "/job/Zurich-Switzerland/Associate-Director--EUCAN-Regulatory-Lead---GI-and-Inflammation_R0185105": {
+    "description": "By clicking the “Apply” button, I understand that my employment application process with Takeda will commence and that the information I provide in my application will be processed in line with Takeda’s Privacy Notice and Terms of Use.  I further attest that all information I submit in my employment application is true to the best of my knowledge.\n\nJob Description\n\nAt our heart we are committed colleagues. We offer interested people numerous opportunities and strongly believe in, and promote, diversity, equity, and inclusion. As a company we offer roles based on merit, welcoming candidates of any gender, age, religious belief, sexual orientation, race, color, ethnic or social origin, or disability.\n\nOur team is growing and for this we need bright minds with creativity and flexibility – what talent do you have?\n\nAbout the role:\nAt Takeda, we are a forward-looking, world-class R&D organization that unlocks innovation and delivers transformative therapies to patients. By focusing R&D efforts on three therapeutic areas and other targeted investments, we push the boundaries of what is possible to bring life-changing therapies to patients worldwide. \n\nAs Associate Director, EUCAN Regulatory Lead – GI and Inflammation, you will lead regional regulatory strategy for assigned assets, driving submission excellence across development, registration, and life‑cycle management to enable timely patient access. You will define and communicate regulatory strategies, submission plans, and timelines, while proactively assessing regulatory risks and the impact of evolving requirements.\n\nOBJECTIVES/PURPOSE\n\nDefines, develops, and leads Regional progressive regulatory strategies, in close alignment with line management, to maximize regulatory success to strengthen the product development plan, in support of enabling patient access. This includes all aspects of submission and timely approval of investigational applications, market application and life-cycle management\n\nEffectively communicates the regional regulatory strategies, submission plans and timelines, assesses the likelihood of success of the regional regulatory strategies and impact of trends, regulations and changes related to assigned asset.\n\nContributes to the development of team members and provides direction, support, mentoring, and strategic guidance to fulfil scope of project work, when applicable.\n\nProvides regional tactical advice on how to achieve timely and efficient conduct of development and/or life-cycle management of assigned product.\n\nLeads the Submission Working Group and represents the region as needed on global and project teams.\n\nLead interactions with health authorities in the region for an asset.\n\nIn the EU: May support value and access team in their interactions with Health Technology Assessment (HTA) bodies for products within their responsibility.\n\nACCOUNTABILITIES\n\nDemonstrates Takeda leadership behaviors and encourages the team to live up to the Takeda Code of Conduct and leadership behaviors\n\nManages, plans, and executes regional regulatory submissions in close alignment and ensures timely approvals throughout product development and lifecycle, in close collaboration with Regional, LOC Regulatory Leads, BU Cross-functional Teams, and Global Regulatory Teams\n\nMay act as deputy to the Regional therapeutic area lead and/ or Regional regulatory head, attending internal leadership team meetings, as appropriate\n\nMay be regulatory lead or may support a more senior regulatory lead for assigned assets and/or projects\n\nEffectively communicates the regulatory strategies, submission plans and timelines, probability of success, and impact assessments to assigned programs and Presents regional regulatory strategies to leadership/senior management\n\nStays current with regulations / guidance in the region and in coordination with local regulatory leads and Global Regulatory Policy & Innovation, provides strategic advice on emerging trends, regulations, and changes, with emphasis on those related to assigned program enabling proactive approach and planning to future business needs.\n\nProvides regulatory expertise on drug development, registration and / or post-marketing compliance and life cycle management and actively pursues the tracking and fulfillment of post marketing commitments.\n\nMay be asked to evaluate new business development opportunities and / or participate on due diligence teams\n\nPrepares and maintains regulatory planning/filing documents for assigned products in the region.\n\nParticipates, as appropriate, and authors/reviews internal procedures and processes. \n\nUnderstands and interprets complex scientific issues for products of responsibility as it relates to regulatory requirements and strategy. \n\nSupports Access to Medicines initiatives to develop and implement innovative patient access strategies. Understands importance of regulatory documents for value and access discussions and partners with access functions to support access applications as needed  \n\nDevelops effective working relationships with LOC Regulatory Lead, Regional and Global Regulatory Team, Cross- functional Teams; company’s consultants and Business Partners as required.\n\nProactively builds/strengthens external stakeholder (Regulatory Agency where applicable, external experts, industry organizations, etc.) contacts/influence to achieve Takeda strategic goals and objectives\n\nOversees and accountable for working with other RA functions and/or vendor to ensure that regulatory submissions and approvals are achieved on schedule within area of responsibility \n\nLeads and manages meetings and / or interactions with regional regulatory authorities or (in conjunction with LOC) national authorities with minimal supervision and negotiates on behalf of project team as necessary. Represents Takeda in Health Authority meetings, as required and effectively communicates and manages meeting outcome and next steps. Leads or supports preparation activities for meetings with Health Authorities.\n\nEDUCATION, BEHAVIOURAL COMPETENCIES AND SKILLS\n\nBSc. Advanced scientific related degree preferred; BA accepted based on experience.\n\nA minimum of 8 years of experience in drug regulatory affairs preferably within the EU region.\n\nSolid regulatory experience, including knowledge of regulations and guidance applicable in the region across all phases of development and able to orient project teams in the interpretation of guidelines; an understanding of basic regulatory requirements in other regions globally (US, EU, Emerging markets) is a plus. Experience participating to or leading interaction with Health Authorities.\n\nUnderstands the essentials of evidence requirements beyond marketing authorisation (i.e. in support of patient access)\n\nAble to formulate regional regulatory strategy to achieve competitive and accelerated product approvals\n\nAble to manage with limited supervision different types of regulatory development or lifecycle management procedures in the region.\n\nMay have experience with initial MA, indication/ line extension applications and/or lifecycle management and development submissions.\n\nCan speak up and is perceived as a natural, assertive authority whom peers trust for their advice\n\nCommunicates externally/with authorities in concise and respectful language\n\nDevelops concise strategic plans, understandably outlines the opportunities and risks of alternative scenarios before proposing a decision\n\nProposes risk mitigation plans\n\nActs as an ally to support individuals as a whole and promotes an inclusive culture\n\nPractices active listening, encourages open dialogue, feedback, and diverse opinions\n\nIs able to prioritise activities and execute within reasonable time with limited supervision\n\nCan take some tactical decisions\n\nAdapts to changing circumstances and is able to build and maintain relationships\n\nHas their voice heard as remote participant to global or cross functional teams; influences meeting agendas & outcomes to optimally int",
+    "external_url": "https://takeda.wd3.myworkdayjobs.com/External/job/Zurich-Switzerland/Associate-Director--EUCAN-Regulatory-Lead---GI-and-Inflammation_R0185105",
+    "status": "matched",
+    "title": "Associate Director, EUCAN Regulatory Lead - GI and Inflammation",
+    "company": "Takeda",
+    "location": "Zurich, Switzerland",
+    "posted_date": "2026-07-31",
+    "department": "",
+    "score": 1,
+    "matched_keywords": [
+      "drug development"
+    ],
+    "deducted_keywords": []
   }
 }
