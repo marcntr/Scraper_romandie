@@ -848,7 +848,7 @@
     "title": "Clinical Scientist in neurosciences",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-03",
+    "posted_date": "2026-07-04",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -864,7 +864,7 @@
     "title": "Technical Expert Portfolio Mgmt, Technical Feasibility and Planning",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-03",
+    "posted_date": "2026-07-04",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -877,7 +877,7 @@
     "title": "Sr. Scientist - Computational Biology - Neuroscience & Rare Diseases",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-03",
+    "posted_date": "2026-07-04",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -900,7 +900,7 @@
     "title": "Global Medical Director, Evidence Generation Lead",
     "company": "Biogen",
     "location": "Baar, Switzerland",
-    "posted_date": "2026-07-03",
+    "posted_date": "2026-07-04",
     "department": "",
     "score": -2,
     "matched_keywords": [
@@ -919,7 +919,7 @@
     "title": "Senior Medical Director, Nephrology, Global Medical Affairs",
     "company": "Biogen",
     "location": "Baar, Switzerland",
-    "posted_date": "2026-07-03",
+    "posted_date": "2026-07-04",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -965,7 +965,7 @@
     "title": "Scientist Microbiological Quality Control",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-07-03",
+    "posted_date": "2026-07-04",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -980,7 +980,7 @@
     "title": "R&D Scientist – Scientific Data Analytics (d/f/m)",
     "company": "Danaher",
     "location": "Basel, Switzerland",
-    "posted_date": "2026-07-03",
+    "posted_date": "2026-07-04",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1022,7 +1022,7 @@
     "title": "Associate Scientist / Senior Laboratory Specialist",
     "company": "CSL Behring / Vifor",
     "location": "EMEA, CH, Kanton Bern, Bern, CSL Behring",
-    "posted_date": "2026-07-03",
+    "posted_date": "2026-07-04",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1064,7 +1064,7 @@
     "title": "\"Principal Scientist siRNA Design",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-30",
+    "posted_date": "2026-07-31",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1080,7 +1080,7 @@
     "title": "Mechanistic Immuno Tox Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-03",
+    "posted_date": "2026-07-04",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -1099,7 +1099,7 @@
     "title": "Hematology and Safety Biomarker Expert",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-03",
+    "posted_date": "2026-07-04",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -1218,7 +1218,7 @@
     "title": "Senior Scientist Electronic Laboratory Systems",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-07-03",
+    "posted_date": "2026-07-04",
     "department": "",
     "score": -1,
     "matched_keywords": [
@@ -1227,11 +1227,6 @@
     "deducted_keywords": [
       "location:Lengnau, Switzerland"
     ]
-  },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000135687660": {
-    "description": "In this role, you will contribute to a major upgrade program of CERN's accelerator complex by maintaining, replacing, and installing beam instrumentation systems. Your day-to-day work involves removing and installing equipment components across accelerator facilities, tracking interventions using CERN's management tools, and coordinating on-site progress with engineers and technicians\nYour responsibilities\nRemove equipment components for refurbishment or replacement.\nInstall new instrumentation systems and upgrades throughout the accelerator complex.\nTrack your tasks using CERN's management tools and provide updates in team meetings.\nCoordinate with engineers, technicians, and other groups to keep everyone informed of on-site progress.\nWork across different areas of CERN's accelerator facilities, following all safety protocols and ensuring precise, clean execution of technical interventions.\nYour profile\nComfortable using standard hand tools and basic technical equipment.\nNo prior experience with particle accelerators or beam instrumentation required. We will train you on CERN-specific systems.\nSkills\nQuick learner comfortable adapting to new tools, procedures, and technical environments.\nAttention to detail and careful approach when working with sensitive electronic and electromechanical equipment.\nGood communicator who works well with diverse technical teams.\nPractical problem-solving mindset.\nSpoken and written English, with a commitment to learn French.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nBy the application deadline, you have a maximum of two years of professional experience since graduation in Mechanical or Electrical (or a related field) and your highest educational qualification is a general secondary education diploma.\nYou have never had a CERN fellow or graduate contract before.\nApplicants with a Bachelor's, Master's or PhD degree are not eligible.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000135687660-installation-and-maintenance-technician-sy-bi-bl-2026-176-grae-?oga=true",
-    "status": "matched"
   },
   "https://api.smartrecruiters.com/v1/companies/Sobi/postings/744000135719093": {
     "description": "About the role\nJoin Sobi’s Global CMC Science & Technology team and help shape how our medicines are developed and supplied worldwide. We’re hiring an Analytical Science & Technology (Analytics) Expert who will take a leading analytical role across our project and product portfolio. Working cross-functionally with colleagues throughout Sobi—and in close partnership with external contract manufacturing organizations (CMOs) globally—you’ll ensure our analytical methods remain compliant, robust, and fit for purpose, while also driving method transfers, validations, and continuous improvements. You’ll coordinate stability studies and support investigations and quality activities (deviations, changes, and CAPAs), acting as an Analytical Subject Matter Expert (SME) to help deliver reliable products to patients.\nThis is a remote role located within the European time zone, reporting to Group Head Analytics based in Sobi HQ, Stockholm.\nKey Responsibilities\nBe able to act as Analytics SME taking overall responsibility for analytical methods and analytical related work for the specific product in e.g. the virtual plant teams\nResponsible for analytical method transfers, validations as well as supporting product stability and shelf life through ongoing stability studies\nEstablishment and maintenance of reference materials and responsibility for product specific method standards and qualified materials (critical reagents)\nEnsure life cycle management, compliance, robustness, and relevance of analytical methods\nAct as SME in work with regulatory filing, new launches as well as the ongoing work with supply of the commercial products\nSupport investigations of deviations, changes and CAPAs, complaints, out of trends (OOT) and out of specifications (OOS)",
@@ -1291,7 +1286,7 @@
     "title": "Senior/Principal Scientist - NMR Expert",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-07",
+    "posted_date": "2026-07-08",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1307,7 +1302,7 @@
     "title": "Director, Corporate Strategy & Business Development",
     "company": "Alcon",
     "location": "Geneva, Switzerland",
-    "posted_date": "2026-07-07",
+    "posted_date": "2026-07-08",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -1373,11 +1368,6 @@
     "external_url": "https://jobs.smartrecruiters.com/HUG/744000136781579-chef-ou-cheffe-de-clinique-avec-titre-de-specialite-en-nephrologie-100-?oga=true",
     "status": "matched"
   },
-  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000136776039": {
-    "description": "Vous êtes sensible aux thématiques en lien avec l’inclusion et la diversité en milieu professionnel, et souhaitez contribuer à des projets stimulant l’égalité pour tous et toutes. Vous êtes enthousiaste à l’idée de soutenir un changement structurel de la culture organisationnelle en matière de diversité et d’inclusion.\nVous assistez l’équipe du Pôle diversité, équité et inclusion dans ses activités de réflexion, de conception et coordination des projets.\nVous apportez un support administratif dans les activités courantes de gestion de projets. Vous êtes un appui pour organiser des réunions ou aider à préparer des évènements.\nVous rédigez des procès-verbaux lors des séances de travail et soutenez la rédaction des documents de gestion de projet.\nVous contribuez à la réalisation de supports de présentation, de reporting, de communication ou de formation.\nVous soutenez la mise à jour des indicateurs, données et informations relatives aux projets sur les différents supports institutionnels et participez à l’optimisation des supports de communication.\nVous vous voyez confier différentes missions dont vous avez la responsabilité avec l’accompagnement des membres de l’équipe.\nVous interagissez avec de nombreux groupes professionnels, notamment dans le domaine soignant, médical, recherche, développement, administratif ou encore avec la patientèle.\nVous réalisez une veille sur les actualités liées aux thématiques traitées par le Pôle DEI.\nVotre capacité d’adaptation et votre attitude positive, orientée-solution vous permet de répondre aux demandes régulières ainsi qu’aux imprévus qui se présentent selon l’actualité du Pôle DEI.\nVous travaillez sous la responsabilité de la responsable du Pôle.",
-    "external_url": "https://jobs.smartrecruiters.com/HUG/744000136776039-stage-en-gestion-de-projet-pole-diversite-equite-et-inclusion-100-?oga=true",
-    "status": "matched"
-  },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000136833040": {
     "description": "Introduction:\nYou will contribute to the planning, deployment, operation and maintenance of a modern and high-end hybrid conference infrastructure consisting of nearly 200 meeting rooms and 13 auditoriums used every day by thousands of people at CERN. Working with users, technical teams and external contractors, you will coordinate audiovisual installations and refurbishments, ensure the standardisation of AV equipment, support the deployment of new technologies and contribute to the continuous improvement of conferencing services.\nFunctions:\nEnsure the standardisation of AV equipment across conference and meeting rooms (projectors, LCD screens, video/audio conferencing systems, sound reinforcement and interpretation systems) and maintain an active technology watch to recommend the most suitable AV solutions.\nCoordinate the design, installation and renovation AV systems in compliance with CERN technical standards, including the programming and maintenance of Extron and Crestron equipment controllers.\nEstablish and maintain the master plan for the renovation of AV equipment in meeting rooms and auditoriums, including equipment selection, installation design, commercial offer analysis and coordination with other services involved in room renovation.\nCoordinate the work of external contractors, including equipment installers and operational support teams, organise site visits, ensure maintenance and operational interventions, and manage AV maintenance contracts.\nProvide third-line technical support, identify and resolve complex technical issues, collaborate with webcast, recording and video conferencing services, and contribute to the continuous improvement of conferencing services.",
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000136833040-audiovisual-installation-operations-coordinator-sce-sg-tf-2026-143-ld-?oga=true",
@@ -1395,7 +1385,7 @@
     "title": "Principal Operations AI Data Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-10",
+    "posted_date": "2026-07-11",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1441,7 +1431,7 @@
     "title": "Post Doctoral Scientist (m/w/d)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-14",
+    "posted_date": "2026-07-15",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1450,16 +1440,6 @@
       "postdoctoral"
     ],
     "deducted_keywords": []
-  },
-  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000137853219": {
-    "description": "La Direction de l’immobilier recrute, dans le cadre de la mise en œuvre de sa stratégie, un ou une cheffe de projet orientée processus. A ce titre, vous conduisez une démarche visant à formaliser les processus métier et optimiser ses activités, afin de renforcer la performance opérationnelle et la qualité des services.\nDans ce cadre, vous intervenez de manière transversale auprès des équipes pour consolider les processus, clarifier les rôles et responsabilités, et améliorer la lisibilité ainsi que la compréhension des services proposés aux clients internes.\nVous analysez les processus existants et identifiez les irritants. Vous recueillez et analysez les besoins évolutifs exprimés par les équipes terrain et proposez des pistes d’amélioration. Dans une logique d’alignement avec les principes de la norme ISO 55001 relatifs au management des actifs, vous identifiez les écarts entre les usages actuels et les besoins cibles et proposez des standards communs. Vous modélisez les processus cible.  Enfin, vous proposez et mettez en place des dispositifs de suivi, d’évaluation et d’amélioration continue de la performance. Vous évoluez dans un environnement transversal et collaborez étroitement avec l’ensemble des collaborateurs et collaboratrices du pôle propriétaire. À ce titre, vous facilitez les échanges entre les différentes parties prenantes, favorisez l’intelligence collective et veillez à la bonne appropriation des processus définis.\nVous fournissez un appui méthodologique et organisationnel aux cheffes et chefs de secteurs et à la direction de l’immobilier et participer à la mise à jour des processus. Vous connaissez les outils d'amélioration continue : 5S, Kaizen, la gestion et l'analyse des KPI avec des méthodologies de résolution de problèmes : 5P, QQOQCP, Ishikawa.\nVous accompagnez le changement et contribuez au développement d’une culture du service client et du pilotage par la donnée.",
-    "external_url": "https://jobs.smartrecruiters.com/HUG/744000137853219-cheffe-ou-chef-de-projets-processus-80-a-100-?oga=true",
-    "status": "matched"
-  },
-  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000137853469": {
-    "description": "La Direction de l’immobilier recherche, dans le cadre du déploiement de sa stratégie et de la réalisation des objectifs institutionnels en matière de maîtrise des risques, de sécurité, de conformité et de pérennisation du patrimoine immobilier, un ou une responsable des risques immobiliers, en charge du projet visant à assurer la sécurité, la conformité et la qualité des infrastructures hospitalières. À ce titre, vous proposez, définissez et structurez une démarche globale de gestion des risques dans le cadre d’un management d’actifs adapté au patrimoine immobilier dont vous posez les fondations, en lien avec les enjeux de continuité d’exploitation hospitalière, de sécurité des patients et patientes, de conditions d’accueil dignes et de pérennisation des infrastructures. Vous pilotez cette dynamique sous la gouvernance du comité immobilier.\nEn étroite collaboration avec les responsables des pôles propriétaire de la Direction de l'immobilier et d’autres directions de l’institution, vous concevez et maintenez une cartographie des risques, assurant une vision méthodique et exhaustive afin de développer une vision consolidée des risques immobiliers.\nGarant d’une vision intégrée, vous assurez la consolidation du portefeuille des risques et en cartographiez les interdépendances. Vous définissez, puis mettez en œuvre après validation, une méthodologie rigoureuse d’analyse, d’évaluation et de priorisation des risques liés aux infrastructures immobilières. Vous en garantissez la diffusion, l’appropriation et l’application auprès des services et secteurs concernés. Vous participez à la mise en place progressive du management des actifs en y intégrant dès l’origine une approche robuste de gestion des risques immobiliers, fondée sur les principes des normes ISO 55000.\nVous conduisez les analyses de risques et/ou de conformité en lien avec les secteurs du pôle propriétaire. En coordination avec le PMO immobilier, vous proposez une planification des mesures correctives en tenant compte des contraintes financières et opérationnelles.\nVous fournissez un appui méthodologique et organisationnel aux chefs et cheffes de secteur, aux responsables de service et à la Direction de l’immobilier, et participez à la mise à jour des processus. Vous facilitez la coordination entre les différentes parties prenantes, accompagnez le changement et contribuez au développement d’une culture du risque en concertation avec les différentes parties prenantes de l’institution.",
-    "external_url": "https://jobs.smartrecruiters.com/HUG/744000137853469-responsable-de-la-gestion-des-risques-immobiliers-et-du-management-des-actifs-100-?oga=true",
-    "status": "matched"
   },
   "https://api.smartrecruiters.com/v1/companies/AbbVie/postings/3743990014101948": {
     "description": "Are you a strategic relationship builder who thrives in complex healthcare environments? Do you enjoy connecting the dots across stakeholders, shaping tailored engagement plans, and creating meaningful impact for patients and business outcomes? We are looking for a Key Account Manager to act as a trusted partner for key accounts in western Switzerland (French speaking) and help drive successful access to AbbVie products.\nIn this role, you will serve as the main point of contact for key accounts, working closely with a broad network of internal and external stakeholders. You’ll develop customized account strategies, build strong relationships, and coordinate cross-functional efforts to ensure aligned, effective engagement across the account landscape.\nWhat you’ll do:\nDevelop tailored approaches and clear engagement plans for key accounts, with defined objectives and activities to optimize the use and funding of AbbVie products\nAct as the main AbbVie contact for non-clinician stakeholders, building trusted relationships and understanding their priorities, constraints, and decision-making processes\nPlay an active role in brand teams and collaborate with cross-functional colleagues to deliver on brand objectives\nDrive business growth by anticipating barriers to product usage and supporting provider formulary access to help achieve revenue targets\nCoordinate internal interactions, build consensus, resolve conflicts, and escalate issues where needed\nMonitor contracting and tendering activity across key accounts\nBuild and manage relationships within the account ecosystem\nLead multidisciplinary teams without formal authority, creating alignment and solving challenges within the in-field team\nExecute engagement plans and ensure consistent interaction across all in-field functions involved with the account\nWork with Market Access Value Proposition colleagues to provide stakeholders with tailored clinical, economic, and service-oriented information\nTrack the execution and impact of account activities and measure performance regularly\nNegotiate, close, and sign deals, and support or lead the contracting and tendering process as needed",
@@ -1498,7 +1478,7 @@
     "title": "Sr Global HEOR & Payer Evidence Lead",
     "company": "Abbott",
     "location": "Switzerland - Basel",
-    "posted_date": "2026-07-15",
+    "posted_date": "2026-07-16",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -1566,7 +1546,7 @@
     "title": "Staff Scientist - Spectral Cytometry Expert",
     "company": "Labcorp",
     "location": "CHE - Geneva - 7 rue Moise-Marcinhes",
-    "posted_date": "2026-07-16",
+    "posted_date": "2026-07-17",
     "department": "",
     "score": 8,
     "matched_keywords": [
@@ -1600,7 +1580,7 @@
     "title": "Business Development Manager (m/w/d) Neuromodulation – Schweiz",
     "company": "Abbott",
     "location": "Switzerland - Baar",
-    "posted_date": "2026-07-17",
+    "posted_date": "2026-07-18",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -1782,11 +1762,6 @@
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000138855480-bare-metal-openstack-engineer-it-cd-cli-2026-179-grae-?oga=true",
     "status": "matched"
   },
-  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000138799052": {
-    "description": "En tant qu’assistant ou assistante sociale au sein des HUG, vous intervenez auprès de la patientèle du département de gériatrie et de réadaptation dans une approche globale et pluridisciplinaire. Vous assurez le suivi social des patients et patientes hospitalisées, en particulier dans des unités de réadaptation et d’attente de placement.\nVotre rôle consiste à évaluer les besoins sociaux des patients et patientes et de leurs proches, à identifier les difficultés sociales et à proposer des solutions adaptées. Vous intervenez dans la gestion des demandes administratives et financières, et accompagnez les patients dans leurs démarches de maintien à domicile, de réadaptation ou de transition vers un autre établissement (EMS, structures de soins). Vous travaillez en étroite collaboration avec l’équipe pluridisciplinaire interne ainsi qu’avec les partenaires externes.\nVotre travail repose sur des entretiens individuels, de famille et des colloques multidisciplinaires pour établir une relation de confiance avec les patientes et patients, comprendre leur situation et élaborer des solutions concrètes et personnalisées. Vous êtes également chargé ou chargée de la transmission rigoureuse des besoins sociaux et des projets des patients auprès de l’équipe soignante et des partenaires externes.\nEnfin, vous participez activement à la veille professionnelle sur les thématiques sociales et législatives, en particulier les assurances sociales, et à la prévention des problèmes sociaux. Vous êtes impliquée ou impliqué dans l'amélioration continue des pratiques au sein du service.",
-    "external_url": "https://jobs.smartrecruiters.com/HUG/744000138799052-assistante-ou-assistant-social-50-?oga=true",
-    "status": "matched"
-  },
   "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000138800149": {
     "description": "Force de proposition, vous avez envie de contribuer aux projets d’une grande institution telle que les HUG et vous vous reconnaissez dans nos valeurs institutionnelles.\nDans le cadre de vos activités, vous dispensez des évaluations et thérapies psychomotrices à des patientes et patients en âge AVS, suivis en hôpital de jour. Vous garantissez la qualité et la continuité des soins auprès des patients et patientes.\nVous élaborez et réalisez un projet thérapeutique individualisé.\nVous êtes responsable de la conduite des mesures thérapeutiques en psychomotricité en groupe et en individuel.\nVous êtes apte à collaborer et travailler en équipe pluriprofessionnelle et à travailler en co-conduction thérapeutique.\nVous respectez la confidentialité et le secret de fonction ainsi que les procédures HUG.",
     "external_url": "https://jobs.smartrecruiters.com/HUG/744000138800149-psychomotricienne-ou-psychomotricien-en-ambulatoire-de-psychiatrie-geriatrique-50-?oga=true",
@@ -1795,11 +1770,6 @@
   "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000138799269": {
     "description": "En tant qu’ingénieur ou ingénieure cheffe ou chef de projet, vous renforcez le secteur ingénierie et techniques du bâtiment (SITB). L’équipe, composée d’une dizaine de personnes spécialisées dans les différents domaines techniques du bâtiment : Chauffage-Ventilation-Climatisation (CVC), sanitaire, gaz médicaux et électricité, gère environ 60 projets en parallèle. Vous évoluez ainsi dans un environnement à la fois exigeant et innovant.\nDans ce rôle, vous pilotez des projets de construction ou de rénovation, depuis leur conception jusqu’à leur réalisation, tout en mettant en avant vos expertises en CVC, Sanitaire, Gaz Médicaux et Régulation. Concernant le CVC, vous intervenez sur des installations comme les centrales de traitement d’air, la production et la distribution de chauffage, d’eau surchauffée, de vapeur et d’eau glacée. Pour le sanitaire, vous travaillez sur des projets liés à la production et à la distribution d’eau chaude sanitaire, d’eau purifiée ou refroidie.\nVous réalisez des études avant-projets en analysant la faisabilité, en identifiant les besoins, en estimant les coûts et en définissant le planning. Vous rédigez des cahiers des charges détaillés et proposez des solutions techniques qui permettent une prise de décision éclairée. Vous assurez un cadrage rigoureux des projets, garantissant ainsi une validation précise des objectifs et un déroulement maîtrisé.\nVous évaluez les solutions techniques en sélectionnant les équipements les plus adaptés et en élaborant des plans détaillés. Vous préparez également les soumissions nécessaires pour le lancement des appels d’offres publics. Vous assurez une supervision active en veillant au respect des lois, des normes et des réglementations en vigueur à chaque étape.\nVous supervisez l’exécution des projets en coordonnant les différentes étapes, en suivant le budget et le planning, et en assurant une collaboration optimale avec les équipes projets. Vous participez aux comités de pilotage (COPIL), où vous présentez l’avancement des travaux, proposez des solutions aux éventuels défis et contribuez aux prises de décisions stratégiques.\nEn collaboration avec vos collègues, vous intervenez sur d’autres projets transverses pour coordonner les actions, résoudre les problématiques et proposer des solutions adaptées. Vous partagez également votre expertise avec vos pairs pour les accompagner dans la gestion de leurs propres projets.\nDans une perspective transverse, vous participez activement à l’amélioration continue en contribuant à l’évolution des référentiels et des directives techniques. Vous mettez à jour la documentation, effectuez une veille technologique dans vos domaines d’expertise et proposez des améliorations pertinentes.",
     "external_url": "https://jobs.smartrecruiters.com/HUG/744000138799269-ingenieure-ou-ingenieur-chef-ou-cheffe-de-projet-technique-et-batiment-cvc-sanitaire-gaz-mediaux-regulation-100-?oga=true",
-    "status": "matched"
-  },
-  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000138795151": {
-    "description": "En tant qu’assistant ou assistante sociale au sein des HUG, vous intervenez auprès de la patientèle du département de gériatrie et de réadaptation dans une approche globale et pluridisciplinaire. Vous assurez le suivi social des patients et patientes hospitalisées, en particulier dans des unités de neuroréadaptation.\nVotre rôle consiste à évaluer les besoins sociaux des patientes et patients et de leurs proches, à identifier les difficultés sociales et à proposer des solutions adaptées. Vous intervenez dans la gestion des demandes administratives et financières, et accompagnez la patientèle dans leurs démarches de maintien à domicile, de réadaptation ou de transition vers un autre établissement (EMS, structures de soins). Vous travaillez en étroite collaboration avec l’équipe pluridisciplinaire interne ainsi qu’avec les partenaires externes.\nVotre travail repose sur des entretiens individuels, de famille et des colloques multidisciplinaires pour établir une relation de confiance avec les patients et patientes, comprendre leur situation et élaborer des solutions concrètes et personnalisées. Vous êtes également chargée ou chargé de la transmission rigoureuse des besoins sociaux et des projets des patientes et patients auprès de l’équipe soignante et des partenaires externes.\nEnfin, vous participez activement à la veille professionnelle sur les thématiques sociales et législatives, en particulier les assurances sociales, et à la prévention des problèmes sociaux. Vous êtes impliqué ou impliquée dans l'amélioration continue des pratiques au sein du service.",
-    "external_url": "https://jobs.smartrecruiters.com/HUG/744000138795151-assistante-ou-assistant-social-50-?oga=true",
     "status": "matched"
   },
   "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000138799149": {
@@ -1880,7 +1850,7 @@
     "title": "Scientist Synthesis Automation",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-22",
+    "posted_date": "2026-07-23",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1935,7 +1905,7 @@
     "title": "Internship in the PD Medical Affairs Nucleus Team - End to End (E2E) Evidence Generation Sub-chapter - as of 15 November 2026 for 12 months in Basel",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-23",
+    "posted_date": "2026-07-24",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2020,7 +1990,7 @@
     "title": "Cardio-Renal Discovery Area Leader - Expert Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-24",
+    "posted_date": "2026-07-25",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -2046,7 +2016,7 @@
     "title": "Director, Medical Affairs, Hemato-Oncology, Europe",
     "company": "BeiGene",
     "location": "Basel",
-    "posted_date": "2026-07-24",
+    "posted_date": "2026-07-25",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -2068,7 +2038,7 @@
     "title": "Portfolio Strategy & Delivery Lead, Data Insight Technology",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-24",
+    "posted_date": "2026-07-25",
     "department": "",
     "score": -1,
     "matched_keywords": [
@@ -2128,7 +2098,7 @@
     "title": "RiSM Internship for students in Computer Science, Software Engineering, Data Science or Bioinformatics (Basel, 9-12 months)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-27",
+    "posted_date": "2026-07-28",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2143,7 +2113,7 @@
     "title": "RiSM Internship for students in Pharmaceutical Sciences, Pharmaceutical Technology, Data Sciences, Cheminformatics or Chemistry (Basel, 6 months)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-27",
+    "posted_date": "2026-07-28",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -2286,56 +2256,6 @@
     "matched_keywords": [],
     "deducted_keywords": []
   },
-  "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-senior-scientist-bcqc-lengnau-berne-880270/1": {
-    "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-senior-scientist-bcqc-lengnau-berne-880270/1",
-    "status": "ignored",
-    "title": "Senior Scientist BCQC(m/f/d)",
-    "company": "Hays Switzerland",
-    "location": "Lengnau, Berne, Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": 0,
-    "matched_keywords": [],
-    "deducted_keywords": []
-  },
-  "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-analytical-project-leader-scientist-senior-scientist-basel-stadt-873611/1": {
-    "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-analytical-project-leader-scientist-senior-scientist-basel-stadt-873611/1",
-    "status": "ignored",
-    "title": "Analytical Project Leader (Scientist / Senior Scientist)(m/f/d)",
-    "company": "Hays Switzerland",
-    "location": "Basel Stadt, Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": 0,
-    "matched_keywords": [],
-    "deducted_keywords": []
-  },
-  "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-vice-president-of-business-development-basel-land-873413/1": {
-    "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-vice-president-of-business-development-basel-land-873413/1",
-    "status": "ignored",
-    "title": "Vice President of Business Development(m/f/d)",
-    "company": "Hays Switzerland",
-    "location": "Basel Land, Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": 0,
-    "matched_keywords": [],
-    "deducted_keywords": []
-  },
-  "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-scientist-lab-technician-assay-development-zug-873185/1": {
-    "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-scientist-lab-technician-assay-development-zug-873185/1",
-    "status": "ignored",
-    "title": "Scientist Lab Technician Assay Development(m/f/d)",
-    "company": "Hays Switzerland",
-    "location": "Zug, Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": 1,
-    "matched_keywords": [
-      "assay development"
-    ],
-    "deducted_keywords": []
-  },
   "/job/Lengnau-Switzerland/Senior-Scientist-microbiological-Quality-Control_R-01349188": {
     "description": "Work ScheduleStandard (Mon-Fri)\n\nEnvironmental ConditionsAdherence to all Good Manufacturing Practices (GMP) Safety Standards\n\nJob Description\n\nAs part of the Thermo Fisher Scientific team, you’ll discover meaningful work that makes a positive impact on a global scale. Join our colleagues in bringing our Mission to life every single day to enable our customers to make the world healthier, cleaner and safer. We provide our global teams with the resources needed to achieve individual career goals while helping to take science a step beyond by developing solutions for some of the world’s toughest challenges, like protecting the environment, making sure our food is safe or helping find cures for cancer.\n\nLocation/Division Specific Information:\nThis position is part of the Microbiological Quality Control (MBQC) team from Thermo Fisher Scientific in Lengnau (CH), supporting GMP-regulated manufacturing operations. The role operates within a laboratory environment focused on ensuring microbiological quality and compliance of pharmaceutical products and processes.\n\nA Day in the Life:\n\nCoordinate and work on the transfer, development and validation of analytical methods including qualification of equipment needed for analysis.\n\nActively contribute to the GMP Inspection Readiness of QC to ensure the fully compliance of relevant Quality System and Procedural documents.\n\nActively contribute to the QC operational readiness managing projects (external and internal) and the assigned to ressources (including coordination of people daily tasks). Participates in the transfer, development and validation of analytical methods including qualification of equipment needed for analysis.\n\nResponsible for development, transfer and validation of analytical procedures professionally and according to timelines.\n\nEnsure ready to state activities in the MBQC lab.\n\nCollaboration in the solution of MBQC problematic and / or questions (quality problems, government inquiries, etc.).\n\nSupporting of laboratory employee during troubleshooting activities.\n\nEfficient communication: Informing the MBQC head in a timely manner regarding ongoing business activities, deviations, and problems within the team.\n\nResponsible for writing and revision of standard operating procedures (SOPs) and instructions (Wis) professionally and according to timelines.\n\nResponsible for SME review and approval of methods, plans, protocols and reports, gap assessments\n\nEducation & Experience:\n\nDegree (Master or higher) in the Microbiology or Life Science Area\n\nAt least 5 years experience in microbiological laboratories including experience in a regulated GMP environment.\n\nKnowledge, Abilities:\n\nExtensive knowledge of microbiological testing techniques (bioburden, endotoxin, qPCR) and laboratory best practices\n\nStrong knowledge of cGMP requirements, method validation/verification, and documentation standards (SOPs, WIs)\n\nAbility to troubleshoot microbiological issues, support investigations, and collaborate in cross-functional teams\n\nFluent English (written and spoken), German is a plus\n\nWhat We Offer:\n\nCompensation\n\nCompetitive Pay\n\nPerformance Related Bonus where eligible\n\nAnnual merit performance-based increase",
     "external_url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Lengnau-Switzerland/Senior-Scientist-microbiological-Quality-Control_R-01349188",
@@ -2343,7 +2263,7 @@
     "title": "Senior Scientist microbiological Quality Control",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-07-30",
+    "posted_date": "2026-07-31",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -2442,7 +2362,7 @@
     "title": "Director - Immunology Therapeutic Area Biomarker Lead (TABL)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-07-03",
+    "posted_date": "2026-07-04",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -2466,7 +2386,7 @@
     "title": "Medical Director, Gastroenterology, Early Clinical Development",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-07-03",
+    "posted_date": "2026-07-04",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -2486,7 +2406,7 @@
     "title": "Translational Medicine Expert – Dermatology, Associate Director",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-07-03",
+    "posted_date": "2026-07-04",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -2509,7 +2429,7 @@
     "title": "Patent Attorney",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-07-06",
+    "posted_date": "2026-07-07",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -2522,7 +2442,7 @@
     "title": "Senior Expert / Senior Principal PKS Data Scientist & Scientific Software Engineer (Dual level posting)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-07-03",
+    "posted_date": "2026-07-04",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -2545,7 +2465,7 @@
     "title": "Senior Principal Scientist - Proteomics",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-07-09",
+    "posted_date": "2026-07-10",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -2565,7 +2485,7 @@
     "title": "Commercial Portfolio Head Region Europe",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-07-22",
+    "posted_date": "2026-07-23",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -2578,7 +2498,7 @@
     "title": "Senior Expert - Device Project Leader - Combination Product Portfolio (80-100%)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-07-27",
+    "posted_date": "2026-07-28",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2593,7 +2513,7 @@
     "title": "Principal Scientist - Mid/Large Scale Oligonucleotide Synthesis, xRNA Therapeutics",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-07-28",
+    "posted_date": "2026-07-29",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -2611,7 +2531,7 @@
     "title": "Lab scientist position (f/m/d, 80-100%) Biologics Characterization in Surface Plasmon Resonance Lab",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-07-27",
+    "posted_date": "2026-07-28",
     "department": "",
     "score": 0,
     "matched_keywords": [],
