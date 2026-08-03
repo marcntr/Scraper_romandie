@@ -1466,11 +1466,6 @@
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000137905819--safety-engineer-for-the-cms-experiment-ep-cms-ssi-2026-148-ld-?oga=true",
     "status": "matched"
   },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000137897517": {
-    "description": "We are looking for an Electrical Controls Technical Engineer focused on industrial control systems and SCADA infrastructure in an electrical engineering environment. You would support the installation, engineering, cabling, configuration, commissioning, and maintenance of electrical control and monitoring systems used to supervise CERN electrical distribution network for HL-LHC . Typical equipment includes power and signal converters, network switches, Remote Terminal Units (RTUs), remote input/output units, communication buses and field devices.\nAs Electrical Controls technician in the Electrical Engineering Group, you will actively contribute to the installation, engineering, cabling and commissioning of controls equipment, including power and signal converters, network switches, remote acquisition units and terminal units required for the supervision of electrical equipment, as part of a SCADA system for the supervision of the CERN electrical power network. The job will also require coordination of contractor technicians for on-site activities, diagnosis and troubleshooting of controls equipment and communication bus faults, production of relevant technical documentation and reports.\nYour responsibilities:\nInstallation and commissioning of industrial controls equipment (WAGO remote I/O stations, switches, timeservers, protocol gateways..) and of electrical equipment integrated in the control and supervision system.\nConfiguration of SCADA and data acquisition systems.\nPreparation of technical files for patch-panel cabling and remote I/O station wiring.\nSupervision of contractor personnel for work-site cabling and installation activities.\nYour profile:\nDemonstrated practical knowledge in installation and commissioning of industrial controls equipment.\nConfiguration of SCADA and data acquisition systems.\nExecution and supervision of signal cabling, functional testing.\nTroubleshooting of controls hardware faults.\nPractical knowledge of industrial communication protocols, setting and troubleshooting (e.g. Modbus TCP/IP , IEC 60870-5-104, IEC-61850...).\nCoordination of contractors for work-site and data engineering activities.\nPractical knowledge of basic electrical wiring, reading electrical schematics and using multimeters.\nSkills:\nKnowledge of installation, engineering and testing of SCADA and acquisition systems.\nKnowledge of serial or Ethernet based fieldbus troubleshooting.\nBasic knowledge in programming of PLC systems.\nSpoken and written English, with a commitment to learn French.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nBy the application deadline, you have a maximum of two years of professional experience since graduation in Electrical / Industrial Engineering (or a related field) and your highest educational qualification is a general secondary education diploma.\nYou have never had a CERN fellow or graduate contract before.\nApplicants with a Bachelor's, Master's or PhD degree are not eligible.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000137897517-industrial-controls-technician-en-el-cbs-2026-187-grae-?oga=true",
-    "status": "matched"
-  },
   "/job/Switzerland---Basel/Sr-Global-HEOR---Payer-Evidence-Lead_31156318": {
     "description": "JOB DESCRIPTION:\n\nShape the Future of Healthcare with Abbott\n\nAbbott is a global healthcare leader dedicated to helping people live their best lives at every stage. Our portfolio spans life-changing technologies in diagnostics, medical devices, nutrition, and branded generic medicines. With 114,000 colleagues serving patients in 160+ countries, we are committed to advancing health worldwide.\n\nAre you passionate about driving evidence-based strategies that improve patient outcomes? At Abbott’s Established Pharmaceutical Division (EPD), we are looking for a Senior Manager in Health Economics & Outcomes Research to shape global initiatives that make a real impact.\nAbout the Role\n\nJoin us as a Sr Global HEOR & Payer Evidence Lead and help shape access to life-saving therapies in oncology and immunology. This is a unique opportunity to make a global impact while working in a collaborative, inclusive environment that values diverse perspectives.\nReporting to the Director, Global HEOR, you will lead strategic and hands-on initiatives across emerging markets (Latin America, Middle East, Asia-Pacific, China, Russia, India, and Africa). Your work will directly influence patient access and affordability, ensuring innovative treatments reach those who need them most.\n\nWhat You’ll Do\n\nLead with purpose: Oversee HEOR projects with external partners, ensuring scientific rigor and timely delivery.\n\nEmpower teams globally: Co-create country-level HEOR plans and mentor local professionals to build capabilities.\n\nDrive innovation: Adapt economic models and guide Real-World Evidence (RWE) studies to meet diverse market needs.\n\nCommunicate impact: Translate complex data into clear, compelling value stories for HTA submissions and payer negotiations.\n\nCollaborate across cultures: Work with cross-functional teams and external stakeholders to strengthen global access strategies.\n\nChampion visibility: Lead publication planning and represent HEOR at international congresses.\n\nAbout You\n\n8+ years’ experience in the biotech, pharma or healthcare sector (incl. consulting) with strong focus in Health Economics, Market Access, or related functions/fields\n\nExperience across multiple global regions, especially emerging markets\n\nDeep knowledge of healthcare system and evolving trends of the major HTA countries and Emerging countries\n\nStrong knowledge of health economic modeling and RWE.\n\nProven leadership in cross-functional or cross-country initiatives.\n\nAdvanced degree (MSc, PhD, PharmD, MPH) in health economics, public health, epidemiology, or related field.\n\nOncology and/or immunology experience preferred.\n\nPassion for improving patient access and affordability.\n\nWhat We Offer\n\nInclusive culture: We value diversity and encourage different perspectives to drive innovation.\n\nCareer growth: Leadership development, mentoring, and exposure to strategic decision-making.\n\nImpactful work: Contribute to therapies that change lives worldwide.\n\nDo you like the sound of this job and think you’ve got what it takes? Then send us your CV today. We look forward to receiving your application as pdf.\n\n(If you want to upload several documents, don`t save in between uploading them to be able to do so. Once you save your uploads, you will not be able to add more documents)\n\n     \nThe base pay for this position is N/A\nIn specific locations, the pay range may vary from the range posted.\n     \nJOB FAMILY:Market Access\n     \nDIVISION:EPD Established Pharma\n        \nLOCATION:Switzerland > Allschwil : H-127\n     \nADDITIONAL LOCATIONS:\n     \nWORK SHIFT:Standard\n     \nTRAVEL:Not specified\n     \nMEDICAL SURVEILLANCE:Not Applicable\n     \nSIGNIFICANT WORK ACTIVITIES:Not Applicable",
     "external_url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Switzerland---Basel/Sr-Global-HEOR---Payer-Evidence-Lead_31156318",
@@ -2571,6 +2566,56 @@
     "matched_keywords": [
       "French",
       "location:geneva"
+    ],
+    "deducted_keywords": []
+  },
+  "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-senior-scientist-bcqc-lengnau-berne-880270/1": {
+    "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-senior-scientist-bcqc-lengnau-berne-880270/1",
+    "status": "matched",
+    "title": "Senior Scientist BCQC(m/f/d)",
+    "company": "Hays Switzerland",
+    "location": "Lengnau, Berne, Switzerland",
+    "posted_date": "",
+    "department": "",
+    "score": 0,
+    "matched_keywords": [],
+    "deducted_keywords": []
+  },
+  "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-analytical-project-leader-scientist-senior-scientist-basel-stadt-873611/1": {
+    "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-analytical-project-leader-scientist-senior-scientist-basel-stadt-873611/1",
+    "status": "matched",
+    "title": "Analytical Project Leader (Scientist / Senior Scientist)(m/f/d)",
+    "company": "Hays Switzerland",
+    "location": "Basel Stadt, Switzerland",
+    "posted_date": "",
+    "department": "",
+    "score": 0,
+    "matched_keywords": [],
+    "deducted_keywords": []
+  },
+  "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-vice-president-of-business-development-basel-land-873413/1": {
+    "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-vice-president-of-business-development-basel-land-873413/1",
+    "status": "matched",
+    "title": "Vice President of Business Development(m/f/d)",
+    "company": "Hays Switzerland",
+    "location": "Basel Land, Switzerland",
+    "posted_date": "",
+    "department": "",
+    "score": 0,
+    "matched_keywords": [],
+    "deducted_keywords": []
+  },
+  "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-scientist-lab-technician-assay-development-zug-873185/1": {
+    "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-scientist-lab-technician-assay-development-zug-873185/1",
+    "status": "matched",
+    "title": "Scientist Lab Technician Assay Development(m/f/d)",
+    "company": "Hays Switzerland",
+    "location": "Zug, Switzerland",
+    "posted_date": "",
+    "department": "",
+    "score": 1,
+    "matched_keywords": [
+      "assay development"
     ],
     "deducted_keywords": []
   }
