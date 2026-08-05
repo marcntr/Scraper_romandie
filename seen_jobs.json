@@ -807,11 +807,6 @@
     "external_url": "https://jobs.smartrecruiters.com/HUG/744000127195858-medecin-interne-rotation-en-chirurgie-100-?oga=true",
     "status": "matched"
   },
-  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000126030230": {
-    "description": "En tant que chef ou cheffe de clinique avec/sans titre de spécialité, vous garantissez en autonomie la qualité des prestations médicales dans les unités de soins de votre domaine de compétence.\nVous coordonnez les activités pratiques ainsi que les stratégies diagnostiques et thérapeutiques des patientes et patients qui vous sont confiés en étroite collaboration avec les médecins adjoints et adjointes.\nVous évoluez dans un environnement universitaire stimulant, au sein d’une équipe pluridisciplinaire, votre leadership vous permet d’accompagner de manière efficiente les médecins internes dans leur développement de compétences.",
-    "external_url": "https://jobs.smartrecruiters.com/HUG/744000126030230-cheffe-ou-chef-de-clinique-avec-ou-sans-titre-de-specialite-fellowship-en-medecine-intensive-pediatrique-100-?oga=true",
-    "status": "matched"
-  },
   "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000123894409": {
     "description": "Votre mission alterne entre les différentes consultations ambulatoires du SMPR, y compris l’Unité d’urgences ambulatoires.\nVous garantissez des prestations médicales de qualité, tant sur le plan clinique et administratif qu'organisationnel.\nEn parallèle à votre activité, vous avez la possibilité de bénéficier d'une formation post-graduée de qualité contribuant à l'obtention du titre de spécialiste en médecine interne et générale.\nNous vous offrons l'opportunité de rejoindre le SMPR à un moment intéressant de mise en œuvre de projets nombreux et variés.\nDe plus, vous participez à une mission noble et d'utilité majeure pour la société ainsi qu’à des activités passionnantes et innovantes, dans un cadre universitaire au sein d'une équipe pluridisciplinaire et hautement qualifiée.\nL'épanouissement de nos collaborateurs et collaboratrices dans leur mission est une valeur importante pour nous avec un parcours de carrière personnalisé et plusieurs perspectives d'évolution au sein de l'institution.",
     "external_url": "https://jobs.smartrecruiters.com/HUG/744000123894409-medecin-interne-au-service-de-medecine-de-premier-recours-50-a-100-?oga=true",
@@ -849,7 +844,7 @@
     "title": "Clinical Scientist in neurosciences",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-05",
+    "posted_date": "2026-07-06",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -865,7 +860,7 @@
     "title": "Technical Expert Portfolio Mgmt, Technical Feasibility and Planning",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-05",
+    "posted_date": "2026-07-06",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -878,7 +873,7 @@
     "title": "Sr. Scientist - Computational Biology - Neuroscience & Rare Diseases",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-05",
+    "posted_date": "2026-07-06",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -901,7 +896,7 @@
     "title": "Global Medical Director, Evidence Generation Lead",
     "company": "Biogen",
     "location": "Baar, Switzerland",
-    "posted_date": "2026-07-05",
+    "posted_date": "2026-07-06",
     "department": "",
     "score": -2,
     "matched_keywords": [
@@ -920,7 +915,7 @@
     "title": "Senior Medical Director, Nephrology, Global Medical Affairs",
     "company": "Biogen",
     "location": "Baar, Switzerland",
-    "posted_date": "2026-07-05",
+    "posted_date": "2026-07-06",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -961,7 +956,7 @@
     "title": "Scientist Microbiological Quality Control",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-07-05",
+    "posted_date": "2026-07-06",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -976,7 +971,7 @@
     "title": "R&D Scientist – Scientific Data Analytics (d/f/m)",
     "company": "Danaher",
     "location": "Basel, Switzerland",
-    "posted_date": "2026-07-05",
+    "posted_date": "2026-07-06",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1045,7 +1040,7 @@
     "title": "\"Principal Scientist siRNA Design",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-30",
+    "posted_date": "2026-07-31",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1061,7 +1056,7 @@
     "title": "Mechanistic Immuno Tox Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-05",
+    "posted_date": "2026-07-06",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -1080,7 +1075,7 @@
     "title": "Hematology and Safety Biomarker Expert",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-05",
+    "posted_date": "2026-07-06",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -1199,7 +1194,7 @@
     "title": "Senior Scientist Electronic Laboratory Systems",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-07-05",
+    "posted_date": "2026-07-06",
     "department": "",
     "score": -1,
     "matched_keywords": [
@@ -1262,7 +1257,7 @@
     "title": "Senior/Principal Scientist - NMR Expert",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-07",
+    "posted_date": "2026-07-08",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1278,7 +1273,7 @@
     "title": "Director, Corporate Strategy & Business Development",
     "company": "Alcon",
     "location": "Geneva, Switzerland",
-    "posted_date": "2026-07-07",
+    "posted_date": "2026-07-08",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -1356,7 +1351,7 @@
     "title": "Principal Operations AI Data Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-10",
+    "posted_date": "2026-07-11",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1402,7 +1397,7 @@
     "title": "Post Doctoral Scientist (m/w/d)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-14",
+    "posted_date": "2026-07-15",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1444,7 +1439,7 @@
     "title": "Sr Global HEOR & Payer Evidence Lead",
     "company": "Abbott",
     "location": "Switzerland - Basel",
-    "posted_date": "2026-07-15",
+    "posted_date": "2026-07-16",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -1512,7 +1507,7 @@
     "title": "Staff Scientist - Spectral Cytometry Expert",
     "company": "Labcorp",
     "location": "CHE - Geneva - 7 rue Moise-Marcinhes",
-    "posted_date": "2026-07-16",
+    "posted_date": "2026-07-17",
     "department": "",
     "score": 8,
     "matched_keywords": [
@@ -1546,7 +1541,7 @@
     "title": "Business Development Manager (m/w/d) Neuromodulation – Schweiz",
     "company": "Abbott",
     "location": "Switzerland - Baar",
-    "posted_date": "2026-07-17",
+    "posted_date": "2026-07-18",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -1700,21 +1695,6 @@
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000138855480-bare-metal-openstack-engineer-it-cd-cli-2026-179-grae-?oga=true",
     "status": "matched"
   },
-  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000138800149": {
-    "description": "Force de proposition, vous avez envie de contribuer aux projets d’une grande institution telle que les HUG et vous vous reconnaissez dans nos valeurs institutionnelles.\nDans le cadre de vos activités, vous dispensez des évaluations et thérapies psychomotrices à des patientes et patients en âge AVS, suivis en hôpital de jour. Vous garantissez la qualité et la continuité des soins auprès des patients et patientes.\nVous élaborez et réalisez un projet thérapeutique individualisé.\nVous êtes responsable de la conduite des mesures thérapeutiques en psychomotricité en groupe et en individuel.\nVous êtes apte à collaborer et travailler en équipe pluriprofessionnelle et à travailler en co-conduction thérapeutique.\nVous respectez la confidentialité et le secret de fonction ainsi que les procédures HUG.",
-    "external_url": "https://jobs.smartrecruiters.com/HUG/744000138800149-psychomotricienne-ou-psychomotricien-en-ambulatoire-de-psychiatrie-geriatrique-50-?oga=true",
-    "status": "matched"
-  },
-  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000138799269": {
-    "description": "En tant qu’ingénieur ou ingénieure cheffe ou chef de projet, vous renforcez le secteur ingénierie et techniques du bâtiment (SITB). L’équipe, composée d’une dizaine de personnes spécialisées dans les différents domaines techniques du bâtiment : Chauffage-Ventilation-Climatisation (CVC), sanitaire, gaz médicaux et électricité, gère environ 60 projets en parallèle. Vous évoluez ainsi dans un environnement à la fois exigeant et innovant.\nDans ce rôle, vous pilotez des projets de construction ou de rénovation, depuis leur conception jusqu’à leur réalisation, tout en mettant en avant vos expertises en CVC, Sanitaire, Gaz Médicaux et Régulation. Concernant le CVC, vous intervenez sur des installations comme les centrales de traitement d’air, la production et la distribution de chauffage, d’eau surchauffée, de vapeur et d’eau glacée. Pour le sanitaire, vous travaillez sur des projets liés à la production et à la distribution d’eau chaude sanitaire, d’eau purifiée ou refroidie.\nVous réalisez des études avant-projets en analysant la faisabilité, en identifiant les besoins, en estimant les coûts et en définissant le planning. Vous rédigez des cahiers des charges détaillés et proposez des solutions techniques qui permettent une prise de décision éclairée. Vous assurez un cadrage rigoureux des projets, garantissant ainsi une validation précise des objectifs et un déroulement maîtrisé.\nVous évaluez les solutions techniques en sélectionnant les équipements les plus adaptés et en élaborant des plans détaillés. Vous préparez également les soumissions nécessaires pour le lancement des appels d’offres publics. Vous assurez une supervision active en veillant au respect des lois, des normes et des réglementations en vigueur à chaque étape.\nVous supervisez l’exécution des projets en coordonnant les différentes étapes, en suivant le budget et le planning, et en assurant une collaboration optimale avec les équipes projets. Vous participez aux comités de pilotage (COPIL), où vous présentez l’avancement des travaux, proposez des solutions aux éventuels défis et contribuez aux prises de décisions stratégiques.\nEn collaboration avec vos collègues, vous intervenez sur d’autres projets transverses pour coordonner les actions, résoudre les problématiques et proposer des solutions adaptées. Vous partagez également votre expertise avec vos pairs pour les accompagner dans la gestion de leurs propres projets.\nDans une perspective transverse, vous participez activement à l’amélioration continue en contribuant à l’évolution des référentiels et des directives techniques. Vous mettez à jour la documentation, effectuez une veille technologique dans vos domaines d’expertise et proposez des améliorations pertinentes.",
-    "external_url": "https://jobs.smartrecruiters.com/HUG/744000138799269-ingenieure-ou-ingenieur-chef-ou-cheffe-de-projet-technique-et-batiment-cvc-sanitaire-gaz-mediaux-regulation-100-?oga=true",
-    "status": "matched"
-  },
-  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000138799149": {
-    "description": "En tant qu’ingénieur ou ingénieure cheffe de projet, vous renforcez le secteur ingénierie et techniques du bâtiment (SITB). L’équipe, composée d’une quinzaine de personnes spécialisées dans les différents domaines techniques du bâtiment : Chauffage-Ventilation-Climatisation (CVC), sanitaire, gaz médicaux et électricité, gère environ 60 projets en parallèle. Vous évoluez ainsi dans un environnement à la fois exigeant et innovant.\nDans ce rôle, vous pilotez des projets de construction ou de rénovation, depuis leur conception jusqu’à leur réalisation, tout en mettant en avant votre expertise en électricité. Vous intervenez ainsi notamment sur des projets incluant la distribution courant fort et faible, la transformation et mise au norme de cabine TGBT et BT, l’installation de panneaux solaire photovoltaïque, de bornes de recharge ou remplacement d’éclairage.\nVous réalisez des études avant-projets en analysant la faisabilité, en identifiant les besoins, en estimant les coûts et en définissant le planning. Vous rédigez des cahiers des charges détaillés et proposez des solutions techniques qui permettent une prise de décision éclairée. Vous assurez un cadrage rigoureux des projets, garantissant ainsi une validation précise des objectifs et un déroulement maîtrisé.\nVous évaluez les solutions techniques en sélectionnant les équipements les plus adaptés et en élaborant des plans détaillés. Vous préparez également les soumissions nécessaires pour le lancement des appels d’offres publics. Vous assurez une supervision active en veillant au respect des lois, des normes et des réglementations en vigueur à chaque étape.\nVous supervisez l’exécution des projets en coordonnant les différentes étapes, en suivant le budget et le planning, et en assurant une collaboration optimale avec les équipes projets. Vous participez aux comités de pilotage (COPIL), où vous présentez l’avancement des travaux, proposez des solutions aux éventuels défis et contribuez aux prises de décisions stratégiques.\nDans une perspective transverse, vous participez activement à l’amélioration continue en contribuant à l’évolution des référentiels et des directives techniques. Vous mettez à jour la documentation, effectuez une veille technologique dans vos domaines d’expertise et proposez des améliorations pertinentes.",
-    "external_url": "https://jobs.smartrecruiters.com/HUG/744000138799149-ingenieur-ou-ingenieure-cheffe-de-projet-technique-et-batiment-en-electricite-100-?oga=true",
-    "status": "matched"
-  },
   "https://apply.workable.com/debiopharm/j/9B3B7116FA/": {
     "description": "Mission: \nReporting to the Program Lead, Global Regulatory Affairs, the Global Regulatory Affairs Specialist/Manager is actively involved in supporting the development of innovative new medicines, including small molecules, biologics and radiopharmaceuticals. \n \nWorking in a matrix environment, the Global Regulatory Affairs Manager supports and works in close collaboration with Senior Regulatory Affairs Team members in defining development paths that maximize the value of our compounds and enable early access to patients with high unmet medical need. The Global Regulatory Affairs Manager contributes with technical and operational expertise to the implementation of regulatory strategies spanning from First-in-human studies up to registration. Additionally, this role ensures compliance to applicable regulations and relevant processes when performing assigned tasks. \n \nMain responsibilities: \nSupports Senior RA team member in the: \nDevelopment and implementation of the global RA strategy for assigned projects; \nManagement of external vendors such as CROs; \nPreparation and tracking of submissions in several jurisdictions, such as: INDs/CTAs, Briefing Documents to support meetings with Regulatory Agencies, Orphan Drug Applications, PIP/PSP, Fast Track / Breakthrough Designation/PRIME, etc; \nRepresents RA in cross-functional sub-teams, such as Clinical Trial Teams; \nParticipates in the review of documents of regulatory relevance such as Clinical Study Protocols, Clinical Study Reports, DSURs, etc; \nWorks closely with functional experts to coordinate their contributions to regulatory documents; \nMaintains knowledge of global competitive and regulatory landscape and contributes to the assessment of the impact changes might have on assigned projects; \nContributes to establishing and revising standard operational procedures to maximize the efficiency of processes and ensure compliance to regulations. \nProfile required: \nBSc Degree in Life-Sciences; a higher degree is preferred; \nAt least 3 years of regulatory affairs experience in the field of drug development, including experience in managing clinical trials; \nDemonstrated understanding of regulatory procedures in the EU and/or US; \nNecessary skills: Independent, results driven, team-oriented; agile individual with the ability to influence outcomes; \nExcellent organizational, communication and time management skills needed to manage multiple ongoing tasks/projects simultaneously; \nPossess good analytical skills with a solution driven mindset; \nProficiency in English (oral and written). Knowledge of French is an asset \nWhat we Offer: \nBeing part of a company where innovation, collaboration, and impact aren’t just values — they’re how we work every day \nPartner with teams across disciplines, at the forefront of oncology and anti-infective development \nAn inclusive and respectful workplace — proud to be Equal-Pay certified \nGrow in a culture that values people, purpose, and performance \nA chance to grow, share, and shape the future of healthcare \n \nWhat to Expect in the Recruitment Process: \nIf your application is selected, you’ll be invited to interviews with Talent Acquisition and the Hiring Manager via Teams, followed by a panel interview and reference checks. Communication is handled via Workable—check your spam folder for emails from *@outbound.workable.com. \n \nWe do not accept unsolicited applications from agencies or recruiters.",
     "external_url": "https://apply.workable.com/debiopharm/j/9B3B7116FA/",
@@ -1788,7 +1768,7 @@
     "title": "Scientist Synthesis Automation",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-22",
+    "posted_date": "2026-07-23",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1843,7 +1823,7 @@
     "title": "Internship in the PD Medical Affairs Nucleus Team - End to End (E2E) Evidence Generation Sub-chapter - as of 15 November 2026 for 12 months in Basel",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-23",
+    "posted_date": "2026-07-24",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1909,7 +1889,7 @@
     "title": "Cardio-Renal Discovery Area Leader - Expert Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-24",
+    "posted_date": "2026-07-25",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -1935,7 +1915,7 @@
     "title": "Director, Medical Affairs, Hemato-Oncology, Europe",
     "company": "BeiGene",
     "location": "Basel",
-    "posted_date": "2026-07-24",
+    "posted_date": "2026-07-25",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1957,7 +1937,7 @@
     "title": "Portfolio Strategy & Delivery Lead, Data Insight Technology",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-24",
+    "posted_date": "2026-07-25",
     "department": "",
     "score": -1,
     "matched_keywords": [
@@ -2003,7 +1983,7 @@
     "title": "RiSM Internship for students in Computer Science, Software Engineering, Data Science or Bioinformatics (Basel, 9-12 months)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-27",
+    "posted_date": "2026-07-28",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2018,7 +1998,7 @@
     "title": "RiSM Internship for students in Pharmaceutical Sciences, Pharmaceutical Technology, Data Sciences, Cheminformatics or Chemistry (Basel, 6 months)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-27",
+    "posted_date": "2026-07-28",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -2168,7 +2148,7 @@
     "title": "Senior Scientist microbiological Quality Control",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-07-30",
+    "posted_date": "2026-07-31",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -2267,7 +2247,7 @@
     "title": "Director - Immunology Therapeutic Area Biomarker Lead (TABL)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-07-05",
+    "posted_date": "2026-07-06",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -2291,7 +2271,7 @@
     "title": "Medical Director, Gastroenterology, Early Clinical Development",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-07-05",
+    "posted_date": "2026-07-06",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -2311,7 +2291,7 @@
     "title": "Translational Medicine Expert – Dermatology, Associate Director",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-07-05",
+    "posted_date": "2026-07-06",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -2334,7 +2314,7 @@
     "title": "Patent Attorney",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-07-06",
+    "posted_date": "2026-07-07",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -2347,7 +2327,7 @@
     "title": "Senior Expert / Senior Principal PKS Data Scientist & Scientific Software Engineer (Dual level posting)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-07-05",
+    "posted_date": "2026-07-06",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -2370,7 +2350,7 @@
     "title": "Senior Principal Scientist - Proteomics",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-07-09",
+    "posted_date": "2026-07-10",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -2390,7 +2370,7 @@
     "title": "Senior Expert - Device Project Leader - Combination Product Portfolio (80-100%)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-07-27",
+    "posted_date": "2026-07-28",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2405,7 +2385,7 @@
     "title": "Principal Scientist - Mid/Large Scale Oligonucleotide Synthesis, xRNA Therapeutics",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-07-28",
+    "posted_date": "2026-07-29",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -2423,7 +2403,7 @@
     "title": "Lab scientist position (f/m/d, 80-100%) Biologics Characterization in Surface Plasmon Resonance Lab",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-07-27",
+    "posted_date": "2026-07-28",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -2728,7 +2708,7 @@
     "title": "Principal Scientist, Respiratory Discovery",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-04",
+    "posted_date": "2026-08-05",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -2752,7 +2732,7 @@
     "title": "Scientist, Cell Engineering and Phenotypic Screening Models",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-04",
+    "posted_date": "2026-08-05",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -2783,7 +2763,7 @@
     "title": "Senior Principal Scientist/Associate Director Clinical PBPK  (Dual Level Posting)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-04",
+    "posted_date": "2026-08-05",
     "department": "",
     "score": 5,
     "matched_keywords": [
