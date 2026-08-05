@@ -2429,56 +2429,6 @@
     ],
     "deducted_keywords": []
   },
-  "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-senior-scientist-bcqc-lengnau-berne-880270/1": {
-    "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-senior-scientist-bcqc-lengnau-berne-880270/1",
-    "status": "ignored",
-    "title": "Senior Scientist BCQC(m/f/d)",
-    "company": "Hays Switzerland",
-    "location": "Lengnau, Berne, Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": 0,
-    "matched_keywords": [],
-    "deducted_keywords": []
-  },
-  "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-analytical-project-leader-scientist-senior-scientist-basel-stadt-873611/1": {
-    "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-analytical-project-leader-scientist-senior-scientist-basel-stadt-873611/1",
-    "status": "ignored",
-    "title": "Analytical Project Leader (Scientist / Senior Scientist)(m/f/d)",
-    "company": "Hays Switzerland",
-    "location": "Basel Stadt, Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": 0,
-    "matched_keywords": [],
-    "deducted_keywords": []
-  },
-  "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-vice-president-of-business-development-basel-land-873413/1": {
-    "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-vice-president-of-business-development-basel-land-873413/1",
-    "status": "ignored",
-    "title": "Vice President of Business Development(m/f/d)",
-    "company": "Hays Switzerland",
-    "location": "Basel Land, Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": 0,
-    "matched_keywords": [],
-    "deducted_keywords": []
-  },
-  "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-scientist-lab-technician-assay-development-zug-873185/1": {
-    "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-scientist-lab-technician-assay-development-zug-873185/1",
-    "status": "ignored",
-    "title": "Scientist Lab Technician Assay Development(m/f/d)",
-    "company": "Hays Switzerland",
-    "location": "Zug, Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": 1,
-    "matched_keywords": [
-      "assay development"
-    ],
-    "deducted_keywords": []
-  },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000141249029": {
     "description": "Introduction\nThe role is responsible for ensuring that all equipment installed or removed during CMS Long Shutdown 3 (LS3) is accurately recorded in the CMS Equipment Management Database (EMdb). Acting as the interface between the physical inventory and the database, the post-holder ensures data consistency, maintains and enhances the database and its associated applications, and develops tools to improve data visualisation and accessibility.  The role combines strong IT expertise with an understanding of the CMS experiment's equipment and asset management processes. It also provides support to colleagues across the CMS experiment in keeping the database up to date by preparing dedicated documentation and labelling for the services installation campaign, ensuring that equipment can be accurately identified, tracked and managed throughout its lifecycle.\nFunctions\nEnsure the consistency, accuracy and integrity of the CMS Equipment Management Database by synchronising it with the physical installation and decommissioning of equipment.\nAct as the interface between field inventory activities of CMS teams and the Equipment Management Database, ensuring that all equipment installations, removals and modifications are accurately reflected in the system.\nMaintain, support and enhance the Equipment Management Database and its applications, ensuring their reliability and long-term sustainability while developing new features, dashboards and visualisation tools for equipment traceability, data quality monitoring and reporting.\nDrive continuous improvements to the usability, functionality and efficiency of the Equipment Management Database by streamlining the registration and management of equipment, cables and other assets, and enhancing data management and asset traceability across the CMS experiment.\nSupporting work on the field, to ensure that the operational aspects of asset installation run smoothly for the CMS experiment and that there is coherence between installed equipment and services and the database inventory\nCollaborate with the CERN Enterprise Asset Management service and ensure the inter-operationality of processes within the CERN-wide infrastructure and applications.",
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000141249029-equipment-management-database-specialist-ep-cms-ssi-2026-166-ld-?oga=true",
