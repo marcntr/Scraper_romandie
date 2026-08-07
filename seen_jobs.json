@@ -646,7 +646,8 @@
     "https://takeda.wd3.myworkdayjobs.com/External/job/Zurich-Switzerland/Associate-Director--EU-Regulatory-Lead-Neuroscience_R0184504": "ignored",
     "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Basel-City/Commercial-Portfolio-Head-Region-Europe_REQ-10078444": "ignored",
     "https://csl.wd1.myworkdayjobs.com/CSL_External/job/EMEA-CH-Kanton-Bern-Bern-CSL-Behring/Associate-Scientist---Senior-Laboratory-Specialist_R-283117": "ignored",
-    "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Operations-AI-Data-Scientist_202606-115569": "ignored"
+    "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Operations-AI-Data-Scientist_202606-115569": "ignored",
+    "https://www.michaelpage.ch/job-detail/asap-legal-counsel-esg-regulatory-affairs-mwd/ref/jn-072026-7070378": "ignored"
   },
   "_generic:Hurdle Bio": {
     "keywords": "npp"
@@ -2884,6 +2885,25 @@
     "matched_keywords": [],
     "deducted_keywords": [
       "location:Rue Gabrielle-Perret-Gentil, Switzerland"
+    ]
+  },
+  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000142130613": {
+    "description": "Join CERN's Storage and Data Management group, to develop data storage systems for physics experiments at the Large Hadron Collider (LHC). The Storage and Data Management Group is responsible for enabling data access for the laboratory, in particular the long-term archival, preservation and distribution of LHC data to a worldwide scientific community. CERN, take part!\nAs a Data Storage R&D Engineer you will join the CERN Tape Archive (CTA) team, responsible for the archival and management of 1.5 Exabytes of physics data from the entirety of CERN's experimental programme. Your job will include R&D, software development and operations tasks.\nYour responsibilities\nYour responsibilities will include:\nAnalyse metadata and logs to optimise physical data placement on storage media.\nResearch appropriate mathematical models and propose optimisations to CTA's scheduling algorithms within specified cost constraints.\nDevelop and maintain software in C++/Linux.\nParticipate in operations, troubleshooting and support as part of a team.\nMore information here.\nYour profile\nYou have good technical and analytical skills, with a background in algorithms and optimisation.\nYou have knowledge of statistics, data modelling and data visualisation, as well as experience in software development with C++.\nExperience with storage technologies or data management is a bonus.\nPrior experience with tape storage systems and robotic libraries is not expected.\nSkills\nStrong analytical and problem-solving skills, including mathematical modelling and optimisation are require.\nExperience in software development with C++ and Python is required.\nExperience with Linux operating system and command-line tools (e.g. bash shell, grep with regular expressions) is required.\nKnowledge of databases (SQL) is an advantage (training will be provided if necessary).\nExperience with version control systems (e.g. git) is an advantage (training will be provided if necessary).\nExperience with containers (e.g. Kubernetes) is an advantage (training will be provided if necessary).\nKnowledge of monitoring tools (e.g. Grafana, Prometheus) is an advantage (training will be provided if necessary).\nSpoken and written English, with a commitment to learn French.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nYou have a professional background in Mathematics or Computer Science (or a related field) and have either:\na Master's degree with 2 to 6 years of post-graduation professional experience;\nor a PhD with no more than 3 years of post-graduation professional experience.\nYou have never had a CERN fellow or graduate contract before.",
+    "external_url": "https://jobs.smartrecruiters.com/CERN/744000142130613-data-storage-r-d-engineer-it-sd-tab-2026-130-grap-?oga=true",
+    "status": "matched"
+  },
+  "https://www.michaelpage.ch/job-detail/asap-legal-counsel-esg-regulatory-affairs-mwd/ref/jn-072026-7070378": {
+    "external_url": "https://www.michaelpage.ch/job-detail/asap-legal-counsel-esg-regulatory-affairs-mwd/ref/jn-072026-7070378",
+    "status": "matched",
+    "title": "ASAP: Legal Counsel ESG & Regulatory Affairs (m/w/d)",
+    "company": "Michael Page Switzerland",
+    "location": "Switzerland",
+    "posted_date": "",
+    "department": "",
+    "score": -2,
+    "matched_keywords": [],
+    "deducted_keywords": [
+      "location:Switzerland"
     ]
   }
 }
