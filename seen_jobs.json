@@ -2985,5 +2985,33 @@
     "description": "CERN operates the analysis ecosystem used daily by thousands of researchers: the SWAN interactive notebook service, the Rucio data management system, the REANA reproducible-workflow engine, the Zenodo open repository, and CVMFS for software distribution. Building on these services, and as part of the ESCAPE Collaboration.\nCERN is developing the next generation of Virtual Research Environments (VRE): a modular, open-source analysis platform, deployed on CERN's Kubernetes infrastructure, that gives researchers a single entry point to data, software, and computing. The VRE and its associated Open Science Competence Centre are being integrated into the CERN EOSC node, opening the platform to federated user communities across Europe.\nThis work is funded through the OSCARS project, and as a Graduate you will significantly contribute in consolidating our platform to be production-ready.\nThis role will include:\nWorking as a software and platform engineer in the team developing and operating the VRE on CERN's cloud infrastructure, alongside the SWAN, Rucio, REANA, and Zenodo service teams.\nHardening Jupyter extensions for Rucio, REANA, and Zenodo into production-ready plugins, with the CERN SWAN service as the reference integration.\nConsolidating the unified VRE Helm charts as a common and containerised deployment reference.\nContributing to the integration of the VRE and the Competence Centre into the CERN EOSC node, and engaging with the user communities they serve.\nOur ultimate goal is a seamless, reproducible analysis environment where researchers can discover and access data, run interactive and batch analyses across heterogeneous resources, and publish their results within one open ecosystem. This is a unique opportunity to work at the core of CERN's analysis services and shape a platform adopted by research infrastructures well beyond CERN.\nYour responsibilities:\nDevelop and maintain the Jupyter extensions for Rucio, REANA, and Zenodo (Python, JupyterLab/React), upgrading them into production-ready plugins integrated with CERN's SWAN notebook service.\nSupport the Competence Centre activities through workshops, training events, and documentation, gathering user feedback and translating it into technical improvements.\nPrototype the scaling of interactive analysis to distributed compute: offloading of user sessions to HPC and cloud resources using VirtualKubelet/interLink, leveraging CERN's cloud procurement activities.\nStreamline data staging between the distributed data infrastructure and the analysis environment.\nYour profile:\nExperience with Python and software development in a Linux environment.\nFamiliarity with container technologies, such as Docker, and container orchestration with Kubernetes (including Helm).\nFamiliarity with version control systems, such as Git, and CI/CD practices.\nExposure to authentication and authorisation technologies (for example OAuth2/OIDC, tokens, INDIGO IAM).\nExperience contributing to or working with open-source software projects.\nAbility to write clear, maintainable code and learn new technologies.\nFamiliarity with scientific data management or workflow tools (for example Rucio, REANA, Snakemake, or similar) is an asset.\nBasic knowledge of web technologies and modern interfaces (for example JavaScript/React or JupyterLab extensions) is an asset.\nExposure to HPC or cloud computing environments is an asset.\nSkills:\nRequired Skills:\nPython.\nGit.\nDocker.\nKubernetes.\nLinux.\nSpoken and written English, with a commitment to learn French.\nNice to have skills:\nHelm, GitOps, Prometheus.\nJupyterHub/JupyterLab, React.\nRucio, REANA, Zenodo, CVMFS.\nOAuth2/OIDC, token-based AAI, INDIGO IAM.\nKubeflow, VirtualKubelet/interLink.\nExperience working on open source projects.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nBy the application deadline, you have a maximum of two years of professional experience since graduation in Software Engineering (or a related field) and your highest educational qualification is either a Bachelor's or Master's degree.\nYou have never had a CERN fellow or graduate contract before.\nApplicants without University degree are not eligible.\nApplicants with a PhD are not eligible.",
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000143086329-full-stack-software-engineer-it-ca-ir-2026-198-grae-?oga=true",
     "status": "matched"
+  },
+  "https://www.michaelpage.ch/de/job-detail/sales-consultant-business-development-manager-mwd/ref/jn-072026-7057195?lang=en": {
+    "external_url": "https://www.michaelpage.ch/de/job-detail/sales-consultant-business-development-manager-mwd/ref/jn-072026-7057195?lang=en",
+    "status": "matched",
+    "title": "(Senior) Sales Consultant / Business Development Manager (m/w/d)",
+    "company": "Michael Page Switzerland",
+    "location": "Switzerland",
+    "posted_date": "",
+    "department": "",
+    "score": -2,
+    "matched_keywords": [],
+    "deducted_keywords": [
+      "location:Switzerland"
+    ]
+  },
+  "https://www.michaelpage.ch/de/job-detail/business-development-specialist-100/ref/jn-032026-6968386?lang=en": {
+    "external_url": "https://www.michaelpage.ch/de/job-detail/business-development-specialist-100/ref/jn-032026-6968386?lang=en",
+    "status": "matched",
+    "title": "Business Development Specialist (a) 100%",
+    "company": "Michael Page Switzerland",
+    "location": "Switzerland",
+    "posted_date": "",
+    "department": "",
+    "score": -2,
+    "matched_keywords": [],
+    "deducted_keywords": [
+      "location:Switzerland"
+    ]
   }
 }
