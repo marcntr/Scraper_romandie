@@ -88,7 +88,7 @@
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-08-04"
+    "cached_at": "2026-08-12"
   },
   "_facets:roche:roche-ext": {
     "facets": {},
@@ -96,7 +96,7 @@
       "Basel",
       "Kaiseraugst"
     ],
-    "cached_at": "2026-08-04"
+    "cached_at": "2026-08-12"
   },
   "_facets:novartis:Novartis_Careers": {
     "facets": {},
@@ -104,63 +104,63 @@
       "Basel",
       "Stein"
     ],
-    "cached_at": "2026-08-04"
+    "cached_at": "2026-08-12"
   },
   "_facets:sanofi:SanofiCareers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-08-04"
+    "cached_at": "2026-08-12"
   },
   "_facets:abbott:abbottcareers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-08-04"
+    "cached_at": "2026-08-12"
   },
   "_facets:pfizer:PfizerCareers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-08-04"
+    "cached_at": "2026-08-12"
   },
   "_facets:gsk:GSKCareers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-08-04"
+    "cached_at": "2026-08-12"
   },
   "_facets:astrazeneca:Careers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-08-04"
+    "cached_at": "2026-08-12"
   },
   "_facets:amgen:Careers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-08-04"
+    "cached_at": "2026-08-12"
   },
   "_facets:gilead:gileadcareers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-08-04"
+    "cached_at": "2026-08-12"
   },
   "_facets:modernatx:M_tx": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-08-04"
+    "cached_at": "2026-08-12"
   },
   "_facets:takeda:External": {
     "facets": {},
@@ -176,21 +176,21 @@
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-08-04"
+    "cached_at": "2026-08-12"
   },
   "_facets:msd:SearchJobs": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-08-04"
+    "cached_at": "2026-08-12"
   },
   "_facets:vrtx:Vertex_Careers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-08-04"
+    "cached_at": "2026-08-12"
   },
   "_facets:lonza:Lonza_Careers": {
     "facets": {},
@@ -199,7 +199,7 @@
       "Visp",
       "Stein"
     ],
-    "cached_at": "2026-08-04"
+    "cached_at": "2026-08-12"
   },
   "_facets:csl:CSL_External": {
     "facets": {},
@@ -209,7 +209,7 @@
       "St. Gallen",
       "Romont"
     ],
-    "cached_at": "2026-08-04"
+    "cached_at": "2026-08-12"
   },
   "_facets:alcon:careers_alcon": {
     "facets": {},
@@ -218,7 +218,7 @@
       "Hünenberg",
       "Zurich"
     ],
-    "cached_at": "2026-08-04"
+    "cached_at": "2026-08-12"
   },
   "_facets:galderma:External": {
     "facets": {},
@@ -227,63 +227,63 @@
       "La Tour-de-Peilz",
       "Lausanne"
     ],
-    "cached_at": "2026-08-04"
+    "cached_at": "2026-08-12"
   },
   "_facets:iqvia:IQVIA": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-08-04"
+    "cached_at": "2026-08-12"
   },
   "_facets:icon:broadbean_external": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-08-04"
+    "cached_at": "2026-08-12"
   },
   "_facets:parexel:Parexel_External_Careers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-08-04"
+    "cached_at": "2026-08-12"
   },
   "_facets:syneoshealth:Syneos_Health_External_Site": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-08-04"
+    "cached_at": "2026-08-12"
   },
   "_facets:myhrabc:Global": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-08-04"
+    "cached_at": "2026-08-12"
   },
   "_facets:thermofisher:ThermoFisherCareers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-08-04"
+    "cached_at": "2026-08-12"
   },
   "_facets:danaher:DanaherJobs": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-08-04"
+    "cached_at": "2026-08-12"
   },
   "_facets:illumina:illumina-careers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-08-04"
+    "cached_at": "2026-08-12"
   },
   "_facets:qiagen:QIAGEN": {
     "facets": {},
@@ -297,14 +297,14 @@
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-08-04"
+    "cached_at": "2026-08-12"
   },
   "_facets:jsrglobal:KBI_Biopharma": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-08-04"
+    "cached_at": "2026-08-12"
   },
   "_generic:Tigen Pharma": {
     "keywords": "npp"
@@ -847,7 +847,7 @@
     "title": "Clinical Scientist in neurosciences",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-12",
+    "posted_date": "2026-07-13",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -863,7 +863,7 @@
     "title": "Technical Expert Portfolio Mgmt, Technical Feasibility and Planning",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-12",
+    "posted_date": "2026-07-13",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -876,7 +876,7 @@
     "title": "Sr. Scientist - Computational Biology - Neuroscience & Rare Diseases",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-12",
+    "posted_date": "2026-07-13",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -899,7 +899,7 @@
     "title": "Global Medical Director, Evidence Generation Lead",
     "company": "Biogen",
     "location": "Baar, Switzerland",
-    "posted_date": "2026-07-12",
+    "posted_date": "2026-07-13",
     "department": "",
     "score": -2,
     "matched_keywords": [
@@ -918,7 +918,7 @@
     "title": "Senior Medical Director, Nephrology, Global Medical Affairs",
     "company": "Biogen",
     "location": "Baar, Switzerland",
-    "posted_date": "2026-07-12",
+    "posted_date": "2026-07-13",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -959,7 +959,7 @@
     "title": "Scientist Microbiological Quality Control",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-07-12",
+    "posted_date": "2026-07-13",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -974,7 +974,7 @@
     "title": "R&D Scientist – Scientific Data Analytics (d/f/m)",
     "company": "Danaher",
     "location": "Basel, Switzerland",
-    "posted_date": "2026-07-12",
+    "posted_date": "2026-07-13",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1043,7 +1043,7 @@
     "title": "\"Principal Scientist siRNA Design",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-30",
+    "posted_date": "2026-07-31",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1059,7 +1059,7 @@
     "title": "Mechanistic Immuno Tox Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-12",
+    "posted_date": "2026-07-13",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -1078,7 +1078,7 @@
     "title": "Hematology and Safety Biomarker Expert",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-12",
+    "posted_date": "2026-07-13",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -1197,7 +1197,7 @@
     "title": "Senior Scientist Electronic Laboratory Systems",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-07-12",
+    "posted_date": "2026-07-13",
     "department": "",
     "score": -1,
     "matched_keywords": [
@@ -1255,7 +1255,7 @@
     "title": "Senior/Principal Scientist - NMR Expert",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-12",
+    "posted_date": "2026-07-13",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1271,7 +1271,7 @@
     "title": "Director, Corporate Strategy & Business Development",
     "company": "Alcon",
     "location": "Geneva, Switzerland",
-    "posted_date": "2026-07-12",
+    "posted_date": "2026-07-13",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -1330,7 +1330,7 @@
     "title": "Post Doctoral Scientist (m/w/d)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-14",
+    "posted_date": "2026-07-15",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1372,7 +1372,7 @@
     "title": "Sr Global HEOR & Payer Evidence Lead",
     "company": "Abbott",
     "location": "Switzerland - Basel",
-    "posted_date": "2026-07-15",
+    "posted_date": "2026-07-16",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -1430,7 +1430,7 @@
     "title": "Staff Scientist - Spectral Cytometry Expert",
     "company": "Labcorp",
     "location": "CHE - Geneva - 7 rue Moise-Marcinhes",
-    "posted_date": "2026-07-16",
+    "posted_date": "2026-07-17",
     "department": "",
     "score": 8,
     "matched_keywords": [
@@ -1459,7 +1459,7 @@
     "title": "Business Development Manager (m/w/d) Neuromodulation – Schweiz",
     "company": "Abbott",
     "location": "Switzerland - Baar",
-    "posted_date": "2026-07-17",
+    "posted_date": "2026-07-18",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -1621,7 +1621,7 @@
     "title": "Scientist Synthesis Automation",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-22",
+    "posted_date": "2026-07-23",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1696,7 +1696,7 @@
     "title": "Cardio-Renal Discovery Area Leader - Expert Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-24",
+    "posted_date": "2026-07-25",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -1722,7 +1722,7 @@
     "title": "Director, Medical Affairs, Hemato-Oncology, Europe",
     "company": "BeiGene",
     "location": "Basel",
-    "posted_date": "2026-07-24",
+    "posted_date": "2026-07-25",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1744,7 +1744,7 @@
     "title": "Portfolio Strategy & Delivery Lead, Data Insight Technology",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-24",
+    "posted_date": "2026-07-25",
     "department": "",
     "score": -1,
     "matched_keywords": [
@@ -1771,7 +1771,7 @@
     "title": "RiSM Internship for students in Computer Science, Software Engineering, Data Science or Bioinformatics (Basel, 9-12 months)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-27",
+    "posted_date": "2026-07-28",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1786,7 +1786,7 @@
     "title": "RiSM Internship for students in Pharmaceutical Sciences, Pharmaceutical Technology, Data Sciences, Cheminformatics or Chemistry (Basel, 6 months)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-27",
+    "posted_date": "2026-07-28",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1869,7 +1869,7 @@
     "title": "Senior Scientist microbiological Quality Control",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-07-30",
+    "posted_date": "2026-07-31",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -1958,7 +1958,7 @@
     "title": "Director - Immunology Therapeutic Area Biomarker Lead (TABL)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-07-12",
+    "posted_date": "2026-07-13",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -1982,7 +1982,7 @@
     "title": "Translational Medicine Expert – Dermatology, Associate Director",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-07-12",
+    "posted_date": "2026-07-13",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -2005,7 +2005,7 @@
     "title": "Patent Attorney",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-07-12",
+    "posted_date": "2026-07-13",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -2018,7 +2018,7 @@
     "title": "Senior Expert / Senior Principal PKS Data Scientist & Scientific Software Engineer (Dual level posting)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-06",
+    "posted_date": "2026-08-07",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -2041,7 +2041,7 @@
     "title": "Senior Principal Scientist - Proteomics",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-07-12",
+    "posted_date": "2026-07-13",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -2061,7 +2061,7 @@
     "title": "Lab scientist position (f/m/d, 80-100%) Biologics Characterization in Surface Plasmon Resonance Lab",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-07-27",
+    "posted_date": "2026-07-28",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -2145,7 +2145,7 @@
     "title": "Internship in the PD Medical Affairs Nucleus Team - Service Solutions & Innovation (SSI) - as of 1 January 2027 for 12 months in Basel",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-03",
+    "posted_date": "2026-08-04",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2165,7 +2165,7 @@
     "title": "Senior Regulatory Group Director",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-03",
+    "posted_date": "2026-08-04",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2229,7 +2229,7 @@
     "title": "Principal Scientist, Respiratory Discovery",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-04",
+    "posted_date": "2026-08-05",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -2253,7 +2253,7 @@
     "title": "Scientist, Cell Engineering and Phenotypic Screening Models",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-04",
+    "posted_date": "2026-08-05",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -2279,7 +2279,7 @@
     "title": "Senior Principal Scientist/Associate Director Clinical PBPK  (Dual Level Posting)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-04",
+    "posted_date": "2026-08-05",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -2352,7 +2352,7 @@
     "title": "Associate Principal Scientist Extractables & Leachables 80-100%",
     "company": "Lonza",
     "location": "CH - Basel",
-    "posted_date": "2026-08-05",
+    "posted_date": "2026-08-06",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2546,7 +2546,7 @@
     "title": "Executive Director, Regional Medical Lead - Solid Tumors, Medical Affairs, Europe",
     "company": "BeiGene",
     "location": "Basel",
-    "posted_date": "2026-08-07",
+    "posted_date": "2026-08-08",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2797,7 +2797,7 @@
     "title": "Application Development Scientist – Reagents (12 months fixed-term contract)",
     "company": "Bio-Techne / Lunaphore",
     "location": "Tolochenaz, Switzerland",
-    "posted_date": "2026-08-11",
+    "posted_date": "2026-08-12",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2816,7 +2816,7 @@
     "title": "Senior Principal Scientist / Associate Director– Soluble Biomarkers, Molecular & Cellular Sciences (MCS)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-11",
+    "posted_date": "2026-08-12",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -2842,7 +2842,7 @@
     "title": "Internship in the Product Development Medical Affairs Nucleus Team from 01.01.2027, 12 months",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-11",
+    "posted_date": "2026-08-12",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2917,6 +2917,39 @@
     "external_url": "https://www.michaelpage.ch/de/job-detail/sales-consultant-business-development-manager-mwd/ref/jn-072026-7057195?lang=en",
     "status": "ignored",
     "title": "(Senior) Sales Consultant / Business Development Manager (m/w/d)",
+    "company": "Michael Page Switzerland",
+    "location": "Switzerland",
+    "posted_date": "",
+    "department": "",
+    "score": -2,
+    "matched_keywords": [],
+    "deducted_keywords": [
+      "location:Switzerland"
+    ]
+  },
+  "https://jobdetails.nestle.com/job/Henniez-Automaticien_ne-&-Sp%C3%A9cialiste-Digital/1383951133/": {
+    "description": "Division « Eau » du groupe Nestlé, Nestlé Waters (Suisse) SA est le leader suisse du marché des eaux minérales avec des marques telles que Henniez, S.Pellegrino, Vittel, Contrex, Perrier et Acqua Panna, ainsi que d’autres grandes marques de boissons sans alcool.\n\n \n\nRésumé de la position\n\nLieu de travail: Henniez\n\nType de contrat: Contrat à durée indéterminée\n\nTaux de travail: 80%-100%\n\n \n\nEn tant qu'Automaticien(ne) & Spécialiste Digital, vous jouerez un rôle clé dans le bon fonctionnement de nos installations de production et dans la digitalisation de l’usine. Véritable référent technique, vous assurerez la fiabilité des systèmes d’automation, participerez aux dépannages et contribuerez au développement des outils digitaux qui soutiennent nos opérations au quotidien.\n\n \n\n \n\nUn jour dans la vie d’un(e) Automaticien(ne) & Spécialiste Digital\n\nAssurer le bon fonctionnement et la fiabilité des systèmes d’automation de l’usine.\n\nDiagnostiquer les pannes et participer activement aux interventions sur le terrain.\n\nAméliorer les programmes, équipements et systèmes afin d’optimiser la performance des lignes de production.\n\nDévelopper la maintenance préventive et contribuer à l’amélioration continue des équipements.\n\nParticiper à l’installation, au démarrage et à la mise en service de nouveaux équipements.\n\nAssurer le support et le développement des outils digitaux de l’usine (MES, SAP, Power BI, Power Apps, POKA, etc.).\n\nGarantir la fiabilité des échanges de données entre les équipements de production, les systèmes de supervision et les applications digitales.\n\nAssurer le rôle d’administrateur FAS (Factory Automation System) du site.\n\nMaintenir à jour la documentation technique, les standards et les équipements critiques.\n\n \n\nCe qui fera votre réussite\n\nCFC d’Automaticien(n), Électronicien(n) ou formation jugée équivalente avec expérience dans un environnement industriel\n\nConnaissances des automates Siemens et des réseaux industriels.\n\nIntérêt marqué pour les nouvelles technologies, l’automation et la digitalisation industrielle.\n\nBonne maîtrise des outils informatiques ; une expérience avec SAP, MES, Power BI, Power Apps ou POKA constitue un atout.\n\nEsprit d’analyse, autonomie et orientation solutions.\n\nGoût pour le travail de terrain et la résolution de problèmes techniques.\n\nExcellentes capacités de collaboration et de communication.\n\nFrançais courant ; anglais technique un atout.",
+    "external_url": "https://jobdetails.nestle.com/job/Henniez-Automaticien_ne-&-Sp%C3%A9cialiste-Digital/1383951133/",
+    "status": "matched"
+  },
+  "https://www.michaelpage.ch/fr/job-detail/sp%C3%A9cialiste-sap-basis-lausanne/ref/jn-072026-7068151?lang=en": {
+    "external_url": "https://www.michaelpage.ch/fr/job-detail/sp%C3%A9cialiste-sap-basis-lausanne/ref/jn-072026-7068151?lang=en",
+    "status": "matched",
+    "title": "Spécialiste SAP Basis - Lausanne",
+    "company": "Michael Page Switzerland",
+    "location": "Switzerland",
+    "posted_date": "",
+    "department": "",
+    "score": -2,
+    "matched_keywords": [],
+    "deducted_keywords": [
+      "location:Switzerland"
+    ]
+  },
+  "https://www.michaelpage.ch/fr/job-detail/sp%C3%A9cialiste-salaires-et-assurances-sociales-80-100/ref/jn-072025-6778709?lang=en": {
+    "external_url": "https://www.michaelpage.ch/fr/job-detail/sp%C3%A9cialiste-salaires-et-assurances-sociales-80-100/ref/jn-072025-6778709?lang=en",
+    "status": "matched",
+    "title": "Spécialiste salaires et assurances sociales 80-100%",
     "company": "Michael Page Switzerland",
     "location": "Switzerland",
     "posted_date": "",
