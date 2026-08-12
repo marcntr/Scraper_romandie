@@ -165,6 +165,22 @@ TITLE_FILTERS: list[str] = [
     "mandataire en brevets",
     "conseil en brevets",
     "brevets",
+    # Academic / hospital research titles (CHUV, HUG, universities)
+    "chargé-e de recherche",
+    "chargé de recherche",
+    "chargée de recherche",
+    "maître d'enseignement et de recherche",
+    "chef-fe de groupe",
+    "cheffe de groupe",
+    "chef de groupe",
+    "responsable de recherche",
+    "collaborateur scientifique",
+    "collaboratrice scientifique",
+    "coordinateur scientifique",
+    "coordinatrice scientifique",
+    "responsable de plateforme",
+    "chercheur scientifique",
+    "spécialiste",
 ]
 
 # ---------------------------------------------------------------------------
@@ -749,6 +765,15 @@ COMPANIES: list[dict] = [
         "name": "HUG",
         "ats": "smartrecruiters",
         "company_id": "HUG",
+    },
+    # CHUV — Centre Hospitalier Universitaire Vaudois (Lausanne university hospital)
+    # Legacy JS-rendered PL/SQL portal — no structured API found, so this is a
+    # keyword-presence monitor rather than a real scraper. May rarely/never fire
+    # since the static page only exposes filter dropdowns, not job listings.
+    {
+        "name": "CHUV",
+        "ats": "generic",
+        "careers_url": "https://recrutement.chuv.ch/home.html",
     },
     # KCR — acquired by ICON plc August 2024, removed (ICON already in list)
     # Alira Health (Boston / Swiss healthcare consulting) — Workday
