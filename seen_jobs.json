@@ -1743,20 +1743,6 @@
       "location:Lengnau, Switzerland"
     ]
   },
-  "https://www.michaelpage.ch/job-detail/portfolio-launch-management-solutions-lead/ref/jn-072026-7069016": {
-    "external_url": "https://www.michaelpage.ch/job-detail/portfolio-launch-management-solutions-lead/ref/jn-072026-7069016",
-    "status": "ignored",
-    "title": "Portfolio & Launch Management Solutions Lead (a)",
-    "company": "Michael Page Switzerland",
-    "location": "Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": -2,
-    "matched_keywords": [],
-    "deducted_keywords": [
-      "location:Switzerland"
-    ]
-  },
   "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000140842469": {
     "description": "Vous assurez des prestations de massage thérapeutique de haute qualité sur délégation des physiothérapeutes, conformément aux standards professionnels, aux prescriptions thérapeutiques et aux valeurs institutionnelles. Vous contribuez activement au bien-être, à la sécurité et à la dignité des patients et patientes tout au long de leur parcours de réadaptation.\nVous réalisez des traitements adaptés aux besoins et capacités de chaque patiente et patient, notamment à l’aide de techniques telles que le massage classique, le massage des fascias et tissus conjonctifs, la réflexologie plantaire, le drainage lymphatique manuel (selon formation spécifique) ainsi que certaines applications thermo - ou électrothérapeutiques.\nVous accompagnez les patients et patientes dans l’atteinte de leurs objectifs de réhabilitation, observez leur évolution clinique et transmettez les informations pertinentes aux membres de l’équipe interdisciplinaire afin de garantir une prise en charge coordonnée et efficiente.\nVous participez à la continuité et à la qualité des prestations en collaborant étroitement avec les physiothérapeutes, les médecins, les soignantes et soignants et les autres professionnels et professionnelles impliquées dans la prise en charge. Vous contribuez également à l’intégration et à l’encadrement des nouveaux et nouvelles collaboratrices, étudiants et étudiantes et stagiaires.\nRigoureuse ou rigoureux et organisé et organisée, vous savez définir les priorités thérapeutiques, gérer votre activité de manière autonome et maintenir une documentation précise dans le dossier patient électronique. Vous faites preuve d’excellentes compétences relationnelles, d’empathie et d’un fort esprit d’équipe.",
     "external_url": "https://jobs.smartrecruiters.com/HUG/744000140842469-masseur-ou-masseuse-medicale-crans-montana-40-?oga=true",
@@ -2955,5 +2941,19 @@
     "description": "The SY-STI-BDE Section oversees the conceptual design, construction, operation, and maintenance of beam-intercepting devices across the CERN's accelerator complex. The beam intercepting devices are precision mechanical equipment working in harsh environments that must be very reliable to guarantee the operation of CERN accelerators.\nAre you passionate about mechanical engineering and skilled at multitasking? Join us and become part of a multidisciplinary team responsible for the design, assembly, installation, and maintenance of beam-intercepting devices. You will support safety-critical systems and an efficient operation of CERN's accelerators.\nYour responsibilities\nParticipate in the purchase, storage and shipment of raw material and components.\nHandle the conditioning of several components to be compliant with the Ultra-High Vacuum (UHV) requirements of collimators.\nPerform the machining of simple parts based on drawings produced with CAD programs.\nBe active on the assembly of collimators and several sub-components and its auxiliary systems.\nParticipate in the assembly of the HL-LHC beam dump systems.\nKeep track and maintain all related documents and databases.\nTake an active role in the installation, commissioning and maintenance of the equipment.\nManage the appropriate disposal/storage of radioactive parts and equipment withdrawn from the facility.\nProvide mechanical and logistics support.\nContribute to mechanical support activities around different facilities at CERN.\nYour profile\nAssembling and testing precision mechanics.\nKnowledge in designing mechanical components.\nSkills\nKnowledge of CAD systems, 3D and 2D drawing.\nGood communication.\nWell-organised.\nAccountability.\nWorking in a team, as well as independently\nSpoken and written English or French, with a commitment to learn the other language.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nBy the application deadline, you have a maximum of two years of professional experience since graduation in Mechanical Engineering (or a related field) and your highest educational qualification is a general secondary education diploma.\nYou have never had a CERN fellow or graduate contract before.\nApplicants with a Bachelor's, Master's or PhD degree are not eligible.",
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000143525469-mechanical-technician-sy-sti-bde-2026-181-grae-?oga=true",
     "status": "matched"
+  },
+  "https://www.michaelpage.ch/fr/job-detail/fiscaliste-sp%C3%A9cialiste-des-personnes-morales/ref/jn-082026-7083991?lang=en": {
+    "external_url": "https://www.michaelpage.ch/fr/job-detail/fiscaliste-sp%C3%A9cialiste-des-personnes-morales/ref/jn-082026-7083991?lang=en",
+    "status": "matched",
+    "title": "Fiscaliste spécialiste des personnes morales",
+    "company": "Michael Page Switzerland",
+    "location": "Switzerland",
+    "posted_date": "",
+    "department": "",
+    "score": -2,
+    "matched_keywords": [],
+    "deducted_keywords": [
+      "location:Switzerland"
+    ]
   }
 }
