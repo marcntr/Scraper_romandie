@@ -9,7 +9,7 @@
     "keywords": "npp"
   },
   "_generic:Charles River Laboratories": {
-    "keywords": "regulatory,spécialiste"
+    "keywords": "regulatory"
   },
   "_generic:MoonLake Immunotherapeutics": {
     "keywords": "clinical development,medical affairs"
@@ -2855,7 +2855,7 @@
   },
   "https://www.michaelpage.ch/de/job-detail/portfolio-manager-international-equities-mwd/ref/jn-062026-7052410?lang=en": {
     "external_url": "https://www.michaelpage.ch/de/job-detail/portfolio-manager-international-equities-mwd/ref/jn-062026-7052410?lang=en",
-    "status": "matched",
+    "status": "ignored",
     "title": "Aktien Portfolio Manager - Internationaler Vermögensverwalter",
     "company": "Michael Page Switzerland",
     "location": "Switzerland",
