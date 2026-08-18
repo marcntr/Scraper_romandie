@@ -974,7 +974,7 @@
     "title": "\"Principal Scientist siRNA Design",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-31",
+    "posted_date": "2026-07-30",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1388,16 +1388,6 @@
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000138581914-experimental-physicist-ep-di-2026-29-ld-?oga=true",
     "status": "matched"
   },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000138626655": {
-    "description": "CERN designs, develops, and operates particle accelerators and experiments for scientific research to understand the fundamental laws of the universe. These activities may generate stray radiation due to the interaction between beams and matter. The radiation detectors installed close to the various beam lines and targets allow CERN to accurately monitor radiation levels. Within the HSE-TS-IMS Section at CERN, the team is responsible for the design and development of this specialised equipment, as well as its installation, commissioning, operation, and maintenance.\nRadiation monitoring is essential to enable CERN to operate its accelerator complex and related experiments while fulfilling its legal obligations to protect the public, people working on the CERN site, and the environment. In this stringent context, the TS-IMS Section is developing a new generation of ASICs to interface ionisation chamber signals with safety-critical monitoring systems, meeting challenging performance and reliability requirements.\nYour responsibilities\nYou will work among a team of engineers and technicians to:\nDesign, simulate, and verify the digital architecture of the next-generation ASIC front-end.\nPrepare RTL designs for tapeout using open-source EDA flows, including floorplanning and physical design preparation.\nSupport post-fabrication bring-up, system characterisation, and functional/performance validation.\nCollaborate closely with analogue, verification, and SoC integration teams to ensure seamless system-level compatibility.\nYour profile\nHands-on experience with open-source ASIC EDA flows (Yosys, OpenROAD, LibreLane, etc.) from RTL to GDSII.\nExperience with floorplanning, constraint definition, and physical design preparation for tapeout.\nPost-tapeout prototype bring-up and hardware debugging experience is advantageous.\nActive contributions to open-source hardware projects or EDA toolchains are advantageous.\nExperience developing SoC submodules is advantageous.\nSkills\nHDL design and simulation in VHDL, Verilog, or SystemVerilog.\nGood team player: collaboration skills across analogue, digital, verification, and SoC teams.\nProficiency in Git, CI/CD pipelines, and automated verification workflows.\nKnowledge of RISC-V architecture.\nFamiliarity with mixed-signal integration and digital interface protocols.\nComfort with Linux-based development environments and scripting for automation (Python, Bash, etc.).\nSpoken and written English, with a commitment to learn French.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nBy the application deadline, you have a maximum of two years of professional experience since graduation in Electronics (or a related field) and your highest educational qualification is either a Bachelor's or Master's degree.\nYou have never had a CERN fellow or graduate contract before.\nApplicants without University degree are not eligible.\nApplicants with a PhD are not eligible.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000138626655-asic-digital-designer-hse-ts-ims-2026-189-grae-?oga=true",
-    "status": "matched"
-  },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000138562720": {
-    "description": "Introduction\nAs a Chemical Safety Engineer, you will join the HSE department, which supports CERN in the implementation and application of its Safety Policy. With the HSE department, you will join the OHS Group, which is in charge of providing advice, monitoring, and following up on the implementation and accomplishment of safety objectives, aimed at a continuous improvement of a safe working environment. Within this group, you will join the General Safety and Equipment Integrity (GI) section.\nYou will be one of the CERN specialists for Chemical Safety, joining a multidisciplinary team of Safety experts.\nFunctions\nProvide advice and support, including for risk assessments, in the Chemical Safety domain.\nPerform safety verifications on installations and activities.\nProvide support in the definition of requirements for the compliant transport of dangerous goods.\nProvide support in safety audits, technical reviews, and projects.\nCheck the conformity to safety requirements of the engineering and tendering specifications.\nWrite CERN Safety documentation including rules, instructions, and guidelines.\nDesign and deliver safety training in collaboration with the CERN Safety Training service.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000138562720-chemical-safety-engineer-hse-ohs-gi-2026-160-ld-?oga=true",
-    "status": "matched"
-  },
   "https://jobs.ashbyhq.com/benchling/a3aa0c06-baee-4ef1-9eae-6eb44b48446e": {
     "description": "We are rebuilding biotech for the AI era.\n\nWhen a breakthrough is delayed, the world waits. Getting a molecule from discovery to patients, or a crop from lab to field, involves thousands of slow, manual, disconnected steps. AI has the potential to change this, compressing decades of R&D work into years. But that only happens when clean, structured scientific data and AI are built into how science gets done.\n\nBenchling is the AI platform for biotech R&D. Scientists use Benchling to design experiments, capture structured data, and run AI agents and models directly in their workflows. Over 200,000 scientists around the world trust Benchling to power their most important work, from academic labs to Sanofi, Moderna, and more than half of the world's top 50 biopharma.\n\nWe’re building an AI scientist for our customers. We can’t do that if we haven’t built the muscle ourselves. AI fluency is the foundation we build on; it's core to how we work, and we're committed to helping every new hire integrate it into their day-to-day. As part of our interview process, you'll complete a brief AI-focused exercise or discussion so we can understand how you think about and use AI to drive impact in your role. Feel free to reference any tools, platforms, or workflows you use today.\n\n\n\n\n\n\nROLE OVERVIEW\n\nBenchling is building a world-class Professional Services team to drive implementations for our rapidly expanding customer base. Implementation Managers work with our customers, from small Biotech startups to the largest BioPharmas in the world to develop a deep understanding of their R&D Processes, and roll out solutions that transform how their research teams work together.\n\n\nTo be successful in this role, you will leverage your scientific background, project management skills, and product expertise to drive successful implementations of the Benchling platform. You will work hand in hand with the research scientists at our customers, and teams throughout Benchling to implement our solutions, and ensure our customers are successful. Implementation Managers lead all aspects of customer rollouts from requirements analysis and solution design, to configurations, testing, training, and onboarding users onto the system.\n\n\n\nYou are fluent or native proficiency in French and have experience working with French speaking customers.\n\n\n\nRESPONSIBILITIES\n\n - Manage initial rollouts for new Benchling customers as well as expansion projects with new teams or for new processes at existing customers\n\n - Own implementation success from project kickoff to go-live, leveraging strong project management skills, scientific expertise, and deep product knowledge.\n\n - Build and execute detailed project plans, own project activities, work with other team members to execute on project deliverables to ensure on time, on budget, high quality deployments.\n\n - Understand customers' scientific workflows and determine how Benchling can best be leveraged to meet their key business needs.\n\n - Lead requirements and design workshops, perform data modeling & application configuration, develop test plans and guide UAT execution, train and onboard users.\n\n - Act as a trusted advisor for customers, guiding them through the implementation ensuring they leverage and apply Benchling Best Practices.\n\n - Understand and document customer pain points, advocate for them internally to influence product changes.\n\n - Identify and work with sales on opportunities for account expansion post go-live.\n\n\n\n\nQUALIFICATIONS\n\n - MS or Ph.D. in Molecular Biology, Biochemistry, Biotechnology, Immunology, Bioinformatics, Biological Engineering or a related field.\n\n - At least 2 years of experience in a lab or R&D setting, ideally in antibody discovery or strain engineering or process development. You must be able to empathize with scientists and quickly understand complicated scientific concepts.\n\n - Software Implementation experience, preferably with a SaaS software company.\n\n - Strong communication skills. You must be able to quickly and effectively connect with a range of stakeholders, including scientists, IT project leads, and executives.\n\n - Self-starter with the ability to be successful in a startup environment.\n\n - Curious, creative, and tenacious. You should be excited to collaborate with customers and other Benchling teammates as a thought partner.\n\n - Ability to travel up to 25% based on customer and project needs.\n\n - Experience using Benchling, especially if you’ve been a Benchling administrator, is preferred but not required.\n\n - Fluent or native proficiency in French\n\nBenchling welcomes everyone.\n\nWe believe diversity enriches our team so we hire people with a wide range of identities, backgrounds, and experiences.\n\nWe are an equal opportunity employer. That means we don’t discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. We also consider for employment qualified applicants with arrest and conviction records, consistent with applicable federal, state and local law, including but not limited to the San Francisco Fair Chance Ordinance.",
     "external_url": "https://jobs.ashbyhq.com/benchling/a3aa0c06-baee-4ef1-9eae-6eb44b48446e",
@@ -1434,7 +1424,7 @@
     "title": "Scientist Synthesis Automation",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-23",
+    "posted_date": "2026-07-22",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1494,7 +1484,7 @@
     "title": "Cardio-Renal Discovery Area Leader - Expert Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-25",
+    "posted_date": "2026-07-24",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -1520,7 +1510,7 @@
     "title": "Director, Medical Affairs, Hemato-Oncology, Europe",
     "company": "BeiGene",
     "location": "Basel",
-    "posted_date": "2026-07-25",
+    "posted_date": "2026-07-24",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1542,7 +1532,7 @@
     "title": "Portfolio Strategy & Delivery Lead, Data Insight Technology",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-25",
+    "posted_date": "2026-07-24",
     "department": "",
     "score": -1,
     "matched_keywords": [
@@ -1564,7 +1554,7 @@
     "title": "RiSM Internship for students in Computer Science, Software Engineering, Data Science or Bioinformatics (Basel, 9-12 months)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-28",
+    "posted_date": "2026-07-27",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1579,7 +1569,7 @@
     "title": "RiSM Internship for students in Pharmaceutical Sciences, Pharmaceutical Technology, Data Sciences, Cheminformatics or Chemistry (Basel, 6 months)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-28",
+    "posted_date": "2026-07-27",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1652,7 +1642,7 @@
     "title": "Senior Scientist microbiological Quality Control",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-07-31",
+    "posted_date": "2026-07-30",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -1752,7 +1742,7 @@
     "title": "Senior Expert / Senior Principal PKS Data Scientist & Scientific Software Engineer (Dual level posting)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-07",
+    "posted_date": "2026-08-06",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -1866,7 +1856,7 @@
     "title": "Internship in the PD Medical Affairs Nucleus Team - Service Solutions & Innovation (SSI) - as of 1 January 2027 for 12 months in Basel",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-04",
+    "posted_date": "2026-08-03",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1886,7 +1876,7 @@
     "title": "Senior Regulatory Group Director",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-04",
+    "posted_date": "2026-08-03",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1931,7 +1921,7 @@
     "title": "Principal Scientist, Respiratory Discovery",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-05",
+    "posted_date": "2026-08-04",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -1955,7 +1945,7 @@
     "title": "Scientist, Cell Engineering and Phenotypic Screening Models",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-05",
+    "posted_date": "2026-08-04",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -1981,7 +1971,7 @@
     "title": "Senior Principal Scientist/Associate Director Clinical PBPK  (Dual Level Posting)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-05",
+    "posted_date": "2026-08-04",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -2030,7 +2020,7 @@
     "title": "Associate Principal Scientist Extractables & Leachables 80-100%",
     "company": "Lonza",
     "location": "CH - Basel",
-    "posted_date": "2026-08-06",
+    "posted_date": "2026-08-05",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2199,7 +2189,7 @@
     "title": "Executive Director, Regional Medical Lead - Solid Tumors, Medical Affairs, Europe",
     "company": "BeiGene",
     "location": "Basel",
-    "posted_date": "2026-08-08",
+    "posted_date": "2026-08-07",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2274,7 +2264,7 @@
     "title": "AI Scientist – Image Analysis & Digital Pathology",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-11",
+    "posted_date": "2026-08-10",
     "department": "",
     "score": 8,
     "matched_keywords": [
@@ -2296,7 +2286,7 @@
     "title": "AI Scientist – AI-Driven Target Identification",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-11",
+    "posted_date": "2026-08-10",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -2320,7 +2310,7 @@
     "title": "Project Scientist Phys-Chem Quality Control 80-100%",
     "company": "Lonza",
     "location": "CH - Basel",
-    "posted_date": "2026-08-11",
+    "posted_date": "2026-08-10",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2340,7 +2330,7 @@
     "title": "Application Development Scientist – Reagents (12 months fixed-term contract)",
     "company": "Bio-Techne / Lunaphore",
     "location": "Tolochenaz, Switzerland",
-    "posted_date": "2026-08-12",
+    "posted_date": "2026-08-11",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2359,7 +2349,7 @@
     "title": "Senior Principal Scientist / Associate Director– Soluble Biomarkers, Molecular & Cellular Sciences (MCS)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-12",
+    "posted_date": "2026-08-11",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -2385,7 +2375,7 @@
     "title": "Internship in the Product Development Medical Affairs Nucleus Team from 01.01.2027, 12 months",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-12",
+    "posted_date": "2026-08-11",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2528,7 +2518,7 @@
     "title": "Associate Scientist / Senior Laboratory Specialist",
     "company": "CSL Behring / Vifor",
     "location": "EMEA, CH, Kanton Bern, Bern, CSL Behring",
-    "posted_date": "2026-08-13",
+    "posted_date": "2026-08-12",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2758,22 +2748,6 @@
       "clinical operations"
     ]
   },
-  "https://careers.ompharma.com/job/Meyrin-MSAT-Senior-Scientist-Geneva-Gene/1399891533/": {
-    "description": "We are recruiting a Manufacturing Science and Technology (MSAT) Senior Scientist at our headquarters and biotech production site in Geneva. Reporting to the Head of MSAT, as part of a team of five and working cross-functionally with a strong presence in the field (production zone), your mission encompasses the development, optimization and continuous improvement of drug product processes and formulations, with a particular focus on lyophilization, encapsulation, dry granulation and intranasal delivery technologies.\n\nYour main responsibilities are as follows:\n\nLead development and industrialization of new pharmaceutical products, from formulation and process design to scale-up and validation\n\nDefine development strategies including QTPP, risk assessments, technical requirements, timelines and budgets\n\nProvide expertise in galenics, formulation, pharmaceutical processes and technology transfer, including CDMO interactions when needed\n\nDrive optimization of existing manufacturing processes to improve performance, robustness and compliance\n\nAct as technical expert for troubleshooting, root cause analysis, CAPA implementation and continuous improvement initiatives\n\nDefine Critical Process Parameters (CPPs), Critical Quality Attributes (CQAs) and lead process risk assessments in cross-functional teams\n\nManage MSAT Pharma Laboratory activities (equipment qualification, stock management, laboratory support)\n\nPlan and execute development trials with internal stakeholders (Manufacturing, Quality, Validation, Regulatory CMC), ensuring robust documentation and data analysis\n\nEnsure full traceability and compliance of development activities in line with GxP requirements\n\nContribute to regulatory documentation (e.g. CTD modules) in collaboration with Regulatory CMC\n\nBusiness travel is required for this position for punctual topics (maximum 5% of working time).\n\nTo carry out this mission, we are looking for a person with the following profile:\n\nMaster’s degree in Pharmaceutical Sciences, Biotechnology or equivalent\n\nAt least 8 years of experience related to pharmaceutical process development, formulation development and industrial transposition, with strong expertise in galenics and pharmaceutics\n\nProven experience in project management in a cross-functional and GxP environment; experience with regulatory activities is an asset\n\nFluent in French with good English skills\n\nProficiency in MS Office, with experience using ERP systems (Sage X3 preferred)\n\n \n\nTo succeed in this role, we are looking for a hands-on, pragmatic and innovation-driven scientist, combining strong technical expertise with a solid business and production mindset. You demonstrate natural leadership, strong communication skills and the ability to collaborate effectively with diverse stakeholders. Entrepreneurial and creative, you continuously seek improvement opportunities and actively contribute to shaping better, more efficient processes. You are solution-oriented, structured, and committed to delivering high-quality results in a dynamic environment.\n\nAre you interested in this opportunity? Apply as soon as possible and join OM Pharma!\n\n \n\n \nAbout Us\n\nOM Pharma is a global Geneva-based biopharmaceutical company. It is a leader in the prevention of recurrent respiratory and urinary tract infections and is also active in the treatment of vascular diseases.\n\nIt operates worldwide through a strong network of international partners and invests its profits in R&D to develop microbial derived immunotherapeutic products to treat acute and chronic immunological disorders resulting from inflammation and infections. \n\nThe company strives to improve the quality of life of patients around the world by providing access to better treatment of immunological imbalances.\n\nFor more information, visit the website: ompharma.com.",
-    "external_url": "https://careers.ompharma.com/job/Meyrin-MSAT-Senior-Scientist-Geneva-Gene/1399891533/",
-    "status": "ignored",
-    "title": "MSAT Senior Scientist - Geneva",
-    "company": "OM Pharma",
-    "location": "Meyrin, Geneva, CH",
-    "posted_date": "",
-    "department": "",
-    "score": 5,
-    "matched_keywords": [
-      "French",
-      "location:geneva"
-    ],
-    "deducted_keywords": []
-  },
   "https://careers.ompharma.com/job/Meyrin-Business-Development-Intern-Geneva-Gene/1422903033/": {
     "description": "OM Pharma is an international biopharmaceutical company specializing in the prevention of respiratory and urinary tract infections. As a committed local player, we train and support the talents of tomorrow through meaningful and educational internships.\n\nIn this context, we are offering a paid 4 to 6-month internship, ideally starting in September 2026 (or as agreed), based at our headquarters in Meyrin. Under the guidance of the Head of Business Development & Alliance Management and in close collaboration with the regional commercial, business insights and finance teams, your mission is to support the identification and assessment of business development opportunities for OM Pharma's brand portfolio worldwide.\n\nYour main responsibilities are as follows:\n\nSupport the team in identifying and evaluating potential partners for OM Pharma's portfolio across international markets\n\nContribute to the evaluation and comparison of potential partners' business cases through commercial and financial analyses\n\nDevelop sales forecasts incorporating historical sales trends, market price evolution, exchange rate assumptions and supply cost parameters\n\nParticipate in discussions with prospective partners and contribute to the preparation of meeting materials and minutes\n\nCoordinate the preparation and execution of confidentiality agreements and support the exchange of information throughout assessment processes\n\nCollaborate closely with regional commercial, business insights and finance teams to gather and validate key business assumptions\n\nPrepare structured analyses and clear recommendations to support decision-making by management and key stakeholders\n\nContribute to the continuous improvement of business development assessment tools and processes\n\nTo carry out these activities, we are looking for a person with the following profile:\n\nCurrently pursuing a Master’s degree in Business Administration, Economics, Finance, or a related field, which includes a mandatory 4 to 6-month internship formalized through a tripartite agreement with your university\n\nStrong analytical skills with an interest in business development and international markets\n\nStrong command of Excel, including advanced functions and data modelling, as well as PowerPoint for the preparation of impactful presentations\n\nFluent in English, preferably with a good working knowledge of French\n\nThis internship will enable you to:\n\nGain hands-on experience in international business development and strategic partnership activities within the pharmaceutical industry\n\nDevelop strong analytical skills and strengthen your ability to synthesize complex information and formulate clear, data-driven recommendations to support strategic decision-making\n\nCollaborate with cross-functional teams, including regional commercial, business insights and finance colleagues, and interact with external partners worldwide\n\nBring your ideas to life in a collaborative and supportive environment that values creativity, initiative and continuous improvement\n\nLearn from a team of experts who will share their knowledge and support your professional growth\n\nYou are an analytical, proactive and detail-oriented individual. After receiving initial guidance, you are able to work independently, take ownership of your tasks and drive them forward with rigor and efficiency. You enjoy working with data and presenting your findings in a clear and structured manner. With excellent interpersonal skills, you are comfortable interacting with multiple stakeholders in a multicultural environment and thrive in a collaborative setting.\n\nIf you are looking for an internship where you can develop your business acumen, analytical capabilities and strategic thinking while contributing to the growth of a pharmaceutical company with international ambitions, this opportunity is for you. We look forward to receiving your application and getting to know you!\n\nIMPORTANT: This internship is only open to students whose academic programme requires a mandatory internship as part of the degree curriculum. Candidates must be able to provide a valid tripartite internship agreement, and the internship duration must meet the minimum requirements set by their educational institution.\n\n \nAbout Us\n\nOM Pharma is a global Geneva-based biopharmaceutical company. It is a leader in the prevention of recurrent respiratory and urinary tract infections and is also active in the treatment of vascular diseases.\n\nIt operates worldwide through a strong network of international partners and invests its profits in R&D to develop microbial derived immunotherapeutic products to treat acute and chronic immunological disorders resulting from inflammation and infections. \n\nThe company strives to improve the quality of life of patients around the world by providing access to better treatment of immunological imbalances.\n\nFor more information, visit the website: ompharma.com.",
     "external_url": "https://careers.ompharma.com/job/Meyrin-Business-Development-Intern-Geneva-Gene/1422903033/",
@@ -2817,7 +2791,7 @@
     "title": "Principal Scientist - Mid/Large Scale Oligonucleotide Synthesis, xRNA Therapeutics",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-18",
+    "posted_date": "",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -2859,7 +2833,7 @@
   },
   "https://www.michaelpage.ch/job-detail/fund-portfolio-coordinator-9-months/ref/jn-042026-6999523": {
     "external_url": "https://www.michaelpage.ch/job-detail/fund-portfolio-coordinator-9-months/ref/jn-042026-6999523",
-    "status": "matched",
+    "status": "ignored",
     "title": "Fund Portfolio Coordinator for 9 months",
     "company": "Michael Page Switzerland",
     "location": "Switzerland",
@@ -2870,5 +2844,50 @@
     "deducted_keywords": [
       "location:Switzerland"
     ]
+  },
+  "https://api.smartrecruiters.com/v1/companies/AbbVie/postings/3743990014639936": {
+    "description": "Job summary:\nThe (Senior) Market Access Value Proposition Manager (Market Access Manager) ensures customized value propositions to Payers, Regulators, Providers and Health insurers, including clinical, economic and political arguments in order to grant Access for patients to companies products.\nKey responsibilities:\nProvide customized value proposition to internal and external stakeholders\nBe an active part within Brand teams and identify opportunities to work collaboratively with cross-functional colleagues to deliver on Brand objectives.\nBe the link between Business Unit Directors, Sales, Finance, Governmental Affairs and Market Access\nCustomize technical data into simple compelling messages in the format required and appropriate for local stakeholders\nDefine Value Propositions by consolidating core value dossiers, stakeholder needs, local environment and Brand priorities\nPropose to Brand teams and provide training of analysis, tools, evidence, actions and programs to support and communicate the value propositions\nMonitor changes and competitive situation in the environment in order to anticipate risks and opportunities for Market Access in collaboration with Governmental affairs\nDevelop pricing scenarios, strategies and monitor prices together with Market Access Director\nPrepare submissions, objections handling and negotiation with authorities\nAttend field visits together with the key account managers with customers\nAttend congresses and networking events\nProvide Q&A for the Regional team",
+    "external_url": "https://jobs.smartrecruiters.com/AbbVie/3743990014639936--senior-market-access-value-proposition-manager?oga=true",
+    "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/AbbVie/postings/3743990014639895": {
+    "description": "Job summary:\nThe (Senior) Market Access Value Proposition Manager (Market Access Manager) ensures customized value propositions to Payers, Regulators, Providers and Health insurers, including clinical, economic and political arguments in order to grant Access for patients to companies products.\nKey responsibilities:\nProvide customized value proposition to internal and external stakeholders\nBe an active part within Brand teams and identify opportunities to work collaboratively with cross-functional colleagues to deliver on Brand objectives.\nBe the link between Business Unit Directors, Sales, Finance, Governmental Affairs and Market Access\nCustomize technical data into simple compelling messages in the format required and appropriate for local stakeholders\nDefine Value Propositions by consolidating core value dossiers, stakeholder needs, local environment and Brand priorities\nPropose to Brand teams and provide training of analysis, tools, evidence, actions and programs to support and communicate the value propositions\nMonitor changes and competitive situation in the environment in order to anticipate risks and opportunities for Market Access in collaboration with Governmental affairs\nDevelop pricing scenarios, strategies and monitor prices together with Market Access Director\nPrepare submissions, objections handling and negotiation with authorities\nAttend field visits together with the key account managers with customers\nAttend congresses and networking events\nProvide Q&A for the Regional team",
+    "external_url": "https://jobs.smartrecruiters.com/AbbVie/3743990014639895--senior-market-access-value-proposition-manager?oga=true",
+    "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000144025559": {
+    "description": "En votre qualité de Médecin adjoint ou adjointe à l'unité de médecine de la reproduction et d'endocrinologie gynécologique vous évoluez dans une activité de consultation ambulatoire dans les domaines suivants:\nMédecine de la reproduction et préservation de la fertilité,\n\nEndocrinologie gynécologie et ménopause,\n\nImagerie gynécologique (bilans d'infertilité, échographies spécialisées, hystéroscopies diagnostiques).\nVotre mission est d'organiser, superviser et développer l'activité diagnostique (échographie et hystéroscopie) de l'unité, ainsi que de développer les collaborations multidisciplinaires (centre de l'endométriose, collaboration avec les radiologues), l'enseignement et la recherche dans le domaine.\nVous participez à l'enseignement pré-gradué et post-gradué, ainsi qu'aux projets de recherche de l'unité.\nVous prenez part gardes du département de gynécologie et d'obstétrique et aux piquets de médecine de la reproduction.",
+    "external_url": "https://jobs.smartrecruiters.com/HUG/744000144025559-medecin-adjointe-ou-adjoint-a-l-unite-de-medecine-de-la-reproduction-et-d-endocrinologie-gynecologique-100-?oga=true",
+    "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000143997206": {
+    "description": "Les neuropsychologues du service de neurorééducation réalisent des évaluations diagnostiques approfondies et mettent en œuvre des interventions de rééducation individualisées, fondées sur les meilleures données scientifiques disponibles. Ils exercent au sein d’une équipe pluridisciplinaire hautement spécialisée, dans un environnement favorisant l’innovation clinique, la collaboration et le développement professionnel continu.\nDans le cadre de votre activité, vous fournissez des prestations de rééducation neuropsychologique à des patientes et patients cérébrolésés par le biais d’une prise en charge interdisciplinaire ambulatoire en hôpital de jour (site de Beau-Séjour).\nUne activité hospitalière, sur le site de Bellerive, pourrait aussi avoir lieu. \nVous participez également à des activités d’enseignement et de recherche en lien avec les intérêts du service.",
+    "external_url": "https://jobs.smartrecruiters.com/HUG/744000143997206-neuropsychologue-en-neuroreeducation-100-?oga=true",
+    "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000143998159": {
+    "description": "Vous occupez un poste de diététicien ou diététicienne transverse et intervenez en remplacement de vos collègues au sein des Départements de Réadaptation et Gériatrie, de Psychiatrie et des Neurosciences cliniques, sur l’ensemble des sites externes des HUG. Dans ce cadre, vous assurez le suivi nutritionnel des patientes et des patients sous la supervision de la diététicienne responsable d’équipe.\nEn qualité de diététicienne ou diététicien, votre mission est de permettre aux patientes et patients d'entretenir, de récupérer ou d'améliorer leurs capacités fonctionnelles et leur qualité de vie en tenant compte des aspects éthiques et déontologiques.\nVous appliquez l’Evidence Based Practice (EBP) et effectuez vos prises en charge selon les critères du processus de soins nutritionnel.\nVous êtes responsable d’une documentation rigoureuse et régulière des dossiers patients.\nVous êtes actif dans la prévention de la malnutrition protéino-énergétique hospitalière.\nVous assistez et participez aux colloques interdisciplinaires et collaborez à la formation des étudiantes, étudiants et des professionnels et professionnelles de la santé.",
+    "external_url": "https://jobs.smartrecruiters.com/HUG/744000143998159-dieteticien-ou-dieteticienne-100-?oga=true",
+    "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000143995165": {
+    "description": "Vous êtes en cours de formation à la psychothérapie ou vous allez commencer votre formation à la psychothérapie et vous souhaitez faire l’expérience du travail clinique en intra-hospitalier au sein de l’Unité d’hospitalisation du service de psychiatrie de l'enfant et de l'adolescent (SPEA).\nDans l’intra-hospitalier, vous assurez des suivis de familles d’enfants et d’adolescents hospitalisés, vous participez à l’élaboration des projets de soins, aux réunions d’équipe et aux synthèses interdisciplinaires, en collaboration étroite avec les chef.fes de cliniques, les médecins internes et avec l’équipe infirmière.",
+    "external_url": "https://jobs.smartrecruiters.com/HUG/744000143995165-psychologue-a-l-unite-d-hospitalisation-du-service-de-psychiatrie-de-l-enfant-et-de-l-adolescent-60-?oga=true",
+    "status": "matched"
+  },
+  "https://careers.ompharma.com/job/Meyrin-Sp%C3%A9cialiste-Qualification-&-CSV-%2890%29-Gen%C3%A8ve-Gene/1427264033/": {
+    "description": "Afin d’accompagner notre croissance, nous créons un nouveau poste de Spécialiste Qualification des équipements/utilités & Validation des Systèmes Informatisés (CSV), basé à notre siège et site de production biotechnologique de Meyrin. Sous la responsabilité du Team Leader Qualification, vous intervenez au sein des équipes Qualification et CSV, en jouant un rôle clé à l’interface de ces deux fonctions. Dans ce poste, votre mission consiste à contribuer à la validation et à la qualification des systèmes informatisés, des équipements et des utilités, en garantissant leur conformité, l’intégrité des données et leur état de préparation aux inspections, tout en soutenant les initiatives d’amélioration continue.\n\nVos principales responsabilités sont les suivantes :\n\nRéaliser les activités de qualification et de validation des équipements, des utilités et des systèmes informatisés tout au long de leur cycle de vie\n\nÉlaborer, tenir à jour, revoir et archiver la documentation de qualification et de validation dans le respect des BPF et des exigences d’intégrité des données\n\nGarantir la conformité des systèmes et l’intégrité des données tout au long de leur cycle de vie\n\nAgir en tant qu’expert métier (SME) et apporter un soutien dans le cadre des Change Controls, des déviations et des CAPA, en contribuant à l’amélioration continue des processus\n\nContribuer aux audits internes et externes ainsi qu’aux inspections réglementaires en préparant, présentant et défendant la documentation de validation et de qualification\n\nCollaborer étroitement avec les équipes transverses et les différentes parties prenantes afin d’assurer la réalisation des projets et des activités opérationnelles dans les délais et dans le respect des exigences de conformité\n\nVeiller à l’application du processus de gestion des accès aux systèmes\n\nPour mener à bien cette mission, nous recherchons une personne avec le profil suivant :\n\nFormation technique supérieure (ES, HES ou équivalent) en biotechnologies, chimie, sciences de la vie, ou dans un domaine scientifique apparenté\n\nAu moins 3 à 5 ans d’expérience dans des activités de qualification au sein de l’industrie pharmaceutique, idéalement avec une expertise en CSV\n\nSolide connaissance des exigences et référentiels pharmaceutiques (GMP, 21 CFR Part 11, Annexe 11 des GMP européennes, GAMP 5)\n\nDe langue maternelle française avec une bonne maîtrise professionnelle de l’anglais, à l’écrit comme à l’oral\n\nUne expérience pratique des systèmes d’automatisation et SCADA (iFIX, Wonderware, WinCC, Winprogress) constitue un atout\n\nD’un naturel proactif et pragmatique, vous appréciez le travail en équipe et faites preuve d’un esprit entrepreneurial. Votre curiosité, votre flexibilité et votre polyvalence vous permettent d’intervenir sur une grande variété de sujets techniques et de développer continuellement votre expertise. Vous vous épanouissez dans un environnement collaboratif, construisez de solides relations transverses et abordez les défis avec pragmatisme et dans une logique de solutions.\n\nRejoignez OM Pharma et contribuez à créer un environnement fiable et conforme, essentiel à la réalisation de notre mission : améliorer la vie des patients. Postulez dès aujourd’hui et apportez une réelle contribution !\n\nAbout Us\n\nOM Pharma is a global Geneva-based biopharmaceutical company. It is a leader in the prevention of recurrent respiratory and urinary tract infections and is also active in the treatment of vascular diseases.\n\nIt operates worldwide through a strong network of international partners and invests its profits in R&D to develop microbial derived immunotherapeutic products to treat acute and chronic immunological disorders resulting from inflammation and infections. \n\nThe company strives to improve the quality of life of patients around the world by providing access to better treatment of immunological imbalances.\n\nFor more information, visit the website: ompharma.com.",
+    "external_url": "https://careers.ompharma.com/job/Meyrin-Sp%C3%A9cialiste-Qualification-&-CSV-%2890%29-Gen%C3%A8ve-Gene/1427264033/",
+    "status": "matched",
+    "title": "Spécialiste Qualification & CSV (90%) - Genève",
+    "company": "OM Pharma",
+    "location": "Meyrin, Geneva, CH",
+    "posted_date": "",
+    "department": "",
+    "score": 4,
+    "matched_keywords": [
+      "location:geneva"
+    ],
+    "deducted_keywords": []
   }
 }
