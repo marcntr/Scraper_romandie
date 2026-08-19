@@ -650,7 +650,8 @@
     "https://careers.ompharma.com/job/Meyrin-Business-Development-Intern-Geneva-Gene/1422903033/": "ignored",
     "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Basel-City/Principal-Scientist---Mid-Large-Scale-Oligonucleotide-Synthesis--xRNA-Therapeutics_REQ-10084190-1": "ignored",
     "https://jobs.smartrecruiters.com/CERN/744000138061224-authorisation-and-regulatory-processes-specialist-for-fcc-project-sr-se-2026-156-ld-?oga=true": "ignored",
-    "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Translational-Medicine-Scientist_202606-115450": "ignored"
+    "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Translational-Medicine-Scientist_202606-115450": "ignored",
+    "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Portfolio-Strategy---Delivery-Lead--Data-Insight-Technology_202606-116913-2": "ignored"
   },
   "_generic:Hurdle Bio": {
     "keywords": "npp"
@@ -2403,20 +2404,6 @@
     "external_url": "https://www.michaelpage.ch/de/job-detail/sales-consultant-business-development-manager-mwd/ref/jn-072026-7057195?lang=en",
     "status": "ignored",
     "title": "(Senior) Sales Consultant / Business Development Manager (m/w/d)",
-    "company": "Michael Page Switzerland",
-    "location": "Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": -2,
-    "matched_keywords": [],
-    "deducted_keywords": [
-      "location:Switzerland"
-    ]
-  },
-  "https://www.michaelpage.ch/fr/job-detail/sp%C3%A9cialiste-sap-basis-lausanne/ref/jn-072026-7068151?lang=en": {
-    "external_url": "https://www.michaelpage.ch/fr/job-detail/sp%C3%A9cialiste-sap-basis-lausanne/ref/jn-072026-7068151?lang=en",
-    "status": "matched",
-    "title": "Spécialiste SAP Basis - Lausanne",
     "company": "Michael Page Switzerland",
     "location": "Switzerland",
     "posted_date": "",
