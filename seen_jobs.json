@@ -2856,5 +2856,19 @@
       "translational medicine"
     ],
     "deducted_keywords": []
+  },
+  "https://www.michaelpage.ch/fr/job-detail/sp%C3%A9cialiste-sap-basis-lausanne/ref/jn-072026-7068151?lang=en": {
+    "external_url": "https://www.michaelpage.ch/fr/job-detail/sp%C3%A9cialiste-sap-basis-lausanne/ref/jn-072026-7068151?lang=en",
+    "status": "matched",
+    "title": "Spécialiste SAP Basis - Lausanne",
+    "company": "Michael Page Switzerland",
+    "location": "Switzerland",
+    "posted_date": "",
+    "department": "",
+    "score": -2,
+    "matched_keywords": [],
+    "deducted_keywords": [
+      "location:Switzerland"
+    ]
   }
 }
