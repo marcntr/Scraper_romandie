@@ -9,7 +9,7 @@
     "keywords": "npp"
   },
   "_generic:Charles River Laboratories": {
-    "keywords": "regulatory,scientist"
+    "keywords": "regulatory"
   },
   "_generic:MoonLake Immunotherapeutics": {
     "keywords": "clinical development,medical affairs"
@@ -915,7 +915,7 @@
     "title": "\"Principal Scientist siRNA Design",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-31",
+    "posted_date": "2026-07-30",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1360,7 +1360,7 @@
     "title": "Scientist Synthesis Automation",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-23",
+    "posted_date": "2026-07-22",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1371,16 +1371,6 @@
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000139265761": {
     "description": "Come and join the cryogenics maintenance team within the Technology Department (TE), specifically within the Maintenance Methods and Logistics section. We're offering a unique opportunity to work and contribute to the preparation of the next maintenance technical shutdown and integration of new major assets in the maintenance systems.\nCERN is the world's largest particle physics laboratory and its flagship accelerator, the Large Hadron Collider, depends on having an unrivalled set of cryogenic systems on hand to guarantee reliable operation.\nTypical cryogenic systems comprise compressors, heat exchangers, valves, instrumentation, vacuum pumps, controls and various test benches for cables, magnets and RF cavities. Process gas purity is essential.\nThe experience you will gain as a member of the cryogenics maintenance team could not be acquired anywhere else, teaching you to work autonomously and address maintenance solution to large and complex systems. Be part of a team overseeing the organisation of Long Shutdown 3 for the cryogenics infrastructure and provide your input.\nYour responsibilities:\nCollecting and consolidating maintenance data within the Computerised Maintenance Management System (CMMS) - Supporting the preparation and coordination of maintenance activities on-site.\nRolling out new maintenance methodologies in collaboration with field technicians.\nEnhancing work instructions, checklists, and quality assurance procedures used by contractors.\nContributing to the implementation of maintenance policies and best practices for new cryogenic assets as part of the HL-LHC (High-Luminosity Large Hadron Collider) project.\nTake this opportunity to work on one of the most advanced cryogenic systems in the world and make your mark on a project of global scientific importance.\nMore information here: https://te-dep-crg-ml.web.cern.ch/\nYour profile:\nBasic mechanical and electrical skills.\nExperience using Computerised Maintenance Management System (CMMS).\nKnowledge of cryogenics fundamentals or oil and gas systems would be an advantage.\nAbility to read technical drawings.\nUnderstanding of maintenance documentation.\nDemonstrated teamwork, safety awareness, and problem-solving.\nSkills:\nGood teamwork and communication skills.\nStrong safety awareness and willingness to follow established procedures.\nMotivation to learn and develop new technical competencies.\nSpoken and written English or French, with a commitment to learn the other language.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nBy the application deadline, you have a maximum of two years of professional experience since graduation in Mechanical Engineering (or a related field) and your highest educational qualification is a general secondary education diploma.\nYou have never had a CERN fellow or graduate contract before.\nApplicants with a Bachelor's, Master's or PhD degree are not eligible.",
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000139265761-maintenance-support-technician-te-crg-ml-2026-194-grae-?oga=true",
-    "status": "matched"
-  },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000139206699": {
-    "description": "Introduction:\nWithin the CERN Engineering department (EN), the Cooling and Ventilation (EN-CV) group is responsible for the design, the building, the operation, and the maintenance of the cooling and ventilation plants for large energy physics accelerators, experiments, and technical facilities. The EN-CV group pursues sustainable cooling and ventilation systems enhancing energy saving and recovery.\n\nYou will join the Project Section (EN-CV-PJ), which is in charge of coordination and management of cooling and ventilation projects for installation of new systems, upgrade of existing systems and consolidation of old systems both for CERN accelerators and experiments. \n\nThe section is responsible for entire project cycles, starting from collecting user requirements to the final commissioning of cooling and ventilation systems.\nFunctions:\nPursue and define user requirements from main stakeholders.\nPerform feasibility studies and detailed designs of industrial cooling and HVAC systems, including sizing and cost estimates for the proposed solutions.\nWrite up technical reports and notes.\nDraw up technical specifications and all relevant documents, follow up the tendering process up to the adjudication of future contracts.\nFollow up and regularly report on the project's progress.\nEnsure technical coordination and supervision of contractors.\nMonitor cost and schedule up to the commissioning and formal acceptance of the systems.\nSupport operation teams in the troubleshooting and process improvement of existing plants.\nActively contribute to the development and improvement of the internal procedures, technical prescriptions, and standardisation of the technical solutions.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000139206699-cooling-and-ventilation-engineer-en-cv-pj-2026-162-ld-?oga=true",
-    "status": "matched"
-  },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000139539249": {
-    "description": "Introduction:\nYou will support the integration and commissioning of services and infrastructure for the CMS Tracker construction at CERN, with a focus on the preparation and validation of services, as well as the reception testing of components and detector assemblies. The role also includes the setup and operation of test electronics for the commissioning of detector services and the functional testing of detector components and assemblies.\nFunctions:\nPrepare and support the installation and commissioning of services and infrastructure for large detector assemblies (e.g. cables, racks and test setups).\nSet up and operate test electronics and commissioning setups (e.g. interlocks, sensor interfaces and thermal test configurations).\nPerform reception testing of detector substructures and components, including power distribution hardware delivered to CERN.\nValidate integrated electrical services (power, signal and grounding interfaces) installed on detector assemblies and troubleshoot issues during construction.\nMaintain traceability by updating the production database with acceptance test reports and installation data.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000139539249-electronics-technician-ep-cms-id-2026-147-ld-?oga=true",
     "status": "matched"
   },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000139582015": {
@@ -1415,7 +1405,7 @@
     "title": "Cardio-Renal Discovery Area Leader - Expert Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-25",
+    "posted_date": "2026-07-24",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -1441,7 +1431,7 @@
     "title": "Director, Medical Affairs, Hemato-Oncology, Europe",
     "company": "BeiGene",
     "location": "Basel",
-    "posted_date": "2026-07-25",
+    "posted_date": "2026-07-24",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1468,7 +1458,7 @@
     "title": "RiSM Internship for students in Computer Science, Software Engineering, Data Science or Bioinformatics (Basel, 9-12 months)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-28",
+    "posted_date": "2026-07-27",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1483,7 +1473,7 @@
     "title": "RiSM Internship for students in Pharmaceutical Sciences, Pharmaceutical Technology, Data Sciences, Cheminformatics or Chemistry (Basel, 6 months)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-28",
+    "posted_date": "2026-07-27",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1514,16 +1504,6 @@
     "external_url": "https://jobs.smartrecruiters.com/HUG/744000140164259-psychomotricien-ou-psychomotricienne-au-service-de-psychiatrie-de-l-enfant-et-de-l-adolescent-50-?oga=true",
     "status": "matched"
   },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000140425249": {
-    "description": "We are looking for a passionate DevOps Engineer to join the CERN IT Storage and Data Management group (IT-SD).\nOur group operates the core services used by LHC and non-LHC experiments to store and manage their data, to enable data archival, reconstruction and analysis and to distribute them to archiving and computing facilities around the world (Worldwide LHC Computing Grid). The group also contributes to data management services operated in the LHC experiments.\nIf you are excited about distributed systems, exabyte-scale data, and the future of distributed computing, this is the place for you.\nYou will be working on scientific data management technologies (Rucio, FTS, ...). Rucio is the facto data management platform in HEP and other sciences, managing over one exabyte of data across hundreds of data centers worldwide.\nComputing power needs are evolving, especially for the HL-LHC, and researchers are increasingly relying on massive supercomputers and their capacity to run computations and AI workflows.\nTo support this, Rucio is expected to act as a bridge between our distributed data systems and these remote supercomputers, ensuring datasets are moved seamlessly to where the heavy processing happens, and results flow back to the scientific community.\nYour responsibilities:\nYou will work on a project that federates massive compute and storage resources across Europe, enabling seamless cross-border scientific collaboration.\nYour key responsibilities will include:\nConnecting data to AI factories: Build integrations that allow large datasets to be easily accessed and utilised by next-generation European AI Factories and supercomputers.\nBuilding a storage federation: Design and validate systems that allow different data management platforms to communicate among themselves, ensuring transparent data access and policy-driven replication.\nContributing to open source: Design robust new functionality and commit your code, features, and fixes directly back to the upstream Rucio project.\nSupporting the community: Actively participate in our Operations team to maintain infrastructure for EU projects and activities surrounding the Rucio service, including troubleshooting incidents and supporting our users.\nYour profile:\nDemonstrated experience in:\nSoftware development and integration (Python, scripting).\nLinux system administration, configuration and automation, both in baremetal and container environments (Kubernetes).\nDevelopment tools (Git) and modern devops practices.\nWorking in teams.\nSkills:\nWe are looking for someone who enjoys problem-solving at scale and loves working in a collaborative, open-source environment.\nStrong Python programming and API design.\nLinux system administration and Kubernetes clusters.\nSolid understanding of large-scale data management, storage systems, or cloud environments.\nFamiliarity with authentication mechanisms and secure data transfers is a big plus.\nA user-focused mindset and a willingness to jump into daily operations and user support.\nSpoken and written English or French, with a commitment to learn the basics of the other language.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nBy the application deadline, you have a maximum of two years of professional experience since graduation in Computing Engineer (or a related field) and your highest educational qualification is either a Bachelor's or Master's degree.\nYou have never had a CERN fellow or graduate contract before.\nApplicants without University degree are not eligible.\nApplicants with a PhD are not eligible.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000140425249-devops-engineer-for-data-management-it-sd-dms-2026-196-grae-?oga=true",
-    "status": "matched"
-  },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000140428459": {
-    "description": "We are looking for a passionate Computing Engineer to join CERN's IT Storage and Data Management group (IT-SD). Our group enables large-scale data access for the laboratory, the Large Hadron Collider and CERN's broader experimental programme, managing more than one exabyte of storage in the CERN Data Centre.\nYou will join the CERNBox team, which provides cloud storage to the CERN community and is making CERNBox interoperable and deployable across European research infrastructures and the European Open Science Cloud (EOSC) Federation. You will package, test and validate the stack using Kubernetes and Helm for deployment across on-premises and public clouds, and contribute to Reva, its Go-based backend, by implementing the Open Cloud Mesh (OCM) protocol, an emerging IETF standard for interoperable cloud storage and data sharing across institutions.\nIf you are excited about cloud-native systems, open standards and building software adopted by research institutions worldwide, this is the place for you!\nYour responsibilities\nDevelop and integrate backend software components.\nPackage and deploy interoperable services in distributed environments.\nSupport CERN community: you will join our operations team, troubleshooting incidents and supporting users.\nContribute your code, features and fixes back to the CERNBox open-source projects, working alongside a broader open-source community.\nWork with partner institutions and research infrastructures across Europe to test, validate and refine these tools together.\nSupport users and partner teams as they adopt these tools, helping with troubleshooting and guidance.\nYour profile\nExperience, or a strong interest, in backend development and cloud-native deployment.\nEnjoys troubleshooting, hands-on problem-solving, user support and service management.\nComfortable collaborating with external partners and international teams.\nCuriosity about system integration and interoperability challenges.\nSkills\nKubernetes and Helm chart development.\nBackend software development, in particular Go.\nLinux tech stack, administration and automation.\nNice to have: frontend development.\nSpoken and written English or French, with a commitment to learn the basics of the other language.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nBy the application deadline, you have a maximum of two years of professional experience since graduation in Computer Engineering (or a related field) and your highest educational qualification is either a Bachelor's or Master's degree.\nYou have never had a CERN fellow or graduate contract before.\nApplicants without University degree are not eligible.\nApplicants with a PhD are not eligible.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000140428459-computing-engineer-data-storage-system-it-sd-gss-2026-197-grae-?oga=true",
-    "status": "matched"
-  },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000140414669": {
     "description": "Are you passionate about digital design, digital signal processing, and experimental accelerator physics? Do you want to contribute to the modernisation of CERN's advanced linear accelerators? If so, this is an exceptional opportunity to bridge laboratory innovations with hands-on commissioning at a world-class facility.\nIn this role, you will join the Accelerator Systems Department (SY) and work within the Radio Frequency (RF) Group. The group is responsible for the design, operation, and maintenance of the RF acceleration and deflecting systems across the entire CERN accelerator complex. As part of an ongoing consolidation and performance upgrade Low-Level Radio Frequency (LLRF) systems are being modernised. You will contribute directly to the design, prototyping, and implementation of a next-generation digital LLRF cavity controller.\nYour responsibilities:\nDevelop FPGA firmware implementing precise real-time phase, amplitude, and resonance tuning algorithms.\nDesign and integrate firmware components and fast diagnostic sub-systems.\nDevelop Python-based tools and frameworks for automated hardware testing, parameter characterisation, and laboratory data analysis.\nSupport the integration, laboratory validation, and commissioning of the new low-level cavity controllers directly.\nMore information here.\nYour profile:\nRequired experience:\nExperience in FPGA design and firmware development, preferably using VHDL.\nFamiliarity with FPGA development environments and verification/debugging tools.\nProgramming experience in Python or a similar language for test automation and data analysis.\nDesired experience:\nExperience modeling or simulating digital signal processing (DSP) algorithms or control loops.\nExposure to Radio Frequency (RF) concepts, basic control theory (like PID loops), or electronics hardware debugging.\nFamiliarity with hardware testing and developing automated test benches for hardware validation.\nSkills:\nRequired Skills:\nProficiency in digital design and FPGA development, ideally utilising VHDL or Verilog.\nSolid programming skills in Python.\nAbility to troubleshoot and validate mixed-signal hardware systems.\nSpoken and written English, with a commitment to learn French.\nDesired Skills:\nKnowledge of digital signal processing techniques, such as digital filtering, mixing, or I/Q modulation/demodulation.\nUnderstanding of basic feedback control systems and control theory.\nFamiliarity with version control workflows using Git and continuous integration (CI).\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nYou have a professional background in Electronics Engineering (or a related field) and have either:\na Master's degree with 2 to 6 years of post-graduation professional experience;\nor a PhD with no more than 3 years of post-graduation professional experience.\nYou have never had a CERN fellow or graduate contract before.",
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000140414669-fpga-developer-sy-rf-ll-2026-129-grap-?oga=true",
@@ -1551,7 +1531,7 @@
     "title": "Senior Scientist microbiological Quality Control",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-07-31",
+    "posted_date": "2026-07-30",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -1627,7 +1607,7 @@
     "title": "Senior Expert / Senior Principal PKS Data Scientist & Scientific Software Engineer (Dual level posting)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-07",
+    "posted_date": "2026-08-06",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -1741,7 +1721,7 @@
     "title": "Internship in the PD Medical Affairs Nucleus Team - Service Solutions & Innovation (SSI) - as of 1 January 2027 for 12 months in Basel",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-04",
+    "posted_date": "2026-08-03",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1761,7 +1741,7 @@
     "title": "Senior Regulatory Group Director",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-04",
+    "posted_date": "2026-08-03",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1801,7 +1781,7 @@
     "title": "Principal Scientist, Respiratory Discovery",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-05",
+    "posted_date": "2026-08-04",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -1825,7 +1805,7 @@
     "title": "Scientist, Cell Engineering and Phenotypic Screening Models",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-05",
+    "posted_date": "2026-08-04",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -1851,7 +1831,7 @@
     "title": "Senior Principal Scientist/Associate Director Clinical PBPK  (Dual Level Posting)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-05",
+    "posted_date": "2026-08-04",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -1885,7 +1865,7 @@
     "title": "Associate Principal Scientist Extractables & Leachables 80-100%",
     "company": "Lonza",
     "location": "CH - Basel",
-    "posted_date": "2026-08-06",
+    "posted_date": "2026-08-05",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2035,7 +2015,7 @@
     "title": "Executive Director, Regional Medical Lead - Solid Tumors, Medical Affairs, Europe",
     "company": "BeiGene",
     "location": "Basel",
-    "posted_date": "2026-08-08",
+    "posted_date": "2026-08-07",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2110,7 +2090,7 @@
     "title": "AI Scientist – Image Analysis & Digital Pathology",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-11",
+    "posted_date": "2026-08-10",
     "department": "",
     "score": 8,
     "matched_keywords": [
@@ -2132,7 +2112,7 @@
     "title": "AI Scientist – AI-Driven Target Identification",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-11",
+    "posted_date": "2026-08-10",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -2156,7 +2136,7 @@
     "title": "Project Scientist Phys-Chem Quality Control 80-100%",
     "company": "Lonza",
     "location": "CH - Basel",
-    "posted_date": "2026-08-11",
+    "posted_date": "2026-08-10",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2176,7 +2156,7 @@
     "title": "Application Development Scientist – Reagents (12 months fixed-term contract)",
     "company": "Bio-Techne / Lunaphore",
     "location": "Tolochenaz, Switzerland",
-    "posted_date": "2026-08-12",
+    "posted_date": "2026-08-11",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2195,7 +2175,7 @@
     "title": "Senior Principal Scientist / Associate Director– Soluble Biomarkers, Molecular & Cellular Sciences (MCS)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-12",
+    "posted_date": "2026-08-11",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -2221,7 +2201,7 @@
     "title": "Internship in the Product Development Medical Affairs Nucleus Team from 01.01.2027, 12 months",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-12",
+    "posted_date": "2026-08-11",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2314,7 +2294,7 @@
     "title": "Associate Scientist / Senior Laboratory Specialist",
     "company": "CSL Behring / Vifor",
     "location": "EMEA, CH, Kanton Bern, Bern, CSL Behring",
-    "posted_date": "2026-08-13",
+    "posted_date": "2026-08-12",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2521,7 +2501,7 @@
     "title": "Principal Scientist - Mid/Large Scale Oligonucleotide Synthesis, xRNA Therapeutics",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-18",
+    "posted_date": "2026-08-17",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -2672,7 +2652,7 @@
     "title": "Business Development Director",
     "company": "KBI Biopharma",
     "location": "Switzerland - Plan-les-Ouates",
-    "posted_date": "",
+    "posted_date": "2026-08-18",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -2791,7 +2771,7 @@
     "title": "Senior / Principal Scientist in Pharmaceutical Development of Synthetic Molecules (Drug Product)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-20",
+    "posted_date": "",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2826,7 +2806,7 @@
     "title": "Discovery Scientist – Neural Retina & Ocular Disease",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-20",
+    "posted_date": "",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -2854,6 +2834,28 @@
     "matched_keywords": [],
     "deducted_keywords": [
       "location:Switzerland"
+    ]
+  },
+  "https://api.smartrecruiters.com/v1/companies/Sobi/postings/744000144519859": {
+    "description": "In this role, you will sit at the important intersection of medical science, regulatory requirements and clear, responsible communication. As Medical Review and Affairs Manager for Switzerland, you will provide medical, scientific and regulatory expertise and act as the legally required person responsible for advertising in accordance with Art. 25 AWV (Arzneimittel-Werbeverordnung).\nYour work will help ensure that promotional and non-promotional materials are scientifically accurate, balanced and aligned with Swiss regulatory requirements. It is a detail-focused role, but one with real impact: by bringing structure, sound judgement and medical expertise to the review process, you will help support high-quality communication around clinical data, scientific evidence and local promotional and non-promotional initiatives.\nWorking closely with colleagues across Medical, Commercial and other functions, you will be a trusted partner in the review and approval of materials, helping teams use scientific information appropriately in both internal and external communications. The role is well suited to someone who enjoys precision, collaboration and the opportunity to make complex information clear, compliant and meaningful.\n \nKey Responsibilities\nAct as the designated Person Responsible for Advertising in accordance with Art. 25 AWV.\nReview and approve promotional and non-promotional materials to ensure scientific accuracy, balance and compliance with Swiss requirements.\nMaintain the legally required archive of promotional materials and act as key contact for Swissmedic on advertising-related matters.\nApply medical and scientific expertise to assess clinical data, scientific evidence and relevant treatment developments.\nProvide medical and scientific guidance to internal teams, including support for KVV Art. 71a–d reimbursement requests where needed.\nSupport local medical, scientific and educational initiatives in line with regional and global objectives.\nCollaborate cross-functionally to ensure consistent, compliant and high-quality scientific communication.",
+    "external_url": "https://jobs.smartrecruiters.com/Sobi/744000144519859-medical-review-and-affairs-manager?oga=true",
+    "status": "matched"
+  },
+  "/job/Lengnau-Switzerland/Senior-Scientist-Bio--Chemical-Quality-Control_R-01364276": {
+    "description": "Work ScheduleStandard (Mon-Fri)\n\nEnvironmental ConditionsOffice\n\nJob Description\n\nJoin our Quality Control team at Thermo Fisher Scientific where you'll make meaningful contributions to our mission of enabling customers to make the world healthier, cleaner and safer. As a Senior Scientist, you will support the establishment and operational readiness of the Bio-/Chemical Quality Control (BCQC) unit at the Thermo Fisher Scientific Lengnau site in accordance with project timelines. Key responsibilities include contributing to the transfer, verification, and validation of analytical methods, as well as the qualification of laboratory equipment required for testing activities. The role also actively supports GMP inspection readiness by ensuring compliance with applicable Quality Systems, procedures, and documentation requirements. In addition, it contributes to overall QC operational readiness through the management and coordination of internal and external projects, resource allocation, and the planning and prioritization of daily team activities. This role offers excellent opportunities for professional growth while working alongside colleagues who share your commitment to science and quality.\n\nPosition Summary:\nThe Senior Scientist Bio-/Chemical Quality Control (BCQC) plays a key role in establishing, implementing, and maintaining compliant QC processes and analytical methods for the testing of finished products, in-process controls, intermediates, raw materials, utilities, and cleaning samples.\nThe position combines scientific expertise, GMP compliance, and project leadership. The Senior Scientist is responsible for coordinating analytical activities, supporting the implementation and lifecycle management of methods and equipment, leading local and global QC projects, and ensuring that activities are completed in accordance with defined quality requirements and timelines.\nThe role works closely with QC management, internal stakeholders, project teams, external partners, suppliers, contract laboratories, and other functions to ensure operational excellence and continuous improvement within BCQC.\n\nResponsibilities:\n\nProcesses and Analytical Methods Implementation\nThe Senior Scientist coordinates activities required to establish and maintain QC processes and analytical methods within the assigned area of expertise. Key responsibilities include:\nAuthoring and revising Standard Operating Procedures (SOPs), Work Instructions (WIs), and other controlled documents in compliance with GMP requirements and established timelines.\nActing as Subject Matter Expert (SME) for the review and approval of analytical methods, plans, protocols, reports, and other technical documentation.\nCoordinating the procurement, qualification, calibration, maintenance, and lifecycle management of analytical and laboratory infrastructure equipment.\nSupporting the procurement, preparation, manufacturing, qualification, and verification of test, reference, and control materials.\nCoordinating and executing the development, transfer, verification, qualification, and validation of analytical procedures according to applicable regulatory requirements and project timelines.\nReviewing analytical raw data, equipment qualification and maintenance records, and other relevant BCQC documentation to ensure accuracy, completeness, data integrity, and GMP compliance.\nEnsuring that analytical processes and methods are appropriately implemented and maintained to support reliable and compliant routine QC operations.\n\nProject Leadership\nThe Senior Scientist represents BCQC in cross-functional projects, working groups, and local and global initiatives and ensures that project requirements, resources, workload, timelines, and deliverables are clearly defined.\nKey responsibilities include:\nLeading the implementation of local and global projects within QC and ensuring effective planning and execution of assigned activities.\nTranslating project requirements into clear, data-driven workload and resource plans.\nCoordinating allocated resources in collaboration with QC management and other QC functions to ensure that timelines and project objectives are achieved.\nDriving collaboration within project teams and ensuring alignment with company strategy, priorities, and core values.\nFacilitating effective and timely communication within project teams and across relevant stakeholders.\nLeading and supporting structured problem-solving activities when issues arise in connection with assigned projects or tasks.\nMonitoring project progress, risks, milestones, deliverables, and KPIs and escalating potential delays or issues when appropriate.\nPromoting accountability by communicating expectations, ensuring transparency of relevant information, and proactively addressing or escalating conflicts and challenges.\nSupporting continuous improvement initiatives aimed at strengthening QC compliance, efficiency, quality, and overall performance.\nEstablishing and maintaining effective relationships with external partners, including suppliers, contract laboratories, service providers, and universities.\n\nQC Execution and Compliance\nThe Senior Scientist supports the compliant and timely execution of routine and non-routine QC activities and ensures appropriate documentation of analytical work. Responsibilities include:\nEnsuring that raw data, analytical results, reports, logbooks, and other relevant records are accurately documented, reviewed, and retained in accordance with applicable procedures and data integrity requirements.\nSupporting the investigation and resolution of analytical and quality-related issues, including requests associated with biochemical and chemical testing.\nEnsuring that deviations and laboratory investigations are initiated, investigated, documented, and completed in a timely and compliant manner.\nProviding scientific and technical expertise to support investigations, root cause analysis, and the definition of appropriate corrective and preventive actions, where applicable.\nSupporting responses to internal stakeholders, customers, sponsors, auditors, and Health Authority requests related to the assigned area of responsibility.\nKeeping the Head of BCQC appropriately informed regarding ongoing activities, project status, risks, and significant issues.\nEnsuring effective and transparent communication of relevant information to sponsors, stakeholders, project teams, and QC colleagues.\n\nTeam Support and Development\nThe Senior Scientist contributes to the development of a strong, collaborative, and compliant QC organization by:\nProviding scientific and technical guidance to QC colleagues.\nMentoring and supporting team members in GMP, Quality Control principles, analytical methods, and laboratory best practices.\nSupporting the planning and coordination of team activities and resources according to operational and project priorities.\nContributing to recruitment activities and the onboarding and development of new team members.\nPromoting a culture of quality, accountability, collaboration, continuous improvement, and GMP compliance.\n\nRequirements:\nDegree (Master or higher) in biochemical / chemical/ pharmaceutical/ molecular sciences or similar\nLower educational background could be accepted, as applicable, in case of former experience in the pharmaceutical industry\nPreferred Fields of Study: Chemistry, Biochemistry, Biology, Molecular Biology or related scientific field\nMin 2 years experience in GMP regulated industry\n3-5 years lab experience\nAdditional certifications in Quality Control/GMP practices beneficial\nStrong knowledge of GMP regulations and quality systems requirements\nProficiency in analytical techniques including HPLC, GC, MS, spectrophotometry\nExperience with biochemical testing methods\nStrong documentation skills and proficiency with laboratory information management systems\nKnowledge of relevant regulatory standards (ISO, FDA, USP, EP)\nExcellent attention to detail and ability to follow written/verbal p",
+    "external_url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Lengnau-Switzerland/Senior-Scientist-Bio--Chemical-Quality-Control_R-01364276",
+    "status": "matched",
+    "title": "Senior Scientist Bio-/Chemical Quality Control",
+    "company": "Thermo Fisher Scientific",
+    "location": "Lengnau, Switzerland",
+    "posted_date": "2026-08-20",
+    "department": "",
+    "score": -1,
+    "matched_keywords": [
+      "molecular biology"
+    ],
+    "deducted_keywords": [
+      "location:Lengnau, Switzerland"
     ]
   }
 }
