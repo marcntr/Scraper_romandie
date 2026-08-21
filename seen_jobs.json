@@ -2276,7 +2276,7 @@
   "https://gloorlang.starhunter.software/Headhunter/project/job-ad/hash/6a6b16a7042f3": {
     "external_url": "https://gloorlang.starhunter.software/Headhunter/project/job-ad/hash/6a6b16a7042f3",
     "status": "matched",
-    "title": "Associate Director / Senior Regulatory Affairs CMC",
+    "title": "Associate Director / Senior Regulatory Affairs",
     "company": "Gloor & Lang",
     "location": "Basel, Switzerland",
     "posted_date": "",
@@ -2863,7 +2863,7 @@
   "https://www.stettlerconsulting.ch/en/current-vacancies/quality-regulatory-affairs-manager-w-m-80-100/": {
     "external_url": "https://www.stettlerconsulting.ch/en/current-vacancies/quality-regulatory-affairs-manager-w-m-80-100/",
     "status": "matched",
-    "title": "Quality & Regulatory Affairs Manager (w/m) 80–100 %",
+    "title": "Quality & Regulatory Affairs Manager 80–100 %",
     "company": "Stettler Consulting",
     "location": "Zuerich & Umgebung / Ostschweiz, Switzerland",
     "posted_date": "",
@@ -2872,20 +2872,6 @@
     "matched_keywords": [],
     "deducted_keywords": [
       "location:Zuerich & Umgebung / Ostschweiz, Switzerland"
-    ]
-  },
-  "https://www.michaelpage.ch/fr/job-detail/fiscaliste-sp%C3%A9cialiste-des-personnes-morales/ref/jn-082026-7083991?lang=en&ng-src=other-users-applied&ng-jn=job-search": {
-    "external_url": "https://www.michaelpage.ch/fr/job-detail/fiscaliste-sp%C3%A9cialiste-des-personnes-morales/ref/jn-082026-7083991?lang=en&ng-src=other-users-applied&ng-jn=job-search",
-    "status": "matched",
-    "title": "Fiscaliste spécialiste des personnes morales",
-    "company": "Michael Page Switzerland",
-    "location": "Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": -2,
-    "matched_keywords": [],
-    "deducted_keywords": [
-      "location:Switzerland"
     ]
   },
   "/job/CH---Basel/Scientist-6-months-fix-term-contract-80-100-_R71939": {
