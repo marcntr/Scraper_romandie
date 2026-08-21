@@ -9,7 +9,7 @@
     "keywords": "npp"
   },
   "_generic:Charles River Laboratories": {
-    "keywords": "regulatory,scientist"
+    "keywords": "regulatory"
   },
   "_generic:MoonLake Immunotherapeutics": {
     "keywords": "clinical development,medical affairs"
@@ -339,11 +339,6 @@
       "molecular biology"
     ],
     "deducted_keywords": []
-  },
-  "https://job-boards.greenhouse.io/isomorphiclabs/jobs/5460704004": {
-    "description": "<div class=\"content-intro\"><p>Isomorphic Labs is applying frontier AI to help unlock deeper scientific insights, faster breakthroughs, and life-changing medicines with an ambition to solve all disease.</p>\n<p>The future is coming. A future enabled and enriched by the incredible power of machine learning. A future in which diseases are curtailed or cured starting with better and faster drug discovery.&nbsp;</p>\n<p>Come and be part of an interdisciplinary team driving groundbreaking innovation and play a meaningful role in contributing towards us achieving our ambitious goals, while being a part of an inspiring and collaborative culture.</p>\n<p>The world we want tomorrow is the one we’re building today. It starts with the culture at this company. It starts with you.&nbsp;</p>\n<h3><strong>About Iso</strong></h3>\n<p>Isomorphic Labs (IsoLabs) was launched in 2021 to advance human health by building on and beyond the Nobel-winning AlphaFold system. Since then, our interdisciplinary team of drug discovery experts and machine learning specialists has built powerful new predictive and generative AI models that accelerate scientific discovery at digital speed.</p>\n<p>Our name comes from the belief that there is an underlying symmetry between biology and information science. By harnessing AI’s powerful capabilities, we can use it to model complex biological phenomena to help design novel molecules, anticipate how drugs will perform and develop innovative medicines to treat and cure some of the world’s most devastating diseases.</p>\n<p>We have built a world-leading drug design engine comprising AI models that are capable of working across multiple therapeutic areas and drug modalities. We are continually innovating on model architecture and developing cutting-edge capabilities to advance rational drug design.</p>\n<p>Every day, and with each new breakthrough, we’re getting closer to the promise of digital biology, and achieving our ambitious mission to one day solve all disease with the help of AI.</p>\n<p>&nbsp;</p></div><h3><strong>Research Scientist (Machine Learning), Lausanne</strong></h3>\n<h3><strong>Your impact&nbsp;</strong></h3>\n<p>As a Research Scientist in machine learning (ML), you will play an exciting role in building greenfield machine learning based models and algorithms that will power our platform to transform the drug discovery world as we know it.&nbsp;</p>\n<p>Working in a highly creative, fast-paced and interdisciplinary environment, you will be partnering with leading engineers and scientists to conceive, design, and develop cutting edge machine learning algorithms to unlock new modelling and predictive power which will be critical to the organisation’s success. You will draw upon your existing deep research experience whilst learning from those around you, to apply novel techniques and ideas to newly encountered computational biology and chemistry problems.</p>\n<p><strong>Depending on your experience:</strong></p>\n<p>You will create and lead projects, bringing together a variety of disciplined scientists and engineers to pursue some of the most ambitious modelling problems with deep learning - as well as providing technical mentorship and people management for others in the ML community at Isomorphic Labs</p>\n<p>You will be instrumental in leading greenfield machine learning based research projects, building the models, and algorithms that will power our platform to transform the drug discovery world as we know it.</p>\n<h3><strong>What you will do</strong></h3>\n<ul>\n<li>Contribute to our research directions in machine learning by using your extensive knowledge of the field to apply world-leading ML algorithms to drug discovery.</li>\n<li>Identify and create novel ML techniques and the required data to train.</li>\n<li>Develop the architectures and training algorithms of machine learning models.</li>\n<li>Analyse and tune experimental results to inform future experimental directions.</li>\n<li>Implement and scale training and inference engineering frameworks.</li>\n<li>Report and present research findings and developments clearly and efficiently, to both other ML scientists and scientists of different disciplines.</li>\n<li>Iterate collaboratively with scientists and domain experts, sharing your own domain experience.</li>\n<li>Suggest and engage in team collaborations to meet ambitious research goals.<br><br><strong>Depending on your experience:</strong></li>\n<li>Provide technical mentorship and guidance to the ML research community, advising on projects, and shaping our research roadmap based on your deep technical expertise.</li>\n<li>Provide developmental support to other ML research scientists.</li>\n<li>Create, lead, and run ML research projects, fostering collaborative and diverse teams to solve high priority modelling problems.Cultivate a diverse and inclusive research culture.</li>\n</ul>\n<h3><strong>Skills and qualifications&nbsp;</strong></h3>\n<p><strong>Essential</strong></p>\n<ul>\n<li>PhD or equivalent practical experience in a technical field.</li>\n<li>A proven track record in machine learning using deep learning techniques, including designing new architectures, hands-on experimentation, analysis, and visualisation.</li>\n<li>Strong knowledge of linear algebra, calculus and statistics.</li>\n<li>Experience using ML frameworks such as JAX, PyTorch, or TensorFlow, and scientific software such as NumPy, SciPy, or Pandas.</li>\n<li>A passion for applying ML research to real world problems.</li>\n<li>Depending on your experience: project supervision, leadership, or management.</li>\n</ul>\n<p><strong>Nice to have</strong></p>\n<ul>\n<li>PhD in machine learning or computer science.</li>\n<li>Relevant research experience to the position such as post doctoral roles, a proven track record of publications, or contributions to machine learning codebases.</li>\n<li>Experience working in a scientific environment across disciplines (particularly biology, chemistry, physics).</li>\n<li>Experience working with biological or chemical data and biological or chemistry software.</li>\n<li>Experience working with real-world datasets.</li>\n<li>Experience with ML on accelerators.</li>\n<li>Experience in any of: large scale deep learning, generative models, graph neural networks, deep learning for drug discovery, deep learning for computer vision, 3D graphics/robotics, real-world applied RL.</li>\n</ul><div class=\"content-conclusion\"><h3><strong><br>Culture and values</strong></h3>\n<p>We are guided by our shared values. It's not about finding people who think and act in the same way. These values help to guide our work and will continue to strengthen it.&nbsp;</p>\n<p><strong>Thoughtful<br></strong><span style=\"font-weight: 400;\">Thoughtful at Iso is about curiosity, creativity and care. It is about good people doing good, rigorous and future-making science every single day.</span></p>\n<p><strong>Brave<br></strong><span style=\"font-weight: 400;\">Brave at Iso is about fearlessness, but it’s also about initiative and integrity. The scale of the challenge demands nothing less.</span></p>\n<p><strong>Determined<br></strong><span style=\"font-weight: 400;\">Determined at Iso is the way we pursue our goal. It’s a confidence in our hypothesis, as well as the urgency and agility needed to deliver on it. Because disease won’t wait, so neither should we.</span></p>\n<p><strong>Together<br></strong><span style=\"font-weight: 400;\">Together at Iso is about connection, collaboration across fields and catalytic relationships. It’s knowing that transformation is a group project, and remembering that what we’re doing will have a real impact on real people everywhere.</span></p>\n<h3><strong><br>Creating an extraordinary company</strong></h3>\n<p>We believe that to be successful we need a team with a range of skills and talents. We're building an environment where collaboration is fundamental, learning is shared and every employee feels supported and able to thrive. We value unique experiences, kno",
-    "external_url": "https://job-boards.greenhouse.io/isomorphiclabs/jobs/5460704004",
-    "status": "matched"
   },
   "_generic:Executive Insight": {
     "keywords": "medical affairs,strategy consultant"
@@ -910,31 +905,12 @@
     "title": "\"Principal Scientist siRNA Design",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-31",
+    "posted_date": "2026-07-30",
     "department": "",
     "score": 2,
     "matched_keywords": [
       "bioinformatics",
       "molecular biology"
-    ],
-    "deducted_keywords": []
-  },
-  "/job/Basel/Mechanistic-Immuno-Tox-Scientist_202606-116859-1": {
-    "description": "At Roche you can show up as yourself, embraced for the unique qualities you bring. Our culture encourages personal expression, open dialogue, and genuine connections,  where you are valued, accepted and respected for who you are, allowing you to thrive both personally and professionally. This is how we aim to prevent, stop and cure diseases and ensure everyone has access to healthcare today and for generations to come. Join Roche, where every voice matters.\n\nThe Position\nIn Roche’s Pharmaceutical Research and Early Development organisation (pRED), we make transformative medicines for patients to tackle some of the world’s toughest unmet healthcare needs. At pRED, we are united by our mission to transform science into medicines. Together, we create a culture defined by curiosity, responsibility, and humility, where our talented people are empowered and inspired to bring forward extraordinary, life-changing innovation at speed.\n\nAt the intersection of science and innovation, pRED’s Pharmaceutical Sciences (PS) organisation enables the discovery and development of safe and effective therapeutics at optimal doses in relevant populations with a vision to power translation, continuously improve the accuracy of our predictions and accelerate the development of tomorrow's medicines. By seamlessly integrating our three core pillars—Translational Safety, Translational Pharmacology, and Biomarkers - we drive end-to-end asset development across the entire value chain, from target assessment to on-market support. Our mission is to continuously improve predictive accuracy, optimise dosing strategies for the right patient populations, and accelerate the development of tomorrow's safe and effective therapeutics. \n\nThis position is located in Pathology and Applied Safety Science, a department within the Pharmaceutical Sciences function.  We drive the non-clinical safety assessment of drug candidates from small molecules to complex biological products during the discovery and development phases at Roche.\n\n \nThe Opportunity\n\nIn Vivo - in vitro Immunosafety Integration & Mechanistic Strategy: Formulate, implement, and champion integrated immunosafety strategies for portfolio projects, ensuring the scientific validation and execution of predictive immunological biomarkers. Interrogate and decode in vivo immunosafety findings (e.g., changes in lymphoid architecture, immunogenicity readouts, cytokine profiles, or systemic hypersensitivities) and connect them back to mechanistic context using investigative in vitro tools. Translate complex immunological findings into unified safety position documentation, presenting definitive impact summaries for target validation, compound profiling, and IND/CTA-enabling packages.\nAdvancing In Vitro Cellular Models via Immunological Elements: Proactively apply human immunology elements (e.g., primary immune cells, immune-epithelial co-cultures, inflammatory stimulus circuits) to upgrade the physiological accuracy of predictive in vitro cell models. Pioneer the optimisation, validation, and scale of 2D, 3D, and fluidic microphysiological safety systems, ensuring that models capture intricate human-specific responses like cytokine release syndromes, immune-mediated organ toxicities, or structural hypersensitivities. Drive proficiency in state-of-the-art analytical platforms such as high-content screening, flow cytometry, multiplexed fluid assays, and spatial or transcriptomic single-cell readouts.\nProactive Data Curation, Reporting, & LIMS Operations: Conduct rigorous data analysis, critical validation of assays, and proper internal reporting of study phase data within the Laboratory Information Management System (LIMS). Act as the lead presenter of immunotoxicology assessments, translating highly specialised immune data into actionable, easy-to-digest go/no-go recommendations for project toxicologists and multi-disciplinary teams. Ensure impeccable documentation, maintain pristine raw data storage folders, and strictly fulfil international compliance archiving requirements.\nQuality, Compliance, and Laboratory Standards: Oversee and evaluate study data compliance under existing work instructions, Standard Operating Procedures (SOPs), and strict safety regulations, logging experimental deviations comprehensively. Comply with Safety, Health, and Environmental (SHE) regulations, championing mindful handling, storage, and ethical processing of materials from animal or human origins.\nMulti-Disciplinary Collaboration & Initiative: Serve as a collaborative scientific anchor across pathobiology, wet-lab toxicologists, and clinical safety to break down functional silos and rapidly resolve complex safety anomalies. Act with foresight and urgency to proactively design and execute targeted investigative protocols that address emerging portfolio liabilities before they impact project milestones. Consistently engage with internal peers, chapter lines, and stakeholders to efficiently prioritise and align laboratory resource flows under demanding schedules.\nContinuous Process Optimisation & Vendor Engagement: Drive an agile laboratory mindset focused on process optimisation to permanently elevate assay reproducibility, automate computational imaging inputs, and shorten compound turnaround times. Establish and sustain strategic relationships with external technology providers, Contract Research Organisations (CROs), and international scientific bodies to continuously benchmark and onboard next-generation immunotoxicology concepts.\n\nWho you are\n\nYou hold a PhD degree in an immunology-related field, with a strong industry focus on in vitro and/or in vivo human immunology or immunotoxicology assessment.\nYou bring demonstrated experience formulating integrated immunosafety strategies and upgrading predictive cell models (including 2D, 3D, and fluidic microphysiological systems) using state-of-the-art analytical platforms like flow cytometry and high-content screening.\nYou possess strong proficiency in data curation, critical assay validation, and LIMS reporting, with a proven ability to translate complex data into unified safety position documentation, actionable go/no-go recommendations, and IND/CTA-enabling packages.\nYou demonstrate exceptional interpersonal skills and matrix flexibility, acting as a trusted scientific anchor who connects global teams, optimises laboratory processes for efficiency, and embraces entrepreneurial thinking under the Roche Leadership Framework (Creative Mindset, VACC).\n\nAt Roche, we aim high to deliver life-changing healthcare solutions. If you’re ready to make a meaningful impact on patients and healthcare systems worldwide, this is the place for you.\n\n \n \n\nWho we are\nA healthier future drives us to innovate. Together, more than 100’000 employees across the globe are dedicated to advance science, ensuring everyone has access to healthcare today and for generations to come. Our efforts result in more than 26 million people treated with our medicines and over 30 billion tests conducted using our Diagnostics products. We empower each other to explore new possibilities, foster creativity, and keep our ambitions high, so we can deliver life-changing healthcare solutions that make a global impact.\n\nLet’s build a healthier future, together.\n\nRoche is an Equal Opportunity Employer.",
-    "external_url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Mechanistic-Immuno-Tox-Scientist_202606-116859-1",
-    "status": "matched",
-    "title": "Mechanistic Immuno Tox Scientist",
-    "company": "Roche",
-    "location": "Basel",
-    "posted_date": "2026-07-22",
-    "department": "",
-    "score": 5,
-    "matched_keywords": [
-      "PhD",
-      "immunology",
-      "in vitro",
-      "in vivo",
-      "pharmacology"
     ],
     "deducted_keywords": []
   },
@@ -1355,7 +1331,7 @@
     "title": "Scientist Synthesis Automation",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-23",
+    "posted_date": "2026-07-22",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1400,7 +1376,7 @@
     "title": "Cardio-Renal Discovery Area Leader - Expert Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-25",
+    "posted_date": "2026-07-24",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -1426,7 +1402,7 @@
     "title": "Director, Medical Affairs, Hemato-Oncology, Europe",
     "company": "BeiGene",
     "location": "Basel",
-    "posted_date": "2026-07-25",
+    "posted_date": "2026-07-24",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1453,7 +1429,7 @@
     "title": "RiSM Internship for students in Computer Science, Software Engineering, Data Science or Bioinformatics (Basel, 9-12 months)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-28",
+    "posted_date": "2026-07-27",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1468,7 +1444,7 @@
     "title": "RiSM Internship for students in Pharmaceutical Sciences, Pharmaceutical Technology, Data Sciences, Cheminformatics or Chemistry (Basel, 6 months)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-28",
+    "posted_date": "2026-07-27",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1521,7 +1497,7 @@
     "title": "Senior Scientist microbiological Quality Control",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-07-31",
+    "posted_date": "2026-07-30",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -1597,7 +1573,7 @@
     "title": "Senior Expert / Senior Principal PKS Data Scientist & Scientific Software Engineer (Dual level posting)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-07",
+    "posted_date": "2026-08-06",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -1711,7 +1687,7 @@
     "title": "Internship in the PD Medical Affairs Nucleus Team - Service Solutions & Innovation (SSI) - as of 1 January 2027 for 12 months in Basel",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-04",
+    "posted_date": "2026-08-03",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1731,7 +1707,7 @@
     "title": "Senior Regulatory Group Director",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-04",
+    "posted_date": "2026-08-03",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1771,7 +1747,7 @@
     "title": "Principal Scientist, Respiratory Discovery",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-05",
+    "posted_date": "2026-08-04",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -1795,7 +1771,7 @@
     "title": "Scientist, Cell Engineering and Phenotypic Screening Models",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-05",
+    "posted_date": "2026-08-04",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -1821,7 +1797,7 @@
     "title": "Senior Principal Scientist/Associate Director Clinical PBPK  (Dual Level Posting)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-05",
+    "posted_date": "2026-08-04",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -1855,7 +1831,7 @@
     "title": "Associate Principal Scientist Extractables & Leachables 80-100%",
     "company": "Lonza",
     "location": "CH - Basel",
-    "posted_date": "2026-08-06",
+    "posted_date": "2026-08-05",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2005,7 +1981,7 @@
     "title": "Executive Director, Regional Medical Lead - Solid Tumors, Medical Affairs, Europe",
     "company": "BeiGene",
     "location": "Basel",
-    "posted_date": "2026-08-08",
+    "posted_date": "2026-08-07",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2075,7 +2051,7 @@
     "title": "AI Scientist – Image Analysis & Digital Pathology",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-11",
+    "posted_date": "2026-08-10",
     "department": "",
     "score": 8,
     "matched_keywords": [
@@ -2097,7 +2073,7 @@
     "title": "AI Scientist – AI-Driven Target Identification",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-11",
+    "posted_date": "2026-08-10",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -2121,7 +2097,7 @@
     "title": "Project Scientist Phys-Chem Quality Control 80-100%",
     "company": "Lonza",
     "location": "CH - Basel",
-    "posted_date": "2026-08-11",
+    "posted_date": "2026-08-10",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2141,7 +2117,7 @@
     "title": "Application Development Scientist – Reagents (12 months fixed-term contract)",
     "company": "Bio-Techne / Lunaphore",
     "location": "Tolochenaz, Switzerland",
-    "posted_date": "2026-08-12",
+    "posted_date": "2026-08-11",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2160,7 +2136,7 @@
     "title": "Senior Principal Scientist / Associate Director– Soluble Biomarkers, Molecular & Cellular Sciences (MCS)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-12",
+    "posted_date": "2026-08-11",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -2186,7 +2162,7 @@
     "title": "Internship in the Product Development Medical Affairs Nucleus Team from 01.01.2027, 12 months",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-12",
+    "posted_date": "2026-08-11",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2271,21 +2247,6 @@
     "description": "CERN operates the analysis ecosystem used daily by thousands of researchers: the SWAN interactive notebook service, the Rucio data management system, the REANA reproducible-workflow engine, the Zenodo open repository, and CVMFS for software distribution. Building on these services, and as part of the ESCAPE Collaboration.\nCERN is developing the next generation of Virtual Research Environments (VRE): a modular, open-source analysis platform, deployed on CERN's Kubernetes infrastructure, that gives researchers a single entry point to data, software, and computing. The VRE and its associated Open Science Competence Centre are being integrated into the CERN EOSC node, opening the platform to federated user communities across Europe.\nThis work is funded through the OSCARS project, and as a Graduate you will significantly contribute in consolidating our platform to be production-ready.\nThis role will include:\nWorking as a software and platform engineer in the team developing and operating the VRE on CERN's cloud infrastructure, alongside the SWAN, Rucio, REANA, and Zenodo service teams.\nHardening Jupyter extensions for Rucio, REANA, and Zenodo into production-ready plugins, with the CERN SWAN service as the reference integration.\nConsolidating the unified VRE Helm charts as a common and containerised deployment reference.\nContributing to the integration of the VRE and the Competence Centre into the CERN EOSC node, and engaging with the user communities they serve.\nOur ultimate goal is a seamless, reproducible analysis environment where researchers can discover and access data, run interactive and batch analyses across heterogeneous resources, and publish their results within one open ecosystem. This is a unique opportunity to work at the core of CERN's analysis services and shape a platform adopted by research infrastructures well beyond CERN.\nYour responsibilities:\nDevelop and maintain the Jupyter extensions for Rucio, REANA, and Zenodo (Python, JupyterLab/React), upgrading them into production-ready plugins integrated with CERN's SWAN notebook service.\nSupport the Competence Centre activities through workshops, training events, and documentation, gathering user feedback and translating it into technical improvements.\nPrototype the scaling of interactive analysis to distributed compute: offloading of user sessions to HPC and cloud resources using VirtualKubelet/interLink, leveraging CERN's cloud procurement activities.\nStreamline data staging between the distributed data infrastructure and the analysis environment.\nYour profile:\nExperience with Python and software development in a Linux environment.\nFamiliarity with container technologies, such as Docker, and container orchestration with Kubernetes (including Helm).\nFamiliarity with version control systems, such as Git, and CI/CD practices.\nExposure to authentication and authorisation technologies (for example OAuth2/OIDC, tokens, INDIGO IAM).\nExperience contributing to or working with open-source software projects.\nAbility to write clear, maintainable code and learn new technologies.\nFamiliarity with scientific data management or workflow tools (for example Rucio, REANA, Snakemake, or similar) is an asset.\nBasic knowledge of web technologies and modern interfaces (for example JavaScript/React or JupyterLab extensions) is an asset.\nExposure to HPC or cloud computing environments is an asset.\nSkills:\nRequired Skills:\nPython.\nGit.\nDocker.\nKubernetes.\nLinux.\nSpoken and written English, with a commitment to learn French.\nNice to have skills:\nHelm, GitOps, Prometheus.\nJupyterHub/JupyterLab, React.\nRucio, REANA, Zenodo, CVMFS.\nOAuth2/OIDC, token-based AAI, INDIGO IAM.\nKubeflow, VirtualKubelet/interLink.\nExperience working on open source projects.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nBy the application deadline, you have a maximum of two years of professional experience since graduation in Software Engineering (or a related field) and your highest educational qualification is either a Bachelor's or Master's degree.\nYou have never had a CERN fellow or graduate contract before.\nApplicants without University degree are not eligible.\nApplicants with a PhD are not eligible.",
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000143086329-full-stack-software-engineer-it-ca-ir-2026-198-grae-?oga=true",
     "status": "matched"
-  },
-  "/job/EMEA-CH-Kanton-Bern-Bern-CSL-Behring/Associate-Scientist---Senior-Laboratory-Specialist_R-283117": {
-    "description": "Wir suchen eine(n) motivierte(n) Associate Scientist / Senior Laboratory Specialist, welche(r) unser Pilot Plant Bern Team verstärkt. In dieser Rolle übernimmst du eine zentrale, praxisorientierte Funktion bei der Vorbereitung, Durchführung und Nachbereitung von Pilot-Plant-Aktivitäten. Der Fokus liegt auf der eigenständigen Bedienung, Reinigung und Betreuung von Prozessanlagen sowie auf der zuverlässigen Dokumentation und Unterstützung von Entwicklungs-, Transfer- und Lifecycle-Management-Aktivitäten. Die Pilot Plant Bern arbeitet in einer als Reinraumklasse D eingestuften Umgebung; die Aktivitäten sind nicht-GxP, dennoch müssen die relevanten Reinraum-, Sicherheits- und Dokumentationsanforderungen konsequent eingehalten werden. \n\nWas erwartet dich?  \n\nErweitere dein Wissen und erkunde neue oder alternative Bereiche \n\nGewinne Erfahrung an neuen und innovativen Technologien \n\nGewinne wertvolle praktische Erfahrungen \n\nArbeite und interagiere mit erfahrenen Mitarbeitern \n\nHAUPTAUFGABEN\n\nEigenständige Durchführung von routinemässigen und nicht-routinemässigen Anlage- und Laborarbeiten in einer als Reinraumklasse D eingestuften Pilot-Plant-Umgebung. \n\nDurchführung manueller Operationen wie Säulenanschluss, Einspülen von Puffern, Auf- und Abbau von Prozess-Setups sowie kleinere Methodenanpassungen und/oder Programmierung von Prozessanlagen, z. B. Chromatografie- oder Ultra-/Diafiltrationsanlagen, nach Vorgabe. \n\nÜberwachung des Prozessverlaufs und rechtzeitigem Eingreifen bei Abweichungen oder unerwartetem Prozessverhalten. \n\nErstellung, Überarbeitung und Kontrolle von Batchdokumentation, Protokollen, Arbeitsanweisungen und SOPs unter Anwendung guter Dokumentationspraxis, einschliesslich Unterstützung bei Protokollverbesserungen und wissenschaftlicher Dokumentation. \n\nOrganisation und Bearbeitung von Kalibrierungen, Instandhaltungen und technischen Meldungen sowie deren Dokumentation und Nachverfolgung in SAP. \n\nZubereitung von Pufferlösungen, Packen von Chromatografiesäulen und Durchführung einfacher analytischer Messungen. \n\nFlexibler Aufbau und bedarfsgerechte Anpassung von Prozessanlagen und Prozessaufbauten in enger Abstimmung mit Vorgesetzten und Projektverantwortlichen. \n\nUnterstützung bei Technologie-Transfer-, Entwicklungs- und Lifecycle-Management-Aktivitäten durch zuverlässige praktische Umsetzung und strukturierte Dokumentation. \n\nUnterstützung und Einarbeitung weniger erfahrener Mitarbeitender innerhalb definierter Aufgabenbereiche. \n\nBereitschaft zu zeitlicher Flexibilität, einschliesslich temporärer Schichtmodelle während intensiver Kampagnen oder Projektphasen. \n\n Qualifikationen\n\nAbgeschlossene Laborantenausbildung, Bachelorabschluss oder vergleichbare Ausbildung in einem relevanten naturwissenschaftlichen, technischen, pharmazeutischen, chemischen oder lebensmitteltechnologischen Bereich. \n\nAlternativ relevante praktische Erfahrung in einem Chemie-, Pharma-, Biotech-, Lebensmittel- oder technischen Produktionsumfeld. \n\nAusgeprägter Hands-on-Fokus und Freude an praktischer Arbeit mit Prozessanlagen, Equipment und technischen Systemen. \n\nErfahrung oder Interesse an Methodenanpassungen, Rezept-/Methodenprogrammierung und technischer Parametrierung von Prozessanlagen, insbesondere Chromatografie- und Ultra-/Diafiltrationsanlagen, ist von Vorteil. \n\nErfahrung in Reinraumumgebungen, insbesondere Reinraumklasse D, ist von Vorteil. \n\nErfahrung mit Reinigung, Anlagenvorbereitung, Dokumentation und SAP-gestützten Instandhaltungs- oder Meldungsprozessen ist von Vorteil. \n\nVerständnis für gute Dokumentationspraxis sowie sorgfältige, nachvollziehbare und strukturierte Arbeitsweise. \n\nHohe Eigenmotivation, Verantwortungsbewusstsein und lösungsorientiertes Arbeiten. \n\nTeamfähigkeit sowie Fähigkeit, Aufgaben selbstständig und zuverlässig auszuführen. \n\nAnpassungsfähigkeit, Organisationsfähigkeit und Bereitschaft zur flexiblen Unterstützung wechselnder Projekt- und Kampagnenanforderungen. \n\nGute Deutschkenntnisse; Englischkenntnisse sind von Vorteil. \n\nGrundkenntnisse in Microsoft Word und Excel sind von Vorteil. \n\nAbout CSL Behring\nCSL Behring is a global biotherapeutics leader driven by our promise to save lives. Focused on serving patients’ needs by using the latest technologies, we discover, develop and deliver innovative therapies for people living with conditions in the immunology, hematology, cardiovascular and metabolic, respiratory, and transplant therapeutic areas. We use three strategic scientific platforms of plasma fractionation, recombinant protein technology, and cell and gene therapy to support continued innovation and continually refine ways in which products can address unmet medical needs and help patients lead full lives.\n\nCSL Behring operates one of the world’s largest plasma collection networks, CSL Plasma. Our parent company, CSL, headquartered in Melbourne, Australia, employs 32,000 people, and delivers its lifesaving therapies to people in more than 100 countries.\nTo learn more about CSL, CSL Behring, CSL Seqirus and CSL Vifor  visit https://www.csl.com/ and CSL Plasma at https://www.cslplasma.com/.\n \nOur Benefits\nFor more information on CSL benefits visit How CSL Supports Your Well-being | CSL.\n \nYou Belong at CSL\nAt CSL, Inclusion and Belonging is at the core of our mission and who we are. It fuels our innovation day in and day out. By celebrating our differences and creating a culture of curiosity and empathy, we are able to better understand and connect with our patients and donors, foster strong relationships with our stakeholders, and sustain a diverse workforce that will move our company and industry into the future.\n To learn more about inclusion and belonging visit https://www.csl.com/careers/inclusion-and-belonging\n \nEqual Opportunity Employer\nCSL is an Equal Opportunity Employer. If you are an individual with a disability and need a reasonable accommodation for any part of the application process, please visit https://www.csl.com/accessibility-statement.",
-    "external_url": "https://csl.wd1.myworkdayjobs.com/CSL_External/job/EMEA-CH-Kanton-Bern-Bern-CSL-Behring/Associate-Scientist---Senior-Laboratory-Specialist_R-283117",
-    "status": "ignored",
-    "title": "Associate Scientist / Senior Laboratory Specialist",
-    "company": "CSL Behring / Vifor",
-    "location": "EMEA, CH, Kanton Bern, Bern, CSL Behring",
-    "posted_date": "2026-08-13",
-    "department": "",
-    "score": 1,
-    "matched_keywords": [
-      "immunology"
-    ],
-    "deducted_keywords": []
   },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000143250205": {
     "description": "Introduction\nYou will help shape the next generation of normal-conducting accelerator magnets for the Future Circular Collider (FCC), from design and prototyping through industrialisation and system integration. Working with CERN teams and industrial partners, you will develop scalable manufacturing and procurement strategies and apply lessons learned from the testing, maintenance and renovation of existing accelerator magnets to the development and delivery of reliable, cost-effective FCC magnet systems.\nFunctions\nDesign and develop cost-effective normal-conducting magnet technologies for the FCC, from concept and modelling through prototyping and system integration.\nStudy and propose manufacturing and procurement strategies for FCC magnets, tailored to the scale of the project and targeting an efficient and effective production, installation and maintenance.\nPlan, organise and coordinate the maintenance, repair, testing and modification of existing magnets in operation, including specific renovation campaigns, applying the experience gained to the development of FCC magnets.\nPrepare technical specifications, reports and other engineering documentation, and communicate technical results to relevant stakeholders.",
@@ -2486,7 +2447,7 @@
     "title": "Principal Scientist - Mid/Large Scale Oligonucleotide Synthesis, xRNA Therapeutics",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-18",
+    "posted_date": "2026-08-17",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -2637,7 +2598,7 @@
     "title": "Business Development Director",
     "company": "KBI Biopharma",
     "location": "Switzerland - Plan-les-Ouates",
-    "posted_date": "2026-08-19",
+    "posted_date": "2026-08-18",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -2756,7 +2717,7 @@
     "title": "Senior / Principal Scientist in Pharmaceutical Development of Synthetic Molecules (Drug Product)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "",
+    "posted_date": "2026-08-19",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2791,7 +2752,7 @@
     "title": "Discovery Scientist – Neural Retina & Ocular Disease",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "",
+    "posted_date": "2026-08-19",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -2833,7 +2794,7 @@
     "title": "Senior Scientist Bio-/Chemical Quality Control",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-08-21",
+    "posted_date": "",
     "department": "",
     "score": -1,
     "matched_keywords": [
@@ -2860,12 +2821,85 @@
     "title": "Associate Director, Search & Evaluation (Immunology)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-21",
+    "posted_date": "",
     "department": "",
     "score": 2,
     "matched_keywords": [
       "drug discovery",
       "immunology"
+    ],
+    "deducted_keywords": []
+  },
+  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000144697969": {
+    "description": "Les HUG mettent en œuvre leur nouvelle stratégie institutionnelle 2026-2030 articulée autour de cinq axes stratégiques. La recherche et l’innovation y occupent une place centrale afin de dynamiser la recherche, l’innovation et la transformation numérique.\nDans ce cadre, la réalisation phare 3.1 « Programme de recherche translationnelle » de l’axe 3 de la stratégie institutionnelle vise à mieux structurer, simplifier et connecter l’ensemble de l’écosystème de recherche et d’innovation afin d’accélérer le transfert des découvertes scientifiques vers la pratique clinique.\nCe programme couvrira la protection du temps consacré à la recherche, un meilleur soutien pour l’obtention de financements, la diffusion et la protection des résultats ainsi qu’un appui pour le passage de la recherche à l’essaimage. La coordination entre les différents acteurs et actrices institutionnels d’appui à la recherche sera également renforcée.\nEn tant que Cheffe ou Chef de projet stratégique vous occupez un rôle clé de pilotage central de la réalisation phare 3.1. \nRattachée ou rattaché au Centre de l’innovation, la ou le chef de projet stratégique est responsable de la coordination et de la mise en œuvre opérationnelle de cette réalisation phare en collaboration avec les cadres référents et les mandats du programme. Le poste implique des interactions régulières avec les départements cliniques, les laboratoires de recherche, les partenaires académiques, ainsi qu’avec les instances de gouvernance.\nVous préparez et animez les instances de pilotage, coordonnez les groupes de travail et assurez le suivi global des livrables et des indicateurs attendus.\nLes livrables sont les suivantes :\n                     Structuration et visibilité de l’écosystème de recherche et d’innovation\nVous coordonnez la réalisation d’une cartographie des acteurs, services, infrastructures, laboratoires, et processus couvrant l’ensemble de la chaîne de valeur, de la recherche fondamentale jusqu’à la valorisation et au transfert technologique.\nVous coordonnez le développement d’outils permettant de rendre ces ressources visibles, accessibles et facilement mobilisables par les chercheurs et chercheuses, cliniciennes et cliniciens, partenaires académiques et industriels.\n                   Structuration des parcours et processus standardisés\nVous analysez les processus existants et coordonnez la mise en place des procédures standardisées visant à clarifier, harmoniser et accélérer la recherche translationnelle.\nVous coordonnez notamment l’optimisation des processus administratifs ; éthiques ; contractuels et d’annonce d’invention.\n                  Renforcement des structures d’appui et amélioration de la coordination\nVous identifiez les points de blocage organisationnels et proposez des mesures permettant de renforcer les structures d'appui à la recherche.\nVous favorisez la coordination entre les différentes directions et entités impliquées dans la recherche, l’innovation, la valorisation, les affaires réglementaires, les partenariats et les financements.\nVous contribuez à la mise en place d’une gouvernance claire et efficace de l’écosystème de recherche translationnelle.\n                   Développement du temps protégé pour la recherche\nVous pilotez la mise en œuvre d’un cadre institutionnel permettant un accès équitable au temps protégé pour la recherche. Vous participez à la définition des critères d’attribution, des mécanismes de suivi et des outils RH associés afin de favoriser le développement des activités de recherche.\n                   Mise en place d’un comité translationnel\nVous mettez en place un comité translationnel chargé d’évaluer et d'accompagner les projets à fort potentiel clinique, scientifique, translationnel et commercial. Vous développez une démarche proactive de scouting auprès des laboratoires et des équipes cliniques afin de détecter précocement les projets à fort potentiel clinique et à impact commercial.\n                 Financement, valorisation et transfert technologique\nVous contribuez à renforcer l’accès aux financements compétitifs et aux ressources nécessaires au développement des projets, êtes en charge de dessiner les processus et les rendre intelligibles pour les partenaires.\n                 Développement d’un écosystème collaboratif et d’une culture d’innovation\nVous structurez et animez une communauté de recherche et d’innovation réunissant expertes et experts, chercheurs et chercheuses, cliniciennes et cliniciens, partenaires académiques, industriels et institutionnels.\nVous favorisez le partage des connaissances, la mutualisation des ressources, le développement de partenariats et l’émergence de projets collaboratifs.\nVous pilotez des actions de sensibilisation et de formation aux enjeux de la recherche clinique, de la propriété intellectuelle, du transfert de technologies et de l’innovation en santé.\n                Structuration des données de recherche\nVous contribuez à la définition de la stratégie institutionnelle en matière de données de recherche. Vous collaborez avec la Direction de la transformation numérique et veillez à leur mise à disposition au service de la recherche clinique, translationnelle et de l’innovation.",
+    "external_url": "https://jobs.smartrecruiters.com/HUG/744000144697969-cheffe-ou-chef-de-projet-strategique-80-a-100-?oga=true",
+    "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000144696335": {
+    "description": "Secondant la responsable des ressources humaines du département médical, vous renseignez et conseillez les collaborateurs et collaboratrices et les cadres sur les questions RH et vous assumez la gestion administrative pour le public cible dont vous êtes responsable, ceci en synergie avec deux collègues gestionnaires RH. Ainsi, vous intervenez au plan administratif sur tout le cycle de vie de nos équipes, du recrutement au départ, et en lien avec de nombreux partenaires de la DRH et de l’institution (service salaire et assurances sociales, service recrutement, managers médico-soignants et techniques, …). \nVous garantissez, par délégation de la responsable des ressources humaines, l'organisation et la gestion des activités liées au traitement des dossiers tout en veillant à une juste répartition des priorités. Vous coordonnez les prestations RH selon les règles et directives de la DRH en représentant la politique des ressources humaines institutionnelles.\nVous apportez du soutien à votre responsable dans le développement d’un climat de travail harmonieux et respectueux des personnes.\nPersonne orientée service clients et solutions, vous vous reconnaissez par ailleurs dans les valeurs des HUG que vous incarnez dans l’exercice de vos fonctions.",
+    "external_url": "https://jobs.smartrecruiters.com/HUG/744000144696335-gestionnaire-rh-80-?oga=true",
+    "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000144697599": {
+    "description": "Vous fournissez des prestations d’évaluation et rééducation aux personnes adultes, soit hospitalisés, soit en ambulatoire, souffrant d'une atteinte du système nerveux central ou périphérique dans les domaines de la voix, de la parole et de la déglutition.\nVotre mission consiste à amener les patients et les patientes à l'indépendance et à l'intégration sociale et professionnelle la mieux adaptée.\nVous assurez la transmission de conseils personnalisés aux patients, patientes et à leurs proches.\nVous participez activement aux échanges interdisciplinaires avec les autres thérapeutes, les équipes soignantes et le personnel médical.",
+    "external_url": "https://jobs.smartrecruiters.com/HUG/744000144697599-logopediste-au-service-d-orl-et-ccf-100-?oga=true",
+    "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000144697749": {
+    "description": "Dans cette mission, en partenariat étroit avec les directions des différentes filières métier, et les responsables du centre de formation et de développement des HUG, vous assurez la gestion d’un portefeuille de projets stratégiques et la mise en place de bonnes pratiques en termes d’ingénierie pédagogique, de conduite de projets de formation institutionnels et de formation des formateurs. En collaboration étroite avec différentes parties prenantes en interne et à l’extérieur de l’institution, vous menez des projets complexes et d’envergure qui enrichissent et qui optimisent l’offre de formation des HUG afin de répondre efficacement aux besoins en développement des compétences du personnel des HUG et des autres publics cibles au sein d’entités partenaires. \nLes dispositifs de formation que vous créez sont efficients et contribuent à l’excellence des compétences du personnel et des prestations des HUG. Dans un contexte hautement compétitif et de pénurie de certains profils, ils permettent de créer une expérience apprenante très favorable à la promotion de la marque employeur. \nEn tant que chef ou cheffe de projet, vous accompagnez les chargées et chargés de formation des différents secteurs ainsi que les membres des Directions dans la refonte de l’offre de formation actuelle et dans la création de nouveaux parcours de formation innovants. Vous déployez des approches collaboratives permettant de faire émerger de nouveaux dispositifs tout en intégrant les besoins à moyen et long terme des apprenants et apprenantes, et en assurant l’opérabilité des différents cursus. Par vos interventions sur le terrain vous facilitez la priorisation des projets et programmes. \nVous soutenez les chefs et cheffes de secteur du CFD et les autres parties prenantes dans la refonte et le développement des différentes prestations en matière de formation, qu’il s’agisse de programmes de formation du personnel de soin spécialisé ou de formation continue pour l’ensemble du personnel des HUG. \nGrâce à votre expertise méthodologique en gestion de projet, vous apportez une structure et une organisation qui garantit le bon fonctionnement des projets transverses et institutionnels confiés au CFD.  Vous êtes garant ou garante de l’organisation et du déroulement des différentes étapes, du suivi des échéances et des livrables ainsi que du pilotage des ressources humaines, financières et matérielles associées à chaque projet. Votre activité de veille active , vous permet de capitaliser sur les différentes méthodologies, technologies éducatives et bonnes pratiques en matière d’ingénierie pédagogique et vous contribuez à la définition et au respect de standards d’excellence dans votre domaine.  \nPour chaque projet d’ingénierie pédagogique, vous assurez la responsabilité des décisions prises et la qualité des livrables, que le projet soit réalisé en interne directement par vos soins ou qu’il soit confié à d’autres personnes sous votre responsabilité ou encore à des prestataires externes. Vous assurez également la conformité de la conduite du projet avec les bonnes pratiques en vigueur ainsi qu’avec les réglementations qui s’appliquent, notamment la loi sur les marchés.",
+    "external_url": "https://jobs.smartrecruiters.com/HUG/744000144697749-chefs-ou-cheffes-de-projet-en-ingenierie-pedagogique-80-a-100-?oga=true",
+    "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000144697449": {
+    "description": "Vous réalisez des examens d'audiologie et de vestibulométrie afin de déterminer l'état fonctionnel des organes, des centres nerveux de l'audition ainsi que du système vestibulaire au moyen d'appareils adéquats.\nVous effectuez les travaux de secrétariat découlant de cette fonction.\nVous collaborez à l'organisation du fonctionnement du laboratoire d'audiologie et de vestibulométrie (horaires, présences, distribution des tâches).\nVous participez aux tâches d'enseignement aux médecins assistants et assistantes, aux chef et cheffes de clinique, logopédistes, collègues et nouveaux collaborateurs et collaboratrices.\nVous procédez au contrôle de qualité des examens réalisés.",
+    "external_url": "https://jobs.smartrecruiters.com/HUG/744000144697449-assistant-ou-assistante-technique-en-audiologie-80-a-100-?oga=true",
+    "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000144697469": {
+    "description": "Sous la supervision du Physiothérapeute responsable pour le Département de médecine, vous rejoignez une équipe composée de 16 physiothérapeutes. Vous intégrez l’équipe des soins aigus et réalisez des prises en soins hospitalières, comprenant notamment traitements fonctionnels et respiratoires, dans différentes unités du département de médecine mais également dans le département de chirurgie ainsi qu’à la division privée.\nDans vos activités, vous intervenez en interdisciplinarité avec les médecins responsables des différents secteurs, le personnel médico-thérapeutique et vous avez des contacts ponctuels avec le personnel infirmier spécialiste clinique des pathologies prises en soins. Dans ce cadre, vous participez activement aux différents colloques cliniques et fonctionnels lors desquels vous communiquez de manière synthétique, structurée et diplomate.\nAvec l’équipe, vous priorisez vos soins de manière à assurer une répartition équitable pour proposer un accompagnement physiothérapeutique de qualité aux quelques 400 patientes et patients repartis dans les différentes spécialités du secteur de soins aigus. Vous faites preuve d’une attitude réflexive en questionnant vos collègues sur les pratiques utilisées et vous proposez de nouvelles idées lorsque la situation vous y invite.\nVous avez un goût avéré pour partager vos connaissances et votre pratique clinique auprès du personnel de santé et des physiothérapeutes en formation. Votre sens de la pédagogie vous permet d’accompagner les étudiantes et étudiants dans leur parcours de formation et développer leurs compétences au cœur des soins, au travers des supervisions que vous proposez.",
+    "external_url": "https://jobs.smartrecruiters.com/HUG/744000144697469-physiotherapeute-au-departement-de-medecine-100-?oga=true",
+    "status": "matched"
+  },
+  "https://www.stettlerconsulting.ch/en/current-vacancies/quality-regulatory-affairs-manager-w-m-80-100/": {
+    "external_url": "https://www.stettlerconsulting.ch/en/current-vacancies/quality-regulatory-affairs-manager-w-m-80-100/",
+    "status": "matched",
+    "title": "Quality & Regulatory Affairs Manager (w/m) 80–100 %",
+    "company": "Stettler Consulting",
+    "location": "Zuerich & Umgebung / Ostschweiz, Switzerland",
+    "posted_date": "",
+    "department": "",
+    "score": -2,
+    "matched_keywords": [],
+    "deducted_keywords": [
+      "location:Zuerich & Umgebung / Ostschweiz, Switzerland"
+    ]
+  },
+  "https://www.michaelpage.ch/fr/job-detail/fiscaliste-sp%C3%A9cialiste-des-personnes-morales/ref/jn-082026-7083991?lang=en&ng-src=other-users-applied&ng-jn=job-search": {
+    "external_url": "https://www.michaelpage.ch/fr/job-detail/fiscaliste-sp%C3%A9cialiste-des-personnes-morales/ref/jn-082026-7083991?lang=en&ng-src=other-users-applied&ng-jn=job-search",
+    "status": "matched",
+    "title": "Fiscaliste spécialiste des personnes morales",
+    "company": "Michael Page Switzerland",
+    "location": "Switzerland",
+    "posted_date": "",
+    "department": "",
+    "score": -2,
+    "matched_keywords": [],
+    "deducted_keywords": [
+      "location:Switzerland"
+    ]
+  },
+  "/job/CH---Basel/Scientist-6-months-fix-term-contract-80-100-_R71939": {
+    "description": "The actual location of this job is in Basel Stücki, Switzerland.\n\nWhat you’ll get:\n\nAn agile career and a dynamic work culture\n\nAn inclusive and ethical workplace\n\nCompensation programs that recognize high performance\n\nWhat you’ll do:\n\nExecute assigned laboratory and project tasks according to written procedures\n\nDocument laboratory activities following data integrity principles\n\nMaintain assigned equipment as Instrument Responsible Person (IRP)\n\nOperate complex instruments with guidance and support\n\nApply aseptic techniques to prepare and test non-GMP drug product samples\n\nCollaborate with laboratory teams to improve workflows and efficiency\n\nParticipate in routine lab activities such as cleaning and database updates\n\nWhat we’re looking for:\n\nVocational training as lab technician or degree in science or engineering (BSc, MSc) in a relevant discipline, e.g. Pharmaceutical Sciences, Chemical or Biochemical Engineering\n\nWork experience as a research/technical assistant in the pharmaceutical or chemical industry, preferably in pharmaceutical development\n\nWork experience in relevant pharmaceutical development technologies\n\nExperience with parenteral dosage forms, protein formulation and analytics and aseptic working techniques is a plus\n\nGood knowledge of reporting, interpretation and documentation of scientific results\n\nExcellent communication, reporting and scientific skills in English\n\nAbout Lonza\nAt Lonza, our people are our greatest strength. With 30+ sites across five continents, our globally connected teams work together every day to manufacture the medicines of tomorrow. Our core values of Collaboration, Accountability, Excellence, Passion and Integrity reflect who we are and how we work together. Everyone’s ideas, big or small, have the potential to improve millions of lives, and that’s the kind of work we want you to be part of.\n\nInnovation thrives when people from all backgrounds bring their unique perspectives to the table. At Lonza, we value diversity and are committed to creating an inclusive environment for all employees. If you’re ready to help turn our customers’ breakthrough ideas into viable therapies, we look forward to welcoming you on board.\n\nReady to shape the future of life sciences? Apply now.",
+    "external_url": "https://lonza.wd3.myworkdayjobs.com/Lonza_Careers/job/CH---Basel/Scientist-6-months-fix-term-contract-80-100-_R71939",
+    "status": "ignored",
+    "title": "Scientist 6 months fix-term contract 80-100%",
+    "company": "Lonza",
+    "location": "CH - Basel",
+    "posted_date": "2026-08-21",
+    "department": "",
+    "score": 1,
+    "matched_keywords": [
+      "MSc"
     ],
     "deducted_keywords": []
   }
