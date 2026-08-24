@@ -354,7 +354,7 @@
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-08-16"
+    "cached_at": "2026-08-24"
   },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000080108845": {
     "description": "Welcome to the Non-Member State Postdoc Fellowship Programme (Theoretical Physics) Two postdoctoral fellowships are awarded each year by the Non-Member State Fellowship Programme in Theoretical Physics. The Fellowship is granted for two years and can exceptionally be extended to a third year.",
@@ -378,7 +378,7 @@
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-08-16"
+    "cached_at": "2026-08-24"
   },
   "_facets:alirahealth:AliraHealth": {
     "facets": {},
@@ -646,7 +646,10 @@
     "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Basel-City/Principal-Scientist---Mid-Large-Scale-Oligonucleotide-Synthesis--xRNA-Therapeutics_REQ-10084190-1": "ignored",
     "https://jobs.smartrecruiters.com/CERN/744000138061224-authorisation-and-regulatory-processes-specialist-for-fcc-project-sr-se-2026-156-ld-?oga=true": "ignored",
     "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Translational-Medicine-Scientist_202606-115450": "ignored",
-    "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Portfolio-Strategy---Delivery-Lead--Data-Insight-Technology_202606-116913-2": "ignored"
+    "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Portfolio-Strategy---Delivery-Lead--Data-Insight-Technology_202606-116913-2": "ignored",
+    "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Basel-City/AI-Scientist---AI-Driven-Target-Identification_REQ-10084379-2": "ignored",
+    "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Basel-City/AI-Scientist---Image-Analysis---Digital-Pathology_REQ-10084320-2": "ignored",
+    "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Internship-in-the-PD-Medical-Affairs-Nucleus-Team---Service-Solutions---Innovation--SSI----as-of-1-January-2027-for-12-months-in-Basel_202607-117989": "ignored"
   },
   "_generic:Hurdle Bio": {
     "keywords": "npp"
@@ -830,7 +833,7 @@
     "title": "Technical Expert Portfolio Mgmt, Technical Feasibility and Planning",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-24",
+    "posted_date": "2026-07-25",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -846,7 +849,7 @@
     "title": "R&D Scientist – Scientific Data Analytics (d/f/m)",
     "company": "Danaher",
     "location": "Basel, Switzerland",
-    "posted_date": "2026-07-24",
+    "posted_date": "2026-07-25",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -900,7 +903,7 @@
     "title": "\"Principal Scientist siRNA Design",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-30",
+    "posted_date": "2026-07-31",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -916,7 +919,7 @@
     "title": "Hematology and Safety Biomarker Expert",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-24",
+    "posted_date": "2026-07-25",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -1035,7 +1038,7 @@
     "title": "Senior Scientist Electronic Laboratory Systems",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-07-24",
+    "posted_date": "2026-07-25",
     "department": "",
     "score": -1,
     "matched_keywords": [
@@ -1083,7 +1086,7 @@
     "title": "Senior/Principal Scientist - NMR Expert",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-24",
+    "posted_date": "2026-07-25",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1099,7 +1102,7 @@
     "title": "Director, Corporate Strategy & Business Development",
     "company": "Alcon",
     "location": "Geneva, Switzerland",
-    "posted_date": "2026-07-24",
+    "posted_date": "2026-07-25",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -1126,7 +1129,7 @@
   "https://jobs.ashbyhq.com/adaptyv/bcc29ec7-1e14-46e7-91ee-cf791b16feda": {
     "description": "Adaptyv is building an automated lab thats let AI agents run biology experiments.\n\nWe're entering the era of agentic science where AI models can now design novel proteins, propose hypotheses, and iterate on experimental results. But they can't run the experiments themselves - that's still a manual, months-long process. We're building the infrastructure that gives AI agents access to the physical world.\n\nWe are one of the fastest growing biotech companies, trusted by leading biopharmas, frontier AI labs, and the techbio companies pushing the field forward. This is a rare chance to help advance some of the most important work happening in biotech today.\n\nOur automated lab is powered by a deep software + hardware stack: lab instruments worth millions of USD reverse-engineered into API-controllable hardware, dozens of devices orchestrated through complex workflows, full observability on everything that happens in the lab, processing pipelines for messy physical-world data, and AI systems that troubleshoot production results and accelerate assay development.\n\nWe’re growing rapidly and are hiring for talented people to scale and support the massive demand for AI-driven wet lab experimentation.\n\n\nABOUT THE ROLE\n\nOur lab produces binding data faster than any one person can look at it. Runs come off the Gators and the Carterra, go through our processing pipeline, and land in a review queue. Somebody with real judgment then has to decide: is this curve real? Is that a fit artifact or a genuine two-state binding event? Does this replicate get delivered, or does the sample get re-run? That person is you.\n\nThe second half of the job is talking to the customer about it. When a design team gets a plate back and three of their best predictions look like non-binders, they want to talk to someone who can explain why: reference subtraction, avidity, an off-rate at the edge of what the instrument resolves, or simply a bad protein. You'll be that person, on the call, sharing your screen, walking through sensorgrams.\n\nThis is a role for a scientist who is very good at kinetics and also likes people. If you like one but not the other, you'll be unhappy here.\n\nWe'd prefer you in Lausanne with us. A lot of the judgment in this job comes from being able to walk over to the instrument and ask what actually happened. But we're not going to lose the right person over it, so remote or hybrid works if you're clearly the one.\n\n\nWHAT YOU'LL DO\n\n - Review the binding data coming out of the lab. Every SPR and BLI run passes through our processing pipeline and then to human review, and you're the expert eye on the output. You decide what gets delivered, what gets flagged, and what gets re-run.\n\n - Judge the curves, not just the numbers. A clean-looking Kd on a bad fit is worse than no number at all. You know the difference between a real off-rate and a drifting baseline, and you can say why.\n\n - Review data from our other assays too: thermostability, expression, developability, enzyme activity. Binding is the core of the role but it isn't all of it.\n\n - Talk to customers about their results. Deliverable walkthroughs, follow-up questions, and the awkward conversation when the data doesn't say what they hoped. You explain what we measured, how confident we are, and what to do next.\n\n - Turn review into experimental design. When something needs a re-run, you decide what changes: orientation, regeneration, concentration series, or a switch from BLI to SPR for the sensitivity.\n\n - Analyze at the batch level, not just the sample level. With hundreds of results per experiment, you should be writing a script to find the pattern rather than clicking through a queue. Systematic drift, a bad reference channel, or a target lot behaving differently than the last one shows up in aggregate long before it shows up in any single curve.\n\n - Feed what you learn back into the pipeline. When you catch a case where automation passed something it shouldn't have, or failed something it shouldn't have, that becomes a concrete requirement for the software team.\n\n - Work closely with production (what actually happened in the lab), QC (systematic quality), and customer success (the relationship around the science).\n\n\nWHAT WE'RE LOOKING FOR\n\n - MSc or PhD in biochemistry, biophysics, or a related field, plus 3+ years working hands-on with binding kinetics.\n\n - Deep SPR and BLI experience. Biacore, Carterra, Octet, Gator: the platform matters less than the fact that you've run these assays, troubleshot them, and interpreted a lot of data from them. You've seen enough sensorgrams to know immediately when one is lying to you.\n\n - Real fitting judgment. 1:1 vs. bivalent, when steady-state is appropriate and when it isn't, how mass transport and avidity distort a result. You can defend a Kd, or refuse to report one.\n\n - Strong data analysis skills. Python or R, enough to pull a few hundred results out of a database, fit them, plot them, and find the outliers. This role generates too much data to review by hand.\n\n - You use AI tools seriously. We run on Claude Code and similar tooling internally, and the people who get the most done here are the ones who reach for it by default: writing the analysis script, querying the database, building the one-off dashboard. You don't need to have done this before, but you need to want to. If your instinct is that real scientists do it by hand, this isn't the place.\n\n - A self-starter who works independently. Nobody is going to hand you a prioritized queue every morning. You'll figure out what matters most, go do it, and tell us what you found.\n\n - A fast learner. Our platform, our assays, and our software change constantly. You'll be handed unfamiliar tools and expected to be productive with them quickly.\n\n - Startup speed, not academic pace. Experiments ship to paying customers on deadlines. Getting a good answer this week beats a perfect one next quarter, and we'd rather flag an ambiguous result than sit on it.\n\n - Comfortable in front of customers. Many are PhD-level scientists at pharma companies and AI labs, and they will push back. You should enjoy that conversation rather than dread it.\n\n - Able to explain hard things simply. Some customers are biophysicists. Some are ML researchers who have never touched a pipette. You adjust without condescending to either.\n\n - Honest about uncertainty. When the data is ambiguous, you say so, to us and to the customer. We would much rather flag a weak result than ship a confident wrong one.\n\n - Familiarity with other biophysical or functional assays (DSF, HPLC, plate-based activity assays) is a plus.\n\n\nWHY THIS ROLE IS INTERESTING\n\nMost kinetics scientists spend their careers running a handful of assays very carefully. Here you'll see more binding data in a year than most people see in a decade, across a wide range of targets and design methods, including a lot of AI-designed proteins that nobody has ever characterized. You'll build pattern recognition that is genuinely rare, and you'll be the person customers call when they need to know what their data actually means.\n\n\n\nApplication deadline\n\nWe are reviewing applicants on a rolling basis.",
     "external_url": "https://jobs.ashbyhq.com/adaptyv/bcc29ec7-1e14-46e7-91ee-cf791b16feda",
-    "status": "matched",
+    "status": "ignored",
     "title": "Binding Kinetics Scientist (SPR & BLI)",
     "company": "Adaptyv Bio",
     "location": "Lausanne / Hybrid / Remote",
@@ -1148,7 +1151,7 @@
     "title": "Post Doctoral Scientist (m/w/d)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-24",
+    "posted_date": "2026-07-25",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1175,7 +1178,7 @@
     "title": "Sr Global HEOR & Payer Evidence Lead",
     "company": "Abbott",
     "location": "Switzerland - Basel",
-    "posted_date": "2026-07-24",
+    "posted_date": "2026-07-25",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -1208,7 +1211,7 @@
     "title": "Staff Scientist - Spectral Cytometry Expert",
     "company": "Labcorp",
     "location": "CHE - Geneva - 7 rue Moise-Marcinhes",
-    "posted_date": "2026-07-24",
+    "posted_date": "2026-07-25",
     "department": "",
     "score": 8,
     "matched_keywords": [
@@ -1232,7 +1235,7 @@
     "title": "Business Development Manager (m/w/d) Neuromodulation – Schweiz",
     "company": "Abbott",
     "location": "Switzerland - Baar",
-    "posted_date": "2026-07-24",
+    "posted_date": "2026-07-25",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -1326,7 +1329,7 @@
     "title": "Scientist Synthesis Automation",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-24",
+    "posted_date": "2026-07-25",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1356,7 +1359,7 @@
     "title": "Cardio-Renal Discovery Area Leader - Expert Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-24",
+    "posted_date": "2026-07-25",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -1382,7 +1385,7 @@
     "title": "Director, Medical Affairs, Hemato-Oncology, Europe",
     "company": "BeiGene",
     "location": "Basel",
-    "posted_date": "2026-07-24",
+    "posted_date": "2026-07-25",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1449,7 +1452,7 @@
     "title": "Senior Scientist microbiological Quality Control",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-07-30",
+    "posted_date": "2026-07-31",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -1479,7 +1482,7 @@
     "title": "Translational Medicine Expert – Dermatology, Associate Director",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-07-24",
+    "posted_date": "2026-07-25",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -1502,7 +1505,7 @@
     "title": "Patent Attorney",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-07-24",
+    "posted_date": "2026-07-25",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1515,7 +1518,7 @@
     "title": "Senior Expert / Senior Principal PKS Data Scientist & Scientific Software Engineer (Dual level posting)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-06",
+    "posted_date": "2026-08-07",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -1538,7 +1541,7 @@
     "title": "Senior Principal Scientist - Proteomics",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-07-24",
+    "posted_date": "2026-07-25",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -1610,7 +1613,7 @@
   },
   "https://www.michaelpage.ch/job-detail/data-and-market-intelligence-analyst/ref/jn-072026-7074770": {
     "external_url": "https://www.michaelpage.ch/job-detail/data-and-market-intelligence-analyst/ref/jn-072026-7074770",
-    "status": "matched",
+    "status": "ignored",
     "title": "Data and Market Intelligence Analyst",
     "company": "Michael Page Switzerland",
     "location": "Switzerland",
@@ -1634,7 +1637,7 @@
     "title": "Senior Regulatory Group Director",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-03",
+    "posted_date": "2026-08-04",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1674,7 +1677,7 @@
     "title": "Principal Scientist, Respiratory Discovery",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-04",
+    "posted_date": "2026-08-05",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -1698,7 +1701,7 @@
     "title": "Scientist, Cell Engineering and Phenotypic Screening Models",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-04",
+    "posted_date": "2026-08-05",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -1724,7 +1727,7 @@
     "title": "Senior Principal Scientist/Associate Director Clinical PBPK  (Dual Level Posting)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-04",
+    "posted_date": "2026-08-05",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -1753,7 +1756,7 @@
     "title": "Associate Principal Scientist Extractables & Leachables 80-100%",
     "company": "Lonza",
     "location": "CH - Basel",
-    "posted_date": "2026-08-05",
+    "posted_date": "2026-08-06",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1874,11 +1877,11 @@
   "/job/Basel/Executive-Director--Regional-Medical-Lead---Solid-Tumors--Medical-Affairs--Europe_R36265": {
     "description": "BeOne continues to grow at a rapid pace with challenging and exciting opportunities for experienced professionals. When considering candidates, we look for scientific and business professionals who are highly motivated, collaborative, and most importantly, share our passionate interest in fighting cancer.\n\nExecutive Director, Regional Medical Lead - Solid Tumors, Medical Affairs, EuropeUis an internal key expert within the indication areas, directly supporting the respective products through development, pre-marketing, launch, marketing and lifecycle management. This includes all areas of medical affairs activities such as data-generation, data-dissemination and HCP interactions. Mid- to long-term the Regional Medical Lead will be responsible for building and leading a team of Regional Medical Directors with a specific focus on either brand or indication.\n\nThe role is requires close interaction with local (country) medical directors with respect to allocated disease areas (Solid Tumors) to assure strategic dialogue considering local specifics and input as well as global and regional guidance.\n\nThe Regional Medical Lead has accountability for the regional input into the global product and indication strategies and works closely with local country medical directors to assure alignment across global, regional and local strategies, messaging as well as tactical implementation.\n\nThe role includes, but is not limited to:\n\nDirect line management\n\nMatrix leadership in the disease area\n\nProactive contribution to global & regional brand and disease area strategies\n\nIncluding gap analyses\n\nIdentification of areas of interest with respect to ISR\n\nPublication planning\n\nRegional data-dissemination (e.g. company sponsored symposia, congress submissions, medical education activities)\n\nRegional HCP interactions / outreach (e.g. investigator meetings, advisory boards)\n\nProvide input on regional perspectives on the design of for company-sponsored trials\n\nClose collaboration with regional commercial teams regarding pre-launch, launch and commercialization, assuring timely medical input and accuracy of medical / scientific content\n\nAs a leader in the organization, the incumbent will be accountable to develop regional strategies to support enduring and compliant relationships with Opinion Leaders, Research Collaborators, and Key Organizations in support of BeiGene’s pipeline development across the allocated disease area.\n\nThe incumbent will play a key role in the establishment of BeOne as a valued collaborator and best-in-class biopharmaceutical company.\n\nEssential Functions of the job:\n\nEstablish and maintain scientifically credible peer-to-peer scientific relationships with key national & regional opinion leaders in addition to other healthcare providers\n\nViewed as a Scientific Partner by KOLs\n\nFacilitate & monitor strategic partnerships with scientific/clinical experts and serve as an regional-level point of contact with organizations including but not limited to -\n\nGuideline development\n\nCooperative groups\n\nOther (Regional / National Cancer institutions)\n\nFacilitate & monitor strategic partnerships with other functional areas within BeOne\n\nLeadership in the development and execution of clinically relevant regional medical meetings (e.g., advisory boards, consultant, and investigator meetings), as requested\n\nDevelop, track, execute and report on goals and objectives.\n\nSupport disease area Medical Affairs budget planning and management.\n\nBe accountable for compliant business practices.\n\nExperience:\n\nMinimum 10 years of experience and success within other biotech/pharmaceutical companies.\n\nClinical oncology (hematology or solid tumor) experience; candidates with exceptional experience in other therapeutic areas would be considered if they demonstrated clear potential to apply their existing skills to oncology.\n\nHigh level of communication (written and verbal), interpersonal, organizational, and cross functional collaboration skills.\n\nFlexibility to work with colleagues in a global setting.\n\nAble to engage in work-related travel approximately 50%.\n\nCapabilities and Competencies:\n\nImpactful verbal and written communication skills.\n\nAbility to effectively collaborate in a dynamic environment.\n\nStrong comprehension of disease states, and knowledge of differential algorithms for treatment decisions and experience in disease states of interest to BeOne.\n\nAn expert understanding of the health care delivery system, including the managed care arena and its impact on patient care, regional medical care and the pharmaceutical industry. Ability to identify the unmet medical, educational, and research needs at a local & regional level in the medical community.\n\nAbility to interpret key scientific data and translate the findings to meet educational and research needs to affect corporate research strategic activities/decisions.\n\nUnderstanding of the design and execution of research studies and strategic implications.\n\nExhibits high degree of emotional intelligence and appreciation of diversity and multiculturalism.\n\nDesigns and/or leads training initiatives and best practices.\n\nProven ability to drive results at a high level of quality as a strategic and creative thinker.\n\nDemonstrates ability to deal with ambiguity and thrive in an ever-changing environment.\n\nStrong project management skills with demonstrated ability to manage projects and/or colleagues in successful implementation of business-critical projects.\n\nStrong time management & organizational skills.\n\nSupervisory Responsibilities:\n\nAs the portfolio in the disease area expands the role will include the built and leadership of a team of either brand or indication focused regional medical directors\n\nComputer Skills:\n\nProficient in Microsoft Office\n\nExperienced with electronic CRM systems\n\nOther Qualifications:\n\nFluent in English (written and spoken)\n\nOther European languages are an advantage\n\nTravel:\n\nA significant amount of travel is expected due to the spread location of the MSL team(s)\n\nParticipation at major congresses\n\nSalary Range Switzerland: 263,700.00 CHF - 329,600.00 CHF\n\nGlobal Competencies\nWhen we exhibit our values of Patients First, Driving Excellence, Bold Ingenuity, and Collaborative Spirit, through our twelve global competencies below, we help get more affordable medicines to more patients around the world.\nFosters Teamwork\nProvides and Solicits Honest and Actionable Feedback\nSelf-Awareness\nActs Inclusively\nDemonstrates Initiative\nEntrepreneurial Mindset\nContinuous Learning\nEmbraces Change\nResults-Oriented\nAnalytical Thinking/Data Analysis\nFinancial Excellence\nCommunicates with Clarity\n\nWe are proud to be an equal opportunity employer. BeOne does not discriminate on the basis of race, religion, color, sex, gender identity, sexual orientation, age, disability, national origin, veteran status or any other basis covered by appropriate law. All employment is decided on the basis of qualifications, merit, and business need.",
     "external_url": "https://beigene.wd5.myworkdayjobs.com/BeiGene/job/Basel/Executive-Director--Regional-Medical-Lead---Solid-Tumors--Medical-Affairs--Europe_R36265",
-    "status": "matched",
+    "status": "ignored",
     "title": "Executive Director, Regional Medical Lead - Solid Tumors, Medical Affairs, Europe",
     "company": "BeiGene",
     "location": "Basel",
-    "posted_date": "2026-08-07",
+    "posted_date": "2026-08-08",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1909,7 +1912,7 @@
   "https://apply.workable.com/debiopharm/j/144F79DDD7/": {
     "description": "Together, we innovate, we impact, we grow !\nAt Debiopharm, every step we take is guided by one purpose: improving the lives of people affected by cancer and infectious diseases. As a privately-owned Swiss biopharmaceutical company, we’re driven by science, but above all, by the people behind every treatment — the patients and their families.\nThrough our unique “development only” model, we bring forward promising therapies and transform them into treatments that can reach those who need them most, faster.\n\nAre you ready to pioneer regulatory pathways that bring life-saving therapies to patients faster?\n \nWe are currently looking for a dynamic Global Program Regulatory Lead to shape the future of our pipeline. In this pivotal role, you will be the strategic regulatory voice across Project Teams, defining global regulatory strategies for innovative medicines—including small molecules, biologics, and radiopharmaceuticals—from first-in-human studies through to registration. Your mission is to maximize compound value, navigate complex global regulatory landscapes, and accelerate early access for patients with high unmet medical needs. The role is part of the Regulatory Affairs team and will be based at our Headquarters in Lausanne, Switzerland.\n \nGlobal Program Regulatory Lead\nPermanent role, full time | Lausanne, Switzerland\n\nExecutive Summary of Responsibilities\nAs the Global Program Regulatory Lead, you are responsible for defining, developing, and executing end-to-end global regulatory strategies across assigned development projects. Reporting to the Head of Regulatory Affairs, you will act as the primary interface with health authorities (FDA, EMA, and beyond), lead cross-functional regulatory sub-teams, support business development opportunities, and mentor junior regulatory professionals to drive operational excellence and compliance.\n\nKey Tasks & Responsibilities\n\nStrategic Regulatory Leadership: Develop and implement end-to-end global regulatory strategies for innovative drug projects across preclinical, clinical, and registration phases.\nHealth Authority Interaction: Act as the primary interface for key regulatory agencies (FDA, EMA, etc.), coordinating and leading agency meetings and negotiations.\nGlobal Submissions: Accountable for key global filings including INDs/CTAs, Briefing Documents, Orphan Drug Designations, PIP/PSPs, and expedited pathways (Fast Track, Breakthrough, PRIME).\nCross-Functional Governance: Represent Regulatory Affairs on Project and Clinical Study Teams, presenting and defending strategic plans to internal governance bodies.\nDocument Ownership: Review, approve, and coordinate expert contributions for crucial deliverables such as Clinical Study Protocols, CSRs, SAPs, and DSURs.\nBusiness Development & Intelligence: Support in-licensing evaluations and out-licensing teams while monitoring the competitive and regulatory landscape to mitigate project impacts.\nVendor & Sub-team Oversight: Lead matrixed regulatory sub-teams and manage external regulatory vendors/CROs to ensure high-quality execution.\nProcess excellence: Strive for continuous process optimization within RA and cross-functionally, including contributing to SOP management. \nPeople Management: Manage, coach and contribute to the development of junior regulatory team members.  \n\nProfile Required\n\nEducational Foundation: Bachelor’s degree in life sciences; a Master’s degree or PhD/PharmD is strongly preferred.\nRegulatory Expertise: 10+ years of regulatory affairs experience in innovative medicines, preferably in oncology or anti-infectives, with thorough knowledge of the overall drug development process; experience with regulatory strategies spanning first-in-human through Phase 3 design and registration a strong asset.\nAgency Engagement: Proven track record of directly leading meetings with regulatory agencies (US & EU experience required; other global markets an asset).\nSubmission Track Record: Demonstrated success leading cross-functional teams in preparing major regulatory deliverables, expedited pathways, and global trial applications.\nMatrix Leadership: Strong ability to lead cross-functional sub-teams and influence outcomes across a matrix organization with agility and purpose.\nProblem-Solving & Autonomy: Independent, results-driven professional capable of innovating, analyzing, and solving critical regulatory challenges with minimal supervision.\nBD & Lifecycle Awareness: Familiarity with business development assessments (in/out-licensing) as well as lifecycle management or innovative formulation strategies.\nCommunication & Languages: Excellent organizational and communication skills in English; fluency or working knowledge of French is a distinct advantage.\nWhat We Offer\n\nBeing part of a company where innovation, collaboration, and impact aren’t just values — they’re how we work every day\nPartner with teams across disciplines, at the forefront of oncology and anti-infective development\nAn inclusive and respectful workplace — proud to be Equal-Pay certified\nGrow in a culture that values people, purpose, and performance\nA chance to grow, share, and shape the future of healthcare\n\nWhat to Expect in the Recruitment Process\n\nIf your application is selected, you’ll be invited to interviews with Talent Acquisition and the Hiring Manager via Teams, followed by a panel interview and reference checks. Communication is handled via Workable—check your spam folder for emails from *@outbound.workable.com.\n\nPlease contact our HR Department prior to submitting any profiles. We cannot accept unsolicited applications from agencies or recruiters.",
     "external_url": "https://apply.workable.com/debiopharm/j/144F79DDD7/",
-    "status": "matched",
+    "status": "ignored",
     "title": "P2626 - Global Program Regulatory Lead",
     "company": "Debiopharm",
     "location": "Lausanne, Vaud, Switzerland / Lausanne, Vaud, Switzerland",
@@ -1949,11 +1952,11 @@
   "/job/CH---Basel/Project-Scientist-Phys-Chem-Quality-Control-80-100-_R77925": {
     "description": "The actual location of this job is in Basel Stücki, Switzerland.\n\nFor our successful Drug Product Services (DPS) focused branch located in Basel and Stein, Switzerland, we have exciting opportunities. Become part of a group that enables its customers to meet some of the greatest challenges in patient treatment and join us by applying for the Project Scientist Phys-Chem QC position.\n\nWhat you will get:\n\nAn agile career and a dynamic work culture\n\nAn inclusive and ethical workplace\n\nCompensation programs that recognize high performance\n\nWhat you will do:\n\nReview and approve physico-chemical QC analytical data packages (e.g., identity, purity, content, compendial tests) under cGMP, ensuring compliance with SOPs and Good Documentation Practices\n\nEnsure timely tracking and closure of internal and external QC testing activities; escalate risks or delays proactively\n\nCoordinate sample lifecycle activities (from pull to disposal) and manage associated documentation in collaboration with QC Project Lead and laboratory teams\n\nSupport investigations of deviations, OOX events, and CAPAs related to QC testing\n\nContribute to onsite customer or regulatory audits by providing QC-related documentation and clarifications\n\nWhat we are looking for:\n\nMSc or BSc in Analytical Chemistry, Biochemistry, Pharmaceutical Sciences, or related field\n\n0–4 years of experience in QC or analytical development; prior exposure to GMP environments is advantageous\n\nBasic understanding of physico-chemical analytical techniques (e.g., HPLC, CE/icIEF, protein content, pH, osmolality)\n\nFamiliarity with laboratory systems such as LIMS, Empower, or Electronic Lab Notebooks is a plus\n\nStrong attention to detail, organizational skills, and ability to work within established procedures\n\nEffective communication and collaboration skills; business fluent English (written and spoken)\n\nAbout Lonza\nAt Lonza, our people are our greatest strength. With 30+ sites across five continents, our globally connected teams work together every day to manufacture the medicines of tomorrow. Our core values of Collaboration, Accountability, Excellence, Passion and Integrity reflect who we are and how we work together. Everyone’s ideas, big or small, have the potential to improve millions of lives, and that’s the kind of work we want you to be part of.\n\nInnovation thrives when people from all backgrounds bring their unique perspectives to the table. At Lonza, we value diversity and are committed to creating an inclusive environment for all employees. If you’re ready to help turn our customers’ breakthrough ideas into viable therapies, we look forward to welcoming you on board.\n\nReady to shape the future of life sciences? Apply now.",
     "external_url": "https://lonza.wd3.myworkdayjobs.com/Lonza_Careers/job/CH---Basel/Project-Scientist-Phys-Chem-Quality-Control-80-100-_R77925",
-    "status": "matched",
+    "status": "ignored",
     "title": "Project Scientist Phys-Chem Quality Control 80-100%",
     "company": "Lonza",
     "location": "CH - Basel",
-    "posted_date": "2026-08-10",
+    "posted_date": "2026-08-11",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1973,7 +1976,7 @@
     "title": "Application Development Scientist – Reagents (12 months fixed-term contract)",
     "company": "Bio-Techne / Lunaphore",
     "location": "Tolochenaz, Switzerland",
-    "posted_date": "2026-08-11",
+    "posted_date": "2026-08-12",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1992,7 +1995,7 @@
     "title": "Senior Principal Scientist / Associate Director– Soluble Biomarkers, Molecular & Cellular Sciences (MCS)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-11",
+    "posted_date": "2026-08-12",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -2018,7 +2021,7 @@
     "title": "Internship in the Product Development Medical Affairs Nucleus Team from 01.01.2027, 12 months",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-11",
+    "posted_date": "2026-08-12",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2131,7 +2134,7 @@
   },
   "https://gloorlang.starhunter.software/Headhunter/project/job-ad/hash/6a6b16a7042f3": {
     "external_url": "https://gloorlang.starhunter.software/Headhunter/project/job-ad/hash/6a6b16a7042f3",
-    "status": "matched",
+    "status": "ignored",
     "title": "Associate Director / Senior Regulatory Affairs",
     "company": "Gloor & Lang",
     "location": "Basel, Switzerland",
@@ -2211,7 +2214,7 @@
   },
   "https://www.michaelpage.ch/fr/job-detail/sp%C3%A9cialiste-salaires-et-assurances-sociales-80-100/ref/jn-072025-6778709?lang=en": {
     "external_url": "https://www.michaelpage.ch/fr/job-detail/sp%C3%A9cialiste-salaires-et-assurances-sociales-80-100/ref/jn-072025-6778709?lang=en",
-    "status": "matched",
+    "status": "ignored",
     "title": "Spécialiste salaires et assurances sociales 80-100%",
     "company": "Michael Page Switzerland",
     "location": "Switzerland",
@@ -2259,7 +2262,7 @@
   },
   "https://www.michaelpage.ch/fr/job-detail/fiscaliste-sp%C3%A9cialiste-des-personnes-morales/ref/jn-082026-7083991?lang=en": {
     "external_url": "https://www.michaelpage.ch/fr/job-detail/fiscaliste-sp%C3%A9cialiste-des-personnes-morales/ref/jn-082026-7083991?lang=en",
-    "status": "matched",
+    "status": "ignored",
     "title": "Fiscaliste spécialiste des personnes morales",
     "company": "Michael Page Switzerland",
     "location": "Switzerland",
@@ -2283,7 +2286,7 @@
     "title": "Principal Scientist - Mid/Large Scale Oligonucleotide Synthesis, xRNA Therapeutics",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-17",
+    "posted_date": "2026-08-18",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -2375,11 +2378,11 @@
   "/job/Switzerland---Plan-les-Ouates/Business-Development-Director_R00008636": {
     "description": "Job summary\n\nIdentifies, evaluates, develops and closes new customers and expands business at existing customers.  Identifies and assists in progressing biopharmaceutical business opportunities including new scientific and strategic partnerships, collaborations, licensing opportunities, joint ventures and alliances.  Establishes and implements appropriate development strategies to support business objectives. Interacts with corporate contacts, facilitates communication, keeps tracks of milestones and identifies scope for enhancing these relationships. Work with and lead internal stakeholders including CDM, SMEs, management to ensure maximum success output on new business opportunities. Proactively delegate work and responsibilities to stakeholders, notably CDM and hold yourself accountable for success.\n\nJob Responsibilities\nAssist Vice President of Business Development with activities as directed.\nIdentify new potential clients, qualify new sales leads, develop new client relationships, solicit RFPs, and manage the proposal process; Manage existing client relationships within accounts designated by VP of BD.\nAssist VP of BD with key client accounts as needed.\nParticipate in trade shows and scientific meetings as directed including coordinating preparation for trade shows with KBI marketing, setup and teardown of booth, meeting with clients/prospects in the booth, and trade show follow-up\nVisit client sites to deliver KBI capabilities presentations, probe for opportunities, establish personal relationships, follow-up  on proposals, and otherwise advance the sales process toward closure.\nCoordinate client technical visits to KBI sites including developing agendas, coordinating with KBI scientific staff, and arranging hospitality.\nCoordinate CDA and MSA review with client and KBI legal.\nFacilitate client Quality Audits and Quality Agreements with KBI Quality. Negotiate and successfully close contracts for KBI services with Biopharmaceutical clients in the designated accounts/areas.\nMaintain and update CRM with opportunities status.\nMaintain industry awareness on all biopharmaceutical companies in the territory with respect to potential process development and manufacturing opportunities.\nCoordinate with management and other business development personnel to ensure that initiatives and decisions are consistent and complimentary.\nAble to react to change productively and handle other essential tasks as assigned.\n\nMinimum Requirements\nKnowledge, Skills, Abilities\nTechnical PhD or MSc degree (science preferred) with a minimum of 4 years’ experience in business development in a life science industry.\nTrack record of success in technical business development (contract services or capital equipment in a life sciences industry preferred).\nExperienced in business development fundamentals including prospecting for suitable clients, establishing relationships with new prospects, scheduling face-to-face meetings, delivering presentations, uncovering opportunities, soliciting RFP’s, delivering proposals, gaining solid feedback on proposals, understanding and addressing client objections, and closing contracts.\nExperience in working on complex life science projects involving multiple internal company personnel and client personnel with relatively long lead times (3-6+ months) is an asset\nExperience in dealing with corporate partners and in negotiating and completing agreements is required. \nExcellent communication and interpersonal skills required.  Must possess the ability to build positive internal and external working relationships in a team-based environment. Familiarity with biopharmaceutical manufacturing and regulatory requirements, and/or the ability to quickly learn and understand these processes and requirements is important.\nAbility to travel up to 50% to visit client sites, travel to KBI sites for client meetings, and travel to trade shows and scientific meetings.\n\n    \n\nKBI Biopharma, Inc. is an EEO/AA employer and actively seeks to diversify its work force. Therefore, all qualified applicants, regardless of race, color, national origin, religion, gender, gender identity, sexual orientation, age, disability or veteran status, are strongly encouraged to apply.\n\nI understand that neither the completion of this application nor any other part of my consideration for employment establishes any obligation for KBI Biopharma, Inc. to hire me. If I am hired, I understand that either KBI Biopharma, Inc. or I can terminate my employment at any time and for any reason, with or without cause and without prior notice. I understand that no representative of KBI Biopharma, Inc. has the authority to make any assurance to the contrary.\n\nI attest with my signature below that I have given to KBI Biopharma, Inc. true and complete information on this application. No requested information has been concealed. I authorize KBI Biopharma, Inc. to contact references provided for employment reference checks. If any information I have provided is untrue, or if I have concealed material information, I understand that this will constitute cause for the denial of employment or immediate dismissal.",
     "external_url": "https://jsrglobal.wd1.myworkdayjobs.com/KBI_Biopharma/job/Switzerland---Plan-les-Ouates/Business-Development-Director_R00008636",
-    "status": "matched",
+    "status": "ignored",
     "title": "Business Development Director",
     "company": "KBI Biopharma",
     "location": "Switzerland - Plan-les-Ouates",
-    "posted_date": "2026-08-18",
+    "posted_date": "2026-08-19",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -2393,7 +2396,7 @@
   "https://careers.idorsia.com/job/Allschwil%2C-Basel-Area-Clinical-Development-Lead-BL/1418151633/": {
     "description": "The purpose of Idorsia is to challenge accepted medical paradigms, answering the questions that matter most. To achieve this, we will discover, develop, and commercialize transformative medicines – either with in-house capabilities or together with partners – and evolve Idorsia into a leading biopharmaceutical company, with a strong scientific core.\n\n \n \n\nAre you an experienced clinical development professional eager to take scientific ownership of a clinical program and help shape the future of a differentiated therapy?\n\n \n\nWe are seeking a scientifically curious, strategic and hands-on Clinical Development Lead to provide clinical and scientific leadership across the design, execution and interpretation of clinical studies. In this role, you will play a central role in translating scientific insight into high-quality clinical evidence and development decisions that can make a meaningful difference for patients.\n\n \n\nThis role offers the opportunity to shape lifecycle evidence generation and unlock the full potential of differentiated medicines through clinically meaningful, scientifically robust and strategically aligned development activities.\n\n \n\nWorking closely with Clinical Operations, Regulatory Affairs, Drug Safety, Biostatistics, Medical Affairs and Commercial colleagues, you will ensure development plans are scientifically robust, operationally feasible and strategically aligned. This is an opportunity to combine scientific depth with visible cross-functional leadership in an entrepreneurial, collaborative and fast-moving environment.\n\n \n\nKey Responsibilities\n\n \n\nThe Clinical Development Lead is the clinical and scientific expert responsible for leading the delivery of clinical program objectives for an assigned compound, in line with Company strategy and agreed development plans.\n\nMain responsibilities include:\n\n \n\nLead the multidisciplinary Clinical Team at development-program level, providing scientific direction, strategic alignment and accountability across the program.\n\nShape innovative clinical development strategies that maximize the compound's value throughout its lifecycle, integrating emerging scientific evidence and evolving standard of care into development plans.\n\nLead the scientific development and delivery of clinical sections of trial- and program-level regulatory documents, including Investigator’s Brochures, briefing books, safety updates, submission dossiers and responses to Health Authorities.\n\nProvide thought leadership in clinical trial design and execution in close partnership with key functions, ensuring scientific quality, clear prioritisation and timely delivery.\n\nProvide ongoing clinical and scientific review, interpretation and communication of clinical trial data to inform program strategy and development decisions.\n\nServe as a core member of the Safety Management Team and contribute to the assessment and communication of the compound’s benefit-risk profile.\n\nSupport the preparation of safety-related documents, including Periodic Safety Update Reports, Drug Safety Update Reports and other safety documentation, in collaboration with the Project Physician and Drug Safety Physician.\n\nMaintain a strong understanding of the therapeutic area, competitive landscape, relevant mechanisms of action and evolving standards of care.\n\nLead clinical contributions to scientific communications, including study abstracts, posters, oral presentations and manuscripts.\n\nRepresent the Company as a credible scientific leader externally with investigators, scientific experts, advisory boards and Health Authorities.\n\nChampion the clinical perspective in cross-functional discussions and support the continuous evolution of the clinical development strategy.\n\n \n\n \n\nCandidate Requirements\n\n \n\nAdvanced degree in life or health sciences, such as PhD, MD, PharmD, MSc or equivalent.\n\nAt least eight years of relevant experience in clinical development within the pharmaceutical or biotechnology industry.\n\nProven experience leading Phase II to IV clinical development programs in global, cross-functional matrix environments through successful planning, delivery and publication.\n\nStrong experience supporting global regulatory submissions and Health Authority interactions, including the preparation of key clinical and regulatory documents throughout the development lifecycle.\n\nExcellent understanding of global drug development and innovative clinical trial design through all phases, with the ability to integrate preclinical, translational, clinical, and real-world evidence to inform development strategies; pediatric development experience is an advantage.\n\nIntellectually curious with strong scientific acumen, entrepreneurial spirit, and learning agility, with the ability to challenge conventional thinking constructively.\n\nExcellent written and verbal communication skills, with strong executive presence and the ability to effectively communicate complex scientific concepts to diverse internal and external stakeholders\n\nStrong project management, prioritization, problem-solving and stakeholder-management capabilities.\n\nAbility to work independently, influence decision-making and build alignment across cross-functional teams in a dynamic matrix organization.\n\nA collaborative, proactive and pragmatic mindset, with a strong sense of ownership and commitment to delivering high-quality clinical evidence.\n\n \n\n \n\nWork  Location: Allschwil, Switzerland (primarily on-site)\n\nBusiness Area: Global Clinical Development\n\nJob Type: Permanent, full time\n\nJob ID: 4806\n \n\nAt Idorsia, we harness the power of difference, authenticity, and inclusion to achieve business success.\n\nWe encourage all potential candidates with diverse backgrounds of race, color, religion, sexual orientation, gender identity, age, national origin, and disability to submit their job applications. All applicants will receive consideration.\n\nWe are committed to fostering respect, fairness, and equal opportunities for all job applicants and our employees.\n\nPlease be informed that if you are selected for this position, your employment will be subject to a pre-employment background screening process, of which you would be informed in greater detail in due course.\n\nIdorsia Pharmaceuticals Ltd (\"Idorsia\") is committed to a fair and transparent application process. In order to avoid any conflict of interest in line with Idorsia Code of Business Conduct, which would undermine such a commitment, the applicants  must disclose any personal, financial, or other outside interests interfering with the interests of Idorsia. Further, the applicant is obliged to disclose any and all relationships with close or affiliated persons, who are employees of Idorsia or are collaborating with Idorsia in any other contractual relationship. \n\nPlease note Idorsia operates a strictly controlled list of preferred recruitment partners. For those partners who have no valid, signed Master Service Agreement in place with Idorsia, all unsolicited resumes, CVs, anonymous profiles, or any other candidate details submitted through our website or to personal e-mail accounts of employees of Idorsia Pharmaceuticals (including any of its subsidiaries, affiliates, or related companies) are considered the property of Idorsia Pharmaceuticals and are not subject to payment of any form of introduction, placement or referral fees.",
     "external_url": "https://careers.idorsia.com/job/Allschwil%2C-Basel-Area-Clinical-Development-Lead-BL/1418151633/",
-    "status": "matched",
+    "status": "ignored",
     "title": "Clinical Development Lead",
     "company": "Idorsia",
     "location": "Allschwil, Basel Area, BL, CH",
@@ -2430,7 +2433,7 @@
   "https://careers.ompharma.com/job/Meyrin-Sp%C3%A9cialiste-Qualification-&-CSV-%2890%29-Gen%C3%A8ve-Gene/1427264033/": {
     "description": "Afin d’accompagner notre croissance, nous créons un nouveau poste de Spécialiste Qualification des équipements/utilités & Validation des Systèmes Informatisés (CSV), basé à notre siège et site de production biotechnologique de Meyrin. Sous la responsabilité du Team Leader Qualification, vous intervenez au sein des équipes Qualification et CSV, en jouant un rôle clé à l’interface de ces deux fonctions. Dans ce poste, votre mission consiste à contribuer à la validation et à la qualification des systèmes informatisés, des équipements et des utilités, en garantissant leur conformité, l’intégrité des données et leur état de préparation aux inspections, tout en soutenant les initiatives d’amélioration continue.\n\nVos principales responsabilités sont les suivantes :\n\nRéaliser les activités de qualification et de validation des équipements, des utilités et des systèmes informatisés tout au long de leur cycle de vie\n\nÉlaborer, tenir à jour, revoir et archiver la documentation de qualification et de validation dans le respect des BPF et des exigences d’intégrité des données\n\nGarantir la conformité des systèmes et l’intégrité des données tout au long de leur cycle de vie\n\nAgir en tant qu’expert métier (SME) et apporter un soutien dans le cadre des Change Controls, des déviations et des CAPA, en contribuant à l’amélioration continue des processus\n\nContribuer aux audits internes et externes ainsi qu’aux inspections réglementaires en préparant, présentant et défendant la documentation de validation et de qualification\n\nCollaborer étroitement avec les équipes transverses et les différentes parties prenantes afin d’assurer la réalisation des projets et des activités opérationnelles dans les délais et dans le respect des exigences de conformité\n\nVeiller à l’application du processus de gestion des accès aux systèmes\n\nPour mener à bien cette mission, nous recherchons une personne avec le profil suivant :\n\nFormation technique supérieure (ES, HES ou équivalent) en biotechnologies, chimie, sciences de la vie, ou dans un domaine scientifique apparenté\n\nAu moins 3 à 5 ans d’expérience dans des activités de qualification au sein de l’industrie pharmaceutique, idéalement avec une expertise en CSV\n\nSolide connaissance des exigences et référentiels pharmaceutiques (GMP, 21 CFR Part 11, Annexe 11 des GMP européennes, GAMP 5)\n\nDe langue maternelle française avec une bonne maîtrise professionnelle de l’anglais, à l’écrit comme à l’oral\n\nUne expérience pratique des systèmes d’automatisation et SCADA (iFIX, Wonderware, WinCC, Winprogress) constitue un atout\n\nD’un naturel proactif et pragmatique, vous appréciez le travail en équipe et faites preuve d’un esprit entrepreneurial. Votre curiosité, votre flexibilité et votre polyvalence vous permettent d’intervenir sur une grande variété de sujets techniques et de développer continuellement votre expertise. Vous vous épanouissez dans un environnement collaboratif, construisez de solides relations transverses et abordez les défis avec pragmatisme et dans une logique de solutions.\n\nRejoignez OM Pharma et contribuez à créer un environnement fiable et conforme, essentiel à la réalisation de notre mission : améliorer la vie des patients. Postulez dès aujourd’hui et apportez une réelle contribution !\n\nAbout Us\n\nOM Pharma is a global Geneva-based biopharmaceutical company. It is a leader in the prevention of recurrent respiratory and urinary tract infections and is also active in the treatment of vascular diseases.\n\nIt operates worldwide through a strong network of international partners and invests its profits in R&D to develop microbial derived immunotherapeutic products to treat acute and chronic immunological disorders resulting from inflammation and infections. \n\nThe company strives to improve the quality of life of patients around the world by providing access to better treatment of immunological imbalances.\n\nFor more information, visit the website: ompharma.com.",
     "external_url": "https://careers.ompharma.com/job/Meyrin-Sp%C3%A9cialiste-Qualification-&-CSV-%2890%29-Gen%C3%A8ve-Gene/1427264033/",
-    "status": "matched",
+    "status": "ignored",
     "title": "Spécialiste Qualification & CSV (90%) - Genève",
     "company": "OM Pharma",
     "location": "Meyrin, Geneva, CH",
@@ -2480,11 +2483,11 @@
   "/job/Basel/Senior---Principal-Scientist-in-Pharmaceutical-Development-of-Synthetic-Molecules--Drug-Product-_202608-120771-2": {
     "description": "At Roche you can show up as yourself, embraced for the unique qualities you bring. Our culture encourages personal expression, open dialogue, and genuine connections,  where you are valued, accepted and respected for who you are, allowing you to thrive both personally and professionally. This is how we aim to prevent, stop and cure diseases and ensure everyone has access to healthcare today and for generations to come. Join Roche, where every voice matters.\n\nThe Position\nIn PTD, we collaborate to develop robust manufacturing processes and quality control systems to efficiently transform scientific ideas into products, reliably delivering quality products to patients enrolled in clinical studies around the world. We excel in our work by creating an engaging and inclusive environment where everyone can bring their skills and talents to developing innovative medicines. This position is part of the Synthetic Molecule Pharmaceutical and Solid State Development organisation (PTDC-P), where we transform molecules to medicines through particle engineering and develop and deliver customised clinical formulations and robust commercial drug products that benefit patients.\nAs a Senior Scientist / Principal Scientist in Drug Product Development, you are responsible for developing robust formulations and lean manufacturing processes for oral dosage forms of new chemical entities. In this position, you work closely with international teams across various disciplines (chemistry, analytics, quality, regulatory, and commercial production), represent the department on technical development teams (CMC) and scientific boards, and drive scientific initiatives to ensure the department's scientific and technical excellence.\n\nThe Opportunity\nThe main responsibilities of this challenging position include:\n\nDeveloping and optimizing clinical and commercial formulations and manufacturing processes for oral solid drug products using various technologies (i.e., batch and continuous mode), including scale-up and transfers to facilitate successful process validation at commercial sites.\n\nDeveloping and implementing new and innovative drug delivery technologies that can be applied in regular portfolio projects.\n\nApplying statistical tools (e.g., DoEs), risk assessment tools for QbD (e.g., QRA, FMEA), and Modelling and Simulation tools.\n\nRegularly reviewing scientific literature to extract relevant trends and integrate innovative concepts and technologies into the scientific strategy of the department.\n\nAuthoring and reviewing technical reports, manufacturing instructions, process validation documents, and the CMC parts of regulatory submissions to support market authorisation.\n\nActively participating in scientific teams at Roche and external consortia, while actively contributing to the intellectual property values protection of our Roche products.\n\nActively sharing your knowledge and experience with other scientists in regular exchange meetings, and serving as a project consultant or mentor.\n\nWho You Are\nTo be successful in this role, you bring the following qualifications:\n\nYou hold a PhD or Master’s in Pharmaceutical Technology or Chemical/Process Engineering, backed by 5–10 years of experience in the development of oral dosage forms.\n\nYou possess broad expertise in the drug product lifecycle, including the authorship of CMC regulatory dossiers, and a preference for direct, professional interaction with health authorities.\n\nYou excel at managing external partnerships, demonstrating a strong ability to lead and collaborate effectively with CDMOs.\n\nYou are a results-driven innovator who applies \"out of the box\" thinking to implement technical solutions, remains highly adaptable to organisational change, and demonstrates high professional flexibility, including occasional travel to meet project and stakeholder needs.\n\nYou combine a coaching mindset with excellent communication skills, thriving as a fair team player who can work both independently and cross-functionally.\n\nReady for the next step? We look forward to hearing from you. Apply now to discover this exciting opportunity!\n \n \n\nWho we are\nA healthier future drives us to innovate. Together, more than 100’000 employees across the globe are dedicated to advance science, ensuring everyone has access to healthcare today and for generations to come. Our efforts result in more than 26 million people treated with our medicines and over 30 billion tests conducted using our Diagnostics products. We empower each other to explore new possibilities, foster creativity, and keep our ambitions high, so we can deliver life-changing healthcare solutions that make a global impact.\n\nLet’s build a healthier future, together.\n\nRoche is an Equal Opportunity Employer.",
     "external_url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Senior---Principal-Scientist-in-Pharmaceutical-Development-of-Synthetic-Molecules--Drug-Product-_202608-120771-2",
-    "status": "matched",
+    "status": "ignored",
     "title": "Senior / Principal Scientist in Pharmaceutical Development of Synthetic Molecules (Drug Product)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-19",
+    "posted_date": "2026-08-20",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2515,11 +2518,11 @@
   "/job/Basel/Discovery-Scientist---Neural-Retina---Ocular-Disease_202608-121247-1": {
     "description": "At Roche you can show up as yourself, embraced for the unique qualities you bring. Our culture encourages personal expression, open dialogue, and genuine connections,  where you are valued, accepted and respected for who you are, allowing you to thrive both personally and professionally. This is how we aim to prevent, stop and cure diseases and ensure everyone has access to healthcare today and for generations to come. Join Roche, where every voice matters.\n\nThe Position\nOur Ophthalmology team in Basel focuses on discovering novel therapeutic approaches for major eye diseases, encompassing dry AMD/geographic atrophy and neovascular forms, as well as diabetic retinopathy, and other retinal vascular diseases. We are seeking a highly motivated Discovery Scientist with specialized expertise in the neural retina and retinal pathology, including processes such as inflammation, vascular dysfunction, ischemia, fibrosis, and neurodegeneration, to drive our early-stage drug discovery efforts.\n\nThe opportunity:\n\nIn this role, your key responsibilities include, but are not limited to:\n\nTarget Identification & Validation: Utilize and establish advanced in vitro and in vivo models of ocular disease, and leverage available patient sample datasets to identify, validate, and characterize novel therapeutic drug targets.\n\nTherapeutic Approach Development: Identify and evaluate optimal therapeutic modalities for selected targets.\n\nProject Leadership: Independently lead and manage drug discovery projects from target initiation through early clinical development stages (up to Phase II readiness).\n\nCross-Functional Collaboration: Partner with interdisciplinary teams across pRED (including bioinformatics, safety, and translational medicine) to advance pipeline programs. \n\nExternal Collaboration: Initiating and leading external collaboration projects to bolster internal efforts. Manage CRO activities, including project design, timelines, and quality of deliverables.\n\nScientific Communication: Present research findings at internal decision-making meetings, author high-impact publications in top-tier peer-reviewed journals, and represent Roche at international scientific conferences.\n\nDiscovery Lab Management: Support and coordinate safety, health, and environmental processes in the lab.\n\nYou who are:\n\nYou hold a PhD in Biology, Neuroscience, Biochemistry, or a related life sciences discipline.\n\nYou have completed a Postdoctoral Fellowship in Vision Research, Neural Retina, Ophthalmology, or a closely related field.\n\nYou bring comprehensive knowledge of neural retina biology and the mechanisms underlying retinal disease pathogenesis, together with a proven track record of conducting experiments using models of ocular angiogenesis, fibrosis, inflammation, or neurodegeneration.\n\nYou have direct hands-on experience in animal handling and/or ocular procedures, OR demonstrated expertise in developing novel 2D/3D model systems, such as organoids or organ-on-a-chip. You also bring experience in cell/tissue culture, -omics technologies, and/or basic bioinformatic tools.\n\nYou demonstrate excellent organizational skills, rigorous record-keeping, exceptional oral and written English communication, and a strong collaborative mindset in a fast-paced environment.\n\nYou bring 2–3 years of additional professional experience in academic or industry drug discovery settings, together with a proven track record of leading research projects and cross-functional project teams and a strong publication record in top-tier vision or scientific journals.\n\nYou have an established professional network within the global ophthalmology research community.\n\nAt Roche, we aim high to deliver life-changing healthcare solutions. If you’re ready to make a meaningful impact on patients and healthcare systems worldwide, this is the place for you.\n\n \n \n\nWho we are\nA healthier future drives us to innovate. Together, more than 100’000 employees across the globe are dedicated to advance science, ensuring everyone has access to healthcare today and for generations to come. Our efforts result in more than 26 million people treated with our medicines and over 30 billion tests conducted using our Diagnostics products. We empower each other to explore new possibilities, foster creativity, and keep our ambitions high, so we can deliver life-changing healthcare solutions that make a global impact.\n\nLet’s build a healthier future, together.\n\nRoche is an Equal Opportunity Employer.",
     "external_url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Discovery-Scientist---Neural-Retina---Ocular-Disease_202608-121247-1",
-    "status": "matched",
+    "status": "ignored",
     "title": "Discovery Scientist – Neural Retina & Ocular Disease",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-19",
+    "posted_date": "2026-08-20",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -2537,7 +2540,7 @@
   },
   "https://www.michaelpage.ch/fr/job-detail/sp%C3%A9cialiste-sap-basis-lausanne/ref/jn-072026-7068151?lang=en": {
     "external_url": "https://www.michaelpage.ch/fr/job-detail/sp%C3%A9cialiste-sap-basis-lausanne/ref/jn-072026-7068151?lang=en",
-    "status": "matched",
+    "status": "ignored",
     "title": "Spécialiste SAP Basis - Lausanne",
     "company": "Michael Page Switzerland",
     "location": "Switzerland",
@@ -2557,11 +2560,11 @@
   "/job/Lengnau-Switzerland/Senior-Scientist-Bio--Chemical-Quality-Control_R-01364276": {
     "description": "Work ScheduleStandard (Mon-Fri)\n\nEnvironmental ConditionsOffice\n\nJob Description\n\nJoin our Quality Control team at Thermo Fisher Scientific where you'll make meaningful contributions to our mission of enabling customers to make the world healthier, cleaner and safer. As a Senior Scientist, you will support the establishment and operational readiness of the Bio-/Chemical Quality Control (BCQC) unit at the Thermo Fisher Scientific Lengnau site in accordance with project timelines. Key responsibilities include contributing to the transfer, verification, and validation of analytical methods, as well as the qualification of laboratory equipment required for testing activities. The role also actively supports GMP inspection readiness by ensuring compliance with applicable Quality Systems, procedures, and documentation requirements. In addition, it contributes to overall QC operational readiness through the management and coordination of internal and external projects, resource allocation, and the planning and prioritization of daily team activities. This role offers excellent opportunities for professional growth while working alongside colleagues who share your commitment to science and quality.\n\nPosition Summary:\nThe Senior Scientist Bio-/Chemical Quality Control (BCQC) plays a key role in establishing, implementing, and maintaining compliant QC processes and analytical methods for the testing of finished products, in-process controls, intermediates, raw materials, utilities, and cleaning samples.\nThe position combines scientific expertise, GMP compliance, and project leadership. The Senior Scientist is responsible for coordinating analytical activities, supporting the implementation and lifecycle management of methods and equipment, leading local and global QC projects, and ensuring that activities are completed in accordance with defined quality requirements and timelines.\nThe role works closely with QC management, internal stakeholders, project teams, external partners, suppliers, contract laboratories, and other functions to ensure operational excellence and continuous improvement within BCQC.\n\nResponsibilities:\n\nProcesses and Analytical Methods Implementation\nThe Senior Scientist coordinates activities required to establish and maintain QC processes and analytical methods within the assigned area of expertise. Key responsibilities include:\nAuthoring and revising Standard Operating Procedures (SOPs), Work Instructions (WIs), and other controlled documents in compliance with GMP requirements and established timelines.\nActing as Subject Matter Expert (SME) for the review and approval of analytical methods, plans, protocols, reports, and other technical documentation.\nCoordinating the procurement, qualification, calibration, maintenance, and lifecycle management of analytical and laboratory infrastructure equipment.\nSupporting the procurement, preparation, manufacturing, qualification, and verification of test, reference, and control materials.\nCoordinating and executing the development, transfer, verification, qualification, and validation of analytical procedures according to applicable regulatory requirements and project timelines.\nReviewing analytical raw data, equipment qualification and maintenance records, and other relevant BCQC documentation to ensure accuracy, completeness, data integrity, and GMP compliance.\nEnsuring that analytical processes and methods are appropriately implemented and maintained to support reliable and compliant routine QC operations.\n\nProject Leadership\nThe Senior Scientist represents BCQC in cross-functional projects, working groups, and local and global initiatives and ensures that project requirements, resources, workload, timelines, and deliverables are clearly defined.\nKey responsibilities include:\nLeading the implementation of local and global projects within QC and ensuring effective planning and execution of assigned activities.\nTranslating project requirements into clear, data-driven workload and resource plans.\nCoordinating allocated resources in collaboration with QC management and other QC functions to ensure that timelines and project objectives are achieved.\nDriving collaboration within project teams and ensuring alignment with company strategy, priorities, and core values.\nFacilitating effective and timely communication within project teams and across relevant stakeholders.\nLeading and supporting structured problem-solving activities when issues arise in connection with assigned projects or tasks.\nMonitoring project progress, risks, milestones, deliverables, and KPIs and escalating potential delays or issues when appropriate.\nPromoting accountability by communicating expectations, ensuring transparency of relevant information, and proactively addressing or escalating conflicts and challenges.\nSupporting continuous improvement initiatives aimed at strengthening QC compliance, efficiency, quality, and overall performance.\nEstablishing and maintaining effective relationships with external partners, including suppliers, contract laboratories, service providers, and universities.\n\nQC Execution and Compliance\nThe Senior Scientist supports the compliant and timely execution of routine and non-routine QC activities and ensures appropriate documentation of analytical work. Responsibilities include:\nEnsuring that raw data, analytical results, reports, logbooks, and other relevant records are accurately documented, reviewed, and retained in accordance with applicable procedures and data integrity requirements.\nSupporting the investigation and resolution of analytical and quality-related issues, including requests associated with biochemical and chemical testing.\nEnsuring that deviations and laboratory investigations are initiated, investigated, documented, and completed in a timely and compliant manner.\nProviding scientific and technical expertise to support investigations, root cause analysis, and the definition of appropriate corrective and preventive actions, where applicable.\nSupporting responses to internal stakeholders, customers, sponsors, auditors, and Health Authority requests related to the assigned area of responsibility.\nKeeping the Head of BCQC appropriately informed regarding ongoing activities, project status, risks, and significant issues.\nEnsuring effective and transparent communication of relevant information to sponsors, stakeholders, project teams, and QC colleagues.\n\nTeam Support and Development\nThe Senior Scientist contributes to the development of a strong, collaborative, and compliant QC organization by:\nProviding scientific and technical guidance to QC colleagues.\nMentoring and supporting team members in GMP, Quality Control principles, analytical methods, and laboratory best practices.\nSupporting the planning and coordination of team activities and resources according to operational and project priorities.\nContributing to recruitment activities and the onboarding and development of new team members.\nPromoting a culture of quality, accountability, collaboration, continuous improvement, and GMP compliance.\n\nRequirements:\nDegree (Master or higher) in biochemical / chemical/ pharmaceutical/ molecular sciences or similar\nLower educational background could be accepted, as applicable, in case of former experience in the pharmaceutical industry\nPreferred Fields of Study: Chemistry, Biochemistry, Biology, Molecular Biology or related scientific field\nMin 2 years experience in GMP regulated industry\n3-5 years lab experience\nAdditional certifications in Quality Control/GMP practices beneficial\nStrong knowledge of GMP regulations and quality systems requirements\nProficiency in analytical techniques including HPLC, GC, MS, spectrophotometry\nExperience with biochemical testing methods\nStrong documentation skills and proficiency with laboratory information management systems\nKnowledge of relevant regulatory standards (ISO, FDA, USP, EP)\nExcellent attention to detail and ability to follow written/verbal p",
     "external_url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Lengnau-Switzerland/Senior-Scientist-Bio--Chemical-Quality-Control_R-01364276",
-    "status": "matched",
+    "status": "ignored",
     "title": "Senior Scientist Bio-/Chemical Quality Control",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-08-20",
+    "posted_date": "2026-08-21",
     "department": "",
     "score": -1,
     "matched_keywords": [
@@ -2584,11 +2587,11 @@
   "/job/Basel-City/Associate-Director--Search---Evaluation--Immunology-_REQ-10080739-1": {
     "description": "Salary Range:CHF129,500.00 - CHF240,500.00\n\n \nJob Description Summary#LI-Hybrid\nLocation: Basel, Switzerland\n\nInternal title: Associate Director, Search & Evaluation\n\nJoin us at the forefront of scientific innovation, where your insights can shape the future of Immunology at Novartis. In this role, you will identify and evaluate novel therapeutics with the potential to transform the practice of medicine for patients suffering from immunological diseases. The scope includes a wide range of tasks from contributing to the partnering strategy, accessing targets and novel biology of therapeutic relevance across all development stages. The individual acts as an ambassador for the Immunology Therapeutic Area and for the broader organization and serves as a go to person for respective external partnering opportunities. Working across research, commercial, and business development teams, you will play a pivotal role in uncovering high-impact opportunities, building strategic partnerships, and driving growth through informed decision-making. If you are passionate about translating scientific innovation into real-world impact and thrive in a collaborative, fast-paced environment, this is your opportunity to make a difference.\n\n \nJob Description\nKey Responsibilities\nIdentify and evaluate external therapeutic opportunities aligned with Immunology strategy across the development value chain\nLead search activities and efficient triaging and prioritization leveraging in depth knowledge in the immunology therapeutic area, and ensure prioritization aligns with strategic business development and licensing objectives.\nBuild and analyze competitive landscapes and innovation ecosystems to inform opportunity sourcing and decision-making\nConduct triage and due diligence for inbound opportunities with clear documentation and structured recommendations\nCollaborate cross-functionally to prepare high-quality materials for governance reviews and deal execution processes\nEngage stakeholders across research, commercial, and corporate development to drive alignment and informed decisions\nPresent strategic opportunities to senior leadership and contribute to internal consensus building\nRepresent Novartis at industry conferences and external meetings to strengthen partnerships and market visibility\n\nEssential Requirements\nAdvanced university degree in life sciences\nWorking experience in the pharmaceutical or biotechnology industry, preferably in business development, strategy, consulting, or research, either in-house in a biotech or pharmaceutical company or working with health care clients\nStrong understanding of drug discovery, clinical development, and emerging therapeutic concepts\nDemonstrated ability to analyze complex scientific data and translate insights into strategic recommendations\nProven experience collaborating across cross-functional teams in a matrixed global organization\nExcellent communication and stakeholder engagement skills, with ability to influence senior leadership\n\nBenefits & Rewards \n\nAt Novartis, we’re committed to reimagining medicine together - and rewarding the people who make it happen. \n\n  \n\nExpected Annual Base Salary Range for role: CHF 129.500 - CHF 240.500\n\n  \n\nThe base salary offered is determined based on gender-neutral objectives, such as relevant skills, competencies and experience in accordance with the Novartis pay setting policy and upon joining Novartis will be reviewed periodically. \n\n  \n\nIn addition to your base salary, you may be eligible for a performance-based bonus depending on certain performance parameters. \n\n  \n\nThe rewards of being part of our team go far beyond base pay and incentives. We also offer a variety of competitive benefits in kind to help you thrive personally and professionally, such as insurance plans, retirement plans, wellbeing resources and global recognition programs. In addition, we provide flexible and hybrid working options, where possible, and minimum 14 weeks paid parental leave. \n\n  \n\nRead our brochure to learn more about our global total rewards offering: \n\nhttps://www.novartis.com/sites/novartis_com/files/novartis-life-handbook.pdf \n\n  \n\nNote: Benefits and compensation may vary by country and are subject to local legal requirements, including provisions of collective bargaining agreements where applicable. A full overview of your compensation package, including any relevant collective bargaining agreement details applicable to your role based on your employment location and Novartis employer entity, will be communicated separately to you during the application process. \n\nCommitment to Diversity and Inclusion:\nNovartis is committed to building an outstanding, inclusive work environment and diverse teams representative of the patients and communities we serve.\n\nAccessibility and Accommodation:\nNovartis is committed to working with and providing reasonable accommodation to all individuals. If, because of a medical condition or disability, you need a reasonable accommodation for any part of the recruitment process, or in order to receive more detailed information about the essential functions of a position, please send an e-mail to diversity.inclusion_ch@novartis.com and let us know the nature of your request and your contact information. Please include the job requisition number in your message. \n\n \nSkills Desired",
     "external_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Basel-City/Associate-Director--Search---Evaluation--Immunology-_REQ-10080739-1",
-    "status": "matched",
+    "status": "ignored",
     "title": "Associate Director, Search & Evaluation (Immunology)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-20",
+    "posted_date": "2026-08-21",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2629,7 +2632,7 @@
   },
   "https://www.stettlerconsulting.ch/en/current-vacancies/quality-regulatory-affairs-manager-w-m-80-100/": {
     "external_url": "https://www.stettlerconsulting.ch/en/current-vacancies/quality-regulatory-affairs-manager-w-m-80-100/",
-    "status": "matched",
+    "status": "ignored",
     "title": "Quality & Regulatory Affairs Manager 80–100 %",
     "company": "Stettler Consulting",
     "location": "Zuerich & Umgebung / Ostschweiz, Switzerland",
@@ -2648,7 +2651,7 @@
     "title": "Scientist 6 months fix-term contract 80-100%",
     "company": "Lonza",
     "location": "CH - Basel",
-    "posted_date": "2026-08-21",
+    "posted_date": "2026-08-22",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2659,7 +2662,7 @@
   "https://jobs.ashbyhq.com/benchling/cb8c6fa5-051f-4a99-aaa0-d0ce3d7178c3": {
     "description": "We are rebuilding biotech for the AI era.\n\nWhen a breakthrough is delayed, the world waits. Getting a molecule from discovery to patients, or a crop from lab to field, involves thousands of slow, manual, disconnected steps. AI has the potential to change this, compressing decades of R&D work into years. But that only happens when clean, structured scientific data and AI are built into how science gets done.\n\nBenchling is the AI platform for biotech R&D. Scientists use Benchling to design experiments, capture structured data, and run AI agents and models directly in their workflows. Over 200,000 scientists around the world trust Benchling to power their most important work, from academic labs to Sanofi, Moderna, and more than half of the world's top 50 biopharma.\n\nWe’re building an AI scientist for our customers. We can’t do that if we haven’t built the muscle ourselves. AI fluency is the foundation we build on; it's core to how we work, and we're committed to helping every new hire integrate it into their day-to-day. As part of our interview process, you'll complete a brief AI-focused exercise or discussion so we can understand how you think about and use AI to drive impact in your role. Feel free to reference any tools, platforms, or workflows you use today.\n\n\n\n\n\n\nROLE OVERVIEW\n\nThe Portfolio Leader of Commercial Professional Services (EMEA) owns the commercial performance of Benchling's services portfolio across EMEA, with a focus on the Strategic and SMB segments. This role spans bespoke strategic implementations, standardized and packaged services, and the Implementation Partner ecosystem.\n\nThis is a senior individual contributor role. The role does not manage the implementation teams directly.  It owns the commercial motion, the delivery frameworks, the partner program, and the capacity model that make EMEA commercial services run.\n\nThe role is accountable for EMEA services bookings, for the delivery health of engagements regardless of who staffs them, and for the frameworks that keep bespoke, packaged, and partner delivery working together.\n\n \n\n\nRESPONSIBILITIES\n\n - Commercial Services Performance\n   \n   - Commercial ownership: Own EMEA services bookings across bespoke, packaged, and partner-delivered work. Forecast accurately and manage to target.\n   \n   - Strategic delivery: Drive delivery quality on custom-scoped EMEA implementations for Strategic and SMB accounts, ensuring engagements land on time, on budget, and against committed customer outcomes.\n   \n   - Customer outcomes: Drive time-to-value and adoption on delivered engagements, measured by customer results.\n\n - Commercial Motion, Scoping, and Services Attach\n   \n   - Scoping-to-delivery pipeline: Own the EMEA motion that moves an opportunity from qualification through scoping, SOW, and handoff to delivery. Keep it repeatable and low-friction.\n   \n   - SOW and pricing governance: Set the standards for scoping quality, pricing, and margin. Review and approve custom SOWs against commercial and delivery-risk thresholds.\n   \n   - Services attach: Partner with EMEA Sales to maximize the rate at which software deals attach the right services, scoped correctly the first time.\n   \n   - Delivery model selection: Decide the optimal mix of bespoke, packaged, internal, and partner delivery for each engagement to balance margin, speed, and quality.\n\n - Packaged and Scaled Services Program\n   \n   - Program ownership: Own the EMEA packaged and standardized services portfolio (small projects, maintenance, advisory, and add-ons) end to end.\n   \n   - Packaged delivery oversight: Provide oversight for packaged-service customers, keeping projects within timelines and managing support issues proactively.\n   \n   - Repeatability: Keep offerings standardized, profitable, and relevant to the EMEA market from SMB through Strategic accounts.\n\n - Partner Governance and Capacity Expansion\n   \n   - Partner lifecycle: Own the governance, oversight, and operational relationship with EMEA implementation partners.\n   \n   - Enablement and certification: Define and run onboarding and certification for Partner Implementation Managers, using packaged and scaled work as the initial training ground for the Benchling Implementation Methodology.\n   \n   - Joint delivery model: Define and champion the ways of working between internal and partner consultants.\n   \n   - Capacity strategy: Deploy certified partner resources alongside Benchling consultants to scale capacity without sacrificing quality.\n\n - Process, Methodology, and Accountability\n   \n   - Methodology stewardship: Ensure adherence to the Benchling Implementation Methodology across bespoke delivery, the packaged services program, and all certified partners in EMEA.\n   \n   - Framework: Build the frameworks, playbooks, and governance that scale quality and consistency.\n   \n   - Metrics and reporting: Establish and monitor KPIs for utilization, realization, margin, partner performance, enablement efficacy, and project velocity, and report on them to EMEA CX leadership.\n\n \n\n\nQUALIFICATIONS\n\n - Experience: 7+ years in Professional Services, Consulting, or Delivery, with deep expertise owning complex commercial engagements end to end. Experience owning a services portfolio, program, or commercial outcome as a senior individual contributor or player-coach.\n\n - Commercial fluency: Proven ownership of bookings, revenue, and margin outcomes, including scoping, pricing, forecasting, and estimate-at-completion discipline.\n\n - Influence and persuasion: Track record of driving results and enforcing standards across teams the role does not manage.\n\n - Scale focus: Experience with high-volume standardized services (packaged services, advisory, or smaller project delivery) alongside custom enterprise engagements.\n\n - Partner management: Demonstrable experience enabling and governing third-party consulting or system integration partners on technical implementations.\n\n - EMEA context: Experience delivering across EMEA markets, time zones, and languages. Multilingual capability is a plus.\n\n - Technical acumen: Familiarity with the software development lifecycle, implementation methodologies (e.g., agile), and cloud/SaaS environments.\n\n \n\n\nHOW WE WORK\n\nWe offer a flexible hybrid work arrangement that prioritizes in-office collaboration. Employees are expected to be on-site 3 days per week (Monday, Tuesday, and Thursday).\n\n\n\n\n\n\n\n#LI-Hybrid \n\n#BI-Hybrid \n\nBenchling welcomes everyone.\n\nWe believe diversity enriches our team so we hire people with a wide range of identities, backgrounds, and experiences. \n\nWe are an equal opportunity employer. That means we don’t discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. We also consider for employment qualified applicants with arrest and conviction records, consistent with applicable federal, state and local law, including but not limited to the San Francisco Fair Chance Ordinance.",
     "external_url": "https://jobs.ashbyhq.com/benchling/cb8c6fa5-051f-4a99-aaa0-d0ce3d7178c3",
-    "status": "matched",
+    "status": "ignored",
     "title": "Portfolio Leader, Commercial Professional Services",
     "company": "Benchling",
     "location": "Zurich, Switzerland",
@@ -2671,7 +2674,7 @@
   },
   "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-senior-scientist-monitoring-lengnau-890552/1": {
     "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-senior-scientist-monitoring-lengnau-890552/1",
-    "status": "matched",
+    "status": "ignored",
     "title": "Senior Scientist Monitoring(m/f/d)",
     "company": "Hays Switzerland",
     "location": "Lengnau, Switzerland",
