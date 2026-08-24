@@ -708,11 +708,6 @@
     "external_url": "https://jobs.smartrecruiters.com/Sobi/744000123888995-it-operations-manager-full-stack-developer-azure-ai?oga=true",
     "status": "matched"
   },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000130162349": {
-    "description": "Introduction:\nAs a firefighter at CERN, you will work 12-hour shifts with 24/7 readiness, responding to emergencies while ensuring safety through monitoring, inspections, and specialised rescue operations.\nYou will also maintain equipment, support fire prevention efforts, and collaborate with French and Swiss emergency services, all while engaging in continuous training to sustain peak operational performance.\nFunctions:\nAfter completing an initial 10-week on-the-job training program tailored to CERN’s environment, you will join your assigned team and take on the following responsibilities:\nEmergency response: Perform firefighting, medical emergency response, and rescue operations.\nSafety Control Room operations: Monitor and manage emergency dispatch activities.\nTechnical inspections & patrols: Conduct safety checks and ensure compliance with fire regulations.\nSpecialised assistance: Provide support in confined space operations, hazardous material handling, and transport missions involving special risks.\nTraining & exercises: Participate in regular drills and continuous professional development in line with the Fire and Rescue Service’s training plan.\nFire prevention & awareness: Engage in fire safety initiatives, training sessions, and collaborative safety projects.\nEquipment maintenance: Ensure the upkeep of firefighting and medical emergency equipment, including fire extinguishers and hydrants.\nProject participation: Contribute to ongoing projects within the Fire and Rescue Service.\nAdministrative & operational support: Assist with necessary administrative duties and team-wide responsibilities.\nPhysical training: Participate in both individual and group fitness programs.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000130162349-professional-firefighter-hse-frs-2026-104-ld-?oga=true",
-    "status": "matched"
-  },
   "https://www.stettlerconsulting.ch/en/current-vacancies/business-development-manager-wound-care-w-m-100/": {
     "external_url": "https://www.stettlerconsulting.ch/en/current-vacancies/business-development-manager-wound-care-w-m-100/",
     "status": "ignored",
@@ -2159,20 +2154,6 @@
     "external_url": "https://www.michaelpage.ch/de/job-detail/sales-consultant-business-development-manager-mwd/ref/jn-072026-7057195?lang=en",
     "status": "ignored",
     "title": "(Senior) Sales Consultant / Business Development Manager (m/w/d)",
-    "company": "Michael Page Switzerland",
-    "location": "Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": -2,
-    "matched_keywords": [],
-    "deducted_keywords": [
-      "location:Switzerland"
-    ]
-  },
-  "https://www.michaelpage.ch/de/job-detail/business-development-specialist-100/ref/jn-032026-6968386?lang=en": {
-    "external_url": "https://www.michaelpage.ch/de/job-detail/business-development-specialist-100/ref/jn-032026-6968386?lang=en",
-    "status": "ignored",
-    "title": "Business Development Specialist (a) 100%",
     "company": "Michael Page Switzerland",
     "location": "Switzerland",
     "posted_date": "",
