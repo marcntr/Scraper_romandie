@@ -903,7 +903,7 @@
     "title": "\"Principal Scientist siRNA Design",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-31",
+    "posted_date": "2026-07-30",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1342,11 +1342,6 @@
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000139265761-maintenance-support-technician-te-crg-ml-2026-194-grae-?oga=true",
     "status": "matched"
   },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000139582015": {
-    "description": "Introduction:\nContribute to the Safety of the world's most complex particle accelerators!\nAre you passionate about ensuring safety in highly complex environments? At CERN, you won’t just support safety - you will help shaping it at the cutting edge of science. Take up a paramount role that contributes to the protection and performance of CERN’s fixed target experimental areas.\nAs a Safety Engineer in the Safety Unit, you will play an essential role in ensuring safe operation and driving continuous improvement in the beam lines and infrastructure managed by the Beams Department.\nFunctions:\nEvaluate safety requirements and implement risk mitigation strategies for activities, accelerator and beam operation and large-scale projects.\nAssess compliance of installations, laboratories and workshops through safety audits, inspections and testing.\nAuthorise activities through safety evaluations and the issuance of safety permits, ensuring CERN's safety rules are met.\nProvide training and promote awareness on safety-related matters, ensuring best practices are understood and applied.\nContribute to the continuous improvement of CERN's safety- and quality management, including documentation.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000139582015-safety-engineer-be-asr-su-2026-163-ld-?oga=true",
-    "status": "matched"
-  },
   "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000139543477": {
     "description": "Dans le cadre de votre fonction, vous évaluez le fonctionnement psychologique des patients et patientes et prenez en charge leurs difficultés. Vous élaborez des plans de prise en charge adaptés, développez des activités d’intervention, de prévention et contribuez ainsi à une prise en charge proactive.\nDans vos activités, vous travaillez en interdisciplinarité avec les équipes médico-soignantes, le personnel médico-thérapeutique et participez activement aux colloques interdisciplinaires de réadaptation.\nEn collaboration avec vos collègues psychologues, vous organisez les thérapies et la répartition des unités à couvrir.\nVous supervisez les psychologues en formation postgrade de psychothérapie, initiez et collaborez à des activités d’enseignement et de recherche en lien avec les intérêts de la Clinique.",
     "external_url": "https://jobs.smartrecruiters.com/HUG/744000139543477-psychologue-specialise-ou-specialisee-en-psychotherapie-crans-montana-80-?oga=true",
@@ -1425,11 +1420,6 @@
     "external_url": "https://jobs.smartrecruiters.com/HUG/744000140164259-psychomotricien-ou-psychomotricienne-au-service-de-psychiatrie-de-l-enfant-et-de-l-adolescent-50-?oga=true",
     "status": "matched"
   },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000140414669": {
-    "description": "Are you passionate about digital design, digital signal processing, and experimental accelerator physics? Do you want to contribute to the modernisation of CERN's advanced linear accelerators? If so, this is an exceptional opportunity to bridge laboratory innovations with hands-on commissioning at a world-class facility.\nIn this role, you will join the Accelerator Systems Department (SY) and work within the Radio Frequency (RF) Group. The group is responsible for the design, operation, and maintenance of the RF acceleration and deflecting systems across the entire CERN accelerator complex. As part of an ongoing consolidation and performance upgrade Low-Level Radio Frequency (LLRF) systems are being modernised. You will contribute directly to the design, prototyping, and implementation of a next-generation digital LLRF cavity controller.\nYour responsibilities:\nDevelop FPGA firmware implementing precise real-time phase, amplitude, and resonance tuning algorithms.\nDesign and integrate firmware components and fast diagnostic sub-systems.\nDevelop Python-based tools and frameworks for automated hardware testing, parameter characterisation, and laboratory data analysis.\nSupport the integration, laboratory validation, and commissioning of the new low-level cavity controllers directly.\nMore information here.\nYour profile:\nRequired experience:\nExperience in FPGA design and firmware development, preferably using VHDL.\nFamiliarity with FPGA development environments and verification/debugging tools.\nProgramming experience in Python or a similar language for test automation and data analysis.\nDesired experience:\nExperience modeling or simulating digital signal processing (DSP) algorithms or control loops.\nExposure to Radio Frequency (RF) concepts, basic control theory (like PID loops), or electronics hardware debugging.\nFamiliarity with hardware testing and developing automated test benches for hardware validation.\nSkills:\nRequired Skills:\nProficiency in digital design and FPGA development, ideally utilising VHDL or Verilog.\nSolid programming skills in Python.\nAbility to troubleshoot and validate mixed-signal hardware systems.\nSpoken and written English, with a commitment to learn French.\nDesired Skills:\nKnowledge of digital signal processing techniques, such as digital filtering, mixing, or I/Q modulation/demodulation.\nUnderstanding of basic feedback control systems and control theory.\nFamiliarity with version control workflows using Git and continuous integration (CI).\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nYou have a professional background in Electronics Engineering (or a related field) and have either:\na Master's degree with 2 to 6 years of post-graduation professional experience;\nor a PhD with no more than 3 years of post-graduation professional experience.\nYou have never had a CERN fellow or graduate contract before.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000140414669-fpga-developer-sy-rf-ll-2026-129-grap-?oga=true",
-    "status": "matched"
-  },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000140678620": {
     "description": "Introduction:\nYou will play a key role in building meaningful relationships with CERN’s current and prospective donors throughout the entire donor cycle, while managing formal obligations such as proposal preparation and reporting. In doing so, you will help generate financial and strategic support for CERN by identifying funding opportunities, securing donations and grants, and building partnerships with corporations and foundations.\nFunctions:\nDevelopment and implementation of fundraising strategies for CERN fundraising projects.\nIdentification, qualification, cultivation, and stewardship of donors, including planning and conducting of donor meetings, events, and experiences.\nResearch and pursue of funding opportunities with foundations, including writing proposals and reports.\nTrack, analyse, and report on fundraising performance and partnership impact.\nCollaborate with internal teams to align fundraising with project goals, prepare donor agreements and reports.\nConceptualise and produce communications materials for fundraising purposes.\nSupport Due Diligence process.",
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000140678620-fundraising-partnerships-officer-sr-se-fp-2026-165-ld-?oga=true",
@@ -1452,7 +1442,7 @@
     "title": "Senior Scientist microbiological Quality Control",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-07-31",
+    "posted_date": "2026-07-30",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -1518,7 +1508,7 @@
     "title": "Senior Expert / Senior Principal PKS Data Scientist & Scientific Software Engineer (Dual level posting)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-07",
+    "posted_date": "2026-08-06",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -1637,7 +1627,7 @@
     "title": "Senior Regulatory Group Director",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-04",
+    "posted_date": "2026-08-03",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1677,7 +1667,7 @@
     "title": "Principal Scientist, Respiratory Discovery",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-05",
+    "posted_date": "2026-08-04",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -1701,7 +1691,7 @@
     "title": "Scientist, Cell Engineering and Phenotypic Screening Models",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-05",
+    "posted_date": "2026-08-04",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -1727,7 +1717,7 @@
     "title": "Senior Principal Scientist/Associate Director Clinical PBPK  (Dual Level Posting)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-05",
+    "posted_date": "2026-08-04",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -1756,7 +1746,7 @@
     "title": "Associate Principal Scientist Extractables & Leachables 80-100%",
     "company": "Lonza",
     "location": "CH - Basel",
-    "posted_date": "2026-08-06",
+    "posted_date": "2026-08-05",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1881,7 +1871,7 @@
     "title": "Executive Director, Regional Medical Lead - Solid Tumors, Medical Affairs, Europe",
     "company": "BeiGene",
     "location": "Basel",
-    "posted_date": "2026-08-08",
+    "posted_date": "2026-08-07",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1956,18 +1946,13 @@
     "title": "Project Scientist Phys-Chem Quality Control 80-100%",
     "company": "Lonza",
     "location": "CH - Basel",
-    "posted_date": "2026-08-11",
+    "posted_date": "2026-08-10",
     "department": "",
     "score": 1,
     "matched_keywords": [
       "MSc"
     ],
     "deducted_keywords": []
-  },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000142801989": {
-    "description": "Introduction:\nThe Engineering Department (EN) provides CERN with the Engineering expertise, Infrastructure Systems and Technical Coordination necessary for the design, installation, operation, maintenance and dismantling phases of the CERN accelerator complex and its experimental facilities.  \nThe position is within the Accelerator Coordination and Engineering (EN-ACE) group, which coordinates the activities for the interventions and changes to the accelerators complex. It includes configuration & layout management, integration studies and maintenance of the related 3D-CAD representations, organisation and scheduling of programmed stops, management of the mid- and long-term schedule, worksites follow-up and management of accelerator facilities, and operational safety coordination.\nAs a Planning and Scheduling Engineer in EN-ACE, you will plan and coordinate a wide range of technologies across CERN’s current and future accelerator complex. You will collaborate closely with domain experts to develop practical solutions for the installation and maintenance of complex equipment, contributing to the Engineering Department’s mission of supporting the full lifecycle of CERN’s infrastructure and future projects.\nFunctions:\nCoordinate all installation and maintenance activities for existing or future accelerators.\nProduce baseline schedules ensuring all activities follow it, considering safety rules and quality standards.\nPrepare all supporting documentation and liaise between the stakeholders.\nIdentify and resolve conflicting co-activity issues with stakeholders and project leaders.\nManage the impact of operational issues affecting the installation and maintenance work on the schedule, in order to minimise delays.\nEnsure that all safety concerns related to the installation works are identified and that the relevant safety rules/procedures are implemented.\nFollow up and report on activities progress, to identify deviations and anticipate co-activities issues.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000142801989-scheduling-and-coordination-engineer-en-ace-2026-123-ld-?oga=true",
-    "status": "matched"
   },
   "/job/Tolochenaz-Switzerland/Application-Development-Scientist---Reagents--12-months-fixed-term-contract-_JR102038": {
     "description": "By joining Bio-Techne, you’ll join a company with a powerful and positive purpose of enabling cutting-edge research in Life Sciences and Clinical Diagnostics. Bio-Techne, and all of its brands, provides tools for researchers to further treat and prevent disease worldwide.\n\nPay Range: CHF76,900 - CHF123,100\nPlacement within the salary range will vary depending on experience, qualifications, geographic location, and internal equity considerations.\n\nType of contract: 12 months fixed term contact\n\nJob Description\nAre you a scientist, passionate about new technologies, looking for an exciting challenge where you can have an impact on the future growth of your company? We are looking for an ‘Application Development Scientist’ to work in the Application Development team researching and testing new solutions for spatial multi-omics assays on tissue samples using Bio-Techne Spatial instruments.\n\nYour Missions\n\nTest, optimize, and validate new markers for immunofluorescent multiplex stainings on tissue samples\n\nInvestigate novel & innovative solutions for spatial-omics assays on Bio-Techne Spatial microfluidic platforms\n\nDevelop a fine understanding of in situ protein and RNA detection methodologies\n\nAcquire images, process them, analyze data, and report results concisely\n\nExplore and understand the biological background of the target markers under development\n\nContribute to the continuous development of devices and software\n\nInteract with multidisciplinary team of hardware and software engineers and researchers\n\nThis position reports to the Application Development Manager\n\nQualifications\nYour ideal profile\n\nA PhD degree in Molecular Biology, Biochemistry, Biomedical Engineering, or a similar field\n\nOr an equivalent background (e.g. Master degree with at least 3 years of industry experience)\n\nHands-on experience in spatial proteomics or transcriptomic assays for analysis of histological samples (IHC, IF, in situ hybridization, in situ sequencing, or similar techniques etc.) is a must\n\nExperience in handling microfluidics devices and fluorescent microscopes is a strong plus\n\nGood knowledge in image processing and data analysis is a strong plus\n\nYou demonstrate critical thinking, good organizational skills, and attention to details\n\nDynamic, enthusiast, and organized individual, able to multi-task and work in a fast-paced environment\n\nA real team player, you are also comfortable working independently\n\nFluency in oral and written English is a must\n\nBio-Techne is committed to product quality, customer satisfaction, continued improvement, minimising environmental impacts and conserving natural resources.  Environmental and quality management is an integral core value and vital part of the Bio-Techne culture.\n\nWhy Join Bio-Techne:\n\nWe offer competitive wages along with extensive benefits for employees and their families.\n\nWe invest in our employees’ financial futures through retirement programs and an employee stock purchase plan.\n\nWe help our employees develop their careers through mentorship, promotional opportunities, training and development, internship programs, and more.\n\nWe offer an international and diverse working environment, enriched by employee resource groups; volunteer and charity events; and employee events that build a culture of caring and belonging. \n\nWe foster a culture of empowerment and innovation, where employees feel valued and encouraged to bring their new ideas to the table.\n\nBio-Techne is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or status as a protected veteran.\n\nTo protect the interests of all, Bio-Techne will not accept unsolicited resumes from any source other than a candidate application. Any unsolicited resumes sent to Bio-Techne will be considered Bio-Techne property.\n\nIf you require a reasonable accommodation to complete an application, participate in an interview, or take part in any other stage of the recruitment process, please contact hr@bio-techne.com for assistance.",
@@ -1976,7 +1961,7 @@
     "title": "Application Development Scientist – Reagents (12 months fixed-term contract)",
     "company": "Bio-Techne / Lunaphore",
     "location": "Tolochenaz, Switzerland",
-    "posted_date": "2026-08-12",
+    "posted_date": "2026-08-11",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1995,7 +1980,7 @@
     "title": "Senior Principal Scientist / Associate Director– Soluble Biomarkers, Molecular & Cellular Sciences (MCS)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-12",
+    "posted_date": "2026-08-11",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -2021,7 +2006,7 @@
     "title": "Internship in the Product Development Medical Affairs Nucleus Team from 01.01.2027, 12 months",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-12",
+    "posted_date": "2026-08-11",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2255,11 +2240,6 @@
     "external_url": "https://jobs.smartrecruiters.com/HUG/744000143453359-cheffe-ou-chef-de-projet-strategique-en-planification-immobiliere-100-?oga=true",
     "status": "matched"
   },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000143525469": {
-    "description": "The SY-STI-BDE Section oversees the conceptual design, construction, operation, and maintenance of beam-intercepting devices across the CERN's accelerator complex. The beam intercepting devices are precision mechanical equipment working in harsh environments that must be very reliable to guarantee the operation of CERN accelerators.\nAre you passionate about mechanical engineering and skilled at multitasking? Join us and become part of a multidisciplinary team responsible for the design, assembly, installation, and maintenance of beam-intercepting devices. You will support safety-critical systems and an efficient operation of CERN's accelerators.\nYour responsibilities\nParticipate in the purchase, storage and shipment of raw material and components.\nHandle the conditioning of several components to be compliant with the Ultra-High Vacuum (UHV) requirements of collimators.\nPerform the machining of simple parts based on drawings produced with CAD programs.\nBe active on the assembly of collimators and several sub-components and its auxiliary systems.\nParticipate in the assembly of the HL-LHC beam dump systems.\nKeep track and maintain all related documents and databases.\nTake an active role in the installation, commissioning and maintenance of the equipment.\nManage the appropriate disposal/storage of radioactive parts and equipment withdrawn from the facility.\nProvide mechanical and logistics support.\nContribute to mechanical support activities around different facilities at CERN.\nYour profile\nAssembling and testing precision mechanics.\nKnowledge in designing mechanical components.\nSkills\nKnowledge of CAD systems, 3D and 2D drawing.\nGood communication.\nWell-organised.\nAccountability.\nWorking in a team, as well as independently\nSpoken and written English or French, with a commitment to learn the other language.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nBy the application deadline, you have a maximum of two years of professional experience since graduation in Mechanical Engineering (or a related field) and your highest educational qualification is a general secondary education diploma.\nYou have never had a CERN fellow or graduate contract before.\nApplicants with a Bachelor's, Master's or PhD degree are not eligible.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000143525469-mechanical-technician-sy-sti-bde-2026-181-grae-?oga=true",
-    "status": "matched"
-  },
   "https://www.michaelpage.ch/fr/job-detail/fiscaliste-sp%C3%A9cialiste-des-personnes-morales/ref/jn-082026-7083991?lang=en": {
     "external_url": "https://www.michaelpage.ch/fr/job-detail/fiscaliste-sp%C3%A9cialiste-des-personnes-morales/ref/jn-082026-7083991?lang=en",
     "status": "ignored",
@@ -2286,7 +2266,7 @@
     "title": "Principal Scientist - Mid/Large Scale Oligonucleotide Synthesis, xRNA Therapeutics",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-18",
+    "posted_date": "2026-08-17",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -2382,7 +2362,7 @@
     "title": "Business Development Director",
     "company": "KBI Biopharma",
     "location": "Switzerland - Plan-les-Ouates",
-    "posted_date": "2026-08-19",
+    "posted_date": "2026-08-18",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -2460,11 +2440,6 @@
     "external_url": "https://jobdetails.nestle.com/job/La-Tour-de-Peilz-Analytics-and-Data-Science-Manager/1423875833/",
     "status": "matched"
   },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000144253929": {
-    "description": "Introduction\nWithin the CERN Engineering department (EN), the Cooling and Ventilation (EN-CV) group is responsible for the design, the building, the operation and the maintenance of the cooling and ventilation plants for large energy physics accelerators, experiments and technical facilities. The EN-CV group pursues sustainable cooling and ventilation systems enhancing energy saving and recovery. \nYou will join the PSM Section (EN-CV-PSM), which is in charge of the operation and maintenance of the cooling and ventilation systems of CERN’s accelerator complex and experimental areas. The activity includes the work site supervision for installation work and commissioning of new systems, upgrade of existing systems and consolidation of old systems. \nAre you a qualified technician, specialised in industrial cooling, ventilation & refrigeration systems? Contribute your skill and experience to the operation and maintenance of complex cooling plants in a unique environment hosting some of the world’s most complex technical installations. Join CERN’s Cooling and Ventilation operation team. Take part!\nFunctions\nPlan (by using the CMMS system), coordinate, supervise, check and perform preventive and corrective maintenance activities on cooling and ventilation systems.\nPerform operation activities to ensure appropriate running of the cooling, ventilation & refrigeration systems.\nEnsure regular liaison with clients for all matters related to equipment under your responsibility.\nPropose and define the most appropriate solution to meet user needs in case of modification or renovation works.\nTechnically coordinate contractors’ activities for maintenance and installation work in compliance with contractual clauses and technical standards.\nContribute to projects from the design phase until test and commissioning of new cooling and ventilation systems.\nEnsure that the technical documentation is kept up-to-date and compliant with the quality standards.\nEnsure the respect of safety rules for all interventions.\nFollow up and regularly report on activities progress, schedule and costs.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000144253929-technician-for-industrial-cooling-ventilation-refrigeration-en-cv-psm-2026-122-ld-?oga=true",
-    "status": "matched"
-  },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000144245974": {
     "description": "Join the Automatic Control & Safety (ACS) section of the CERN Industrial Controls group (BE-ICS) and contribute to the control systems for the Primary Gas Systems (PGS) that supply detectors and installations across CERN's Experimental Areas. A central activity is the migration of the LHC Primary Gas Systems to a dedicated Experimental Areas infrastructure, regrouping their development, maintenance and first-line support.\nYou will work across the full control stack - from PLC logic and field instrumentation to WinCC OA supervision - using CERN's model-driven Gas Control System (GCS) and UNICOS-CPC frameworks.\nYour responsibilities\nContribute to the migration of the LHC Primary Gas Systems, covering PLC and SCADA (WinCC OA) development and commissioning.\nDevelop and configure gas-system control applications on Schneider M580 and Siemens S7-1500 PLCs.\nContribute to the specification, I/O definition and instrumentation of primary and detector gas systems and to HMI, touch-panel and notification (email/SMS) development.\nSupport factory and site acceptance testing (FAT/SAT), installation and commissioning in the experimental areas, together with documentation and first-line operational support.\nYour profile\nInterest in industrial control systems and hands-on work with hardware, instrumentation and field installations.\nStrong problem-solving skills and the ability to work within a multidisciplinary team.\nGood communication skills in English, with the ability to document and present technical work clearly.\nSkills\nSome knowledge of PLC programming (IEC 61131-3) on Schneider and/or Siemens platforms, or willingness to learn.\nFamiliarity with SCADA systems (WinCC OA an asset) and industrial communication protocols such as PROFIBUS, PROFINET, Modbus or Flowbus.\nProficiency in a scripting or programming language such as Python.\nInterest in field instrumentation and gas/fluid systems.\nKnowledge of continuous integration (GitLab CI) or model-driven code generation an asset.\nSpoken and written English, with a commitment to learn French.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nBy the application deadline, you have a maximum of two years of professional experience since graduation in Automation, Control Engineering (or a related field) and your highest educational qualification is either a Bachelor's or Master's degree.\nYou have never had a CERN fellow or graduate contract before.\nApplicants without University degree are not eligible.\nApplicants with a PhD are not eligible.",
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000144245974-junior-automation-controls-engineer-be-ics-acs-2026-206-grae-?oga=true",
@@ -2487,7 +2462,7 @@
     "title": "Senior / Principal Scientist in Pharmaceutical Development of Synthetic Molecules (Drug Product)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-20",
+    "posted_date": "2026-08-19",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2522,7 +2497,7 @@
     "title": "Discovery Scientist – Neural Retina & Ocular Disease",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-20",
+    "posted_date": "2026-08-19",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -2564,7 +2539,7 @@
     "title": "Senior Scientist Bio-/Chemical Quality Control",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-08-21",
+    "posted_date": "2026-08-20",
     "department": "",
     "score": -1,
     "matched_keywords": [
@@ -2591,7 +2566,7 @@
     "title": "Associate Director, Search & Evaluation (Immunology)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-21",
+    "posted_date": "2026-08-20",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2651,7 +2626,7 @@
     "title": "Scientist 6 months fix-term contract 80-100%",
     "company": "Lonza",
     "location": "CH - Basel",
-    "posted_date": "2026-08-22",
+    "posted_date": "2026-08-21",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2733,6 +2708,76 @@
     "score": 1,
     "matched_keywords": [
       "assay development"
+    ],
+    "deducted_keywords": []
+  },
+  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000145187769": {
+    "description": "The EP-ATL-PO section plays a key role in the upgrade and maintenance of the ATLAS detector at the LHC. As a Junior Mechanical Technician, you will support experienced colleagues in mechanical installation and integration activities on the detector and its infrastructure during Long Shutdown 3 (LS3), while gaining hands-on experience in a cutting-edge experimental physics environment.\nYour responsibilities:\nParticipate in large-scale ATLAS detector movements in the experimental cavern and in the installation of access platforms.\nSupport sub-detector installation activities, including handling, transport, and positioning using appropriate lifting and alignment techniques.\nPrepare and set up work areas and tooling, and provide logistical support for detector interventions.\nRead and interpret mechanical drawings, perform basic dimensional checks, and report progress to supervising engineers.\nWhen required, manufacture parts and tooling using conventional machining techniques, such as drilling, milling, and turning.\nYour profile:\nInitial hands-on experience in mechanical assembly, fitting, or maintenance.\nAbility to read and interpret mechanical drawings, blueprints, and 2D/3D CAD models.\nInitial experience with conventional machining techniques and workshop practices.\nBasic metrology skills, including the use of calipers, gauges, and dimensional inspection tools.\nAwareness of occupational health and safety principles in workshop and industrial environments.\nSkills:\nFollow technical procedures, assembly instructions, and work specifications.\nUse of standard hand and power tools for mechanical operations.\nStrong teamwork and communication skills, with the ability to collaborate in an international and multidisciplinary environment.\nRigorous, detail-oriented, and safety-conscious approach to work.\nAccurately document completed work and maintain high quality standards while following technical procedures and safety requirements.\nSpoken and written English or French, with a commitment to learn the basics of the other language.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nBy the application deadline, you have a maximum of two years of professional experience since graduation in Mechanical Engineering or equivalent (or a related field) and your highest educational qualification is a general secondary education diploma.\nYou have never had a CERN fellow or graduate contract before.\nApplicants with a Bachelor's, Master's or PhD degree are not eligible.",
+    "external_url": "https://jobs.smartrecruiters.com/CERN/744000145187769-atlas-detector-installation-technician-ep-atl-po-2026-178-grae-?oga=true",
+    "status": "matched"
+  },
+  "/job/Basel-City/AI-Scientist---Image-Analysis---Digital-Pathology_REQ-10084320-2": {
+    "description": "Salary Range:CHF102,200.00 - CHF189,800.00\n\n \nJob Description SummaryLocation: Basel or Cambridge\nOnsite\n\nRelocation is offered for this role.\n#LI-Onsite\n\nThe Oncology Data Science team in Biomedical Research at Novartis works at the intersection of oncology drug discovery, computational biology, AI/ML, and data engineering. We are seeking an enthusiastic AI/ML scientist with deep expertise in digital pathology and a strong curiosity for translational research to join the AI & Innovation Team.\nThis role will apply advanced AI approaches to generate insights from complex imaging datasets and support our oncology drug discovery programs.\n\n \nJob Description\nKey responsibilities:\nDevelop and apply AI / deep learning approaches to extract insights from digital pathology imaging datasets (e.g., H&E, IHC, mIF, Spatial transcriptomics).\nWork with foundational models, including pre-trained, self-supervised, multi-purpose, and multi-modal models to advance generative AI applications in drug discovery.\nSupport imaging biomarker development efforts by analyzing pathology imaging data and collaborate with pathologists and translational teams to interpret image-derived biomarkers and biological findings.\nContribute to evaluation, validation, and benchmarking of image analysis algorithms and workflows.\nPerform tissue segmentation, cell phenotyping, feature extraction, and spatial analysis using state-of-the-art computational approaches.\nStay current with advances in computational pathology, AI/ML, and spatial biology technologies; contribute to scientific publications; and present results at internal and external scientific conferences.\n\nRequirements:\nPh.D. in Machine Learning, Computer Science, Applied Mathematics, Computational Biology or related field. Candidates with MSc in Machine Learning, Computer Science, Applied Mathematics, Computational Biology or related field, with 4+ years of relevant industry experience will also be considered.\nStrong experience analyzing pathology imaging modalities including H&E, IHC, multiplex IF, and / or spatial transcriptomics data.\nUnderstanding of machine learning methods for segmentation, classification, detection, and representation learning.\nExperience in one or more of the following areas: generative AI, digital pathology foundation models, geometric deep learning and / or multi-modal learning.\nExcellent programming skills and proficiency in deep learning frameworks such as PyTorch, with openness to learning new tools and technologies.\nStrong communication and collaboration skills with the ability to communicate complex data insights and recommendations to cross-functional teams.\nStrong research skills, evidenced by publications in leading scientific journals and / or conference presentations.\n\nRewards \nAt Novartis, we’re committed to reimagining medicine together - and rewarding the people who make it happen. \n\nThe rewards of being part of our team go far beyond base pay and incentives. We also offer a variety of competitive benefits in kind to help you thrive personally and professionally, such as insurance plans, retirement plans, wellbeing resources and global recognition programs. In addition, we provide flexible and hybrid working options, where possible, and a minimum of 14 weeks paid parental leave. \n\nExpected Annual Base Salary Range for role: \n\nSwitzerland: 102,200.00 - 189,800.00 CHF Annual\n\nThe salary offered is determined based on gender-neutral objectives, such as relevant skills, competencies and experience in accordance with the Novartis pay setting policy and upon joining Novartis will be reviewed periodically.  \n\nIn addition to your base salary, you may be eligible for a performance-based bonus depending on certain performance parameters. Further details will be provided during the application process.  \n\nPay equity is a fundamental principle of our employment policy and reflects our commitment to create a diverse, equitable and inclusive environment that treats all employees with dignity and respect, as outlined in our Code of Ethics. \n\nRead our brochure to learn more about our global total rewards offering: https://www.novartis.com/sites/novartis_com/files/novartis-life-handbook.pdf  \nNote: Benefits and compensation may vary by country and are subject to local legal requirements, including provisions of collective bargaining agreements where applicable. A full overview of your compensation package, including any relevant collective bargaining agreement details applicable to your role based on your employment location and Novartis employer entity, will be communicated separately to you during the application process.    \n\nCommitment to Diversity and Inclusion / EEO paragraph: \nNovartis is committed to building an outstanding, inclusive work environment and diverse teams’ representative of the patients and communities we serve. \n\nWhy Novartis: Helping people with disease and their families takes more than innovative science. It takes a community of smart, passionate people like you. Collaborating, supporting and inspiring each other. Combining to achieve breakthroughs that change patients’ lives. Ready to create a brighter future together? https://www.novartis.com/about/strategy/people-and-culture \nBenefits and Rewards: Read our handbook to learn about all the ways we’ll help you thrive persona\n\n \nSkills DesiredArtificial Intelligence (AI), Biostatistics, Change Management, Curious Mindset, Data Governance, Data Literacy, Data Quality, Data Science, Data Visualization, Deep Learning, Graph Algorithms, Learning Agility, Machine Learning (ML), Machine Learning Algorithms, Python (Programming Language), Stakeholder Engagement, Statistical Analysis, Time Series Analysis",
+    "external_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Basel-City/AI-Scientist---Image-Analysis---Digital-Pathology_REQ-10084320-2",
+    "status": "ignored",
+    "title": "AI Scientist – Image Analysis & Digital Pathology",
+    "company": "Novartis",
+    "location": "Basel (City)",
+    "posted_date": "2026-08-24",
+    "department": "",
+    "score": 8,
+    "matched_keywords": [
+      "MSc",
+      "computational biology",
+      "digital pathology",
+      "drug discovery",
+      "oncology",
+      "spatial biology",
+      "spatial transcriptomics",
+      "translational research"
+    ],
+    "deducted_keywords": []
+  },
+  "/job/Basel-City/AI-Scientist---AI-Driven-Target-Identification_REQ-10084379-2": {
+    "description": "Salary Range:CHF78,400.00 - CHF145,600.00\n\n \nJob Description SummaryLocation: Basel or Cambridge\nOnsite\n\nRelocation is offered for this role.\n#LI-Onsite\n\nThe Oncology Data Science team in Biomedical Research at Novartis works at the intersection of oncology drug discovery, computational biology, AI/ML, and data engineering. We are seeking an enthusiastic AI/ML scientist with strong curiosity for AI-driven drug discovery to join the AI & Innovation team.\nThis role will apply advanced AI approaches to generate insights from complex multi-modal datasets and advance our target and biomarker discovery efforts.\n\n \nJob Description\n Key responsibilities:\nDesign, develop, implement and apply advanced machine learning algorithms, AI models, and platforms to enable the delivery of predictive insights from pre-clinical, clinical and real-world evidence datasets.\nDemonstrate value of innovative AI techniques in the context of drug target identification, biomolecular interaction modeling, drug development and biomarker discovery.\nWork with foundational models, including pre-trained, self-supervised, multi-purpose, and multi-modal models to advance generative AI applications in drug discovery.\nCollaborate with cross-functional teams to develop and adopt best practices for ML-ready data.\nContribute to scientific publications and present results at internal and external scientific conferences.\n\nRequirements:\n\nPh.D. in Machine Learning, Computer Science, Applied Mathematics, Computational Biology or related field.\nStrong experience in one or more of the following areas: generative AI, biomedical foundation models, geometric deep learning, multi-modal learning, and large-scale knowledge graphs.\nExcellent programming skills and proficiency in deep learning frameworks such as PyTorch, with openness to learning new tools and technologies.\nPractical experience across ML and LLM software stack, including feature engineering, model development, deployment, and validation.\nPrior experience working with omics data and familiarity with oncology drug development.\nExcellent communication skills, with the ability to communicate complex data insights and recommendations to cross-functional teams.\nDemonstrated strong research skills, evidenced by publications in top-tier ML/AI conferences and/or leading scientific journals.\n\nRewards \nAt Novartis, we’re committed to reimagining medicine together - and rewarding the people who make it happen. \n\nThe rewards of being part of our team go far beyond base pay and incentives. We also offer a variety of competitive benefits in kind to help you thrive personally and professionally, such as insurance plans, retirement plans, wellbeing resources and global recognition programs. In addition, we provide flexible and hybrid working options, where possible, and a minimum of 14 weeks paid parental leave. \n\nExpected Annual Base Salary Range for role: \nSwitzerland: 78,400.00 - 145,600.00 CHF Annual\n\nThe salary offered is determined based on gender-neutral objectives, such as relevant skills, competencies and experience in accordance with the Novartis pay setting policy and upon joining Novartis will be reviewed periodically.  \n\nIn addition to your base salary, you may be eligible for a performance-based bonus depending on certain performance parameters. Further details will be provided during the application process.  \n\nPay equity is a fundamental principle of our employment policy and reflects our commitment to create a diverse, equitable and inclusive environment that treats all employees with dignity and respect, as outlined in our Code of Ethics. \n\nRead our brochure to learn more about our global total rewards offering: https://www.novartis.com/sites/novartis_com/files/novartis-life-handbook.pdf  \nNote: Benefits and compensation may vary by country and are subject to local legal requirements, including provisions of collective bargaining agreements where applicable. A full overview of your compensation package, including any relevant collective bargaining agreement details applicable to your role based on your employment location and Novartis employer entity, will be communicated separately to you during the application process.    \n\nCommitment to Diversity and Inclusion / EEO paragraph: \nNovartis is committed to building an outstanding, inclusive work environment and diverse teams’ representative of the patients and communities we serve. \n\nWhy Novartis: Helping people with disease and their families takes more than innovative science. It takes a community of smart, passionate people like you. Collaborating, supporting and inspiring each other. Combining to achieve breakthroughs that change patients’ lives. Ready to create a brighter future together? https://www.novartis.com/about/strategy/people-and-culture \nBenefits and Rewards: Read our handbook to learn about all the ways we’ll help you thrive personally and professionally: https://www.novartis.com/careers/benefits-rewards\n\n \nSkills DesiredBiostatistics, Curious Mindset, Data Governance, Data Literacy, Data Quality, Data Science, Data Visualization, Graph Algorithms, Learning Agility, Machine Learning (ML), Machine Learning Algorithms, Python (Programming Language), Statistical Analysis, Time Series Analysis",
+    "external_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Basel-City/AI-Scientist---AI-Driven-Target-Identification_REQ-10084379-2",
+    "status": "ignored",
+    "title": "AI Scientist – AI-Driven Target Identification",
+    "company": "Novartis",
+    "location": "Basel (City)",
+    "posted_date": "2026-08-24",
+    "department": "",
+    "score": 5,
+    "matched_keywords": [
+      "biomarker discovery",
+      "computational biology",
+      "drug development",
+      "drug discovery",
+      "oncology"
+    ],
+    "deducted_keywords": []
+  },
+  "/job/Basel-City/Senior-Investigator-Associate-Director---Biology_REQ-10081057-1": {
+    "description": "Salary Range:CHF122,500.00 - CHF227,500.00\n\n \nJob Description Summary#LI-Onsite\nLocation: Basel, Switzerland\nThis role is based in Basel, Switzerland.\n\nThe Oncology Translational Research (OTR) group at Novartis Biomedical Research is seeking a highly accomplished translational scientist who combines exceptional scientific depth in cancer and molecular biology with the ability to lead, influence, and align complex, cross functional organizations.\nThis role is designed for a scientific leader who not only drives cutting edge research but also shapes broader program direction by connecting discovery, translational science, and clinical strategy. The successful candidate will play a pivotal role in advancing oncology programs by translating deep biological insights into impactful therapeutic and biomarker strategies, while effectively navigating and influencing a global, matrixed research environment.\n\n \nJob Description\nKey Responsibilities\n\nDefine and drive translational research strategies grounded in deep expertise in cancer biology, molecular signaling, and biomarker science\n\nTranslate complex biological insights into actionable therapeutic hypotheses and clinical development strategies\n\nLead oncology programs from early discovery through clinical translation, ensuring scientific rigor and strategic alignment\n\nOversee mechanism-of-action studies, combination strategies, and biomarker development\n\nAct as a key integrator across drug discovery, translational, bioinformatics, and clinical teams\n\nInfluence decision-making and align cross-functional stakeholders within a global, matrixed organization\n\nPartner with computational and data science teams to integrate genomic, molecular, and translational datasets into program strategy\n\nEnsure robust interpretation of data into clear scientific and clinical insights\n\nLead and mentor multidisciplinary teams, fostering a culture of scientific excellence, accountability, and collaboration\n\nCommunicate scientific strategies and findings effectively to senior leadership, governance bodies, and external partners\n\nContribute to external scientific visibility through publications, conferences, and collaborations\n\nEssential Requirements\n\nPhD in Molecular Biology, Cancer Biology, Cell Biology, Biochemistry, Genetics, or a related scientific discipline.\n\nCompleted postdoctoral plus at least 4+ years of biotechnology, pharmaceutical, academic translational research experience (see leveling below)\n\nDemonstrated leadership experience in oncology research and translational therapeutic development\n\nProven track record of leading multidisciplinary scientific programs in matrixed organizations\n\nStrong scientific communication, leadership, collaboration, and mentoring capabilities\n\nEstablished record of scientific innovation, publications, and translational impact\n\nHigh level of scientific curiosity, agility, and a positive, solution-oriented mindset\n\nRole Leveling (Dual Posting)\nFinal level will be determined by the hiring team based on skills, experience, and business needs.\n\nBenefits & Rewards\nAt Novartis, we’re committed to reimagining medicine together — and rewarding the people who make it happen.\n\nExpected Annual Base Salary Range for role: CHF 122,500 to CHF 227,500\nThe base salary offered is determined based on gender-neutral objectives, such as relevant skills, competencies and experience in accordance with the Novartis pay setting policy and upon joining Novartis will be reviewed periodically.\n\nIn addition to your base salary, you may be eligible for a performance-based bonus depending on certain performance parameters.\nThe rewards of being part of our team go far beyond base pay and incentives. We also offer a variety of competitive benefits in kind to help you thrive personally and professionally, such as insurance plans, retirement plans, wellbeing resources and global recognition programs. In addition, we provide flexible and hybrid working options, where possible, and minimum 14 weeks paid parental leave.\nPay equity is a fundamental principle of our employment policy and reflects our commitment to create a diverse, equitable and inclusive environment that treats all employees with dignity and respect, as outlined in our Code of Ethics.\n\nRead our brochure to learn more about our global total rewards offering:\nhttps://www.novartis.com/sites/novartis_com/files/novartis-life-handbook.pdf\n\nNote: Benefits and compensation may vary by country and are subject to local legal requirements, including provisions of collective bargaining agreements where applicable. A full overview of your compensation package, including any relevant collective bargaining agreement details applicable to your role based on your employment location and Novartis employer entity, will be communicated separately to you during the application process.\n\nCommitment to Diversity and Inclusion / EEO\nNovartis is committed to building an outstanding, inclusive work environment and diverse teams representative of the patients and communities we serve.\n\n \nSkills DesiredAnalytical Skill (Inactive), Analytical Skill (Inactive), Analytical Thinking, Chemical Biology, Chemistry, Clinical Research, Clinical Trials, Collaboration, Communication Skills (Inactive), Curious Mindset, Data (Inactive), Data Analysis, Decision Making, Design of Experiments (DOE), Detail-Oriented, Drug Development, Drug Discovery Process, Ethics, Gene Therapy- Leadership (Inactive), Influence (Inactive), Laboratory (Inactive), Leading Project Teams, Lifesciences (Inactive), Machine Learning (ML), Medical Research {+ 11 more}",
+    "external_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Basel-City/Senior-Investigator-Associate-Director---Biology_REQ-10081057-1",
+    "status": "ignored",
+    "title": "Senior Principal Scientist / Associate Director Translational Oncology",
+    "company": "Novartis",
+    "location": "Basel (City)",
+    "posted_date": "2026-08-24",
+    "department": "",
+    "score": 10,
+    "matched_keywords": [
+      "Cancer Biology",
+      "PhD",
+      "Postdoc",
+      "bioinformatics",
+      "drug development",
+      "drug discovery",
+      "molecular biology",
+      "oncology",
+      "postdoctoral",
+      "translational research"
     ],
     "deducted_keywords": []
   }
