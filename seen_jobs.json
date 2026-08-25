@@ -385,7 +385,7 @@
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-08-17"
+    "cached_at": "2026-08-25"
   },
   "_facets:onehealthineers:SHSJB": {
     "facets": {},
@@ -828,7 +828,7 @@
     "title": "Technical Expert Portfolio Mgmt, Technical Feasibility and Planning",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-25",
+    "posted_date": "2026-07-26",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -844,7 +844,7 @@
     "title": "R&D Scientist – Scientific Data Analytics (d/f/m)",
     "company": "Danaher",
     "location": "Basel, Switzerland",
-    "posted_date": "2026-07-25",
+    "posted_date": "2026-07-26",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -884,7 +884,7 @@
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-08-17"
+    "cached_at": "2026-08-25"
   },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000135168039": {
     "description": "Role and composition of the PFGB\nThe functions of the PFGB are laid down in Article I 2.05 of the Fund’s rules and, amongst other things, include monitoring the actuarial status of the Fund, reviewing the Annual Report & Financial Statements, approving the Statement of Investment Principles, Investment Guidelines, Risk Limit, and Strategic Asset Allocation, and approving the internal audit plan.\nThe composition of the PFGB is laid down in Article I 2.06 of the Fund’s rules. The PFGB is required to have at least ten members, comprising two members appointed by the CERN Council, one appointed by the ESO Council, one ex-officio member appointed by CERN Management, two appointed by the CERN Staff Association, one appointed by the ESO Staff Association, one appointed by the CERN and ESO Pensioner Association, and two professional members specialised in pension fund matters appointed by the CERN Council. The Chief Executive Officer attends all meetings in his capacity as Secretary to the board but is not a voting member.\nThe members of the PFGB are appointed for a maximum period of three years, renewable once for a further maximum consecutive period of three years.\nDescription of Work\nThe PFGB usually holds five meetings each year, including one joint meeting with the ATC and one with the IC, but additional meetings or conference calls may be scheduled if required. Typically, meetings last a full day and take place at CERN in Geneva, Switzerland, or exceptionally by videoconference. Professional members are expected to attend every meeting and are required to act in the best interests of the Fund and to abide by the CERN Code of Conduct and the Pension Fund Implementation Guidelines.",
@@ -898,7 +898,7 @@
     "title": "\"Principal Scientist siRNA Design",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-30",
+    "posted_date": "2026-07-31",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -914,7 +914,7 @@
     "title": "Hematology and Safety Biomarker Expert",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-25",
+    "posted_date": "2026-07-26",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -1033,7 +1033,7 @@
     "title": "Senior Scientist Electronic Laboratory Systems",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-07-25",
+    "posted_date": "2026-07-26",
     "department": "",
     "score": -1,
     "matched_keywords": [
@@ -1081,7 +1081,7 @@
     "title": "Senior/Principal Scientist - NMR Expert",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-25",
+    "posted_date": "2026-07-26",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1097,7 +1097,7 @@
     "title": "Director, Corporate Strategy & Business Development",
     "company": "Alcon",
     "location": "Geneva, Switzerland",
-    "posted_date": "2026-07-25",
+    "posted_date": "2026-07-26",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -1146,7 +1146,7 @@
     "title": "Post Doctoral Scientist (m/w/d)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-25",
+    "posted_date": "2026-07-26",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1173,7 +1173,7 @@
     "title": "Sr Global HEOR & Payer Evidence Lead",
     "company": "Abbott",
     "location": "Switzerland - Basel",
-    "posted_date": "2026-07-25",
+    "posted_date": "2026-07-26",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -1206,7 +1206,7 @@
     "title": "Staff Scientist - Spectral Cytometry Expert",
     "company": "Labcorp",
     "location": "CHE - Geneva - 7 rue Moise-Marcinhes",
-    "posted_date": "2026-07-25",
+    "posted_date": "2026-07-26",
     "department": "",
     "score": 8,
     "matched_keywords": [
@@ -1230,7 +1230,7 @@
     "title": "Business Development Manager (m/w/d) Neuromodulation – Schweiz",
     "company": "Abbott",
     "location": "Switzerland - Baar",
-    "posted_date": "2026-07-25",
+    "posted_date": "2026-07-26",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -1254,34 +1254,6 @@
       "molecular biology"
     ],
     "deducted_keywords": []
-  },
-  "https://www.michaelpage.ch/job-detail/business-development-manager-dacheurope-mwd/ref/jn-062026-7035692": {
-    "external_url": "https://www.michaelpage.ch/job-detail/business-development-manager-dacheurope-mwd/ref/jn-062026-7035692",
-    "status": "ignored",
-    "title": "Business Development Manager DACH / Europe (m/w/d)",
-    "company": "Michael Page Switzerland",
-    "location": "Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": -2,
-    "matched_keywords": [],
-    "deducted_keywords": [
-      "location:Switzerland"
-    ]
-  },
-  "https://www.michaelpage.ch/de/job-detail/junior-technical-sales-business-development-mwd/ref/jn-062026-7035709?lang=en": {
-    "external_url": "https://www.michaelpage.ch/de/job-detail/junior-technical-sales-business-development-mwd/ref/jn-062026-7035709?lang=en",
-    "status": "ignored",
-    "title": "(Junior) Technical Sales / Business Development (m/w/d)",
-    "company": "Michael Page Switzerland",
-    "location": "Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": -2,
-    "matched_keywords": [],
-    "deducted_keywords": [
-      "location:Switzerland"
-    ]
   },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000138581914": {
     "description": "Introduction:\nYou will be part of the Experimental Physics (EP) Department, which carries out basic research. This Department aims at providing a stimulating scientific atmosphere and remains an important reference centre for the European physics community.\nFunctions:\nContribute to particle physics experiment projects at CERN.\nParticipate in the design and development of experiments and detectors.\nSupport the operation and performance of detector systems.\nAnalyse experimental data and contribute to physics results.\nCollaborate with international teams and document results.",
@@ -1324,7 +1296,7 @@
     "title": "Scientist Synthesis Automation",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-25",
+    "posted_date": "2026-07-26",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1349,7 +1321,7 @@
     "title": "Cardio-Renal Discovery Area Leader - Expert Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-25",
+    "posted_date": "2026-07-26",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -1375,7 +1347,7 @@
     "title": "Director, Medical Affairs, Hemato-Oncology, Europe",
     "company": "BeiGene",
     "location": "Basel",
-    "posted_date": "2026-07-25",
+    "posted_date": "2026-07-26",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1437,7 +1409,7 @@
     "title": "Senior Scientist microbiological Quality Control",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-07-30",
+    "posted_date": "2026-07-31",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -1467,7 +1439,7 @@
     "title": "Translational Medicine Expert – Dermatology, Associate Director",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-07-25",
+    "posted_date": "2026-07-26",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -1490,7 +1462,7 @@
     "title": "Patent Attorney",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-07-25",
+    "posted_date": "2026-07-26",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1503,7 +1475,7 @@
     "title": "Senior Expert / Senior Principal PKS Data Scientist & Scientific Software Engineer (Dual level posting)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-06",
+    "posted_date": "2026-08-07",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -1526,7 +1498,7 @@
     "title": "Senior Principal Scientist - Proteomics",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-07-25",
+    "posted_date": "2026-07-26",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -1596,20 +1568,6 @@
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000141222829-administrative-assistant-sy-ar-2026-167-ld-?oga=true",
     "status": "matched"
   },
-  "https://www.michaelpage.ch/job-detail/data-and-market-intelligence-analyst/ref/jn-072026-7074770": {
-    "external_url": "https://www.michaelpage.ch/job-detail/data-and-market-intelligence-analyst/ref/jn-072026-7074770",
-    "status": "ignored",
-    "title": "Data and Market Intelligence Analyst",
-    "company": "Michael Page Switzerland",
-    "location": "Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": -2,
-    "matched_keywords": [],
-    "deducted_keywords": [
-      "location:Switzerland"
-    ]
-  },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000141273519": {
     "description": "Introduction\nYou will contribute to hazardous materials decontamination activities and civil engineering works and projects across CERN’s buildings and underground infrastructures. In this role, you manage the preparation, coordination and follow-up of interventions, working closely with engineers, technicians, consultants and contractors to ensure safe and compliant operations. You are involved in both planning and on-site activities, combining technical coordination with hands-on follow-up. You will join the Civil Engineering section (CE) within the Site Asset Management (SAM) Group.\nFunctions\nAct as the referent for pollutant-related works within the SCE-SAM group, managing the of hazardous materials decontamination activities at CERN.\nAct as contract manager for hazardous substances decontamination frame contracts, overseeing budget, quality, schedule and safety, and managing financial variations, claims and settlements with contractors.\nServe as the referent of the civil engineering section for works and projects in technical galleries and the Proton Synchrotron complex facility.\nManage project design steps (preliminary, concept design, developed project design, building permit, technical specifications and relevant documentation for tenders and execution design) in collaboration with internal CERN entities as well as the consultants and contractors appointed.\nPlan and manage the execution of construction and renovation projects, including coordination of various trades, utilisation of service and frame contracts and contract management, chairing site and coordination meetings, and monitoring cost, quality, schedule and safety until final acceptance.\nEnsure compliance with safety and environmental rules and promote a strong safety culture on work sites.\nReport on and document activities on a regular basis.",
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000141273519-hazardous-material-decontamination-engineer-sce-sam-ce-2026-169-ld-?oga=true",
@@ -1622,7 +1580,7 @@
     "title": "Senior Regulatory Group Director",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-03",
+    "posted_date": "2026-08-04",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1662,7 +1620,7 @@
     "title": "Principal Scientist, Respiratory Discovery",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-04",
+    "posted_date": "2026-08-05",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -1686,7 +1644,7 @@
     "title": "Scientist, Cell Engineering and Phenotypic Screening Models",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-04",
+    "posted_date": "2026-08-05",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -1712,7 +1670,7 @@
     "title": "Senior Principal Scientist/Associate Director Clinical PBPK  (Dual Level Posting)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-04",
+    "posted_date": "2026-08-05",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -1741,7 +1699,7 @@
     "title": "Associate Principal Scientist Extractables & Leachables 80-100%",
     "company": "Lonza",
     "location": "CH - Basel",
-    "posted_date": "2026-08-05",
+    "posted_date": "2026-08-06",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1866,7 +1824,7 @@
     "title": "Executive Director, Regional Medical Lead - Solid Tumors, Medical Affairs, Europe",
     "company": "BeiGene",
     "location": "Basel",
-    "posted_date": "2026-08-07",
+    "posted_date": "2026-08-08",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1941,7 +1899,7 @@
     "title": "Project Scientist Phys-Chem Quality Control 80-100%",
     "company": "Lonza",
     "location": "CH - Basel",
-    "posted_date": "2026-08-10",
+    "posted_date": "2026-08-11",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1956,7 +1914,7 @@
     "title": "Application Development Scientist – Reagents (12 months fixed-term contract)",
     "company": "Bio-Techne / Lunaphore",
     "location": "Tolochenaz, Switzerland",
-    "posted_date": "2026-08-11",
+    "posted_date": "2026-08-12",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1975,7 +1933,7 @@
     "title": "Senior Principal Scientist / Associate Director– Soluble Biomarkers, Molecular & Cellular Sciences (MCS)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-11",
+    "posted_date": "2026-08-12",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -2001,7 +1959,7 @@
     "title": "Internship in the Product Development Medical Affairs Nucleus Team from 01.01.2027, 12 months",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-11",
+    "posted_date": "2026-08-12",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2150,62 +2108,6 @@
     "matched_keywords": [],
     "deducted_keywords": []
   },
-  "https://www.michaelpage.ch/de/job-detail/sales-consultant-business-development-manager-mwd/ref/jn-072026-7057195?lang=en": {
-    "external_url": "https://www.michaelpage.ch/de/job-detail/sales-consultant-business-development-manager-mwd/ref/jn-072026-7057195?lang=en",
-    "status": "ignored",
-    "title": "(Senior) Sales Consultant / Business Development Manager (m/w/d)",
-    "company": "Michael Page Switzerland",
-    "location": "Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": -2,
-    "matched_keywords": [],
-    "deducted_keywords": [
-      "location:Switzerland"
-    ]
-  },
-  "https://www.michaelpage.ch/job-detail/sp%C3%A9cialiste-middle-office-portfolio-management-1-mois/ref/jn-052026-7018018": {
-    "external_url": "https://www.michaelpage.ch/job-detail/sp%C3%A9cialiste-middle-office-portfolio-management-1-mois/ref/jn-052026-7018018",
-    "status": "ignored",
-    "title": "Spécialiste Middle Office / Portfolio Management - Mission Temporaire",
-    "company": "Michael Page Switzerland",
-    "location": "Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": -2,
-    "matched_keywords": [],
-    "deducted_keywords": [
-      "location:Switzerland"
-    ]
-  },
-  "https://www.michaelpage.ch/fr/job-detail/sp%C3%A9cialiste-salaires-et-assurances-sociales-80-100/ref/jn-072025-6778709?lang=en": {
-    "external_url": "https://www.michaelpage.ch/fr/job-detail/sp%C3%A9cialiste-salaires-et-assurances-sociales-80-100/ref/jn-072025-6778709?lang=en",
-    "status": "ignored",
-    "title": "Spécialiste salaires et assurances sociales 80-100%",
-    "company": "Michael Page Switzerland",
-    "location": "Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": -2,
-    "matched_keywords": [],
-    "deducted_keywords": [
-      "location:Switzerland"
-    ]
-  },
-  "https://www.michaelpage.ch/de/job-detail/product-business-development-manager/ref/jn-032026-6970319?lang=en": {
-    "external_url": "https://www.michaelpage.ch/de/job-detail/product-business-development-manager/ref/jn-032026-6970319?lang=en",
-    "status": "ignored",
-    "title": "Product & Business Development Manager",
-    "company": "Michael Page Switzerland",
-    "location": "Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": -2,
-    "matched_keywords": [],
-    "deducted_keywords": [
-      "location:Switzerland"
-    ]
-  },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000143461559": {
     "description": "Introduction:\nYou will develop and operate CERN's next-generation machine learning platform, enabling scientists and engineers to train, deploy and manage AI workloads at scale. Working with cutting-edge technologies including Kubernetes, GPUs and cloud-native tools, you will help build the infrastructure supporting machine learning for the High-Luminosity LHC.\nFunctions:\nDevelop and operate the NGT machine learning platform, covering model training, hyper-parameter optimisation and serving, targeting optimal usage of detector resources.\nManage cluster resources, integrate new resources, on-premises or via external resources (such as clouds or HPC centers), and optimise resource usage (e.g. via CPU/GPU/RAM affinity layouts) and the existing MLOps workflows to cover deployment, observability and lifecycle management & versioning of models.\nExtend the cloud native infrastructure to support advanced workload scheduling, system monitoring & accounting, as well as prompt cost control.\nProduce and present reference architectures, documentation and best practices to support CERN users and use cases.\nEnsure efficient collaboration with other groups in `IT and in other departments, as well as constant alignment with the evolving landscape of external research and industry organisations.",
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000143461559-machine-learning-engineer-for-next-generation-triggers-ngt-it-cd-pi-2026-177-ld-?oga=true",
@@ -2221,20 +2123,6 @@
     "external_url": "https://jobs.smartrecruiters.com/HUG/744000143453359-cheffe-ou-chef-de-projet-strategique-en-planification-immobiliere-100-?oga=true",
     "status": "matched"
   },
-  "https://www.michaelpage.ch/fr/job-detail/fiscaliste-sp%C3%A9cialiste-des-personnes-morales/ref/jn-082026-7083991?lang=en": {
-    "external_url": "https://www.michaelpage.ch/fr/job-detail/fiscaliste-sp%C3%A9cialiste-des-personnes-morales/ref/jn-082026-7083991?lang=en",
-    "status": "ignored",
-    "title": "Fiscaliste spécialiste des personnes morales",
-    "company": "Michael Page Switzerland",
-    "location": "Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": -2,
-    "matched_keywords": [],
-    "deducted_keywords": [
-      "location:Switzerland"
-    ]
-  },
   "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000143771269": {
     "description": "Vous assurez la prise en charge hospitalière et ambulatoire des patients et des patientes suivies en soins aigus dans les secteurs de médecine en garantissant une approche attentive, structurée et adaptée aux besoins individuels. Vous assurez également une prise en charge nutritionnelle spécifique tant en soins aigus que pour des maladies chroniques.\nVous contribuez à l’harmonisation des pratiques de prise en charge, en veillant au respect des recommandations émises par les sociétés expertes et en participant activement à l’amélioration continue de la qualité des soins. Vous collaborez étroitement avec l’équipe multidisciplinaire spécialisée et prenez part aux colloques cliniques et fonctionnels, afin de soutenir une approche coordonnée et cohérente autour des patients et des patientes.\nVous assurez, lorsque nécessaire, le remplacement des collègues dans les autres unités de soins aigus, en garantissant la continuité et la qualité des prestations. Enfin, vous contribuez activement à la formation des étudiants et des étudiantes ainsi que des professionnels et professionnelles de la santé.",
     "external_url": "https://jobs.smartrecruiters.com/HUG/744000143771269-dieteticien-ou-dieteticienne-40-?oga=true",
@@ -2247,7 +2135,7 @@
     "title": "Principal Scientist - Mid/Large Scale Oligonucleotide Synthesis, xRNA Therapeutics",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-17",
+    "posted_date": "2026-08-18",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -2267,34 +2155,6 @@
     "description": "La direction des soins est à la recherche de son ou sa future responsable diététicienne pour manager et accompagner les équipes sur le site de Cluse-Roseraie dans leurs prestations dans différents départements médicaux. La patientèle peut être adulte comme pédiatrique notamment dans le domaine des soins aigus ainsi que pour l’enseignement thérapeutique au décours de la maladie chronique.  \nVous dirigez une équipe d’environ 30 collaborateurs et collaboratrices. Vous organisez, coordonnez et supervisez leurs activités et prévoyez toute action nécessaire de développement des compétences individuelles comme collectives. Vous garantissez une circulation optimale des informations, qu’elle soit ascendante, descendante et/ ou transversale. Vous développez un climat de confiance dans l’équipe nécessaire au bien vivre et travailler ensemble dans le respect des valeurs institutionnelles.\nVous savez donner le cap et accompagner vos équipes pour atteindre des objectifs communs. Vous déclinez les axes stratégiques de votre métier en objectifs réalisables par l’équipe tout en veillant à la contribution individuelle de chaque membre.\nEn qualité de responsable d’équipe, vous êtes garante ou garant de la qualité des soins nutritionnels et promouvez toute mesure visant à optimiser et à améliorer les prestations offertes à la patientèle. Vous disposez d’indicateurs pour conduire l’amélioration continue de la qualité. Vous contribuez également au développement de nouvelles pratiques.\nVotre esprit collaboratif vous permet de soutenir et développer l’interdisciplinarité entre tous les professionnelles et professionnels de la santé agissant sur la prise en charge des patientes et patients.\nVous gérez aisément la bonne allocation des ressources comme du matériel pour répondre aux besoins en soins des patients et patientes dans le cadre du budget alloué. Vous exercez également un rôle de référente ou référent pour les systèmes tarifaires en lien avec la profession\nSelon les besoins, vous êtes amené ou amenée à recruter de nouvelles collaboratrices et collaborateurs et veillez au développement de leur expertise dans les champs de spécialité de chaque secteur tout en veillant à la polyvalence nécessaire des compétences",
     "external_url": "https://jobs.smartrecruiters.com/HUG/744000143849064-dieteticien-ou-dieteticienne-responsable-de-secteur-100-?oga=true",
     "status": "matched"
-  },
-  "https://www.michaelpage.ch/de/job-detail/portfolio-manager-international-equities-mwd/ref/jn-062026-7052410?lang=en": {
-    "external_url": "https://www.michaelpage.ch/de/job-detail/portfolio-manager-international-equities-mwd/ref/jn-062026-7052410?lang=en",
-    "status": "ignored",
-    "title": "Aktien Portfolio Manager - Internationaler Vermögensverwalter",
-    "company": "Michael Page Switzerland",
-    "location": "Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": -2,
-    "matched_keywords": [],
-    "deducted_keywords": [
-      "location:Switzerland"
-    ]
-  },
-  "https://www.michaelpage.ch/job-detail/fund-portfolio-coordinator-9-months/ref/jn-042026-6999523": {
-    "external_url": "https://www.michaelpage.ch/job-detail/fund-portfolio-coordinator-9-months/ref/jn-042026-6999523",
-    "status": "ignored",
-    "title": "Fund Portfolio Coordinator for 9 months",
-    "company": "Michael Page Switzerland",
-    "location": "Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": -2,
-    "matched_keywords": [],
-    "deducted_keywords": [
-      "location:Switzerland"
-    ]
   },
   "https://api.smartrecruiters.com/v1/companies/AbbVie/postings/3743990014639936": {
     "description": "Job summary:\nThe (Senior) Market Access Value Proposition Manager (Market Access Manager) ensures customized value propositions to Payers, Regulators, Providers and Health insurers, including clinical, economic and political arguments in order to grant Access for patients to companies products.\nKey responsibilities:\nProvide customized value proposition to internal and external stakeholders\nBe an active part within Brand teams and identify opportunities to work collaboratively with cross-functional colleagues to deliver on Brand objectives.\nBe the link between Business Unit Directors, Sales, Finance, Governmental Affairs and Market Access\nCustomize technical data into simple compelling messages in the format required and appropriate for local stakeholders\nDefine Value Propositions by consolidating core value dossiers, stakeholder needs, local environment and Brand priorities\nPropose to Brand teams and provide training of analysis, tools, evidence, actions and programs to support and communicate the value propositions\nMonitor changes and competitive situation in the environment in order to anticipate risks and opportunities for Market Access in collaboration with Governmental affairs\nDevelop pricing scenarios, strategies and monitor prices together with Market Access Director\nPrepare submissions, objections handling and negotiation with authorities\nAttend field visits together with the key account managers with customers\nAttend congresses and networking events\nProvide Q&A for the Regional team",
@@ -2343,7 +2203,7 @@
     "title": "Business Development Director",
     "company": "KBI Biopharma",
     "location": "Switzerland - Plan-les-Ouates",
-    "posted_date": "2026-08-18",
+    "posted_date": "2026-08-19",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -2443,7 +2303,7 @@
     "title": "Senior / Principal Scientist in Pharmaceutical Development of Synthetic Molecules (Drug Product)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-19",
+    "posted_date": "2026-08-20",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2478,7 +2338,7 @@
     "title": "Discovery Scientist – Neural Retina & Ocular Disease",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-19",
+    "posted_date": "2026-08-20",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -2494,20 +2354,6 @@
     ],
     "deducted_keywords": []
   },
-  "https://www.michaelpage.ch/fr/job-detail/sp%C3%A9cialiste-sap-basis-lausanne/ref/jn-072026-7068151?lang=en": {
-    "external_url": "https://www.michaelpage.ch/fr/job-detail/sp%C3%A9cialiste-sap-basis-lausanne/ref/jn-072026-7068151?lang=en",
-    "status": "ignored",
-    "title": "Spécialiste SAP Basis - Lausanne",
-    "company": "Michael Page Switzerland",
-    "location": "Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": -2,
-    "matched_keywords": [],
-    "deducted_keywords": [
-      "location:Switzerland"
-    ]
-  },
   "https://api.smartrecruiters.com/v1/companies/Sobi/postings/744000144519859": {
     "description": "In this role, you will sit at the important intersection of medical science, regulatory requirements and clear, responsible communication. As Medical Review and Affairs Manager for Switzerland, you will provide medical, scientific and regulatory expertise and act as the legally required person responsible for advertising in accordance with Art. 25 AWV (Arzneimittel-Werbeverordnung).\nYour work will help ensure that promotional and non-promotional materials are scientifically accurate, balanced and aligned with Swiss regulatory requirements. It is a detail-focused role, but one with real impact: by bringing structure, sound judgement and medical expertise to the review process, you will help support high-quality communication around clinical data, scientific evidence and local promotional and non-promotional initiatives.\nWorking closely with colleagues across Medical, Commercial and other functions, you will be a trusted partner in the review and approval of materials, helping teams use scientific information appropriately in both internal and external communications. The role is well suited to someone who enjoys precision, collaboration and the opportunity to make complex information clear, compliant and meaningful.\n \nKey Responsibilities\nAct as the designated Person Responsible for Advertising in accordance with Art. 25 AWV.\nReview and approve promotional and non-promotional materials to ensure scientific accuracy, balance and compliance with Swiss requirements.\nMaintain the legally required archive of promotional materials and act as key contact for Swissmedic on advertising-related matters.\nApply medical and scientific expertise to assess clinical data, scientific evidence and relevant treatment developments.\nProvide medical and scientific guidance to internal teams, including support for KVV Art. 71a–d reimbursement requests where needed.\nSupport local medical, scientific and educational initiatives in line with regional and global objectives.\nCollaborate cross-functionally to ensure consistent, compliant and high-quality scientific communication.",
     "external_url": "https://jobs.smartrecruiters.com/Sobi/744000144519859-medical-review-and-affairs-manager?oga=true",
@@ -2520,7 +2366,7 @@
     "title": "Senior Scientist Bio-/Chemical Quality Control",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-08-20",
+    "posted_date": "2026-08-21",
     "department": "",
     "score": -1,
     "matched_keywords": [
@@ -2547,7 +2393,7 @@
     "title": "Associate Director, Search & Evaluation (Immunology)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-20",
+    "posted_date": "2026-08-21",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2602,7 +2448,7 @@
     "title": "Scientist 6 months fix-term contract 80-100%",
     "company": "Lonza",
     "location": "CH - Basel",
-    "posted_date": "2026-08-21",
+    "posted_date": "2026-08-22",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2699,7 +2545,7 @@
     "title": "AI Scientist – Image Analysis & Digital Pathology",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-24",
+    "posted_date": "2026-08-25",
     "department": "",
     "score": 8,
     "matched_keywords": [
@@ -2721,7 +2567,7 @@
     "title": "AI Scientist – AI-Driven Target Identification",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-24",
+    "posted_date": "2026-08-25",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -2755,7 +2601,7 @@
     "title": "Senior Scientist QA Operations",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-08-24",
+    "posted_date": "2026-08-25",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -2770,7 +2616,7 @@
     "title": "Research Associate In Cellular Assay Development",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-24",
+    "posted_date": "2026-08-25",
     "department": "",
     "score": 3,
     "matched_keywords": [
