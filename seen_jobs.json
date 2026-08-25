@@ -27,7 +27,7 @@
     "keywords": "alliance management,business development,clinical development,immuno-oncology,licensing,portfolio,regulatory,regulatory affairs,scientific advisor,scientific lead"
   },
   "_generic:BC Platforms": {
-    "keywords": "clinical development,data science,evidence generation,precision medicine,scientist"
+    "keywords": "business development,clinical development,data science,evidence generation,precision medicine,scientist"
   },
   "_generic:ABCDx": {
     "keywords": "biomarker,portfolio,regulatory"
@@ -649,7 +649,11 @@
     "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Portfolio-Strategy---Delivery-Lead--Data-Insight-Technology_202606-116913-2": "ignored",
     "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Basel-City/AI-Scientist---AI-Driven-Target-Identification_REQ-10084379-2": "ignored",
     "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Basel-City/AI-Scientist---Image-Analysis---Digital-Pathology_REQ-10084320-2": "ignored",
-    "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Internship-in-the-PD-Medical-Affairs-Nucleus-Team---Service-Solutions---Innovation--SSI----as-of-1-January-2027-for-12-months-in-Basel_202607-117989": "ignored"
+    "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Internship-in-the-PD-Medical-Affairs-Nucleus-Team---Service-Solutions---Innovation--SSI----as-of-1-January-2027-for-12-months-in-Basel_202607-117989": "ignored",
+    "https://www.michaelpage.ch/fr/job-detail/sp%C3%A9cialiste-salaires-et-assurances-sociales-80-100/ref/jn-072025-6778709?lang=en": "ignored",
+    "https://www.michaelpage.ch/fr/job-detail/sp%C3%A9cialiste-sap-basis-lausanne/ref/jn-072026-7068151?lang=en": "ignored",
+    "https://www.michaelpage.ch/job-detail/data-and-market-intelligence-analyst/ref/jn-072026-7074770": "ignored",
+    "https://www.michaelpage.ch/fr/job-detail/fiscaliste-sp%C3%A9cialiste-des-personnes-morales/ref/jn-082026-7083991?lang=en": "ignored"
   },
   "_generic:Hurdle Bio": {
     "keywords": "npp"
@@ -898,7 +902,7 @@
     "title": "\"Principal Scientist siRNA Design",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-31",
+    "posted_date": "2026-07-30",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1069,11 +1073,6 @@
     "external_url": "https://jobs.smartrecruiters.com/HUG/744000135923640-medecin-adjoint-ou-adjointe-ou-chef-ou-cheffe-de-clinique-avec-titre-a-l-adjoint-agrege-responsable-d-unite-de-medecine-subaquatique-et-hyperbare-60-a-100-?oga=true",
     "status": "matched"
   },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000136179409": {
-    "description": "As an experienced Data Analyst with a solid background in physics, you will join the team responsible for the LHC Longitudinal Density Monitor (commonly known as the BSRL: Beam Synchrotron Radiation Longitudinal monitor) within the Beam Instrumentation Group.\nIn this role, you will lead the work on the online and offline data processing pipelines, which are fully implemented in Python. The analysis results from this instrument are mission-critical, directly impacting the calibration of the LHC experiments, facilitating the troubleshooting of operational issues, and enabling detailed beam physics analysis.\nAdditionally, you will play an important role in R&D and optimisation, conducting advanced studies to shape the upcoming upgrades of the BSRL instrument.\nYour responsibilities\nLead the redesign and optimisation of the current online and offline Python data analysis software for the BSRL instrument to ensure scalability, performance and reproducibility.\nDevelop specialised offline analysis routines using BSRL data, cross-correlating with other beam instrumentation where necessary, to meet the requirements of stakeholders.\nExtend the online and offline diagnostics tools, architecting automated notification systems to detect early signs of instrument degradation, anomalies, or malfunctions.\nDesign and implement the specific software tools, calibration routines, and data pipelines required for the rapid commissioning of the renovated system after the Long Shutdown 3 (LS3).\nContribute to the validation and performance verification of the associated upgraded hardware planned for deployment during LS3.\nEvaluate and benchmark different upgrade scenarios for LS3 by combining advanced data analysis of historical run data with physics-based simulation techniques.\nYour profile\nProven background in the advanced analysis of complex experimental data, preferably from physics or large-scale scientific installations.\nExtensive experience in software development with a strong emphasis on clean, maintainable code.\nBasic experience in Monte Carlo-based physics simulation techniques.\nBasic experience with laboratory work.\nSkills\nIn-depth knowledge of advanced statistical methods, data modelling, and data analysis techniques applied to scientific datasets.\nProven proficiency in Python, including familiarity with the standard scientific stack (such as NumPy, Pandas, SciPy, etc) for high-performance processing.\nKnowledge of version control systems (Git/Gilab) and continuous integration and deployment (CI/CD)\nBasic knowledge of photon counting techniques would be advantage.\nSpoken and written English, with a commitment to learn French.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nYou have a professional background in Applied Physics, Data Analytics (or a related field) and have either:\na Master's degree with 2 to 6 years of post-graduation professional experience;\nor a PhD with no more than 3 years of post-graduation professional experience.\nYou have never had a CERN fellow or graduate contract before.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000136179409-data-analyst-for-beam-instrumentation-sy-bi-sw-2026-127-grap-?oga=true",
-    "status": "matched"
-  },
   "/job/Basel/Senior-Principal-Scientist---NMR-Expert_202607-117312": {
     "description": "At Roche you can show up as yourself, embraced for the unique qualities you bring. Our culture encourages personal expression, open dialogue, and genuine connections,  where you are valued, accepted and respected for who you are, allowing you to thrive both personally and professionally. This is how we aim to prevent, stop and cure diseases and ensure everyone has access to healthcare today and for generations to come. Join Roche, where every voice matters.\n\nThe Position\n\nNMR Expert in pRED-pCMC Analytical Chemistry\n\nIn Roche’s Pharmaceutical Research and Early Development organization (pRED), we make transformative medicines for patients in order to tackle some of the world’s toughest unmet healthcare needs. At pRED, we are united by our mission to transform science into medicine. Together, we create a culture defined by curiosity, responsibility and humility, where our talented people are empowered and inspired to bring forward extraordinary life-changing innovation at speed.\nThis role is situated within the preclinical Chemistry, Manufacturing, and Controls (pCMC) department, part of the Small Molecule Research organization in pRED Therapeutic Modalities (TMo). We pave the path for drug candidates from early research to development in a diverse, ambitious, and innovative environment. Collaborating actively with our discovery and development partners, we leverage cutting-edge technologies and scientific excellence to transform molecules into future medicines. As CMC experts, we bring a rich diversity of technical expertise in chemistry, formulation design, material science, and analytical chemistry, pioneering advancements in small molecules, peptides, and nucleic acid-based medicines.\n\nThe Opportunity\n\nWe are offering a unique opportunity for a hands-on NMR Expert in our Analytical Molecular Characterization group. As a Centre of Excellence for Analytics, we provide state-of-the-art methods and services for determining chemical structures, purities, and impurities, supporting portfolio projects throughout the entire value chain. In this role you plan, run and report NMR experiments for structure elucidation and inter- and intra-molecular interaction studies.\n\nInnovative Analytics: By applying cutting-edge analytics you support synthesis and formulation development enabling fast progress for projects, and identification of possible challenges.\n\nMethod Development: You develop and implement new NMR experiments and give input for future developments of our NMR group.\n\nScientific Excellence: You enhance scientific excellence by identifying relevant industry trends, and building and maintaining academic partnerships. \n\nStrategic Vision: You contribute deep scientific insights to shape the mid- and long-term strategy for NMR within the Roche portfolio. Working alongside the NMR group and the Leadership Team, you guide the translation of your strategic input into actionable team strategies. \n\nCollaboration and Relationship Building: You foster trustful relationships and effective collaboration with internal discovery and technical development teams as well as with external partners.\n\nWho You Are\n\nEducational Background: Masters with a minimum of 5 years or PhD in analytical chemistry or related fields with a minimum of 3 years of professional experience in the industry.\n\nTechnical Expertise: Comprehensive knowledge of NMR analytics and its applications paired with a deep understanding of the technical and theoretical basis beyond the standard experiments for liquid and solid state NMR. Experience with other methods for biophysical characterization is a plus.\n\nProven Experience: Hands on expertise in structure elucidation and interaction studies by NMR for synthetic oligonucleotides and/or peptides. Demonstrated expertise on higher order structure studies and aggregation studies.\n\nMindset: You possess an open-minded and highly proactive, \"just-do-it\" approach. You enjoy problem-solving and developing new ways of working. You comfortably navigate working in a multidisciplinary matrix team.\n\nIf you are an expert in NMR and enjoy being a part of an innovative and impact oriented team, we would love to hear from you.\n \n \n\nWho we are\nA healthier future drives us to innovate. Together, more than 100’000 employees across the globe are dedicated to advance science, ensuring everyone has access to healthcare today and for generations to come. Our efforts result in more than 26 million people treated with our medicines and over 30 billion tests conducted using our Diagnostics products. We empower each other to explore new possibilities, foster creativity, and keep our ambitions high, so we can deliver life-changing healthcare solutions that make a global impact.\n\nLet’s build a healthier future, together.\n\nRoche is an Equal Opportunity Employer.",
     "external_url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Senior-Principal-Scientist---NMR-Expert_202607-117312",
@@ -1155,16 +1154,6 @@
       "postdoctoral"
     ],
     "deducted_keywords": []
-  },
-  "https://api.smartrecruiters.com/v1/companies/AbbVie/postings/3743990014101948": {
-    "description": "Are you a strategic relationship builder who thrives in complex healthcare environments? Do you enjoy connecting the dots across stakeholders, shaping tailored engagement plans, and creating meaningful impact for patients and business outcomes? We are looking for a Key Account Manager to act as a trusted partner for key accounts in western Switzerland (French speaking) and help drive successful access to AbbVie products.\nIn this role, you will serve as the main point of contact for key accounts, working closely with a broad network of internal and external stakeholders. You’ll develop customized account strategies, build strong relationships, and coordinate cross-functional efforts to ensure aligned, effective engagement across the account landscape.\nWhat you’ll do:\nDevelop tailored approaches and clear engagement plans for key accounts, with defined objectives and activities to optimize the use and funding of AbbVie products\nAct as the main AbbVie contact for non-clinician stakeholders, building trusted relationships and understanding their priorities, constraints, and decision-making processes\nPlay an active role in brand teams and collaborate with cross-functional colleagues to deliver on brand objectives\nDrive business growth by anticipating barriers to product usage and supporting provider formulary access to help achieve revenue targets\nCoordinate internal interactions, build consensus, resolve conflicts, and escalate issues where needed\nMonitor contracting and tendering activity across key accounts\nBuild and manage relationships within the account ecosystem\nLead multidisciplinary teams without formal authority, creating alignment and solving challenges within the in-field team\nExecute engagement plans and ensure consistent interaction across all in-field functions involved with the account\nWork with Market Access Value Proposition colleagues to provide stakeholders with tailored clinical, economic, and service-oriented information\nTrack the execution and impact of account activities and measure performance regularly\nNegotiate, close, and sign deals, and support or lead the contracting and tendering process as needed",
-    "external_url": "https://jobs.smartrecruiters.com/AbbVie/3743990014101948-key-account-manager-western-switzerland?oga=true",
-    "status": "matched"
-  },
-  "https://api.smartrecruiters.com/v1/companies/AbbVie/postings/3743990014101481": {
-    "description": "Are you a strategic relationship builder who thrives in complex healthcare environments? Do you enjoy connecting the dots across stakeholders, shaping tailored engagement plans, and creating meaningful impact for patients and business outcomes? We are looking for a Key Account Manager to act as a trusted partner for key accounts in western Switzerland (French speaking) and help drive successful access to AbbVie products.\nIn this role, you will serve as the main point of contact for key accounts, working closely with a broad network of internal and external stakeholders. You’ll develop customized account strategies, build strong relationships, and coordinate cross-functional efforts to ensure aligned, effective engagement across the account landscape.\nWhat you’ll do:\nDevelop tailored approaches and clear engagement plans for key accounts, with defined objectives and activities to optimize the use and funding of AbbVie products\nAct as the main AbbVie contact for non-clinician stakeholders, building trusted relationships and understanding their priorities, constraints, and decision-making processes\nPlay an active role in brand teams and collaborate with cross-functional colleagues to deliver on brand objectives\nDrive business growth by anticipating barriers to product usage and supporting provider formulary access to help achieve revenue targets\nCoordinate internal interactions, build consensus, resolve conflicts, and escalate issues where needed\nMonitor contracting and tendering activity across key accounts\nBuild and manage relationships within the account ecosystem\nLead multidisciplinary teams without formal authority, creating alignment and solving challenges within the in-field team\nExecute engagement plans and ensure consistent interaction across all in-field functions involved with the account\nWork with Market Access Value Proposition colleagues to provide stakeholders with tailored clinical, economic, and service-oriented information\nTrack the execution and impact of account activities and measure performance regularly\nNegotiate, close, and sign deals, and support or lead the contracting and tendering process as needed",
-    "external_url": "https://jobs.smartrecruiters.com/AbbVie/3743990014101481-key-account-manager-western-switzerland?oga=true",
-    "status": "matched"
   },
   "/job/Switzerland---Basel/Sr-Global-HEOR---Payer-Evidence-Lead_31156318": {
     "description": "JOB DESCRIPTION:\n\nShape the Future of Healthcare with Abbott\n\nAbbott is a global healthcare leader dedicated to helping people live their best lives at every stage. Our portfolio spans life-changing technologies in diagnostics, medical devices, nutrition, and branded generic medicines. With 114,000 colleagues serving patients in 160+ countries, we are committed to advancing health worldwide.\n\nAre you passionate about driving evidence-based strategies that improve patient outcomes? At Abbott’s Established Pharmaceutical Division (EPD), we are looking for a Senior Manager in Health Economics & Outcomes Research to shape global initiatives that make a real impact.\nAbout the Role\n\nJoin us as a Sr Global HEOR & Payer Evidence Lead and help shape access to life-saving therapies in oncology and immunology. This is a unique opportunity to make a global impact while working in a collaborative, inclusive environment that values diverse perspectives.\nReporting to the Director, Global HEOR, you will lead strategic and hands-on initiatives across emerging markets (Latin America, Middle East, Asia-Pacific, China, Russia, India, and Africa). Your work will directly influence patient access and affordability, ensuring innovative treatments reach those who need them most.\n\nWhat You’ll Do\n\nLead with purpose: Oversee HEOR projects with external partners, ensuring scientific rigor and timely delivery.\n\nEmpower teams globally: Co-create country-level HEOR plans and mentor local professionals to build capabilities.\n\nDrive innovation: Adapt economic models and guide Real-World Evidence (RWE) studies to meet diverse market needs.\n\nCommunicate impact: Translate complex data into clear, compelling value stories for HTA submissions and payer negotiations.\n\nCollaborate across cultures: Work with cross-functional teams and external stakeholders to strengthen global access strategies.\n\nChampion visibility: Lead publication planning and represent HEOR at international congresses.\n\nAbout You\n\n8+ years’ experience in the biotech, pharma or healthcare sector (incl. consulting) with strong focus in Health Economics, Market Access, or related functions/fields\n\nExperience across multiple global regions, especially emerging markets\n\nDeep knowledge of healthcare system and evolving trends of the major HTA countries and Emerging countries\n\nStrong knowledge of health economic modeling and RWE.\n\nProven leadership in cross-functional or cross-country initiatives.\n\nAdvanced degree (MSc, PhD, PharmD, MPH) in health economics, public health, epidemiology, or related field.\n\nOncology and/or immunology experience preferred.\n\nPassion for improving patient access and affordability.\n\nWhat We Offer\n\nInclusive culture: We value diversity and encourage different perspectives to drive innovation.\n\nCareer growth: Leadership development, mentoring, and exposure to strategic decision-making.\n\nImpactful work: Contribute to therapies that change lives worldwide.\n\nDo you like the sound of this job and think you’ve got what it takes? Then send us your CV today. We look forward to receiving your application as pdf.\n\n(If you want to upload several documents, don`t save in between uploading them to be able to do so. Once you save your uploads, you will not be able to add more documents)\n\n     \nThe base pay for this position is N/A\nIn specific locations, the pay range may vary from the range posted.\n     \nJOB FAMILY:Market Access\n     \nDIVISION:EPD Established Pharma\n        \nLOCATION:Switzerland > Allschwil : H-127\n     \nADDITIONAL LOCATIONS:\n     \nWORK SHIFT:Standard\n     \nTRAVEL:Not specified\n     \nMEDICAL SURVEILLANCE:Not Applicable\n     \nSIGNIFICANT WORK ACTIVITIES:Not Applicable",
@@ -1409,7 +1398,7 @@
     "title": "Senior Scientist microbiological Quality Control",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-07-31",
+    "posted_date": "2026-07-30",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -1475,7 +1464,7 @@
     "title": "Senior Expert / Senior Principal PKS Data Scientist & Scientific Software Engineer (Dual level posting)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-07",
+    "posted_date": "2026-08-06",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -1580,7 +1569,7 @@
     "title": "Senior Regulatory Group Director",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-04",
+    "posted_date": "2026-08-03",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1620,7 +1609,7 @@
     "title": "Principal Scientist, Respiratory Discovery",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-05",
+    "posted_date": "2026-08-04",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -1644,7 +1633,7 @@
     "title": "Scientist, Cell Engineering and Phenotypic Screening Models",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-05",
+    "posted_date": "2026-08-04",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -1670,7 +1659,7 @@
     "title": "Senior Principal Scientist/Associate Director Clinical PBPK  (Dual Level Posting)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-05",
+    "posted_date": "2026-08-04",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -1691,21 +1680,6 @@
     "description": "The Geodetic Metrology Group (BE-GM) provides metrology and alignment for accelerator components, beam lines, and experiments across CERN, including geodetic reference systems and gravity field modelling. The Future Projects section prepares technical foundations for upcoming facilities through studies, simulations, and prototyping.\nIn this role, you will contribute to FCC studies, developing gravity field models for the 91 km tunnel and supporting sub-millimetric alignment of accelerator components and detectors. You will also contribute to the CERN-Swisstopo collaboration to compute the quasi-geoid model required for Switzerland's New Height System.\nYour responsibilities:\nCompute and validate a state-of-the-art quasi-geoid model covering FCC area and Switzerland.\nExplore and propose solutions for modelling equipotential surfaces inside tunnels.\nTake part in field observation campaigns (gravity, GNSS, leveling, astro-geodetic) required to fill data gaps or to validate the computed models.\nDevelop a gravity field modelling software package by combining existing tools and new features developed for the project.\nThis role includes team supervision responsibilities.\nYour profile:\nKnowledge of physical geodesy and gravity field theory.\nExperience in regional gravity field modelling using GRAVSOFT, GROOPS, KTH, SHGEO or another method would be an asset.\nExperience in object-oriented programming (ideally Python and/or C++).\nSkills:\nGood organisation and communication skills, sense of responsibility and a capacity to work in a team.\nStrong analytical and problem-solving skills.\nSpoken and written English or French, with a commitment to learn the basics of the other language.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nYou have a professional background in Topography, Geodesy, Surveying, Geomatic (or a related field) and have either:\na Master's degree with 2 to 6 years of post-graduation professional experience;\nor a PhD with no more than 3 years of post-graduation professional experience.\nYou have never had a CERN fellow or graduate contract before.",
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000141649630-geodesist-be-gm-fp-2026-29-grap-?oga=true",
     "status": "matched"
-  },
-  "/job/CH---Basel/Associate-Principal-Scientist-Extractables---Leachables-80-100-_R78063": {
-    "description": "The actual location of this job is in Basel Stücki, Switzerland.\n\nFor Drug Product Services (DPS), our successful DP focused branch located in Basel and Stein, Switzerland, we have exciting opportunities. Become part of a group that enables its customers to meet some of the greatest challenges in patient treatment and join us by applying for the Associate Principal Scientist E&L position.\n\nWhat you will get:\n\nAn agile career and a dynamic work culture\n\nAn inclusive and ethical workplace\n\nCompensation programs that recognize high performance\n\nWhat you will do:\n\nPerform and supervise Extractables & Leachables (EL) laboratory studies (HS-GC-MS, GC-MS, LC-UV-MS) to support DPS projects, as well as perform services for external customers\n\nPerform and supervise EL assessments according to Lonza internal procedures and best scientific practices\n\nSupervise lab scientists and interns. Ensure effective use of resources (time, people, equipment and materials). Review and approve data, and compile protocols, reports and SOPs\n\nEnable innovation and technical strategy projects, generate intellectual property, as well as evaluate and implement new technologies as required\n\nClosely interact with the other functions across Forensic Chemistry, DPS and the wider Lonza network\n\nSupervise installation, qualification and maintenance of instruments in DPS Forensic Chemistry according to current best practices and regulations\n\nWhat we are looking for:\n\nPhD in Analytical Chemistry, Biochemistry, Pharmaceutical Sciences or related field\n\nSubstantial work experience and background in hyphenated analytical methodologies\n\nGood working knowledge in all relevant analytical techniques\n\nExperience in reporting, interpretation and documentation of complex analytical data\n\nDemonstrated scientific leadership\n\nGood communication and inter-personal skills\n\nAbility to work independently and in a team\n\nExcellent knowledge of written and spoken English\n\nAbout Lonza\nAt Lonza, our people are our greatest strength. With 30+ sites across five continents, our globally connected teams work together every day to manufacture the medicines of tomorrow. Our core values of Collaboration, Accountability, Excellence, Passion and Integrity reflect who we are and how we work together. Everyone’s ideas, big or small, have the potential to improve millions of lives, and that’s the kind of work we want you to be part of.\n\nInnovation thrives when people from all backgrounds bring their unique perspectives to the table. At Lonza, we value diversity and are committed to creating an inclusive environment for all employees. If you’re ready to help turn our customers’ breakthrough ideas into viable therapies, we look forward to welcoming you on board.\n\nReady to shape the future of life sciences? Apply now.",
-    "external_url": "https://lonza.wd3.myworkdayjobs.com/Lonza_Careers/job/CH---Basel/Associate-Principal-Scientist-Extractables---Leachables-80-100-_R78063",
-    "status": "matched",
-    "title": "Associate Principal Scientist Extractables & Leachables 80-100%",
-    "company": "Lonza",
-    "location": "CH - Basel",
-    "posted_date": "2026-08-06",
-    "department": "",
-    "score": 1,
-    "matched_keywords": [
-      "PhD"
-    ],
-    "deducted_keywords": []
   },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000141717060": {
     "description": "Introduction:\nYou will play an active role in the support and evolution of the database systems that underpin the LHC experiments, accelerator operations, and CERN's support services. In addition to general database administration, you will focus on the engineering, operation, and modernisation of orchestrated High Availability (HA) infrastructures. A key responsibility will be the development and operation of a resilient, distributed PostgreSQL HA platform based on modern consensus, orchestration, and proxy routing technologies.\nA hands-on engineering role focused on the reliability, automation and evolution of CERN’s PostgreSQL and relational database platforms, with a particular focus on high availability, resilience and service continuity for mission-critical scientific and organisational services.\nFunctions:\nAs a Database Infrastructure Engineer in the Databases and Analytics Group, your main activities will consist of:\nAdministration, operation, and evolution of MySQL, and PostgreSQL database platforms, including troubleshooting, configuration, migrations, upgrades, scaling, and patching.\nDesign, deployment, operation, and continuous improvement of highly available and resilient PostgreSQL infrastructures.\nDevelopment and maintenance of automation for database provisioning, configuration, failover and operational workflows.\nProactive monitoring of database environments to ensure optimum performance, throughput, stability, availability and security.\nDefinition and evolution of database architecture, resilience, disaster recovery, and service continuity strategies.\nProvision of technical expertise and troubleshooting support to application development teams.\nShare domain and technical expertise, and provide technical mentorship and training to peers.",
@@ -1824,7 +1798,7 @@
     "title": "Executive Director, Regional Medical Lead - Solid Tumors, Medical Affairs, Europe",
     "company": "BeiGene",
     "location": "Basel",
-    "posted_date": "2026-08-08",
+    "posted_date": "2026-08-07",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1899,7 +1873,7 @@
     "title": "Project Scientist Phys-Chem Quality Control 80-100%",
     "company": "Lonza",
     "location": "CH - Basel",
-    "posted_date": "2026-08-11",
+    "posted_date": "2026-08-10",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1914,7 +1888,7 @@
     "title": "Application Development Scientist – Reagents (12 months fixed-term contract)",
     "company": "Bio-Techne / Lunaphore",
     "location": "Tolochenaz, Switzerland",
-    "posted_date": "2026-08-12",
+    "posted_date": "2026-08-11",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1933,7 +1907,7 @@
     "title": "Senior Principal Scientist / Associate Director– Soluble Biomarkers, Molecular & Cellular Sciences (MCS)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-12",
+    "posted_date": "2026-08-11",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -1959,7 +1933,7 @@
     "title": "Internship in the Product Development Medical Affairs Nucleus Team from 01.01.2027, 12 months",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-12",
+    "posted_date": "2026-08-11",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2135,7 +2109,7 @@
     "title": "Principal Scientist - Mid/Large Scale Oligonucleotide Synthesis, xRNA Therapeutics",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-18",
+    "posted_date": "2026-08-17",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -2154,16 +2128,6 @@
   "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000143849064": {
     "description": "La direction des soins est à la recherche de son ou sa future responsable diététicienne pour manager et accompagner les équipes sur le site de Cluse-Roseraie dans leurs prestations dans différents départements médicaux. La patientèle peut être adulte comme pédiatrique notamment dans le domaine des soins aigus ainsi que pour l’enseignement thérapeutique au décours de la maladie chronique.  \nVous dirigez une équipe d’environ 30 collaborateurs et collaboratrices. Vous organisez, coordonnez et supervisez leurs activités et prévoyez toute action nécessaire de développement des compétences individuelles comme collectives. Vous garantissez une circulation optimale des informations, qu’elle soit ascendante, descendante et/ ou transversale. Vous développez un climat de confiance dans l’équipe nécessaire au bien vivre et travailler ensemble dans le respect des valeurs institutionnelles.\nVous savez donner le cap et accompagner vos équipes pour atteindre des objectifs communs. Vous déclinez les axes stratégiques de votre métier en objectifs réalisables par l’équipe tout en veillant à la contribution individuelle de chaque membre.\nEn qualité de responsable d’équipe, vous êtes garante ou garant de la qualité des soins nutritionnels et promouvez toute mesure visant à optimiser et à améliorer les prestations offertes à la patientèle. Vous disposez d’indicateurs pour conduire l’amélioration continue de la qualité. Vous contribuez également au développement de nouvelles pratiques.\nVotre esprit collaboratif vous permet de soutenir et développer l’interdisciplinarité entre tous les professionnelles et professionnels de la santé agissant sur la prise en charge des patientes et patients.\nVous gérez aisément la bonne allocation des ressources comme du matériel pour répondre aux besoins en soins des patients et patientes dans le cadre du budget alloué. Vous exercez également un rôle de référente ou référent pour les systèmes tarifaires en lien avec la profession\nSelon les besoins, vous êtes amené ou amenée à recruter de nouvelles collaboratrices et collaborateurs et veillez au développement de leur expertise dans les champs de spécialité de chaque secteur tout en veillant à la polyvalence nécessaire des compétences",
     "external_url": "https://jobs.smartrecruiters.com/HUG/744000143849064-dieteticien-ou-dieteticienne-responsable-de-secteur-100-?oga=true",
-    "status": "matched"
-  },
-  "https://api.smartrecruiters.com/v1/companies/AbbVie/postings/3743990014639936": {
-    "description": "Job summary:\nThe (Senior) Market Access Value Proposition Manager (Market Access Manager) ensures customized value propositions to Payers, Regulators, Providers and Health insurers, including clinical, economic and political arguments in order to grant Access for patients to companies products.\nKey responsibilities:\nProvide customized value proposition to internal and external stakeholders\nBe an active part within Brand teams and identify opportunities to work collaboratively with cross-functional colleagues to deliver on Brand objectives.\nBe the link between Business Unit Directors, Sales, Finance, Governmental Affairs and Market Access\nCustomize technical data into simple compelling messages in the format required and appropriate for local stakeholders\nDefine Value Propositions by consolidating core value dossiers, stakeholder needs, local environment and Brand priorities\nPropose to Brand teams and provide training of analysis, tools, evidence, actions and programs to support and communicate the value propositions\nMonitor changes and competitive situation in the environment in order to anticipate risks and opportunities for Market Access in collaboration with Governmental affairs\nDevelop pricing scenarios, strategies and monitor prices together with Market Access Director\nPrepare submissions, objections handling and negotiation with authorities\nAttend field visits together with the key account managers with customers\nAttend congresses and networking events\nProvide Q&A for the Regional team",
-    "external_url": "https://jobs.smartrecruiters.com/AbbVie/3743990014639936--senior-market-access-value-proposition-manager?oga=true",
-    "status": "matched"
-  },
-  "https://api.smartrecruiters.com/v1/companies/AbbVie/postings/3743990014639895": {
-    "description": "Job summary:\nThe (Senior) Market Access Value Proposition Manager (Market Access Manager) ensures customized value propositions to Payers, Regulators, Providers and Health insurers, including clinical, economic and political arguments in order to grant Access for patients to companies products.\nKey responsibilities:\nProvide customized value proposition to internal and external stakeholders\nBe an active part within Brand teams and identify opportunities to work collaboratively with cross-functional colleagues to deliver on Brand objectives.\nBe the link between Business Unit Directors, Sales, Finance, Governmental Affairs and Market Access\nCustomize technical data into simple compelling messages in the format required and appropriate for local stakeholders\nDefine Value Propositions by consolidating core value dossiers, stakeholder needs, local environment and Brand priorities\nPropose to Brand teams and provide training of analysis, tools, evidence, actions and programs to support and communicate the value propositions\nMonitor changes and competitive situation in the environment in order to anticipate risks and opportunities for Market Access in collaboration with Governmental affairs\nDevelop pricing scenarios, strategies and monitor prices together with Market Access Director\nPrepare submissions, objections handling and negotiation with authorities\nAttend field visits together with the key account managers with customers\nAttend congresses and networking events\nProvide Q&A for the Regional team",
-    "external_url": "https://jobs.smartrecruiters.com/AbbVie/3743990014639895--senior-market-access-value-proposition-manager?oga=true",
     "status": "matched"
   },
   "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000144025559": {
@@ -2203,7 +2167,7 @@
     "title": "Business Development Director",
     "company": "KBI Biopharma",
     "location": "Switzerland - Plan-les-Ouates",
-    "posted_date": "2026-08-19",
+    "posted_date": "2026-08-18",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -2303,7 +2267,7 @@
     "title": "Senior / Principal Scientist in Pharmaceutical Development of Synthetic Molecules (Drug Product)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-20",
+    "posted_date": "2026-08-19",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2338,7 +2302,7 @@
     "title": "Discovery Scientist – Neural Retina & Ocular Disease",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-20",
+    "posted_date": "2026-08-19",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -2366,7 +2330,7 @@
     "title": "Senior Scientist Bio-/Chemical Quality Control",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-08-21",
+    "posted_date": "2026-08-20",
     "department": "",
     "score": -1,
     "matched_keywords": [
@@ -2393,7 +2357,7 @@
     "title": "Associate Director, Search & Evaluation (Immunology)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-21",
+    "posted_date": "2026-08-20",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2448,7 +2412,7 @@
     "title": "Scientist 6 months fix-term contract 80-100%",
     "company": "Lonza",
     "location": "CH - Basel",
-    "posted_date": "2026-08-22",
+    "posted_date": "2026-08-21",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2545,7 +2509,7 @@
     "title": "AI Scientist – Image Analysis & Digital Pathology",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-25",
+    "posted_date": "",
     "department": "",
     "score": 8,
     "matched_keywords": [
@@ -2567,7 +2531,7 @@
     "title": "AI Scientist – AI-Driven Target Identification",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-25",
+    "posted_date": "",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -2601,7 +2565,7 @@
     "title": "Senior Scientist QA Operations",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-08-25",
+    "posted_date": "",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -2616,13 +2580,182 @@
     "title": "Research Associate In Cellular Assay Development",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-25",
+    "posted_date": "",
     "department": "",
     "score": 3,
     "matched_keywords": [
       "assay development",
       "drug discovery",
       "molecular biology"
+    ],
+    "deducted_keywords": []
+  },
+  "https://www.michaelpage.ch/job-detail/business-development-manager-dacheurope-mwd/ref/jn-062026-7035692": {
+    "external_url": "https://www.michaelpage.ch/job-detail/business-development-manager-dacheurope-mwd/ref/jn-062026-7035692",
+    "status": "matched",
+    "title": "Business Development Manager DACH / Europe (m/w/d)",
+    "company": "Michael Page Switzerland",
+    "location": "Switzerland",
+    "posted_date": "",
+    "department": "",
+    "score": -2,
+    "matched_keywords": [],
+    "deducted_keywords": [
+      "location:Switzerland"
+    ]
+  },
+  "https://www.michaelpage.ch/de/job-detail/junior-technical-sales-business-development-mwd/ref/jn-062026-7035709?lang=en": {
+    "external_url": "https://www.michaelpage.ch/de/job-detail/junior-technical-sales-business-development-mwd/ref/jn-062026-7035709?lang=en",
+    "status": "matched",
+    "title": "(Junior) Technical Sales / Business Development (m/w/d)",
+    "company": "Michael Page Switzerland",
+    "location": "Switzerland",
+    "posted_date": "",
+    "department": "",
+    "score": -2,
+    "matched_keywords": [],
+    "deducted_keywords": [
+      "location:Switzerland"
+    ]
+  },
+  "https://www.michaelpage.ch/fr/job-detail/fiscaliste-sp%C3%A9cialiste-des-personnes-morales/ref/jn-082026-7083991?lang=en": {
+    "external_url": "https://www.michaelpage.ch/fr/job-detail/fiscaliste-sp%C3%A9cialiste-des-personnes-morales/ref/jn-082026-7083991?lang=en",
+    "status": "matched",
+    "title": "Fiscaliste spécialiste des personnes morales",
+    "company": "Michael Page Switzerland",
+    "location": "Switzerland",
+    "posted_date": "",
+    "department": "",
+    "score": -2,
+    "matched_keywords": [],
+    "deducted_keywords": [
+      "location:Switzerland"
+    ]
+  },
+  "https://www.michaelpage.ch/job-detail/data-and-market-intelligence-analyst/ref/jn-072026-7074770": {
+    "external_url": "https://www.michaelpage.ch/job-detail/data-and-market-intelligence-analyst/ref/jn-072026-7074770",
+    "status": "matched",
+    "title": "Data and Market Intelligence Analyst",
+    "company": "Michael Page Switzerland",
+    "location": "Switzerland",
+    "posted_date": "",
+    "department": "",
+    "score": -2,
+    "matched_keywords": [],
+    "deducted_keywords": [
+      "location:Switzerland"
+    ]
+  },
+  "https://www.michaelpage.ch/de/job-detail/portfolio-manager-international-equities-mwd/ref/jn-062026-7052410?lang=en": {
+    "external_url": "https://www.michaelpage.ch/de/job-detail/portfolio-manager-international-equities-mwd/ref/jn-062026-7052410?lang=en",
+    "status": "matched",
+    "title": "Aktien Portfolio Manager - Internationaler Vermögensverwalter",
+    "company": "Michael Page Switzerland",
+    "location": "Switzerland",
+    "posted_date": "",
+    "department": "",
+    "score": -2,
+    "matched_keywords": [],
+    "deducted_keywords": [
+      "location:Switzerland"
+    ]
+  },
+  "https://www.michaelpage.ch/de/job-detail/sales-consultant-business-development-manager-mwd/ref/jn-072026-7057195?lang=en": {
+    "external_url": "https://www.michaelpage.ch/de/job-detail/sales-consultant-business-development-manager-mwd/ref/jn-072026-7057195?lang=en",
+    "status": "matched",
+    "title": "(Senior) Sales Consultant / Business Development Manager (m/w/d)",
+    "company": "Michael Page Switzerland",
+    "location": "Switzerland",
+    "posted_date": "",
+    "department": "",
+    "score": -2,
+    "matched_keywords": [],
+    "deducted_keywords": [
+      "location:Switzerland"
+    ]
+  },
+  "https://www.michaelpage.ch/fr/job-detail/sp%C3%A9cialiste-sap-basis-lausanne/ref/jn-072026-7068151?lang=en": {
+    "external_url": "https://www.michaelpage.ch/fr/job-detail/sp%C3%A9cialiste-sap-basis-lausanne/ref/jn-072026-7068151?lang=en",
+    "status": "matched",
+    "title": "Spécialiste SAP Basis - Lausanne",
+    "company": "Michael Page Switzerland",
+    "location": "Switzerland",
+    "posted_date": "",
+    "department": "",
+    "score": -2,
+    "matched_keywords": [],
+    "deducted_keywords": [
+      "location:Switzerland"
+    ]
+  },
+  "https://www.michaelpage.ch/de/job-detail/business-development-specialist-100/ref/jn-032026-6968386?lang=en": {
+    "external_url": "https://www.michaelpage.ch/de/job-detail/business-development-specialist-100/ref/jn-032026-6968386?lang=en",
+    "status": "matched",
+    "title": "Business Development Specialist (a) 100%",
+    "company": "Michael Page Switzerland",
+    "location": "Switzerland",
+    "posted_date": "",
+    "department": "",
+    "score": -2,
+    "matched_keywords": [],
+    "deducted_keywords": [
+      "location:Switzerland"
+    ]
+  },
+  "https://www.michaelpage.ch/job-detail/fund-portfolio-coordinator-9-months/ref/jn-042026-6999523": {
+    "external_url": "https://www.michaelpage.ch/job-detail/fund-portfolio-coordinator-9-months/ref/jn-042026-6999523",
+    "status": "matched",
+    "title": "Fund Portfolio Coordinator for 9 months",
+    "company": "Michael Page Switzerland",
+    "location": "Switzerland",
+    "posted_date": "",
+    "department": "",
+    "score": -2,
+    "matched_keywords": [],
+    "deducted_keywords": [
+      "location:Switzerland"
+    ]
+  },
+  "https://www.michaelpage.ch/fr/job-detail/sp%C3%A9cialiste-salaires-et-assurances-sociales-80-100/ref/jn-072025-6778709?lang=en": {
+    "external_url": "https://www.michaelpage.ch/fr/job-detail/sp%C3%A9cialiste-salaires-et-assurances-sociales-80-100/ref/jn-072025-6778709?lang=en",
+    "status": "matched",
+    "title": "Spécialiste salaires et assurances sociales 80-100%",
+    "company": "Michael Page Switzerland",
+    "location": "Switzerland",
+    "posted_date": "",
+    "department": "",
+    "score": -2,
+    "matched_keywords": [],
+    "deducted_keywords": [
+      "location:Switzerland"
+    ]
+  },
+  "https://www.michaelpage.ch/de/job-detail/product-business-development-manager/ref/jn-032026-6970319?lang=en": {
+    "external_url": "https://www.michaelpage.ch/de/job-detail/product-business-development-manager/ref/jn-032026-6970319?lang=en",
+    "status": "matched",
+    "title": "Product & Business Development Manager",
+    "company": "Michael Page Switzerland",
+    "location": "Switzerland",
+    "posted_date": "",
+    "department": "",
+    "score": -2,
+    "matched_keywords": [],
+    "deducted_keywords": [
+      "location:Switzerland"
+    ]
+  },
+  "/job/Basel/Scientist-Pharmaceutical-and-Processing-Development_202607-118444-2": {
+    "description": "At Roche you can show up as yourself, embraced for the unique qualities you bring. Our culture encourages personal expression, open dialogue, and genuine connections,  where you are valued, accepted and respected for who you are, allowing you to thrive both personally and professionally. This is how we aim to prevent, stop and cure diseases and ensure everyone has access to healthcare today and for generations to come. Join Roche, where every voice matters.\n\nThe Position\nAs a Scientist in Pharmaceutical Development, you are part of the Department “Pharmaceutical Development” in Pharma Technical Development (PTD) in Basel, Switzerland. The department Pharmaceutical Development is responsible for the development of parenteral drug products (Synthetic molecules and Biologics) from Phase 1 through market Launch. Activities encompass formulation and manufacturing process development for parenteral drug products for all clinical stages and the market launch, the transfer of product and process to commercial manufacturing sites, commercial product support and line extension development. \n\nYou will balance technical rigor in formulation and process development with an exploratory mindset, driving innovation in parenteral modalities, including Oligonucleotides and complex synthetic molecules. \n\nThe Opportunity\n\nLead the end-to-end development of parenteral formulations—including liquid and lyophilized dosage forms—and establish robust manufacturing processes from scale-up and characterization to commercial transfer.\n\nRepresent Pharmaceutical Development as a project leader in global CMC and cross-functional teams, providing critical technical expertise and strategic input for regulatory submissions (BLA/MAA/NDA) throughout all clinical stages.\n\nActively apply creative, open-minded approaches to overcome unfavorable molecular properties. Serve as a key lab partner to Postdocs and Scientists to test and validate exploratory formulation concepts and new therapeutic modalities. \n\nManage and support analytical method scouting, analytical understanding and implementation capabilities in our routine.\n\nWho you are\n\nYou hold a Ph.D. or master degree in chemistry, chemical/process engineering or related fields and bring a minimum of 2 years of professional experience (industry) in formulation and process development DP manufacturing related fields of parenteral dosage forms.\n\nEagerness to Learn & Grow: Strong intrinsic motivation to master new therapeutic modalities, specifically building a deep technical footprint in Oligonucleotide formulation and analytical-formulation loops.\n\nTechnical Agility & Curiosity: Comfort in or a strong motivation to acquire knowledge and advance in unfamiliar fields, particularly digital domains. A natural inclination to challenge the status quo and show curiosity.\n\nCollaboration & Communication: Outstanding team player with highly developed interpersonal skills. Thrives in a matrixed environment where resources, ideas, and lab spaces are shared globally to deliver a high-stakes portfolio.\n\nExperience in oligonucleotides is a plus\n \n \n\nWho we are\nA healthier future drives us to innovate. Together, more than 100’000 employees across the globe are dedicated to advance science, ensuring everyone has access to healthcare today and for generations to come. Our efforts result in more than 26 million people treated with our medicines and over 30 billion tests conducted using our Diagnostics products. We empower each other to explore new possibilities, foster creativity, and keep our ambitions high, so we can deliver life-changing healthcare solutions that make a global impact.\n\nLet’s build a healthier future, together.\n\nRoche is an Equal Opportunity Employer.",
+    "external_url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Scientist-Pharmaceutical-and-Processing-Development_202607-118444-2",
+    "status": "matched",
+    "title": "Scientist Pharmaceutical and Processing Development (2 year fixed term contract)",
+    "company": "Roche",
+    "location": "Basel",
+    "posted_date": "2026-08-25",
+    "department": "",
+    "score": 1,
+    "matched_keywords": [
+      "Postdoc"
     ],
     "deducted_keywords": []
   }
