@@ -9,7 +9,7 @@
     "keywords": "npp"
   },
   "_generic:Charles River Laboratories": {
-    "keywords": "regulatory"
+    "keywords": "regulatory,scientist"
   },
   "_generic:MoonLake Immunotherapeutics": {
     "keywords": "clinical development,medical affairs"
@@ -2708,5 +2708,55 @@
     "description": "Au sein du Service de pathologie clinique des HUG, vous intégrez l’équipe du Laboratoire de pathologie tissulaire et cellulaire et découvrez les différentes étapes de la prise en charge, du traitement et de l’analyse des prélèvements biologiques en histologie et en cytologie.\nDans le cadre de votre stage, vous participez, sous la supervision de professionnel·les qualifié·es, aux activités pratiques et techniques du laboratoire d’anatomopathologie. Vous êtes ainsi sensibilisé·e à l’organisation d’un laboratoire, aux méthodes de travail, aux procédés analytiques ainsi qu’aux exigences en matière de qualité, de sécurité et de traçabilité.\nVous découvrez et participez aux différentes étapes de préparation des tissus, notamment la fixation, la déshydratation, l’inclusion en paraffine et la réalisation de coupes histologiques.\nVous participez à la préparation des lames et à leur digitalisation et découvrez les principales techniques de coloration utilisées en anatomopathologie.\nVous découvrez les principes et les applications de différentes techniques analytiques utilisées en pathologie, notamment l’immunohistochimie.\nVous découvrez les principes de contrôle qualité appliqués aux différentes étapes des processus d’analyse.\nVous participez aux réunions de laboratoire et aux colloques de formation afin de mieux comprendre l’organisation du laboratoire, les processus de travail et les liens entre les différentes activités.\nVous appliquez les règles d’hygiène, de sécurité, de qualité, de confidentialité et de protection de l’environnement propres à un laboratoire médical.\nAu cours de ce stage, vous développez des méthodes de travail rigoureuses, votre autonomie et votre capacité à travailler en équipe. Vous vous familiarisez avec l’organisation et les exigences d’un laboratoire spécialisé et découvrez concrètement les différents métiers et compétences nécessaires à son fonctionnement.\nCette expérience vous permettra de mieux comprendre la réalité professionnelle d’un laboratoire hospitalier et de confirmer votre intérêt pour une formation dans le domaine de l’Ingénierie des sciences du vivant.",
     "external_url": "https://jobs.smartrecruiters.com/HUG/744000145503830-stage-pre-hes-ingenierie-des-sciences-du-vivant-100-?oga=true",
     "status": "matched"
+  },
+  "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-senior-scientist-bcqc-lengnau-berne-880270/1": {
+    "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-senior-scientist-bcqc-lengnau-berne-880270/1",
+    "status": "matched",
+    "title": "Senior Scientist BCQC(m/f/d)",
+    "company": "Hays Switzerland",
+    "location": "Lengnau, Berne, Switzerland",
+    "posted_date": "",
+    "department": "",
+    "score": 0,
+    "matched_keywords": [],
+    "deducted_keywords": []
+  },
+  "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-analytical-project-leader-scientist-senior-scientist-basel-stadt-873611/1": {
+    "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-analytical-project-leader-scientist-senior-scientist-basel-stadt-873611/1",
+    "status": "matched",
+    "title": "Analytical Project Leader (Scientist / Senior Scientist)(m/f/d)",
+    "company": "Hays Switzerland",
+    "location": "Basel Stadt, Switzerland",
+    "posted_date": "",
+    "department": "",
+    "score": 0,
+    "matched_keywords": [],
+    "deducted_keywords": []
+  },
+  "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-vice-president-of-business-development-basel-land-873413/1": {
+    "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-vice-president-of-business-development-basel-land-873413/1",
+    "status": "matched",
+    "title": "Vice President of Business Development(m/f/d)",
+    "company": "Hays Switzerland",
+    "location": "Basel Land, Switzerland",
+    "posted_date": "",
+    "department": "",
+    "score": 0,
+    "matched_keywords": [],
+    "deducted_keywords": []
+  },
+  "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-scientist-lab-technician-assay-development-zug-873185/1": {
+    "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-scientist-lab-technician-assay-development-zug-873185/1",
+    "status": "matched",
+    "title": "Scientist Lab Technician Assay Development(m/f/d)",
+    "company": "Hays Switzerland",
+    "location": "Zug, Switzerland",
+    "posted_date": "",
+    "department": "",
+    "score": 1,
+    "matched_keywords": [
+      "assay development"
+    ],
+    "deducted_keywords": []
   }
 }
