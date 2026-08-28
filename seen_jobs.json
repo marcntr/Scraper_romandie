@@ -88,7 +88,7 @@
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-08-20"
+    "cached_at": "2026-08-28"
   },
   "_facets:roche:roche-ext": {
     "facets": {},
@@ -96,7 +96,7 @@
       "Basel",
       "Kaiseraugst"
     ],
-    "cached_at": "2026-08-20"
+    "cached_at": "2026-08-28"
   },
   "_facets:novartis:Novartis_Careers": {
     "facets": {},
@@ -104,63 +104,63 @@
       "Basel",
       "Stein"
     ],
-    "cached_at": "2026-08-20"
+    "cached_at": "2026-08-28"
   },
   "_facets:sanofi:SanofiCareers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-08-20"
+    "cached_at": "2026-08-28"
   },
   "_facets:abbott:abbottcareers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-08-20"
+    "cached_at": "2026-08-28"
   },
   "_facets:pfizer:PfizerCareers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-08-20"
+    "cached_at": "2026-08-28"
   },
   "_facets:gsk:GSKCareers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-08-20"
+    "cached_at": "2026-08-28"
   },
   "_facets:astrazeneca:Careers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-08-20"
+    "cached_at": "2026-08-28"
   },
   "_facets:amgen:Careers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-08-20"
+    "cached_at": "2026-08-28"
   },
   "_facets:gilead:gileadcareers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-08-20"
+    "cached_at": "2026-08-28"
   },
   "_facets:modernatx:M_tx": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-08-20"
+    "cached_at": "2026-08-28"
   },
   "_facets:takeda:External": {
     "facets": {},
@@ -176,21 +176,21 @@
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-08-20"
+    "cached_at": "2026-08-28"
   },
   "_facets:msd:SearchJobs": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-08-20"
+    "cached_at": "2026-08-28"
   },
   "_facets:vrtx:Vertex_Careers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-08-20"
+    "cached_at": "2026-08-28"
   },
   "_facets:lonza:Lonza_Careers": {
     "facets": {},
@@ -199,7 +199,7 @@
       "Visp",
       "Stein"
     ],
-    "cached_at": "2026-08-20"
+    "cached_at": "2026-08-28"
   },
   "_facets:csl:CSL_External": {
     "facets": {},
@@ -209,7 +209,7 @@
       "St. Gallen",
       "Romont"
     ],
-    "cached_at": "2026-08-20"
+    "cached_at": "2026-08-28"
   },
   "_facets:alcon:careers_alcon": {
     "facets": {},
@@ -218,7 +218,7 @@
       "Hünenberg",
       "Zurich"
     ],
-    "cached_at": "2026-08-20"
+    "cached_at": "2026-08-28"
   },
   "_facets:galderma:External": {
     "facets": {},
@@ -227,63 +227,63 @@
       "La Tour-de-Peilz",
       "Lausanne"
     ],
-    "cached_at": "2026-08-20"
+    "cached_at": "2026-08-28"
   },
   "_facets:iqvia:IQVIA": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-08-20"
+    "cached_at": "2026-08-28"
   },
   "_facets:icon:broadbean_external": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-08-20"
+    "cached_at": "2026-08-28"
   },
   "_facets:parexel:Parexel_External_Careers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-08-20"
+    "cached_at": "2026-08-28"
   },
   "_facets:syneoshealth:Syneos_Health_External_Site": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-08-20"
+    "cached_at": "2026-08-28"
   },
   "_facets:myhrabc:Global": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-08-20"
+    "cached_at": "2026-08-28"
   },
   "_facets:thermofisher:ThermoFisherCareers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-08-20"
+    "cached_at": "2026-08-28"
   },
   "_facets:danaher:DanaherJobs": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-08-20"
+    "cached_at": "2026-08-28"
   },
   "_facets:illumina:illumina-careers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-08-20"
+    "cached_at": "2026-08-28"
   },
   "_facets:qiagen:QIAGEN": {
     "facets": {},
@@ -297,14 +297,14 @@
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-08-20"
+    "cached_at": "2026-08-28"
   },
   "_facets:jsrglobal:KBI_Biopharma": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-08-20"
+    "cached_at": "2026-08-28"
   },
   "_generic:Tigen Pharma": {
     "keywords": "npp"
@@ -836,7 +836,7 @@
     "title": "Technical Expert Portfolio Mgmt, Technical Feasibility and Planning",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-28",
+    "posted_date": "2026-07-29",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -852,7 +852,7 @@
     "title": "R&D Scientist – Scientific Data Analytics (d/f/m)",
     "company": "Danaher",
     "location": "Basel, Switzerland",
-    "posted_date": "2026-07-28",
+    "posted_date": "2026-07-29",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -885,7 +885,7 @@
     "deducted_keywords": []
   },
   "_generic:CK QLS": {
-    "keywords": "business development,business development manager,immuno-oncology,scientist"
+    "keywords": "scientist"
   },
   "_facets:edwards:EdwardsCareers": {
     "facets": {},
@@ -906,7 +906,7 @@
     "title": "\"Principal Scientist siRNA Design",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-30",
+    "posted_date": "2026-07-31",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -922,7 +922,7 @@
     "title": "Hematology and Safety Biomarker Expert",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-28",
+    "posted_date": "2026-07-29",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -1041,7 +1041,7 @@
     "title": "Senior Scientist Electronic Laboratory Systems",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-07-28",
+    "posted_date": "2026-07-29",
     "department": "",
     "score": -1,
     "matched_keywords": [
@@ -1084,7 +1084,7 @@
     "title": "Senior/Principal Scientist - NMR Expert",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-28",
+    "posted_date": "2026-07-29",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1100,7 +1100,7 @@
     "title": "Director, Corporate Strategy & Business Development",
     "company": "Alcon",
     "location": "Geneva, Switzerland",
-    "posted_date": "2026-07-28",
+    "posted_date": "2026-07-29",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -1149,7 +1149,7 @@
     "title": "Sr Global HEOR & Payer Evidence Lead",
     "company": "Abbott",
     "location": "Switzerland - Basel",
-    "posted_date": "2026-07-28",
+    "posted_date": "2026-07-29",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -1167,7 +1167,7 @@
     "title": "Staff Scientist - Spectral Cytometry Expert",
     "company": "Labcorp",
     "location": "CHE - Geneva - 7 rue Moise-Marcinhes",
-    "posted_date": "2026-07-28",
+    "posted_date": "2026-07-29",
     "department": "",
     "score": 8,
     "matched_keywords": [
@@ -1191,7 +1191,7 @@
     "title": "Business Development Manager (m/w/d) Neuromodulation – Schweiz",
     "company": "Abbott",
     "location": "Switzerland - Baar",
-    "posted_date": "2026-07-28",
+    "posted_date": "2026-07-29",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -1252,7 +1252,7 @@
     "title": "Scientist Synthesis Automation",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-28",
+    "posted_date": "2026-07-29",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1277,7 +1277,7 @@
     "title": "Cardio-Renal Discovery Area Leader - Expert Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-07-28",
+    "posted_date": "2026-07-29",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -1303,7 +1303,7 @@
     "title": "Director, Medical Affairs, Hemato-Oncology, Europe",
     "company": "BeiGene",
     "location": "Basel",
-    "posted_date": "2026-07-28",
+    "posted_date": "2026-07-29",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1355,7 +1355,7 @@
     "title": "Senior Scientist microbiological Quality Control",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-07-30",
+    "posted_date": "2026-07-31",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -1375,7 +1375,7 @@
     "title": "Translational Medicine Expert – Dermatology, Associate Director",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-07-28",
+    "posted_date": "2026-07-29",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -1398,7 +1398,7 @@
     "title": "Patent Attorney",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-07-28",
+    "posted_date": "2026-07-29",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1411,7 +1411,7 @@
     "title": "Senior Expert / Senior Principal PKS Data Scientist & Scientific Software Engineer (Dual level posting)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-06",
+    "posted_date": "2026-08-07",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -1434,7 +1434,7 @@
     "title": "Senior Principal Scientist - Proteomics",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-07-28",
+    "posted_date": "2026-07-29",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -1516,7 +1516,7 @@
     "title": "Senior Regulatory Group Director",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-03",
+    "posted_date": "2026-08-04",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1556,7 +1556,7 @@
     "title": "Principal Scientist, Respiratory Discovery",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-04",
+    "posted_date": "2026-08-05",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -1580,7 +1580,7 @@
     "title": "Scientist, Cell Engineering and Phenotypic Screening Models",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-04",
+    "posted_date": "2026-08-05",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -1606,7 +1606,7 @@
     "title": "Senior Principal Scientist/Associate Director Clinical PBPK  (Dual Level Posting)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-04",
+    "posted_date": "2026-08-05",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -1703,11 +1703,6 @@
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000141917339-administrative-student-programme-2027-1?oga=true",
     "status": "matched"
   },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000142085580": {
-    "description": "Join CERN's detector R&D program for future high-energy physics experiments, working on advanced optical communication technologies for next-generation particle detectors. In this role, you will contribute to the development of radiation-tolerant Silicon Photonics components for high-speed data transmission in challenging environments. Your work will include hands-on laboratory characterisation of Silicon Photonics circuits and the design of innovative photonic devices. This position offers the opportunity to work at the intersection of photonics, electronics, and particle detection technologies.\nYour responsibilities\nContribute to the electro-optical characterisation of custom-designed photonic integrated circuits (PICs).\nValidate the PIC measurement results against optical simulations.\nSupport the integration and evaluation of PICs with particle readout chips (ROCs).\nPrototype and demonstrate coarse wavelength-division multiplexing (CWDM) data-transmission systems.\nCharacterise and benchmark different data-link architectures.\nSimulate and design a new generation of test PICs based on measurement results from existing PICs.\nPresent the progress to project meetings and conferences.\nDocument measurement and simulation results and methods.\nYour profile\nProven experience in design and simulation of photonic components and integrated photonic circuits.\nExperience in laboratory characterisation of optical and photonic components using OSAs, tunable lasers, and power meters.\nProven experience in high-speed electro-optical measurements utilising pattern generators, oscilloscopes, error detectors, VNAs, and spectrum analysers.\nHands-on experience in automation of measurement setups for opto-electronic devices.\nExtended experience in analysis and interpretation of experimental and measurement data.\nSkills\nExpert user of photonic simulation tools (e.g., Ansys Lumerical, Synopsys RSoft).\nProficient user of electronic and optical laboratory instrumentation, including high-speed measurement techniques.\nExpert user of C-based programming languages or Python.\nExpert in data analysis and visualisation using Python, MATLAB, or equivalent.\nFamiliar with Linux-based development environments.\nSpoken and written English, with a commitment to learn French.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nYou have a professional background in Electronic Engineering or Physics (or a related field) and have either:\na Master's degree with 2 to 6 years of post-graduation professional experience;\nor a PhD with no more than 3 years of post-graduation professional experience.\nYou have never had a CERN fellow or graduate contract before.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000142085580-silicon-photonics-characterisation-and-design-engineer-ep-ese-be-2026-109-grap-?oga=true",
-    "status": "matched"
-  },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000142108470": {
     "description": "As a Project Engineer on Building Projects within the Site and Civil Engineering Department (Project Portfolio Management Group), you will contribute to industrial and tertiary building projects. , Working under the supervision of a CERN Project Manager, you will coordinate users, technical stakeholders, design consultants and contractors to meet technical, safety, schedule, quality and budget objectives. \nKey Tasks:\nContribute to feasibility studies, requirements definition and preliminary design for new build, refurbishment and infrastructure projects.\nCoordinate design services delivered by architects and engineering consultants, ensuring integration of architectural, structural, civil works, building services and specialist technical equipment.\nEngage with users and internal technical stakeholders to define needs, manage interfaces and present coordinated design solutions.\nContribute to the preparation of consultancy and construction tender documents, bid evaluations and the appointment of designers and contractors.\nFollow up construction works on site, checking compliance with contractual drawings, technical specifications, quality requirements and applicable safety measures.\nMonitor progress, quantities, costs, risks and schedules; contribute to payment certification, change management and project reporting.\nCoordinate testing, commissioning, taking-over and handover activities, and follow up defects and outstanding works through to closure.\nCandidate Profile:\nAn interest in both industrial and tertiary buildings, from design through construction and handover.\nAn understanding of multidisciplinary building design and the interfaces between civil works, structures, architecture, MEP services and technical equipment.\nA structured, proactive and pragmatic approach, with the ability to manage priorities and develop under the guidance of experienced project managers.\nGood communication and teamwork skills, with the ability to collaborate in an international and multidisciplinary environment.\nYour studies focused on Civil Engineering.\nSkills:\nProficiency in the MS Office suite including MS project.\nAbility to work autonomously.\nFlexible and multi-tasking.\nExcellent communication skills, an open minded, diplomatic approach and good negotiation skills.\nSpoken and written English or French, with a commitment to learn the basics of the other language\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nYou have a professional background in Civil Engineering (or a related field) and have either:\na Master's degree with 2 to 6 years of post-graduation professional experience;\nor a PhD with no more than 3 years of post-graduation professional experience.\nYou have never had a CERN fellow or graduate contract before.",
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000142108470-project-engineer-building-projects-sce-ppm-2026-110-grap-?oga=true",
@@ -1740,7 +1735,7 @@
     "title": "Executive Director, Regional Medical Lead - Solid Tumors, Medical Affairs, Europe",
     "company": "BeiGene",
     "location": "Basel",
-    "posted_date": "2026-08-07",
+    "posted_date": "2026-08-08",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1810,7 +1805,7 @@
     "title": "Project Scientist Phys-Chem Quality Control 80-100%",
     "company": "Lonza",
     "location": "CH - Basel",
-    "posted_date": "2026-08-10",
+    "posted_date": "2026-08-11",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1825,7 +1820,7 @@
     "title": "Application Development Scientist – Reagents (12 months fixed-term contract)",
     "company": "Bio-Techne / Lunaphore",
     "location": "Tolochenaz, Switzerland",
-    "posted_date": "2026-08-11",
+    "posted_date": "2026-08-12",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1844,7 +1839,7 @@
     "title": "Senior Principal Scientist / Associate Director– Soluble Biomarkers, Molecular & Cellular Sciences (MCS)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-11",
+    "posted_date": "2026-08-12",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -1904,11 +1899,6 @@
   "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000143036969": {
     "description": "En tant que gérante ou gérant technique de l'immobilier, vous représentez les HUG en qualité de propriétaire auprès des régies immobilières et des parties prenantes. \nVous élaborez et proposez des plans pluriannuels de rénovation pour valoriser le patrimoine immobilier et estimez les investissements nécessaires tout en garantissant la rentabilité et la conformité aux réglementations (LDTR notamment). \nVous supervisez les projets de rénovation et veillez à l'amélioration continue des installations techniques et de leur mise en conformité énergétique. \nVous participez également à la rédaction des rapports de gestion et des procédures internes.\nVous réceptionnez, analysez et traitez les demandes techniques des utilisateurs et utilisatrices sur les sites loués par les HUG. Vous facilitez et coordonnez les interventions et référencez les contrats d'entretien tout en supervisant la bonne conformité des installations techniques.\nVous gérez les locaux institutionnels en analysant les demandes d'attributions et proposant des solutions adaptées. Vous facilitez et étudiez les projets de réorganisation interne.",
     "external_url": "https://jobs.smartrecruiters.com/HUG/744000143036969-gerant-ou-gerante-technique-en-immobilier-100-?oga=true",
-    "status": "matched"
-  },
-  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000143036409": {
-    "description": "En qualité de coordinateur ou coordinatrice gestion des locaux, vous assurez la coordination des demandes liées à l'attribution des locaux, aux aménagements des espaces de travail ainsi qu'aux déménagements des activités et des collaborateurs et collaboratrices au sein des HUG.\nInterlocuteur ou interlocutrice privilégiée du personnel, vous analysez les besoins exprimés et veillez à leur cohérence avec la stratégie immobilière institutionnelle ainsi qu'avec le schéma directeur des HUG.\nVous évaluez les demandes, proposez des solutions adaptées et recherchez des alternatives permettant une utilisation efficiente des surfaces et des ressources mises à disposition.\nVous pilotez de manière autonome les mandats d'aménagement et de déménagement de faible à moyenne complexité, depuis leur planification jusqu'à leur réalisation. À ce titre, vous coordonnez les différents intervenants et intervenantes internes et externes, assurez le suivi des prestataires et veillez au respect des délais, des coûts et des exigences réglementaires.\nVous participez activement à l'accompagnement du changement auprès des équipes concernées par les mouvements d'activités ou les réorganisations d'espaces.\nVous assurez également la gestion et la mise à jour de la signalétique de proximité en collaboration avec la Direction de la communication, tout en veillant au respect de la charte graphique institutionnelle.\nEnfin, vous contribuez au maintien et à la fiabilité des inventaires graphiques et alphanumériques des locaux ainsi qu'à la qualité des données de gestion immobilière.",
-    "external_url": "https://jobs.smartrecruiters.com/HUG/744000143036409-coordinateur-ou-coordinatrice-gestion-des-locaux-100-?oga=true",
     "status": "matched"
   },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000143097109": {
@@ -1978,7 +1968,7 @@
     "title": "Principal Scientist - Mid/Large Scale Oligonucleotide Synthesis, xRNA Therapeutics",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-17",
+    "posted_date": "2026-08-18",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -2108,21 +2098,6 @@
     "external_url": "https://jobs.smartrecruiters.com/HUG/744000144240249-infirmier-ou-infirmiere-en-soins-palliatifs-80-a-100-?oga=true",
     "status": "matched"
   },
-  "/job/Basel/Senior---Principal-Scientist-in-Pharmaceutical-Development-of-Synthetic-Molecules--Drug-Product-_202608-120771-2": {
-    "description": "At Roche you can show up as yourself, embraced for the unique qualities you bring. Our culture encourages personal expression, open dialogue, and genuine connections,  where you are valued, accepted and respected for who you are, allowing you to thrive both personally and professionally. This is how we aim to prevent, stop and cure diseases and ensure everyone has access to healthcare today and for generations to come. Join Roche, where every voice matters.\n\nThe Position\nIn PTD, we collaborate to develop robust manufacturing processes and quality control systems to efficiently transform scientific ideas into products, reliably delivering quality products to patients enrolled in clinical studies around the world. We excel in our work by creating an engaging and inclusive environment where everyone can bring their skills and talents to developing innovative medicines. This position is part of the Synthetic Molecule Pharmaceutical and Solid State Development organisation (PTDC-P), where we transform molecules to medicines through particle engineering and develop and deliver customised clinical formulations and robust commercial drug products that benefit patients.\nAs a Senior Scientist / Principal Scientist in Drug Product Development, you are responsible for developing robust formulations and lean manufacturing processes for oral dosage forms of new chemical entities. In this position, you work closely with international teams across various disciplines (chemistry, analytics, quality, regulatory, and commercial production), represent the department on technical development teams (CMC) and scientific boards, and drive scientific initiatives to ensure the department's scientific and technical excellence.\n\nThe Opportunity\nThe main responsibilities of this challenging position include:\n\nDeveloping and optimizing clinical and commercial formulations and manufacturing processes for oral solid drug products using various technologies (i.e., batch and continuous mode), including scale-up and transfers to facilitate successful process validation at commercial sites.\n\nDeveloping and implementing new and innovative drug delivery technologies that can be applied in regular portfolio projects.\n\nApplying statistical tools (e.g., DoEs), risk assessment tools for QbD (e.g., QRA, FMEA), and Modelling and Simulation tools.\n\nRegularly reviewing scientific literature to extract relevant trends and integrate innovative concepts and technologies into the scientific strategy of the department.\n\nAuthoring and reviewing technical reports, manufacturing instructions, process validation documents, and the CMC parts of regulatory submissions to support market authorisation.\n\nActively participating in scientific teams at Roche and external consortia, while actively contributing to the intellectual property values protection of our Roche products.\n\nActively sharing your knowledge and experience with other scientists in regular exchange meetings, and serving as a project consultant or mentor.\n\nWho You Are\nTo be successful in this role, you bring the following qualifications:\n\nYou hold a PhD or Master’s in Pharmaceutical Technology or Chemical/Process Engineering, backed by 5–10 years of experience in the development of oral dosage forms.\n\nYou possess broad expertise in the drug product lifecycle, including the authorship of CMC regulatory dossiers, and a preference for direct, professional interaction with health authorities.\n\nYou excel at managing external partnerships, demonstrating a strong ability to lead and collaborate effectively with CDMOs.\n\nYou are a results-driven innovator who applies \"out of the box\" thinking to implement technical solutions, remains highly adaptable to organisational change, and demonstrates high professional flexibility, including occasional travel to meet project and stakeholder needs.\n\nYou combine a coaching mindset with excellent communication skills, thriving as a fair team player who can work both independently and cross-functionally.\n\nReady for the next step? We look forward to hearing from you. Apply now to discover this exciting opportunity!\n \n \n\nWho we are\nA healthier future drives us to innovate. Together, more than 100’000 employees across the globe are dedicated to advance science, ensuring everyone has access to healthcare today and for generations to come. Our efforts result in more than 26 million people treated with our medicines and over 30 billion tests conducted using our Diagnostics products. We empower each other to explore new possibilities, foster creativity, and keep our ambitions high, so we can deliver life-changing healthcare solutions that make a global impact.\n\nLet’s build a healthier future, together.\n\nRoche is an Equal Opportunity Employer.",
-    "external_url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Senior---Principal-Scientist-in-Pharmaceutical-Development-of-Synthetic-Molecules--Drug-Product-_202608-120771-2",
-    "status": "ignored",
-    "title": "Senior / Principal Scientist in Pharmaceutical Development of Synthetic Molecules (Drug Product)",
-    "company": "Roche",
-    "location": "Basel",
-    "posted_date": "2026-08-19",
-    "department": "",
-    "score": 1,
-    "matched_keywords": [
-      "PhD"
-    ],
-    "deducted_keywords": []
-  },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000144325467": {
     "description": "Are you passionate about software development? Are you interested in supporting open science and reproducible computational research across Europe? Join our team working on the open-source REANA platform for reproducible computational data analyses! You will specifically take part in the nascent European Open Science Cloud (EOSC) Federation and the EOSC Mesh project which is designing federated digital infrastructures to cross-link research environments across Europe.\nYour responsibilities\nAs a full-stack developer in our team, you will:\nCollaborate with European Open Science Cloud project partners on developing cross-node federated analysis workflow infrastructure and support corresponding scientific use cases.\nParticipate in the evolution the CERN Node of the EOSC Federation, allowing researchers to analyse more than 5 petabytes of open data from experimental particle physics.\nContribute to the service deployment, operations and monitoring on the Kubernetes cloud.\nWork closely with researchers to provide support for cross-node computational data analysis examples.\nParticipate in the operation and development of the REANA reproducible data analysis platform.\nMore information here.\nYour profile\nExperience in full-stack software development and with frontend and backend software engineering technologies.\nExperience with container technologies and application deployment, monitoring and security.\nSome familiarity with basic principles of computational research data analyses would be a plus.\nSome prior experience working in European Commission co-funded projects would be a plus.\nSkills\nStrong problem-solving and communication skills, with an interest in collaborative open-source development.\nFrontend development technologies: React.\nBackend development technologies: Python, Go.\nApplication deployment: Docker, Kubernetes, Helm.\nSpoken and written English, with a commitment to learn French.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nBy the application deadline, you have a maximum of two years of professional experience since graduation in Computer Science or equivalent (or a related field) and your highest educational qualification is either a Bachelor's or Master's degree.\nYou have never had a CERN fellow or graduate contract before.\nApplicants without University degree are not eligible.\nApplicants with a PhD are not eligible.",
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000144325467-full-stack-software-developer-it-ca-osi-2026-207-grae-?oga=true",
@@ -2150,7 +2125,7 @@
     "title": "Discovery Scientist – Neural Retina & Ocular Disease",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-19",
+    "posted_date": "2026-08-20",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -2178,7 +2153,7 @@
     "title": "Senior Scientist Bio-/Chemical Quality Control",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-08-20",
+    "posted_date": "2026-08-21",
     "department": "",
     "score": -1,
     "matched_keywords": [
@@ -2200,7 +2175,7 @@
     "title": "Associate Director, Search & Evaluation (Immunology)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-20",
+    "posted_date": "2026-08-21",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2255,7 +2230,7 @@
     "title": "Scientist 6 months fix-term contract 80-100%",
     "company": "Lonza",
     "location": "CH - Basel",
-    "posted_date": "2026-08-21",
+    "posted_date": "2026-08-22",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2302,7 +2277,7 @@
     "title": "AI Scientist – Image Analysis & Digital Pathology",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-24",
+    "posted_date": "2026-08-25",
     "department": "",
     "score": 8,
     "matched_keywords": [
@@ -2324,7 +2299,7 @@
     "title": "AI Scientist – AI-Driven Target Identification",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-24",
+    "posted_date": "2026-08-25",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -2358,7 +2333,7 @@
     "title": "Senior Scientist QA Operations",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-08-24",
+    "posted_date": "2026-08-25",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -2373,7 +2348,7 @@
     "title": "Research Associate In Cellular Assay Development",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-24",
+    "posted_date": "2026-08-25",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -2502,7 +2477,7 @@
     "title": "Scientist Pharmaceutical and Processing Development (2 year fixed term contract)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-25",
+    "posted_date": "2026-08-26",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2639,7 +2614,7 @@
     "title": "Clinical Scientist - Late Stage Development (Ophthalmology)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-27",
+    "posted_date": "2026-08-28",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2685,7 +2660,7 @@
   },
   "https://gloorlang.starhunter.software/Headhunter/project/job-ad/hash/6a6b16a7042f3": {
     "external_url": "https://gloorlang.starhunter.software/Headhunter/project/job-ad/hash/6a6b16a7042f3",
-    "status": "matched",
+    "status": "ignored",
     "title": "Associate Director / Senior Regulatory Affairs",
     "company": "Gloor & Lang",
     "location": "Basel, Switzerland",
@@ -2697,7 +2672,7 @@
   },
   "https://gloorlang.starhunter.software/Headhunter/project/job-ad/hash/68b5a83b99a4d": {
     "external_url": "https://gloorlang.starhunter.software/Headhunter/project/job-ad/hash/68b5a83b99a4d",
-    "status": "matched",
+    "status": "ignored",
     "title": "Regulatory Affairs Manager 80%",
     "company": "Gloor & Lang",
     "location": "Basel, Switzerland",
@@ -2714,7 +2689,7 @@
   },
   "https://www.michaelpage.ch/de/job-detail/business-development-manager-100/ref/jn-082026-7090776?lang=en": {
     "external_url": "https://www.michaelpage.ch/de/job-detail/business-development-manager-100/ref/jn-082026-7090776?lang=en",
-    "status": "matched",
+    "status": "ignored",
     "title": "Business Development Manager (a) 100%",
     "company": "Michael Page Switzerland",
     "location": "Switzerland",
@@ -2729,11 +2704,11 @@
   "/job/Basel-City/Research-Scientist--Immunology_REQ-10085415-2": {
     "description": "Salary Range:CHF65,870.00 - CHF122,330.00\n\n \nJob Description SummaryJob Title: Research Scientist, Immunology\n\n#LI-Onsite\n\nLocation: Basel, Switzerland\n\nRelocation Support: This role is based in Basel, Switzerland. Novartis is unable to offer relocation support: please only apply if accessible.\n\nWhat if your next breakthrough could help transform the lives of patients living with autoimmune and immune-mediated diseases? At Novartis, we're seeking a passionate and experienced Research Scientist to join our Immunology Department in Basel. In this hands-on laboratory role, you'll play a critical part in designing, executing, and interpreting innovative in vivo and ex vivo studies that advance our understanding of disease biology and therapeutic mechanisms. Working alongside talented scientific teams, you'll help generate high-quality data, influence project decisions, and contribute directly to the discovery and development of medicines that may redefine patient care.\n\n \nJob Description\n\nKey Responsibilities\nDesign, coordinate, and execute complex in vivo immunology studies supporting discovery and translational research objectives.\nConduct rodent disease and mechanistic pharmacology studies while ensuring high-quality experimental execution.\nPerform ex vivo immunological analyses, including flow cytometry, cytokine profiling, and biomarker assessment.\nAnalyze and interpret experimental data to generate actionable scientific insights and project recommendations.\nOptimize existing methods and contribute to the development of innovative research approaches and assays.\nMaintain accurate study documentation, experimental records, and scientific presentations aligned with compliance standards.\nCollaborate across multidisciplinary project teams to advance immunology programs and support key decision-making.\nEssential Requirements\nBachelor's degree, Master's degree, or laboratory technician qualification in a relevant life sciences discipline.\nMinimum five years of hands-on immunology research experience in an academic or industry environment.\nStrong expertise conducting rodent in vivo studies, including disease models and mechanistic pharmacology studies.\nProven experience with cellular immunology techniques, flow cytometry, cytokine profiling, and biomarker analysis.\nAbility to independently design, execute, analyze, and interpret complex scientific experiments.\nExcellent scientific communication, organizational skills, and ability to collaborate within cross-functional research teams.\nDesirable Requirements\nExperience working with human peripheral blood mononuclear cells and humanized mouse models.\nExperience supporting assay development, optimization, and implementation of novel immunological techniques.\n\nRewards \nAt Novartis, we’re committed to reimagining medicine together - and rewarding the people who make it happen. \n \nThe rewards of being part of our team go far beyond base pay and incentives. We also offer a variety of competitive benefits in kind to help you thrive personally and professionally, such as insurance plans, retirement plans, wellbeing resources and global recognition programs. In addition, we provide flexible and hybrid working options, where possible, and a minimum of 14 weeks paid parental leave. \n \nExpected Annual Base Salary Range for role: \nSwitzerland: 65,870.00 - 122,330.00 CHF Annual\n \nThe salary offered is determined based on gender-neutral objectives, such as relevant skills, competencies and experience in accordance with the Novartis pay setting policy and upon joining Novartis will be reviewed periodically.  \n \nIn addition to your base salary, you may be eligible for a performance-based bonus depending on certain performance parameters. Further details will be provided during the application process.  \n \nPay equity is a fundamental principle of our employment policy and reflects our commitment to create a diverse, equitable and inclusive environment that treats all employees with dignity and respect, as outlined in our Code of Ethics. \n \nRead our brochure to learn more about our global total rewards offering: https://www.novartis.com/sites/novartis_com/files/novartis-life-handbook.pdf  \nNote: Benefits and compensation may vary by country and are subject to local legal requirements, including provisions of collective bargaining agreements where applicable. A full overview of your compensation package, including any relevant collective bargaining agreement details applicable to your role based on your employment location and Novartis employer entity, will be communicated separately to you during the application process.    \n \nCommitment to Diversity and Inclusion / EEO paragraph: \nNovartis is committed to building an outstanding, inclusive work environment and diverse teams’ representative of the patients and communities we serve. \n \nWhy Novartis: Helping people with disease and their families takes more than innovative science. It takes a community of smart, passionate people like you. Collaborating, supporting and inspiring each other. Combining to achieve breakthroughs that change patients’ lives. Ready to create a brighter future together? https://www.novartis.com/about/strategy/people-and-culture \n\n \nSkills DesiredAccountability, Chemical Biology, Clinical Research, Clinical Trials, Communication, Decision Making, Drug Development, Drug Discovery Process, Immunology, Influence (Inactive), Influencing Skills, Leadership, Life Science, Medical Research, Mentorship, Molecular Biology, People Management, Professional Presentation, Stakeholder Engagement, Stakeholder Management, Strategic Thinking, Team Management, Well-Being (Inactive)",
     "external_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Basel-City/Research-Scientist--Immunology_REQ-10085415-2",
-    "status": "matched",
+    "status": "ignored",
     "title": "Research Scientist, Immunology",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-27",
+    "posted_date": "2026-08-28",
     "department": "",
     "score": 9,
     "matched_keywords": [
