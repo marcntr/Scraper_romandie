@@ -1048,24 +1048,6 @@
       "location:Lengnau, Switzerland"
     ]
   },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000135742239": {
-    "description": "Job Overview:\nYou will carry out post-doctoral research activities in the field of applied physics and engineering within CERN’s Experimental Physics (EP) Department. You will contribute to the design, development, deployment and operation of physics experiments or experimental setups, with activities spanning detector technologies, material science, mechanical engineering, electronics and computing.\n\nYou will work on advanced experimental projects in a highly collaborative and international environment, contributing to large-scale research infrastructures and experimental programmes.\n\nYou are applying to a fellowship programme rather than to a specific job; the information provided in your application will be used to identify suitable projects, which will be discussed and refined together with you if your profile is retained.\nKey Tasks:\nYou conduct post-doctoral research activities in applied physics and engineering within CERN’s Experimental Physics (EP) Department.\nYou contribute to the design, development, deployment and operation of physics experiments or experimental setups.\nYou collaborate with physicists, engineers and technical experts on large-scale experimental projects involving advanced technologies.\nYou contribute to the analysis, documentation and dissemination of results within the experimental collaborations.\nCandidate Profile:\nYou have a strong background in applied physics, engineering or a closely related field.\nYou have research experience in applied physics and engineering, ideally linked to the design, development or operation of experimental systems.\nYou are interested in pursuing a career in research or academia and in taking an active role within a research project.\nYou are motivated to contribute to large-scale experimental programmes in an international research environment.\nTechnical Skills:\nYou have strong analytical and problem-solving skills applied to experimental systems and technologies.\nYou are able to work collaboratively within large, international and multidisciplinary teams.\nYou communicate effectively in a scientific and technical environment.\nYou are able to work independently while contributing to shared project objectives.\nYour PhD is in the fields of Applied Physics and Engineering.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000135742239-research-fellowship-applied-physics-and-engineering?oga=true",
-    "status": "ignored",
-    "title": "Research Fellowship: Applied Physics and Engineering",
-    "company": "CERN",
-    "location": "Geneva, Switzerland",
-    "posted_date": "2026-07-03",
-    "department": "Research",
-    "score": 7,
-    "matched_keywords": [
-      "PhD",
-      "Post-doc",
-      "location:geneva",
-      "post-doctoral"
-    ],
-    "deducted_keywords": []
-  },
   "_generic:Bio-Rad": {
     "keywords": "npp"
   },
@@ -1330,11 +1312,6 @@
     "external_url": "https://jobs.smartrecruiters.com/HUG/744000140164259-psychomotricien-ou-psychomotricienne-au-service-de-psychiatrie-de-l-enfant-et-de-l-adolescent-50-?oga=true",
     "status": "matched"
   },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000140678620": {
-    "description": "Introduction:\nYou will play a key role in building meaningful relationships with CERN’s current and prospective donors throughout the entire donor cycle, while managing formal obligations such as proposal preparation and reporting. In doing so, you will help generate financial and strategic support for CERN by identifying funding opportunities, securing donations and grants, and building partnerships with corporations and foundations.\nFunctions:\nDevelopment and implementation of fundraising strategies for CERN fundraising projects.\nIdentification, qualification, cultivation, and stewardship of donors, including planning and conducting of donor meetings, events, and experiences.\nResearch and pursue of funding opportunities with foundations, including writing proposals and reports.\nTrack, analyse, and report on fundraising performance and partnership impact.\nCollaborate with internal teams to align fundraising with project goals, prepare donor agreements and reports.\nConceptualise and produce communications materials for fundraising purposes.\nSupport Due Diligence process.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000140678620-fundraising-partnerships-officer-sr-se-fp-2026-165-ld-?oga=true",
-    "status": "matched"
-  },
   "https://api.smartrecruiters.com/v1/companies/Sobi/postings/744000140636769": {
     "description": "Science and Technology (SAT) is part of the Global CMC, Science & Technology Department (GCSAT).\nGCSAT is a growing organization, responsible for optimization and life cycle management of Sobi’s clinical and commercial manufacturing and analytical processes in our external network. SAT ensures compliant, reliable, cost effective and sustainable manufacturing and testing of our products now and in future. The SAT team holds the senior scientific and technical knowledge for the manufacturing and analytical testing of Sobi’s clinical and commercial products and is responsible for always keeping processes in a validated stage.\nThe Technical Lead is pivotal in ensuring technical excellence, regulatory compliance, and the continuous improvement of manufacturing processes. The incumbent will drive cross-functional collaboration to support the launch and lifecycle management of products, technology transfers, and the implementation of innovative methodologies\nMain responsibilities:\nSubject matter expert (SME) for DS Biologics manufacturing.\nProcess owner of DS Biologics validation for Sobi products.\nLead and execute MSAT projects such as manufacturing process and cost improvement as part of life-cycle management (LCM).\nParticipate in and lead internal activities related to (external) manufacturing such as process changes, major/critical deviations, risk assessments and CAPAs.\nIssue, review and approve applicable internal and external SOP’s and manufacturing instructions.\nReview and supervise set up, execution and documentation of technical studies, qualifications and validations.\nWrite and review applicable sections of the APR/PQR.\nWrite and review applicable sections in registration files, variations and market expansion, as well as answer Health authorities requests and questions.\nSupport in sourcing evaluation of new DS Biologics contract manufacturers and participation in developing supply and quality agreements.\nLead the process components of the product transfer, scale up activities, validations and oversee manufacturing of DS Biologics processes at external manufacturers for Sobi projects in clinical and commercial phase.\nBe aware of external pharmaceutical manufacturing technology advancements, understand and introduce new technologies and how they may be applicable to process innovation, cost or yield improvement\nRepresent SAT in product governance teams as needed, including potentially coordinating the oversight and escalation of DS, DP and Analytical project portfolio.\nSupport SAT and Sobi’s continuous improvement program for internal business processes, systems and templates.",
     "external_url": "https://jobs.smartrecruiters.com/Sobi/744000140636769-msat-technical-lead-drug-substance-biologics?oga=true",
@@ -1403,7 +1380,7 @@
     "title": "Senior Expert / Senior Principal PKS Data Scientist & Scientific Software Engineer (Dual level posting)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-07",
+    "posted_date": "2026-08-06",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -1508,7 +1485,7 @@
     "title": "Senior Regulatory Group Director",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-04",
+    "posted_date": "2026-08-03",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1543,7 +1520,7 @@
     "title": "Principal Scientist, Respiratory Discovery",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-05",
+    "posted_date": "2026-08-04",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -1567,7 +1544,7 @@
     "title": "Scientist, Cell Engineering and Phenotypic Screening Models",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-05",
+    "posted_date": "2026-08-04",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -1593,7 +1570,7 @@
     "title": "Senior Principal Scientist/Associate Director Clinical PBPK  (Dual Level Posting)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-05",
+    "posted_date": "2026-08-04",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -1628,11 +1605,6 @@
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000141910971": {
     "description": "What you'll do:\nYou will spend up to 36 months working on your doctoral thesis in a truly unique environment where science, technology and innovation meet. You’ll be part of an international community of experts, gaining experience at the forefront of research and engineering.\nYour responsibilities:\nCarry out your doctoral research in collaboration with CERN and your home university.\nContribute to ongoing projects in domains such as applied physics, computing, engineering or related technical fields.\nPresent and document your work as part of your academic and research objectives.\nLearn from and work alongside world-class scientists, engineers and technicians within an international and multidisciplinary team.\nYour profile:\nYour field of study is in Applied Physics, Engineering, Computing, or a related area.\nYou are motivated to develop your research in a hands-on, collaborative and innovative environment.\nYou enjoy teamwork and learning from others in a collaborative setting.\nYour skills:\nSolid theoretical foundation in your research area, combined with an interest in practical applications.\nCuriosity, precision and a proactive attitude towards learning.\nGood communication skills and ability to work effectively in a multicultural team.",
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000141910971-doctoral-student-programme-2027-1?oga=true",
-    "status": "matched"
-  },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000141901179": {
-    "description": "Are you passionate about data, problem-solving, and turning complex information into clear insights? Do you enjoy maintaining and improving data systems, from legacy databases to modern reporting platforms? Join our agile, self-organised team of engineers to help maintain and develop CERN's Corporate Information Systems! Take Part!  You'll be part of the Business Computing (BC) group, supporting Finance and Procurement.\nYour mission: analyse, improve, and help modernise reporting and data solutions, while supporting the transformation of CERN's enterprise systems and ensuring that future analytics needs are properly understood and addressed.\nYour responsibilities:\nExtract, transform, model, and visualise data in reports, dashboards, and analytics platforms;\nInteract with relational databases, mainly Oracle, using SQL and PL/SQL;\nDevelop, maintain, and test reporting data models and semantic models supporting CERN's Finance and Procurement systems;\nMaintain, support, and enhance existing reporting and data solutions while helping define and implement their future evolution;\nContribute to data profiling, mapping, quality checks, validation, and reconciliation activities during migration and transition phases;\nContribute to the development and maintenance of ETL/ELT pipelines and other data-processing activities where required;\nCollaborate with business users, functional experts, architects, and developers to ensure data consistency, usability, and technical feasibility;\nSupport testing, troubleshooting, documentation, maintenance, and third-level support for reporting and data solutions.\nYour profile:\nData Analysis & Reporting:\nExperience in SQL (writing, optimising, debugging complex queries).\nFamiliarity with data visualisation or analytics tools such as Power BI, R, or Python-based dashboards.\nUnderstanding of data modelling principles (dimensional/star schema design, semantic models, data warehouses).\nExperience analysing data structures, flows, and dependencies in complex enterprise systems.\nData Engineering:\nExposure to data pipeline concepts and tools such as SQL, dbt, Airflow, or Python for data processing.\nInterest in maintaining and modernising reporting and data solutions during a systems transformation.\nBusiness Processes & User Support:\nInterest in providing end-user support, troubleshooting, escalation, and issue resolution.\nAwareness of Finance and Procurement processes or interest in learning about business domains.\nCollaboration:\nExperience working in group projects, ideally in collaborative or Agile environments.\nSkills:\nData & Analytics:\nExcellent knowledge of SQL and relational databases.\nKnowledge of data visualisation and analytics tools, particularly Power BI.\nAbility to contribute to the design and maintenance of data models for reporting and analytics.\nAbility to understand and document complex data structures, data flows, dependencies, and transformation logic.\nData Governance & Quality:\nAwareness of data quality, security, and governance concepts.\nAttention to detail and commitment to data accuracy.\nTechnical Environment:\nKnowledge of version control systems and basic interaction with Linux servers via the command line.\nKnowledge of Agile practices and experience maintaining reporting solutions and data pipelines in an agile environment.\nComfortable in working with both new and legacy systems.\nCommunication & Collaboration:\nExcellent communication skills and the ability to present complex information effectively.\nSpoken and written English, with a commitment to learn French.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nBy the application deadline, you have a maximum of two years of professional experience since graduation in Computer Science (or a related field) and your highest educational qualification is either a Bachelor's or Master's degree.\nYou have never had a CERN fellow or graduate contract before.\nApplicants without University degree are not eligible.\nApplicants with a PhD are not eligible.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000141901179-data-reporting-specialist-fap-bc-dl-2026-203-grae-?oga=true",
     "status": "matched"
   },
   "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000141909887": {
@@ -1705,11 +1677,6 @@
     "external_url": "https://jobs.smartrecruiters.com/HUG/744000142071209-technicien-ou-technicienne-automaticien-mecanicien-guichet-unique-100-?oga=true",
     "status": "matched"
   },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000142130613": {
-    "description": "Join CERN's Storage and Data Management group, to develop data storage systems for physics experiments at the Large Hadron Collider (LHC). The Storage and Data Management Group is responsible for enabling data access for the laboratory, in particular the long-term archival, preservation and distribution of LHC data to a worldwide scientific community. CERN, take part!\nAs a Data Storage R&D Engineer you will join the CERN Tape Archive (CTA) team, responsible for the archival and management of 1.5 Exabytes of physics data from the entirety of CERN's experimental programme. Your job will include R&D, software development and operations tasks.\nYour responsibilities\nYour responsibilities will include:\nAnalyse metadata and logs to optimise physical data placement on storage media.\nResearch appropriate mathematical models and propose optimisations to CTA's scheduling algorithms within specified cost constraints.\nDevelop and maintain software in C++/Linux.\nParticipate in operations, troubleshooting and support as part of a team.\nMore information here.\nYour profile\nYou have good technical and analytical skills, with a background in algorithms and optimisation.\nYou have knowledge of statistics, data modelling and data visualisation, as well as experience in software development with C++.\nExperience with storage technologies or data management is a bonus.\nPrior experience with tape storage systems and robotic libraries is not expected.\nSkills\nStrong analytical and problem-solving skills, including mathematical modelling and optimisation are require.\nExperience in software development with C++ and Python is required.\nExperience with Linux operating system and command-line tools (e.g. bash shell, grep with regular expressions) is required.\nKnowledge of databases (SQL) is an advantage (training will be provided if necessary).\nExperience with version control systems (e.g. git) is an advantage (training will be provided if necessary).\nExperience with containers (e.g. Kubernetes) is an advantage (training will be provided if necessary).\nKnowledge of monitoring tools (e.g. Grafana, Prometheus) is an advantage (training will be provided if necessary).\nSpoken and written English, with a commitment to learn French.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nYou have a professional background in Mathematics or Computer Science (or a related field) and have either:\na Master's degree with 2 to 6 years of post-graduation professional experience;\nor a PhD with no more than 3 years of post-graduation professional experience.\nYou have never had a CERN fellow or graduate contract before.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000142130613-data-storage-r-d-engineer-it-sd-tab-2026-130-grap-?oga=true",
-    "status": "matched"
-  },
   "/job/Basel/Executive-Director--Regional-Medical-Lead---Solid-Tumors--Medical-Affairs--Europe_R36265": {
     "description": "BeOne continues to grow at a rapid pace with challenging and exciting opportunities for experienced professionals. When considering candidates, we look for scientific and business professionals who are highly motivated, collaborative, and most importantly, share our passionate interest in fighting cancer.\n\nExecutive Director, Regional Medical Lead - Solid Tumors, Medical Affairs, EuropeUis an internal key expert within the indication areas, directly supporting the respective products through development, pre-marketing, launch, marketing and lifecycle management. This includes all areas of medical affairs activities such as data-generation, data-dissemination and HCP interactions. Mid- to long-term the Regional Medical Lead will be responsible for building and leading a team of Regional Medical Directors with a specific focus on either brand or indication.\n\nThe role is requires close interaction with local (country) medical directors with respect to allocated disease areas (Solid Tumors) to assure strategic dialogue considering local specifics and input as well as global and regional guidance.\n\nThe Regional Medical Lead has accountability for the regional input into the global product and indication strategies and works closely with local country medical directors to assure alignment across global, regional and local strategies, messaging as well as tactical implementation.\n\nThe role includes, but is not limited to:\n\nDirect line management\n\nMatrix leadership in the disease area\n\nProactive contribution to global & regional brand and disease area strategies\n\nIncluding gap analyses\n\nIdentification of areas of interest with respect to ISR\n\nPublication planning\n\nRegional data-dissemination (e.g. company sponsored symposia, congress submissions, medical education activities)\n\nRegional HCP interactions / outreach (e.g. investigator meetings, advisory boards)\n\nProvide input on regional perspectives on the design of for company-sponsored trials\n\nClose collaboration with regional commercial teams regarding pre-launch, launch and commercialization, assuring timely medical input and accuracy of medical / scientific content\n\nAs a leader in the organization, the incumbent will be accountable to develop regional strategies to support enduring and compliant relationships with Opinion Leaders, Research Collaborators, and Key Organizations in support of BeiGene’s pipeline development across the allocated disease area.\n\nThe incumbent will play a key role in the establishment of BeOne as a valued collaborator and best-in-class biopharmaceutical company.\n\nEssential Functions of the job:\n\nEstablish and maintain scientifically credible peer-to-peer scientific relationships with key national & regional opinion leaders in addition to other healthcare providers\n\nViewed as a Scientific Partner by KOLs\n\nFacilitate & monitor strategic partnerships with scientific/clinical experts and serve as an regional-level point of contact with organizations including but not limited to -\n\nGuideline development\n\nCooperative groups\n\nOther (Regional / National Cancer institutions)\n\nFacilitate & monitor strategic partnerships with other functional areas within BeOne\n\nLeadership in the development and execution of clinically relevant regional medical meetings (e.g., advisory boards, consultant, and investigator meetings), as requested\n\nDevelop, track, execute and report on goals and objectives.\n\nSupport disease area Medical Affairs budget planning and management.\n\nBe accountable for compliant business practices.\n\nExperience:\n\nMinimum 10 years of experience and success within other biotech/pharmaceutical companies.\n\nClinical oncology (hematology or solid tumor) experience; candidates with exceptional experience in other therapeutic areas would be considered if they demonstrated clear potential to apply their existing skills to oncology.\n\nHigh level of communication (written and verbal), interpersonal, organizational, and cross functional collaboration skills.\n\nFlexibility to work with colleagues in a global setting.\n\nAble to engage in work-related travel approximately 50%.\n\nCapabilities and Competencies:\n\nImpactful verbal and written communication skills.\n\nAbility to effectively collaborate in a dynamic environment.\n\nStrong comprehension of disease states, and knowledge of differential algorithms for treatment decisions and experience in disease states of interest to BeOne.\n\nAn expert understanding of the health care delivery system, including the managed care arena and its impact on patient care, regional medical care and the pharmaceutical industry. Ability to identify the unmet medical, educational, and research needs at a local & regional level in the medical community.\n\nAbility to interpret key scientific data and translate the findings to meet educational and research needs to affect corporate research strategic activities/decisions.\n\nUnderstanding of the design and execution of research studies and strategic implications.\n\nExhibits high degree of emotional intelligence and appreciation of diversity and multiculturalism.\n\nDesigns and/or leads training initiatives and best practices.\n\nProven ability to drive results at a high level of quality as a strategic and creative thinker.\n\nDemonstrates ability to deal with ambiguity and thrive in an ever-changing environment.\n\nStrong project management skills with demonstrated ability to manage projects and/or colleagues in successful implementation of business-critical projects.\n\nStrong time management & organizational skills.\n\nSupervisory Responsibilities:\n\nAs the portfolio in the disease area expands the role will include the built and leadership of a team of either brand or indication focused regional medical directors\n\nComputer Skills:\n\nProficient in Microsoft Office\n\nExperienced with electronic CRM systems\n\nOther Qualifications:\n\nFluent in English (written and spoken)\n\nOther European languages are an advantage\n\nTravel:\n\nA significant amount of travel is expected due to the spread location of the MSL team(s)\n\nParticipation at major congresses\n\nSalary Range Switzerland: 263,700.00 CHF - 329,600.00 CHF\n\nGlobal Competencies\nWhen we exhibit our values of Patients First, Driving Excellence, Bold Ingenuity, and Collaborative Spirit, through our twelve global competencies below, we help get more affordable medicines to more patients around the world.\nFosters Teamwork\nProvides and Solicits Honest and Actionable Feedback\nSelf-Awareness\nActs Inclusively\nDemonstrates Initiative\nEntrepreneurial Mindset\nContinuous Learning\nEmbraces Change\nResults-Oriented\nAnalytical Thinking/Data Analysis\nFinancial Excellence\nCommunicates with Clarity\n\nWe are proud to be an equal opportunity employer. BeOne does not discriminate on the basis of race, religion, color, sex, gender identity, sexual orientation, age, disability, national origin, veteran status or any other basis covered by appropriate law. All employment is decided on the basis of qualifications, merit, and business need.",
     "external_url": "https://beigene.wd5.myworkdayjobs.com/BeiGene/job/Basel/Executive-Director--Regional-Medical-Lead---Solid-Tumors--Medical-Affairs--Europe_R36265",
@@ -1717,7 +1684,7 @@
     "title": "Executive Director, Regional Medical Lead - Solid Tumors, Medical Affairs, Europe",
     "company": "BeiGene",
     "location": "Basel",
-    "posted_date": "2026-08-08",
+    "posted_date": "2026-08-07",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1787,7 +1754,7 @@
     "title": "Project Scientist Phys-Chem Quality Control 80-100%",
     "company": "Lonza",
     "location": "CH - Basel",
-    "posted_date": "2026-08-11",
+    "posted_date": "2026-08-10",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1802,7 +1769,7 @@
     "title": "Application Development Scientist – Reagents (12 months fixed-term contract)",
     "company": "Bio-Techne / Lunaphore",
     "location": "Tolochenaz, Switzerland",
-    "posted_date": "2026-08-12",
+    "posted_date": "2026-08-11",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1821,7 +1788,7 @@
     "title": "Senior Principal Scientist / Associate Director– Soluble Biomarkers, Molecular & Cellular Sciences (MCS)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-12",
+    "posted_date": "2026-08-11",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -1930,7 +1897,7 @@
     "title": "Principal Scientist - Mid/Large Scale Oligonucleotide Synthesis, xRNA Therapeutics",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-18",
+    "posted_date": "2026-08-17",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -1978,7 +1945,7 @@
     "title": "Business Development Director",
     "company": "KBI Biopharma",
     "location": "Switzerland - Plan-les-Ouates",
-    "posted_date": "2026-08-19",
+    "posted_date": "2026-08-18",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -2082,7 +2049,7 @@
     "title": "Discovery Scientist – Neural Retina & Ocular Disease",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-20",
+    "posted_date": "2026-08-19",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -2110,7 +2077,7 @@
     "title": "Senior Scientist Bio-/Chemical Quality Control",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-08-21",
+    "posted_date": "2026-08-20",
     "department": "",
     "score": -1,
     "matched_keywords": [
@@ -2132,7 +2099,7 @@
     "title": "Associate Director, Search & Evaluation (Immunology)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-21",
+    "posted_date": "2026-08-20",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2187,7 +2154,7 @@
     "title": "Scientist 6 months fix-term contract 80-100%",
     "company": "Lonza",
     "location": "CH - Basel",
-    "posted_date": "2026-08-22",
+    "posted_date": "2026-08-21",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2220,7 +2187,7 @@
     "title": "AI Scientist – Image Analysis & Digital Pathology",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-25",
+    "posted_date": "2026-08-24",
     "department": "",
     "score": 8,
     "matched_keywords": [
@@ -2242,7 +2209,7 @@
     "title": "AI Scientist – AI-Driven Target Identification",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-25",
+    "posted_date": "2026-08-24",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -2271,7 +2238,7 @@
     "title": "Senior Scientist QA Operations",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-08-25",
+    "posted_date": "2026-08-24",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -2286,7 +2253,7 @@
     "title": "Research Associate In Cellular Assay Development",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-25",
+    "posted_date": "2026-08-24",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -2401,7 +2368,7 @@
     "title": "Scientist Pharmaceutical and Processing Development (2 year fixed term contract)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-26",
+    "posted_date": "2026-08-25",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2488,7 +2455,7 @@
     "title": "Clinical Scientist - Late Stage Development (Ophthalmology)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-28",
+    "posted_date": "2026-08-27",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2504,7 +2471,7 @@
     "title": "Director, Portfolio Analytics",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-27",
+    "posted_date": "2026-08-26",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2582,7 +2549,7 @@
     "title": "Research Scientist, Immunology",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-28",
+    "posted_date": "2026-08-27",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -2645,7 +2612,7 @@
     "title": "Technical R&D Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-29",
+    "posted_date": "2026-08-28",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -2658,7 +2625,7 @@
     "title": "Translational Medicine Expert – Dermatology, Director",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-29",
+    "posted_date": "2026-08-28",
     "department": "",
     "score": 8,
     "matched_keywords": [
@@ -2736,5 +2703,10 @@
       "assay development"
     ],
     "deducted_keywords": []
+  },
+  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000146407811": {
+    "description": "Your responsibilities As an Agile Coach, you will join the Delivery section within the Business Computing group. Your mission will be to coach, mentor, and train teams and business partners on lean-agile practices in software development, fostering a culture of collaboration, accountability, and continuous improvement. We are looking for someone highly motivated and passionate about business agility.\nThe group is currently in the preparation phase for two business transformation projects: one covering Finance, Procurement, and Logistics processes (new ERP system) and, in parallel, the implementation of a new Human Capital Management system. This requires strong coordination and cross-functional collaboration across the group. As an Agile Coach, you will be assigned to one of the projects to contribute to the successful implementation.\nBeing part of the Lean/Agile chapter, you will drive BC Group events, help grow the Agile maturity of all group internal actors (teams, designers, product managers, the group management team itself) and work with the external group stakeholders to increase their awareness, acceptance and embrace of the group's Agile ways of working. You will be aiming to deepen business agility fundamentals and lean portfolio management concepts within the group, leading to a healthier relationship between the group and its business partners.\nYour responsibilities\nIn this position, your main functions will be:\nCooperate in coordinating the business transformation projects.\nTrain individuals and teams in agile techniques and frameworks.\nDesign a strategy for improving the collaboration and flow of information between software development teams and their business stakeholders.\nCoach and facilitate agile workshops for product teams, business representatives, and other stakeholders on Lean/Agile practices and tools.\nWork with the Lean/Agile Chapter to increase the knowledge of Lean/Agile Practices, ensuring the organisation is at the forefront of industry best practices.\nPromote an agile mindset and foster an environment for high-performing team dynamics, accountability, and continuous improvement.\nThis role includes team supervision responsibilities.\n \nYour profile\nExperience working with Scrum teams in a scaled Agile context.\nExperience with Product Management frameworks.\nExperience with business transformation projects (e.g., ERP or HCM implementations).\nSkills\nSoft skills:\nExcellent communication, facilitation, and organisational skills.\nTechnical skills:\nKnowledge of scaled Agile frameworks and how to put them into practice.\nKnowledge of business transformation projects (e.g., ERP or HCM implementations).\nAgile certifications (e.g., Scrum Master, Leading SAFe).\nDesign thinking skills.\nSpoken and written English, with a commitment to learn French.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nYou have a professional background in Computer Science, Organisational Psychology (or a related field) and have either:\na Master's degree with 2 to 6 years of post-graduation professional experience;\nor a PhD with no more than 3 years of post-graduation professional experience.\nYou have never had a CERN fellow or graduate contract before.",
+    "external_url": "https://jobs.smartrecruiters.com/CERN/744000146407811-agile-coach-fap-bc-dl-2026-142-grap-?oga=true",
+    "status": "matched"
   }
 }
