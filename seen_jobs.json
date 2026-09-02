@@ -1777,11 +1777,6 @@
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000144248640-full-stack-software-developer-it-ca-osi-2026-208-grae-?oga=true",
     "status": "matched"
   },
-  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000144240249": {
-    "description": "En qualité d’infirmier ou d’infirmière en unité de soins palliatifs à la Clinique de Joli-Mont, vous assurez de manière autonome, ainsi qu’en interdisciplinarité, la prise en charge globale et personnalisée des patientes et patients nécessitant des soins techniques et complexes.\nDans ce cadre, vous identifiez la complexité et adaptez les soins en fonction des besoins psychiques, physiques et spirituels des patients et patientes en tenant compte de leurs proches. Vous utilisez les outils adaptés à leur prise en charge et effectuez des transmissions orales et écrites succinctes et personnalisées pour le suivi, notamment sur DPI.\nVous exercez également une fonction d’encadrement et d’enseignement auprès des personnes en formation et des nouveaux collaborateurs et collaboratrices.\nLe poste s’inscrit dans une dynamique de collaboration interservices et comprend un tournus au sein d’un autre service de soins palliatifs (COSPA), favorisant le partage de pratiques et le développement des compétences. \nEnfin, vous contribuez au développement de la qualité des soins et menez une réflexion professionnelle basée sur l’analyse des pratiques de soins infirmiers.",
-    "external_url": "https://jobs.smartrecruiters.com/HUG/744000144240249-infirmier-ou-infirmiere-en-soins-palliatifs-80-a-100-?oga=true",
-    "status": "matched"
-  },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000144325467": {
     "description": "Are you passionate about software development? Are you interested in supporting open science and reproducible computational research across Europe? Join our team working on the open-source REANA platform for reproducible computational data analyses! You will specifically take part in the nascent European Open Science Cloud (EOSC) Federation and the EOSC Mesh project which is designing federated digital infrastructures to cross-link research environments across Europe.\nYour responsibilities\nAs a full-stack developer in our team, you will:\nCollaborate with European Open Science Cloud project partners on developing cross-node federated analysis workflow infrastructure and support corresponding scientific use cases.\nParticipate in the evolution the CERN Node of the EOSC Federation, allowing researchers to analyse more than 5 petabytes of open data from experimental particle physics.\nContribute to the service deployment, operations and monitoring on the Kubernetes cloud.\nWork closely with researchers to provide support for cross-node computational data analysis examples.\nParticipate in the operation and development of the REANA reproducible data analysis platform.\nMore information here.\nYour profile\nExperience in full-stack software development and with frontend and backend software engineering technologies.\nExperience with container technologies and application deployment, monitoring and security.\nSome familiarity with basic principles of computational research data analyses would be a plus.\nSome prior experience working in European Commission co-funded projects would be a plus.\nSkills\nStrong problem-solving and communication skills, with an interest in collaborative open-source development.\nFrontend development technologies: React.\nBackend development technologies: Python, Go.\nApplication deployment: Docker, Kubernetes, Helm.\nSpoken and written English, with a commitment to learn French.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nBy the application deadline, you have a maximum of two years of professional experience since graduation in Computer Science or equivalent (or a related field) and your highest educational qualification is either a Bachelor's or Master's degree.\nYou have never had a CERN fellow or graduate contract before.\nApplicants without University degree are not eligible.\nApplicants with a PhD are not eligible.",
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000144325467-full-stack-software-developer-it-ca-osi-2026-207-grae-?oga=true",
@@ -2642,7 +2637,7 @@
   },
   "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-vice-president-of-business-development-basel-land-873413/1": {
     "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-vice-president-of-business-development-basel-land-873413/1",
-    "status": "matched",
+    "status": "ignored",
     "title": "Vice President of Business Development(m/f/d)",
     "company": "Hays Switzerland",
     "location": "Basel Land, Switzerland",
@@ -2654,7 +2649,7 @@
   },
   "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-scientist-lab-technician-assay-development-zug-873185/1": {
     "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-scientist-lab-technician-assay-development-zug-873185/1",
-    "status": "matched",
+    "status": "ignored",
     "title": "Scientist Lab Technician Assay Development(m/f/d)",
     "company": "Hays Switzerland",
     "location": "Zug, Switzerland",
