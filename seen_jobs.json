@@ -2639,5 +2639,61 @@
       "medical affairs"
     ],
     "deducted_keywords": []
+  },
+  "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-vice-president-of-business-development-basel-land-873413/1": {
+    "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-vice-president-of-business-development-basel-land-873413/1",
+    "status": "matched",
+    "title": "Vice President of Business Development(m/f/d)",
+    "company": "Hays Switzerland",
+    "location": "Basel Land, Switzerland",
+    "posted_date": "",
+    "department": "",
+    "score": 0,
+    "matched_keywords": [],
+    "deducted_keywords": []
+  },
+  "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-scientist-lab-technician-assay-development-zug-873185/1": {
+    "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-scientist-lab-technician-assay-development-zug-873185/1",
+    "status": "matched",
+    "title": "Scientist Lab Technician Assay Development(m/f/d)",
+    "company": "Hays Switzerland",
+    "location": "Zug, Switzerland",
+    "posted_date": "",
+    "department": "",
+    "score": 1,
+    "matched_keywords": [
+      "assay development"
+    ],
+    "deducted_keywords": []
+  },
+  "https://www.michaelpage.ch/fr/job-detail/sp%C3%A9cialiste-facility-management/ref/jn-092026-7095549?lang=en": {
+    "external_url": "https://www.michaelpage.ch/fr/job-detail/sp%C3%A9cialiste-facility-management/ref/jn-092026-7095549?lang=en",
+    "status": "matched",
+    "title": "Spécialiste Facility Management",
+    "company": "Michael Page Switzerland",
+    "location": "Switzerland",
+    "posted_date": "",
+    "department": "",
+    "score": -2,
+    "matched_keywords": [],
+    "deducted_keywords": [
+      "location:Switzerland"
+    ]
+  },
+  "/job/Remote-Switzerland/Associate-Director---Director-Regulatory-Affairs-Europe--client-dedicated-_R-01366417": {
+    "description": "Work ScheduleStandard (Mon-Fri)\n\nEnvironmental ConditionsOffice\n\nJob Description\n\nJoin Us as a Regulatory Affairs Associate Director – Make an Impact at the Forefront of Innovation\nWe have successfully supported the top 50 pharmaceutical companies and more than 750 biotechs, spanning 2,700 clinical trials across 100+ countries in the last 5 years.\n \nPPD, is seeking an experienced Associate Director / Director, Regulatory Affairs – Europe to provide strategic and operational regulatory leadership for a late-stage global development program.\n\nThe role will have primary responsibility for European regulatory strategy and execution across the European Union, United Kingdom and Switzerland, from late-stage clinical development through marketing authorization and lifecycle management, while contributing to an integrated global regulatory strategy.\nThis is a highly visible, hands-on role suited to a regulatory professional who combines strong scientific and regulatory judgment with ownership, pragmatism and the ability to work effectively in a fast-moving, collaborative development environment.\nAppointment at Associate Director or Director level will be based on the successful candidate’s experience, regulatory leadership and scope of prior responsibilities.\nKey Responsibilities\nDevelop and execute European regulatory strategy for assigned development programs, ensuring alignment with global development and regulatory objectives.\nLead regulatory planning and execution for the centralized European Marketing Authorisation Application (MAA), including pre-submission activities, dossier strategy, submission readiness, health authority review and lifecycle management.\nCoordinate cross-functional development and review of regulatory submissions, working closely with Clinical, CMC, Nonclinical, Biostatistics, Medical Writing, Pharmacovigilance, Quality, Commercial and other functions.\nLead preparation of responses to EMA assessment questions, including key review milestones such as Day 120 and Day 180, ensuring clear scientific rationale, consistency and timely delivery.\nDevelop regulatory strategies, briefing packages and meeting preparation for interactions with EMA, MHRA, Swissmedic and other European authorities as required.\nLead or support European paediatric regulatory activities, including Paediatric Investigation Plans (PIPs) and interactions with the PDCO.\nProvide regulatory leadership for clinical trial activities conducted through CTIS, including initial applications, substantial modifications and ongoing maintenance.\nIdentify and communicate emerging regulatory risks, opportunities and requirements, translating them into pragmatic recommendations and mitigation plans.\nContribute to European labeling, product information, Risk Management Plans and other registration or post-authorization activities.\nRepresent Regulatory Affairs on development teams and governance forums and contribute to broader global regulatory strategy.\nBuild strong partnerships across functions and external stakeholders, facilitating timely decisions and resolving complex regulatory issues through scientific evidence, regulatory judgment and constructive challenge.\nMaintain appropriate urgency and accountability while ensuring regulatory quality, compliance and integrity of decision-making.\n\nExperience and Capabilities\nDegree in life sciences, pharmacy, medicine or a related scientific discipline; advanced degree preferred.\nSignificant progressive Regulatory Affairs experience within the pharmaceutical or biotechnology industry, with strong expertise in European drug development and registration.\nDemonstrated experience with a centralized European MAA, including substantial involvement in strategy, dossier preparation, submission and health authority review.\nPractical experience preparing and coordinating responses to EMA assessment questions and interacting with European regulatory authorities.\nExperience with PIP/PDCO activities and EU Clinical Trials Regulation / CTIS requirements.\nStrong knowledge of EU pharmaceutical legislation, EMA procedures, ICH guidelines, GCP and applicable European regulatory requirements.\nExperience with MHRA and/or Swissmedic is highly desirable.\nAbility to interpret complex scientific and regulatory information and translate it into clear, actionable recommendations.\nStrong communication, influencing, negotiation and project leadership skills, with the ability to operate effectively across functions and organizational levels.\nComfortable working independently, taking ownership of outcomes and remaining closely involved in key regulatory deliverables.\nCollaborative and solution-oriented, with intellectual curiosity, sound judgment and openness to alternative perspectives.\nAble to balance speed and pragmatism with scientific rigor, regulatory compliance and high-quality execution.\n\nWorking Environment\nThe position operates within a global, matrixed organization and requires close collaboration across functions, geographies and external partners. The successful candidate should be comfortable combining the quality and governance expectations of a global organization with the agility, accountability and hands-on approach of an innovative biotechnology development environment.\nDomestic and international travel may be required, anticipated at approximately 10–20%, depending on program and business needs.",
+    "external_url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Switzerland/Associate-Director---Director-Regulatory-Affairs-Europe--client-dedicated-_R-01366417",
+    "status": "matched",
+    "title": "Associate Director / Director Regulatory Affairs Europe (client dedicated)",
+    "company": "Thermo Fisher Scientific",
+    "location": "Remote, Switzerland",
+    "posted_date": "2026-09-02",
+    "department": "",
+    "score": 5,
+    "matched_keywords": [
+      "drug development",
+      "location:remote"
+    ],
+    "deducted_keywords": []
   }
 }
