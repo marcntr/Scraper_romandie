@@ -665,10 +665,12 @@
     "https://lonza.wd3.myworkdayjobs.com/Lonza_Careers/job/CH---Basel/Project-Scientist-Phys-Chem-Quality-Control-80-100-_R77925": "ignored",
     "https://apply.workable.com/debiopharm/j/144F79DDD7/": "ignored",
     "https://jobs.smartrecruiters.com/CERN/744000140211788-research-fellowship-experimental-physics-?oga=true": "ignored",
-    "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Scientist-Synthesis-Automation_202606-116089-1": "ignored"
+    "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Scientist-Synthesis-Automation_202606-116089-1": "ignored",
+    "https://jobs.smartrecruiters.com/CERN/744000141240306-scientific-associateship-theoretical-physics-?oga=true": "ignored",
+    "https://jobs.smartrecruiters.com/CERN/744000141238697-corresponding-associateship-in-theoretical-physics?oga=true": "ignored"
   },
   "_generic:Hurdle Bio": {
-    "keywords": "npp"
+    "keywords": "biomarker,precision medicine"
   },
   "_generic:Ridgeline Discovery": {
     "keywords": "npp"
@@ -1304,7 +1306,7 @@
     "title": "Senior Expert / Senior Principal PKS Data Scientist & Scientific Software Engineer (Dual level posting)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-07",
+    "posted_date": "2026-08-06",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -1352,7 +1354,7 @@
     "title": "Senior Regulatory Group Director",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-04",
+    "posted_date": "2026-08-03",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1377,7 +1379,7 @@
     "title": "Principal Scientist, Respiratory Discovery",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-02",
+    "posted_date": "",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -1401,7 +1403,7 @@
     "title": "Scientist, Cell Engineering and Phenotypic Screening Models",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-05",
+    "posted_date": "2026-08-04",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -1422,7 +1424,7 @@
     "title": "Senior Principal Scientist/Associate Director Clinical PBPK  (Dual Level Posting)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-05",
+    "posted_date": "2026-08-04",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -1433,11 +1435,6 @@
       "translational research"
     ],
     "deducted_keywords": []
-  },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000141649630": {
-    "description": "The Geodetic Metrology Group (BE-GM) provides metrology and alignment for accelerator components, beam lines, and experiments across CERN, including geodetic reference systems and gravity field modelling. The Future Projects section prepares technical foundations for upcoming facilities through studies, simulations, and prototyping.\nIn this role, you will contribute to FCC studies, developing gravity field models for the 91 km tunnel and supporting sub-millimetric alignment of accelerator components and detectors. You will also contribute to the CERN-Swisstopo collaboration to compute the quasi-geoid model required for Switzerland's New Height System.\nYour responsibilities:\nCompute and validate a state-of-the-art quasi-geoid model covering FCC area and Switzerland.\nExplore and propose solutions for modelling equipotential surfaces inside tunnels.\nTake part in field observation campaigns (gravity, GNSS, leveling, astro-geodetic) required to fill data gaps or to validate the computed models.\nDevelop a gravity field modelling software package by combining existing tools and new features developed for the project.\nThis role includes team supervision responsibilities.\nYour profile:\nKnowledge of physical geodesy and gravity field theory.\nExperience in regional gravity field modelling using GRAVSOFT, GROOPS, KTH, SHGEO or another method would be an asset.\nExperience in object-oriented programming (ideally Python and/or C++).\nSkills:\nGood organisation and communication skills, sense of responsibility and a capacity to work in a team.\nStrong analytical and problem-solving skills.\nSpoken and written English or French, with a commitment to learn the basics of the other language.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nYou have a professional background in Topography, Geodesy, Surveying, Geomatic (or a related field) and have either:\na Master's degree with 2 to 6 years of post-graduation professional experience;\nor a PhD with no more than 3 years of post-graduation professional experience.\nYou have never had a CERN fellow or graduate contract before.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000141649630-geodesist-be-gm-fp-2026-29-grap-?oga=true",
-    "status": "matched"
   },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000141717060": {
     "description": "Introduction:\nYou will play an active role in the support and evolution of the database systems that underpin the LHC experiments, accelerator operations, and CERN's support services. In addition to general database administration, you will focus on the engineering, operation, and modernisation of orchestrated High Availability (HA) infrastructures. A key responsibility will be the development and operation of a resilient, distributed PostgreSQL HA platform based on modern consensus, orchestration, and proxy routing technologies.\nA hands-on engineering role focused on the reliability, automation and evolution of CERN’s PostgreSQL and relational database platforms, with a particular focus on high availability, resilience and service continuity for mission-critical scientific and organisational services.\nFunctions:\nAs a Database Infrastructure Engineer in the Databases and Analytics Group, your main activities will consist of:\nAdministration, operation, and evolution of MySQL, and PostgreSQL database platforms, including troubleshooting, configuration, migrations, upgrades, scaling, and patching.\nDesign, deployment, operation, and continuous improvement of highly available and resilient PostgreSQL infrastructures.\nDevelopment and maintenance of automation for database provisioning, configuration, failover and operational workflows.\nProactive monitoring of database environments to ensure optimum performance, throughput, stability, availability and security.\nDefinition and evolution of database architecture, resilience, disaster recovery, and service continuity strategies.\nProvision of technical expertise and troubleshooting support to application development teams.\nShare domain and technical expertise, and provide technical mentorship and training to peers.",
@@ -1552,7 +1549,7 @@
     "title": "Application Development Scientist – Reagents (12 months fixed-term contract)",
     "company": "Bio-Techne / Lunaphore",
     "location": "Tolochenaz, Switzerland",
-    "posted_date": "2026-08-12",
+    "posted_date": "2026-08-11",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1571,7 +1568,7 @@
     "title": "Senior Principal Scientist / Associate Director– Soluble Biomarkers, Molecular & Cellular Sciences (MCS)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-12",
+    "posted_date": "2026-08-11",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -1665,7 +1662,7 @@
     "title": "Principal Scientist - Mid/Large Scale Oligonucleotide Synthesis, xRNA Therapeutics",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-18",
+    "posted_date": "2026-08-17",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -1812,7 +1809,7 @@
     "title": "Discovery Scientist – Neural Retina & Ocular Disease",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-20",
+    "posted_date": "2026-08-19",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -1862,7 +1859,7 @@
     "title": "Associate Director, Search & Evaluation (Immunology)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-21",
+    "posted_date": "2026-08-20",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1935,7 +1932,7 @@
     "title": "AI Scientist – Image Analysis & Digital Pathology",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-25",
+    "posted_date": "2026-08-24",
     "department": "",
     "score": 8,
     "matched_keywords": [
@@ -1957,7 +1954,7 @@
     "title": "AI Scientist – AI-Driven Target Identification",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-25",
+    "posted_date": "2026-08-24",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -2001,7 +1998,7 @@
     "title": "Research Associate In Cellular Assay Development",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-25",
+    "posted_date": "2026-08-24",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -2116,7 +2113,7 @@
     "title": "Scientist Pharmaceutical and Processing Development (2 year fixed term contract)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-26",
+    "posted_date": "2026-08-25",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2203,7 +2200,7 @@
     "title": "Clinical Scientist - Late Stage Development (Ophthalmology)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-28",
+    "posted_date": "2026-08-27",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2219,7 +2216,7 @@
     "title": "Director, Portfolio Analytics",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-27",
+    "posted_date": "2026-08-26",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2297,7 +2294,7 @@
     "title": "Research Scientist, Immunology",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-28",
+    "posted_date": "2026-08-27",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -2360,7 +2357,7 @@
     "title": "Technical R&D Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-29",
+    "posted_date": "2026-08-28",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -2373,7 +2370,7 @@
     "title": "Translational Medicine Expert – Dermatology, Director",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-29",
+    "posted_date": "2026-08-28",
     "department": "",
     "score": 8,
     "matched_keywords": [
@@ -2425,7 +2422,7 @@
     "title": "Senior Computational & Applied AI - Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "",
+    "posted_date": "2026-08-31",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -2443,7 +2440,7 @@
     "title": "Senior AI/ML Data Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "",
+    "posted_date": "2026-08-31",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -2460,7 +2457,7 @@
     "title": "Therapeutic Area Biomarker Director  – Cardiovascular and Metabolism",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "",
+    "posted_date": "2026-08-31",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -2514,7 +2511,7 @@
     "title": "Technical Development Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-02",
+    "posted_date": "",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -2527,7 +2524,7 @@
     "title": "USP Research Scientist II",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-09-02",
+    "posted_date": "",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2573,7 +2570,7 @@
   },
   "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-senior-scientist-monitoring-lengnau-890552/1": {
     "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-senior-scientist-monitoring-lengnau-890552/1",
-    "status": "matched",
+    "status": "ignored",
     "title": "Senior Scientist Monitoring(m/f/d)",
     "company": "Hays Switzerland",
     "location": "Lengnau, Switzerland",
@@ -2587,7 +2584,7 @@
   },
   "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-senior-scientist-bcqc-lengnau-berne-880270/1": {
     "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-senior-scientist-bcqc-lengnau-berne-880270/1",
-    "status": "matched",
+    "status": "ignored",
     "title": "Senior Scientist BCQC(m/f/d)",
     "company": "Hays Switzerland",
     "location": "Lengnau, Berne, Switzerland",
@@ -2599,7 +2596,7 @@
   },
   "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-analytical-project-leader-scientist-senior-scientist-basel-stadt-873611/1": {
     "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-analytical-project-leader-scientist-senior-scientist-basel-stadt-873611/1",
-    "status": "matched",
+    "status": "ignored",
     "title": "Analytical Project Leader (Scientist / Senior Scientist)(m/f/d)",
     "company": "Hays Switzerland",
     "location": "Basel Stadt, Switzerland",
@@ -2608,34 +2605,6 @@
     "score": 0,
     "matched_keywords": [],
     "deducted_keywords": []
-  },
-  "https://www.michaelpage.ch/job-detail/business-development-manager-dacheurope-mwd/ref/jn-062026-7035692?ng-src=other-users-applied&ng-jn=job-search": {
-    "external_url": "https://www.michaelpage.ch/job-detail/business-development-manager-dacheurope-mwd/ref/jn-062026-7035692?ng-src=other-users-applied&ng-jn=job-search",
-    "status": "matched",
-    "title": "Business Development Manager DACH / Europe (m/w/d)",
-    "company": "Michael Page Switzerland",
-    "location": "Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": -2,
-    "matched_keywords": [],
-    "deducted_keywords": [
-      "location:Switzerland"
-    ]
-  },
-  "https://www.michaelpage.ch/de/job-detail/portfolio-manager-international-equities-mwd/ref/jn-062026-7052410?lang=en&ng-src=other-users-applied&ng-jn=job-search": {
-    "external_url": "https://www.michaelpage.ch/de/job-detail/portfolio-manager-international-equities-mwd/ref/jn-062026-7052410?lang=en&ng-src=other-users-applied&ng-jn=job-search",
-    "status": "matched",
-    "title": "Aktien Portfolio Manager - Internationaler Vermögensverwalter",
-    "company": "Michael Page Switzerland",
-    "location": "Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": -2,
-    "matched_keywords": [],
-    "deducted_keywords": [
-      "location:Switzerland"
-    ]
   },
   "/job/CH---Basel/Internship-Lab-Scientist-80-100-_R78570-1": {
     "description": "The actual location of this job is in Basel Stücki, Switzerland.\n\nFor our successful Drug Product (DP) focused branch located in Basel and Stein, Switzerland, we have exciting opportunities. Become part of a group that enables its customers to meet some of the greatest challenges in patient treatment and join us by applying for the Internship Laboratory Scientist position.\n\nWhat you will get:\n\nAn agile career and a dynamic work culture\n\nAn inclusive and ethical workplace\n\nCompensation programs that recognize high performance\n\nWhat you will do:\n\nAssist with daily lab operations\n\nPerform laboratory experiments and procedures\n\nRecord and report experimental data accurately\n\nHelp maintain a clean and organized laboratory environment\n\nWhat we are looking for:\n\nMatriculation (Bachelor or Master) or recent graduation from a university or technical college in Biotechnology, Biochemistry, Pharmacy, Analytical Chemistry or related fields\n\nA strong team player who can also work independently\n\nSelf-motivated with a strong passion for quality\n\nExcellent attention to detail and accuracy\n\nWillingness to learn and complete complex tasks\n\nVery good verbal and written communication skills, proficiency in English\n\nAbout Lonza\nAt Lonza, our people are our greatest strength. With 30+ sites across five continents, our globally connected teams work together every day to manufacture the medicines of tomorrow. Our core values of Collaboration, Accountability, Excellence, Passion and Integrity reflect who we are and how we work together. Everyone’s ideas, big or small, have the potential to improve millions of lives, and that’s the kind of work we want you to be part of.\n\nInnovation thrives when people from all backgrounds bring their unique perspectives to the table. At Lonza, we value diversity and are committed to creating an inclusive environment for all employees. If you’re ready to help turn our customers’ breakthrough ideas into viable therapies, we look forward to welcoming you on board.\n\nReady to shape the future of life sciences? Apply now.",
@@ -2648,6 +2617,27 @@
     "department": "",
     "score": 0,
     "matched_keywords": [],
+    "deducted_keywords": []
+  },
+  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000147009829": {
+    "description": "En votre qualité de médecin cadre, vous évoluez dans un environnement universitaire stimulant, au sein d'une équipe pluridisciplinaire et êtes amenée ou amené à participer aux activités cliniques du service de gastroentérologie et d’hépatologie.\nVous assistez le médecin-chef de service et les médecins adjointes ou adjoints dans les soins, la coordination des activités pratiques, les interventions cliniques, thérapeutiques et endoscopiques des patientes ou patients qui vous sont confiées ou confiés. Vous participez au système de garde de spécialité en deuxième ligne.\nDémontrant un intérêt confirmé dans l'enseignement, vous participez à l'enseignement pré/post-gradué et continu en gastroentérologie et hépatologie.\nDynamique, flexible et engagée ou engagé, vous développez des projets cliniques interdisciplinaires. Vous déployez et assurez la recherche dans l'unité.",
+    "external_url": "https://jobs.smartrecruiters.com/HUG/744000147009829-medecin-adjoint-ou-medecin-adjointe-au-service-de-gastroenterologie-et-d-hepatologie-100-?oga=true",
+    "status": "matched"
+  },
+  "/job/Basel-City/Medical-Affairs-Lead-ECC_REQ-10086596-1": {
+    "description": "Salary Range:CHF150,500.00 - CHF279,500.00\n\n \nJob Description Summary#LI-Hybrid\n\nLocation: Basel, Switzerland\n\nRelocation Support: Yes\n\nReady to shape the future of Medical Affairs across one of Novartis' regions?\n\nAs the Medical Affairs Lead ECC, you will provide strategic and operational leadership across the Europe Central Cluster, driving excellence in medical strategy execution, launch readiness, evidence generation, governance, and healthcare ecosystem engagement. Leading a team of six Country Medical Affairs Heads, you will play a pivotal role in aligning country medical organizations with International Medical priorities while fostering a high-performing, connected, and future-ready Medical Affairs organization. Reporting to the SERCE Cluster Medical Affairs Head, you will influence medical outcomes across multiple countries, accelerate innovation, strengthen medical capabilities, and help ensure patients gain access to transformative therapies. This is a unique opportunity to combine strategic leadership, people development, and medical excellence while contributing to Novartis' mission to reimagine medicine.\n\n \nJob Description\nKey Responsibilities:\n• Lead the implementation of International Medical strategy across the ECC cluster, ensuring alignment with global priorities and the One Brand Plan.\n• Drive strategic medical planning and execution across countries to deliver consistent medical excellence and patient impact. \n• Lead Medical Launch Readiness planning and execution, ensuring organizations are prepared for launches and lifecycle milestones.\n• Oversee evidence generation activities and Integrated Evidence Plans, translating insights into actionable recommendations.\n• Drive excellence in scientific engagement, field medical performance, and Medical Science Liaison deployment across the cluster.\n• Maintain oversight of medical governance, compliance, risk management, audit readiness, and medical standards.\n• Partner with Commercial, Value & Access, Regulatory, Development, and International Medical colleagues to advance strategic priorities.\n• Lead healthcare ecosystem readiness initiatives and support evidence-based approaches that improve patient outcomes and access.\n• Build, coach, and develop a high-performing team of six Country Medical Affairs Heads, fostering collaboration, succession planning, and leadership growth.\n• Strengthen organizational capability across the ECC cluster by promoting innovation, knowledge sharing, talent development, and continuous improvement.\n\nEssential Requirements:\n• Advanced degree in Medicine, Pharmacy, Life Sciences, or a related discipline.\n• Minimum 8 years of Medical Affairs experience within the pharmaceutical industry.\n• Prior experience as a Medical Affairs Head or equivalent senior medical leadership role.\n• Previous people management experience, including leading, coaching, and developing high-performing teams.\n• Experience leading multi-country, cluster, or geographically dispersed organizations.\n• Proven experience driving medical strategy execution, launch readiness, and cross-functional medical leadership. \n• Strong expertise in evidence generation, medical governance, field medical excellence, and healthcare ecosystem engagement.\n• Proficient English language skills, both written and spoken.\n\nDesirable Requirements:\n• Medical Doctor (MD) degree.\n• Previous experience in Value & Access, Commercial, or other cross-functional strategic roles within the pharmaceutical industry.\n\nAccessibility and accommodation\nNovartis is committed to working with and providing reasonable accommodation to all individuals. If, because of a medical condition or disability, you need a reasonable accommodation for any part of the recruitment process, or in order to receive more detailed information about the essential functions of a position, please send an e-mail to diversity.inclusion_ch@novartis.com and let us know the nature of your request and your contact information. Please include the job requisition number in your message.\n\nBenefits: Read our handbook to learn about all the ways we’ll help you thrive personally and professionally: Novartis Life Handbook\n\nExpected Annual Base Salary Range for role: 150,500.00 - 279,500.00 CHF\n\nThe base salary offered is determined based on gender-neutral objectives, such as relevant skills, competencies and experience in accordance with the Novartis pay setting policy and upon joining Novartis will be reviewed periodically. \n  \nIn addition to your base salary, you may be eligible for a performance-based bonus depending on certain performance parameters. \n  \nThe rewards of being part of our team go far beyond base pay and incentives. We also offer a variety of competitive benefits in kind to help you thrive personally and professionally, such as insurance plans, retirement plans, wellbeing resources and global recognition programs. In addition, we provide flexible and hybrid working options, where possible, and minimum 14 weeks paid parental leave. \n  \nIn addition to your base salary, you may be eligible for a performance-based bonus depending on certain performance parameters. Long-term equity awards granted at group level may also be part of your package. Further details will be provided during the application process. \n\nNote: Benefits and compensation may vary by country and are subject to local legal requirements, including provisions of collective bargaining agreements where applicable. A full overview of your compensation package, including any relevant collective bargaining agreement details applicable to your role based on your employment location and Novartis employer entity, will be communicated separately to you during the application process. \n\nCommitment to Diversity & Inclusion: Novartis is committed to building an outstanding, inclusive work environment and diverse teams representative of the patients and communities we serve.\n\n \nSkills DesiredCross-Functional Collaboration, Data Analysis, Drug Development, Employee Development, Health Sciences, Influencing Skills, Innovation, Inspirational Leadership, Medical Affairs, Patient Care, People Management, Pharmaceutics, Product Launches, Real World Evidence (RWE), Regulatory Compliance, Research Methodologies, Results-Oriented, Stakeholder Engagement, Stakeholder Management, Statistical Analysis",
+    "external_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Basel-City/Medical-Affairs-Lead-ECC_REQ-10086596-1",
+    "status": "matched",
+    "title": "Medical Affairs Lead ECC",
+    "company": "Novartis",
+    "location": "Basel (City)",
+    "posted_date": "2026-09-02",
+    "department": "",
+    "score": 2,
+    "matched_keywords": [
+      "drug development",
+      "medical affairs"
+    ],
     "deducted_keywords": []
   }
 }
