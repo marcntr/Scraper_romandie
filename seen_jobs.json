@@ -1306,7 +1306,7 @@
     "title": "Senior Expert / Senior Principal PKS Data Scientist & Scientific Software Engineer (Dual level posting)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-07",
+    "posted_date": "2026-08-06",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -1379,7 +1379,7 @@
     "title": "Principal Scientist, Respiratory Discovery",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "",
+    "posted_date": "2026-09-01",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -1403,7 +1403,7 @@
     "title": "Scientist, Cell Engineering and Phenotypic Screening Models",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-05",
+    "posted_date": "2026-08-04",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -1424,7 +1424,7 @@
     "title": "Senior Principal Scientist/Associate Director Clinical PBPK  (Dual Level Posting)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-05",
+    "posted_date": "2026-08-04",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -1435,16 +1435,6 @@
       "translational research"
     ],
     "deducted_keywords": []
-  },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000141717060": {
-    "description": "Introduction:\nYou will play an active role in the support and evolution of the database systems that underpin the LHC experiments, accelerator operations, and CERN's support services. In addition to general database administration, you will focus on the engineering, operation, and modernisation of orchestrated High Availability (HA) infrastructures. A key responsibility will be the development and operation of a resilient, distributed PostgreSQL HA platform based on modern consensus, orchestration, and proxy routing technologies.\nA hands-on engineering role focused on the reliability, automation and evolution of CERN’s PostgreSQL and relational database platforms, with a particular focus on high availability, resilience and service continuity for mission-critical scientific and organisational services.\nFunctions:\nAs a Database Infrastructure Engineer in the Databases and Analytics Group, your main activities will consist of:\nAdministration, operation, and evolution of MySQL, and PostgreSQL database platforms, including troubleshooting, configuration, migrations, upgrades, scaling, and patching.\nDesign, deployment, operation, and continuous improvement of highly available and resilient PostgreSQL infrastructures.\nDevelopment and maintenance of automation for database provisioning, configuration, failover and operational workflows.\nProactive monitoring of database environments to ensure optimum performance, throughput, stability, availability and security.\nDefinition and evolution of database architecture, resilience, disaster recovery, and service continuity strategies.\nProvision of technical expertise and troubleshooting support to application development teams.\nShare domain and technical expertise, and provide technical mentorship and training to peers.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000141717060-database-infrastructure-engineer-it-da-db-2026-174-ld-?oga=true",
-    "status": "matched"
-  },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000141714699": {
-    "description": "Introduction\nJoin the Deployment and Operations team in the Communication Systems and  Fabric Group and contribute to the reliable connectivity that supports one of the world’s leading scientific research environments. You will coordinate and follow up telecom and network infrastructure works across CERN sites, working with contractors, users and technical teams to plan installations, check quality, ensure safety and maintain accurate documentation. We welcome candidates with hands-on experience in cabling, telecom, electrical, industrial infrastructure or network installation environments who are motivated to develop in a unique international setting.\nFunctions\nReview cabling requests and collaborate with requesters to clarify needs when necessary.\nHelp define suitable cable types and routes, working with users and taking into account the local environment.\nCoordinate cabling and de-cabling activities with both internal teams and external partners (e.g. contractors).\nPrepare clear and practical documentation to support the work (such as drawings and technical plans).\nContribute to safe working practices by identifying potential risks and supporting the implementation of mitigation measures in line with CERN standards.\nSupport the organisation of logistics for cabling activities, including materials, access, and required equipment.\nParticipate in worksite coordination and follow-up meetings.\nTrack progress and help ensure that work is carried out safely and with good quality.\nTake part in inspections and acceptance of completed work, and help keep infrastructure records up to date.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000141714699-telecom-and-network-infrastructure-technician-it-fcs-do-2026-173-ld-?oga=true",
-    "status": "matched"
   },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000141910971": {
     "description": "What you'll do:\nYou will spend up to 36 months working on your doctoral thesis in a truly unique environment where science, technology and innovation meet. You’ll be part of an international community of experts, gaining experience at the forefront of research and engineering.\nYour responsibilities:\nCarry out your doctoral research in collaboration with CERN and your home university.\nContribute to ongoing projects in domains such as applied physics, computing, engineering or related technical fields.\nPresent and document your work as part of your academic and research objectives.\nLearn from and work alongside world-class scientists, engineers and technicians within an international and multidisciplinary team.\nYour profile:\nYour field of study is in Applied Physics, Engineering, Computing, or a related area.\nYou are motivated to develop your research in a hands-on, collaborative and innovative environment.\nYou enjoy teamwork and learning from others in a collaborative setting.\nYour skills:\nSolid theoretical foundation in your research area, combined with an interest in practical applications.\nCuriosity, precision and a proactive attitude towards learning.\nGood communication skills and ability to work effectively in a multicultural team.",
@@ -1518,7 +1508,7 @@
     "title": "Executive Director, Regional Medical Lead - Solid Tumors, Medical Affairs, Europe",
     "company": "BeiGene",
     "location": "Basel",
-    "posted_date": "2026-08-08",
+    "posted_date": "2026-08-07",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1549,7 +1539,7 @@
     "title": "Application Development Scientist – Reagents (12 months fixed-term contract)",
     "company": "Bio-Techne / Lunaphore",
     "location": "Tolochenaz, Switzerland",
-    "posted_date": "2026-08-12",
+    "posted_date": "2026-08-11",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1568,7 +1558,7 @@
     "title": "Senior Principal Scientist / Associate Director– Soluble Biomarkers, Molecular & Cellular Sciences (MCS)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-12",
+    "posted_date": "2026-08-11",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -1587,29 +1577,6 @@
     "external_url": "https://jobs.smartrecruiters.com/HUG/744000142874780-secretaire-medical-ou-medicale-au-centre-des-affections-hepatobiliaires-et-pancreatiques-50-?oga=true",
     "status": "matched"
   },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000143065799": {
-    "description": "Join CERN's EP-ESE-ME section in the development of a radiation-tolerant microcontroller ASIC for use in future particle physics detectors and accelerator systems. Operating in highly challenging radiation environments, these systems require robust and reliable embedded electronics.\nThe project is based on an open-source RISC-V processing core and the CERN SOCRATES (System-On-Chip Radiation-Tolerant Ecosystem) framework for fault-tolerant SoC design. The successful candidate will contribute to the full development cycle, from requirements definition and system architecture to implementation, verification, and post-silicon validation.\nYour responsibilities:\nAnalyse application requirements across CERN's accelerator complex and particle physics detector systems to define technical specifications for the microcontroller ASIC.\nContribute to the architecture, design, and validation of a radiation-tolerant microcontroller ASIC implemented in 65 nm or 28 nm CMOS technology.\nSupport the definition of the SoC architecture, including the selection and configuration of an appropriate RISC-V processing core.\nDesign, integrate, and validate peripheral IP blocks within the CERN SOCRATES framework.\nApply fault-tolerant design methodologies, including triple modular redundancy (TMR) and single-event upset (SEU) mitigation techniques.\nParticipate in design verification activities and physical implementation, from RTL development through to tapeout.\nContribute to post-silicon testing, characterisation, and validation following chip fabrication.\nYour profile:\nStrong understanding of digital logic design.\nSolid experience with digital IC design and RTL development (Verilog/SystemVerilog).\nFamiliarity with standard ASIC design flows (synthesis, place and route, timing closure).\nKnowledge of RISC-V architecture and its ecosystem.\nExperience with microcontroller-based embedded systems development, including firmware programming in C and peripheral interfacing.\nSkills:\nRTL design and simulation (Verilog / SystemVerilog).\nFamiliarity with the digital ASIC design flow, including synthesis, place-and-route, timing closure, and sign-off activities.\nKnowledge of fault-tolerant design techniques and radiation effects in CMOS circuits is an asset.\nMicrocontroller embedded systems development (firmware in C, peripheral interfacing, bare-metal programming).\nScripting and automation (Python or equivalent).\nLinux/Unix working environment.\nCuriosity and willingness to learn in a multidisciplinary environment.\nAbility to work independently as well as within a team.\nSpoken and written English, with a commitment to learn French.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nYou have a professional background in Electronics Engineer (or a related field) and have either:\na Master's degree with 2 to 6 years of post-graduation professional experience;\nor a PhD with no more than 3 years of post-graduation professional experience.\nYou have never had a CERN fellow or graduate contract before.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000143065799-digital-asic-designer-ep-ese-me-2026-134-grap-?oga=true",
-    "status": "matched"
-  },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000143050369": {
-    "description": "The Vacuum, Surfaces and Coatings (VSC) Group within CERN's Technology (TE) Department is responsible for the full lifecycle of accelerator vacuum systems, from development and design through to installation, operation and maintenance. The group operates facilities for measuring vacuum performance, assessing the compatibility of materials and surface technologies, and performing thin film coating, surface finishing, and vacuum-related physical and chemical characterisation.\nAs part of this group, you will join the Surface Coating and Chemistry (SCC) section, which provides CERN-wide expertise and services in wet surface treatments, surface and chemical analysis, and surface coating using physical vapour deposition techniques. In this role, you will contribute to the development of coating systems, thin-film materials and plasma-based surface treatments, with a particular focus on applications related to superconducting radiofrequency (SRF) cavities and adjacent technologies.\nYour responsibilities\nDeposit superconductive (thin) films onto various copper substrates (1.3 GHz, 400 MHz, 800 MHz cavities) via HiPIMS.\nPerform plasma-based surface treatment for cleaning and surface passivation/functionalisation.\nPerform in situ plasma diagnostics for process R&D (e.g. mass spectrometry, OES, Langmuir probe).\nPerform materials characterisation and data analysis (e.g. SEM, XRD, XRF, profilometry).\nInvestigate the use of a dielectric barrier as a method for suppressing thermoelectric currents.\nCommission and operate a movable cathode sputtering system for 1.3 GHz cavities.\nContribute to the design of new sputtering systems.\nPrepare coating systems within a cleanroom environment.\nMore information here. \nYour profile\nPractical laboratory experience in plasma-based thin film deposition, particularly HiPIMS.\nPractical experience working with UHV systems.\nPlanning and executing experimental work, troubleshooting equipment or process issues, and analysing characterisation data to support coating development and optimisation.\nPreparing technical procedures, documenting experimental methods and results, and contributing to safe, reproducible laboratory practices.\nWorking in a dynamic technical environment.\nParticipating in technical meetings, seminars, and project discussions, sharing findings and communicating technical information within and outside the organisation.\nUsing plasma diagnostic techniques in the context of thin film fabrication would be an advantage.\nExperience working in a cleanroom would be an advantage.\nExperience performing Rietveld refinement would be an advantage.\nSkills\nUnderstanding the mechanisms behind plasma-based thin film deposition techniques particularly HiPIMS and film characterisation techniques, particularly X-ray diffraction analysis.\nKnowledge of diagnostic techniques in the context of thin film fabrication.\nKnowledge in plasma-based surface treatment methods, including cleaning, passivation, and functionalisation.\nAnalyse characterisation data and apply results to coating development and optimisation.\nPlan and execute laboratory experiments independently.\nGood communication skills with the ability to share technical information in meetings, seminars and conferences.\nBe confident working independently.\nBe open to learning new techniques.\nSpoken and written English or French, with a commitment to learn the basics of the other language.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nYou have a professional background in Materials Science or related fields (or a related field) and have either:\na Master's degree with 2 to 6 years of post-graduation professional experience;\nor a PhD with no more than 3 years of post-graduation professional experience.\nYou have never had a CERN fellow or graduate contract before.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000143050369-thin-film-materials-scientist-te-vsc-scc-2026-133-grap-?oga=true",
-    "status": "ignored",
-    "title": "Thin Film Materials Scientist (TE-VSC-SCC-2026-133-GRAP)",
-    "company": "CERN",
-    "location": "Geneva, Switzerland",
-    "posted_date": "2026-08-12",
-    "department": "Research",
-    "score": 7,
-    "matched_keywords": [
-      "French",
-      "Master's degree",
-      "PhD",
-      "location:geneva"
-    ],
-    "deducted_keywords": []
-  },
   "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000143054339": {
     "description": "Vous intégrez l’équipe expert qualité de la Direction des Soins. Vous assistez la responsable de la transition écologique dans les soins et participez à la mise en œuvre de la stratégie de la transition écologique dans les soins. Vous contribuez activement aux projets pilotés dans le domaine.\nVous participez à des projets en lien avec la mise en œuvre de la stratégie de la transition écologique dans les soins.\nVous collaborez avec le pôle RSE dans la mise en œuvre de l’axe climat-santé de la stratégie de durabilité aux HUG.\nVous contribuez activement à l’organisation et à la coordination de l’opérationnalisation de la stratégie de transition écologique dans les soins dans les départements médico-soignants.\nVous conseillez sur les bonnes pratiques, répondez aux questions et faites la promotion de la transition écologique dans les soins au sein des HUG.\nA cela s'ajoute votre participation à l'organisation quotidienne du secteur avec, par exemple, la préparation et l’organisation de séances, la tenue de tableaux de bord, etc.",
     "external_url": "https://jobs.smartrecruiters.com/HUG/744000143054339-stage-administratif-transition-ecologique-dans-les-soins-100-?oga=true",
@@ -1618,16 +1585,6 @@
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000143097109": {
     "description": "This position focuses on the development and deployment of beam optimisation and machine learning (ML) tools for the CERN ion accelerator complex. The objective is to transform expert-driven optimisation and ML methods into reliable operational solutions that enhance beam performance and support high-intensity operation.\nYour responsibilities\nContribute to the development and improvement of beam optimisation software tools for particle accelerators.\nAnalyse operational and instrumentation data to identify opportunities for improving beam performance and efficiency.\nParticipate in the testing, validation and deployment of optimisation and ML tools in an operational environment.\nDevelop automated procedures for accelerator setup, tuning and performance monitoring.\nCollaborate with accelerator physicists, operators and software developers to understand operational needs and implement practical solutions.\nSupport beam commissioning and performance studies by applying data analysis and optimisation techniques.\nDocument software developments, operational procedures and study results.\nPresent progress and results at technical meetings and collaborate with experts from different disciplines.\nYour profile\nExperience with scientific programming and data analysis, preferably using Python.\nFamiliarity with numerical methods, optimisation techniques, or machine learning approaches is an asset.\nInterest in particle accelerators, beam physics, control systems, or large scientific facilities.\nExperience working with scientific software, simulations, or experimental data.\nFamiliarity with software development tools such as version control systems (e.g. Git) is an advantage.\nAbility to analyse complex problems and develop practical solutions.\nExperience working collaboratively in multidisciplinary teams through academic or research projects.\nSkills\nPython.\nScientific computing.\nMachine learning techniques & tools.\nGit.\nLinux.\nExperimental data analysis.\nSpoken and written English, with a commitment to learn French.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nYou have a professional background in Applied Physics, Computer Science (or a related field) and have either:\na Master's degree with 2 to 6 years of post-graduation professional experience;\nor a PhD with no more than 3 years of post-graduation professional experience.\nYou have never had a CERN fellow or graduate contract before.",
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000143097109-computational-physicist-for-accelerators-be-op-sps-2026-135-grap-?oga=true",
-    "status": "matched"
-  },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000143092030": {
-    "description": "CERN operates the analysis ecosystem used daily by thousands of researchers: the SWAN interactive notebook service, the Rucio data management system, the REANA reproducible-workflow engine, the Zenodo open repository, and CVMFS for software distribution. Building on these services, and as part of the ESCAPE Collaboration, CERN is developing the next generation of Virtual Research Environments (VRE): a modular, open-source analysis platform, deployed on CERN's Kubernetes infrastructure, that gives researchers a single entry point to data, software, and computing. The VRE and its associated Open Science Competence Centre are being integrated into the CERN EOSC node, opening the platform to federated user communities across Europe. This work is funded through the OSCARS project, and as a Graduate you will significantly contribute in consolidating our platform to be production-ready. \nOur ultimate goal is a seamless, reproducible analysis environment where researchers can discover and access data, run interactive and batch analyses across heterogeneous resources, and publish their results within one open ecosystem. This is a unique opportunity to work at the core of CERN's analysis services and shape a platform adopted by research infrastructures well beyond CERN.\nYour responsibilities\nDevelop and maintain the Jupyter extensions for Rucio, REANA, and Zenodo (Python, JupyterLab/React), upgrading them into production-ready plugins integrated with CERN's SWAN notebook service.\nSupport the Competence Centre activities through workshops, training events, and documentation, gathering user feedback and translating it into technical improvements.\nContribute to the authentication and authorisation layer, supporting both token-based and role-based paradigms and aligning with European federated-identity standards (EduGain, MyAccessID) for integration with the EOSC Federation.\nReview and consolidate the unified VRE Helm charts, including Prometheus-based monitoring and metrics collection.\nYour profile\nExperience with Python and software development in a Linux environment.\nFamiliarity with container technologies, such as Docker, and container orchestration with Kubernetes (including Helm).\nFamiliarity with version control systems, such as Git, and CI/CD practices.\nExposure to authentication and authorisation technologies (for example OAuth2/OIDC, tokens, INDIGO IAM).\nExperience contributing to or working with open-source software projects.\nAbility to write clear, maintainable code and learn new technologies.\nFamiliarity with scientific data management or workflow tools (for example Rucio, REANA, Snakemake, or similar) is an asset.\nBasic knowledge of web technologies and modern interfaces (for example JavaScript/React or JupyterLab extensions) is an asset.\nExposure to HPC or cloud computing environments is an asset.\nSkills\nPython, Git, Docker, Kubernetes, Linux skills are required.\nHelm, GitOps, Prometheus skills are advantageous.\nJupyterHub/JupyterLab, React skills are advantageous.\nRucio, REANA, Zenodo, CVMFS skills are advantageous.\nOAuth2/OIDC, token-based AAI, INDIGO IAM skills are advantageous.\nKubeflow, VirtualKubelet/interLink skills are advantageous.\nExperience working on open source projects is nice to have.\nSpoken and written English, with a commitment to learn French.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nBy the application deadline, you have a maximum of two years of professional experience since graduation in Software Engineering (or a related field) and your highest educational qualification is either a Bachelor's or Master's degree.\nYou have never had a CERN fellow or graduate contract before.\nApplicants without University degree are not eligible.\nApplicants with a PhD are not eligible.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000143092030-full-stack-software-engineer-it-ca-ir-2026-199-grae-?oga=true",
-    "status": "matched"
-  },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000143086329": {
-    "description": "CERN operates the analysis ecosystem used daily by thousands of researchers: the SWAN interactive notebook service, the Rucio data management system, the REANA reproducible-workflow engine, the Zenodo open repository, and CVMFS for software distribution. Building on these services, and as part of the ESCAPE Collaboration.\nCERN is developing the next generation of Virtual Research Environments (VRE): a modular, open-source analysis platform, deployed on CERN's Kubernetes infrastructure, that gives researchers a single entry point to data, software, and computing. The VRE and its associated Open Science Competence Centre are being integrated into the CERN EOSC node, opening the platform to federated user communities across Europe.\nThis work is funded through the OSCARS project, and as a Graduate you will significantly contribute in consolidating our platform to be production-ready.\nThis role will include:\nWorking as a software and platform engineer in the team developing and operating the VRE on CERN's cloud infrastructure, alongside the SWAN, Rucio, REANA, and Zenodo service teams.\nHardening Jupyter extensions for Rucio, REANA, and Zenodo into production-ready plugins, with the CERN SWAN service as the reference integration.\nConsolidating the unified VRE Helm charts as a common and containerised deployment reference.\nContributing to the integration of the VRE and the Competence Centre into the CERN EOSC node, and engaging with the user communities they serve.\nOur ultimate goal is a seamless, reproducible analysis environment where researchers can discover and access data, run interactive and batch analyses across heterogeneous resources, and publish their results within one open ecosystem. This is a unique opportunity to work at the core of CERN's analysis services and shape a platform adopted by research infrastructures well beyond CERN.\nYour responsibilities:\nDevelop and maintain the Jupyter extensions for Rucio, REANA, and Zenodo (Python, JupyterLab/React), upgrading them into production-ready plugins integrated with CERN's SWAN notebook service.\nSupport the Competence Centre activities through workshops, training events, and documentation, gathering user feedback and translating it into technical improvements.\nPrototype the scaling of interactive analysis to distributed compute: offloading of user sessions to HPC and cloud resources using VirtualKubelet/interLink, leveraging CERN's cloud procurement activities.\nStreamline data staging between the distributed data infrastructure and the analysis environment.\nYour profile:\nExperience with Python and software development in a Linux environment.\nFamiliarity with container technologies, such as Docker, and container orchestration with Kubernetes (including Helm).\nFamiliarity with version control systems, such as Git, and CI/CD practices.\nExposure to authentication and authorisation technologies (for example OAuth2/OIDC, tokens, INDIGO IAM).\nExperience contributing to or working with open-source software projects.\nAbility to write clear, maintainable code and learn new technologies.\nFamiliarity with scientific data management or workflow tools (for example Rucio, REANA, Snakemake, or similar) is an asset.\nBasic knowledge of web technologies and modern interfaces (for example JavaScript/React or JupyterLab extensions) is an asset.\nExposure to HPC or cloud computing environments is an asset.\nSkills:\nRequired Skills:\nPython.\nGit.\nDocker.\nKubernetes.\nLinux.\nSpoken and written English, with a commitment to learn French.\nNice to have skills:\nHelm, GitOps, Prometheus.\nJupyterHub/JupyterLab, React.\nRucio, REANA, Zenodo, CVMFS.\nOAuth2/OIDC, token-based AAI, INDIGO IAM.\nKubeflow, VirtualKubelet/interLink.\nExperience working on open source projects.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nBy the application deadline, you have a maximum of two years of professional experience since graduation in Software Engineering (or a related field) and your highest educational qualification is either a Bachelor's or Master's degree.\nYou have never had a CERN fellow or graduate contract before.\nApplicants without University degree are not eligible.\nApplicants with a PhD are not eligible.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000143086329-full-stack-software-engineer-it-ca-ir-2026-198-grae-?oga=true",
     "status": "matched"
   },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000143250205": {
@@ -1662,7 +1619,7 @@
     "title": "Principal Scientist - Mid/Large Scale Oligonucleotide Synthesis, xRNA Therapeutics",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-18",
+    "posted_date": "2026-08-17",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -1705,7 +1662,7 @@
     "title": "Business Development Director",
     "company": "KBI Biopharma",
     "location": "Switzerland - Plan-les-Ouates",
-    "posted_date": "2026-08-19",
+    "posted_date": "2026-08-18",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -1804,7 +1761,7 @@
     "title": "Discovery Scientist – Neural Retina & Ocular Disease",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-20",
+    "posted_date": "2026-08-19",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -1832,7 +1789,7 @@
     "title": "Senior Scientist Bio-/Chemical Quality Control",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-08-21",
+    "posted_date": "2026-08-20",
     "department": "",
     "score": -1,
     "matched_keywords": [
@@ -1854,7 +1811,7 @@
     "title": "Associate Director, Search & Evaluation (Immunology)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-21",
+    "posted_date": "2026-08-20",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1927,7 +1884,7 @@
     "title": "AI Scientist – Image Analysis & Digital Pathology",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-25",
+    "posted_date": "2026-08-24",
     "department": "",
     "score": 8,
     "matched_keywords": [
@@ -1949,7 +1906,7 @@
     "title": "AI Scientist – AI-Driven Target Identification",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-25",
+    "posted_date": "2026-08-24",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -1978,7 +1935,7 @@
     "title": "Senior Scientist QA Operations",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-08-25",
+    "posted_date": "2026-08-24",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -1993,7 +1950,7 @@
     "title": "Research Associate In Cellular Assay Development",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-25",
+    "posted_date": "2026-08-24",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -2108,7 +2065,7 @@
     "title": "Scientist Pharmaceutical and Processing Development (2 year fixed term contract)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-26",
+    "posted_date": "2026-08-25",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2195,7 +2152,7 @@
     "title": "Clinical Scientist - Late Stage Development (Ophthalmology)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-28",
+    "posted_date": "2026-08-27",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2211,7 +2168,7 @@
     "title": "Director, Portfolio Analytics",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-27",
+    "posted_date": "2026-08-26",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2289,7 +2246,7 @@
     "title": "Research Scientist, Immunology",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-28",
+    "posted_date": "2026-08-27",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -2352,7 +2309,7 @@
     "title": "Technical R&D Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-29",
+    "posted_date": "2026-08-28",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -2365,7 +2322,7 @@
     "title": "Translational Medicine Expert – Dermatology, Director",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-29",
+    "posted_date": "2026-08-28",
     "department": "",
     "score": 8,
     "matched_keywords": [
@@ -2417,7 +2374,7 @@
     "title": "Senior Computational & Applied AI - Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-01",
+    "posted_date": "2026-08-31",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -2435,7 +2392,7 @@
     "title": "Senior AI/ML Data Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-01",
+    "posted_date": "2026-08-31",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -2452,7 +2409,7 @@
     "title": "Therapeutic Area Biomarker Director  – Cardiovascular and Metabolism",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-09-01",
+    "posted_date": "2026-08-31",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -2506,7 +2463,7 @@
     "title": "Technical Development Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "",
+    "posted_date": "2026-09-01",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -2519,7 +2476,7 @@
     "title": "USP Research Scientist II",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "",
+    "posted_date": "2026-09-01",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2608,7 +2565,7 @@
     "title": "Internship Lab Scientist 80-100%",
     "company": "Lonza",
     "location": "CH - Basel",
-    "posted_date": "2026-09-03",
+    "posted_date": "",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -2626,7 +2583,7 @@
     "title": "Medical Affairs Lead ECC",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-09-03",
+    "posted_date": "",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2682,7 +2639,7 @@
     "title": "Associate Director / Director Regulatory Affairs Europe (client dedicated)",
     "company": "Thermo Fisher Scientific",
     "location": "Remote, Switzerland",
-    "posted_date": "2026-09-03",
+    "posted_date": "",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -2690,5 +2647,20 @@
       "location:remote"
     ],
     "deducted_keywords": []
+  },
+  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000147156779": {
+    "description": "Introduction:\nYou will join a multidisciplinary team responsible for developing more efficient superconducting radiofrequency (SRF) cavities for future CERN accelerators. In this hands-on role, after dedicated training in the team you will contribute to the improvement of thin-film coating technologies through the design, fabrication, commissioning and operation of physical vapour deposition (PVD) equipment. \nFunctions:\nDesign mechanical components and coating equipment using 3D CAD tools and produce the associated manufacturing and assembly drawings. \nAssemble, install, test, commission and operate physical vapour deposition coating systems and their associated equipment. \nManufacture and modify metallic and ceramic components using conventional machining and computer numerical control (CNC)-based manufacturing techniques. \nParticipate in coating activities, record operating parameters and document process procedures. \nProcure mechanical components for thin-film coating systems. \nDiagnose faults, carry out maintenance and implement mechanical improvements to existing coating systems.  \nApply the relevant safe.",
+    "external_url": "https://jobs.smartrecruiters.com/CERN/744000147156779-mechanical-technician-te-vsc-scc-2026-188-ld-?oga=true",
+    "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000147154529": {
+    "description": "Introduction:\nYou will join a multidisciplinary team developing the next generation of high-performance superconducting radiofrequency (SRF) cavities. In this role, after dedicated training in the team, you will develop and optimise advanced surface treatments essential to their performance, including chemical polishing, electrochemical polishing and electroplating. You will also contribute to the design, procurement, commissioning, and acceptance of a new surface treatment facility dedicated to SRF components.\nFunctions:\nDevelop, operate and optimise chemical and electrochemical surface-processing techniques for SRF accelerating cavities and their subassemblies.\nOptimise existing processes by developing and conducting laboratory-scale chemical and electrochemical trials, applying multiphysics simulation tools to improve process performance and reproducibility.\nDefine technical requirements and coordinate the design, procurement, testing, commissioning and acceptance of new equipment and facilities for the chemical and electrochemical surface finishing of SRF components.\nDevelop, validate, document and implement operating procedures, process specifications and quality control methods for the surface finishing of SRF components.\nWork closely with engineers, physicists, technicians, safety specialists and external suppliers, communicating results and technical recommendations through reports, reviews and project meetings.\nEnsure that all necessary safety measures and documentation are kept up to date and effectively implemented across existing and new processes and facilities.",
+    "external_url": "https://jobs.smartrecruiters.com/CERN/744000147154529-chemical-engineer-te-vsc-scc-2026-187-ld-?oga=true",
+    "status": "matched"
+  },
+  "https://jobdetails.nestle.com/job/Romont-Senior-Sp%C3%A9cialiste-Qualit%C3%A9-%28HFD%29/1430798533/": {
+    "description": "Chez Nespresso Suisse nous pensons qu’il est possible d’élever l’univers du café et nous voulons contribuer positivement à changer les vies et les paysages pour le mieux. Élu meilleur employeur 2025, nous plaçons chacun de nos 14 000 collaborateurs, sans exception, au cœur de notre réussite. Pour y parvenir, nous adoptons quatre comportements essentiels : « We Inspire, we Care, we Act, and we iNnovate ». Et vous ? Voulez-vous nous accompagner dans cette aventure passionnante ? Rejoignez l’équipe Nespresso ! Et réimaginez la nature du café. Réimaginez votre avenir. \n\n \n\nInstantané du poste\n\n \n\nLieu : Romont, Switzerland\n\nEntité : Centre de Production Nespresso\nTaux : Temps plein 100%\n\nType de contrat : Contrat indéterminé\n\n \n\n \n\nCe que nous offrons chez Nespresso\n\n \n\nDe réelles opportunités d’évolution de carrière et de développement personnel\n\nUn cadre de travail flexible facilitant la créativité et la collaboration\n\nUne culture fondée sur la bienveillance et l’inclusivité, où chacun peut être soi-même\n\nLa qualité et la durabilité au cœur de notre identité et une vision essentielle pour favoriser le changement positif L’opportunité de travailler pour une entreprise certifiée B Corp, et l'une des marques les plus fiables et appréciées à l’échelle mondiale.\n\n \n\nDécouvrez notre page Linkedin : Nespresso Centres de production\n\nDécouvrez nos métiers : Métiers Nespresso - YouTube\n\n \n\nRésumé du poste\n\n \n\nEn tant que Senior Spécialiste Qualité (H/F/D) vous serez responsable des activités de libération et de traitement des non-conformités des emballages et café vert.\n\n \n\nUne journée dans la vie d’un.e Senior Spécialiste Qualité (H/F/D)\n\n \n\nRéaliser les activités de libération des matières d’emballage et des ingrédients\n\nAssurer la gestion et le suivi des non-conformités emballage\n\nDéclencher et gérer les plans d’amélioration avec les fournisseurs\n\nÊtre le point de contact qualité de la zone café vert et gérer les activités qui en découlent\n\nDéployer les démarches de résolution de problèmes\n\nRéaliser des audits internes et externes\n\n \n\n \n\n \n\nVos atouts pour réussir\n\n \n\nDiplôme d’Ingénieur ou expérience confirmée dans le domaine qualité, de la production de l’emballage\n\nConnaissance du procédé de transformation du café, un atout\n\nFort intérêt pour le terrain et sensibilité pour la qualité\n\nConnaissance des systèmes qualité (SAP, WMS, DMO)\n\nCompétences en résolution de problème dans le domaine de la gestion des risques alimentaires\n\nCapacité à travailler dans des équipes interfonctionnelles\n\nCompétences en leadership et proactivité reconnues\n\nAnglais courant C1 exigé (oral et écrit)\n\n \n\nAvantages\n\n \n\n5 semaines de vacances\n\nPossibilité de formation et de développement internes\n\nCaisse de pension avec excellentes contributions de l’employeur\n\nParticipation financière à l’assurance maladie\n\nPolitique parentalité avantageuse\n\nRestaurant d’entreprise sur place avec menus à prix subventionnés\n\nParking gratuit et bornes de recharge pour voitures électriques\n\nNombreux avantages auprès du Club Nespresso\n\n \n\nChez Nespresso, nous avons bâti une culture fondée sur la bienveillance et l’inclusion, où chacun peut être soi-même, tout en grandissant avec l’entreprise. Nous innovons, nous osons essayer de nouvelles choses, nous apprenons et évoluons dans un environnement numérique et connecté où tout va très vite. Au sein d’une équipe diverse regroupant plus de 90 nationalités dans 58 pays, vous pouvez prendre part à cette culture innovante, dans laquelle les personnes se soutiennent et s’entraident. Une culture dans laquelle chacun est encouragé à remettre en question le statu quo et à avoir un impact sur l’avenir de l’une des plus grandes entreprises durables au monde. Quel que soit le rôle que vous jouerez, vous découvrirez que vous pouvez réellement changer les choses et partager votre enthousiasme. Rejoignez ce lieu où vous pourrez vous épanouir, trouver une appartenance et l’inspiration pour devenir le meilleur de vous-même et vous surpasser.",
+    "external_url": "https://jobdetails.nestle.com/job/Romont-Senior-Sp%C3%A9cialiste-Qualit%C3%A9-%28HFD%29/1430798533/",
+    "status": "matched"
   }
 }
