@@ -668,7 +668,8 @@
     "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Scientist-Synthesis-Automation_202606-116089-1": "ignored",
     "https://jobs.smartrecruiters.com/CERN/744000141240306-scientific-associateship-theoretical-physics-?oga=true": "ignored",
     "https://jobs.smartrecruiters.com/CERN/744000141238697-corresponding-associateship-in-theoretical-physics?oga=true": "ignored",
-    "https://jobs.smartrecruiters.com/CERN/744000143050369-thin-film-materials-scientist-te-vsc-scc-2026-133-grap-?oga=true": "ignored"
+    "https://jobs.smartrecruiters.com/CERN/744000143050369-thin-film-materials-scientist-te-vsc-scc-2026-133-grap-?oga=true": "ignored",
+    "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Lengnau-Switzerland/Senior-Scientist-Bio--Chemical-Quality-Control_R-01364276": "ignored"
   },
   "_generic:Hurdle Bio": {
     "keywords": "biomarker,precision medicine"
@@ -1422,11 +1423,6 @@
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000141910971-doctoral-student-programme-2027-1?oga=true",
     "status": "matched"
   },
-  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000141909887": {
-    "description": "En tant que Cheffe ou Chef de clinique titulaire d’un titre de spécialiste en néphrologie, vous assurez les activités cliniques à tour de rôle en néphrologie ambulatoire, hospitalière, hypertension, en dialyse ou en transplantation.\nVous faites preuve de résilience, de sens clinique et d’une grande capacité d’analyse dans la prise en charge de situations parfois complexes. Grâce à votre sens de l’organisation et à votre capacité à prioriser, vous assurez efficacement vos activités cliniques tout en répondant aux multiples sollicitations (patients et patientes, téléphones, correspondances, réunions).\nVous évoluez dans un environnement exigeant, à l’interface des soins, de l’enseignement et de la recherche. À ce titre, vous collaborez étroitement avec l’ensemble de l’équipe médico-soignante et veillez à une communication claire, fluide et respectueuse, tant avec vos collègues qu’avec les patientes et patients, en adaptant votre discours à leur compréhension.\nEn vous appuyant sur votre esprit d’équipe, vous faites preuve de solidarité face aux imprévus. En tant que cheffe ou chef de clinique, vous participez activement à la supervision et à la formation des médecins internes du département de médecine dans le domaine de la néphrologie et hypertension, en adoptant une posture de mentorat et en partageant votre expertise. Vous avez une activité de première ligne. Vous assurez les activités d'enseignement dans le domaine de la néphrologie (AMC, Forum, UIDC, APP, examens, stagiaires).",
-    "external_url": "https://jobs.smartrecruiters.com/HUG/744000141909887-chef-ou-cheffe-de-clinique-avec-titre-de-specialite-en-nephrologie-100-?oga=true",
-    "status": "matched"
-  },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000141933839": {
     "description": "Introduction\nYou will ensure the availability and reliability of CERN's cryogenic installations by providing daily technical support, maintaining industrial instrumentation systems and diagnosing complex electrical faults. You will also contribute to the design and optimisation of low-voltage electrical cabinets and components, in compliance with electrical safety standards.\nFunctions\nContribute to the technical design and development of electrical cabinets for cryogenic systems, including the calculation to dimension the electrical systems, producing detailed electrical drawings, selecting components and ensuring compliance with electrical safety requirements.\nParticipate in and supervise the fabrication, installation and commissioning of electrical and instrumentation systems for cryogenic installations, including related procurement activities such as evaluating cost estimates and ordering component.\nProvide daily operational support for cryogenic installations and contribute to the stand-by duty service to resolve urgent issues (including fault-finding, implementation of fixes, and reporting to the operation team).\nPlan and coordinate preventive and corrective maintenance activities for system components, setting maintenance priorities and keep the corresponding technical documentation and procedures up to date.\nSelect and implement industrial instrumentation systems and carry out equipment testing and calibration according to operational requirements.",
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000141933839-electromechanical-technician-for-cryogenics-te-crg-ic-2026-176-ld-?oga=true",
@@ -1587,24 +1583,6 @@
     "description": "Introduction:\nYou will develop and operate CERN's next-generation machine learning platform, enabling scientists and engineers to train, deploy and manage AI workloads at scale. Working with cutting-edge technologies including Kubernetes, GPUs and cloud-native tools, you will help build the infrastructure supporting machine learning for the High-Luminosity LHC.\nFunctions:\nDevelop and operate the NGT machine learning platform, covering model training, hyper-parameter optimisation and serving, targeting optimal usage of detector resources.\nManage cluster resources, integrate new resources, on-premises or via external resources (such as clouds or HPC centers), and optimise resource usage (e.g. via CPU/GPU/RAM affinity layouts) and the existing MLOps workflows to cover deployment, observability and lifecycle management & versioning of models.\nExtend the cloud native infrastructure to support advanced workload scheduling, system monitoring & accounting, as well as prompt cost control.\nProduce and present reference architectures, documentation and best practices to support CERN users and use cases.\nEnsure efficient collaboration with other groups in `IT and in other departments, as well as constant alignment with the evolving landscape of external research and industry organisations.",
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000143461559-machine-learning-engineer-for-next-generation-triggers-ngt-it-cd-pi-2026-177-ld-?oga=true",
     "status": "matched"
-  },
-  "/job/Basel-City/Principal-Scientist---Mid-Large-Scale-Oligonucleotide-Synthesis--xRNA-Therapeutics_REQ-10084190-1": {
-    "description": "Salary Range:CHF93,800.00 - CHF174,200.00\n\n \nJob Description Summary#LI-Onsite\n\nLocation: Basel, Switzerland\n\nRole Purpose:\nNovartis xRNA Therapeutics is seeking a passionate, highly motivated and experienced PhD-level scientist to lead mid/large scale oligonucleotides synthesis activities and manage a team at our Basel site to support our xRNA Therapeutics development. This role requires extensive collaboration within a multidisciplinary environment, bridging research and development to enable the discovery and advancement of innovative RNA therapies that address significant unmet medical needs.\n\n \nJob Description\nKey Responsibilities\n\nPlan and execute medium- and large-scale solid-phase synthesis, purification, and analysis of chemically modified oligonucleotides (siRNAs, ASOs, and other emerging synthetic modalities) and conjugates to support our xRNA therapeutics portfolio.\n\nMentor and lead a team of scientists specialized in oligonucleotide synthesis, purification, analysis, and conjugation at millimole scale.\n\nCollaborate with global discovery, development, and project teams to advance novel oligonucleotide chemistries and facilitate their successful transition from research into development.\n\nIdentify and implement innovative technologies, workflows, and manufacturing approaches to enhance operational excellence, production capabilities, and turnaround times of siRNA, ASO and other oligonucleotide modalities supporting in vivo and preclinical studies.\n\nCommunicate scientific findings and project updates effectively to internal and external stakeholders through presentations, technical reports, and patent applications.\n\nMaintain high-quality scientific documentation, including electronic laboratory notebooks (ELNs), experimental protocols, technical reports, and project summaries.\n\nFoster a culture of scientific excellence, collaboration, continuous learning, and solution-oriented problem solving.\n\nQualifications and Requirements:\n\nPh.D. in Chemistry or related disciplines with a strong focus on oligonucleotide chemistry and synthesis.\n\nMinimum 2–3 years of industry experience and proven expertise in mid- large-scale oligonucleotide solid phase synthesis, purification, analysis, conjugation, and other related processes.\n\nExtensive experience operating and maintenance of AKTA Oligopilot/Oligosynt systems and AKTA Avant purification platforms, with strong proficiency in Unicorn software.\n\nStrong hands-on experience with process development, method optimization and scale-up strategies of oligonucleotides.\n\nDemonstrated leadership experience, including mentoring, and team management.\n\nStrong communication skills and ability to work effectively in a matrixed cross-functional global teams’ environment.\n\nBenefits & Rewards \n\n \n\nAt Novartis, we’re committed to reimagining medicine together - and rewarding the people who make it happen. \n\n  \n\nExpected Annual Base Salary Range for role: 93,800.00 - 174,200.00 CHF Annual\n\n  \n\nThe base salary offered is determined based on gender-neutral objectives, such as relevant skills, competencies and experience in accordance with the Novartis pay setting policy and upon joining Novartis will be reviewed periodically. \n\n  \n\nIn addition to your base salary, you may be eligible for a performance-based bonus depending on certain performance parameters. \n\n  \n\nThe rewards of being part of our team go far beyond base pay and incentives. We also offer a variety of competitive benefits in kind to help you thrive personally and professionally, such as insurance plans, retirement plans, wellbeing resources and global recognition programs. In addition, we provide flexible and hybrid working options, where possible, and minimum 14 weeks paid parental leave.  \n\nPay equity is a fundamental principle of our employment policy and reflects our commitment to create a diverse, equitable and inclusive environment that treats all employees with dignity and respect, as outlined in our Code of Ethics. \n\n  \n\nRead our brochure to learn more about our global total rewards offering: \n\n  \n\nhttps://www.novartis.com/sites/novartis_com/files/novartis-life-handbook.pdf \n\n  \n\nNote: Benefits and compensation may vary by country and are subject to local legal requirements, including provisions of collective bargaining agreements where applicable. A full overview of your compensation package, including any relevant collective bargaining agreement details applicable to your role based on your employment location and Novartis employer entity, will be communicated separately to you during the application process. \n\n \n\nCommitment to Diversity and Inclusion / EEO paragraph \n\nNovartis is committed to building an outstanding, inclusive work environment and diverse teams’ representative of the patients and communities we serve. \n\nAccessibility and accommodation\nNovartis is committed to working with and providing reasonable accommodation to all individuals. If, because of a medical condition or disability, you need a reasonable accommodation for any part of the recruitment process, or in order to receive more detailed information about the essential functions of a \nposition, please send an e-mail to diversity.inclusion_ch@novartis.com and let us know the nature of your request and your contact information. Please include the job requisition number in your message.\n\n \nSkills DesiredAlgorithms, Analytical Chemistry, Chemical Analysis, Chemical Biology, Chemical Laboratory, Chemical Synthesis, Chemistry, Computational Chemistry, Creativity, Data Analysis, Drug Development, Employee Development, Innovation, Medical Research, Medicinal Chemistry, Mentorship, Oligonucleotides, Oligonucleotide Synthesis, Organic Chemistry, Pharmaceutical Industry, Physics, Project Team Management, Results-Oriented, Science",
-    "external_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Basel-City/Principal-Scientist---Mid-Large-Scale-Oligonucleotide-Synthesis--xRNA-Therapeutics_REQ-10084190-1",
-    "status": "ignored",
-    "title": "Principal Scientist - Mid/Large Scale Oligonucleotide Synthesis, xRNA Therapeutics",
-    "company": "Novartis",
-    "location": "Basel (City)",
-    "posted_date": "2026-08-17",
-    "department": "",
-    "score": 4,
-    "matched_keywords": [
-      "PhD",
-      "drug development",
-      "in vivo",
-      "preclinical"
-    ],
-    "deducted_keywords": []
   },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000143836779": {
     "description": "Imagine getting involved in cutting-edge research and technology before you have left university. Imagine working in an international environment, acquiring skills to bring back to your country.\nAs part of the Science and Technology Facilities Council’s Africa-UK Physics Partnership Programme, funded by the UK Government’s International Science Partnerships Fund, CERN is launching a capacity-building program. This program aims to support advanced studies in Physics, Engineering, and Computer Science for nationals of certain CERN Non-Member States (NMS).\nThe objective of the scheme is to provide opportunities through the award of studentships to encourage young and high-calibre PhD students in particle physics, as well as in applied physics, information technology/computing and engineering from the NMS to allow them to obtain world-class exposure, supervision and training primarily within the Large Hadron Collider (LHC) experiments, without excluding other scientific and technological activities at CERN.\nThe studentships offer the chance to students from one of six African countries to work towards a PhD thesis at their home institution in Africa while spending one year at CERN, at the forefront of science, over the full period of their PhD studies.\nThis is an invitation to PhD students to further their knowledge in a truly unique organization, to get involved in world-famous experiments and accelerator projects of unprecedented scale and scope, and to bring back to their home countries and regions new skills and a varied expertise.\nYou will have the opportunity to work in a diversity of fields at the cutting edge of science and technology: particle physics, applied physics, engineering, information technology/computer science, instrumentation, materials science are but a few of the examples of the many domains in which successful applicants will learn and contribute their knowledge.",
@@ -1784,19 +1762,9 @@
     "external_url": "https://jobs.smartrecruiters.com/HUG/744000144697969-cheffe-ou-chef-de-projet-strategique-80-a-100-?oga=true",
     "status": "matched"
   },
-  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000144697599": {
-    "description": "Vous fournissez des prestations d’évaluation et rééducation aux personnes adultes, soit hospitalisés, soit en ambulatoire, souffrant d'une atteinte du système nerveux central ou périphérique dans les domaines de la voix, de la parole et de la déglutition.\nVotre mission consiste à amener les patients et les patientes à l'indépendance et à l'intégration sociale et professionnelle la mieux adaptée.\nVous assurez la transmission de conseils personnalisés aux patients, patientes et à leurs proches.\nVous participez activement aux échanges interdisciplinaires avec les autres thérapeutes, les équipes soignantes et le personnel médical.",
-    "external_url": "https://jobs.smartrecruiters.com/HUG/744000144697599-logopediste-au-service-d-orl-et-ccf-100-?oga=true",
-    "status": "matched"
-  },
   "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000144697749": {
     "description": "Dans cette mission, en partenariat étroit avec les directions des différentes filières métier, et les responsables du centre de formation et de développement des HUG, vous assurez la gestion d’un portefeuille de projets stratégiques et la mise en place de bonnes pratiques en termes d’ingénierie pédagogique, de conduite de projets de formation institutionnels et de formation des formateurs. En collaboration étroite avec différentes parties prenantes en interne et à l’extérieur de l’institution, vous menez des projets complexes et d’envergure qui enrichissent et qui optimisent l’offre de formation des HUG afin de répondre efficacement aux besoins en développement des compétences du personnel des HUG et des autres publics cibles au sein d’entités partenaires. \nLes dispositifs de formation que vous créez sont efficients et contribuent à l’excellence des compétences du personnel et des prestations des HUG. Dans un contexte hautement compétitif et de pénurie de certains profils, ils permettent de créer une expérience apprenante très favorable à la promotion de la marque employeur. \nEn tant que chef ou cheffe de projet, vous accompagnez les chargées et chargés de formation des différents secteurs ainsi que les membres des Directions dans la refonte de l’offre de formation actuelle et dans la création de nouveaux parcours de formation innovants. Vous déployez des approches collaboratives permettant de faire émerger de nouveaux dispositifs tout en intégrant les besoins à moyen et long terme des apprenants et apprenantes, et en assurant l’opérabilité des différents cursus. Par vos interventions sur le terrain vous facilitez la priorisation des projets et programmes. \nVous soutenez les chefs et cheffes de secteur du CFD et les autres parties prenantes dans la refonte et le développement des différentes prestations en matière de formation, qu’il s’agisse de programmes de formation du personnel de soin spécialisé ou de formation continue pour l’ensemble du personnel des HUG. \nGrâce à votre expertise méthodologique en gestion de projet, vous apportez une structure et une organisation qui garantit le bon fonctionnement des projets transverses et institutionnels confiés au CFD.  Vous êtes garant ou garante de l’organisation et du déroulement des différentes étapes, du suivi des échéances et des livrables ainsi que du pilotage des ressources humaines, financières et matérielles associées à chaque projet. Votre activité de veille active , vous permet de capitaliser sur les différentes méthodologies, technologies éducatives et bonnes pratiques en matière d’ingénierie pédagogique et vous contribuez à la définition et au respect de standards d’excellence dans votre domaine.  \nPour chaque projet d’ingénierie pédagogique, vous assurez la responsabilité des décisions prises et la qualité des livrables, que le projet soit réalisé en interne directement par vos soins ou qu’il soit confié à d’autres personnes sous votre responsabilité ou encore à des prestataires externes. Vous assurez également la conformité de la conduite du projet avec les bonnes pratiques en vigueur ainsi qu’avec les réglementations qui s’appliquent, notamment la loi sur les marchés.",
     "external_url": "https://jobs.smartrecruiters.com/HUG/744000144697749-chefs-ou-cheffes-de-projet-en-ingenierie-pedagogique-80-a-100-?oga=true",
-    "status": "matched"
-  },
-  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000144697449": {
-    "description": "Vous réalisez des examens d'audiologie et de vestibulométrie afin de déterminer l'état fonctionnel des organes, des centres nerveux de l'audition ainsi que du système vestibulaire au moyen d'appareils adéquats.\nVous effectuez les travaux de secrétariat découlant de cette fonction.\nVous collaborez à l'organisation du fonctionnement du laboratoire d'audiologie et de vestibulométrie (horaires, présences, distribution des tâches).\nVous participez aux tâches d'enseignement aux médecins assistants et assistantes, aux chef et cheffes de clinique, logopédistes, collègues et nouveaux collaborateurs et collaboratrices.\nVous procédez au contrôle de qualité des examens réalisés.",
-    "external_url": "https://jobs.smartrecruiters.com/HUG/744000144697449-assistant-ou-assistante-technique-en-audiologie-80-a-100-?oga=true",
     "status": "matched"
   },
   "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000144697469": {
@@ -2620,5 +2588,67 @@
     "description": "En tant que cheffe ou chef de clinique titulaire du titre de spécialiste en chirurgie orthopédique, vous rejoignez l’unité de chirurgie du rachis dans le cadre d’une spécialisation. Cette unité réalise environ 350 interventions de chirurgie de la colonne vertébrale par an, en collaboration avec l’unité d’orthopédie et traumatologie pédiatriques. Elle bénéficie d’une reconnaissance internationale, particulièrement dans les domaines de l’endoscopie rachidienne, de la chirurgie des déformations complexes et de la traumatologie du rachis.\nDans cette fonction, vous assurez une activité clinique complète, incluant les interventions chirurgicales et la prise en charge des patientes et patients intrahospitaliers. Vous contribuez également activement aux projets de l’unité.\nVous faites preuve de rigueur, de sens clinique et d’une grande capacité d’analyse dans la prise en charge de situations parfois complexes, y compris dans la gestion des complications à court terme. Grâce à votre sens de l’organisation et à votre capacité à prioriser, vous assurez efficacement vos activités cliniques tout en répondant aux sollicitations multiples (patients et patientes, téléphones, correspondances, réunions).\nVous évoluez dans un environnement exigeant, à l’interface des soins, de l’enseignement et de la recherche. À ce titre, vous collaborez étroitement avec l’ensemble de l’équipe médico-soignante et veillez à une communication claire, fluide et respectueuse, tant avec vos collègues qu’avec les patientes et patients, en adaptant votre discours à leur compréhension.\nEn vous appuyant sur votre esprit d’équipe, vous faites preuve de solidarité face aux imprévus et aux charges de travail élevées. En tant que cheffe ou chef de clinique, vous participez activement à la supervision et à la formation des médecins internes, en adoptant une posture de mentorat et en partageant votre expertise.\nVous prenez part aux gardes de l’unité de chirurgie du rachis, dans un dispositif coordonné avec le Service de neurochirurgie, notamment dans le cadre de la garde commune pour les urgences rachidiennes.\nL’activité clinique s’inscrit dans un parcours de formation postgraduée structuré et exigeant, visant la spécialisation en chirurgie de la colonne vertébrale. Cet environnement offre des opportunités de développement reconnues, incluant des formations pratiques et théoriques de haut niveau, notamment à travers des collaborations avec la SFITS (Swiss Foundation for Innovation and Training in Surgery).",
     "external_url": "https://jobs.smartrecruiters.com/HUG/744000147305249-chef-ou-cheffe-de-clinique-avec-titre-de-specialite-pour-une-specialisation-rachis-100-?oga=true",
     "status": "matched"
+  },
+  "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-scientist-qa-bern-892890/1": {
+    "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-scientist-qa-bern-892890/1",
+    "status": "matched",
+    "title": "Scientist QA(m/f/d)",
+    "company": "Hays Switzerland",
+    "location": "Bern, Switzerland",
+    "posted_date": "",
+    "department": "",
+    "score": 0,
+    "matched_keywords": [],
+    "deducted_keywords": []
+  },
+  "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-senior-scientist-monitoring-lengnau-890552/1": {
+    "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-senior-scientist-monitoring-lengnau-890552/1",
+    "status": "matched",
+    "title": "Senior Scientist Monitoring(m/f/d)",
+    "company": "Hays Switzerland",
+    "location": "Lengnau, Switzerland",
+    "posted_date": "",
+    "department": "",
+    "score": -2,
+    "matched_keywords": [],
+    "deducted_keywords": [
+      "location:Lengnau, Switzerland"
+    ]
+  },
+  "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-senior-scientist-bcqc-lengnau-berne-880270/1": {
+    "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-senior-scientist-bcqc-lengnau-berne-880270/1",
+    "status": "matched",
+    "title": "Senior Scientist BCQC(m/f/d)",
+    "company": "Hays Switzerland",
+    "location": "Lengnau, Berne, Switzerland",
+    "posted_date": "",
+    "department": "",
+    "score": 0,
+    "matched_keywords": [],
+    "deducted_keywords": []
+  },
+  "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-analytical-project-leader-scientist-senior-scientist-basel-stadt-873611/1": {
+    "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-analytical-project-leader-scientist-senior-scientist-basel-stadt-873611/1",
+    "status": "matched",
+    "title": "Analytical Project Leader (Scientist / Senior Scientist)(m/f/d)",
+    "company": "Hays Switzerland",
+    "location": "Basel Stadt, Switzerland",
+    "posted_date": "",
+    "department": "",
+    "score": 0,
+    "matched_keywords": [],
+    "deducted_keywords": []
+  },
+  "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-vice-president-of-business-development-basel-land-873413/1": {
+    "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-vice-president-of-business-development-basel-land-873413/1",
+    "status": "matched",
+    "title": "Vice President of Business Development(m/f/d)",
+    "company": "Hays Switzerland",
+    "location": "Basel Land, Switzerland",
+    "posted_date": "",
+    "department": "",
+    "score": 0,
+    "matched_keywords": [],
+    "deducted_keywords": []
   }
 }
