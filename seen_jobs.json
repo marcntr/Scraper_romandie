@@ -777,16 +777,6 @@
     "external_url": "https://jobs.smartrecruiters.com/Sobi/744000131421024-senior-director-medicine-development-leader?oga=true",
     "status": "matched"
   },
-  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000132120490": {
-    "description": "Votre activité de neuro-monitorage en continu (électroencéphalographie, potentiels évoquées somesthésiques, Doppler transcrânien) se déroule aux soins intensifs pour des patients et patientes en état critique.\nVous assistez les médecins cheffes et chefs de service et les médecins adjoints et adjointes dans les soins, la coordination des activités pratiques, les interventions cliniques, thérapeutiques ou chirurgicales de la patientèle confiée.\nVous participez au système de gardes.\nVous garantissez des prestations médicales de qualité, tant sur le plan clinique et administratif qu'organisationnel.\nVous participez au développement de la prise en charge globale et interdisciplinaire du patient et de la patiente.\nVous travaillez au sein d'une équipe médicale dont la supervision est assurée par des cadres confirmés.\nVous contribuez au développement de l'enseignement théorique au sein de la clinique.",
-    "external_url": "https://jobs.smartrecruiters.com/HUG/744000132120490-chef-ou-cheffe-de-clinique-avec-ou-sans-titre-de-specialite-au-service-de-neurologie-neuro-monitorage-aux-soins-intensifs-100-?oga=true",
-    "status": "matched"
-  },
-  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000132123040": {
-    "description": "Vous assistez les médecins cheffes et chefs de service et les médecins adjoints et adjointes dans les soins, la coordination des activités pratiques, les interventions cliniques, thérapeutiques ou chirurgicales des patientes et patients qui lui sont confiés.\nVous participez au système de gardes.\nVous supervisez les internes dans la prise en charge de la patientèle ainsi que dans la formation.\nVous garantissez des prestations médicales de qualité, tant sur le plan clinique et administratif qu'organisationnel.\nVous participez au développement de la prise en charge globale et interdisciplinaire du patient et de la patiente.\nVous travaillez au sein d'une équipe médicale dont la supervision est assurée par des cadres confirmés.\nVous contribuez au développement de l'enseignement théorique au sein de la clinique.",
-    "external_url": "https://jobs.smartrecruiters.com/HUG/744000132123040-chef-ou-cheffe-de-clinique-avec-ou-sans-titre-de-specialite-au-service-de-neurologie-100-?oga=true",
-    "status": "matched"
-  },
   "https://www.stettlerconsulting.ch/en/current-vacancies/conseiller-medical-en-urologie-a-definir/": {
     "external_url": "https://www.stettlerconsulting.ch/en/current-vacancies/conseiller-medical-en-urologie-a-definir/",
     "status": "ignored",
@@ -1018,7 +1008,7 @@
     "title": "Staff Scientist - Spectral Cytometry Expert",
     "company": "Labcorp",
     "location": "CHE - Geneva - 7 rue Moise-Marcinhes",
-    "posted_date": "2026-08-08",
+    "posted_date": "2026-08-09",
     "department": "",
     "score": 8,
     "matched_keywords": [
@@ -1124,11 +1114,6 @@
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000142592815-isolde-system-engineer-sy-sti-tsp-2026-131-grap-?oga=true",
     "status": "matched"
   },
-  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000142593799": {
-    "description": "En tant que médecin interne, vous souhaitez préparer votre titre postgrade et nourrissez un intérêt marqué pour une spécialisation en dermatologie et vénéréologie aux côtés de spécialistes. \nSous la supervision des médecins cadres, vous prenez en charge avec rigueur et sens clinique les patientes et patients qui vous sont confiés. Vous développez vos capacités d’analyse en vous confrontant à des situations cliniques parfois complexes. Grâce à votre sens de l’organisation, vous assurez les activités pratiques, les interventions cliniques et thérapeutiques, tout en veillant au strict respect des règles et des procédures internes, dans un souci constant de qualité des prestations médicales apportées. \nÉvoluant dans un environnement universitaire stimulant et exigeant, au sein d’une équipe pluridisciplinaire, vous contribuez également à la formation des médecins stagiaires. Vous collaborez étroitement avec l’ensemble de l’équipe médico-soignante et veillez à maintenir une communication claire, fluide et respectueuse, tant avec vos collègues qu’avec les patientes et patients, en adaptant votre discours à leurs besoins et à leur compréhension. \nEn parallèle de votre activité, vous bénéficiez d'une formation post graduée de qualité contribuant à l'obtention de votre titre de spécialiste FMH. A ce titre, vous faites évoluer votre formation selon le plan de formation et les exigences FMH.",
-    "external_url": "https://jobs.smartrecruiters.com/HUG/744000142593799-medecin-interne-en-dermatologie-et-venereologie-100-?oga=true",
-    "status": "matched"
-  },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000142648619": {
     "description": "Join the Linear and Non-Linear Optics (LNO) Section within CERN's Accelerator and Beam Physics (ABP) Group and help shape the future of the High-Luminosity Large Hadron Collider (HL-LHC). As part of the Optics Measurement and Correction (OMC) team, you will develop advanced software and analysis tools that enable precise beam-optics measurements and corrections, as well as improve commissioning procedures.\nYour work will play a key role in ensuring the safe, reliable, and high-performance operation of the HL-LHC, contributing directly to the successful delivery of its novel physics programme.\nYour responsibilities\nMaintain and extend the core OMC framework and toolset used during LHC commissioning and operation.\nExplore software solutions to improve the efficiency and capability of optics measurement and corrections in the LHC.\nUpdate accelerator model creation and correction algorithms to utilise new simulation tools.\nExplore the viability of automation for key measurement and analysis workflows, implementing solutions where possible.\nDevelop new GUIs and analysis tools to be used in the CERN Control Centre during optics commissioning.\nParticipate in, and contribute to the analysis of, optics measurements in the CERN accelerators.\nYour profile\nBackground in programming and software design, with experience in Python.\nFamiliarity with version control systems and collaborative workflows (Github).\nExperience of GUI development.\nKnowledge of particle accelerator physics and operation would be an advantage.\nSkills\nSoftware development. in Python.\nGUI development\nAbility to test, diagnose and optimise existing software.\nStructured approach towards work, good prioritisation skills to deliver results on required time-lines.\nAbility and willingness to share knowledge and participate in knowledge transfer activities.\nStrong teamwork and communication skills.\nInterest in developing and maintaining software solutions for applied physics, particularly the field of accelerator physics.\nSpoken and written English or French, with a commitment to learn the other language.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nYou have a professional background in Physics, Software Engineering (or a related field) and have either:\na Master's degree with 2 to 6 years of post-graduation professional experience;\nor a PhD with no more than 3 years of post-graduation professional experience.\nYou have never had a CERN fellow or graduate contract before.",
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000142648619-software-developer-beam-optics-be-abp-lno-2026-132-grap-?oga=true",
@@ -1141,7 +1126,7 @@
     "title": "Application Development Scientist – Reagents (12 months fixed-term contract)",
     "company": "Bio-Techne / Lunaphore",
     "location": "Tolochenaz, Switzerland",
-    "posted_date": "2026-08-11",
+    "posted_date": "2026-08-12",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1836,7 +1821,7 @@
     "title": "Technical Development Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-01",
+    "posted_date": "2026-09-02",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1849,7 +1834,7 @@
     "title": "Principal Scientist, Respiratory Discovery",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-01",
+    "posted_date": "2026-09-02",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -1873,7 +1858,7 @@
     "title": "Postdoctoral Scientist – Vascularized Kidney Organoids (at the Institute of Human Biology (IHB))",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-04",
+    "posted_date": "2026-09-05",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -1893,7 +1878,7 @@
     "title": "Senior AI/ML Data Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-31",
+    "posted_date": "2026-09-01",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1910,7 +1895,7 @@
     "title": "Technical R&D Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-28",
+    "posted_date": "2026-08-29",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1923,7 +1908,7 @@
     "title": "Senior Computational & Applied AI - Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-31",
+    "posted_date": "2026-09-01",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -1941,7 +1926,7 @@
     "title": "Clinical Scientist - Late Stage Development (Ophthalmology)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-27",
+    "posted_date": "2026-08-28",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1957,7 +1942,7 @@
     "title": "Scientist Pharmaceutical and Processing Development (2 year fixed term contract)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-25",
+    "posted_date": "2026-08-26",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1972,7 +1957,7 @@
     "title": "Research Associate In Cellular Assay Development",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-24",
+    "posted_date": "2026-08-25",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1989,7 +1974,7 @@
     "title": "Scientist, Cell Engineering and Phenotypic Screening Models",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-08",
+    "posted_date": "2026-08-09",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -2010,7 +1995,7 @@
     "title": "Discovery Scientist – Neural Retina & Ocular Disease",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-19",
+    "posted_date": "2026-08-20",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -2033,7 +2018,7 @@
     "title": "Senior Regulatory Group Director",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-08",
+    "posted_date": "2026-08-09",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2048,7 +2033,7 @@
     "title": "\"Principal Scientist siRNA Design",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-08",
+    "posted_date": "2026-08-09",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2064,7 +2049,7 @@
     "title": "Cardio-Renal Discovery Area Leader - Expert Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-08",
+    "posted_date": "2026-08-09",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -2085,7 +2070,7 @@
     "title": "Hematology and Safety Biomarker Expert",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-08",
+    "posted_date": "2026-08-09",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -2106,7 +2091,7 @@
     "title": "Senior/Principal Scientist - NMR Expert",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-08",
+    "posted_date": "2026-08-09",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2122,7 +2107,7 @@
     "title": "Technical Expert Portfolio Mgmt, Technical Feasibility and Planning",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-08",
+    "posted_date": "2026-08-09",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -2135,7 +2120,7 @@
     "title": "Patent Attorney",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-08",
+    "posted_date": "2026-08-09",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -2148,7 +2133,7 @@
     "title": "Senior Expert / Senior Principal PKS Data Scientist & Scientific Software Engineer (Dual level posting)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-08",
+    "posted_date": "2026-08-09",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -2169,7 +2154,7 @@
     "title": "Associate Director, Search & Evaluation (Immunology)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-20",
+    "posted_date": "2026-08-21",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2185,7 +2170,7 @@
     "title": "Translational Medicine Expert – Dermatology, Associate Director",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-08",
+    "posted_date": "2026-08-09",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -2208,7 +2193,7 @@
     "title": "AI Scientist – AI-Driven Target Identification",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-24",
+    "posted_date": "2026-08-25",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -2227,7 +2212,7 @@
     "title": "AI Scientist – Image Analysis & Digital Pathology",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-24",
+    "posted_date": "2026-08-25",
     "department": "",
     "score": 8,
     "matched_keywords": [
@@ -2249,7 +2234,7 @@
     "title": "Senior Principal Scientist/Associate Director Clinical PBPK  (Dual Level Posting)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-08",
+    "posted_date": "2026-08-09",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -2268,7 +2253,7 @@
     "title": "Senior Principal Scientist / Associate Director– Soluble Biomarkers, Molecular & Cellular Sciences (MCS)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-11",
+    "posted_date": "2026-08-12",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -2289,7 +2274,7 @@
     "title": "Director, Portfolio Analytics",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-26",
+    "posted_date": "2026-08-27",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2304,7 +2289,7 @@
     "title": "Research Scientist, Immunology",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-27",
+    "posted_date": "2026-08-28",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -2327,7 +2312,7 @@
     "title": "Translational Medicine Expert – Dermatology, Director",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-28",
+    "posted_date": "2026-08-29",
     "department": "",
     "score": 8,
     "matched_keywords": [
@@ -2349,7 +2334,7 @@
     "title": "Therapeutic Area Biomarker Director  – Cardiovascular and Metabolism",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-31",
+    "posted_date": "2026-09-01",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -2373,7 +2358,7 @@
     "title": "Translational Medicine Director/Associate*- Cardiovascular & Metabolic",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-09-03",
+    "posted_date": "2026-09-04",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -2397,7 +2382,7 @@
     "title": "USP Research Scientist II",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-09-01",
+    "posted_date": "2026-09-02",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2413,7 +2398,7 @@
     "title": "Medical Affairs Lead ECC",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-09-02",
+    "posted_date": "2026-09-03",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2429,7 +2414,7 @@
     "title": "Business Development Manager (m/w/d) Neuromodulation – Schweiz",
     "company": "Abbott",
     "location": "Switzerland - Baar",
-    "posted_date": "2026-08-08",
+    "posted_date": "2026-08-09",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -2444,7 +2429,7 @@
     "title": "Director, Medical Affairs, Hemato-Oncology, Europe",
     "company": "BeiGene",
     "location": "Basel",
-    "posted_date": "2026-08-08",
+    "posted_date": "2026-08-09",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -2461,7 +2446,7 @@
     "title": "Executive Director, Regional Medical Lead - Solid Tumors, Medical Affairs, Europe",
     "company": "BeiGene",
     "location": "Basel",
-    "posted_date": "2026-08-08",
+    "posted_date": "2026-08-09",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2482,7 +2467,7 @@
     "title": "Scientist Process Development 12 months fix-term contract 80-100%",
     "company": "Lonza",
     "location": "CH - Basel",
-    "posted_date": "2026-09-04",
+    "posted_date": "2026-09-05",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2498,7 +2483,7 @@
     "title": "Director, Corporate Strategy & Business Development",
     "company": "Alcon",
     "location": "Geneva, Switzerland",
-    "posted_date": "2026-08-08",
+    "posted_date": "2026-08-09",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -2515,7 +2500,7 @@
     "title": "Associate Director / Director Regulatory Affairs Europe (client dedicated)",
     "company": "Thermo Fisher Scientific",
     "location": "Remote, Switzerland",
-    "posted_date": "2026-09-02",
+    "posted_date": "2026-09-03",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -2531,7 +2516,7 @@
     "title": "Senior Scientist Electronic Laboratory Systems",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-08-08",
+    "posted_date": "2026-08-09",
     "department": "",
     "score": -1,
     "matched_keywords": [
@@ -2548,7 +2533,7 @@
     "title": "Senior Scientist microbiological Quality Control",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-08-08",
+    "posted_date": "2026-08-09",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -2563,7 +2548,7 @@
     "title": "R&D Scientist – Scientific Data Analytics (d/f/m)",
     "company": "Danaher",
     "location": "Basel, Switzerland",
-    "posted_date": "2026-08-08",
+    "posted_date": "2026-08-09",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2579,7 +2564,7 @@
     "title": "Business Development Director",
     "company": "KBI Biopharma",
     "location": "Switzerland - Plan-les-Ouates",
-    "posted_date": "2026-08-18",
+    "posted_date": "2026-08-19",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -2654,11 +2639,6 @@
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000147853409-procurement-professional-ipt-pi-su-2026-145-grap-?oga=true",
     "status": "matched"
   },
-  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000147963519": {
-    "description": "En qualité d’infirmier ou infirmière au Service de médecine tropicale et humanitaire (SMTH), votre mission consiste à mener de manière autonome des consultations infirmières de pré-voyage auprès d’une patientèle très diversifiée (expatriés, familles, humanitaires, immunosupprimés).\nVous menez et gérez des consultations infirmières de première ligne de manière autonome, dans le respect des missions, des protocoles et des délégations qui vous sont confiés.\nVous assurez également une activité de conseil aux voyageurs et voyageuses en formulant des recommandations personnalisées en matière de prévention des risques liés au voyage (vaccinations, prophylaxie, mesures d’hygiène, prévention des maladies infectieuses et autres risques sanitaires). Vous participez activement aux campagnes de vaccinations sur différents sites.\nVous travaillez en collaboration avec une équipe pluriprofessionnelle ainsi qu’avec les réseaux de soins internes et externes, notamment les organisations non gouvernementales, les organisations internationales et les partenaires présents au Global Health Campus.\nVotre empathie, votre sens du relationnel et votre capacité à créer un climat de confiance vous permettent de vous positionner comme un partenaire de soins à part entière.\nDoté ou dotée d’une excellente capacité d’adaptation et de l’organisation, vous êtes en mesure de faire face à des flux de patients importants et variables tout en maintenant une prise en charge de qualité. Vous gérez sereinement les imprévus et les situations génératrices de stress.\nVous possédez d’excellentes compétences relationnelles, un sens développé d l’accueil et une communication bienveillante, vous permettant de répondre aux attentes d’une patientèle exigeante et multiculturelle.\nDans le cadre de votre activité, vous êtes amené ou amenée à intervenir sur deux sites.",
-    "external_url": "https://jobs.smartrecruiters.com/HUG/744000147963519-infirmier-ou-infirmiere-service-de-medecine-tropicale-et-humanitaire-smth-100-?oga=true",
-    "status": "matched"
-  },
   "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000147897430": {
     "description": "Vous contribuez aux missions de la Direction des finances (DF) sous la responsabilité hiérarchique de la responsable du pôle Pilotage médico-économique.\nEn votre qualité de responsable du service d'information décisionnelle, vous avez à diriger des équipes d'ingénieurs en informatique et d'économistes statisticiens chargées de mener à bien les missions du service de l'information décisionnelle (SID).\nVous devez définir et mettre en œuvre la stratégie IT décisionnelle en supervisant le développement évolutif et les tâches de maintenance du socle IT décisionnel institutionnel comprenant un entrepôt de données et plusieurs dizaines de tableaux de bord et outils d’analyse pour le pilotage stratégique et opérationnel des HUG dans divers secteurs d’activité clés (pilotage institutionnel, flux patient, qualité des soins, statistiques médicales, secteurs des urgences et des blocs opératoires, finances, ressources humaines, facturation).\nVous dirigez et validez les travaux d’évolutions techniques du socle décisionnel IT. Vous accompagnez l’équipe de développement dans sa montée en compétences, en veillant à l’application des standards, méthodologies, outils et bonnes pratiques de développement en conformité avec les standards définis pour ce socle décisionnel.\nVous devez de plus superviser l’exploitation des données médico-économiques pour soutenir les processus financiers stratégiques de la comptabilité analytique (REKOLE, ITAR-K)\nIl vous faut également garantir les obligations légales de transmission des données médico-économique (par exemple statistique OFS, ANQ, SwissDRG) et des relations avec les organismes externes.\nVous participez à la réduction les délais de facturation et à l’optimisation de la qualité de la facturation en assurant la maintenance évolutive des outils informatiques pour le codage des séjours hospitaliers (liste des cas à coder, alertes aux codeurs et relance de la documentation clinique).\nVous avez à piloter le référentiel organisationnel (POS) du SI hospitalier et améliorer en continue son modèle et sa qualité en lien avec l’IT.\nVous contribuez aux projets d’évolution du système d’information financier (SIF) en assurant des prestations d’assistance à maitrise d’ouvrage (AMOA) pour les projets de la Direction des finances.",
     "external_url": "https://jobs.smartrecruiters.com/HUG/744000147897430-responsable-du-service-d-information-decisionnelle-100-?oga=true",
@@ -2671,7 +2651,7 @@
     "title": "Translational Medicine Expert – Gastroenterology, Associate Director",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-09-07",
+    "posted_date": "2026-09-08",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -2688,7 +2668,7 @@
     "title": "Biomarker Therapeutic Area Head -Neuroscience",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-09-07",
+    "posted_date": "2026-09-08",
     "department": "",
     "score": 10,
     "matched_keywords": [
