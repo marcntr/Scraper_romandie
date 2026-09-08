@@ -1109,11 +1109,6 @@
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000141917339-administrative-student-programme-2027-1?oga=true",
     "status": "matched"
   },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000142592815": {
-    "description": "The STI group develops technologies that enable particle beam production and studies how particle beams interact with materials. Its work supports a wide range of activities, from advanced beam technologies to the development of radioactive ion beams for nuclear and particle physics research.\nIn this role, you will contribute to the upgrade of the ISOLDE Offline Facilities, which are used to develop and test new beam production and manipulation systems before deployment on the accelerator. Working with engineers and physicists, you will coordinate technical activities, support installation and commissioning, and help deliver reliable infrastructure for future radioactive ion beam experiments.\nYour responsibilities\nLead the technical coordination and day-to-day management of the ISOLDE Offline Facilities consolidation project.\nCoordinate activities between different internal technical services and teams.\nFollow project schedules, technical interfaces, procurement activities and installation planning.\nOrganise technical meetings, track actions and communicate project progress to stakeholders.\nEnsure compliance with CERN safety regulations.\nParticipate in the preparation of technical specifications, installation documentation and project reports.\nSupport the integration and commissioning of upgraded beam delivery and target production infrastructure.\nContribute to system testing and acceptance.\nWork closely with physicists, engineers and technicians to ensure successful project delivery.\nParticipate in the commissioning of upgraded systems.\nMore information here.\nYour profile\nProven experience in multidisciplinary engineering projects and accelerator technologies.\nExperience in beam production or beam diagnostics.\nInterest in project management and technical coordination.\nProven ability to understand complex technical systems involving several engineering disciplines.\nKnowledge of scientific instrumentation, vacuum systems, electrical systems or industrial controls is an advantage.\nExperience gained during studies or research in the fields of experimental physics, accelerator physics or scientific instrumentation would be an advantage.\nSkills\nGood organisational and planning skills.\nAbility to coordinate activities involving multiple stakeholders.\nAnalytical approach to solving technical problems.\nAbility to work independently while contributing effectively within multidisciplinary teams.\nAbility to communicate effectively with specialists from different technical domains.\nCapacity to document and report on technical activities and project progress.\nSpoken and written English, with a commitment to learn French.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nYou have a professional background in Physics, Mechanical Engineering (or a related field) and have either:\na Master's degree with 2 to 6 years of post-graduation professional experience;\nor a PhD with no more than 3 years of post-graduation professional experience.\nYou have never had a CERN fellow or graduate contract before.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000142592815-isolde-system-engineer-sy-sti-tsp-2026-131-grap-?oga=true",
-    "status": "matched"
-  },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000142648619": {
     "description": "Join the Linear and Non-Linear Optics (LNO) Section within CERN's Accelerator and Beam Physics (ABP) Group and help shape the future of the High-Luminosity Large Hadron Collider (HL-LHC). As part of the Optics Measurement and Correction (OMC) team, you will develop advanced software and analysis tools that enable precise beam-optics measurements and corrections, as well as improve commissioning procedures.\nYour work will play a key role in ensuring the safe, reliable, and high-performance operation of the HL-LHC, contributing directly to the successful delivery of its novel physics programme.\nYour responsibilities\nMaintain and extend the core OMC framework and toolset used during LHC commissioning and operation.\nExplore software solutions to improve the efficiency and capability of optics measurement and corrections in the LHC.\nUpdate accelerator model creation and correction algorithms to utilise new simulation tools.\nExplore the viability of automation for key measurement and analysis workflows, implementing solutions where possible.\nDevelop new GUIs and analysis tools to be used in the CERN Control Centre during optics commissioning.\nParticipate in, and contribute to the analysis of, optics measurements in the CERN accelerators.\nYour profile\nBackground in programming and software design, with experience in Python.\nFamiliarity with version control systems and collaborative workflows (Github).\nExperience of GUI development.\nKnowledge of particle accelerator physics and operation would be an advantage.\nSkills\nSoftware development. in Python.\nGUI development\nAbility to test, diagnose and optimise existing software.\nStructured approach towards work, good prioritisation skills to deliver results on required time-lines.\nAbility and willingness to share knowledge and participate in knowledge transfer activities.\nStrong teamwork and communication skills.\nInterest in developing and maintaining software solutions for applied physics, particularly the field of accelerator physics.\nSpoken and written English or French, with a commitment to learn the other language.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nYou have a professional background in Physics, Software Engineering (or a related field) and have either:\na Master's degree with 2 to 6 years of post-graduation professional experience;\nor a PhD with no more than 3 years of post-graduation professional experience.\nYou have never had a CERN fellow or graduate contract before.",
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000142648619-software-developer-beam-optics-be-abp-lno-2026-132-grap-?oga=true",
@@ -1126,7 +1121,7 @@
     "title": "Application Development Scientist – Reagents (12 months fixed-term contract)",
     "company": "Bio-Techne / Lunaphore",
     "location": "Tolochenaz, Switzerland",
-    "posted_date": "2026-08-12",
+    "posted_date": "2026-08-11",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1607,20 +1602,6 @@
     "external_url": "https://jobs.smartrecruiters.com/HUG/744000147009829-medecin-adjoint-ou-medecin-adjointe-au-service-de-gastroenterologie-et-d-hepatologie-100-?oga=true",
     "status": "matched"
   },
-  "https://www.michaelpage.ch/fr/job-detail/sp%C3%A9cialiste-facility-management/ref/jn-092026-7095549?lang=en": {
-    "external_url": "https://www.michaelpage.ch/fr/job-detail/sp%C3%A9cialiste-facility-management/ref/jn-092026-7095549?lang=en",
-    "status": "matched",
-    "title": "Spécialiste Facility Management",
-    "company": "Michael Page Switzerland",
-    "location": "Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": -2,
-    "matched_keywords": [],
-    "deducted_keywords": [
-      "location:Switzerland"
-    ]
-  },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000147156779": {
     "description": "Introduction:\nYou will join a multidisciplinary team responsible for developing more efficient superconducting radiofrequency (SRF) cavities for future CERN accelerators. In this hands-on role, after dedicated training in the team you will contribute to the improvement of thin-film coating technologies through the design, fabrication, commissioning and operation of physical vapour deposition (PVD) equipment. \nFunctions:\nDesign mechanical components and coating equipment using 3D CAD tools and produce the associated manufacturing and assembly drawings. \nAssemble, install, test, commission and operate physical vapour deposition coating systems and their associated equipment. \nManufacture and modify metallic and ceramic components using conventional machining and computer numerical control (CNC)-based manufacturing techniques. \nParticipate in coating activities, record operating parameters and document process procedures. \nProcure mechanical components for thin-film coating systems. \nDiagnose faults, carry out maintenance and implement mechanical improvements to existing coating systems.  \nApply the relevant safe.",
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000147156779-mechanical-technician-te-vsc-scc-2026-188-ld-?oga=true",
@@ -1821,7 +1802,7 @@
     "title": "Technical Development Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-02",
+    "posted_date": "2026-09-01",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1834,7 +1815,7 @@
     "title": "Principal Scientist, Respiratory Discovery",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-02",
+    "posted_date": "2026-09-01",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -1858,7 +1839,7 @@
     "title": "Postdoctoral Scientist – Vascularized Kidney Organoids (at the Institute of Human Biology (IHB))",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-05",
+    "posted_date": "2026-09-04",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -1878,7 +1859,7 @@
     "title": "Senior AI/ML Data Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-01",
+    "posted_date": "2026-08-31",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1895,7 +1876,7 @@
     "title": "Technical R&D Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-29",
+    "posted_date": "2026-08-28",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1908,7 +1889,7 @@
     "title": "Senior Computational & Applied AI - Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-01",
+    "posted_date": "2026-08-31",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -1926,7 +1907,7 @@
     "title": "Clinical Scientist - Late Stage Development (Ophthalmology)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-28",
+    "posted_date": "2026-08-27",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1942,7 +1923,7 @@
     "title": "Scientist Pharmaceutical and Processing Development (2 year fixed term contract)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-26",
+    "posted_date": "2026-08-25",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1957,7 +1938,7 @@
     "title": "Research Associate In Cellular Assay Development",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-25",
+    "posted_date": "2026-08-24",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1995,7 +1976,7 @@
     "title": "Discovery Scientist – Neural Retina & Ocular Disease",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-20",
+    "posted_date": "2026-08-19",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -2154,7 +2135,7 @@
     "title": "Associate Director, Search & Evaluation (Immunology)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-21",
+    "posted_date": "2026-08-20",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2193,7 +2174,7 @@
     "title": "AI Scientist – AI-Driven Target Identification",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-25",
+    "posted_date": "2026-08-24",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -2212,7 +2193,7 @@
     "title": "AI Scientist – Image Analysis & Digital Pathology",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-25",
+    "posted_date": "2026-08-24",
     "department": "",
     "score": 8,
     "matched_keywords": [
@@ -2253,7 +2234,7 @@
     "title": "Senior Principal Scientist / Associate Director– Soluble Biomarkers, Molecular & Cellular Sciences (MCS)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-12",
+    "posted_date": "2026-08-11",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -2274,7 +2255,7 @@
     "title": "Director, Portfolio Analytics",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-27",
+    "posted_date": "2026-08-26",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2289,7 +2270,7 @@
     "title": "Research Scientist, Immunology",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-28",
+    "posted_date": "2026-08-27",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -2312,7 +2293,7 @@
     "title": "Translational Medicine Expert – Dermatology, Director",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-29",
+    "posted_date": "2026-08-28",
     "department": "",
     "score": 8,
     "matched_keywords": [
@@ -2334,7 +2315,7 @@
     "title": "Therapeutic Area Biomarker Director  – Cardiovascular and Metabolism",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-09-01",
+    "posted_date": "2026-08-31",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -2358,7 +2339,7 @@
     "title": "Translational Medicine Director/Associate*- Cardiovascular & Metabolic",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-09-04",
+    "posted_date": "2026-09-03",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -2382,7 +2363,7 @@
     "title": "USP Research Scientist II",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-09-02",
+    "posted_date": "2026-09-01",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2398,7 +2379,7 @@
     "title": "Medical Affairs Lead ECC",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-09-03",
+    "posted_date": "2026-09-02",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2467,7 +2448,7 @@
     "title": "Scientist Process Development 12 months fix-term contract 80-100%",
     "company": "Lonza",
     "location": "CH - Basel",
-    "posted_date": "2026-09-05",
+    "posted_date": "2026-09-04",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2500,7 +2481,7 @@
     "title": "Associate Director / Director Regulatory Affairs Europe (client dedicated)",
     "company": "Thermo Fisher Scientific",
     "location": "Remote, Switzerland",
-    "posted_date": "2026-09-03",
+    "posted_date": "2026-09-02",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -2564,7 +2545,7 @@
     "title": "Business Development Director",
     "company": "KBI Biopharma",
     "location": "Switzerland - Plan-les-Ouates",
-    "posted_date": "2026-08-19",
+    "posted_date": "2026-08-18",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -2651,7 +2632,7 @@
     "title": "Translational Medicine Expert – Gastroenterology, Associate Director",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-09-08",
+    "posted_date": "",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -2668,7 +2649,7 @@
     "title": "Biomarker Therapeutic Area Head -Neuroscience",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-09-08",
+    "posted_date": "",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -2698,5 +2679,10 @@
     "deducted_keywords": [
       "location:Switzerland"
     ]
+  },
+  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000148145749": {
+    "description": "As a Detector Safety Physicist, you will become part of a small multidisciplinary team responsible for the Detector Safety System (DSS) of the ATLAS experiment.\nYou will be in charge of the upgrade, commissioning, and definition of the safety systems for the new ATLAS sub-detectors, while contributing to the upgrade of the detector infrastructure for Run 4 operation.\nThis position offers an excellent opportunity for an experienced graduate to gain hands-on experience with applied electronics projects and contribute to large-scale industrial infrastructures in a cutting-edge technological environment.\nYour responsibilities:\nLead the Detector Safety System (DSS) testing and commissioning activities with different sub-systems.\nMonitor the installation of cables used for signals exchanged between the DSS and the different sub-systems.\nDesign safety matrices for new sub-systems in collaboration with safety and detector experts.\nImprove monitoring systems in the ATLAS galleries, including water leak detection systems.\nUpgrade central infrastructure components in the ATLAS galleries.\nParticipate in the regular maintenance of fire, evacuation, gas, and Oxygen Deficiency Hazard (ODH) safety systems.\nFollow up on and present the progress of work carried out by the DSS team to the ATLAS Safety and Technical Coordination teams.\nThis role includes team supervision responsibilities.\nYour profile:\nExperience with safety system chains, including analogue and digital sensors, alarms, and interlocks.\nExperience in the wiring and testing of Programmable Logic Controller (PLC) systems.\nKnowledge of industrial communication protocols, such as I²C and SPI.\nExperience with electrical and thermal matching of components to circuit board requirements.\nExperience in the development, manufacturing, and assembly of electronic boards.\nExperience operating detector systems in a large-scale collaborative environment.\nSkills:\nAbility to follow procedures and remain calm in stressful situations.\nStrong teamwork skills, with the ability to work effectively in multidisciplinary teams of scientists and engineers.\nFamiliarity with WinCC OA or similar SCADA systems, as well as OPC UA servers.\nStrong verbal and written communication skills to convey research findings clearly.\nPractical knowledge of Python software development would be an advantage.\nSpoken and written English, with a commitment to learn French.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nYou have a professional background in Applied Physics (or a related field) and have either:\na Master's degree with 2 to 6 years of post-graduation professional experience;\nor a PhD with no more than 3 years of post-graduation professional experience.\nYou have never had a CERN fellow or graduate contract before.",
+    "external_url": "https://jobs.smartrecruiters.com/CERN/744000148145749-detector-safety-physicist-ep-atl-so-2026-148-grap-?oga=true",
+    "status": "matched"
   }
 }
