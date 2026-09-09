@@ -1123,7 +1123,7 @@
     "title": "Application Development Scientist – Reagents (12 months fixed-term contract)",
     "company": "Bio-Techne / Lunaphore",
     "location": "Tolochenaz, Switzerland",
-    "posted_date": "2026-08-12",
+    "posted_date": "2026-08-11",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1134,11 +1134,6 @@
     "deducted_keywords": [
       "location:Tolochenaz, Switzerland"
     ]
-  },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000143097109": {
-    "description": "This position focuses on the development and deployment of beam optimisation and machine learning (ML) tools for the CERN ion accelerator complex. The objective is to transform expert-driven optimisation and ML methods into reliable operational solutions that enhance beam performance and support high-intensity operation.\nYour responsibilities\nContribute to the development and improvement of beam optimisation software tools for particle accelerators.\nAnalyse operational and instrumentation data to identify opportunities for improving beam performance and efficiency.\nParticipate in the testing, validation and deployment of optimisation and ML tools in an operational environment.\nDevelop automated procedures for accelerator setup, tuning and performance monitoring.\nCollaborate with accelerator physicists, operators and software developers to understand operational needs and implement practical solutions.\nSupport beam commissioning and performance studies by applying data analysis and optimisation techniques.\nDocument software developments, operational procedures and study results.\nPresent progress and results at technical meetings and collaborate with experts from different disciplines.\nYour profile\nExperience with scientific programming and data analysis, preferably using Python.\nFamiliarity with numerical methods, optimisation techniques, or machine learning approaches is an asset.\nInterest in particle accelerators, beam physics, control systems, or large scientific facilities.\nExperience working with scientific software, simulations, or experimental data.\nFamiliarity with software development tools such as version control systems (e.g. Git) is an advantage.\nAbility to analyse complex problems and develop practical solutions.\nExperience working collaboratively in multidisciplinary teams through academic or research projects.\nSkills\nPython.\nScientific computing.\nMachine learning techniques & tools.\nGit.\nLinux.\nExperimental data analysis.\nSpoken and written English, with a commitment to learn French.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nYou have a professional background in Applied Physics, Computer Science (or a related field) and have either:\na Master's degree with 2 to 6 years of post-graduation professional experience;\nor a PhD with no more than 3 years of post-graduation professional experience.\nYou have never had a CERN fellow or graduate contract before.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000143097109-computational-physicist-for-accelerators-be-op-sps-2026-135-grap-?oga=true",
-    "status": "matched"
   },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000143250205": {
     "description": "Introduction\nYou will help shape the next generation of normal-conducting accelerator magnets for the Future Circular Collider (FCC), from design and prototyping through industrialisation and system integration. Working with CERN teams and industrial partners, you will develop scalable manufacturing and procurement strategies and apply lessons learned from the testing, maintenance and renovation of existing accelerator magnets to the development and delivery of reliable, cost-effective FCC magnet systems.\nFunctions\nDesign and develop cost-effective normal-conducting magnet technologies for the FCC, from concept and modelling through prototyping and system integration.\nStudy and propose manufacturing and procurement strategies for FCC magnets, tailored to the scale of the project and targeting an efficient and effective production, installation and maintenance.\nPlan, organise and coordinate the maintenance, repair, testing and modification of existing magnets in operation, including specific renovation campaigns, applying the experience gained to the development of FCC magnets.\nPrepare technical specifications, reports and other engineering documentation, and communicate technical results to relevant stakeholders.",
@@ -1173,11 +1168,6 @@
   "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000143995165": {
     "description": "Vous êtes en cours de formation à la psychothérapie ou vous allez commencer votre formation à la psychothérapie et vous souhaitez faire l’expérience du travail clinique en intra-hospitalier au sein de l’Unité d’hospitalisation du service de psychiatrie de l'enfant et de l'adolescent (SPEA).\nDans l’intra-hospitalier, vous assurez des suivis de familles d’enfants et d’adolescents hospitalisés, vous participez à l’élaboration des projets de soins, aux réunions d’équipe et aux synthèses interdisciplinaires, en collaboration étroite avec les chef.fes de cliniques, les médecins internes et avec l’équipe infirmière.",
     "external_url": "https://jobs.smartrecruiters.com/HUG/744000143995165-psychologue-a-l-unite-d-hospitalisation-du-service-de-psychiatrie-de-l-enfant-et-de-l-adolescent-60-?oga=true",
-    "status": "matched"
-  },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000144085379": {
-    "description": "You will contribute to a proposal covering the design, optimisation, and performance evaluation of a potential future collider at CERN. The role encompasses both beam optics development and beam dynamics simulations, including the study of key effects such as synchrotron radiation, beam-beam interactions, and impedance.\nYour responsibilities\nContribute to the conceptual design phase of the study, supporting the development and assessment of the collider design.\nPropose optimisations of the linear and nonlinear beam optics of the collider, including tune scans and multi-objective optimisation of the dynamic aperture, as well as optimising collider parameters to maximise machine performance and operational robustness.\nPerform particle tracking studies for the collider across its operating energy range, including the effects of beam-beam interactions, synchrotron radiation, and beam impedance.\nInvestigate key accelerator physics challenges for the collider, drawing on experience from the FCC-ee study.\nYour profile\nKnowledge of beam dynamics in synchrotrons and/or storage rings.\nExperience with some of the key beam dynamics effects relevant to lepton colliders, such as transverse coupling, beam-beam interactions, synchrotron radiation, or beam impedance.\nExperience in setting up, performing, and interpreting particle tracking simulations for accelerator physics studies.\nSkills\nExperience with accelerator physics simulation and analysis tools, such as MAD-X, ELEGANT, pyAT, Xsuite, or equivalent software.\nExperience in running and managing large-scale simulations on high-performance computing (HPC) systems.\nStrong communication and collaboration skills, with the ability to work effectively in an international, multidisciplinary environment.\nAbility to present technical and scientific results clearly, both orally and in writing.\nSpoken and written English, with a commitment to learn French.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nYou have a professional background in Physics (or a related field) and have either:\na Master's degree with 2 to 6 years of post-graduation professional experience;\nor a PhD with no more than 3 years of post-graduation professional experience.\nYou have never had a CERN fellow or graduate contract before.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000144085379-accelerator-physicist-be-abp-cei-2026-136-grap-?oga=true",
     "status": "matched"
   },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000144096269": {
@@ -1738,7 +1728,7 @@
     "title": "Technical Development Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-02",
+    "posted_date": "2026-09-01",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1751,7 +1741,7 @@
     "title": "Principal Scientist, Respiratory Discovery",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-02",
+    "posted_date": "2026-09-01",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -1775,7 +1765,7 @@
     "title": "Postdoctoral Scientist – Vascularized Kidney Organoids (at the Institute of Human Biology (IHB))",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-05",
+    "posted_date": "2026-09-04",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -1795,7 +1785,7 @@
     "title": "Senior AI/ML Data Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-01",
+    "posted_date": "2026-08-31",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1812,7 +1802,7 @@
     "title": "Technical R&D Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-29",
+    "posted_date": "2026-08-28",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1825,7 +1815,7 @@
     "title": "Senior Computational & Applied AI - Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-01",
+    "posted_date": "2026-08-31",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -1843,7 +1833,7 @@
     "title": "Clinical Scientist - Late Stage Development (Ophthalmology)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-28",
+    "posted_date": "2026-08-27",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1859,7 +1849,7 @@
     "title": "Research Associate In Cellular Assay Development",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-25",
+    "posted_date": "2026-08-24",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1897,7 +1887,7 @@
     "title": "Discovery Scientist – Neural Retina & Ocular Disease",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-20",
+    "posted_date": "2026-08-19",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -2056,7 +2046,7 @@
     "title": "Associate Director, Search & Evaluation (Immunology)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-21",
+    "posted_date": "2026-08-20",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2095,7 +2085,7 @@
     "title": "AI Scientist – AI-Driven Target Identification",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-25",
+    "posted_date": "2026-08-24",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -2133,7 +2123,7 @@
     "title": "Senior Principal Scientist / Associate Director– Soluble Biomarkers, Molecular & Cellular Sciences (MCS)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-12",
+    "posted_date": "2026-08-11",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -2154,7 +2144,7 @@
     "title": "Director, Portfolio Analytics",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-27",
+    "posted_date": "2026-08-26",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2169,7 +2159,7 @@
     "title": "Research Scientist, Immunology",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-28",
+    "posted_date": "2026-08-27",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -2192,7 +2182,7 @@
     "title": "Translational Medicine Expert – Dermatology, Director",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-29",
+    "posted_date": "2026-08-28",
     "department": "",
     "score": 8,
     "matched_keywords": [
@@ -2214,7 +2204,7 @@
     "title": "Therapeutic Area Biomarker Director  – Cardiovascular and Metabolism",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-09-01",
+    "posted_date": "2026-08-31",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -2238,7 +2228,7 @@
     "title": "Translational Medicine Director/Associate*- Cardiovascular & Metabolic",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-09-04",
+    "posted_date": "2026-09-03",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -2262,7 +2252,7 @@
     "title": "USP Research Scientist II",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-09-02",
+    "posted_date": "2026-09-01",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2278,7 +2268,7 @@
     "title": "Medical Affairs Lead ECC",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-09-03",
+    "posted_date": "2026-09-02",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2347,7 +2337,7 @@
     "title": "Scientist Process Development 12 months fix-term contract 80-100%",
     "company": "Lonza",
     "location": "CH - Basel",
-    "posted_date": "2026-09-05",
+    "posted_date": "2026-09-04",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2411,7 +2401,7 @@
     "title": "Business Development Director",
     "company": "KBI Biopharma",
     "location": "Switzerland - Plan-les-Ouates",
-    "posted_date": "2026-08-19",
+    "posted_date": "2026-08-18",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -2498,7 +2488,7 @@
     "title": "Translational Medicine Expert – Gastroenterology, Associate Director",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "",
+    "posted_date": "2026-09-07",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -2515,7 +2505,7 @@
     "title": "Biomarker Therapeutic Area Head -Neuroscience",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "",
+    "posted_date": "2026-09-07",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -2605,7 +2595,7 @@
     "title": "Associate Principal Scientist Analytical Project Lead 12 months fix-term contract 80-100%",
     "company": "Lonza",
     "location": "CH - Basel",
-    "posted_date": "2026-09-09",
+    "posted_date": "",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2673,5 +2663,28 @@
     "description": "Location: Vevey, Switzerland\nWork model: Hybrid/[Full time\nContract type / duration: Permanent\n\n \n\nStart date: As soon as possible\n\nDeadline for applications:  12 / 07 /2026\n\n \n\nBe a force for good and accelerate change that improves lives and the planet.\n\n \n\nAs a Global Medical Affairs Lead – Diabetes & Obesity at Nestlé Nutrition & Health Strategic Business Unit (SBU), your mission is to define and execute the global medical and scientific strategy for the Diabetes & Obesity portfolio across the full product lifecycle. You’ll make a difference by collaborating closely with R&D, commercial teams, local medical teams, and external scientific experts. This is your opportunity to take ownership, grow your expertise, and drive evidence-based innovation that improves patient and population health outcomes at scale.\n\n \n\nHow you’ll make an impact as a Global Medical Affairs Lead – Diabetes & Obesity\n\n \n\nLeading the global medical strategy by shaping evidence generation and guiding product development across the lifecycle\n\nDriving cross-functional alignment by connecting R&D, commercial and medical teams to deliver impactful outcomes\n\nBuilding strong external engagement by partnering with healthcare professionals, scientific experts and associations\n\nDelivering high-quality medical education and scientific communication to healthcare providers and internal stakeholders\n\nTranslating scientific evidence into clear, relevant content to support markets and influence clinical practice\n\nMonitoring scientific developments and competitive activities to inform strategy and strengthen positioning\n\n \n\nWhat will make you successful\n\n \n\nBringing strong expertise in medical and scientific affairs within clinical nutrition or pharmaceutical environments\n\nApplying the ability to lead evidence generation strategies and translate complex data into actionable insights\n\nUsing strong stakeholder management skills to influence cross-functional teams and external experts\n\nCollaborating effectively in a global, matrix organization to drive alignment and impact\n\nCommunicating fluently in English\n\nBringing collaboration, fresh thinking, bold questions, respect, and a positive, wellbeing-oriented mindset.\n\nDemonstrating courage, collaboration, speed and continuous learning.\n\n \n\nAt Nestlé in Switzerland, we place people at the heart of everything we do. \n\n \n\nOur benefits are designed to support your growth and wellbeing, so you can thrive at work and in life:\n\nFlexible working options, including hybrid work possibilities (for office based roles)\n\nPaid holidays beyond legal requirements\n\nLearning and development opportunities to grow your career\n\nPerformance based bonus\n\nHealthcare contribution and access to the Employee Assistance Program\n\nStrong employer contribution to your pension plan\n\nGenerous parental leave and comprehensive family support solutions\n\nAttractive employee discounts across various products and services\n\n \n\nWhat to expect from our hiring process\n\n \n\nWe are committed to an inclusive and respectful hiring experience and are happy to provide reasonable accommodations if needed. Our workplaces are fully accessible and supported by a strong safety culture, with modern installations and procedures to ensure a safe environment for everyone.\n\nThe hiring process typically includes a video interview with Talent Acquisition, an interview with the hiring team, and a final discussion and offer. We review applications as they are received and close the role once a strong list of relevant candidates is identified, so we encourage you to apply early. All information is treated confidentially.\n\nStay vigilant: Nestlé will only contact candidates via official company email addresses and will never ask for payments or sensitive personal information at any stage of the hiring process.\n\n \n\nReady to Be a Force for Good?\n\n \n\nApply now and accelerate change that improves lives and the planet.",
     "external_url": "https://jobdetails.nestle.com/job/Vevey-Global-Medical-Affairs-Lead-Diabetes-&-Obesity/1408799633/",
     "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000148419889": {
+    "description": "Introduction\nAs an Electrical Works Manager within the Cabling Section, you’ll play a key role in expanding, strengthening, and maintaining CERN’s control and power cable installations, required for various systems within the CERN accelerators, such as alarm systems, process control systems, beam instrumentation and magnet powering systems.\nFunctions\nAnalyse installation and dismantling requests, liaising directly with requestors as needed to complete the required information.\nConduct on-site technical visits to prepare and coordinate the activities. \nPrepare bills of quantities and quotations. \nDevelop comprehensive technical documentation detailing the work to be carried out by CERN's electrical installation contractor. \nManage the logistics required for the activities, such as material delivery, scaffolding setup, and site access. \nCarry out risk assessments related to the execution of the work, identifying potential hazards and defining mitigation measures to ensure safety and compliance with CERN standards. \nSupervise daily activities and report the progress, safety and quality of the works. \nPerform the inspection, testing and acceptance of completed work.​",
+    "external_url": "https://jobs.smartrecruiters.com/CERN/744000148419889-electrical-works-supervisor-en-el-cs-2025-277-ld-?oga=true",
+    "status": "matched"
+  },
+  "https://jobdetails.nestle.com/job/Lausanne-Microbiome-&-Applied-Bioinformatics-Intern/1435126133/": {
+    "description": "Location: Lausanne, Switzerland\n\nContract type / duration: Internship – 6 months\n\nStart Date: ASAP\n\n \n\nBe a force for good and transform your potential into something extraordinary\n\n \n\nAs a Microbiome & Applied Bioinformatics Intern at Nestlé Research, your mission is to build a modular microbiome analysis pipeline by combining scientific literature with AI-supported code development. You will make a difference by collaborating closely with the Health Data Lab team, microbiome scientists, and research partners. This is your opportunity to make an impact while gaining hands-on experience and mentorship to kick-start your career.\n\n \n\nHow you’ll make an impact as a Microbiome & Applied Bioinformatics Intern\n\n \n\nIdentifying state-of-the-art microbiome analysis methods through scientific literature review and responsible use of AI tools\n\nDeveloping and testing modular microbiome bioinformatics pipelines that enable reliable and scalable research workflows\n\nBenchmarking pipeline performance, reproducibility, and scientific accuracy to support robust research outcomes\n\nChallenging AI-generated code and analytical approaches to ensure scientific rigor and sound implementation\n\nCommunicating insights, findings, and recommendations to scientific teams to support innovation and knowledge sharing\n\n \n\nWhat will make you successful\n\n \n\nCurrently pursuing or recently completed a Bachelor's or Master's degree in Bioinformatics, Data Science, Computational Biology, or a related field, with a passion for applying data-driven approaches to scientific challenges\n\nApplying knowledge of scripting, open-source bioinformatics tools, version control platforms, and data analysis techniques to develop practical and effective solutions\n\nWorking with Bash or shell scripting, GitHub, and open source bioinformatics workflows, while demonstrating curiosity for leveraging AI-powered tools to support scientific research and code development\n\nBeing organized, collaborative, and open to feedback, with the ability to think critically, challenge assumptions, and adapt to emerging technologies and scientific questions\n\nCommunicating fluently in English, both written and spoken\n\nDemonstrating courage, collaboration, speed and continuous learning, while translating ideas into measurable impact and creating shared value\n\n \n\nAt Nestlé Research, we place people at the heart of everything we do\n\n \n\nOur benefits are designed to support your growth and wellbeing, so you can thrive at work and in life:\n\nFlexible working options, including hybrid work possibilities (for office-based roles)\n\nLearning and development opportunities to grow your career\n\nHealthcare contribution and access to the Employee Assistance Program\n\nAttractive employee discounts across various products and services\n\n \n\nWhat to expect from our hiring process\n\n \n\nWe are committed to an inclusive and respectful hiring experience and are happy to provide reasonable accommodations if needed. Our workplaces are fully accessible and supported by a strong safety culture, with modern installations and procedures to ensure a safe environment for everyone.\n\nThe hiring process typically includes an interview with Talent Acquisition, an interview with the hiring team, and a final discussion and offer. We review applications as they are received and close the role once a strong list of relevant candidates is identified, so we encourage you to apply early. All information is treated confidentially.\n\nStay vigilant: Nestlé will only contact candidates via official company email addresses and will never ask for payments or sensitive personal information at any stage of the hiring process.\n\n \n\nReady to start your career journey with us?\n\n \n\nApply now and transform your potential into something extraordinary.",
+    "external_url": "https://jobdetails.nestle.com/job/Lausanne-Microbiome-&-Applied-Bioinformatics-Intern/1435126133/",
+    "status": "matched",
+    "title": "Microbiome & Applied Bioinformatics Intern",
+    "company": "Nestlé",
+    "location": "Lausanne, CH",
+    "posted_date": "",
+    "department": "",
+    "score": 7,
+    "matched_keywords": [
+      "Master's degree",
+      "bioinformatics",
+      "computational biology",
+      "location:lausanne"
+    ],
+    "deducted_keywords": []
   }
 }
