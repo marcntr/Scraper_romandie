@@ -9,7 +9,7 @@
     "keywords": "npp"
   },
   "_generic:Charles River Laboratories": {
-    "keywords": "regulatory"
+    "keywords": "regulatory,scientist"
   },
   "_generic:MoonLake Immunotherapeutics": {
     "keywords": "clinical development,medical affairs"
@@ -1123,7 +1123,7 @@
     "title": "Application Development Scientist – Reagents (12 months fixed-term contract)",
     "company": "Bio-Techne / Lunaphore",
     "location": "Tolochenaz, Switzerland",
-    "posted_date": "2026-08-12",
+    "posted_date": "2026-08-11",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1175,29 +1175,9 @@
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000144096269-deep-learning-developer-it-ce-cds-2026-137-grap-?oga=true",
     "status": "matched"
   },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000144245974": {
-    "description": "Join the Automatic Control & Safety (ACS) section of the CERN Industrial Controls group (BE-ICS) and contribute to the control systems for the Primary Gas Systems (PGS) that supply detectors and installations across CERN's Experimental Areas. A central activity is the migration of the LHC Primary Gas Systems to a dedicated Experimental Areas infrastructure, regrouping their development, maintenance and first-line support.\nYou will work across the full control stack - from PLC logic and field instrumentation to WinCC OA supervision - using CERN's model-driven Gas Control System (GCS) and UNICOS-CPC frameworks.\nYour responsibilities\nContribute to the migration of the LHC Primary Gas Systems, covering PLC and SCADA (WinCC OA) development and commissioning.\nDevelop and configure gas-system control applications on Schneider M580 and Siemens S7-1500 PLCs.\nContribute to the specification, I/O definition and instrumentation of primary and detector gas systems and to HMI, touch-panel and notification (email/SMS) development.\nSupport factory and site acceptance testing (FAT/SAT), installation and commissioning in the experimental areas, together with documentation and first-line operational support.\nYour profile\nInterest in industrial control systems and hands-on work with hardware, instrumentation and field installations.\nStrong problem-solving skills and the ability to work within a multidisciplinary team.\nGood communication skills in English, with the ability to document and present technical work clearly.\nSkills\nSome knowledge of PLC programming (IEC 61131-3) on Schneider and/or Siemens platforms, or willingness to learn.\nFamiliarity with SCADA systems (WinCC OA an asset) and industrial communication protocols such as PROFIBUS, PROFINET, Modbus or Flowbus.\nProficiency in a scripting or programming language such as Python.\nInterest in field instrumentation and gas/fluid systems.\nKnowledge of continuous integration (GitLab CI) or model-driven code generation an asset.\nSpoken and written English, with a commitment to learn French.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nBy the application deadline, you have a maximum of two years of professional experience since graduation in Automation, Control Engineering (or a related field) and your highest educational qualification is either a Bachelor's or Master's degree.\nYou have never had a CERN fellow or graduate contract before.\nApplicants without University degree are not eligible.\nApplicants with a PhD are not eligible.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000144245974-junior-automation-controls-engineer-be-ics-acs-2026-206-grae-?oga=true",
-    "status": "matched"
-  },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000144248640": {
-    "description": "Are you passionate about software development and interested in supporting open science and reproducible research at CERN? Join our team that is building and running REANA, an open-source platform for reproducible computational data analyses!\nYour responsibilities:\nParticipate in the frontend and backend development of the REANA reproducible data analysis platform.\nWork closely with physicists to provide support for reusable computational data analysis practices in experiments.\nManage the service deployment and operations on the Kubernetes cloud.\nCollaborate with external institutes and partners working on reproducible data analyses and open science infrastructure.\nYour profile:\nExperience in full-stack software development and with frontend and backend software engineering technologies.\nExperience with container technologies and application deployment, monitoring and security.\nSome familiarity with basic principles of computational research data analyses would be a plus.\nSkills:\nFrontend technologies: React.\nBackend technologies: Python, Go.\nDeployment: Docker, Kubernetes, Helm.\nSpoken and written English, with a commitment to learn French.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nBy the application deadline, you have a maximum of two years of professional experience since graduation in Computer Science or equivalent (or a related field) and your highest educational qualification is either a Bachelor's or Master's degree.\nYou have never had a CERN fellow or graduate contract before.\nApplicants without University degree are not eligible.\nApplicants with a PhD are not eligible.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000144248640-full-stack-software-developer-it-ca-osi-2026-208-grae-?oga=true",
-    "status": "matched"
-  },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000144325467": {
-    "description": "Are you passionate about software development? Are you interested in supporting open science and reproducible computational research across Europe? Join our team working on the open-source REANA platform for reproducible computational data analyses! You will specifically take part in the nascent European Open Science Cloud (EOSC) Federation and the EOSC Mesh project which is designing federated digital infrastructures to cross-link research environments across Europe.\nYour responsibilities\nAs a full-stack developer in our team, you will:\nCollaborate with European Open Science Cloud project partners on developing cross-node federated analysis workflow infrastructure and support corresponding scientific use cases.\nParticipate in the evolution the CERN Node of the EOSC Federation, allowing researchers to analyse more than 5 petabytes of open data from experimental particle physics.\nContribute to the service deployment, operations and monitoring on the Kubernetes cloud.\nWork closely with researchers to provide support for cross-node computational data analysis examples.\nParticipate in the operation and development of the REANA reproducible data analysis platform.\nMore information here.\nYour profile\nExperience in full-stack software development and with frontend and backend software engineering technologies.\nExperience with container technologies and application deployment, monitoring and security.\nSome familiarity with basic principles of computational research data analyses would be a plus.\nSome prior experience working in European Commission co-funded projects would be a plus.\nSkills\nStrong problem-solving and communication skills, with an interest in collaborative open-source development.\nFrontend development technologies: React.\nBackend development technologies: Python, Go.\nApplication deployment: Docker, Kubernetes, Helm.\nSpoken and written English, with a commitment to learn French.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nBy the application deadline, you have a maximum of two years of professional experience since graduation in Computer Science or equivalent (or a related field) and your highest educational qualification is either a Bachelor's or Master's degree.\nYou have never had a CERN fellow or graduate contract before.\nApplicants without University degree are not eligible.\nApplicants with a PhD are not eligible.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000144325467-full-stack-software-developer-it-ca-osi-2026-207-grae-?oga=true",
-    "status": "matched"
-  },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000144324877": {
     "description": "Join CERN's Storage and Data Management group, to develop the next-generation backup solution for services across the laboratory. The Storage and Data Management Group is responsible for enabling data access for the laboratory, in particular the long-term archival, preservation and distribution of LHC data to a worldwide scientific community. CERN, take part!\nAs a Computing Engineer (S3 Storage and Backup Systems), you will join the Tape Archive and Backup (TAB) section, responsible for the CERN Tape Archive software and the management of 1.5 Petabytes of data in cold storage. Your job will include R&D, software development and operations tasks.\nThe Backup team are developing a future on-premises backup solution based on tiered storage accessed via a S3 API. Hot data is kept on disk and cold data will be migrated to cold storage (tape). You will work on solving technical problems, contributing new software features, and testing and commissioning the new system.\nOn the operations side, you will be involved in monitoring and performance analysis, troubleshooting problems and diagnosing the cause of any system failures. This includes interaction with services in the Storage and Data Management group and across CERN.\nYour responsibilities:\nIntegrating backup orchestration with disk and tape storage.\nDeveloping and maintaining software in C++/Linux, client and server.\nSystems integration, configuration management, testing, monitoring and alerting of the new backup system.\nContributing to planning the migration of existing services to the new backup solution.\nParticipating in operations, troubleshooting and support as part of a team.\nContributing to procedures and documentation.\nYour profile:\nYou are experienced in software development with C++ and Python on Linux.\nIdeally you have experience of S3 object storage.\nAdditional experience that would be advantageous: Ceph, systems integration, backup systems, tiered storage systems.\nSkills:\nC++ software development.\nLinux systems administration.\nScripting in Bash and Python.\nSpoken and written English, with a commitment to learn French.\nSkills which would be an advantage (but not required; training will be provided where necessary):\nExperience with S3 API, preferably including cold storage (Glacier) extensions.\nKnowledge of databases (SQL).\nExperience with version control systems (e.g. git).\nExperience with containers (e.g. Kubernetes).\nKnowledge of monitoring tools (e.g. Grafana, Prometheus).\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nBy the application deadline, you have a maximum of two years of professional experience since graduation in Computer Science or Software Engineering (or a related field) and your highest educational qualification is either a Bachelor's or Master's degree.\nYou have never had a CERN fellow or graduate contract before.\nApplicants without University degree are not eligible.\nApplicants with a PhD are not eligible.",
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000144324877-computing-engineer-s3-storage-backup-it-sd-tab-2026-209-grae-?oga=true",
-    "status": "matched"
-  },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000144335285": {
-    "description": "You will contribute to a proposal covering the layout, optics design, performance optimisation and evaluation of a potential future collider at CERN, the Linear Collider Facility @ 380 GeV (LCF380).\nYour responsibilities\nWork on various design aspects of LCF380.\nPerform beam dynamics simulations to demonstrate its performance.\nInvestigate the interaction regions (optics design, layout, for a possible dual beam delivery system) and the damping rings to optimise performance.\nContribute to writing the summary design report.\nYour profile\nKnowledge and understanding of lepton beam dynamics and optics design, including synchrotron radiation.\nKnowledge and experience in the setup, analysis and interpretation of particle tracking studies.\nAnalysis of experimental data.\nSkills\nAccelerator physics codes like MAD, Xsuite, ELEGANT, pyAT, GuineaPig, etc.\nRunning simulations on an HPC.\nGood presentation skills.\nSpoken and written English, with a commitment to learn French.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nYou have a professional background in Physics (or a related field) and have either:\na Master's degree with 2 to 6 years of post-graduation professional experience;\nor a PhD with no more than 3 years of post-graduation professional experience.\nYou have never had a CERN fellow or graduate contract before.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000144335285-accelerator-physicist-be-abp-lno-2026-138-grap-?oga=true",
     "status": "matched"
   },
   "https://api.smartrecruiters.com/v1/companies/Sobi/postings/744000144519859": {
@@ -1708,7 +1688,7 @@
     "title": "Technical Development Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-02",
+    "posted_date": "2026-09-01",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1721,7 +1701,7 @@
     "title": "Principal Scientist, Respiratory Discovery",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-02",
+    "posted_date": "2026-09-01",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -1745,7 +1725,7 @@
     "title": "Postdoctoral Scientist – Vascularized Kidney Organoids (at the Institute of Human Biology (IHB))",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-05",
+    "posted_date": "2026-09-04",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -1765,7 +1745,7 @@
     "title": "Senior AI/ML Data Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-01",
+    "posted_date": "2026-08-31",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1782,7 +1762,7 @@
     "title": "Technical R&D Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-29",
+    "posted_date": "2026-08-28",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1795,7 +1775,7 @@
     "title": "Senior Computational & Applied AI - Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-01",
+    "posted_date": "2026-08-31",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -1813,7 +1793,7 @@
     "title": "Clinical Scientist - Late Stage Development (Ophthalmology)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-28",
+    "posted_date": "2026-08-27",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1829,7 +1809,7 @@
     "title": "Research Associate In Cellular Assay Development",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-25",
+    "posted_date": "2026-08-24",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1867,7 +1847,7 @@
     "title": "Discovery Scientist – Neural Retina & Ocular Disease",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-20",
+    "posted_date": "2026-08-19",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -2026,7 +2006,7 @@
     "title": "Associate Director, Search & Evaluation (Immunology)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-21",
+    "posted_date": "2026-08-20",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2065,7 +2045,7 @@
     "title": "AI Scientist – AI-Driven Target Identification",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-25",
+    "posted_date": "2026-08-24",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -2103,7 +2083,7 @@
     "title": "Senior Principal Scientist / Associate Director– Soluble Biomarkers, Molecular & Cellular Sciences (MCS)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-12",
+    "posted_date": "2026-08-11",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -2124,7 +2104,7 @@
     "title": "Director, Portfolio Analytics",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-27",
+    "posted_date": "2026-08-26",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2139,7 +2119,7 @@
     "title": "Research Scientist, Immunology",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-28",
+    "posted_date": "2026-08-27",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -2162,7 +2142,7 @@
     "title": "Therapeutic Area Biomarker Director  – Cardiovascular and Metabolism",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-09-01",
+    "posted_date": "2026-08-31",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -2186,7 +2166,7 @@
     "title": "Translational Medicine Director/Associate*- Cardiovascular & Metabolic",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-09-04",
+    "posted_date": "2026-09-03",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -2210,7 +2190,7 @@
     "title": "USP Research Scientist II",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-09-02",
+    "posted_date": "2026-09-01",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2279,7 +2259,7 @@
     "title": "Scientist Process Development 12 months fix-term contract 80-100%",
     "company": "Lonza",
     "location": "CH - Basel",
-    "posted_date": "2026-09-05",
+    "posted_date": "2026-09-04",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2343,7 +2323,7 @@
     "title": "Business Development Director",
     "company": "KBI Biopharma",
     "location": "Switzerland - Plan-les-Ouates",
-    "posted_date": "2026-08-19",
+    "posted_date": "2026-08-18",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -2430,7 +2410,7 @@
     "title": "Translational Medicine Expert – Gastroenterology, Associate Director",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-09-08",
+    "posted_date": "2026-09-07",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -2447,7 +2427,7 @@
     "title": "Biomarker Therapeutic Area Head -Neuroscience",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-09-08",
+    "posted_date": "2026-09-07",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -2532,7 +2512,7 @@
     "title": "Associate Principal Scientist Analytical Project Lead 12 months fix-term contract 80-100%",
     "company": "Lonza",
     "location": "CH - Basel",
-    "posted_date": "",
+    "posted_date": "2026-09-08",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2676,7 +2656,7 @@
     "title": "Internship in Global Medical Affairs (for 12 months)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-10",
+    "posted_date": "",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -2695,7 +2675,7 @@
     "title": "Global MSAT DP Pilot Plant Bioprocess Scientist/Engineer (Basel, permanent)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-10",
+    "posted_date": "",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2711,7 +2691,7 @@
     "title": "Senior Legal Counsel – Legal Business Development & Corporate",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-10",
+    "posted_date": "",
     "department": "",
     "score": 0,
     "matched_keywords": [],
