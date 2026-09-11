@@ -1135,11 +1135,6 @@
       "location:Tolochenaz, Switzerland"
     ]
   },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000143250205": {
-    "description": "Introduction\nYou will help shape the next generation of normal-conducting accelerator magnets for the Future Circular Collider (FCC), from design and prototyping through industrialisation and system integration. Working with CERN teams and industrial partners, you will develop scalable manufacturing and procurement strategies and apply lessons learned from the testing, maintenance and renovation of existing accelerator magnets to the development and delivery of reliable, cost-effective FCC magnet systems.\nFunctions\nDesign and develop cost-effective normal-conducting magnet technologies for the FCC, from concept and modelling through prototyping and system integration.\nStudy and propose manufacturing and procurement strategies for FCC magnets, tailored to the scale of the project and targeting an efficient and effective production, installation and maintenance.\nPlan, organise and coordinate the maintenance, repair, testing and modification of existing magnets in operation, including specific renovation campaigns, applying the experience gained to the development of FCC magnets.\nPrepare technical specifications, reports and other engineering documentation, and communicate technical results to relevant stakeholders.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000143250205-electromechanical-engineer-normal-conducting-magnets-te-msc-ncm-2026-180-ld-?oga=true",
-    "status": "matched"
-  },
   "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000143270079": {
     "description": "Vous intégrez une unité de soins intrahospitalière des Lits d’intervention de crise (LIC) du Service de psychiatrie de liaison et d’intervention de crise. La mission de cette unité est la prise en charge hospitalière de crise des patients et patientes présentant des idées ou comportements suicidaires. Les LIC proposent une intervention brève, spécialisée et basée sur les preuves (thérapies basées sur la mentalisation, bonnes pratiques cliniques pour le trouble de personnalité borderline).\nEn tant que cheffe ou chef de clinique, vous participez activement au suivi psychiatrique et psychothérapeutique des patients et patientes hospitalisées, tout en assurant la coordination de leur prise en charge avec les partenaires du réseau. Vous jouez un rôle clé dans l’accompagnement des médecins internes, la gestion des flux de patients et la dynamique interprofessionnelle, notamment à travers la réalisation d’entretiens médico-infirmiers. Vous bénéficiez par ailleurs d’un appui clinique régulier grâce aux supervisions assurées par un ou une médecin adjointe.",
     "external_url": "https://jobs.smartrecruiters.com/HUG/744000143270079-chef-ou-cheffe-de-clinique-en-psychiatrie-avec-ou-sans-titre-de-specialite-100-?oga=true",
@@ -1163,11 +1158,6 @@
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000144096269": {
     "description": "Foundation models represent one of the most powerful and promising advancements in Deep Learning, and their application to scientific domains is a rapidly evolving area of research.\nAt CERN's IT-CE group, we are exploring the development of a foundation model tailored to particle physics: one capable of interpreting the behavior of particles within High Energy Physics (HEP) detectors and supporting a wide range of tasks relevant to experimental data processing.\nThis work is carried out in close collaboration with a multidisciplinary team of experts from leading institutes across Europe in the context of TURING, a EC funded project .\n As a successful candidate, you will contribute to the design and training of transformer-based architectures using data from calorimeters, specialised detectors that measure particle energy in collider experiments.\nYour work will involve investigating methodologies such as self-supervised learning to enable multi-task capabilities, while optimising for computational efficiency.\nWe are looking for candidates with a strong background in Computer Science or a closely related field. Experience with Deep Learning, transformer models, or scientific data is highly desirable. This position is available immediately.\nYour responsibilities:\nTake an active role within the TURING project, leading the performance evaluation and use case validation tasks.\nDeveloping a robust prototype capable of generalising across multiple detector use cases.\nContributing to tightening the collaborations with the CERN experimental physics community on the topic of foundation models for HEP.\nYour profile:\nPhD in Data Science, Mathematics or Physics.\nProven experience developing, training, and deploying deep learning models in production environments, with hands-on expertise in neural network architectures, large-scale data processing, model optimisation, and performance evaluation.\nSkills:\nStrong proficiency in Python and deep learning frameworks (PyTorch and/or TensorFlow), machine learning algorithms, data analysis libraries (NumPy, Pandas), GPU-based training, software engineering best practices, Git version control, Docker, and MLOps tools for experiment tracking and model deployment.\nSpoken and written English, with a commitment to learn French.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nYou have a professional background in Data Science, Mathematics or Physics (or a related field) and have either:\na Master's degree with 2 to 6 years of post-graduation professional experience;\nor a PhD with no more than 3 years of post-graduation professional experience.\nYou have never had a CERN fellow or graduate contract before.",
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000144096269-deep-learning-developer-it-ce-cds-2026-137-grap-?oga=true",
-    "status": "matched"
-  },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000144324877": {
-    "description": "Join CERN's Storage and Data Management group, to develop the next-generation backup solution for services across the laboratory. The Storage and Data Management Group is responsible for enabling data access for the laboratory, in particular the long-term archival, preservation and distribution of LHC data to a worldwide scientific community. CERN, take part!\nAs a Computing Engineer (S3 Storage and Backup Systems), you will join the Tape Archive and Backup (TAB) section, responsible for the CERN Tape Archive software and the management of 1.5 Petabytes of data in cold storage. Your job will include R&D, software development and operations tasks.\nThe Backup team are developing a future on-premises backup solution based on tiered storage accessed via a S3 API. Hot data is kept on disk and cold data will be migrated to cold storage (tape). You will work on solving technical problems, contributing new software features, and testing and commissioning the new system.\nOn the operations side, you will be involved in monitoring and performance analysis, troubleshooting problems and diagnosing the cause of any system failures. This includes interaction with services in the Storage and Data Management group and across CERN.\nYour responsibilities:\nIntegrating backup orchestration with disk and tape storage.\nDeveloping and maintaining software in C++/Linux, client and server.\nSystems integration, configuration management, testing, monitoring and alerting of the new backup system.\nContributing to planning the migration of existing services to the new backup solution.\nParticipating in operations, troubleshooting and support as part of a team.\nContributing to procedures and documentation.\nYour profile:\nYou are experienced in software development with C++ and Python on Linux.\nIdeally you have experience of S3 object storage.\nAdditional experience that would be advantageous: Ceph, systems integration, backup systems, tiered storage systems.\nSkills:\nC++ software development.\nLinux systems administration.\nScripting in Bash and Python.\nSpoken and written English, with a commitment to learn French.\nSkills which would be an advantage (but not required; training will be provided where necessary):\nExperience with S3 API, preferably including cold storage (Glacier) extensions.\nKnowledge of databases (SQL).\nExperience with version control systems (e.g. git).\nExperience with containers (e.g. Kubernetes).\nKnowledge of monitoring tools (e.g. Grafana, Prometheus).\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nBy the application deadline, you have a maximum of two years of professional experience since graduation in Computer Science or Software Engineering (or a related field) and your highest educational qualification is either a Bachelor's or Master's degree.\nYou have never had a CERN fellow or graduate contract before.\nApplicants without University degree are not eligible.\nApplicants with a PhD are not eligible.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000144324877-computing-engineer-s3-storage-backup-it-sd-tab-2026-209-grae-?oga=true",
     "status": "matched"
   },
   "https://api.smartrecruiters.com/v1/companies/Sobi/postings/744000144519859": {
@@ -1673,7 +1663,7 @@
     "title": "Technical Development Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-02",
+    "posted_date": "2026-09-01",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1686,7 +1676,7 @@
     "title": "Principal Scientist, Respiratory Discovery",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-02",
+    "posted_date": "2026-09-01",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -1710,7 +1700,7 @@
     "title": "Postdoctoral Scientist – Vascularized Kidney Organoids (at the Institute of Human Biology (IHB))",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-05",
+    "posted_date": "2026-09-04",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -1730,7 +1720,7 @@
     "title": "Senior AI/ML Data Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-01",
+    "posted_date": "2026-08-31",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1747,7 +1737,7 @@
     "title": "Technical R&D Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-29",
+    "posted_date": "2026-08-28",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1760,7 +1750,7 @@
     "title": "Senior Computational & Applied AI - Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-01",
+    "posted_date": "2026-08-31",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -1778,7 +1768,7 @@
     "title": "Clinical Scientist - Late Stage Development (Ophthalmology)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-28",
+    "posted_date": "2026-08-27",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1794,7 +1784,7 @@
     "title": "Research Associate In Cellular Assay Development",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-25",
+    "posted_date": "2026-08-24",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1832,7 +1822,7 @@
     "title": "Discovery Scientist – Neural Retina & Ocular Disease",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-20",
+    "posted_date": "2026-08-19",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -1991,7 +1981,7 @@
     "title": "Associate Director, Search & Evaluation (Immunology)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-21",
+    "posted_date": "2026-08-20",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2030,7 +2020,7 @@
     "title": "AI Scientist – AI-Driven Target Identification",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-25",
+    "posted_date": "2026-08-24",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -2089,7 +2079,7 @@
     "title": "Director, Portfolio Analytics",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-27",
+    "posted_date": "2026-08-26",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2104,7 +2094,7 @@
     "title": "Research Scientist, Immunology",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-28",
+    "posted_date": "2026-08-27",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -2127,7 +2117,7 @@
     "title": "Therapeutic Area Biomarker Director  – Cardiovascular and Metabolism",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-09-01",
+    "posted_date": "2026-08-31",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -2151,7 +2141,7 @@
     "title": "Translational Medicine Director/Associate*- Cardiovascular & Metabolic",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-09-04",
+    "posted_date": "2026-09-03",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -2175,7 +2165,7 @@
     "title": "USP Research Scientist II",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-09-02",
+    "posted_date": "2026-09-01",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2244,7 +2234,7 @@
     "title": "Scientist Process Development 12 months fix-term contract 80-100%",
     "company": "Lonza",
     "location": "CH - Basel",
-    "posted_date": "2026-09-05",
+    "posted_date": "2026-09-04",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2293,7 +2283,7 @@
     "title": "Business Development Director",
     "company": "KBI Biopharma",
     "location": "Switzerland - Plan-les-Ouates",
-    "posted_date": "2026-08-19",
+    "posted_date": "2026-08-18",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -2313,30 +2303,6 @@
     "description": "Introduction/Purpose:\nThe position holder will be office based and is expected to travel occasionally for internal and external meetings, trainings and conferences. It will be the responsibility of the position holder to help develop the presence and recognition of Sobi as a credible partner within the rare disease community through supporting the development of relationships with key stakeholders (especially physicians), as well as authorities and patient access colleagues as well as DACH and HQ staff in a cross functional approach to Sobi’s interactions with all stakeholders (physicians, payers, nurses and patients).\nObjective for the company:\nPropose and implement market access strategies and tactics for all Sobi products that are already launched and marketed in the DACH region in light of the current applicable regulations and the expectations of the health authorities, customers and patients organizations.\nKey Responsibilities:\nWork closely with the local cross-functional product teams as well as with the National Sales Managers to identify pricing and positioning opportunities as well as threats for the Haemophilia franchise, Haematology and Immunology products.\nStrong collaboration with finance, sales and patient access to manage existing and develop new pricing and reimbursement offers and the impact from an economical perspective\nMonitor competitive environment and develop appropriate pricing and contracting strategies for marketed Sobi products to support commercial business goals\nExecute and negotiate pricing and contracting strategies with relevant stakeholders as sick funds or physician associations where needed\nProduce and analyse contract/payer specific reports\nDevelop consultative relationships with key decision makers and stakeholders and leverage Sobi as the preferred partner for innovative contracting models\nIdentify national and regional authorities and stakeholders with responsibility for the pricing and reimbursement of existing and new products and engage appropriately with such bodies together with the Director Patient Access & Engagement DACH to understand requirements and support for optimal pricing and reimbursement\nProactively track key legislative changes and sick fund related changes with potential impact on Sobi’s business\nDevelop and drive local real-world evidence and HEOR strategy as well as respective publication plan to demonstrate reliable insights of health care reality and benefits of modern therapy approaches\nLiase with Marketing and Patient Access to drive materials, fact sheets, cost calculators and other selling tools\nSupport the AMNOG process for Sobi’s pre-launch products by shaping reimbursement strategies, dossiers and benefit assessment process in close collaboration with the pre-launch Patient Access team\nPropose, coordinate and lead AMNOG negotiations with GKV-SV in close collaboration with the pre-launch Patient Access team",
     "external_url": "https://jobs.smartrecruiters.com/Sobi/744000147847790--jr-market-access-manager?oga=true",
     "status": "matched"
-  },
-  "https://gloorlang.starhunter.software/Headhunter/project/job-ad/hash/6a6b16a7042f3": {
-    "external_url": "https://gloorlang.starhunter.software/Headhunter/project/job-ad/hash/6a6b16a7042f3",
-    "status": "ignored",
-    "title": "Associate Director / Senior Regulatory Affairs",
-    "company": "Gloor & Lang",
-    "location": "Basel, Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": 0,
-    "matched_keywords": [],
-    "deducted_keywords": []
-  },
-  "https://gloorlang.starhunter.software/Headhunter/project/job-ad/hash/68b5a83b99a4d": {
-    "external_url": "https://gloorlang.starhunter.software/Headhunter/project/job-ad/hash/68b5a83b99a4d",
-    "status": "ignored",
-    "title": "Regulatory Affairs Manager 80%",
-    "company": "Gloor & Lang",
-    "location": "Basel, Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": 0,
-    "matched_keywords": [],
-    "deducted_keywords": []
   },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000147954679": {
     "description": "Are you eager to grow your skills while contributing to world-leading science? Join the team behind CERN's Identity and Account Management services, which enable thousands of scientists and staff to securely access the tools they need every day to push the boundaries of research.\nYour role will encompass feature design and development (.NET, ReactJS) and service and user support (upgrades, advanced integration support, business continuity). During the contract you will have the opportunity to grow into a service manager role, taking increasing ownership of stakeholder management and contributing to the service roadmap.\nThe specific services in scope of this role are: Group Management, Account Management, Digital Resource Eligibility and Lifecycle Management.\nYour responsibilities:\nFeature development and bug fixes.\nContribution to the technical evolution of services.\nAdvanced user support, including in person consultations with service managers around CERN.\nYour profile:\nExperience with full-stack software development in .NET, ReactJS.\nExperience with version control systems and CI/CD workflows.\nExperience in using OAuth, OIDC or SAML protocols.\nKnowledge of Microsoft Identity Manager (MIM) is an advantage.\nKnowledge of Openshift or Kubernetes is an advantage.\nSkills:\nSoftware development.\nStrong problem-solving and analytical skills.\nCollaborative user support.\nCommunication, working in teams.\nSpoken and written English, with a commitment to learn French.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nBy the application deadline, you have a maximum of two years of professional experience since graduation in Computer Science or Equivalent (or a related field) and your highest educational qualification is either a Bachelor's or Master's degree.\nYou have never had a CERN fellow or graduate contract before.\nApplicants without University degree are not eligible.\nApplicants with a PhD are not eligible.",
@@ -2380,7 +2346,7 @@
     "title": "Translational Medicine Expert – Gastroenterology, Associate Director",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-09-08",
+    "posted_date": "2026-09-07",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -2397,7 +2363,7 @@
     "title": "Biomarker Therapeutic Area Head -Neuroscience",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-09-08",
+    "posted_date": "2026-09-07",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -2482,7 +2448,7 @@
     "title": "Associate Principal Scientist Analytical Project Lead 12 months fix-term contract 80-100%",
     "company": "Lonza",
     "location": "CH - Basel",
-    "posted_date": "2026-09-09",
+    "posted_date": "2026-09-08",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2626,7 +2592,7 @@
     "title": "Internship in Global Medical Affairs (for 12 months)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "",
+    "posted_date": "2026-09-09",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -2645,7 +2611,7 @@
     "title": "Global MSAT DP Pilot Plant Bioprocess Scientist/Engineer (Basel, permanent)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "",
+    "posted_date": "2026-09-09",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2661,7 +2627,7 @@
     "title": "Senior Legal Counsel – Legal Business Development & Corporate",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "",
+    "posted_date": "2026-09-09",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -2694,7 +2660,7 @@
     "title": "Senior Computational & Applied AI Scientist (Real-World Data))",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-11",
+    "posted_date": "",
     "department": "",
     "score": 5,
     "matched_keywords": [
