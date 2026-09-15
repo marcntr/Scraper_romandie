@@ -1164,11 +1164,6 @@
     "matched_keywords": [],
     "deducted_keywords": []
   },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000145187769": {
-    "description": "The EP-ATL-PO section plays a key role in the upgrade and maintenance of the ATLAS detector at the LHC. As a Junior Mechanical Technician, you will support experienced colleagues in mechanical installation and integration activities on the detector and its infrastructure during Long Shutdown 3 (LS3), while gaining hands-on experience in a cutting-edge experimental physics environment.\nYour responsibilities:\nParticipate in large-scale ATLAS detector movements in the experimental cavern and in the installation of access platforms.\nSupport sub-detector installation activities, including handling, transport, and positioning using appropriate lifting and alignment techniques.\nPrepare and set up work areas and tooling, and provide logistical support for detector interventions.\nRead and interpret mechanical drawings, perform basic dimensional checks, and report progress to supervising engineers.\nWhen required, manufacture parts and tooling using conventional machining techniques, such as drilling, milling, and turning.\nYour profile:\nInitial hands-on experience in mechanical assembly, fitting, or maintenance.\nAbility to read and interpret mechanical drawings, blueprints, and 2D/3D CAD models.\nInitial experience with conventional machining techniques and workshop practices.\nBasic metrology skills, including the use of calipers, gauges, and dimensional inspection tools.\nAwareness of occupational health and safety principles in workshop and industrial environments.\nSkills:\nFollow technical procedures, assembly instructions, and work specifications.\nUse of standard hand and power tools for mechanical operations.\nStrong teamwork and communication skills, with the ability to collaborate in an international and multidisciplinary environment.\nRigorous, detail-oriented, and safety-conscious approach to work.\nAccurately document completed work and maintain high quality standards while following technical procedures and safety requirements.\nSpoken and written English or French, with a commitment to learn the basics of the other language.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nBy the application deadline, you have a maximum of two years of professional experience since graduation in Mechanical Engineering or equivalent (or a related field) and your highest educational qualification is a general secondary education diploma.\nYou have never had a CERN fellow or graduate contract before.\nApplicants with a Bachelor's, Master's or PhD degree are not eligible.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000145187769-atlas-detector-installation-technician-ep-atl-po-2026-178-grae-?oga=true",
-    "status": "matched"
-  },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000145298389": {
     "description": "Introduction\nAs part of the Industry, Procurement and Knowledge Transfer (IPT) Department, you will join the Procurement and Industrial Services Group (PI), which is responsible for procuring all supplies and services for the Organization, ensuring that the specified and contractual technical, delivery and performance requirements are met at the lowest possible overall cost whilst achieving balanced industrial returns for CERN Member States and respecting CERN's Procurement Rules. The Group monitors and reports procurement activities and statistics to CERN Management and Member State representatives.\n \nFunctions\nIn the role of Procurement and Contracts Officer, you will:\nAdvise and support the Organization in identifying procurement strategies, ensuring cost efficiency and quality.\nCarry out research to identify and participate in the qualification of potential suppliers.\nPrepare price enquiries, market surveys and invitations to tender in accordance with the Organization's Procurement Rules and on an international basis.\nAnalyse offers, prepare proposals for adjudications and submit these to CERN’s Management.\nEnsure the preparation, negotiation and follow-up of numerous orders and contracts.\nContribute to the advancement of CERN's procurement techniques and tools, influencing their modernisation and optimisation.\nFoster and sustain a wide-ranging network of relationships across diverse levels, both internally and externally, while actively representing CERN in global business events.",
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000145298389-procurement-and-contracts-officer-ipt-pi-su-2026-184-ld-?oga=true",
@@ -1443,11 +1438,6 @@
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000147520539": {
     "description": "The NGT Real-time Reconstruction Revolution will transform the CMS High-Level Trigger into an offline-quality reconstruction facility processing up to 750 kHz of events. To make this sustainable, you will lead the design of two complementary data tiers: a low-level reconstructed format that enables trigger rates several times higher than conventional raw-data output while preserving the the option for future reprocessing, and a compact analysis format to save the full 750 kHz stream of online reconstructed events.\nYour responsibilities:\nDesign next-generation data structures that push the limits of data reduction to save 750 kHz while preserving physics performance and analysis flexibility.\nEnsure all formats are accelerator-native (e.g., structure-of-arrays, SoA) and optimised for high-throughput GPU processing.\nBuild an end-to-end framework to rigorously quantify the impact of lossy compression, with clear metrics, reference analyses, and automated regression tests.\nBenchmark compression/decompression under realistic workloads: CPU/GPU cost, I/O throughput, memory footprint, and latency.\nAdvance lossless compression, leveraging R³-reconstructed objects and pioneering AI/ML techniques.\nYour profile:\nDemonstrated contributions to trigger and/or reconstruction in HEP (or comparable high-throughput scientific software).\nPractical understanding of of end-to-end HEP experiment operations, from detector readout to reconstruction, calibrations, datasets, and final physics results.\nExperience working in a large international collaboration (code review, CI/CD, documentation) is a plus.\nKnowledge with LHC experiments and their data formats is a plus.\nExpertise in data compression techniques is a plus. (lossless and/or lossy).\nExperience applying AI/ML methods (e.g., autoencoders) to data reduction is a plus.\nProficiency in GPU programming and heterogeneous computing is a plus.\nSkills:\nHigh proficiency in C++, Python, and ROOT.\nSolid understanding of event reconstruction, including calibrations and commonly used data formats in HEP.\nSpoken and written English, with a commitment to learn French.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nYou have a professional background in Physics (or a related field) and have either:\na Master's degree with 2 to 6 years of post-graduation professional experience;\nor a PhD with no more than 3 years of post-graduation professional experience.\nYou have never had a CERN fellow or graduate contract before.",
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000147520539-data-reduction-physicist-ep-cms-tdq-2026-146-grap-?oga=true",
-    "status": "matched"
-  },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000147510511": {
-    "description": "The Engineering Department (EN) pushes the boundaries of technology to deliver innovative research tools to the global physics and engineering community. This position is within the Mechanical and Materials Engineering (MME) Group, which maintains and further develops over 40 years of expertise in the mechanical design, manufacturing, and assembly of accelerator and detector devices.\nAs a Mechanical Manufacturing Engineer in the Fabrication Methods and Subcontracting Section (EN-MME-FS), you will be responsible for the fabrication of complex components using a wide range of technologies, including state-of-the-art machining, forming, and welding. Manufacturing may take place either internally in one of the Group's workshops or externally through subcontracting to industry.\nThe role involves visits to suppliers in CERN Member States responsible for manufacturing these components, providing a unique opportunity to work closely with industrial partners and gain exposure to diverse industrial environments.\nYou will join a multidisciplinary team responsible for developing a wide range of equipment and components used at CERN across numerous research and development projects, with a particular focus on preparations for the next Long Shutdown (LS3), during which major upgrades to the accelerator complex will be carried out.\nYour responsibilities:\nCollaborating with project stakeholders (project engineers, designers, draftsmen, etc.) and contributing to the design-for-manufacturing phase to ensure optimal fabrication solutions.\nReview and revise 2D drawings, with particular attention to geometrical dimensioning and tolerancing, in preparation for fabrication.\nContributing to the definition of appropriate make-or-buy strategies to determine whether components should be produced within CERN's facilities or outsourced to industrial partners.\nPreparing technical specifications and related documentation for invitations to tender and price enquiries.\nPreparing fabrication schedules in coordination with relevant stakeholders and following up on internal manufacturing activities.\nLeading preparatory activities for fabrication, such as defining and procuring suitable raw materials and preparing fabrication sequences, including QA/QC aspects.\nManaging subcontracted production carried out by external companies.\nYour profile:\nProficiency in reading and interpreting 2D drawings and 3D CAD models (ISO geometrical dimensioning and tolerancing).\nKnowledge and application of manufacturing methods and work preparation.\nFamiliarity with precision assembly of mechanical structures and equipment.\nExperience in the use of Stainless Steels, Aluminum and Copper Alloys.\nExperience in writing technical specifications and fabrication reports.\nSkills:\nGeometrical dimensioning and tolerancing (ISO GPS standard).\nCNC machining techniques.\nCAD/CAM tools.\nKnowledge of pressure vessels, cryogenic devices, vacuum chambers & UHV components, mechanical structures is considered an asset.\nKnowledge of joining techniques such as welding (TIG, MIG, EBW...) brazing and soldering is considered an asset.\nSpoken and written English, with a commitment to learn French.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nYou have a professional background in Mechanical Engineering (or a related field) and have either:\na Master's degree with 2 to 6 years of post-graduation professional experience;\nor a PhD with no more than 3 years of post-graduation professional experience.\nYou have never had a CERN fellow or graduate contract before.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000147510511-manufacturing-engineer-en-mme-fs-2026-81-grap-?oga=true",
     "status": "matched"
   },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000147474649": {
@@ -1901,7 +1891,7 @@
     "title": "Internship in Global Medical Affairs (for 12 months)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-15",
+    "posted_date": "",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -1920,7 +1910,7 @@
     "title": "Senior Legal Counsel – Legal Business Development & Corporate",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-10",
+    "posted_date": "2026-09-09",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1933,7 +1923,7 @@
     "title": "Senior Computational & Applied AI Scientist (Real-World Data))",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-11",
+    "posted_date": "2026-09-10",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -1952,7 +1942,7 @@
     "title": "Global MSAT DP Pilot Plant Bioprocess Scientist/Engineer (Basel, permanent)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-10",
+    "posted_date": "2026-09-09",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1968,7 +1958,7 @@
     "title": "Postdoctoral Scientist – Vascularized Kidney Organoids (at the Institute of Human Biology (IHB))",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-05",
+    "posted_date": "2026-09-04",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -1988,7 +1978,7 @@
     "title": "Principal Scientist, Respiratory Discovery",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-02",
+    "posted_date": "2026-09-01",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -2012,7 +2002,7 @@
     "title": "Senior Computational & Applied AI - Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-01",
+    "posted_date": "2026-08-31",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -2030,7 +2020,7 @@
     "title": "Research Associate In Cellular Assay Development",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-25",
+    "posted_date": "2026-08-24",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -2047,7 +2037,7 @@
     "title": "Discovery Scientist – Neural Retina & Ocular Disease",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-20",
+    "posted_date": "2026-08-19",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -2250,7 +2240,7 @@
     "title": "Associate Director, Search & Evaluation (Immunology)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-21",
+    "posted_date": "2026-08-20",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2266,7 +2256,7 @@
     "title": "Director, Portfolio Analytics",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-27",
+    "posted_date": "2026-08-26",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2321,7 +2311,7 @@
     "title": "AI Scientist – AI-Driven Target Identification",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-25",
+    "posted_date": "2026-08-24",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -2340,7 +2330,7 @@
     "title": "Translational Medicine Expert – Gastroenterology, Associate Director",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-09-08",
+    "posted_date": "2026-09-07",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -2357,7 +2347,7 @@
     "title": "USP Research Scientist II",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-09-02",
+    "posted_date": "2026-09-01",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2373,7 +2363,7 @@
     "title": "Therapeutic Area Biomarker Director  – Cardiovascular and Metabolism",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-09-01",
+    "posted_date": "2026-08-31",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -2397,7 +2387,7 @@
     "title": "Translational Medicine Director/Associate*- Cardiovascular & Metabolic",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-09-04",
+    "posted_date": "2026-09-03",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -2421,7 +2411,7 @@
     "title": "Biomarker Therapeutic Area Head -Neuroscience",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-09-08",
+    "posted_date": "2026-09-07",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -2498,7 +2488,7 @@
     "title": "Associate Principal Scientist Analytical Project Lead 12 months fix-term contract 80-100%",
     "company": "Lonza",
     "location": "CH - Basel",
-    "posted_date": "2026-09-09",
+    "posted_date": "2026-09-08",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2551,7 +2541,7 @@
     "title": "Business Development Director",
     "company": "KBI Biopharma",
     "location": "Switzerland - Plan-les-Ouates",
-    "posted_date": "2026-08-19",
+    "posted_date": "2026-08-18",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -2603,6 +2593,11 @@
   "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000149268213": {
     "description": "Dans le cadre de votre fonction, vous assistez le responsable administratif et financier (RAF) et intégrez son équipe en collaborant activement à la gestion efficace du pôle de gestion et de ses directions en apportant votre expertise financière. \nVous collaborez à l'élaboration du budget et des objectifs du pôle de gestion ainsi que de ses directions dans le respect du cadre budgétaire fixé et vérifiez leur mise en œuvre. Vous participez au développement d’outils de pilotage et au suivi d'indicateurs et tableaux de bord pour vérifier leur mise en œuvre. Vous identifiez, répertoriez et évaluez l’impact financier des objectifs fixés et des moyens prévus / demandes budgétaires des services afin de les préparer pour les négociations entreprises par le responsable administratif et financier avec les directions concernées. \nVous participez au contrôle de gestion opérationnel des directions, au reporting (financier et activité) et assistez les cadres dans leur gestion opérationnelle. A cette fin, vous analysez les indicateurs de pilotage, les exploitez statistiquement et mettez en évidence les points clés, analysez les écarts (budgets/prévisions/réalisations) et proposez des corrections avec le responsable financier et son adjoint. Vous participez à l'analyse des résultats de la comptabilité de gestion. \nVous réalisez également des analyses économiques et financières ainsi que des business plans en lien avec le développement de l'activité.",
     "external_url": "https://jobs.smartrecruiters.com/HUG/744000149268213-controleur-ou-controleuse-de-gestion-au-pole-de-gestion-dsc-services-cliniques-70-a-100-?oga=true",
+    "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000149516269": {
+    "description": "Drive the modernisation of CERN's Geodetic Metrology data management system, migrating legacy Oracle APEX/PL/SQL applications to a Java/Spring Boot and Angular platform, while leading the redesign of a mission-critical application for CERN's Accelerator Complex.\nYour responsibilities\nAnalyse Oracle APEX pages, processes and PL/SQL packages to understand business workflows and data dependencies.\nImplement Spring Boot REST APIs and Angular Frontend.\nWrite automated tests and apply software quality practices.\nParticipate in the whole software development lifecycle (requirements, design, development, testing), following a modern agile approach to ensure high-quality outcomes.\nInteract with the end-users of the services to understand their needs and help translate those into appropriate software solutions.\nBuild strong partnerships with IT and multidisciplinary teams across CERN to ensure the delivery of reliable, maintainable, and scalable software solutions aligned with current needs and future strategic goals.\nThis role includes team supervision responsibilities.\nMore information here.\nYour profile\nProven experience in designing and developing software applications using Java technologies and modern JavaScript/TypeScript frameworks.\nPractical experience with concurrent and multithreaded programming.\nExperience applying software quality assurance practices and using related tools (code review, preparing tests, deliver high quality documentation, unit tests, clean code, sonarqube).\nExperience in ICT systems architecture and design, including the design of scalable services and APIs.\nFamiliarity with CI/CD pipelines and automated build, test, and deployment workflows.\nExperience with cloud-native technologies, including Kubernetes.\nKnowledge of Oracle APEX would be an asset.\nSkills\nStrong knowledge of the Spring framework ecosystem.\nStrong knowledge of relational database systems, particularly Oracle Database, including proficiency in PL/SQL.\nAbility to design reliable software services following SOLID principles or similar best practices.\nKnowledge of software development lifecycle (SDLC) tools, methodologies, and procedures.\nAbility to deliver high-quality work on time and meet expectations.\nContributes to a positive team environment through an optimistic and constructive attitude while proactively addressing issues.\nSpoken and written English or French, with a commitment to learn the basics of the other language.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nYou have a professional background in Software Engineering (or a related field) and have either:\na Master's degree with 2 to 6 years of post-graduation professional experience;\nor a PhD with no more than 3 years of post-graduation professional experience.\nYou have never had a CERN fellow or graduate contract before.",
+    "external_url": "https://jobs.smartrecruiters.com/CERN/744000149516269-software-developer-java-angular-be-gm-apc-2026-151-grap-?oga=true",
     "status": "matched"
   }
 }
