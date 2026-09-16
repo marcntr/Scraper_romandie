@@ -1122,11 +1122,6 @@
     "external_url": "https://jobs.smartrecruiters.com/HUG/744000144025559-medecin-adjointe-ou-adjoint-a-l-unite-de-medecine-de-la-reproduction-et-d-endocrinologie-gynecologique-100-?oga=true",
     "status": "matched"
   },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000144096269": {
-    "description": "Foundation models represent one of the most powerful and promising advancements in Deep Learning, and their application to scientific domains is a rapidly evolving area of research.\nAt CERN's IT-CE group, we are exploring the development of a foundation model tailored to particle physics: one capable of interpreting the behavior of particles within High Energy Physics (HEP) detectors and supporting a wide range of tasks relevant to experimental data processing.\nThis work is carried out in close collaboration with a multidisciplinary team of experts from leading institutes across Europe in the context of TURING, a EC funded project .\n As a successful candidate, you will contribute to the design and training of transformer-based architectures using data from calorimeters, specialised detectors that measure particle energy in collider experiments.\nYour work will involve investigating methodologies such as self-supervised learning to enable multi-task capabilities, while optimising for computational efficiency.\nWe are looking for candidates with a strong background in Computer Science or a closely related field. Experience with Deep Learning, transformer models, or scientific data is highly desirable. This position is available immediately.\nYour responsibilities:\nTake an active role within the TURING project, leading the performance evaluation and use case validation tasks.\nDeveloping a robust prototype capable of generalising across multiple detector use cases.\nContributing to tightening the collaborations with the CERN experimental physics community on the topic of foundation models for HEP.\nYour profile:\nPhD in Data Science, Mathematics or Physics.\nProven experience developing, training, and deploying deep learning models in production environments, with hands-on expertise in neural network architectures, large-scale data processing, model optimisation, and performance evaluation.\nSkills:\nStrong proficiency in Python and deep learning frameworks (PyTorch and/or TensorFlow), machine learning algorithms, data analysis libraries (NumPy, Pandas), GPU-based training, software engineering best practices, Git version control, Docker, and MLOps tools for experiment tracking and model deployment.\nSpoken and written English, with a commitment to learn French.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nYou have a professional background in Data Science, Mathematics or Physics (or a related field) and have either:\na Master's degree with 2 to 6 years of post-graduation professional experience;\nor a PhD with no more than 3 years of post-graduation professional experience.\nYou have never had a CERN fellow or graduate contract before.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000144096269-deep-learning-developer-it-ce-cds-2026-137-grap-?oga=true",
-    "status": "matched"
-  },
   "https://api.smartrecruiters.com/v1/companies/Sobi/postings/744000144519859": {
     "description": "In this role, you will sit at the important intersection of medical science, regulatory requirements and clear, responsible communication. As Medical Review and Affairs Manager for Switzerland, you will provide medical, scientific and regulatory expertise and act as the legally required person responsible for advertising in accordance with Art. 25 AWV (Arzneimittel-Werbeverordnung).\nYour work will help ensure that promotional and non-promotional materials are scientifically accurate, balanced and aligned with Swiss regulatory requirements. It is a detail-focused role, but one with real impact: by bringing structure, sound judgement and medical expertise to the review process, you will help support high-quality communication around clinical data, scientific evidence and local promotional and non-promotional initiatives.\nWorking closely with colleagues across Medical, Commercial and other functions, you will be a trusted partner in the review and approval of materials, helping teams use scientific information appropriately in both internal and external communications. The role is well suited to someone who enjoys precision, collaboration and the opportunity to make complex information clear, compliant and meaningful.\n \nKey Responsibilities\nAct as the designated Person Responsible for Advertising in accordance with Art. 25 AWV.\nReview and approve promotional and non-promotional materials to ensure scientific accuracy, balance and compliance with Swiss requirements.\nMaintain the legally required archive of promotional materials and act as key contact for Swissmedic on advertising-related matters.\nApply medical and scientific expertise to assess clinical data, scientific evidence and relevant treatment developments.\nProvide medical and scientific guidance to internal teams, including support for KVV Art. 71a–d reimbursement requests where needed.\nSupport local medical, scientific and educational initiatives in line with regional and global objectives.\nCollaborate cross-functionally to ensure consistent, compliant and high-quality scientific communication.",
     "external_url": "https://jobs.smartrecruiters.com/Sobi/744000144519859-medical-review-and-affairs-manager?oga=true",
@@ -1853,7 +1848,7 @@
     "title": "Internship in Global Medical Affairs (for 12 months)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "",
+    "posted_date": "2026-09-14",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -1872,7 +1867,7 @@
     "title": "Senior Legal Counsel – Legal Business Development & Corporate",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-10",
+    "posted_date": "2026-09-09",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1885,7 +1880,7 @@
     "title": "Senior Computational & Applied AI Scientist (Real-World Data))",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-11",
+    "posted_date": "2026-09-10",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -1904,7 +1899,7 @@
     "title": "Global MSAT DP Pilot Plant Bioprocess Scientist/Engineer (Basel, permanent)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-10",
+    "posted_date": "2026-09-09",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1920,7 +1915,7 @@
     "title": "Postdoctoral Scientist – Vascularized Kidney Organoids (at the Institute of Human Biology (IHB))",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-05",
+    "posted_date": "2026-09-04",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -1940,7 +1935,7 @@
     "title": "Principal Scientist, Respiratory Discovery",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-02",
+    "posted_date": "2026-09-01",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -1964,7 +1959,7 @@
     "title": "Senior Computational & Applied AI - Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-01",
+    "posted_date": "2026-08-31",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -1982,7 +1977,7 @@
     "title": "Research Associate In Cellular Assay Development",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-25",
+    "posted_date": "2026-08-24",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1999,7 +1994,7 @@
     "title": "Discovery Scientist – Neural Retina & Ocular Disease",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-20",
+    "posted_date": "2026-08-19",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -2202,7 +2197,7 @@
     "title": "Associate Director, Search & Evaluation (Immunology)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-21",
+    "posted_date": "2026-08-20",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2218,7 +2213,7 @@
     "title": "Director, Portfolio Analytics",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-27",
+    "posted_date": "2026-08-26",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2273,7 +2268,7 @@
     "title": "AI Scientist – AI-Driven Target Identification",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-25",
+    "posted_date": "2026-08-24",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -2292,7 +2287,7 @@
     "title": "Translational Medicine Expert – Gastroenterology, Associate Director",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-09-08",
+    "posted_date": "2026-09-07",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -2309,7 +2304,7 @@
     "title": "USP Research Scientist II",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-09-02",
+    "posted_date": "2026-09-01",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2325,7 +2320,7 @@
     "title": "Therapeutic Area Biomarker Director  – Cardiovascular and Metabolism",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-09-01",
+    "posted_date": "2026-08-31",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -2349,7 +2344,7 @@
     "title": "Translational Medicine Director/Associate*- Cardiovascular & Metabolic",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-09-04",
+    "posted_date": "2026-09-03",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -2373,7 +2368,7 @@
     "title": "Biomarker Therapeutic Area Head -Neuroscience",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-09-08",
+    "posted_date": "2026-09-07",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -2450,7 +2445,7 @@
     "title": "Associate Principal Scientist Analytical Project Lead 12 months fix-term contract 80-100%",
     "company": "Lonza",
     "location": "CH - Basel",
-    "posted_date": "2026-09-09",
+    "posted_date": "2026-09-08",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2503,7 +2498,7 @@
     "title": "Business Development Director",
     "company": "KBI Biopharma",
     "location": "Switzerland - Plan-les-Ouates",
-    "posted_date": "2026-08-19",
+    "posted_date": "2026-08-18",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -2572,25 +2567,6 @@
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000149595304-cern-stfc-non-member-state-doctoral-student-programme?oga=true",
     "status": "matched"
   },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000149610399": {
-    "description": "Job Overview:\nWe are offering one post-doctoral research position in the field of applied physics and engineering. The successful candidates will be working in the Accelerator Systems departments of CERN. They will be performing research in the field of Accelerator Physics and System Design, including but not limited to: \n\n- Design, develop and optimise beam transfer systems supporting CERN's accelerator complex and future accelerator projects.\n\n- Perform accelerator physics studies, including beam optics design, particle tracking and multi-physics simulations, to support system design, validation and performance optimisation.\n\n- Develop functional specifications for beam transfer systems based on accelerator physics requirements and engineering constraints.\n\n- Develop and implement modern commissioning strategies using automation, numerical optimisation and data-driven techniques.\n\n- Analyse beam and system performance to improve beam quality, operational efficiency and system reliability.\nCandidate Profile:\nYou have a strong background in applied physics, engineering or a closely related field.\nYou have research experience in applied physics and engineering, ideally linked to the design, development or operation of experimental systems.\nYou are interested in pursuing a career in research or academia and in taking an active role within a research project.\nYou are motivated to contribute to large-scale experimental programmes in an international research environment.\nTechnical Skills:\nYou have strong analytical and problem-solving skills applied to experimental systems and technologies.\nYou are able to work collaboratively within large, international and multidisciplinary teams.\nYou communicate effectively in a scientific and technical environment.\nYou are able to work independently while contributing to shared project objectives.\nYour PhD is in the fields of Applied Physics and Engineering.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000149610399-ats-research-fellowship-applied-physics-and-engineering?oga=true",
-    "status": "matched",
-    "title": "ATS Research Fellowship: Applied Physics and Engineering",
-    "company": "CERN",
-    "location": "No. 1 Esplanade des Particules, Switzerland",
-    "posted_date": "2026-09-15",
-    "department": "Research",
-    "score": 1,
-    "matched_keywords": [
-      "PhD",
-      "Post-doc",
-      "post-doctoral"
-    ],
-    "deducted_keywords": [
-      "location:No. 1 Esplanade des Particules, Switzerland"
-    ]
-  },
   "https://api.smartrecruiters.com/v1/companies/Sobi/postings/744000149549399": {
     "description": "Key Responsibilities and Scope of the Job\nResponsibilities are listed in order of priority and include, but are not limited to, the following:\n1. Clinical development strategy and study design\nProvide clinical, scientific and strategic input to clinical development plans for the assigned sepsis programme(s), adhering to the highest scientific and ethical standards.\nContribute to the definition of the target population, including immune phenotype / endotype and biomarker-based enrichment strategies, and to the selection of clinically meaningful primary and secondary endpoints (for example all-cause mortality at a pre-specified day, organ support-free days, change in organ dysfunction scores).\nContribute to the evaluation of design options appropriate to acute critical care research, including adaptive, platform and Bayesian approaches, and document the assumptions, effect-size estimates and event-rate expectations on which sample size and feasibility depend.\nCollaborate with the Medical Development Lead (MDL) and Medical Program Lead (MPL) on the overall scientific and medical development strategy.\n2. Study execution, medical oversight and reporting\nAct as the clinical scientific lead for assigned Sobi-sponsored studies. Where the incumbent holds a medical degree and the responsibility is formally delegated, act as Medical Director / Medical Monitor for those studies.\nTake responsibility for planning, designing, conducting (including medical monitoring) and reporting Sobi-sponsored studies, in close collaboration with Clinical Operations, study teams, Regulatory Affairs, Patient Safety and other cross-functional HQ functions.\nAuthor clinical study protocols and clinical study reports, and contribute to statistical analysis plans, informed consent templates and other core study documents.\nSupport operational feasibility specific to intensive care and emergency department settings, including short screening and treatment windows, out-of-hours randomisation, deferred or emergency consent processes where legally permitted, and biomarker and central laboratory logistics.\nPerform ongoing medical review of emerging safety and efficacy data in a population with high background morbidity and mortality, supporting attribution of adverse events, safety review committee and DSMB interactions, and pre-specified interim analyses.\nParticipate in investigator meetings, site training and other study-related activities.\n3. Regulatory and submission activities\nProvide strategic and operational clinical development expertise in interactions with regulatory authorities for assigned products and projects, as requested and appropriate.\nContribute high-quality scientific and medical input to the clinical components of regulatory submissions and to responses to Health Authority questions, including scientific advice, IND applications and marketing authorisation applications.\nMaintain current awareness of applicable regulatory guidance and precedent relevant to acute critical care and sepsis trials, and of expedited pathway options where relevant.\n4. External scientific engagement\nInteract and consult with key opinion leaders in critical care, infectious diseases and immunology, and support or lead advisory boards to inform development plans for new products and indications.\nRepresent Sobi at international conferences and scientific symposia, and support engagement with sepsis-focused scientific societies, research networks and patient advocacy organisations.\n5. Cross-functional and business support\nWhere assigned, provide scientific and medical expertise to other Sobi functions, including Global Safety, Medical Affairs (advisory boards, scientific communications and publications) and Business Development (due diligence of external compounds, M&A evaluation).\n6. Expected ways of working\nBuild and maintain a substantive and current knowledge base in sepsis, critical care and immune dysregulation.\nDevelop productive working relationships within cross-functional HQ teams, with local affiliates and with collaborative partners.\nRole-model the highest scientific and ethical standards and work in accordance with all applicable rules, regulations and internal procedures governing scientific and medical activities.",
     "external_url": "https://jobs.smartrecruiters.com/Sobi/744000149549399-clinical-scientist-sepsis?oga=true",
@@ -2640,7 +2616,7 @@
     "title": "Research Scientist II, Immunology",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-09-16",
+    "posted_date": "",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -2656,11 +2632,6 @@
     ],
     "deducted_keywords": []
   },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000149674939": {
-    "description": "Introduction\nYou will ensure the availability and reliability of CERN's cryogenic installations by providing daily technical support, maintaining industrial instrumentation systems and diagnosing complex electrical faults. You will also contribute to the design and optimisation of low-voltage electrical cabinets and components, in compliance with electrical safety standards.\nFunctions\nContribute to the technical design and development of electrical cabinets for cryogenic systems, including the calculation to dimension the electrical systems, producing detailed electrical drawings, selecting components and ensuring compliance with electrical safety requirements.\nParticipate in and supervise the fabrication, installation and commissioning of electrical and instrumentation systems for cryogenic installations, including related procurement activities such as evaluating cost estimates and ordering component.\nProvide daily operational support for cryogenic installations and contribute to the stand-by duty service to resolve urgent issues (including fault-finding, implementation of fixes, and reporting to the operation team).\nPlan and coordinate preventive and corrective maintenance activities for system components, setting maintenance priorities and keep the corresponding technical documentation and procedures up to date.\nSelect and implement industrial instrumentation systems and carry out equipment testing and calibration according to operational requirements.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000149674939-electromechanical-technician-for-cryogenics-te-crg-ic-2026-176-ld-?oga=true",
-    "status": "matched"
-  },
   "/job/CH---Basel/XMLNAME--Associate--Principal-Scientist-Bioanalytics-80-100-_R79368": {
     "description": "The actual location of this job is in Basel Stücki, Switzerland.\n\nFor our successful Drug Product (DP) focused branch located in Basel and Stein, Switzerland, we have exciting opportunities. Become part of a group that enables its customers to meet some of the greatest challenges in patient treatment and join us by applying for the (Associate) Principal Scientist Bioanalytics position.\n\nWhat you will get:\n\nAn agile career and a dynamic work culture\n\nAn inclusive and ethical workplace\n\nCompensation programs that recognize high performance\n\nWhat you will do:\n\nResponsible for leading and managing pharmaceutical development projects of drug entities within Development Bioanalytics (DevBA) from various customers and in different pre-clinical development phases.\n\nAccountable for the successful delivery of work packages for assigned projects. This includes on-time close out/authorization and provision of required analytical testing results, documents and reports (e.g. establishment and pre-validation, non-GMP batch release and stability studies), leading investigation in compliance with ISO standards\n\nAccountable to independently and proactively address risks and resolve issues of deliverables on time for mitigation, including good communication to all stakeholders potentially affected\n\nRepresents DevBA in Lonza internal project meetings and customer meetings for complex topics as SME (Subject Matter Expert)\n\nSupports the relevant stakeholder (e.g. APL) to maintain all relevant planning tools\n\nWhat we are looking for:\n\nA PhD degree in Biochemistry, Biotechnology, Analytical Science, or related Life Sciences field, or equivalent relevant experience, is required.\n\nExperience working within the Bio-Pharmaceutical industry as a research or technical expert preferably using potency assays for various modalities (Monoclonal Antibodies, Bi/trispecific Antibodies, Enzymes, Peptides, recombinant proteins, ADCs, etc…)\n\nStrong expertise in the set-up, optimization, transfer, and troubleshooting of cell-based assays (CBA), as well as broad knowledge of analytical techniques including mammalian cell culture and ligand-binding assays such as ELISA, enzyme assay and SPR.\n\nGood knowledge in guidelines for analytical methods (ICH Q14 / ICH Q2)\n\nExcellent communication skills, team player, flexibility and ability to manage complexity\n\nFluent in English is a must. Any other languages are a plus\n\nAbout Lonza\nAt Lonza, our people are our greatest strength. With 30+ sites across five continents, our globally connected teams work together every day to manufacture the medicines of tomorrow. Our core values of Collaboration, Accountability, Excellence, Passion and Integrity reflect who we are and how we work together. Everyone’s ideas, big or small, have the potential to improve millions of lives, and that’s the kind of work we want you to be part of.\n\nInnovation thrives when people from all backgrounds bring their unique perspectives to the table. At Lonza, we value diversity and are committed to creating an inclusive environment for all employees. If you’re ready to help turn our customers’ breakthrough ideas into viable therapies, we look forward to welcoming you on board.\n\nReady to shape the future of life sciences? Apply now.",
     "external_url": "https://lonza.wd3.myworkdayjobs.com/Lonza_Careers/job/CH---Basel/XMLNAME--Associate--Principal-Scientist-Bioanalytics-80-100-_R79368",
@@ -2668,12 +2639,41 @@
     "title": "(Associate) Principal Scientist Bioanalytics 80-100%",
     "company": "Lonza",
     "location": "CH - Basel",
-    "posted_date": "2026-09-16",
+    "posted_date": "",
     "department": "",
     "score": 1,
     "matched_keywords": [
       "PhD"
     ],
     "deducted_keywords": []
+  },
+  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000149781204": {
+    "description": "Do you enjoy building, assembling and bringing machines to life?\nJoin CERN and contribute to the development of advanced electro-mechanical equipment used in a unique high-technology environment. Working alongside experienced engineers and technicians, you will take part in the design, assembly, wiring, testing and commissioning of specialised machines, gaining hands-on experience across electrical, mechanical and control systems.\nWe will provide all the training you need. What matters most is your curiosity, practical mindset, and eagerness to learn.\nYour responsibilities\nLearn how to inspect and test advanced materials, carrying out quality checks and measurements to ensure they meet specifications.\nSupport laboratory testing activities and help evaluate how materials behave under different mechanical conditions.\nGain hands-on experience in creating electrical diagrams, wiring equipment, programming PLCs, and commissioning electro-mechanical machines.\nParticipate in the assembly, testing and operation of specialised machinery used in a cutting-edge engineering environment.\nWork with experienced engineers and technicians to integrate new materials into innovative cables and coils for future technologies.\nMore information here.\nYour profile\nBasic experience in electrical testing or material testing.\nBasic experience in reading and drawing of circuit diagrams.\nExperience in the cabling and commissioning of electrical cabinets or machines is an advantage.\nExperience in mechanical assembly is an advantage.\nSkills\nKnowledge in instrumentation and data acquisition is an advantage.\nAble to work independently and in teams.\nReliable and autonomous.\nSpoken and written English or French, with a commitment to learn the other language.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nBy the application deadline, you have a maximum of two years of professional experience since graduation in Electrical and Electronics Engineering (or a related field) and your highest educational qualification is a general secondary education diploma.\nYou have never had a CERN fellow or graduate contract before.\nApplicants with a Bachelor's, Master's or PhD degree are not eligible.",
+    "external_url": "https://jobs.smartrecruiters.com/CERN/744000149781204-electro-mechanical-technician-te-msc-hsd-2026-193-grae-?oga=true",
+    "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000149780079": {
+    "description": "Introduction\nYou will ensure the availability and reliability of CERN's cryogenic installations by providing daily technical support, maintaining industrial instrumentation systems and diagnosing complex electrical faults. You will also contribute to the design and optimisation of low-voltage electrical cabinets and components, in compliance with electrical safety standards.\nFunctions\nContribute to the technical design and development of electrical cabinets for cryogenic systems, including the calculation to dimension the electrical systems, producing detailed electrical drawings, selecting components and ensuring compliance with electrical safety requirements.\nParticipate in and supervise the fabrication, installation and commissioning of electrical and instrumentation systems for cryogenic installations, including related procurement activities such as evaluating cost estimates and ordering component.\nProvide daily operational support for cryogenic installations and contribute to the stand-by duty service to resolve urgent issues (including fault-finding, implementation of fixes, and reporting to the operation team).\nPlan and coordinate preventive and corrective maintenance activities for system components, setting maintenance priorities and keep the corresponding technical documentation and procedures up to date.\nSelect and implement industrial instrumentation systems and carry out equipment testing and calibration according to operational requirements.",
+    "external_url": "https://jobs.smartrecruiters.com/CERN/744000149780079-electromechanical-technician-for-cryogenics-te-crg-ic-2026-176-ld-?oga=true",
+    "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000149783149": {
+    "description": "Job Overview:\nWe are offering one post-doctoral research position in the field of applied physics and engineering. The successful candidates will be working in the Accelerator Systems departments of CERN. They will be performing research in the field of Accelerator Physics and System Design, including but not limited to: \n\n- Design, develop and optimise beam transfer systems supporting CERN's accelerator complex and future accelerator projects.\n\n- Perform accelerator physics studies, including beam optics design, particle tracking and multi-physics simulations, to support system design, validation and performance optimisation.\n\n- Develop functional specifications for beam transfer systems based on accelerator physics requirements and engineering constraints.\n\n- Develop and implement modern commissioning strategies using automation, numerical optimisation and data-driven techniques.\n\n- Analyse beam and system performance to improve beam quality, operational efficiency and system reliability.\nCandidate Profile:\nYou have a strong background in applied physics, engineering or a closely related field.\nYou have research experience in applied physics and engineering, ideally linked to the design, development or operation of experimental systems.\nYou are interested in pursuing a career in research or academia and in taking an active role within a research project.\nYou are motivated to contribute to large-scale experimental programmes in an international research environment.\nTechnical Skills:\nYou have strong analytical and problem-solving skills applied to experimental systems and technologies.\nYou are able to work collaboratively within large, international and multidisciplinary teams.\nYou communicate effectively in a scientific and technical environment.\nYou are able to work independently while contributing to shared project objectives.\nYour PhD is in the fields of Applied Physics and Engineering.",
+    "external_url": "https://jobs.smartrecruiters.com/CERN/744000149783149-ats-research-fellowship-applied-physics-and-engineering?oga=true",
+    "status": "matched",
+    "title": "ATS Research Fellowship: Applied Physics and Engineering",
+    "company": "CERN",
+    "location": "No. 1 Esplanade des Particules, Switzerland",
+    "posted_date": "2026-09-16",
+    "department": "Research",
+    "score": 1,
+    "matched_keywords": [
+      "PhD",
+      "Post-doc",
+      "post-doctoral"
+    ],
+    "deducted_keywords": [
+      "location:No. 1 Esplanade des Particules, Switzerland"
+    ]
   }
 }
