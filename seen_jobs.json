@@ -385,7 +385,7 @@
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-09-10"
+    "cached_at": "2026-09-18"
   },
   "_facets:onehealthineers:SHSJB": {
     "facets": {},
@@ -878,7 +878,7 @@
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-09-10"
+    "cached_at": "2026-09-18"
   },
   "https://jobs.ashbyhq.com/adaptyv/206ef8b0-0a46-4a55-8aa9-ed495c165d53": {
     "description": "Adaptyv is building an automated lab thats let AI agents run biology experiments.\n\nWe're entering the era of agentic science where AI models can now design novel proteins, propose hypotheses, and iterate on experimental results. But they can't run the experiments themselves - that's still a manual, months-long process. We're building the infrastructure that gives AI agents access to the physical world.\n\nWe are one of the fastest growing biotech companies, trusted by leading biopharmas, frontier AI labs, and the techbio companies pushing the field forward. This is a rare chance to help advance some of the most important work happening in biotech today.\n\nOur automated lab is powered by a deep software + hardware stack: lab instruments worth millions of USD reverse-engineered into API-controllable hardware, dozens of devices orchestrated through complex workflows, full observability on everything that happens in the lab, processing pipelines for messy physical-world data, and AI systems that troubleshoot production results and accelerate assay development.\n\nWe’re growing rapidly and are hiring for talented people to scale and support the massive demand for AI-driven wet lab experimentation.\n\n\nABOUT THE ROLE\n\nYou'll build out antibody developability at Adaptyv — the panel of assays that separates a nice binder from a manufacturable, stable, well-behaved therapeutic. Aggregation, thermostability, self-association, polyreactivity, solubility, viscosity, and chemical liabilities: you'll build the experimental stack that flags these early, and make it something customers can order as a product.\n\nThese assays exist today as a scattered, bespoke collection. Your job is to turn them into one coherent, automated, high-throughput developability assessment — and to connect the experimental data to in-silico prediction so the lab and the models reinforce each other. You'll develop the assays hands-on, work with lab automation to scale them, and work with the software and ML teams to model the data and make it useful for protein designers. You'll lead the science and stay at the bench.\n\n\nWHAT YOU'LL DO\n\n - Build and validate a developability assessment panel hands-on: thermostability (DSF/nanoDSF), aggregation and self-association (SEC, HIC, AC-SINS, DLS), polyreactivity/nonspecificity, solubility, and chemical-liability assessment.\n\n - Turn that panel into a productized, high-throughput service customers can order against their antibody campaigns.\n\n - Partner with lab automation to scale and automate the assays for reproducible, fast turnaround.\n\n - Work with the software and ML teams to structure developability data and connect it to computational developability prediction.\n\n - Interpret results and advise customers on liabilities, risk, and what to engineer next.\n\n - Set the scientific standard for what developability data we trust and report.\n\n\nWHAT WE'RE LOOKING FOR\n\n - Deep, hands-on experience assessing antibody developability — you know the assay panel cold and have used it to triage real antibody campaigns.\n\n - Applied industry experience. You've done this in an antibody discovery, engineering, or development setting where decisions and timelines were on the line — not primarily in an academic research project. This is the core requirement.\n\n - Strong grasp of what makes a biologic developable — the link between early biophysical signals and downstream manufacturability and stability.\n\n - Builder who moves fast. You want to stand up new capabilities and productize them, not run a fixed service.\n\n - Interdisciplinary. You collaborate naturally with automation engineers and with software/ML people, and you're excited about closing the loop between wet-lab data and predictive models.\n\n - Data fluency (scripting, working with structured datasets) is a strong plus.\n\n\nDETAILS\n\n - Location: Lausanne, Switzerland (on-site)\n\n - Type: Full time\n\n - Start date: ASAP\n\n\n\nApplication deadline\n\nWe are reviewing applicants on a rolling basis.",
@@ -988,7 +988,7 @@
     "title": "Staff Scientist - Spectral Cytometry Expert",
     "company": "Labcorp",
     "location": "CHE - Geneva - 7 rue Moise-Marcinhes",
-    "posted_date": "2026-08-18",
+    "posted_date": "2026-08-19",
     "department": "",
     "score": 8,
     "matched_keywords": [
@@ -1096,7 +1096,7 @@
     "title": "Application Development Scientist – Reagents (12 months fixed-term contract)",
     "company": "Bio-Techne / Lunaphore",
     "location": "Tolochenaz, Switzerland",
-    "posted_date": "2026-08-18",
+    "posted_date": "2026-08-19",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1434,11 +1434,6 @@
   "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000147499199": {
     "description": "Rattaché ou rattachée au responsable administratif et financier de la DI, vous assurez la gestion administrative et financière courante de la direction. Vous traitez les commandes courantes et les demandes administratives de la direction. Vous gérez également les commandes de marchés et leur suivi.\nVous assurez le suivi et le traitement des commandes ouvertes et des factures en litige, en lien avec les fournisseurs et les services concernés et prenez en charge la gestion administrative des sinistres.\nVous traitez les remboursements de frais des collaborateurs et collaboratrices et assurez la comptabilisation des feuilles d’horaires et l'établissement des comptes des secteurs.\nVous accompagnez les différents secteurs de la direction dans leurs demandes et commandes, en les conseillant et en assurant le suivi de leur traitement.\nVous traitez les demandes de contrats, en coordination avec le ou la gestionnaire de contrats et contribuez à l'amélioration continue des processus administratifs et financiers du pôle ainsi qu'à la mise à jour des procédures.",
     "external_url": "https://jobs.smartrecruiters.com/HUG/744000147499199-gestionnaire-administratif-et-financier-a-la-direction-de-l-immobilier-80-a-100-?oga=true",
-    "status": "matched"
-  },
-  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000147498234": {
-    "description": "Force de proposition, vous avez envie de contribuer aux projets d'une grande institution telle que les HUG et vous vous reconnaissez dans nos valeurs institutionnelles ?\nEn tant que physiothérapeute, vous élaborez, proposez, appliquez et évaluez les résultats des traitements de physiothérapie conformément au diagnostic et à la prescription médicale pour les patientes et les patients qui vous sont confiés. A ce titre, vous participez aux colloques, aux discussions des situations de patients et patientes et aux séances de coordination interprofessionnelles.\nVous documentez quotidiennement les dossiers des patients et patientes (traitements effectués et informations cliniques) et saisissez les prestations fournies en vous montrant synthétique dans vos transmissions d’information.\nGrâce à votre esprit collectif, vous savez évoluer au sein d’une équipe pluridisciplinaire composée de physiothérapeutes, ergothérapeutes, infirmières, infirmiers et personnel soignant, médecins, et vous apportez la garantie de prestations efficientes. Dans ce contexte, vous êtes capable de travailler en autonomie en vous appuyant sur votre sens de l'organisation et votre esprit d'initiative.\nVous avez un excellent sens de la communication et vous faites preuve d’empathie ainsi que de tact avec les équipes en interne et les patientes et patients.\nVotre fonction vous amène à participer aux projets pluridisciplinaires de votre département et collaborez à la formation des étudiantes et professionnels et professionnelles de santé.",
-    "external_url": "https://jobs.smartrecruiters.com/HUG/744000147498234-physiotherapeute-en-readaptation-et-geriatrie-80-?oga=true",
     "status": "matched"
   },
   "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000147498789": {
@@ -1811,7 +1806,7 @@
     "title": "Internship in Global Medical Affairs (for 12 months)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-14",
+    "posted_date": "2026-09-15",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -1830,7 +1825,7 @@
     "title": "Senior Legal Counsel – Legal Business Development & Corporate",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-09",
+    "posted_date": "2026-09-10",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1843,7 +1838,7 @@
     "title": "Senior Computational & Applied AI Scientist (Real-World Data))",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-10",
+    "posted_date": "2026-09-11",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -1862,7 +1857,7 @@
     "title": "Global MSAT DP Pilot Plant Bioprocess Scientist/Engineer (Basel, permanent)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-09",
+    "posted_date": "2026-09-10",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1878,7 +1873,7 @@
     "title": "Postdoctoral Scientist – Vascularized Kidney Organoids (at the Institute of Human Biology (IHB))",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-04",
+    "posted_date": "2026-09-05",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -1898,7 +1893,7 @@
     "title": "Principal Scientist, Respiratory Discovery",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-01",
+    "posted_date": "2026-09-02",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -1922,7 +1917,7 @@
     "title": "Senior Computational & Applied AI - Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-31",
+    "posted_date": "2026-09-01",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -1940,7 +1935,7 @@
     "title": "Research Associate In Cellular Assay Development",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-24",
+    "posted_date": "2026-08-25",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1957,7 +1952,7 @@
     "title": "Discovery Scientist – Neural Retina & Ocular Disease",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-19",
+    "posted_date": "2026-08-20",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -1980,7 +1975,7 @@
     "title": "Scientist, Cell Engineering and Phenotypic Screening Models",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-18",
+    "posted_date": "2026-08-19",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -2001,7 +1996,7 @@
     "title": "Senior Regulatory Group Director",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-18",
+    "posted_date": "2026-08-19",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2016,7 +2011,7 @@
     "title": "\"Principal Scientist siRNA Design",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-18",
+    "posted_date": "2026-08-19",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2032,7 +2027,7 @@
     "title": "Cardio-Renal Discovery Area Leader - Expert Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-18",
+    "posted_date": "2026-08-19",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -2053,7 +2048,7 @@
     "title": "Senior/Principal Scientist - NMR Expert",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-18",
+    "posted_date": "2026-08-19",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2069,7 +2064,7 @@
     "title": "Senior Expert / Senior Principal PKS Data Scientist & Scientific Software Engineer (Dual level posting)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-18",
+    "posted_date": "2026-08-19",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -2090,7 +2085,7 @@
     "title": "Patent Attorney",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-18",
+    "posted_date": "2026-08-19",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -2103,7 +2098,7 @@
     "title": "Translational Medicine Expert – Dermatology, Associate Director",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-18",
+    "posted_date": "2026-08-19",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -2126,7 +2121,7 @@
     "title": "Associate Director, Search & Evaluation (Immunology)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-20",
+    "posted_date": "2026-08-21",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2142,7 +2137,7 @@
     "title": "Director, Portfolio Analytics",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-26",
+    "posted_date": "2026-08-27",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2157,7 +2152,7 @@
     "title": "Senior Principal Scientist / Associate Director– Soluble Biomarkers, Molecular & Cellular Sciences (MCS)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-18",
+    "posted_date": "2026-08-19",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -2178,7 +2173,7 @@
     "title": "Senior Principal Scientist/Associate Director Clinical PBPK  (Dual Level Posting)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-18",
+    "posted_date": "2026-08-19",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -2197,7 +2192,7 @@
     "title": "AI Scientist – AI-Driven Target Identification",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-24",
+    "posted_date": "2026-08-25",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -2216,7 +2211,7 @@
     "title": "Translational Medicine Expert – Gastroenterology, Associate Director",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-09-07",
+    "posted_date": "2026-09-08",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -2233,7 +2228,7 @@
     "title": "USP Research Scientist II",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-09-01",
+    "posted_date": "2026-09-02",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2249,7 +2244,7 @@
     "title": "Therapeutic Area Biomarker Director  – Cardiovascular and Metabolism",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-31",
+    "posted_date": "2026-09-01",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -2273,7 +2268,7 @@
     "title": "Translational Medicine Director/Associate*- Cardiovascular & Metabolic",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-09-03",
+    "posted_date": "2026-09-04",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -2297,7 +2292,7 @@
     "title": "Biomarker Therapeutic Area Head -Neuroscience",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-09-07",
+    "posted_date": "2026-09-08",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -2321,7 +2316,7 @@
     "title": "Business Development Manager (m/w/d) Neuromodulation – Schweiz",
     "company": "Abbott",
     "location": "Switzerland - Baar",
-    "posted_date": "2026-08-18",
+    "posted_date": "2026-08-19",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -2336,7 +2331,7 @@
     "title": "Director, Medical Affairs, Hemato-Oncology, Europe",
     "company": "BeiGene",
     "location": "Basel",
-    "posted_date": "2026-08-18",
+    "posted_date": "2026-08-19",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -2353,7 +2348,7 @@
     "title": "Executive Director, Regional Medical Lead - Solid Tumors, Medical Affairs, Europe",
     "company": "BeiGene",
     "location": "Basel",
-    "posted_date": "2026-08-18",
+    "posted_date": "2026-08-19",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2374,7 +2369,7 @@
     "title": "Associate Principal Scientist Analytical Project Lead 12 months fix-term contract 80-100%",
     "company": "Lonza",
     "location": "CH - Basel",
-    "posted_date": "2026-09-08",
+    "posted_date": "2026-09-09",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2389,7 +2384,7 @@
     "title": "Senior Scientist Electronic Laboratory Systems",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-08-18",
+    "posted_date": "2026-08-19",
     "department": "",
     "score": -1,
     "matched_keywords": [
@@ -2406,7 +2401,7 @@
     "title": "R&D Scientist – Scientific Data Analytics (d/f/m)",
     "company": "Danaher",
     "location": "Basel, Switzerland",
-    "posted_date": "2026-08-18",
+    "posted_date": "2026-08-19",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2422,7 +2417,7 @@
     "title": "Business Development Director",
     "company": "KBI Biopharma",
     "location": "Switzerland - Plan-les-Ouates",
-    "posted_date": "2026-08-18",
+    "posted_date": "2026-08-19",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -2530,7 +2525,7 @@
     "title": "Research Scientist II, Immunology",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-09-15",
+    "posted_date": "2026-09-16",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -2553,7 +2548,7 @@
     "title": "(Associate) Principal Scientist Bioanalytics 80-100%",
     "company": "Lonza",
     "location": "CH - Basel",
-    "posted_date": "2026-09-15",
+    "posted_date": "2026-09-16",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2687,11 +2682,6 @@
   "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000150097810": {
     "description": "En tant que médecin chef ou cheffe de clinique, vous êtes responsable de la prise en charge du suivi ambulatoire des patientes et patients cérébrolésés, surtout avec traumatisme crânio-cérébral (TCC), en étroite collaboration avec les équipes déjà impliqués au sein de la Consultation de santé cérébrale et mentale du Campus Biotech.\nUn environnement attrayant vous attend, dans lequel vous pouvez mettre vos compétences au service d'une équipe interdisciplinaire motivée.\nVous participez activement aux programmes de formation prégraduée et post-graduée du service.\nVous aurez accès à des programmes de recherche clinique structurés et financés, ainsi que la possibilité de collaborer avec des experts sur les nouvelles méthodes de neuromodulation.\nVous effectuez des piquets de médecin cadre.\nLe poste permet une flexibilité dans la planification des horaires de travail.",
     "external_url": "https://jobs.smartrecruiters.com/HUG/744000150097810-chef-ou-cheffe-de-clinique-avec-titre-de-specialite-50-?oga=true",
-    "status": "matched"
-  },
-  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000150101811": {
-    "description": "Dans le cadre de vos activités, vous vous chargez d'offrir aux patientes et patients, au public et au personnel un accueil courtois, personnalisé et compétent, en situation de face à face ainsi qu'au téléphone, en desservant la centrale téléphonique. Votre dynamisme, votre sens du service et de l'accueil, et votre respect de la confidentialité sont des qualités déjà reconnues et mise en avant.\nVous renseignez, orientez voire accompagnez toute personne se présentant aux réceptions ainsi que collaborez avec les autres services impliqués dans la chaîne d'accueil (admissions, unités de soins, centres de consultation, etc.). Vous êtes capable de travailler de façon autonome tout en sachant faire preuve d'entraide et de collaboration.\nVous contribuez à la surveillance et à la sécurité de l'établissement.\nVous procédez à l'ensemble des formalités d'admission de patients et patientes hospitalisées ou en ambulatoire, en vous assurant du respect des procédures institutionnelles.\nVous êtes en charge de l'ensemble des tâches inhérentes à la facturation, aux demandes de prises en charge du séjour hospitalier auprès des assureurs et au contrôle des dossiers patients. Vous vous assurez également de la bonne qualité des factures finales, et ce, dans les délais impartis. Pour ce faire, vous vous appuyez sur votre très bon sens de l'organisation, le respect des procédures et votre gestion des priorités et du stress.",
-    "external_url": "https://jobs.smartrecruiters.com/HUG/744000150101811-commis-ou-commise-administrative-au-departement-de-readaptation-et-geriatrie-100-?oga=true",
     "status": "matched"
   },
   "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000150059910": {
