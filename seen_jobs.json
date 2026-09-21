@@ -959,20 +959,6 @@
   "_generic:Bio-Rad": {
     "keywords": "npp"
   },
-  "https://www.stettlerconsulting.ch/en/current-vacancies/sales-business-development-manager-labor-kuehlgeraete-m-w-100/": {
-    "external_url": "https://www.stettlerconsulting.ch/en/current-vacancies/sales-business-development-manager-labor-kuehlgeraete-m-w-100/",
-    "status": "ignored",
-    "title": "Sales- / Business Development Manager ​ Labor-Kühlgeräte (m/w) 100%",
-    "company": "Stettler Consulting",
-    "location": "Region Deutschschweiz, Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": -2,
-    "matched_keywords": [],
-    "deducted_keywords": [
-      "location:Region Deutschschweiz, Switzerland"
-    ]
-  },
   "https://jobs.ashbyhq.com/adaptyv/bcc29ec7-1e14-46e7-91ee-cf791b16feda": {
     "description": "Adaptyv is building an automated lab thats let AI agents run biology experiments.\n\nWe're entering the era of agentic science where AI models can now design novel proteins, propose hypotheses, and iterate on experimental results. But they can't run the experiments themselves - that's still a manual, months-long process. We're building the infrastructure that gives AI agents access to the physical world.\n\nWe are one of the fastest growing biotech companies, trusted by leading biopharmas, frontier AI labs, and the techbio companies pushing the field forward. This is a rare chance to help advance some of the most important work happening in biotech today.\n\nOur automated lab is powered by a deep software + hardware stack: lab instruments worth millions of USD reverse-engineered into API-controllable hardware, dozens of devices orchestrated through complex workflows, full observability on everything that happens in the lab, processing pipelines for messy physical-world data, and AI systems that troubleshoot production results and accelerate assay development.\n\nWe’re growing rapidly and are hiring for talented people to scale and support the massive demand for AI-driven wet lab experimentation.\n\n\nABOUT THE ROLE\n\nOur lab produces binding data faster than any one person can look at it. Runs come off the Gators and the Carterra, go through our processing pipeline, and land in a review queue. Somebody with real judgment then has to decide: is this curve real? Is that a fit artifact or a genuine two-state binding event? Does this replicate get delivered, or does the sample get re-run? That person is you.\n\nThe second half of the job is talking to the customer about it. When a design team gets a plate back and three of their best predictions look like non-binders, they want to talk to someone who can explain why: reference subtraction, avidity, an off-rate at the edge of what the instrument resolves, or simply a bad protein. You'll be that person, on the call, sharing your screen, walking through sensorgrams.\n\nThis is a role for a scientist who is very good at kinetics and also likes people. If you like one but not the other, you'll be unhappy here.\n\nWe'd prefer you in Lausanne with us. A lot of the judgment in this job comes from being able to walk over to the instrument and ask what actually happened. But we're not going to lose the right person over it, so remote or hybrid works if you're clearly the one.\n\n\nWHAT YOU'LL DO\n\n - Review the binding data coming out of the lab. Every SPR and BLI run passes through our processing pipeline and then to human review, and you're the expert eye on the output. You decide what gets delivered, what gets flagged, and what gets re-run.\n\n - Judge the curves, not just the numbers. A clean-looking Kd on a bad fit is worse than no number at all. You know the difference between a real off-rate and a drifting baseline, and you can say why.\n\n - Review data from our other assays too: thermostability, expression, developability, enzyme activity. Binding is the core of the role but it isn't all of it.\n\n - Talk to customers about their results. Deliverable walkthroughs, follow-up questions, and the awkward conversation when the data doesn't say what they hoped. You explain what we measured, how confident we are, and what to do next.\n\n - Turn review into experimental design. When something needs a re-run, you decide what changes: orientation, regeneration, concentration series, or a switch from BLI to SPR for the sensitivity.\n\n - Analyze at the batch level, not just the sample level. With hundreds of results per experiment, you should be writing a script to find the pattern rather than clicking through a queue. Systematic drift, a bad reference channel, or a target lot behaving differently than the last one shows up in aggregate long before it shows up in any single curve.\n\n - Feed what you learn back into the pipeline. When you catch a case where automation passed something it shouldn't have, or failed something it shouldn't have, that becomes a concrete requirement for the software team.\n\n - Work closely with production (what actually happened in the lab), QC (systematic quality), and customer success (the relationship around the science).\n\n\nWHAT WE'RE LOOKING FOR\n\n - MSc or PhD in biochemistry, biophysics, or a related field, plus 3+ years working hands-on with binding kinetics.\n\n - Deep SPR and BLI experience. Biacore, Carterra, Octet, Gator: the platform matters less than the fact that you've run these assays, troubleshot them, and interpreted a lot of data from them. You've seen enough sensorgrams to know immediately when one is lying to you.\n\n - Real fitting judgment. 1:1 vs. bivalent, when steady-state is appropriate and when it isn't, how mass transport and avidity distort a result. You can defend a Kd, or refuse to report one.\n\n - Strong data analysis skills. Python or R, enough to pull a few hundred results out of a database, fit them, plot them, and find the outliers. This role generates too much data to review by hand.\n\n - You use AI tools seriously. We run on Claude Code and similar tooling internally, and the people who get the most done here are the ones who reach for it by default: writing the analysis script, querying the database, building the one-off dashboard. You don't need to have done this before, but you need to want to. If your instinct is that real scientists do it by hand, this isn't the place.\n\n - A self-starter who works independently. Nobody is going to hand you a prioritized queue every morning. You'll figure out what matters most, go do it, and tell us what you found.\n\n - A fast learner. Our platform, our assays, and our software change constantly. You'll be handed unfamiliar tools and expected to be productive with them quickly.\n\n - Startup speed, not academic pace. Experiments ship to paying customers on deadlines. Getting a good answer this week beats a perfect one next quarter, and we'd rather flag an ambiguous result than sit on it.\n\n - Comfortable in front of customers. Many are PhD-level scientists at pharma companies and AI labs, and they will push back. You should enjoy that conversation rather than dread it.\n\n - Able to explain hard things simply. Some customers are biophysicists. Some are ML researchers who have never touched a pipette. You adjust without condescending to either.\n\n - Honest about uncertainty. When the data is ambiguous, you say so, to us and to the customer. We would much rather flag a weak result than ship a confident wrong one.\n\n - Familiarity with other biophysical or functional assays (DSF, HPLC, plate-based activity assays) is a plus.\n\n\nWHY THIS ROLE IS INTERESTING\n\nMost kinetics scientists spend their careers running a handful of assays very carefully. Here you'll see more binding data in a year than most people see in a decade, across a wide range of targets and design methods, including a lot of AI-designed proteins that nobody has ever characterized. You'll build pattern recognition that is genuinely rare, and you'll be the person customers call when they need to know what their data actually means.\n\n\n\nApplication deadline\n\nWe are reviewing applicants on a rolling basis.",
     "external_url": "https://jobs.ashbyhq.com/adaptyv/bcc29ec7-1e14-46e7-91ee-cf791b16feda",
@@ -1268,21 +1254,6 @@
     "deducted_keywords": [
       "location:Switzerland"
     ]
-  },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000146178969": {
-    "description": "Are you looking for an opportunity to contribute to the Future Circular Collider (FCC), one of the most ambitious scientific projects ever envisioned? Help develop the coating technology that will equip its vacuum chambers with a Non-Evaporable Getter thin film.\nWorking alongside experienced engineers, technicians and physicists, you will contribute to the design, fabrication and coating.\nYou will be involved at every stage of the process. We will provide all the necessary training and support, making this an excellent opportunity to develop specialist skills in a unique international environment.\nYour responsibilities:\nDesign & construction of mechanical parts for customised physical vapor deposition systems and associated tooling.\nAssembly of coating setups operating in Ultra High Vacuum.\nValidation of the coating technology and process (in real scale prototypes up to 12 meter long beam pipes).\nValidation of the vacuum performance of the coatings produced (in Ultra High Vacuum systems).\nYour profile:\nExperience in machining metal parts in lathe and milling machines. CNC would be an advantage.\nFamiliarity in using CAD software to design mechanical parts.\nPractical experience in assembling mechanical equipment.\nExperience in vacuum technology would be an advantage.\nSkills:\nWorking in teams.\nCurious and proactive.\nKnowledge of vacuum technology would be an advantage.\nKnowledge on welding would be an advantage.\nSpoken and written English or French, with a commitment to learn the basics of the other language.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nBy the application deadline, you have a maximum of two years of professional experience since graduation in Mechanical Engineering (or a related field) and your highest educational qualification is a general secondary education diploma.\nYou have never had a CERN fellow or graduate contract before.\nApplicants with a Bachelor's, Master's or PhD degree are not eligible.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000146178969-mechanical-technician-te-vsc-scc-2026-212-grae-?oga=true",
-    "status": "matched"
-  },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000146160670": {
-    "description": "Looking for an opportunity to apply your mechanical engineering skills to the upgrade of the world's most powerful particle accelerator? Join CERN's Vacuum, Surfaces and Coatings (VSC) Group and contribute to the upgrade of critical beam vacuum systems that are essential for the performance and reliability of the Large Hadron Collider (LHC).\nWorking alongside experienced engineers, technicians and physicists, you will support the installation, testing and commissioning of key equipment that will help prepare the LHC for future scientific discoveries. No prior experience in particle accelerators is required. We will provide all the necessary training and support, making this an excellent opportunity to develop specialist skills in a unique international environment.\nYour responsibilities\nPerform vacuum acceptance testing of baked components intended for installation in the HL-LHC collimator upgrade.\nTest and validate vacuum equipment before installation, perform residual gas analysis (RGA) ensuring it meets performance and quality requirements.\nCarry out leak tests, bake-out system installation and non-evaporable-getter (NEG) activation on vacuum components and assemblies.\nAssemble and prepare mechanical and vacuum systems for installation and operation.\nSupport the installation, testing and commissioning of equipment for the LHC upgrade programme.\nPrepare technical documentation, test reports and intervention records.\nCoordinate with suppliers and support the procurement and delivery of technical components.\nParticipate in maintenance, upgrade and repair activities on equipment installed in the LHC tunnel.\nYour profile\nExperience with helium leak detection methods and equipment.\nExperience with on-site vacuum system work, including mechanical installation and in-situ testing.\nBasic experience with outgassing phenomena in vacuum systems and with quadruple mass spectrometers (RGA) for residual gas analysis in UHV environments.\nPractical familiarity with techniques for achieving and maintaining UHV conditions.\nSkills\nUnderstanding of ultra-high vacuum (UHV) principles and fundamentals.\nThe ability to analyse data from ultra-high vacuum (UHV) gauges.\nBasic knowledge on how to assemble and install UHV-compatible components and systems.\nKnowledge of helium leak detector use and the ability to perform leak testing and interpret results.\nThe ability to prepare, update, and manage technical documentation.\nSpoken and written English or French, with a commitment to learn the basics of the other language.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nBy the application deadline, you have a maximum of two years of professional experience since graduation in BSc in Technical and Applied Studies (or a related field) and your highest educational qualification is either a Bachelor's or Master's degree.\nYou have never had a CERN fellow or graduate contract before.\nApplicants without University degree are not eligible.\nApplicants with a PhD are not eligible.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000146160670-mechanical-technical-engineer-vacuum-equipment-te-vsc-bvo-2026-211-grae-?oga=true",
-    "status": "matched"
-  },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000146161339": {
-    "description": "If you enjoy understanding how things work, solving and learning through hands-on experimentation, this role could be for you.\nFrom testing advanced electrical and electronic systems, this role offers a unique opportunity to develop practical engineering skills in a world-leading research environment.\nAs a member of the team developing CERN's 13 kA Energy Extraction System controls, you will contribute to system testing, troubleshooting, data acquisition, hardware installation and commissioning systems.\nYour responsibilities:\nSet up instrumentation devices (oscilloscopes, measurement probes, function generators, etc.) and conduct commissioning and performance qualification tests.\nDebug and troubleshoot electronic and electrical circuits.\nPCB tests and validation.\nSet up DAQ devices.\nData collection and analysis.\nTest report preparation.\nAssemble, test and install electronic chassis.\nTest hardware performance validation.\nYour profile:\nExperience in the installation, test, troubleshooting of electrical and/or electronic circuits and devices.\nExperience with instrumentation (setting up measurement devices such as oscilloscopes, measurement probes, function generators, etc).\nExperience of PCB production and tests.\nBasic experience with set up DAQ systems and electrical/electronic signals data analysis.\nExperience with test stations validating the performance of control electronic and electrical production would be an advantage.\nSkills:\nKnowledge of electrical and/or electronic circuits, debugging and measurement techniques.\nBasic knowledge of Electromechanical devices and maintenance.\nAbility to write test reports and documentation.\nKnowledge of using mechanical tooling during the installation of the equipment would be an asset.\nSpoken and written English or French, with a commitment to learn the basics of the other language.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nBy the application deadline, you have a maximum of two years of professional experience since graduation in Electrical or Electronics Engineering (or a related field) and your highest educational qualification is either a Bachelor's or Master's degree.\nYou have never had a CERN fellow or graduate contract before.\nApplicants without University degree are not eligible.\nApplicants with a PhD are not eligible.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000146161339-electrical-or-electronics-technical-engineer-te-mpe-mp-2026-214-grae-?oga=true",
-    "status": "matched"
   },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000146407811": {
     "description": "Your responsibilities As an Agile Coach, you will join the Delivery section within the Business Computing group. Your mission will be to coach, mentor, and train teams and business partners on lean-agile practices in software development, fostering a culture of collaboration, accountability, and continuous improvement. We are looking for someone highly motivated and passionate about business agility.\nThe group is currently in the preparation phase for two business transformation projects: one covering Finance, Procurement, and Logistics processes (new ERP system) and, in parallel, the implementation of a new Human Capital Management system. This requires strong coordination and cross-functional collaboration across the group. As an Agile Coach, you will be assigned to one of the projects to contribute to the successful implementation.\nBeing part of the Lean/Agile chapter, you will drive BC Group events, help grow the Agile maturity of all group internal actors (teams, designers, product managers, the group management team itself) and work with the external group stakeholders to increase their awareness, acceptance and embrace of the group's Agile ways of working. You will be aiming to deepen business agility fundamentals and lean portfolio management concepts within the group, leading to a healthier relationship between the group and its business partners.\nYour responsibilities\nIn this position, your main functions will be:\nCooperate in coordinating the business transformation projects.\nTrain individuals and teams in agile techniques and frameworks.\nDesign a strategy for improving the collaboration and flow of information between software development teams and their business stakeholders.\nCoach and facilitate agile workshops for product teams, business representatives, and other stakeholders on Lean/Agile practices and tools.\nWork with the Lean/Agile Chapter to increase the knowledge of Lean/Agile Practices, ensuring the organisation is at the forefront of industry best practices.\nPromote an agile mindset and foster an environment for high-performing team dynamics, accountability, and continuous improvement.\nThis role includes team supervision responsibilities.\n \nYour profile\nExperience working with Scrum teams in a scaled Agile context.\nExperience with Product Management frameworks.\nExperience with business transformation projects (e.g., ERP or HCM implementations).\nSkills\nSoft skills:\nExcellent communication, facilitation, and organisational skills.\nTechnical skills:\nKnowledge of scaled Agile frameworks and how to put them into practice.\nKnowledge of business transformation projects (e.g., ERP or HCM implementations).\nAgile certifications (e.g., Scrum Master, Leading SAFe).\nDesign thinking skills.\nSpoken and written English, with a commitment to learn French.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nYou have a professional background in Computer Science, Organisational Psychology (or a related field) and have either:\na Master's degree with 2 to 6 years of post-graduation professional experience;\nor a PhD with no more than 3 years of post-graduation professional experience.\nYou have never had a CERN fellow or graduate contract before.",
@@ -1688,7 +1659,7 @@
     "title": "Associate Principal Scientist Analytical Project Lead 12 months fix-term contract 80-100%",
     "company": "Lonza",
     "location": "CH - Basel",
-    "posted_date": "2026-09-09",
+    "posted_date": "2026-09-08",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1723,11 +1694,6 @@
       "location:geneva"
     ],
     "deducted_keywords": []
-  },
-  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000149267125": {
-    "description": "Vous intégrez une équipe au sein de laquelle votre principale mission est d’assurer le suivi qualité des installations de gaz médicaux, de traitement d’eau et de sanitaire et de contribuer au développement et au maintien du Système de Management de la Qualité (SMQ).\nVous assurez le suivi qualité des installations de gaz médicaux, de traitement d’eau et de sanitaire et veillez à leur conformité au regard des exigences réglementaires et normatives applicables. À ce titre, vous réalisez des audits qualité sur le terrain et contrôlez la conformité des installations, des équipements et des interventions.\nVous participez aux opérations de qualification, de validation, de réception et de mise en service des réseaux de gaz médicaux. Vous veillez également à la conformité de la qualité des gaz, notamment de l’air médical, et supervisez, lorsque nécessaire, les contrôles de contamination particulaire.\nVous identifiez et assurez le suivi des non-conformités. Vous menez les investigations nécessaires à l’identification des causes racines et pilotez la définition, la mise en œuvre et le suivi des actions correctives et préventives (CAPA).\nVous contribuez aux analyses et à la maîtrise des risques conformément aux exigences applicables, notamment à la norme ISO 14971, et selon l'ODIM participez à la veille réglementaire et normative afin d’assurer la prise en compte des évolutions dans les pratiques et l’organisation.\nVous participez aux audits internes, aux audits fournisseurs ainsi qu’aux inspections menées par les autorités compétentes, et contribuez au suivi des actions qui en découlent.\nVous accompagnez les équipes opérationnelles dans l’application des exigences qualité et réglementaires, notamment par des actions de formation, de sensibilisation et de soutien aux équipes techniques.\nEnfin, vous contribuez au suivi documentaire et à l’amélioration continue du Système de Management de la Qualité, en veillant à la traçabilité et à la conformité des activités liées aux gaz médicaux, de traitement d’eau et de sanitaire.",
-    "external_url": "https://jobs.smartrecruiters.com/HUG/744000149267125-ingenieure-ou-ingenieur-qualite-gaz-medicaux-traitement-d-eau-et-sanitaire-100-?oga=true",
-    "status": "matched"
   },
   "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000149268213": {
     "description": "Dans le cadre de votre fonction, vous assistez le responsable administratif et financier (RAF) et intégrez son équipe en collaborant activement à la gestion efficace du pôle de gestion et de ses directions en apportant votre expertise financière. \nVous collaborez à l'élaboration du budget et des objectifs du pôle de gestion ainsi que de ses directions dans le respect du cadre budgétaire fixé et vérifiez leur mise en œuvre. Vous participez au développement d’outils de pilotage et au suivi d'indicateurs et tableaux de bord pour vérifier leur mise en œuvre. Vous identifiez, répertoriez et évaluez l’impact financier des objectifs fixés et des moyens prévus / demandes budgétaires des services afin de les préparer pour les négociations entreprises par le responsable administratif et financier avec les directions concernées. \nVous participez au contrôle de gestion opérationnel des directions, au reporting (financier et activité) et assistez les cadres dans leur gestion opérationnelle. A cette fin, vous analysez les indicateurs de pilotage, les exploitez statistiquement et mettez en évidence les points clés, analysez les écarts (budgets/prévisions/réalisations) et proposez des corrections avec le responsable financier et son adjoint. Vous participez à l'analyse des résultats de la comptabilité de gestion. \nVous réalisez également des analyses économiques et financières ainsi que des business plans en lien avec le développement de l'activité.",
@@ -1793,7 +1759,7 @@
     "title": "(Associate) Principal Scientist Bioanalytics 80-100%",
     "company": "Lonza",
     "location": "CH - Basel",
-    "posted_date": "2026-09-16",
+    "posted_date": "2026-09-15",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1962,27 +1928,11 @@
     "title": "Senior Scientist Physico-Chemical Quality Control 80-100%",
     "company": "Lonza",
     "location": "CH - Basel",
-    "posted_date": "2026-09-19",
+    "posted_date": "2026-09-18",
     "department": "",
     "score": 1,
     "matched_keywords": [
       "MSc"
-    ],
-    "deducted_keywords": []
-  },
-  "/job/Basel/Global-Scientific-Communications-Leader_202608-122107-2": {
-    "description": "At Roche you can show up as yourself, embraced for the unique qualities you bring. Our culture encourages personal expression, open dialogue, and genuine connections,  where you are valued, accepted and respected for who you are, allowing you to thrive both personally and professionally. This is how we aim to prevent, stop and cure diseases and ensure everyone has access to healthcare today and for generations to come. Join Roche, where every voice matters.\n\nThe Position\n\nHealthcare’s future is driven by the exchange of science and data.\n\nWe are Medical. We are transforming Medical practice together. We are advocates for patients, for medical progress and for global access providing optimal and personalized healthcare. We are a trusted partner and central interface with the external medical stakeholder community. We collaborate and strive in an integrated work environment with the affiliates, global development and global strategy. We help in driving the development, introduction, uptake and informed use of our innovative medicines and services in clinical practice and patient care worldwide. We create and evolve competencies, capabilities, and opportunities for our global Medical Network.\n\nThe Opportunity:\n\nAs a Global Scientific Communications Leader at Roche, you will be at the forefront of driving scientific communication strategies and shaping the future of healthcare. Your key responsibilities will include:\n\nYou lead a strategy for scientific content delivery across multiple channels, engaging the right audience with the right content at the right time.\n\nYou deliver data-supported scientific narratives to simplify and ensure consistent discussions about the disease areas in which we operate and our assets, aligning with external needs and expectations.\n\nYou develop tailored scientific content based on insights and subject matter expertise to meet the evolving needs of patients and healthcare professionals (HCPs).\n\nYou orchestrate support across the lifecycle for assigned molecules or disease areas, applying impact parameters to evaluate content value and driving strategic publications and educational initiatives in collaboration with various stakeholders.\n\nYou collaboratively engage with external customers and with internal partners to reflect the voice of the customer and adjust strategies, content, and channels based on insights.\n\nYou commit to personal growth, serving as a role model for knowledge management, continually seek opportunities to learn and innovate \n\nYou lead the development of the strategic scientific communications plan including leading publication planning and work with external HCPs to create and deliver medical and scientific content.\n\nWho You Are:\n\nYou hold an advanced life-science degree (PhD, PharmD, or MD), ideally with experience in medical communications, medical affairs, and the bio-pharmaceutical industry.\n\nYou are skilled in the use of innovative methodologies to maximise the reach and impact of our scientific data in an increasingly competitive environment would be advantageous.\n\nYou maintain high ethical standards and act in accordance with legal, regulatory, industry, and company standards and codes of practice (including Roche Code of Conduct and publications-related standard operating procedures).\n\nYou demonstrate strategic agility and decision-making ability, with strong organizational, prioritization, negotiation, and communication skills.\n\nYou are a team player, capable of operating successfully in a matrix environment with shared responsibilities and have fluency in both written and spoken English.\n\nYou are curious, willing to learn and solution oriented.\n\nAre you ready to make a difference for our patients? We look forward to receiving your application!\n\n \n \n\nWho we are\nA healthier future drives us to innovate. Together, more than 100’000 employees across the globe are dedicated to advance science, ensuring everyone has access to healthcare today and for generations to come. Our efforts result in more than 26 million people treated with our medicines and over 30 billion tests conducted using our Diagnostics products. We empower each other to explore new possibilities, foster creativity, and keep our ambitions high, so we can deliver life-changing healthcare solutions that make a global impact.\n\nLet’s build a healthier future, together.\n\nRoche is an Equal Opportunity Employer.",
-    "external_url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Global-Scientific-Communications-Leader_202608-122107-2",
-    "status": "ignored",
-    "title": "Global Scientific Communications Leader",
-    "company": "Roche",
-    "location": "Basel",
-    "posted_date": "2026-09-17",
-    "department": "",
-    "score": 2,
-    "matched_keywords": [
-      "PhD",
-      "medical affairs"
     ],
     "deducted_keywords": []
   },
@@ -1993,7 +1943,7 @@
     "title": "Senior Legal Counsel – Legal Business Development & Corporate",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-10",
+    "posted_date": "2026-09-09",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -2006,7 +1956,7 @@
     "title": "Senior Computational & Applied AI Scientist (Real-World Data))",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-11",
+    "posted_date": "2026-09-10",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -2025,7 +1975,7 @@
     "title": "Internship in Global Medical Affairs (for 12 months)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-15",
+    "posted_date": "2026-09-14",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -2044,7 +1994,7 @@
     "title": "Global MSAT DP Pilot Plant Bioprocess Scientist/Engineer (Basel, permanent)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-10",
+    "posted_date": "2026-09-09",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2060,7 +2010,7 @@
     "title": "Postdoctoral Scientist – Vascularized Kidney Organoids (at the Institute of Human Biology (IHB))",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-05",
+    "posted_date": "2026-09-04",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -2080,7 +2030,7 @@
     "title": "Senior Computational & Applied AI - Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-01",
+    "posted_date": "2026-08-31",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -2098,7 +2048,7 @@
     "title": "Principal Scientist, Respiratory Discovery",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-02",
+    "posted_date": "2026-09-01",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -2122,7 +2072,7 @@
     "title": "Research Associate In Cellular Assay Development",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-25",
+    "posted_date": "2026-08-24",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -2267,7 +2217,7 @@
     "title": "Data Science & AI Innovation Postdoctoral Fellow in Machine Learning for Chemical Synthesis and Reactivity Prediction",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-09-17",
+    "posted_date": "2026-09-16",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -2361,7 +2311,7 @@
     "title": "Director, Portfolio Analytics",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-27",
+    "posted_date": "2026-08-26",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2376,7 +2326,7 @@
     "title": "AI Scientist – AI-Driven Target Identification",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-25",
+    "posted_date": "2026-08-24",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -2395,7 +2345,7 @@
     "title": "Therapeutic Area Biomarker Director  – Cardiovascular and Metabolism",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-09-01",
+    "posted_date": "2026-08-31",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -2419,7 +2369,7 @@
     "title": "USP Research Scientist II",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-09-02",
+    "posted_date": "2026-09-01",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2435,7 +2385,7 @@
     "title": "Translational Medicine Expert – Gastroenterology, Associate Director",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-09-08",
+    "posted_date": "2026-09-07",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -2452,7 +2402,7 @@
     "title": "Translational Medicine Director/Associate*- Cardiovascular & Metabolic",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-09-04",
+    "posted_date": "2026-09-03",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -2476,7 +2426,7 @@
     "title": "Biomarker Therapeutic Area Head -Neuroscience",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-09-08",
+    "posted_date": "2026-09-07",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -2500,7 +2450,7 @@
     "title": "Research Scientist II, Immunology",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-09-16",
+    "posted_date": "2026-09-15",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -2585,22 +2535,6 @@
     "deducted_keywords": [
       "location:Lengnau, Switzerland"
     ]
-  },
-  "/job/Basel-Switzerland/R-D-Scientist---Scientific-Data-Analytics--d-f-m-_R1313206": {
-    "description": "Bring more to life.\n\nAre you ready to accelerate your potential and make a real difference within life sciences, diagnostics and biotechnology?\n\nAt Genedata, one of Danaher’s 15+ operating companies, our work saves lives—and we’re all united by a shared commitment to innovate for tangible impact.\nYou’ll thrive in a culture of belonging where you and your unique viewpoint matter. And by harnessing Danaher’s system of continuous improvement, you help turn ideas into impact – innovating at the speed of life.\n\nThe biopharmaceutical industry is undergoing a transformation, requiring advanced digitalization to adopt data- and AI-driven approaches and develop innovative therapies quicker. Genedata’s market-leading enterprise software fuels this transformation by enabling leading biopharma, biotech, and contract research as well as contract development and manufacturing organizations worldwide to automate processes and leverage data analytics and AI, so they can deliver breakthrough therapies to patients faster. Join us and help scientists around the world accelerate the pace of biopharma R&D.\n\nLearn about the Danaher Business System which makes everything possible.\n\nThe R&D Scientist – Scientific Data Analytics (d/f/m) is responsible for designing, prototyping, and implementing advanced scientific data analysis workflows that extend the capabilities of Genedata Screener® and Genedata Chromatics®, translating cutting-edge scientific concepts into robust enterprise software solutions. This role operates at the intersection of science, data analytics, and software engineering, supporting pharmaceutical scientists in data-driven decision-making.\n\nThis position reports to the Head of Science and is part of the Screener business unit located in Basel, Switzerland and will be an on-site role.\n\nIn this role, you will have the opportunity to:\n\nConceptualize, design, prototype, and implement scientific data analysis workflows for Genedata Screener®.\n\nTranslate advanced scientific methods into enterprise-grade software components and licensable modules.\n\nCollaborate in an agile/SCRUM environment with software engineers to deliver robust, production-ready solutions.\n\nEngage with pharmaceutical scientists to translate their requirements into automated data analysis workflows.\n\nAnalyze experimental life science data, perform feasibility studies, and ensure mathematical and statistical correctness of implemented methods.\n\nThe essential requirements of the job include:\n\nPhD in physics, biophysics, applied mathematics, data science, bioinformatics, or a related quantitative field.\n\nMultiple years of experience in scientific programming and workflow development.\n\nDemonstrated experience with life science data analysis (e.g., high-throughput screening, dose-response analysis, biophysical assays).\n\nProficiency in Python and scientific computing libraries (e.g., NumPy, SciPy, pandas).\n\nExperience delivering software solutions used by end users in a professional or enterprise setting.\n\nIt would be a plus if you also possess previous experience in:\n\nJava programming.\n\nWorking in agile/SCRUM development environments.\n\nIndustry background in pharmaceutical, biotech, or contract research organizations.\n\n#LI-KK1\nJoin our winning team today. Together, we’ll accelerate the real-life impact of tomorrow’s science and technology. We partner with customers across the globe to help them solve their most complex challenges, architecting solutions that bring the power of science to life.\n\nFor more information, visit www.danaher.com.",
-    "external_url": "https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Basel-Switzerland/R-D-Scientist---Scientific-Data-Analytics--d-f-m-_R1313206",
-    "status": "ignored",
-    "title": "R&D Scientist – Scientific Data Analytics (d/f/m)",
-    "company": "Danaher",
-    "location": "Basel, Switzerland",
-    "posted_date": "2026-08-22",
-    "department": "",
-    "score": 2,
-    "matched_keywords": [
-      "PhD",
-      "bioinformatics"
-    ],
-    "deducted_keywords": []
   },
   "/job/Switzerland---Plan-les-Ouates/Business-Development-Director_R00008636": {
     "description": "Job summary\n\nIdentifies, evaluates, develops and closes new customers and expands business at existing customers.  Identifies and assists in progressing biopharmaceutical business opportunities including new scientific and strategic partnerships, collaborations, licensing opportunities, joint ventures and alliances.  Establishes and implements appropriate development strategies to support business objectives. Interacts with corporate contacts, facilitates communication, keeps tracks of milestones and identifies scope for enhancing these relationships. Work with and lead internal stakeholders including CDM, SMEs, management to ensure maximum success output on new business opportunities. Proactively delegate work and responsibilities to stakeholders, notably CDM and hold yourself accountable for success.\n\nJob Responsibilities\nAssist Vice President of Business Development with activities as directed.\nIdentify new potential clients, qualify new sales leads, develop new client relationships, solicit RFPs, and manage the proposal process; Manage existing client relationships within accounts designated by VP of BD.\nAssist VP of BD with key client accounts as needed.\nParticipate in trade shows and scientific meetings as directed including coordinating preparation for trade shows with KBI marketing, setup and teardown of booth, meeting with clients/prospects in the booth, and trade show follow-up\nVisit client sites to deliver KBI capabilities presentations, probe for opportunities, establish personal relationships, follow-up  on proposals, and otherwise advance the sales process toward closure.\nCoordinate client technical visits to KBI sites including developing agendas, coordinating with KBI scientific staff, and arranging hospitality.\nCoordinate CDA and MSA review with client and KBI legal.\nFacilitate client Quality Audits and Quality Agreements with KBI Quality. Negotiate and successfully close contracts for KBI services with Biopharmaceutical clients in the designated accounts/areas.\nMaintain and update CRM with opportunities status.\nMaintain industry awareness on all biopharmaceutical companies in the territory with respect to potential process development and manufacturing opportunities.\nCoordinate with management and other business development personnel to ensure that initiatives and decisions are consistent and complimentary.\nAble to react to change productively and handle other essential tasks as assigned.\n\nMinimum Requirements\nKnowledge, Skills, Abilities\nTechnical PhD or MSc degree (science preferred) with a minimum of 4 years’ experience in business development in a life science industry.\nTrack record of success in technical business development (contract services or capital equipment in a life sciences industry preferred).\nExperienced in business development fundamentals including prospecting for suitable clients, establishing relationships with new prospects, scheduling face-to-face meetings, delivering presentations, uncovering opportunities, soliciting RFP’s, delivering proposals, gaining solid feedback on proposals, understanding and addressing client objections, and closing contracts.\nExperience in working on complex life science projects involving multiple internal company personnel and client personnel with relatively long lead times (3-6+ months) is an asset\nExperience in dealing with corporate partners and in negotiating and completing agreements is required. \nExcellent communication and interpersonal skills required.  Must possess the ability to build positive internal and external working relationships in a team-based environment. Familiarity with biopharmaceutical manufacturing and regulatory requirements, and/or the ability to quickly learn and understand these processes and requirements is important.\nAbility to travel up to 50% to visit client sites, travel to KBI sites for client meetings, and travel to trade shows and scientific meetings.\n\n    \n\nKBI Biopharma, Inc. is an EEO/AA employer and actively seeks to diversify its work force. Therefore, all qualified applicants, regardless of race, color, national origin, religion, gender, gender identity, sexual orientation, age, disability or veteran status, are strongly encouraged to apply.\n\nI understand that neither the completion of this application nor any other part of my consideration for employment establishes any obligation for KBI Biopharma, Inc. to hire me. If I am hired, I understand that either KBI Biopharma, Inc. or I can terminate my employment at any time and for any reason, with or without cause and without prior notice. I understand that no representative of KBI Biopharma, Inc. has the authority to make any assurance to the contrary.\n\nI attest with my signature below that I have given to KBI Biopharma, Inc. true and complete information on this application. No requested information has been concealed. I authorize KBI Biopharma, Inc. to contact references provided for employment reference checks. If any information I have provided is untrue, or if I have concealed material information, I understand that this will constitute cause for the denial of employment or immediate dismissal.",
@@ -2689,5 +2623,68 @@
       "oncology"
     ],
     "deducted_keywords": []
+  },
+  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000150619299": {
+    "description": "Vous intégrez une équipe au sein de laquelle votre principale mission est d’assurer le suivi qualité des installations de gaz médicaux, de traitement d’eau et de sanitaire et de contribuer au développement et au maintien du Système de Management de la Qualité (SMQ).\nVous assurez le suivi qualité des installations de gaz médicaux, de traitement d’eau et de sanitaire et veillez à leur conformité au regard des exigences réglementaires et normatives applicables. À ce titre, vous réalisez des audits qualité sur le terrain et contrôlez la conformité des installations, des équipements et des interventions.\nVous participez aux opérations de qualification, de validation, de réception et de mise en service des réseaux de gaz médicaux. Vous veillez également à la conformité de la qualité des gaz, notamment de l’air médical, et supervisez, lorsque nécessaire, les contrôles de contamination particulaire.\nVous identifiez et assurez le suivi des non-conformités. Vous menez les investigations nécessaires à l’identification des causes racines et pilotez la définition, la mise en œuvre et le suivi des actions correctives et préventives (CAPA).\nVous contribuez aux analyses et à la maîtrise des risques conformément aux exigences applicables, notamment à la norme ISO 14971, et selon l'ODIM participez à la veille réglementaire et normative afin d’assurer la prise en compte des évolutions dans les pratiques et l’organisation.\nVous participez aux audits internes, aux audits fournisseurs ainsi qu’aux inspections menées par les autorités compétentes, et contribuez au suivi des actions qui en découlent.\nVous accompagnez les équipes opérationnelles dans l’application des exigences qualité et réglementaires, notamment par des actions de formation, de sensibilisation et de soutien aux équipes techniques.\nEnfin, vous contribuez au suivi documentaire et à l’amélioration continue du Système de Management de la Qualité, en veillant à la traçabilité et à la conformité des activités liées aux gaz médicaux, de traitement d’eau et de sanitaire.",
+    "external_url": "https://jobs.smartrecruiters.com/HUG/744000150619299-ingenieure-ou-ingenieur-qualite-gaz-medicaux-traitement-d-eau-et-sanitaire-100-?oga=true",
+    "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000150614001": {
+    "description": "Vous prenez en charge une patientèle traitée par transplantation de cellules souches hématopoïétiques ainsi que des problèmes hématologiques comme des leucémies aiguës, des lymphomes et autre hémopathies malignes et bénignes.\nVous garantissez des prestations médicales de qualité, tant sur le plan clinique et administratif qu'organisationnel.\nVous contribuez à la formation des médecins stagiaires.\nEn parallèle à votre activité, vous avez la possibilité de bénéficier d'une formation post-graduée de qualité contribuant à l'obtention du titre de spécialiste en hématologie.\nEn tant que centre de référence de Suisse romande pour la transplantation allogénique de cellules souches hématopoïétiques ainsi que la coordination de deux boards institutionnels pour la prise en charge des patientes et patients atteints d’hémopathies du canton de Genève, nous vous offrons l'opportunité de prendre en charge tout le spectre des pathologies de l’hématologie clinique (malin et bénin).\nVous êtes intégrés ou intégrées au sein d’une équipe dynamique composée de 15 médecins séniors et 7 médecins internes.",
+    "external_url": "https://jobs.smartrecruiters.com/HUG/744000150614001-medecin-interne-au-service-d-hematologie-100-?oga=true",
+    "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000150612509": {
+    "description": "En tant que chef ou cheffe de clinique, vous avez obtenu votre titre de spécialiste en infectiologie ou êtes sur le point de finaliser votre formation.\nDans cette fonction, vous assurez l’ensemble des activités cliniques du service et évoluez dans un environnement universitaire stimulant, à l’interface des soins, de l’enseignement et de la recherche. Grâce à votre expertise clinique et à votre capacité d’adaptation, vous intervenez dans les secteurs et unités du service suivant : la consultation d’infectiologie générale, la consultation d’infectiologie ambulatoire, l’orthopédie septique, le HIV, l’infectiologie gériatrique, ainsi que l’infectiologie des patients immunodéprimés.\nSous la supervision d’un médecin adjoint, vous assurez de manière autonome l’évaluation, le diagnostic et le suivi de situations cliniques souvent complexes, tout en apportant un appui spécialisé aux équipes médico-soignantes. Vous mobilisez votre sens clinique, votre esprit d’analyse et votre capacité de décision afin de garantir une prise en charge de qualité, fondée sur les meilleures pratiques médicales.\nGrâce à votre sens de l’organisation et à votre aptitude à gérer les priorités, vous conduisez efficacement vos activités cliniques tout en répondant aux nombreuses sollicitations liées à votre fonction (patients et patientes, téléphones, correspondances, réunions). Vous veillez au respect des procédures institutionnelles et contribuez activement à l’amélioration continue de la qualité et de la sécurité des soins.\nFace à des situations exigeantes et à la diversité des problématiques rencontrées, vous faites preuve de discernement, de résilience et d’une excellente gestion du stress. Votre curiosité intellectuelle et votre intérêt pour l’évolution des connaissances médicales vous permettent de maintenir un haut niveau d’expertise.\nÉvoluant au sein d’une équipe pluridisciplinaire, vous collaborez étroitement avec les différents services, ainsi que les professionnels et professionnelles de l’institution dans une approche coordonnée et centrée sur les besoins des patientes et patients. Vous entretenez des relations de travail constructives et favorisez une communication claire, respectueuse et adaptée avec vos collègues, les personnes prises en charge et leurs proches.\nEn vous appuyant sur votre esprit d’équipe, vous faites preuve de solidarité face aux imprévus. En tant que cheffe ou chef de clinique, vous participez activement à la supervision et à la formation des médecins internes du service, en adoptant une posture de mentorat et en partageant votre expertise.\nPar ailleurs, vous avez la possibilité de participer à des projets de recherche en cours au sein du service.",
+    "external_url": "https://jobs.smartrecruiters.com/HUG/744000150612509-chef-ou-cheffe-de-clinique-en-maladies-infectieuses-50-a-100-?oga=true",
+    "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000150614464": {
+    "description": "En tant que médecin interne, vous avez débuté votre parcours de formation en médecine interne et souhaitez désormais vous orienter vers l’obtention du titre de spécialiste en infectiologie.\nDans ce contexte, vous rejoignez le Service des maladies infectieuses et participez aux activités des différentes consultations spécialisées, notamment en maladies infectieuses générales, auprès des personnes immunodéprimées, des personnes âgées, dans le domaine de l’orthopédie septique et du VIH/Sida, au travers de rotations.\nSous la supervision des médecins cadres, vous assurez la prise en charge des patientes et patients qui vous sont confiés, tant en ambulatoire qu’en intrahospitalier, au sein de l’ensemble de l’institution. Vous développez progressivement votre expertise clinique en étant confronté et confrontée à des situations variées et parfois complexes, qui renforcent vos capacités d’analyse, votre jugement clinique et votre aptitude à vous adapter rapidement à de nouveaux contextes médicaux.\nGrâce à votre sens de l’organisation et à votre rigueur, vous assurez les activités cliniques, diagnostiques et thérapeutiques nécessaires à la prise en charge des patientes et patients. Vous veillez au respect des règles et des procédures internes, dans un souci constant de qualité des prestations médicales apportées.\nFace à la diversité des demandes de consultation et à la complexité de certaines situations cliniques, vous faites preuve de sang-froid, de discernement et d’une bonne gestion du stress. Votre curiosité intellectuelle vous incite à approfondir vos connaissances et à comprendre les enjeux des situations auxquelles vous faites face. Vous accueillez également les retours constructifs avec ouverture et les utilisez comme leviers de progression dans l’atteinte de vos objectifs de formation.\nÉvoluant dans un environnement universitaire stimulant et exigeant, au sein d’une équipe pluridisciplinaire, vous participez également à la formation des médecins stagiaires. Vous collaborez étroitement avec l’ensemble des équipes médico-soignantes de l’institution, dans une approche proactive et centrée sur les besoins des patientes et patients. Vous veillez à maintenir une communication claire, respectueuse et adaptée, tant avec vos collègues qu’avec les personnes prises en charge et leurs proches.\nPar ailleurs, vous avez la possibilité de participer à des projets de recherche en cours au sein du service.\nDans le cadre de votre parcours de formation, vous développez vos compétences conformément au plan de formation et aux exigences de la FMH durant trois années au sein du service. Celui-ci offre un environnement reconnu pour la qualité de son enseignement, un large éventail d’activités en infectiologie ainsi que des opportunités de développement favorisant l’obtention du titre FMH. Vous bénéficiez également d’un accompagnement personnalisé grâce à des séances de coaching, des formations ciblées et un encadrement régulier assuré par les médecins cadres ainsi que les chefs et cheffes de clinique.",
+    "external_url": "https://jobs.smartrecruiters.com/HUG/744000150614464-medecin-interne-en-maladies-infectieuses-100-?oga=true",
+    "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000150610759": {
+    "description": "Vous rejoignez l’Unité alimentation et nutrition chez l’enfant et l’adolescent ou adolescente (AliNEA), une unité spécialisée dans l’évaluation et la prise en charge des troubles des conduites alimentaires et de l’alimentation chez les enfants et les jeunes de 4 à 16 ans.\nVous contribuez à l'évaluation, au traitement et à la prévention des troubles du comportement alimentaire (TCA) et des troubles alimentaires (TA) chez les enfants et les adolescentes et adolescents. Cette activité s'inscrit dans une approche multidisciplinaire intégrée associant pédopsychiatrie, pédiatrie, psychologie, soins infirmiers et travail avec les familles.\nVous assurez un suivi thérapeutique dans le cadre des consultations diététiques individuelles auprès de la patientèle et de leurs familles ainsi que pour l’accompagnement de la renutrition dans les situations d'anorexie mentale et de dénutrition.\nVous contribuez à la prise en charge des situations d'ARFID, notamment dans les dimensions sensorielles et comportementales de l'alimentation tout en contribuant à la prévention et à la gestion des complications nutritionnelles liées aux TCA.\nVous prenez part à la conception, à la mise en œuvre et à l'évaluation du programme d'Hôpital de Jour, par le biais de l’animation ou de la coanimation des activités thérapeutiques en lien avec l'alimentation.\nVous accompagnez la prise des repas et collations thérapeutiques, tout en contribuant à la psychoéducation des patients et de leurs familles, ainsi qu’à l'élaboration des supports thérapeutiques et éducatifs.",
+    "external_url": "https://jobs.smartrecruiters.com/HUG/744000150610759-dieteticien-ou-dieteticienne-20-?oga=true",
+    "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000150611019": {
+    "description": "L'équipe « poste de travail » de la DTN-IA traite les demandes de prestations informatiques du personnel et met à disposition leurs équipements (PC, MAC, tablettes, téléphones, fax, imprimantes, etc.). Elle en assure la mise en service, le renouvellement et la résolution des incidents. Elle contribue à l'évolution du poste de travail. \nAu sein de cette équipe, vous êtes responsable du groupe en charge de l’installation et du dépannage des postes de travail. Vous encadrez une équipe d’une quinzaine de techniciens assurant le niveau 2 dans la chaine de support de la DTN-IA. \nEn outre, vous organisez et priorisez les activités de votre équipe en veillant au respect des planning, de la qualité et des objectifs fixés par la DTN-IA. Vous supervisez l’activité des collaborateurs de votre équipe et vous êtes à même de les assister et les conseiller dans la résolution des incidents et des mises en service complexes. \nVous développez et enrichissez les procédures et méthodes de travail (KCS) afin de consolider et partager la connaissance. \nVous réalisez des outils / scripts permettant de faciliter le diagnostic ou le dépannage des postes.  \nVous sponsorisez les projets relatifs à l’évolution du poste de travail en collaboration avec l’ingénierie du poste de travail. \nVous produisez les indicateurs de suivi de l’équipe et reportez au responsable de domaine poste de travail. \nTout en gérant le quotidien, vous anticipez l’avenir en participant à la veille technologique dans le domaine des postes de travail et en proposant des évolutions technologiques \nVous veillez à ce que votre équipe soit à jour de ses compétences et identifiez les besoins en formation. \nEnfin, vous représentez votre groupe au sein de l’institution. Vous travaillez en étroite collaboration avec les autres équipes de la DTN-IA, en particulier avec celle en charge de l’ingénierie des postes de travail.",
+    "external_url": "https://jobs.smartrecruiters.com/HUG/744000150611019-ingenieure-ou-ingenieur-systemes-cheffe-ou-chef-du-secteur-depannage-informatique-100-?oga=true",
+    "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000150608186": {
+    "description": "Sous la supervision des responsables médical et technique du LTCHO, les tâches et responsabilités du technicien ou technicienne sont de prendre en charge l’ensemble du processus de préparation de tissus humains pour leur distribution à des fins de greffe, soit, vous réceptionnez les cellules prélevées sur le donneur en provenance de suisse ou d’ailleurs. Vous préparez, analysez et conservez ces cellules en environnement contrôlé (salle blanche, GMP). Vous préparez les échantillons pour les analyses par cytométrie de flux. Vous réalisez les dossiers de production avant leur transmission au responsable contrôle qualité. Vous préparez et congelez le sang foeto-placentaire pour la banque. Vous réalisez les dossiers de sang foeto-placentaire pour la banque avant leur transmission au responsable contrôle qualité et l’envoi au SBSC.\nVous collaborez au bon fonctionnement du laboratoire et de sa qualité en assurant le travail de maintenance du matériel et des équipements utilisés, y compris les validations technique et biologique, en collaboration avec le personnel du laboratoire LTCHO et celui de la plateforme LTCC.\nVous participez à la gestion administrative du laboratoire.\nCette énumération de tâches n’est pas exhaustive. Les missions peuvent varier selon les besoins spécifiques du laboratoire.",
+    "external_url": "https://jobs.smartrecruiters.com/HUG/744000150608186-technicien-ou-technicienne-en-analyses-biomedicales-en-therapie-cellulaire-100-?oga=true",
+    "status": "matched"
+  },
+  "https://www.michaelpage.ch/de/job-detail/business-development-specialist-100/ref/jn-032026-6968386?lang=en&ng-src=other-users-applied&ng-jn=job-search": {
+    "external_url": "https://www.michaelpage.ch/de/job-detail/business-development-specialist-100/ref/jn-032026-6968386?lang=en&ng-src=other-users-applied&ng-jn=job-search",
+    "status": "matched",
+    "title": "Business Development Specialist (a) 100%",
+    "company": "Michael Page Switzerland",
+    "location": "Switzerland",
+    "posted_date": "",
+    "department": "",
+    "score": -2,
+    "matched_keywords": [],
+    "deducted_keywords": [
+      "location:Switzerland"
+    ]
+  },
+  "https://www.michaelpage.ch/job-detail/asap-sponsorship-business-development-manager-mwd/ref/jn-092026-7096210?ng-src=other-users-applied&ng-jn=job-search": {
+    "external_url": "https://www.michaelpage.ch/job-detail/asap-sponsorship-business-development-manager-mwd/ref/jn-092026-7096210?ng-src=other-users-applied&ng-jn=job-search",
+    "status": "matched",
+    "title": "ASAP: Sponsorship & Business Development Manager (m/w/d)",
+    "company": "Michael Page Switzerland",
+    "location": "Switzerland",
+    "posted_date": "",
+    "department": "",
+    "score": -2,
+    "matched_keywords": [],
+    "deducted_keywords": [
+      "location:Switzerland"
+    ]
   }
 }
