@@ -1135,11 +1135,6 @@
       "location:Zuerich & Umgebung / Ostschweiz, Switzerland"
     ]
   },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000145298389": {
-    "description": "Introduction\nAs part of the Industry, Procurement and Knowledge Transfer (IPT) Department, you will join the Procurement and Industrial Services Group (PI), which is responsible for procuring all supplies and services for the Organization, ensuring that the specified and contractual technical, delivery and performance requirements are met at the lowest possible overall cost whilst achieving balanced industrial returns for CERN Member States and respecting CERN's Procurement Rules. The Group monitors and reports procurement activities and statistics to CERN Management and Member State representatives.\n \nFunctions\nIn the role of Procurement and Contracts Officer, you will:\nAdvise and support the Organization in identifying procurement strategies, ensuring cost efficiency and quality.\nCarry out research to identify and participate in the qualification of potential suppliers.\nPrepare price enquiries, market surveys and invitations to tender in accordance with the Organization's Procurement Rules and on an international basis.\nAnalyse offers, prepare proposals for adjudications and submit these to CERN’s Management.\nEnsure the preparation, negotiation and follow-up of numerous orders and contracts.\nContribute to the advancement of CERN's procurement techniques and tools, influencing their modernisation and optimisation.\nFoster and sustain a wide-ranging network of relationships across diverse levels, both internally and externally, while actively representing CERN in global business events.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000145298389-procurement-and-contracts-officer-ipt-pi-su-2026-184-ld-?oga=true",
-    "status": "matched"
-  },
   "https://www.michaelpage.ch/job-detail/data-and-market-intelligence-analyst/ref/jn-072026-7074770": {
     "external_url": "https://www.michaelpage.ch/job-detail/data-and-market-intelligence-analyst/ref/jn-072026-7074770",
     "status": "ignored",
@@ -1257,19 +1252,9 @@
       "location:Switzerland"
     ]
   },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000146407811": {
-    "description": "Your responsibilities As an Agile Coach, you will join the Delivery section within the Business Computing group. Your mission will be to coach, mentor, and train teams and business partners on lean-agile practices in software development, fostering a culture of collaboration, accountability, and continuous improvement. We are looking for someone highly motivated and passionate about business agility.\nThe group is currently in the preparation phase for two business transformation projects: one covering Finance, Procurement, and Logistics processes (new ERP system) and, in parallel, the implementation of a new Human Capital Management system. This requires strong coordination and cross-functional collaboration across the group. As an Agile Coach, you will be assigned to one of the projects to contribute to the successful implementation.\nBeing part of the Lean/Agile chapter, you will drive BC Group events, help grow the Agile maturity of all group internal actors (teams, designers, product managers, the group management team itself) and work with the external group stakeholders to increase their awareness, acceptance and embrace of the group's Agile ways of working. You will be aiming to deepen business agility fundamentals and lean portfolio management concepts within the group, leading to a healthier relationship between the group and its business partners.\nYour responsibilities\nIn this position, your main functions will be:\nCooperate in coordinating the business transformation projects.\nTrain individuals and teams in agile techniques and frameworks.\nDesign a strategy for improving the collaboration and flow of information between software development teams and their business stakeholders.\nCoach and facilitate agile workshops for product teams, business representatives, and other stakeholders on Lean/Agile practices and tools.\nWork with the Lean/Agile Chapter to increase the knowledge of Lean/Agile Practices, ensuring the organisation is at the forefront of industry best practices.\nPromote an agile mindset and foster an environment for high-performing team dynamics, accountability, and continuous improvement.\nThis role includes team supervision responsibilities.\n \nYour profile\nExperience working with Scrum teams in a scaled Agile context.\nExperience with Product Management frameworks.\nExperience with business transformation projects (e.g., ERP or HCM implementations).\nSkills\nSoft skills:\nExcellent communication, facilitation, and organisational skills.\nTechnical skills:\nKnowledge of scaled Agile frameworks and how to put them into practice.\nKnowledge of business transformation projects (e.g., ERP or HCM implementations).\nAgile certifications (e.g., Scrum Master, Leading SAFe).\nDesign thinking skills.\nSpoken and written English, with a commitment to learn French.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nYou have a professional background in Computer Science, Organisational Psychology (or a related field) and have either:\na Master's degree with 2 to 6 years of post-graduation professional experience;\nor a PhD with no more than 3 years of post-graduation professional experience.\nYou have never had a CERN fellow or graduate contract before.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000146407811-agile-coach-fap-bc-dl-2026-142-grap-?oga=true",
-    "status": "matched"
-  },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000146418409": {
     "description": "Introduction\nJoin CERN's Scientific Information Service, as part of the OSI Department, and contribute to the development of platforms such as INSPIRE, SCOAP³, CERN Analysis Preservation and HEPData, used by researchers and scientific communities worldwide. You will design, develop, and operate backend applications, APIs, integrations, and data processing workflows, working primarily with Python and Django.\n\nYou will also help bring machine learning and emerging AI capabilities to these platforms, including information extraction, classification, matching, recommendation, semantic search, RAG, and LLM-based applications. You will explore new ways of connecting scientific information platforms, including technologies such as the Model Context Protocol, with a focus on production systems rather than fundamental ML research.\nFunctions\nDevelop, maintain, and operate scientific information applications using Python and Django, including APIs, data models, integrations, and data processing workflows.\nIntegrate machine learning and AI capabilities into production systems, using technologies such as Large Language Models, retrieval-augmented generation, semantic search, and the Model Context Protocol.\nEvaluate emerging AI technologies and apply them to concrete scientific information use cases.\nEnsure software quality through automated testing, code review, monitoring, and continuous integration.\nCollaborate with software engineers, product owners, and information specialists on technical solutions and architecture.",
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000146418409-software-engineer-python-osi-sis-ts-2026-185-ld-?oga=true",
-    "status": "matched"
-  },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000146456130": {
-    "description": "Are you interested in developing measurement, control and monitoring tools that are used on real scientific infrastructure?\nYou will join a team working on various measurement instrumentation and control applications used to operate, supervise, and improve CERN systems. You will contribute to the development and evolution of software built with LabVIEW and Python, supporting both existing operational tools and new developments. This includes applications used for vacuum measurements, data logging, gas analysis and the integration of instrumentation into CERN's control environment. The role also includes work related to new installations and upgrades, where reliable monitoring, automation and safe operation are essential.\nThis is an opportunity to work close to equipment, users and experts, and to contribute to tools that are directly relevant for daily operation, commissioning and future upgrades. You will gain practical experience in measurement, controls, software integration, instrumentation and test environments, while learning CERN working methods and standards in a highly collaborative setting.\nYour responsibilities\nDevelop and maintain applications for monitoring and control of vacuum instrumentation using LabVIEW and Python.\nContribute to software used with gas analysers, pressure gauges and related vacuum equipment.\nImprove tools for acquisition, logging, analysis and visualisation of various data.\nParticipate in the integration of new instruments and new functionalities into the existing control infrastructure.\nSupport testing, validation and deployment of software on operational systems.\nWork with engineers, technicians and users to translate operational needs into robust software solutions.\nDocument developments, configurations and procedures on the team's internal documentation platforms.\nSupport installed applications and participate in their follow-up and maintenance.\nMore information here.\nYour profile\nInitial experience programming in Python.\nKeen interest in the integration of scientific and industrial instrumentation, data acquisition, analysis and control systems.\nInitial experience developing applications in LabVIEW would be an advantage.\nSkills\nLabVIEW; LabVIEW Real-Time and/or FPGA knowledge is an advantage.\nPython.\nKnowledge of Linux environments.\nStructured, rigorous & autonomous working style.\nInterest in multidisciplinary teamwork in an international environment.\nSpoken and written English or French, with a commitment to learn the basics of the other language.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nBy the application deadline, you have a maximum of two years of professional experience since graduation in Software, Electrical/Electronics Engineering (or a related field) and your highest educational qualification is either a Bachelor's or Master's degree.\nYou have never had a CERN fellow or graduate contract before.\nApplicants without University degree are not eligible.\nApplicants with a PhD are not eligible.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000146456130-junior-test-measurement-engineer-be-cem-mta-2026-216-grae-?oga=true",
     "status": "matched"
   },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000146736052": {
@@ -1647,7 +1632,7 @@
     "title": "Associate Principal Scientist Analytical Project Lead 12 months fix-term contract 80-100%",
     "company": "Lonza",
     "location": "CH - Basel",
-    "posted_date": "2026-09-09",
+    "posted_date": "2026-09-08",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1747,18 +1732,13 @@
     "title": "(Associate) Principal Scientist Bioanalytics 80-100%",
     "company": "Lonza",
     "location": "CH - Basel",
-    "posted_date": "2026-09-16",
+    "posted_date": "2026-09-15",
     "department": "",
     "score": 1,
     "matched_keywords": [
       "PhD"
     ],
     "deducted_keywords": []
-  },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000149781204": {
-    "description": "Do you enjoy building, assembling and bringing machines to life?\nJoin CERN and contribute to the development of advanced electro-mechanical equipment used in a unique high-technology environment. Working alongside experienced engineers and technicians, you will take part in the design, assembly, wiring, testing and commissioning of specialised machines, gaining hands-on experience across electrical, mechanical and control systems.\nWe will provide all the training you need. What matters most is your curiosity, practical mindset, and eagerness to learn.\nYour responsibilities\nLearn how to inspect and test advanced materials, carrying out quality checks and measurements to ensure they meet specifications.\nSupport laboratory testing activities and help evaluate how materials behave under different mechanical conditions.\nGain hands-on experience in creating electrical diagrams, wiring equipment, programming PLCs, and commissioning electro-mechanical machines.\nParticipate in the assembly, testing and operation of specialised machinery used in a cutting-edge engineering environment.\nWork with experienced engineers and technicians to integrate new materials into innovative cables and coils for future technologies.\nMore information here.\nYour profile\nBasic experience in electrical testing or material testing.\nBasic experience in reading and drawing of circuit diagrams.\nExperience in the cabling and commissioning of electrical cabinets or machines is an advantage.\nExperience in mechanical assembly is an advantage.\nSkills\nKnowledge in instrumentation and data acquisition is an advantage.\nAble to work independently and in teams.\nReliable and autonomous.\nSpoken and written English or French, with a commitment to learn the other language.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nBy the application deadline, you have a maximum of two years of professional experience since graduation in Electrical and Electronics Engineering (or a related field) and your highest educational qualification is a general secondary education diploma.\nYou have never had a CERN fellow or graduate contract before.\nApplicants with a Bachelor's, Master's or PhD degree are not eligible.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000149781204-electro-mechanical-technician-te-msc-hsd-2026-193-grae-?oga=true",
-    "status": "matched"
   },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000149780079": {
     "description": "Introduction\nYou will ensure the availability and reliability of CERN's cryogenic installations by providing daily technical support, maintaining industrial instrumentation systems and diagnosing complex electrical faults. You will also contribute to the design and optimisation of low-voltage electrical cabinets and components, in compliance with electrical safety standards.\nFunctions\nContribute to the technical design and development of electrical cabinets for cryogenic systems, including the calculation to dimension the electrical systems, producing detailed electrical drawings, selecting components and ensuring compliance with electrical safety requirements.\nParticipate in and supervise the fabrication, installation and commissioning of electrical and instrumentation systems for cryogenic installations, including related procurement activities such as evaluating cost estimates and ordering component.\nProvide daily operational support for cryogenic installations and contribute to the stand-by duty service to resolve urgent issues (including fault-finding, implementation of fixes, and reporting to the operation team).\nPlan and coordinate preventive and corrective maintenance activities for system components, setting maintenance priorities and keep the corresponding technical documentation and procedures up to date.\nSelect and implement industrial instrumentation systems and carry out equipment testing and calibration according to operational requirements.",
@@ -1916,7 +1896,7 @@
     "title": "Senior Scientist Physico-Chemical Quality Control 80-100%",
     "company": "Lonza",
     "location": "CH - Basel",
-    "posted_date": "2026-09-19",
+    "posted_date": "2026-09-18",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1931,7 +1911,7 @@
     "title": "Senior Legal Counsel – Legal Business Development & Corporate",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-10",
+    "posted_date": "2026-09-09",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1944,7 +1924,7 @@
     "title": "Senior Computational & Applied AI Scientist (Real-World Data))",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-11",
+    "posted_date": "2026-09-10",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -1963,7 +1943,7 @@
     "title": "Internship in Global Medical Affairs (for 12 months)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-15",
+    "posted_date": "2026-09-14",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -1982,7 +1962,7 @@
     "title": "Global MSAT DP Pilot Plant Bioprocess Scientist/Engineer (Basel, permanent)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-10",
+    "posted_date": "2026-09-09",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1998,7 +1978,7 @@
     "title": "Postdoctoral Scientist – Vascularized Kidney Organoids (at the Institute of Human Biology (IHB))",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-05",
+    "posted_date": "2026-09-04",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -2018,7 +1998,7 @@
     "title": "Senior Computational & Applied AI - Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-01",
+    "posted_date": "2026-08-31",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -2036,7 +2016,7 @@
     "title": "Principal Scientist, Respiratory Discovery",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-02",
+    "posted_date": "2026-09-01",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -2060,7 +2040,7 @@
     "title": "Research Associate In Cellular Assay Development",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-25",
+    "posted_date": "2026-08-24",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -2168,7 +2148,7 @@
     "title": "Cardio-Renal Discovery & Scientific Strategy Area Leader",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-22",
+    "posted_date": "",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -2205,7 +2185,7 @@
     "title": "Data Science & AI Innovation Postdoctoral Fellow in Machine Learning for Chemical Synthesis and Reactivity Prediction",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-09-17",
+    "posted_date": "2026-09-16",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -2299,7 +2279,7 @@
     "title": "Director, Portfolio Analytics",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-27",
+    "posted_date": "2026-08-26",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2314,7 +2294,7 @@
     "title": "AI Scientist – AI-Driven Target Identification",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-25",
+    "posted_date": "2026-08-24",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -2333,7 +2313,7 @@
     "title": "Therapeutic Area Biomarker Director  – Cardiovascular and Metabolism",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-09-01",
+    "posted_date": "2026-08-31",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -2357,7 +2337,7 @@
     "title": "USP Research Scientist II",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-09-02",
+    "posted_date": "2026-09-01",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2373,7 +2353,7 @@
     "title": "Translational Medicine Expert – Gastroenterology, Associate Director",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-09-08",
+    "posted_date": "2026-09-07",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -2390,7 +2370,7 @@
     "title": "Translational Medicine Director/Associate*- Cardiovascular & Metabolic",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-09-04",
+    "posted_date": "2026-09-03",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -2414,7 +2394,7 @@
     "title": "Biomarker Therapeutic Area Head -Neuroscience",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-09-08",
+    "posted_date": "2026-09-07",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -2438,7 +2418,7 @@
     "title": "Research Scientist II, Immunology",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-09-16",
+    "posted_date": "2026-09-15",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -2654,7 +2634,7 @@
   },
   "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-vice-president-of-business-development-basel-land-873413/1": {
     "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-vice-president-of-business-development-basel-land-873413/1",
-    "status": "matched",
+    "status": "ignored",
     "title": "Vice President of Business Development(m/f/d)",
     "company": "Hays Switzerland",
     "location": "Basel Land, Switzerland",
@@ -2671,7 +2651,7 @@
     "title": "Research Scientist II",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-09-22",
+    "posted_date": "",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -2686,5 +2666,20 @@
       "translational research"
     ],
     "deducted_keywords": []
+  },
+  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000150937109": {
+    "description": "Join the ATLAS Data Acquisition (DAQ) team and contribute to the modernisation of one of the world's most advanced scientific computing networks. Working alongside experienced network engineers, you will gain hands-on experience in the deployment, testing, operation, and monitoring of a high-availability, multi-terabit-per-second network that underpins the ATLAS experiment, while helping to develop future-proof monitoring and alerting solutions in collaboration with experts across CERN and the LHC experiments.\nYour responsibilities\nParticipate in the installation, commissioning, testing, and operation of network infrastructure supporting the ATLAS Data Acquisition (DAQ) system.\nDeploy and maintain a production-ready network monitoring and alerting solution for critical DAQ services and equipment.\nCollaborate with experts from other LHC experiments to identify common requirements and contribute to the development of scalable, future-proof monitoring solutions.\nSupport the operation and upkeep of the ATLAS TDAQ laboratory, including infrastructure, equipment, and resource management activities.\nContribute to the maintenance and evolution of the ATLAS DAQ hardware infrastructure, including server deployment, hardware interventions, and related technical support.\nYour profile\nBasic experience as Sysadmin or Netadmin.\nHands-on experience with server and/or switch installations in professional environment.\nSkills\nBasic knowledge of TCP/IP stack and Ethernet networks.\nBasic programming skills in Python and Bash.\nGeneral knowledge of Linux systems.\nAbility to work in teams.\nSpoken and written English, with a commitment to learn French.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nBy the application deadline, you have a maximum of two years of professional experience since graduation in Computing Infrastructures (or a related field) and your highest educational qualification is a general secondary education diploma.\nYou have never had a CERN fellow or graduate contract before.\nApplicants with a Bachelor's, Master's or PhD degree are not eligible.",
+    "external_url": "https://jobs.smartrecruiters.com/CERN/744000150937109-network-administrator-in-atlas-daq-ep-atl-daq-2026-228-grae-?oga=true",
+    "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000150951229": {
+    "description": "À la Clinique de Crans-Montana, nous vous offrons l'opportunité de débuter votre parcours professionnel dans un environnement stimulant, humain et riche en découvertes.\nDurant votre année de stage MPE, vous évoluez au sein de plusieurs secteurs administratifs essentiels au bon fonctionnement de l'institution, notamment la réception, les admissions, les ressources humaines, la gestion administrative et comptable ainsi que le secrétariat.\nAccompagné ou accompagnée par des professionnelles et professionnels expérimentés, vous développez progressivement vos compétences en participant à des activités variées telles que la gestion de la correspondance, le suivi administratif des patientes et patients, l'élaboration de statistiques, la gestion des caisses et des fournisseurs, ainsi que la saisie d'écritures comptables.\nLa diversité des missions confiées et les exigences propres au milieu hospitalier vous permettent d'acquérir une expérience complète et enrichissante. Vous découvrez les multiples facettes du travail administratif tout en contribuant, à votre niveau, à la qualité de l'accueil et des prestations offertes à nos patientes et patients.\nCette année de stage constitue une excellente opportunité de mettre en pratique les connaissances acquises à l'école tout en développant de nouvelles compétences professionnelles dans un cadre formateur et valorisant.",
+    "external_url": "https://jobs.smartrecruiters.com/HUG/744000150951229-stage-de-maturite-professionnelle-commerciale-mpe-crans-montana-100-?oga=true",
+    "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000150937069": {
+    "description": "Au sein de ladite équipe RH, votre activité englobe notamment la gestion administrative des collaboratrices et collaborateurs de la Direction et services communs, incluant la production d’actes administratifs variés.\nDans le cadre de cette opportunité, vous renseignez et conseillez les collaboratrices et collaborateurs et les cadres sur les questions liées aux procédures RH et vous assumez la gestion administrative pour le public cible dont vous êtes responsable, ceci en synergie avec une collègue responsable RH adjointe et deux gestionnaires RH. Ainsi, vous intervenez au plan administratif sur tout le cycle de vie des membres du personnel, du recrutement au départ, et en lien avec de nombreux partenaires de la DRH et de l’institution (gestionnaire salaire, service recrutement, managers, etc.). \nVous garantissez, par délégation du responsable des ressources humaines, l'organisation et la gestion des activités liées au traitement des dossiers tout en veillant à une juste répartition des priorités. Vous coordonnez les prestations RH selon les règles et directives de la DRH en représentant la politique des ressources humaines institutionnelle.\nVous apportez du soutien à votre responsable dans le développement d’un climat de travail harmonieux et respectueux des personnes.\nPersonne orientée service clients et solutions, vous vous reconnaissez par ailleurs dans les valeurs des HUG que vous incarnez dans l’exercice de vos fonctions.",
+    "external_url": "https://jobs.smartrecruiters.com/HUG/744000150937069-gestionnaire-rh-100-?oga=true",
+    "status": "matched"
   }
 }
