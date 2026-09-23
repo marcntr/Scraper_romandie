@@ -9,7 +9,7 @@
     "keywords": "npp"
   },
   "_generic:Charles River Laboratories": {
-    "keywords": "regulatory,scientifique,scientist"
+    "keywords": "regulatory,scientifique"
   },
   "_generic:MoonLake Immunotherapeutics": {
     "keywords": "clinical development,medical affairs"
@@ -1243,21 +1243,6 @@
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000146418409-software-engineer-python-osi-sis-ts-2026-185-ld-?oga=true",
     "status": "matched"
   },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000146736052": {
-    "description": "You will contribute to developing, deploying, and maintaining the application supporting the Open Research Europe publishing platform based on Open Journal Systems (OJS). Working under the guidance of a senior engineer, you will develop, test, and operate the platform and its integrations to ensure secure and reliable service delivery in close collaboration with the business and editorial operations team.\nYour responsibilities:\nContribute to developing the OJS application and plugins, testing integrations with external services.\nContribute improvements to open-source projects such as OJS and related components.\nAssist in the deployment and maintenance of the Open Research Europe infrastructure using Kubernetes/OpenShift and automated CI/CD workflows.\n Participate in system testing, performance checks, documentation of procedures, and day-to-day operational support.\nYour profile:\nDemonstrated experience in developing web applications, in particular PHP and Laravel stack.\nFamiliarity with Open Journal Systems (OJS) source code, plugin system and workflows will be a plus.\nExperience with containerised infrastructure and orchestration tools (Kubernetes or OpenShift), and knowledge of system administration, CI/CD pipelines, and infrastructure automation (e.g. Helm, GitLab CI) will be a plus.\nStrong problem-solving and communication skills, with an interest in open-source development and collaborative work.\nSkills:\nScripting and integrations: PHP, Python & MySQL.\nWeb platform management: Open Journal Systems (OJS) or similar.\nDeployment, Infrastructure and Containers orchestration: CI/CD, Docker, Helm, Kubernetes / OpenShift (Container orchestration).\nSpoken and written English, with a commitment to learn French.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nBy the application deadline, you have a maximum of two years of professional experience since graduation in Software Engineer or Computer Science (or a related field) and your highest educational qualification is either a Bachelor's or Master's degree.\nYou have never had a CERN fellow or graduate contract before.\nApplicants without University degree are not eligible.\nApplicants with a PhD are not eligible.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000146736052-software-and-infrastructure-engineer-it-ca-osi-2026-213-grae-?oga=true",
-    "status": "matched"
-  },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000146710564": {
-    "description": "Are you a talented Software Engineer, passionate about developing Web applications using state-of-the-art UX/UI technology? Do you enjoy designing scalable back-end systems for communication systems and working on several layers of the software stack? Work with us to develop and evolve CERN's advanced Network and Telecom infrastructure providing automation solutions for its effective management!\nThe Fabric & Communication Systems (FCS) Group is responsible for all aspects of network and telephony provision at CERN. We support a campus network (cabled and Wi-Fi) with over 50,000 connected devices, a 5Tb/s non-blocking switching fabric for a data centre with over 10,000 servers, more than 4,000 switches with 10Gb/s interfaces, and external connections including multiple trans-border 100Gb/s circuits. The FCS group also operates its own VoIP telephony system, dedicated mobile telephony services (6500 subscriptions), a TETRA digital radio system (500 terminals) and a LoRaWAN network.\nAs a member of the Communication Tools (CT) Section in the FCS Group, you will join a team of passionate Software Engineers in charge of the design, development and maintenance of the software suite used to model, configure, support and manage the CERN networks and telecom infrastructures.\nYour responsibilities:\nContribute to the development of CERN's network automation tools, focusing on faster and more flexible IP address provisioning. A key task will be to work on live DHCP updates, allowing DHCP leases to be configured dynamically and enabling near-instant IP address allocation for users and services.\nExtend IP Address Management support for Layer 2 interfaces, improving how network interfaces, devices and IP resources are modelled and managed. This work will involve back-end development, database modelling, API integration and collaboration with network engineers to deliver reliable features for CERN's production network.\nMaintain and further develop the IT-FCS Web interfaces used by all CERN users to request network/telephony changes.\nTogether with the other members of the team, participate in the design and development of new modules for the internal IT-FCS network and telecom management framework, such as Technical Network firewall configuration automation/provisioning.\nPromote and develop DevOps processes and tools to further increase the automation and the quality of the produced software.\nPropose and implement changes in our database model and network APIs in order to support service integration solutions in the CERN data centers.\nStay up to date on latest software technology trends.\nYour profile:\nExperience in software development through professional experiences, academic projects, internships, traineeships or personal/open-source projects.\nExposure to the development of web applications, including either front-end interfaces, back-end services or both.\nSome experience working with databases, data models or APIs as part of a software project.\nExperience working in a team environment, for example through university projects, internships or collaborative development work.\nFamiliarity with software development practices such as version control, testing or continuous integration would be an advantage.\nSkills:\nStrong knowledge of Java (25), Spring Boot (4.1), REST, React (19).\nHighly desired: SQL (Oracle and PL/SQL) and UX/UI design.\nSpoken and written English, with a commitment to learn French.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nBy the application deadline, you have a maximum of two years of professional experience since graduation in Computer Science (Software Engineering) (or a related field) and your highest educational qualification is either a Bachelor's or Master's degree.\nYou have never had a CERN fellow or graduate contract before.\nApplicants without University degree are not eligible.\nApplicants with a PhD are not eligible.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000146710564-full-stack-software-engineer-it-fcs-ct-2026-215-grae-?oga=true",
-    "status": "matched"
-  },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000146695809": {
-    "description": "Do you want to contribute to solving a long-standing mystery of particle accelerators: why can tiny dust grains have such a big impact on high energy particle beams? This could be the perfect opportunity for you.\nYou will lead the development of a novel experimental setup, from design and construction to commissioning, combining computational studies and hands-on testing to advance cutting-edge accelerator research.\nYour responsibilities:\nDesign and develop a dedicated test stand to study beam-dust interactions in accelerator environments.\nConduct cutting-edge research in collaboration with experts in beam physics, machine protection, and vacuum technology.\nDevelop and apply physics models for the charging and release mechanisms of macroscopic dust grains on conducting and insulating surfaces.\nDesign and execute experimental tests to validate theoretical models.\nInvestigate controlled methods for producing and reproducing beam-dust interaction events.\nIdentify and propose mitigation strategies to minimise dust-induced beam losses in future accelerator facilities.\nYour profile:\nDemonstrated experience in modelling physics phenomena.\nExperience in setting up and conducting laboratory experiments, including measurement analysis.\nExperience with numerical simulations and scientific computing would be an asset.\nSkills:\nSolid understanding of particle accelerators and beam physics.\nStrong foundation in classical electrodynamics.\nProficiency in scientific programming (e.g., Python, MATLAB, or similar).\nAbility to work independently while collaborating effectively with experts from different technical domains.\nCreative problem-solving skills with the ability to develop innovative solutions.\nSpoken and written English, with a commitment to learn French.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nYou have a professional background in Physics or related field (or a related field) and have either:\na Master's degree with 2 to 6 years of post-graduation professional experience;\nor a PhD with no more than 3 years of post-graduation professional experience.\nYou have never had a CERN fellow or graduate contract before.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000146695809-applied-physicist-beam-dust-interactions-te-mpe-cb-2026-139-grap-?oga=true",
-    "status": "matched"
-  },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000146658359": {
     "description": "As a Shipping Officer in CERN's Shipping Unit, you will organise and coordinate the import and export transportation of goods worldwide by road, air, sea, and rail. You will manage a wide range of shipments, including chemicals, radioactive materials, dual-use items, and other regulated goods, ensuring safe, efficient, and compliant transport operations.\nYou will coordinate transport requests, prepare documentation and quotations, advise CERN users, and ensure compliance with international regulations, contributing to the smooth and reliable movement of goods across CERN's global supply chain.\nYour responsibilities:\nReview, correct, and validate transport requests, and organise import and export shipments by road, air, sea, and rail.\nEnsure compliance with transport, customs, and dangerous goods regulations, and prepare and verify transport and customs documentation.\nCoordinate shipments with carriers, freight forwarders, and internal stakeholders, track shipments, and ensure timely delivery.\nAdvise CERN users on transport and logistics solutions, prepare transport quotations, and recommend the most suitable shipping options.\nVerify and approve transport invoices, and resolve transport issues, claims, and delivery disputes.\nProvide excellent customer service and respond to users' transport-related enquiries.\nSupport continuous improvement of shipping processes and logistics tools.\nYour profile:\nSome experience in organising international transport operations, including customer service and coordination with various partners across the transport industry.\nSome initial exposure to Incoterms® and their application in international trade and transport.\nSome experience in writing clear and structured procedures and work instructions.\nSkills:\nExcellent interpersonal and communication skills, with a strong customer and service-oriented mindset.\nStrong organisational skills, with the ability to effectively manage priorities and adapt to a dynamic working environment.\nGood knowledge of Microsoft Office applications, particularly Microsoft Excel and Microsoft Word.\nSpoken and written both English and French.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nBy the application deadline, you have a maximum of two years of professional experience since graduation in Commercial Business Administration [...] (or a related field) and your highest educational qualification is a general secondary education diploma.\nYou have never had a CERN fellow or graduate contract before.\nApplicants with a Bachelor's, Master's or PhD degree are not eligible.",
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000146658359-shipping-officer-sce-ssc-sc-2026-217-grae-?oga=true",
@@ -1310,11 +1295,6 @@
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000147435309": {
     "description": "The Electrical Engineering Group (EN-EL) at CERN is responsible for the electrical power-distribution network (from 400 kV to 400/230V), for the fibre-optics infrastructure, and for signal and DC-power cabling for the accelerator complex.\nYou will join the electrical Design and Documentation Office (EN-EL-DDO). You will take on a support electrical designer role. This will include the creation and modification of electrical drawings, design of low voltage distribution networks, cable sizing, equipment sizing, LV protection studies and the general support to senior electrical designers. With time you will be required to take on design tasks of increasing complexity. In addition, you will oversee various quality-related activities within the Design Office, such as the management of the printing office and the maintenance and updating of templates.\nThis is the perfect opportunity for a junior technician to further establish their existing knowledge of low voltage distribution circuits by putting it into practice.\nYour responsibilities:\nPreparing design drawings using CAD software.\nPreparing calculation notes using ElecCalc/Caneco BT or similar.\nPreparing bills of material and cabling tables for electrical-related equipment in Excel.\nUpdating excel based design templates.\nGeneral quality related tasks in the design office.\nYour profile:\nDemonstrated experience in:\nThe design of Low voltage distribution networks, cable sizing and selectivity studies.\nProducing drawings in AutoCAD or similar.\nThe intermediate level of Microsoft EXCEL.\nSkills:\nAn understanding of low voltage distribution networks (selectivity, completing calculation notes, knowledge of European LV standards, protection, protection of circuits for indirect contact, knowledge of different types of earthing systems).\nAn understanding of power systems; voltage drop calculations, short circuit calculations, understanding fault levels, dimensioning of cables.\nExperience on low voltage design calculation tools (ElecCalc, Caneco or similar software).\nProficient in AutoCAD or similar.\nProficient in Microsoft Excel.\nSpoken and written English or French, with a commitment to learn the basics of the other language.\nBeneficial skills/or knowledge:\nExperience on the design of lighting systems for buildings and external areas using DIALux.\nExperience with E-PLAN or similar software.\nExperience in the design of medium voltage distribution networks.\nMotivated candidates without direct design office experience would still be considered.\nEligibility criteria:\nBy the application deadline, you have a maximum of two years of professional experience since graduation in Electrical Engineering (or a related field) and your highest educational qualification is a general secondary education diploma.\nYou have never had a CERN fellow or graduate contract before.\nApplicants with a Bachelor's, Master's or PhD degree are not eligible.",
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000147435309-electrical-design-technician-en-el-ddo-2026-218-grae-?oga=true",
-    "status": "matched"
-  },
-  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000147502102": {
-    "description": "En tant que cheffe ou chef de clinique titulaire du titre de spécialiste en médecine interne générale, vous rejoignez l’équipe de médecine péri-opératoire du Service de chirurgie orthopédique et traumatologie de l’appareil moteur. Vous contribuez à la prise en charge médicale globale des patientes et patients hospitalisés dans les différentes unités du service. \nEn collaboration étroite avec les équipes chirurgicales, anesthésiologiques, infirmières et les autres professionnels impliqués, vous assurez l’évaluation, l’optimisation et le suivi des patientes et patients présentant des comorbidités ou des problématiques médicales péri-opératoires. \nVotre activité clinique comprend notamment l’évaluation médicale préopératoire, l’optimisation des pathologies aiguës et chroniques susceptibles d’influencer le risque opératoire ou la récupération, ainsi que la prévention, l’identification et la prise en charge des complications postopératoires. Vous participez aux visites interdisciplinaires et coordonnez les stratégies diagnostiques et thérapeutiques en lien avec les médecins adjoints et médecins adjointes ainsi que les équipes concernées. \nVous supervisez les médecins internes dans leur activité quotidienne, les accompagnez dans leur raisonnement clinique et contribuez activement à leur formation. Vous veillez à la qualité de la documentation médicale, à la continuité des prises en charge et à la coordination du parcours hospitalier des patientes et patients. \nGrâce à votre sens clinique, à votre capacité de priorisation et à votre autonomie, vous gérez des situations variées, parfois complexes, dans un environnement hospitalier exigeant et interdisciplinaire. Vous entretenez une communication claire et constructive avec les équipes médico-soignantes, les patientes et patients ainsi que leurs proches. \nVous participez enfin au développement et à la structuration de l’activité de médecine péri-opératoire en orthopédie, ainsi qu’aux projets d’amélioration de la qualité, d’enseignement et, selon les opportunités, de recherche clinique. \nL’activité est organisée principalement du lundi au vendredi, selon les besoins et le fonctionnement du service.",
-    "external_url": "https://jobs.smartrecruiters.com/HUG/744000147502102-chef-ou-cheffe-de-clinique-en-medecine-interne-pour-la-chirurgie-orthopedique-100-?oga=true",
     "status": "matched"
   },
   "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000147528257": {
@@ -1608,7 +1588,7 @@
     "title": "Associate Principal Scientist Analytical Project Lead 12 months fix-term contract 80-100%",
     "company": "Lonza",
     "location": "CH - Basel",
-    "posted_date": "2026-09-09",
+    "posted_date": "2026-09-08",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1708,7 +1688,7 @@
     "title": "(Associate) Principal Scientist Bioanalytics 80-100%",
     "company": "Lonza",
     "location": "CH - Basel",
-    "posted_date": "2026-09-16",
+    "posted_date": "2026-09-15",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1872,7 +1852,7 @@
     "title": "Senior Scientist Physico-Chemical Quality Control 80-100%",
     "company": "Lonza",
     "location": "CH - Basel",
-    "posted_date": "2026-09-19",
+    "posted_date": "2026-09-18",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1887,7 +1867,7 @@
     "title": "Senior Legal Counsel – Legal Business Development & Corporate",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-10",
+    "posted_date": "2026-09-09",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1900,7 +1880,7 @@
     "title": "Senior Computational & Applied AI Scientist (Real-World Data))",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-11",
+    "posted_date": "2026-09-10",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -1919,7 +1899,7 @@
     "title": "Global MSAT DP Pilot Plant Bioprocess Scientist/Engineer (Basel, permanent)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-10",
+    "posted_date": "2026-09-09",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1935,7 +1915,7 @@
     "title": "Postdoctoral Scientist – Vascularized Kidney Organoids (at the Institute of Human Biology (IHB))",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-05",
+    "posted_date": "2026-09-04",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -1955,7 +1935,7 @@
     "title": "Senior Computational & Applied AI - Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-01",
+    "posted_date": "2026-08-31",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -1973,7 +1953,7 @@
     "title": "Principal Scientist, Respiratory Discovery",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-02",
+    "posted_date": "2026-09-01",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -1997,7 +1977,7 @@
     "title": "Research Associate In Cellular Assay Development",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-25",
+    "posted_date": "2026-08-24",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -2090,7 +2070,7 @@
     "title": "Cardio-Renal Discovery & Scientific Strategy Area Leader",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "",
+    "posted_date": "2026-09-21",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -2127,7 +2107,7 @@
     "title": "Data Science & AI Innovation Postdoctoral Fellow in Machine Learning for Chemical Synthesis and Reactivity Prediction",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-09-17",
+    "posted_date": "2026-09-16",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -2221,7 +2201,7 @@
     "title": "Director, Portfolio Analytics",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-27",
+    "posted_date": "2026-08-26",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2236,7 +2216,7 @@
     "title": "AI Scientist – AI-Driven Target Identification",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-25",
+    "posted_date": "2026-08-24",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -2255,7 +2235,7 @@
     "title": "Therapeutic Area Biomarker Director  – Cardiovascular and Metabolism",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-09-01",
+    "posted_date": "2026-08-31",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -2279,7 +2259,7 @@
     "title": "USP Research Scientist II",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-09-02",
+    "posted_date": "2026-09-01",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2295,7 +2275,7 @@
     "title": "Translational Medicine Expert – Gastroenterology, Associate Director",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-09-08",
+    "posted_date": "2026-09-07",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -2312,7 +2292,7 @@
     "title": "Translational Medicine Director/Associate*- Cardiovascular & Metabolic",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-09-04",
+    "posted_date": "2026-09-03",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -2336,7 +2316,7 @@
     "title": "Biomarker Therapeutic Area Head -Neuroscience",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-09-08",
+    "posted_date": "2026-09-07",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -2360,7 +2340,7 @@
     "title": "Research Scientist II, Immunology",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-09-16",
+    "posted_date": "2026-09-15",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -2581,7 +2561,7 @@
     "title": "Research Scientist II",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "",
+    "posted_date": "2026-09-21",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -2639,12 +2619,22 @@
     "title": "Laboratory Scientist Physico-Chemical Quality Control 80-100%",
     "company": "Lonza",
     "location": "CH - Basel",
-    "posted_date": "2026-09-23",
+    "posted_date": "",
     "department": "",
     "score": 1,
     "matched_keywords": [
       "MSc"
     ],
     "deducted_keywords": []
+  },
+  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000151298909": {
+    "description": "En tant qu’aide en soins et accompagnement, vous prenez en charge des patients et patientes de tout âge. Sous la responsabilité du personnel infirmier, vous effectuez des soins de base et d’accompagnement en leur apportant un soutien constant, tout en développant et favorisant les relations humaines. \nVous participez également à l’organisation d’activités quotidiennes permettant d’assurer leur bien-être physique, psychique et social. Vous apportez ainsi soutien et suppléance dans les activités de la vie quotidienne des patientes et patients et dans l’accompagnement de leur famille. \nVous assurez les tâches de propreté de l'environnement proche du patient ou de la patiente et vous contribuez à sa sécurité en respectant les règles d'hygiène et d'asepsie en vigueur. \nVous participez activement à la prévention de complications liées à l’hospitalisation en collaboration avec les autres corps professionnels de santé (douleur, prévention escarre, prévention chute…).",
+    "external_url": "https://jobs.smartrecruiters.com/HUG/744000151298909-aide-en-soins-et-accompagnement-60-a-100-?oga=true",
+    "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000151297476": {
+    "description": "Dans le cadre de votre fonction, vous avez la responsabilité d’analyser les besoins et les demandes de formation émanant des mandants et mandantes à différents niveaux de l’institution, de les conseiller et de les accompagner dans la mise en place d’actions de formation appropriées.\nVotre expérience professionnelle dans le domaine de la formation pour adultes ainsi que vos connaissances de ses concepts vous permettent de vous positionner comme un acteur ou une actrice clef et influant auprès de vos différents interlocuteurs et interlocutrices (managers, responsables ressources humaines…). Vous êtes un agent ou une agente du changement et de l’innovation. Vous êtes force de proposition et mobilisez votre capacité à comprendre les exigences des métiers afin de répondre aux besoins en formation de l’institution. Vous êtes acteur ou actrice de la transition des dispositifs de formation continue dans l’ère de l’apprentissage hybride, dans une logique d’intelligence collective.\nVous aurez aussi à assurer une veille professionnelle, en partenariat avec les directions métiers et d’autres services de la direction RH, afin d’anticiper l’évolution des compétences de demain et d’assurer que les formations mises en œuvre permettent de répondre à ces nouveaux besoins.\nDans le cadre de la transformation organisationnelle en cours du Centre de formation et de développement, vous n’hésitez pas à émettre des propositions d’amélioration. En contact régulier avec les différents membres de l’équipe pédagogique et vos collègues administratives, vous favorisez le travail collaboratif et l’esprit d’équipe, l’émulation et une dynamique d’innovation. Vous vous investissez à leurs côtés pour accompagner la transformation du Centre de formation et de développement et notamment du secteur de la formation continue.",
+    "external_url": "https://jobs.smartrecruiters.com/HUG/744000151297476-charge-ou-chargee-de-formation-80-a-100-?oga=true",
+    "status": "matched"
   }
 }
