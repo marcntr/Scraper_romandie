@@ -354,7 +354,7 @@
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-09-17"
+    "cached_at": "2026-09-25"
   },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000080108845": {
     "description": "Welcome to the Non-Member State Postdoc Fellowship Programme (Theoretical Physics) Two postdoctoral fellowships are awarded each year by the Non-Member State Fellowship Programme in Theoretical Physics. The Fellowship is granted for two years and can exceptionally be extended to a third year.",
@@ -378,7 +378,7 @@
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-09-17"
+    "cached_at": "2026-09-25"
   },
   "_facets:alirahealth:AliraHealth": {
     "facets": {},
@@ -1094,7 +1094,7 @@
     "title": "Application Development Scientist – Reagents (12 months fixed-term contract)",
     "company": "Bio-Techne / Lunaphore",
     "location": "Tolochenaz, Switzerland",
-    "posted_date": "2026-08-25",
+    "posted_date": "2026-08-26",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1540,18 +1540,13 @@
     "title": "Associate Principal Scientist Analytical Project Lead 12 months fix-term contract 80-100%",
     "company": "Lonza",
     "location": "CH - Basel",
-    "posted_date": "2026-09-08",
+    "posted_date": "2026-09-09",
     "department": "",
     "score": 1,
     "matched_keywords": [
       "PhD"
     ],
     "deducted_keywords": []
-  },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000149364033": {
-    "description": "Imagine getting involved in cutting-edge research and technology before you have left university. Imagine working in an international environment, acquiring skills to bring back to your country.\nAs part of the Science and Technology Facilities Council’s Africa-UK Physics Partnership Programme, funded by the UK Government’s International Science Partnerships Fund, CERN is launching a capacity-building program. This program aims to support advanced studies in Physics, Engineering, and Computer Science for nationals of certain CERN Non-Member States (NMS).\nThe objective of the scheme is to provide opportunities through the award of studentships to encourage young and high-calibre PhD students in particle physics, as well as in applied physics, information technology/computing and engineering from the NMS to allow them to obtain world-class exposure, supervision and training primarily within the Large Hadron Collider (LHC) experiments, without excluding other scientific and technological activities at CERN.\nThe studentships offer the chance to students from one of six African countries to work towards a PhD thesis at their home institution in Africa while spending one year at CERN, at the forefront of science, over the full period of their PhD studies.\nThis is an invitation to PhD students to further their knowledge in a truly unique organization, to get involved in world-famous experiments and accelerator projects of unprecedented scale and scope, and to bring back to their home countries and regions new skills and a varied expertise.\nYou will have the opportunity to work in a diversity of fields at the cutting edge of science and technology: particle physics, applied physics, engineering, information technology/computer science, instrumentation, materials science are but a few of the examples of the many domains in which successful applicants will learn and contribute their knowledge.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000149364033-cern-stfc-non-member-state-doctoral-student-programme-2026?oga=true",
-    "status": "matched"
   },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000149258659": {
     "description": "As the successful candidate you will contribute to the CERN Computer Security Office by 1) maintaining, extending and developing extra functionality for its Security Operations Centre, i.e. the central hub for incident detection and response, and, 2) and in parallel, securing CERN's contracted external cloud services (i.e. AWS and Oracle cloud, but also reviewing Microsoft Azure, Microsoft 365, Google Cloud Platform and Google Workspace set-ups).\nYour responsibilities\nYour main tasks will include:\nTake an active role in maintaining, supporting, and extending the Computer Security Office's incident detection and response infrastructure (its \"Security Operating Centre\") based on open source technologies (e.g. \"Zeek\", OpenSearch, Apache Kafka, Kubernetes, \"MISP\").\nConfigure the IT department's newly contracted external cloud services (i.e. AWS, GCP, Azure and Oracle) such that their functionality and data maximally benefit from all relevant inherent security settings.\nReview, in addition, the current security posture and configuration of CERN's existing Microsoft and Google SaaS cloud configurations.\nAs side-tasks, you will have the opportunity to:\nContribute to other computer security projects managed by the Office.\nProviding advice and consultancy in matters of computer security, including performing penetration testing.\nMore information here.\nYour profile\nExperience in design of networks as well as knowledge of communication technologies and protocols.\nExperience in administration of computing systems as well as installation, operation and maintenance (preventive and corrective) of computing systems.\nExperience in \"computer security\", secure configurations, security analysis and penetration testing, and, in particular, that of cloud services.\nIdeally, but in addition, experience in monitoring and responding to security threats and incidents for ICT systems.\nSkills\nExcellent knowledge of the Linux/UNIX operating system, virtualisation, databases, and in particular of shell scripting and programming (Python, and/or C), other languages or technologies would be a plus.\nKnowledge of cloud frameworks like Kubernetes.\nKnowledge of best practises for developing secure software and of, development and integration of IT security (features), in particular in AWS, Google and MS cloud environments.\nSpoken and written English, with a commitment to learn French.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nBy the application deadline, you have a maximum of two years of professional experience since graduation in Computer Science (or a related field) and your highest educational qualification is either a Bachelor's or Master's degree.\nYou have never had a CERN fellow or graduate contract before.\nApplicants without University degree are not eligible.\nApplicants with a PhD are not eligible.",
@@ -1589,11 +1584,6 @@
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000149605664": {
     "description": "Introduction\nThe Engineering Department (EN) pushes forward the limits of technology so that physicists can carry out their research. Within the EN department, the Cooling and Ventilation (EN-CV) group is responsible for the design, the construction, the operation and the maintenance of the cooling and ventilation plants for large energy physics accelerators, experiments and technical facilities. The EN-CV group pursues sustainable cooling and ventilation systems enhancing energy savings and recovery.\n\nYou will join the Methods, Store and Electrical Section (CES), which oversees the operation and maintenance of water treatment systems, as well as the development of maintenance procedures, implementation of computerised maintenance management (CMMS), documentation management, spare parts store management and electrical works.\n\nAre you a qualified and proactive and specialised in industrial water treatment systems, ready to contribute to a unique working environment at the heart of one of the world's most complex scientific installations?\n\nIn this role, you will contribute to the analysis, optimisation and development of water treatment systems used for cooling and ventilation installations. You will ensure system performance, reliability and compliance with environmental and safety requirements, while supporting operation and maintenance activities. \nFunctions\nStudy, design and validate the performance of new water treatment installations or upgrade of existing water treatment installations. \nContribute to the water treatment contract management, produce technical specification and all the documents for the tendering procedure for the renewal of the contract.\nLead technical investigations and root cause analysis for complex or recurring issues affecting water treatment systems.\nPlan, coordinate and oversee preventive and corrective maintenance activities (by using the CMMS system), defining appropriate strategies and ensuring alignment with operational needs.\nMonitor system performance and follow up on activities, ensuring reporting on progress, schedule and costs.\nTechnically coordinate contractors’ activities for maintenance and installation work, ensuring compliance with contractual clauses, technical standards and safety requirements.\nEnsure that technical documentation is complete, structured and up to date, in line with quality standards.",
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000149605664-senior-technician-for-water-treatment-systems-en-cv-ces-2026-124-ld-?oga=true",
-    "status": "matched"
-  },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000149595304": {
-    "description": "Imagine getting involved in cutting-edge research and technology before you have left university. Imagine working in an international environment, acquiring skills to bring back to your country.\nAs part of the Science and Technology Facilities Council’s Africa-UK Physics Partnership Programme, funded by the UK Government’s International Science Partnerships Fund, CERN is launching a capacity-building program. This program aims to support advanced studies in Physics, Engineering, and Computer Science for nationals of certain CERN Non-Member States (NMS).\nThe objective of the scheme is to provide opportunities through the award of studentships to encourage young and high-calibre PhD students in particle physics, as well as in applied physics, information technology/computing and engineering from the NMS to allow them to obtain world-class exposure, supervision and training primarily within the Large Hadron Collider (LHC) experiments, without excluding other scientific and technological activities at CERN.\nThe studentships offer the chance to students from one of six African countries to work towards a PhD thesis at their home institution in Africa while spending one year at CERN, at the forefront of science, over the full period of their PhD studies.\nThis is an invitation to PhD students to further their knowledge in a truly unique organization, to get involved in world-famous experiments and accelerator projects of unprecedented scale and scope, and to bring back to their home countries and regions new skills and a varied expertise.\nYou will have the opportunity to work in a diversity of fields at the cutting edge of science and technology: particle physics, applied physics, engineering, information technology/computer science, instrumentation, materials science are but a few of the examples of the many domains in which successful applicants will learn and contribute their knowledge.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000149595304-cern-stfc-non-member-state-doctoral-student-programme?oga=true",
     "status": "matched"
   },
   "https://api.smartrecruiters.com/v1/companies/Sobi/postings/744000149549399": {
@@ -1640,7 +1630,7 @@
     "title": "(Associate) Principal Scientist Bioanalytics 80-100%",
     "company": "Lonza",
     "location": "CH - Basel",
-    "posted_date": "2026-09-15",
+    "posted_date": "2026-09-16",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1804,7 +1794,7 @@
     "title": "Senior Scientist Physico-Chemical Quality Control 80-100%",
     "company": "Lonza",
     "location": "CH - Basel",
-    "posted_date": "2026-09-18",
+    "posted_date": "2026-09-19",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1819,7 +1809,7 @@
     "title": "Senior Computational & Applied AI Scientist (Real-World Data))",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-10",
+    "posted_date": "2026-09-11",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -1831,22 +1821,6 @@
     ],
     "deducted_keywords": []
   },
-  "/job/Basel/Global-MSAT-DP-Pilot-Plant-Bioprocess-Scientist-Engineer--Basel--permanent-_202609-122659-1": {
-    "description": "At Roche you can show up as yourself, embraced for the unique qualities you bring. Our culture encourages personal expression, open dialogue, and genuine connections,  where you are valued, accepted and respected for who you are, allowing you to thrive both personally and professionally. This is how we aim to prevent, stop and cure diseases and ensure everyone has access to healthcare today and for generations to come. Join Roche, where every voice matters.\n\nThe Position\nAs part of Pharma Technical Operations (PT), Pharma Technical Technology (PTT) plays a key role in leading a seamless industrialization and thorough technical product management through integrating SHE, proactive maintenance, facility fitness, performance optimization and scalable manufacturing processes and technologies in support of the manufacturing network. Product and process robustness, efficiency and reliability are key performance indicators, PTT owns and drives towards improvement. \nWithin PTT, Roche’s global Manufacturing Science and Technology (gMSAT) department is the process and product owner for our commercial products, including our internal and external drug substance and drug product network, implementation of new technologies, network standardization, and mitigation of technical risks. \nThe Global MSAT DP Pilot Plant Bioprocess Scientist, reporting to the Global MSAT DP Operations:\nLead design & executes experiments to support process and product improvements, technology implementation, process validation, hands-on second-level commercial product support and process transfer to & from internal manufacturing and contract manufacturing sites, as requested. This team is an execution-obsessed team focused on conducting experiments within our existing pilot plant network, accurately documenting and analyzing data, summarizing results in technical documents and oral presentations, and supporting health authority submissions and inquiries. This role may also support inter-departmental process, technology and business process improvement projects.\nSupports to pilot plant establishment project. This role will support the design, implementation and operational start of the foreseen Pilot Plant. It will include support to implementation of equipments, establishment of procedures and all elements necessary to the start of a pilot plant\n\nIn this role you will maximize individual and collective contributions to deliver timely business results in support of PTT and PT goals. You will enable the network to solve process and technology driven operational challenges through data-driven insights and laboratory / pilot plant experimentation for internal and external manufacturing networks. \n\nThe Opportunity\n\nInterface with Technical Development and MSAT teams to design and execute lab-scale experiments within the MSAT laboratory/pilot plant \n\nSupport Make-Assess-Release (MAR) activities in collaboration with MSAT and manufacturing as needed \n\nDocument and analyze data, summarizing results in technical documents and oral presentations, and support health authority submissions \n\nSupport or lead inter-departmental process, technology and business process improvement projects as needed\n\nSolves problems autonomously and adapts plans to address resource and operational challenges.\n\nParticipate the project, implementation and operation of the Pilot plant\n\nWork on multiple projects, prioritizing effectively, and adapting to changes quickly \n\nRepresent the function on cross-functional project teams, where they will collaborate with leads from other functions on all aspects of project deliverables \n\nStay updated on industry trends and advancements in bioprocess technologies \n\nCollaborate with representatives from Development, Manufacturing, Quality, and Regulatory functions as required \n\nAs required, review/author sections in regulatory submissions, as well as responses during Health Authority inquiries \n\nServe as an ambassador for the function with the ability to influence stakeholders for new technology development and implementation \n\nTrain and mentor team members to enhance their skills and promote professional growth \n\nProvide knowledge and training on complex process and equipment technologies to PT partners as required \n\nWho you are\n\nExperience & Education: You have a B.S. or M.S. degree in Chemical, Biochemical Engineering, or related discipline with at least three years of experience in the industry OR a PhD with 0-2 years of of relevant experience in the pharmaceutical or biotechnology industry with process development, operations/manufacturing, or related experience \n\nTechnical Expertise: Extensive practical and theoretical expertise in process development and manufacturing, with deep understanding of the drug development process \n\nAbility to build connections, encourage feedback, and foster a collaborative environment, strong written and verbal communications skills \n\nCommitted to creating an inclusive environment where team members feel safe, valued, and empowered to perform their best.\n\nAbility to work independently and challenge the status quo, handle multiple projects, prioritize and delegate effectively, adapt to changes quickly, and work collaboratively on cross-functional teams \n\n<5% of travel required\n \n \n\nWho we are\nA healthier future drives us to innovate. Together, more than 100’000 employees across the globe are dedicated to advance science, ensuring everyone has access to healthcare today and for generations to come. Our efforts result in more than 26 million people treated with our medicines and over 30 billion tests conducted using our Diagnostics products. We empower each other to explore new possibilities, foster creativity, and keep our ambitions high, so we can deliver life-changing healthcare solutions that make a global impact.\n\nLet’s build a healthier future, together.\n\nRoche is an Equal Opportunity Employer.",
-    "external_url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Global-MSAT-DP-Pilot-Plant-Bioprocess-Scientist-Engineer--Basel--permanent-_202609-122659-1",
-    "status": "ignored",
-    "title": "Global MSAT DP Pilot Plant Bioprocess Scientist/Engineer (Basel, permanent)",
-    "company": "Roche",
-    "location": "Basel",
-    "posted_date": "2026-09-09",
-    "department": "",
-    "score": 2,
-    "matched_keywords": [
-      "PhD",
-      "drug development"
-    ],
-    "deducted_keywords": []
-  },
   "/job/Basel/Postdoctoral-Scientist---Vascularized-Kidney-Organoids--at-the-Institute-of-Human-Biology--IHB--_202608-121855": {
     "description": "At Roche you can show up as yourself, embraced for the unique qualities you bring. Our culture encourages personal expression, open dialogue, and genuine connections,  where you are valued, accepted and respected for who you are, allowing you to thrive both personally and professionally. This is how we aim to prevent, stop and cure diseases and ensure everyone has access to healthcare today and for generations to come. Join Roche, where every voice matters.\n\nThe Position\nThe Institute of Human Biology (IHB), embedded within Roche’s Pharma Research and Early Development (pRED) Division, is a leading research institute focused on accelerating the development of transformative medicines. It specializes in developing novel and robust human model systems that functionally resemble human physiology and disease. By bridging the gap between academic discovery and industrial application, IHB facilitates the rapid translation of groundbreaking science into patient-focused solutions.\n \nThe Opportunity\nAs part of a newly funded IHB fellowship, you will drive an ambitious research program at the interface of organoid biology, vascular biology, and bioengineering, with the goal of creating translationally relevant systems for drug discovery and safety.\n \nIn this role, you will define innovative approaches to uncover the biological principles of vascular–parenchymal interaction in the context of kidney development, ultimately helping to establish a new class of human model systems through the following responsibilities:\n\nDrive the development of vascularized iPSC-derived kidney organoids, with a focus on tissue specification and maturation\n\nDevelop and optimize engineered culture systems to enable vascular perfusion and promote kidney organoid maturation\n\nWork closely with stem cell biologists to dissect nephron maturation and cell–cell communication \n\nTranslate biological insights into functional, predictive models relevant for human kidney safety\n \nWho You Are\n\nA scientist with a PhD and a strong track record in iPSC-derived 3D tissue models or organoids. To qualify for this early-career position, you must have completed your doctoral studies within the last three years prior to the start date.\n\nScientifically ambitious, with the ability to drive new concepts rather than follow established protocols\n\nExperience in bioengineering and/or microfluidics is desirable\n\nIdeally with a strong background in developmental biology, with expertise in kidney, vascular, or related organ systems\n \nAdditional Information\nYou will be embedded in a highly interdisciplinary ecosystem at IHB, working with leading experts in bioengineering, stem cell biology, and computational analysis, and closely connected to Roche’s drug discovery and safety teams.\n \nThis is a unique opportunity to define how human kidney models are built and used in the future—from fundamental biology to direct impact on drug development.\n \nApplication Process\nTo apply, please submit the following materials:\n\nCurrent CV: Please provide a comprehensive CV, including a full list of your peer-reviewed publications.\n\nProfessional References: Include contact details for two references who can speak to your scientific expertise and professional character.\n\nPh.D. Documentation: Provide an official diploma or certificate confirming your degree (if already obtained).\n\nTimeline & Availability: The start date of this position is 1st January 2027.\n \nThe initial duration is for 2 years, with the potential for extension.\n \n \n\nWho we are\nA healthier future drives us to innovate. Together, more than 100’000 employees across the globe are dedicated to advance science, ensuring everyone has access to healthcare today and for generations to come. Our efforts result in more than 26 million people treated with our medicines and over 30 billion tests conducted using our Diagnostics products. We empower each other to explore new possibilities, foster creativity, and keep our ambitions high, so we can deliver life-changing healthcare solutions that make a global impact.\n\nLet’s build a healthier future, together.\n\nRoche is an Equal Opportunity Employer.",
     "external_url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Postdoctoral-Scientist---Vascularized-Kidney-Organoids--at-the-Institute-of-Human-Biology--IHB--_202608-121855",
@@ -1854,7 +1828,7 @@
     "title": "Postdoctoral Scientist – Vascularized Kidney Organoids (at the Institute of Human Biology (IHB))",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-04",
+    "posted_date": "2026-09-05",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -1874,7 +1848,7 @@
     "title": "Senior Computational & Applied AI - Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-31",
+    "posted_date": "2026-09-01",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -1892,7 +1866,7 @@
     "title": "Principal Scientist, Respiratory Discovery",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-01",
+    "posted_date": "2026-09-02",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -1916,7 +1890,7 @@
     "title": "Research Associate In Cellular Assay Development",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-25",
+    "posted_date": "2026-08-26",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1933,7 +1907,7 @@
     "title": "Discovery Scientist – Neural Retina & Ocular Disease",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-25",
+    "posted_date": "2026-08-26",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -1956,7 +1930,7 @@
     "title": "Scientist, Cell Engineering and Phenotypic Screening Models",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-25",
+    "posted_date": "2026-08-26",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -1977,7 +1951,7 @@
     "title": "\"Principal Scientist siRNA Design",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-25",
+    "posted_date": "2026-08-26",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1993,7 +1967,7 @@
     "title": "Senior/Principal Scientist - NMR Expert",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-25",
+    "posted_date": "2026-08-26",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2009,7 +1983,7 @@
     "title": "Cardio-Renal Discovery & Scientific Strategy Area Leader",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-21",
+    "posted_date": "2026-09-22",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -2030,7 +2004,7 @@
     "title": "Translational Medicine Expert – Dermatology, Associate Director",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-25",
+    "posted_date": "2026-08-26",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -2053,7 +2027,7 @@
     "title": "Patent Attorney",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-25",
+    "posted_date": "2026-08-26",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -2066,7 +2040,7 @@
     "title": "Senior Principal Scientist / Associate Director– Soluble Biomarkers, Molecular & Cellular Sciences (MCS)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-25",
+    "posted_date": "2026-08-26",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -2087,7 +2061,7 @@
     "title": "Senior Principal Scientist/Associate Director Clinical PBPK  (Dual Level Posting)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-25",
+    "posted_date": "2026-08-26",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -2106,7 +2080,7 @@
     "title": "Director, Portfolio Analytics",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-26",
+    "posted_date": "2026-08-27",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2121,7 +2095,7 @@
     "title": "AI Scientist – AI-Driven Target Identification",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-25",
+    "posted_date": "2026-08-26",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -2140,7 +2114,7 @@
     "title": "Therapeutic Area Biomarker Director  – Cardiovascular and Metabolism",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-31",
+    "posted_date": "2026-09-01",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -2164,7 +2138,7 @@
     "title": "USP Research Scientist II",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-09-01",
+    "posted_date": "2026-09-02",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2180,7 +2154,7 @@
     "title": "Translational Medicine Expert – Gastroenterology, Associate Director",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-09-07",
+    "posted_date": "2026-09-08",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -2197,7 +2171,7 @@
     "title": "Translational Medicine Director/Associate*- Cardiovascular & Metabolic",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-09-03",
+    "posted_date": "2026-09-04",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -2221,7 +2195,7 @@
     "title": "Biomarker Therapeutic Area Head -Neuroscience",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-09-07",
+    "posted_date": "2026-09-08",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -2245,7 +2219,7 @@
     "title": "Research Scientist II, Immunology",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-09-15",
+    "posted_date": "2026-09-16",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -2268,7 +2242,7 @@
     "title": "Business Development Manager (m/w/d) Neuromodulation – Schweiz",
     "company": "Abbott",
     "location": "Switzerland - Baar",
-    "posted_date": "2026-08-25",
+    "posted_date": "2026-08-26",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -2283,7 +2257,7 @@
     "title": "Executive Director, Regional Medical Lead - Solid Tumors, Medical Affairs, Europe",
     "company": "BeiGene",
     "location": "Basel",
-    "posted_date": "2026-08-25",
+    "posted_date": "2026-08-26",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2304,7 +2278,7 @@
     "title": "Director, Medical Affairs, Hemato-Oncology, Europe",
     "company": "BeiGene",
     "location": "Basel",
-    "posted_date": "2026-08-25",
+    "posted_date": "2026-08-26",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -2321,7 +2295,7 @@
     "title": "Senior Scientist Electronic Laboratory Systems",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-08-25",
+    "posted_date": "2026-08-26",
     "department": "",
     "score": -1,
     "matched_keywords": [
@@ -2338,7 +2312,7 @@
     "title": "Business Development Director",
     "company": "KBI Biopharma",
     "location": "Switzerland - Plan-les-Ouates",
-    "posted_date": "2026-08-25",
+    "posted_date": "2026-08-26",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -2496,7 +2470,7 @@
     "title": "Laboratory Scientist Physico-Chemical Quality Control 80-100%",
     "company": "Lonza",
     "location": "CH - Basel",
-    "posted_date": "2026-09-22",
+    "posted_date": "2026-09-23",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2590,7 +2564,7 @@
     "title": "Director, Translational Medicine Expert (Neurodegeneration)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-09-24",
+    "posted_date": "2026-09-25",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -2618,7 +2592,7 @@
     "title": "Principal Scientist - Discovery Oncology",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-24",
+    "posted_date": "2026-09-25",
     "department": "",
     "score": 10,
     "matched_keywords": [
