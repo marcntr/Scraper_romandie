@@ -1254,11 +1254,6 @@
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000147520539-data-reduction-physicist-ep-cms-tdq-2026-146-grap-?oga=true",
     "status": "matched"
   },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000147474649": {
-    "description": "Join the Cooling and Ventilation developers team within CERN's Engineering Department (EN), where you will contribute to the development, commissioning, and maintenance of Industrial Control Systems (ICS) and automation solutions essential to the operation of CERN's accelerators, detectors, and infrastructure.\nAs part of a multidisciplinary team of technicians and engineers, you will be involved in the specification, design, commissioning, and maintenance of a wide range of ICS dedicated to cooling and ventilation plants for accelerator facilities, experimental areas, and technical infrastructure.\nIn this role, you will become familiar with CERN's modern UNICOS framework, used for:\nDeveloping Programmable Logic Controller (PLC) applications on Schneider and Siemens platforms.\nConfiguring and maintaining Supervisory Control And Data Acquisition (SCADA) systems for Cooling and Ventilation ICS.\nThis position offers the opportunity to work on large-scale industrial installations in a highly technical and collaborative environment.\nYour responsibilities:\nGather control system requirements and compile all relevant technical documentation.\nDesign automation solutions and control systems for Industrial ventilation and cooling plants.\nDevelop and implement PLC applications for ICS.\nDefine and execute tests of ICS on simulators.\nPerform on-site commissioning of ICS.\nDesign, implement, and deploy improvements and corrective actions for operational control systems.\nYour profile:\nProven experience in Programmable Logic Controller (PLC) programming.\nGood knowledge of PLC development based on the IEC 61131 standard.\nInitial experience in Python programming or other high-level programming languages.\nAbility to read and work with electrical schematics.\nInitial experience in the configuration, programming, and operation of SCADA (Supervisory Control and Data Acquisition) systems.\nUnderstanding of industrial automation principles and control systems.\nThe following would be considered an advantage:\nExperience with SCADA systems in an industrial environment.\nKnowledge of automation theory and industrial process control.\nSkills:\nPLC programming using SIEMENS Step7, TIA Portal and/or Schneider Control Expert.\nHigh-level programming languages (e.g. python).\nVersion control software systems (e.g. git).\nSpoken and written English, with a commitment to learn French.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nBy the application deadline, you have a maximum of two years of professional experience since graduation in Automation and Controls (or a related field) and your highest educational qualification is either a Bachelor's or Master's degree.\nYou have never had a CERN fellow or graduate contract before.\nApplicants without University degree are not eligible.\nApplicants with a PhD are not eligible.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000147474649-controls-and-automation-engineer-en-cv-cl-2026-205-grae-?oga=true",
-    "status": "matched"
-  },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000147435309": {
     "description": "The Electrical Engineering Group (EN-EL) at CERN is responsible for the electrical power-distribution network (from 400 kV to 400/230V), for the fibre-optics infrastructure, and for signal and DC-power cabling for the accelerator complex.\nYou will join the electrical Design and Documentation Office (EN-EL-DDO). You will take on a support electrical designer role. This will include the creation and modification of electrical drawings, design of low voltage distribution networks, cable sizing, equipment sizing, LV protection studies and the general support to senior electrical designers. With time you will be required to take on design tasks of increasing complexity. In addition, you will oversee various quality-related activities within the Design Office, such as the management of the printing office and the maintenance and updating of templates.\nThis is the perfect opportunity for a junior technician to further establish their existing knowledge of low voltage distribution circuits by putting it into practice.\nYour responsibilities:\nPreparing design drawings using CAD software.\nPreparing calculation notes using ElecCalc/Caneco BT or similar.\nPreparing bills of material and cabling tables for electrical-related equipment in Excel.\nUpdating excel based design templates.\nGeneral quality related tasks in the design office.\nYour profile:\nDemonstrated experience in:\nThe design of Low voltage distribution networks, cable sizing and selectivity studies.\nProducing drawings in AutoCAD or similar.\nThe intermediate level of Microsoft EXCEL.\nSkills:\nAn understanding of low voltage distribution networks (selectivity, completing calculation notes, knowledge of European LV standards, protection, protection of circuits for indirect contact, knowledge of different types of earthing systems).\nAn understanding of power systems; voltage drop calculations, short circuit calculations, understanding fault levels, dimensioning of cables.\nExperience on low voltage design calculation tools (ElecCalc, Caneco or similar software).\nProficient in AutoCAD or similar.\nProficient in Microsoft Excel.\nSpoken and written English or French, with a commitment to learn the basics of the other language.\nBeneficial skills/or knowledge:\nExperience on the design of lighting systems for buildings and external areas using DIALux.\nExperience with E-PLAN or similar software.\nExperience in the design of medium voltage distribution networks.\nMotivated candidates without direct design office experience would still be considered.\nEligibility criteria:\nBy the application deadline, you have a maximum of two years of professional experience since graduation in Electrical Engineering (or a related field) and your highest educational qualification is a general secondary education diploma.\nYou have never had a CERN fellow or graduate contract before.\nApplicants with a Bachelor's, Master's or PhD degree are not eligible.",
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000147435309-electrical-design-technician-en-el-ddo-2026-218-grae-?oga=true",
@@ -1540,7 +1535,7 @@
     "title": "Associate Principal Scientist Analytical Project Lead 12 months fix-term contract 80-100%",
     "company": "Lonza",
     "location": "CH - Basel",
-    "posted_date": "2026-09-09",
+    "posted_date": "2026-09-08",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1630,7 +1625,7 @@
     "title": "(Associate) Principal Scientist Bioanalytics 80-100%",
     "company": "Lonza",
     "location": "CH - Basel",
-    "posted_date": "2026-09-16",
+    "posted_date": "2026-09-15",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1794,7 +1789,7 @@
     "title": "Senior Scientist Physico-Chemical Quality Control 80-100%",
     "company": "Lonza",
     "location": "CH - Basel",
-    "posted_date": "2026-09-19",
+    "posted_date": "2026-09-18",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1809,7 +1804,7 @@
     "title": "Senior Computational & Applied AI Scientist (Real-World Data))",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-11",
+    "posted_date": "2026-09-10",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -1828,7 +1823,7 @@
     "title": "Postdoctoral Scientist – Vascularized Kidney Organoids (at the Institute of Human Biology (IHB))",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-05",
+    "posted_date": "2026-09-04",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -1848,7 +1843,7 @@
     "title": "Senior Computational & Applied AI - Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-01",
+    "posted_date": "2026-08-31",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -1866,7 +1861,7 @@
     "title": "Principal Scientist, Respiratory Discovery",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-02",
+    "posted_date": "2026-09-01",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -1983,7 +1978,7 @@
     "title": "Cardio-Renal Discovery & Scientific Strategy Area Leader",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-22",
+    "posted_date": "2026-09-21",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -2080,7 +2075,7 @@
     "title": "Director, Portfolio Analytics",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-27",
+    "posted_date": "2026-08-26",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2114,7 +2109,7 @@
     "title": "Therapeutic Area Biomarker Director  – Cardiovascular and Metabolism",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-09-01",
+    "posted_date": "2026-08-31",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -2138,7 +2133,7 @@
     "title": "USP Research Scientist II",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-09-02",
+    "posted_date": "2026-09-01",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2154,7 +2149,7 @@
     "title": "Translational Medicine Expert – Gastroenterology, Associate Director",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-09-08",
+    "posted_date": "2026-09-07",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -2171,7 +2166,7 @@
     "title": "Translational Medicine Director/Associate*- Cardiovascular & Metabolic",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-09-04",
+    "posted_date": "2026-09-03",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -2195,7 +2190,7 @@
     "title": "Biomarker Therapeutic Area Head -Neuroscience",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-09-08",
+    "posted_date": "2026-09-07",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -2219,7 +2214,7 @@
     "title": "Research Scientist II, Immunology",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-09-16",
+    "posted_date": "2026-09-15",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -2470,7 +2465,7 @@
     "title": "Laboratory Scientist Physico-Chemical Quality Control 80-100%",
     "company": "Lonza",
     "location": "CH - Basel",
-    "posted_date": "2026-09-23",
+    "posted_date": "2026-09-22",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2500,7 +2495,7 @@
     "title": "Research Scientist II, Laboratory Automation & Drug Discovery Support",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "",
+    "posted_date": "2026-09-23",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -2521,7 +2516,7 @@
     "title": "Senior Scientist QA Operations",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "",
+    "posted_date": "2026-09-23",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -2536,7 +2531,7 @@
     "title": "Research Scientist II",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "",
+    "posted_date": "2026-09-23",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -2564,7 +2559,7 @@
     "title": "Director, Translational Medicine Expert (Neurodegeneration)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-09-25",
+    "posted_date": "",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -2592,7 +2587,7 @@
     "title": "Principal Scientist - Discovery Oncology",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-25",
+    "posted_date": "",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -2608,5 +2603,10 @@
       "translational research"
     ],
     "deducted_keywords": []
+  },
+  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000151775284": {
+    "description": "Help shape the future of the Large Hadron Collider (LHC) machine protection systems. We are looking for a motivated Engineer to contribute to the renovation of the LHC Collimator Control System, a critical component ensuring the safe and reliable operation of the world's most powerful particle accelerator. Working in a highly collaborative environment you will help to increase the reliability, usability, and long-term maintainability of systems at the heart of LHC operations. This is a unique opportunity to combine software development, controls engineering, and accelerator technology while making a tangible impact on CERN's flagship facility.\nYour responsibilities\nDevelop and maintain control applications for the LHC Collimator system using the FESA framework, ensuring integration within CERN's accelerator control environment.\nCoordinate and support control system commissioning, performing functional testing, validation, and verification of interlocks and fail-safes prior to operational deployment.\nIntegrate control systems with the alarm server and develop high-level tools to enhance usability and real-time monitoring.\nContribute to the design and validation of system-level tests, including functional, integration, and regression testing.\nSupport expert and operational interfaces, providing diagnostic capabilities and improving intervention workflows.\nYour profile\nDemonstrated experience in real-time or distributed control systems, preferably within accelerator, industrial automation, or scientific environments.\nExperience in interventions in complex industrial or technical environments.\nExperience developing and maintaining expert interfaces (GUIs, web tools) for control and diagnostics.\nExperience with software version control (e.g. Git) and CI/CD workflows.\nSkills\nProficiency in C++.\nKnowledge of Python.\nSkilled in system integration, commissioning, and validation of control applications for hardware-software systems.\nStrong ability to troubleshoot, analyse, and document complex technical issues in operational environments.\nProactive, organised, and collaborative, with the ability to work effectively in multidisciplinary engineering teams and communicate technical progress clearly.\nSpoken and written English, with a commitment to learn French.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nYou have a professional background in Controls Engineering, Computer Science, Electronic Engineering (or a related field) and have either:\na Master's degree with 2 to 6 years of post-graduation professional experience;\nor a PhD with no more than 3 years of post-graduation professional experience.\nYou have never had a CERN fellow or graduate contract before.",
+    "external_url": "https://jobs.smartrecruiters.com/CERN/744000151775284-embedded-software-engineer-be-cem-mro-2026-156-grap-?oga=true",
+    "status": "matched"
   }
 }
