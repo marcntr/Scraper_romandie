@@ -88,7 +88,7 @@
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-09-21"
+    "cached_at": "2026-09-29"
   },
   "_facets:roche:roche-ext": {
     "facets": {},
@@ -96,7 +96,7 @@
       "Basel",
       "Kaiseraugst"
     ],
-    "cached_at": "2026-09-21"
+    "cached_at": "2026-09-29"
   },
   "_facets:novartis:Novartis_Careers": {
     "facets": {},
@@ -104,63 +104,63 @@
       "Basel",
       "Stein"
     ],
-    "cached_at": "2026-09-21"
+    "cached_at": "2026-09-29"
   },
   "_facets:sanofi:SanofiCareers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-09-21"
+    "cached_at": "2026-09-29"
   },
   "_facets:abbott:abbottcareers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-09-21"
+    "cached_at": "2026-09-29"
   },
   "_facets:pfizer:PfizerCareers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-09-21"
+    "cached_at": "2026-09-29"
   },
   "_facets:gsk:GSKCareers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-09-21"
+    "cached_at": "2026-09-29"
   },
   "_facets:astrazeneca:Careers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-09-21"
+    "cached_at": "2026-09-29"
   },
   "_facets:amgen:Careers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-09-21"
+    "cached_at": "2026-09-29"
   },
   "_facets:gilead:gileadcareers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-09-21"
+    "cached_at": "2026-09-29"
   },
   "_facets:modernatx:M_tx": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-09-21"
+    "cached_at": "2026-09-29"
   },
   "_facets:takeda:External": {
     "facets": {},
@@ -176,21 +176,21 @@
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-09-21"
+    "cached_at": "2026-09-29"
   },
   "_facets:msd:SearchJobs": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-09-21"
+    "cached_at": "2026-09-29"
   },
   "_facets:vrtx:Vertex_Careers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-09-21"
+    "cached_at": "2026-09-29"
   },
   "_facets:lonza:Lonza_Careers": {
     "facets": {},
@@ -199,7 +199,7 @@
       "Visp",
       "Stein"
     ],
-    "cached_at": "2026-09-21"
+    "cached_at": "2026-09-29"
   },
   "_facets:csl:CSL_External": {
     "facets": {},
@@ -209,7 +209,7 @@
       "St. Gallen",
       "Romont"
     ],
-    "cached_at": "2026-09-21"
+    "cached_at": "2026-09-29"
   },
   "_facets:alcon:careers_alcon": {
     "facets": {},
@@ -218,7 +218,7 @@
       "Hünenberg",
       "Zurich"
     ],
-    "cached_at": "2026-09-21"
+    "cached_at": "2026-09-29"
   },
   "_facets:galderma:External": {
     "facets": {},
@@ -227,63 +227,63 @@
       "La Tour-de-Peilz",
       "Lausanne"
     ],
-    "cached_at": "2026-09-21"
+    "cached_at": "2026-09-29"
   },
   "_facets:iqvia:IQVIA": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-09-21"
+    "cached_at": "2026-09-29"
   },
   "_facets:icon:broadbean_external": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-09-21"
+    "cached_at": "2026-09-29"
   },
   "_facets:parexel:Parexel_External_Careers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-09-21"
+    "cached_at": "2026-09-29"
   },
   "_facets:syneoshealth:Syneos_Health_External_Site": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-09-21"
+    "cached_at": "2026-09-29"
   },
   "_facets:myhrabc:Global": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-09-21"
+    "cached_at": "2026-09-29"
   },
   "_facets:thermofisher:ThermoFisherCareers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-09-21"
+    "cached_at": "2026-09-29"
   },
   "_facets:danaher:DanaherJobs": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-09-21"
+    "cached_at": "2026-09-29"
   },
   "_facets:illumina:illumina-careers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-09-21"
+    "cached_at": "2026-09-29"
   },
   "_facets:qiagen:QIAGEN": {
     "facets": {},
@@ -297,14 +297,14 @@
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-09-21"
+    "cached_at": "2026-09-29"
   },
   "_facets:jsrglobal:KBI_Biopharma": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-09-21"
+    "cached_at": "2026-09-29"
   },
   "_generic:Tigen Pharma": {
     "keywords": "npp"
@@ -1091,7 +1091,7 @@
     "title": "Application Development Scientist – Reagents (12 months fixed-term contract)",
     "company": "Bio-Techne / Lunaphore",
     "location": "Tolochenaz, Switzerland",
-    "posted_date": "2026-08-29",
+    "posted_date": "2026-08-30",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1428,11 +1428,6 @@
     ],
     "deducted_keywords": []
   },
-  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000148429879": {
-    "description": "Vous effectuez des analyses bactériologiques de routine, plus particulièrement dans le secteur de la bactériologie automatisée.\nVous participez, selon les besoins du service, à tous les travaux de laboratoire confiés ainsi qu’aux horaires irréguliers, dont les services de garde et de piquet.\nVous participez également à l’évolution technologique et à son environnement.\nVous faites preuve de polyvalence et êtes capable de travailler aussi bien de façon individuelle qu'en équipe.\nVous participez à la formation du personnel de laboratoire et des stagiaires.\nVous participez au bon maintien du système d’accréditation.",
-    "external_url": "https://jobs.smartrecruiters.com/HUG/744000148429879-technicien-ou-technicienne-en-analyses-biomedicales-100-?oga=true",
-    "status": "matched"
-  },
   "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000148540179": {
     "description": "En tant que cheffe ou chef de clinique titulaire d’un titre de spécialiste en pneumologie, vous assurez l’ensemble des activités cliniques du service et évoluez dans un environnement universitaire, à l’interface des soins, de l’enseignement et de la recherche. Grâce à un tournus trimestriel au sein des différentes unités spécialisées, vous développez une expertise diversifiée couvrant aussi bien la pratique hospitalière qu’ambulatoire en faisant preuve de polyvalence. Vous intervenez notamment dans la prise en charge des pneumopathies interstitielles, des complications pulmonaires chez les patientes ou patients immunodéprimés, de la transplantation pulmonaire, de la pneumologie interventionnelle ainsi que des troubles respiratoires du sommeil, en collaboration étroite avec le Centre de médecine du sommeil.\nVous rejoignez une équipe soudée composée de 9 chefs et cheffes de clinique, 4 médecins adjoints et adjointes et 5 médecins internes, sous la responsabilité de la professeure cheffe de service. Vous collaborez étroitement avec une équipe pluridisciplinaire regroupant infirmiers et infirmières spécialisées, techniciens et techniciennes en physiologie respiratoire, personnel administratif ainsi que les différents centres et départements médicaux de l’institution.\nVous assurez la prise en charge diagnostique et thérapeutique des pathologies respiratoires aiguës et chroniques. Vous participez à l’évaluation et au suivi de situations complexes, incluant notamment la dyspnée, la tuberculose, l’insuffisance respiratoire et les différents domaines médico-techniques de la spécialité.\nVous faites preuve de résilience, de sens clinique et d’une grande capacité d’analyse dans la prise en charge de situations parfois complexes. Grâce à votre sens de l’organisation et à votre capacité à prioriser, vous assurez efficacement vos activités cliniques tout en répondant aux multiples sollicitations (patients et patientes, téléphones, correspondances, réunions). Vous veillez à maintenir une communication claire, bienveillante et adaptée avec les patients et patientes, leurs proches ainsi qu’avec l’ensemble des professionnels impliqués dans leur prise en charge, en adaptant votre discours à leur compréhension.\nEn vous appuyant sur votre esprit d’équipe, vous faites preuve de solidarité face aux imprévus. En tant que cheffe ou chef de clinique, vous participez activement à la supervision et à la formation des médecins internes du département de médecine dans le domaine de la pneumologie, en adoptant une posture de mentorat et en partageant votre expertise.",
     "external_url": "https://jobs.smartrecruiters.com/HUG/744000148540179-chef-ou-cheffe-de-clinique-avec-titre-de-specialite-en-pneumologie-100-?oga=true",
@@ -1538,11 +1533,6 @@
     ],
     "deducted_keywords": []
   },
-  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000149268213": {
-    "description": "Dans le cadre de votre fonction, vous assistez le responsable administratif et financier (RAF) et intégrez son équipe en collaborant activement à la gestion efficace du pôle de gestion et de ses directions en apportant votre expertise financière. \nVous collaborez à l'élaboration du budget et des objectifs du pôle de gestion ainsi que de ses directions dans le respect du cadre budgétaire fixé et vérifiez leur mise en œuvre. Vous participez au développement d’outils de pilotage et au suivi d'indicateurs et tableaux de bord pour vérifier leur mise en œuvre. Vous identifiez, répertoriez et évaluez l’impact financier des objectifs fixés et des moyens prévus / demandes budgétaires des services afin de les préparer pour les négociations entreprises par le responsable administratif et financier avec les directions concernées. \nVous participez au contrôle de gestion opérationnel des directions, au reporting (financier et activité) et assistez les cadres dans leur gestion opérationnelle. A cette fin, vous analysez les indicateurs de pilotage, les exploitez statistiquement et mettez en évidence les points clés, analysez les écarts (budgets/prévisions/réalisations) et proposez des corrections avec le responsable financier et son adjoint. Vous participez à l'analyse des résultats de la comptabilité de gestion. \nVous réalisez également des analyses économiques et financières ainsi que des business plans en lien avec le développement de l'activité.",
-    "external_url": "https://jobs.smartrecruiters.com/HUG/744000149268213-controleur-ou-controleuse-de-gestion-au-pole-de-gestion-dsc-services-cliniques-70-a-100-?oga=true",
-    "status": "matched"
-  },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000149516269": {
     "description": "Drive the modernisation of CERN's Geodetic Metrology data management system, migrating legacy Oracle APEX/PL/SQL applications to a Java/Spring Boot and Angular platform, while leading the redesign of a mission-critical application for CERN's Accelerator Complex.\nYour responsibilities\nAnalyse Oracle APEX pages, processes and PL/SQL packages to understand business workflows and data dependencies.\nImplement Spring Boot REST APIs and Angular Frontend.\nWrite automated tests and apply software quality practices.\nParticipate in the whole software development lifecycle (requirements, design, development, testing), following a modern agile approach to ensure high-quality outcomes.\nInteract with the end-users of the services to understand their needs and help translate those into appropriate software solutions.\nBuild strong partnerships with IT and multidisciplinary teams across CERN to ensure the delivery of reliable, maintainable, and scalable software solutions aligned with current needs and future strategic goals.\nThis role includes team supervision responsibilities.\nMore information here.\nYour profile\nProven experience in designing and developing software applications using Java technologies and modern JavaScript/TypeScript frameworks.\nPractical experience with concurrent and multithreaded programming.\nExperience applying software quality assurance practices and using related tools (code review, preparing tests, deliver high quality documentation, unit tests, clean code, sonarqube).\nExperience in ICT systems architecture and design, including the design of scalable services and APIs.\nFamiliarity with CI/CD pipelines and automated build, test, and deployment workflows.\nExperience with cloud-native technologies, including Kubernetes.\nKnowledge of Oracle APEX would be an asset.\nSkills\nStrong knowledge of the Spring framework ecosystem.\nStrong knowledge of relational database systems, particularly Oracle Database, including proficiency in PL/SQL.\nAbility to design reliable software services following SOLID principles or similar best practices.\nKnowledge of software development lifecycle (SDLC) tools, methodologies, and procedures.\nAbility to deliver high-quality work on time and meet expectations.\nContributes to a positive team environment through an optimistic and constructive attitude while proactively addressing issues.\nSpoken and written English or French, with a commitment to learn the basics of the other language.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nYou have a professional background in Software Engineering (or a related field) and have either:\na Master's degree with 2 to 6 years of post-graduation professional experience;\nor a PhD with no more than 3 years of post-graduation professional experience.\nYou have never had a CERN fellow or graduate contract before.",
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000149516269-software-developer-java-angular-be-gm-apc-2026-151-grap-?oga=true",
@@ -1609,11 +1599,6 @@
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000150034165": {
     "description": "Join the team responsible for the High Throughput Compute systems at the heart of CERN's data processing!\n\nAre you a recent graduate with an interest in large-scale computing, automation, and infrastructure technologies? Would you like to develop your skills while contributing to the evolution of the computing infrastructure supporting the High-Luminosity LHC?\n\nAs a member of the team responsible for the batch service and configuration management of IT services, you will have the opportunity to experience a varied role, from helping to automate the delivery of compute, to self healing infrastructure, to evolving the toolset that the IT department uses to manage its services.\n\nThe Compute and Devices (CD) group in CERN IT provides a wide range of compute services, all the way from end user devices, through cloud infrastructure-as-a- Service, machine-learning, Kubernetes, configuration management, batch and HPC computing at CERN, together with a set of services that support the whole WLCG.\n\nAs a member of the Compute and Configuration (CC) section of the CD group, you will join a team of engineers focusing on services supporting the physics community. We run the compute facility that comprises approximately 20% of the WLCG, using tools such as Puppet, OpenStack and Kubernetes to manage batch systems running HTCondor, HPC systems running SLURM, and the support services keeping everything glued together.\n\nIf you enjoy solving complex technical challenges, contributing to open-source software, and working with infrastructure at scale, come join us!\nYour responsibilities\nHelp manage the fleet of 400k+ cores complete lifecycle from CI provisioning through automated and AI enhanced maintenance.\nHelp keep us ahead of LLM enhanced security threats with monitoring.\nSuggest, test, and deploy configuration changes on a large scale to production.\nContribute to the operation and maintenance of the current configuration management infrastructure, including Foreman, Puppet and OpenVox components.\nContribute to the development and maintenance of Terraform/OpenTofu modules used to provision and configure the supporting infrastructure.\nImprove the quality of the configuration code through testing, validation, code review and standardisation.\nYour profile\nExperience administering or working with Linux systems in a server or data centre environment.\nExperience writing scripts or applications for automation or system tasks.\nExperience with configuration management tools such as Puppet or Ansible is a plus.\nExperience with container technologies, CI/CD systems or Infrastructure-as-Code tools is a plus.\nSkills\nKnowledge of Linux, programming or scripting languages such as Python or Go.\nFamiliarity with git for distributed version control is highly desirable.\nKnowledge of configuration management tools such as Puppet or Ansible is desirable.\nInfrastructure as Code tools such as Terraform or OpenTofu would be a plus.\nAny knowledge of batch systems such as HTCondor, SLURM or kueue would be a plus.\nSpoken and written English, with a commitment to learn French.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nBy the application deadline, you have a maximum of two years of professional experience since graduation in Computer Science (or a related field) and your highest educational qualification is either a Bachelor's or Master's degree.\nYou have never had a CERN fellow or graduate contract before.\nApplicants without University degree are not eligible.\nApplicants with a PhD are not eligible.",
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000150034165-devops-engineer-for-large-scale-compute-it-cd-cc-2026-223-grae-?oga=true",
-    "status": "matched"
-  },
-  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000150122839": {
-    "description": "Au sein de la Direction médicale et qualité, vous assurez, de manière autonome et en étroite collaboration avec les autres membres du secrétariat, les activités d’un secrétariat de direction institutionnel. Vous apportez le soutien nécessaire à la Directrice médicale, membre du Comité de direction, dans la conduite de ses missions et contribuez au bon fonctionnement de la Direction médicale et qualité. Dans un environnement impliquant de nombreux interlocuteurs et interlocutrices internes et externes, vous délivrez des prestations avec un haut degré de professionnalisme, d’autonomie et de discrétion, tout en respectant rigoureusement la confidentialité et en tenant compte des enjeux institutionnels.\nVous assurez la gestion et le suivi de dossiers parfois complexes, coordonnez les échanges avec les directions, services, autorités, instances institutionnelles et partenaires externes, et contribuez à la préparation des éléments nécessaires à la prise de décision de la Direction médicale et qualité.\nDans le cadre des délégations qui vous sont confiées, vous devrez être en mesure de prendre les décisions relevant de votre périmètre de responsabilité, en évaluant les risques associés et en mobilisant les ressources nécessaires, y compris les directeurs directrices des différentes Directions et/ou les chefs et cheffes de Département.\nSelon l'organisation du secrétariat et les besoins de la Direction médicale et qualité, il vous est également confié la responsabilité d'activités spécifiques, d'accompagnement d’instances, de commissions, de projets ou de processus transversaux dont vous assurerez la coordination administrative et le suivi dans le cadre du poste. Vous assurez aussi, de manière autonome, des tâches administratives diverses pour la Direction médicale et qualité, notamment en lien avec le support aux membres de l’équipe de ladite Direction.\nL'ensemble de votre activité devra être réalisée dans un état d'esprit d'équipe, permettant un fonctionnement proactif du secrétariat de la Direction médicale et qualité.",
-    "external_url": "https://jobs.smartrecruiters.com/HUG/744000150122839-assistante-ou-assistant-de-direction-100-?oga=true",
     "status": "matched"
   },
   "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000150105209": {
@@ -1698,7 +1683,7 @@
     "title": "Senior Scientist Physico-Chemical Quality Control 80-100%",
     "company": "Lonza",
     "location": "CH - Basel",
-    "posted_date": "2026-09-18",
+    "posted_date": "2026-09-19",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1713,7 +1698,7 @@
     "title": "Business Development Manager (m/w/d) Neuromodulation – Schweiz",
     "company": "Abbott",
     "location": "Switzerland - Baar",
-    "posted_date": "2026-08-29",
+    "posted_date": "2026-08-30",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -1728,7 +1713,7 @@
     "title": "Executive Director, Regional Medical Lead - Solid Tumors, Medical Affairs, Europe",
     "company": "BeiGene",
     "location": "Basel",
-    "posted_date": "2026-08-29",
+    "posted_date": "2026-08-30",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1749,7 +1734,7 @@
     "title": "Director, Medical Affairs, Hemato-Oncology, Europe",
     "company": "BeiGene",
     "location": "Basel",
-    "posted_date": "2026-08-29",
+    "posted_date": "2026-08-30",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1766,7 +1751,7 @@
     "title": "Senior Scientist Electronic Laboratory Systems",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-08-29",
+    "posted_date": "2026-08-30",
     "department": "",
     "score": -1,
     "matched_keywords": [
@@ -1833,11 +1818,6 @@
       "oncology"
     ],
     "deducted_keywords": []
-  },
-  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000150619299": {
-    "description": "Vous intégrez une équipe au sein de laquelle votre principale mission est d’assurer le suivi qualité des installations de gaz médicaux, de traitement d’eau et de sanitaire et de contribuer au développement et au maintien du Système de Management de la Qualité (SMQ).\nVous assurez le suivi qualité des installations de gaz médicaux, de traitement d’eau et de sanitaire et veillez à leur conformité au regard des exigences réglementaires et normatives applicables. À ce titre, vous réalisez des audits qualité sur le terrain et contrôlez la conformité des installations, des équipements et des interventions.\nVous participez aux opérations de qualification, de validation, de réception et de mise en service des réseaux de gaz médicaux. Vous veillez également à la conformité de la qualité des gaz, notamment de l’air médical, et supervisez, lorsque nécessaire, les contrôles de contamination particulaire.\nVous identifiez et assurez le suivi des non-conformités. Vous menez les investigations nécessaires à l’identification des causes racines et pilotez la définition, la mise en œuvre et le suivi des actions correctives et préventives (CAPA).\nVous contribuez aux analyses et à la maîtrise des risques conformément aux exigences applicables, notamment à la norme ISO 14971, et selon l'ODIM participez à la veille réglementaire et normative afin d’assurer la prise en compte des évolutions dans les pratiques et l’organisation.\nVous participez aux audits internes, aux audits fournisseurs ainsi qu’aux inspections menées par les autorités compétentes, et contribuez au suivi des actions qui en découlent.\nVous accompagnez les équipes opérationnelles dans l’application des exigences qualité et réglementaires, notamment par des actions de formation, de sensibilisation et de soutien aux équipes techniques.\nEnfin, vous contribuez au suivi documentaire et à l’amélioration continue du Système de Management de la Qualité, en veillant à la traçabilité et à la conformité des activités liées aux gaz médicaux, de traitement d’eau et de sanitaire.",
-    "external_url": "https://jobs.smartrecruiters.com/HUG/744000150619299-ingenieure-ou-ingenieur-qualite-gaz-medicaux-traitement-d-eau-et-sanitaire-100-?oga=true",
-    "status": "matched"
   },
   "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000150614001": {
     "description": "Vous prenez en charge une patientèle traitée par transplantation de cellules souches hématopoïétiques ainsi que des problèmes hématologiques comme des leucémies aiguës, des lymphomes et autre hémopathies malignes et bénignes.\nVous garantissez des prestations médicales de qualité, tant sur le plan clinique et administratif qu'organisationnel.\nVous contribuez à la formation des médecins stagiaires.\nEn parallèle à votre activité, vous avez la possibilité de bénéficier d'une formation post-graduée de qualité contribuant à l'obtention du titre de spécialiste en hématologie.\nEn tant que centre de référence de Suisse romande pour la transplantation allogénique de cellules souches hématopoïétiques ainsi que la coordination de deux boards institutionnels pour la prise en charge des patientes et patients atteints d’hémopathies du canton de Genève, nous vous offrons l'opportunité de prendre en charge tout le spectre des pathologies de l’hématologie clinique (malin et bénin).\nVous êtes intégrés ou intégrées au sein d’une équipe dynamique composée de 15 médecins séniors et 7 médecins internes.",
@@ -1926,7 +1906,7 @@
     "title": "Senior Scientist QA Operations",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-09-23",
+    "posted_date": "2026-09-24",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -1985,7 +1965,7 @@
     "title": "Sr. Scientist, Stat. Programming",
     "company": "MSD",
     "location": "CHE - Zurich - Zurich (The Circle)",
-    "posted_date": "2026-09-25",
+    "posted_date": "2026-09-26",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1998,7 +1978,7 @@
     "title": "Associate Director, Integrated Biologics R&D Portfolio Lead  80-100% (m/f/d)",
     "company": "Lonza",
     "location": "CH - Basel",
-    "posted_date": "2026-09-25",
+    "posted_date": "2026-09-26",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2014,7 +1994,7 @@
     "title": "Machine Learning Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-25",
+    "posted_date": "2026-09-26",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -2035,7 +2015,7 @@
     "title": "Principal Scientist - Discovery Oncology",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-24",
+    "posted_date": "2026-09-25",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -2059,7 +2039,7 @@
     "title": "Senior Computational & Applied AI Scientist (Real-World Data))",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-10",
+    "posted_date": "2026-09-11",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -2078,7 +2058,7 @@
     "title": "Cardio-Renal Discovery & Scientific Strategy Area Leader",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-21",
+    "posted_date": "2026-09-22",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -2099,7 +2079,7 @@
     "title": "Senior Computational & Applied AI - Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-31",
+    "posted_date": "2026-09-01",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -2117,7 +2097,7 @@
     "title": "Principal Scientist, Respiratory Discovery",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-01",
+    "posted_date": "2026-09-02",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -2141,7 +2121,7 @@
     "title": "Postdoctoral Scientist – Vascularized Kidney Organoids (at the Institute of Human Biology (IHB))",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-04",
+    "posted_date": "2026-09-05",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -2161,7 +2141,7 @@
     "title": "Research Associate In Cellular Assay Development",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-29",
+    "posted_date": "2026-08-30",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -2178,7 +2158,7 @@
     "title": "Scientist, Cell Engineering and Phenotypic Screening Models",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-29",
+    "posted_date": "2026-08-30",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -2199,7 +2179,7 @@
     "title": "Discovery Scientist – Neural Retina & Ocular Disease",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-29",
+    "posted_date": "2026-08-30",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -2222,7 +2202,7 @@
     "title": "\"Principal Scientist siRNA Design",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-29",
+    "posted_date": "2026-08-30",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2238,7 +2218,7 @@
     "title": "Senior/Principal Scientist - NMR Expert",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-29",
+    "posted_date": "2026-08-30",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2254,7 +2234,7 @@
     "title": "AI Scientist – AI-Driven Target Identification",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-29",
+    "posted_date": "2026-08-30",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -2273,7 +2253,7 @@
     "title": "Patent Attorney",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-29",
+    "posted_date": "2026-08-30",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -2286,7 +2266,7 @@
     "title": "Senior Principal Scientist/Associate Director Clinical PBPK  (Dual Level Posting)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-29",
+    "posted_date": "2026-08-30",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -2305,7 +2285,7 @@
     "title": "Translational Medicine Expert – Gastroenterology, Associate Director",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-09-07",
+    "posted_date": "2026-09-08",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -2322,7 +2302,7 @@
     "title": "Senior Principal Scientist / Associate Director– Soluble Biomarkers, Molecular & Cellular Sciences (MCS)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-29",
+    "posted_date": "2026-08-30",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -2343,7 +2323,7 @@
     "title": "Translational Medicine Director/Associate*- Cardiovascular & Metabolic",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-09-03",
+    "posted_date": "2026-09-04",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -2367,7 +2347,7 @@
     "title": "Therapeutic Area Biomarker Director  – Cardiovascular and Metabolism",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-31",
+    "posted_date": "2026-09-01",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -2391,7 +2371,7 @@
     "title": "Biomarker Therapeutic Area Head -Neuroscience",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-09-07",
+    "posted_date": "2026-09-08",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -2415,7 +2395,7 @@
     "title": "Research Scientist II",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-09-23",
+    "posted_date": "2026-09-24",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -2431,29 +2411,6 @@
     ],
     "deducted_keywords": []
   },
-  "/job/Basel-City/Research-Scientist-II--Immunology_REQ-10086642-2": {
-    "description": "Salary Range:CHF65,870.00 - CHF122,330.00\n\n \nJob Description SummaryLocation: Basel\nOnsite\nThis role is not offering relocation. Please apply only if the location is accessible to you.\n#LI-Onsite\n\nWe are working on innovative medicines to treat autoinflammatory and systemic autoimmune diseases, aiming to make a meaningful difference for patients. Here, you can apply your scientific skills and curiosity within a collaborative, interdisciplinary team, with your work helping generate important insights that lead to new, life-changing therapies.\n\nThe position in the Adaptive Immunity Lab is embedded within the Immunology Research Disease Area and will focus on translational aspects and project support for B cell-driven autoimmune diseases (e.g. systemic lupus erythematosus, rheumatoid arthritis). The role encompasses the design and execution of preclinical in vitro and in vivo studies, including complex flow cytometry-based analyses, to advance the mechanistic understanding of immune cell engager therapies. In addition, the position will contribute to the development of translational biomarker strategies to support clinical development. To lead research activities, we are seeking a scientist with a strong background in mechanistic translational research and immunology.\n\nIf you are passionate about human disease biology and compound mode of action at the interface of preclinical and clinical research, we want you on our team.\n\n \nJob Description\nKey Responsibilities\nActively contribute to drug discovery and exploratory projects aiming at discovering new ways to modulate the immune system for the treatment of inflammatory and autoimmune diseases.\nCollaborate with quantitative scientists to design hypothesis-driven experiments and integrate experimental and biomarker data into models of autoimmune disease biology and therapeutic response.\nDesign and conduct mechanistic experiments hands-on, utilizing human biosamples (such as blood/serum, PBMC, tissue biopsies) to generate translational data that inform project decisions, validate innovative concepts, elucidate mechanisms of action, and develop biomarker strategies.\nPlan and implement in vitro and ex vivo assays - including complex flow cytometry, cellular profiling, mechanistic cellular analyses, and examination of ex vivo samples derived from in vivo studies.\nPerform thorough analysis and interpretation of experimental results, critically evaluating whether hypotheses have been adequately tested, resolving any technical challenges, and determining subsequent experimental steps.\nDrive the development of novel hypotheses by integrating both internal and external scientific insights, proactively address research obstacles, and design strategic approaches to test these initial hypotheses.\nWork collaboratively as an integral part of cross-functional project teams, provide organized experiment record tracking and data analysis and be an active member of lab and project teams.\nIndependently search for information in scientific and technical literature, establish new technologies in the lab and present your data within the team.\nDrive a culture of collaboration, talent development and integrity.\n\nMinimum Requirements\n\nMSc degree in Immunology, Biology, Molecular Medicine or a related field.\nAt least 3 years of relevant research expertise in an interdisciplinary setting in academia or industry, bridging clinical and preclinical evidence\nHands-on mastery of routine immunological/ cell biology/ molecular biology assays and in vitro human models relevant to autoinflammatory and systemic autoimmune diseases (such as primary cells, cell lines, flow cytometry, qPCR etc.)\nExperienced in collaboration with data scientists, ensuring high quality experimental design and reproducibility.\nProven track record of completing projects on schedule in view of narrow timelines\nStrong interest in working in a creative environment where you demonstrate proactiveness, a flexible attitude and scientific curiosity\n\nAdditional Requirements\n\nExperience contributing to drug discovery programs in biotech/pharma or translational academic/clinical setting (e.g. in vitro pharmacology, biomarker studies) is a plus.\nData Science literacy and confidence in interpreting multi‑omic outputs and statistical analyses is an additional asset.\n\nRewards \nAt Novartis, we’re committed to reimagining medicine together - and rewarding the people who make it happen. \n \nThe rewards of being part of our team go far beyond base pay and incentives. We also offer a variety of competitive benefits in kind to help you thrive personally and professionally, such as insurance plans, retirement plans, wellbeing resources and global recognition programs. In addition, we provide flexible and hybrid working options, where possible, and a minimum of 14 weeks paid parental leave. \n \nExpected Annual Base Salary Range for role: \nSwitzerland:  65,870.00 - 122,330.00 CHF Annual\n \nThe salary offered is determined based on gender-neutral objectives, such as relevant skills, competencies and experience in accordance with the Novartis pay setting policy and upon joining Novartis will be reviewed periodically.  \n \nIn addition to your base salary, you may be eligible for a performance-based bonus depending on certain performance parameters. Further details will be provided during the application process.  \n \nPay equity is a fundamental principle of our employment policy and reflects our commitment to create a diverse, equitable and inclusive environment that treats all employees with dignity and respect, as outlined in our Code of Ethics. \n \nRead our brochure to learn more about our global total rewards offering: https://www.novartis.com/sites/novartis_com/files/novartis-life-handbook.pdf  \nNote: Benefits and compensation may vary by country and are subject to local legal requirements, including provisions of collective bargaining agreements where applicable. A full overview of your compensation package, including any relevant collective bargaining agreement details applicable to your role based on your employment location and Novartis employer entity, will be communicated separately to you during the application process.    \n \nCommitment to Diversity and Inclusion / EEO paragraph: \nNovartis is committed to building an outstanding, inclusive work environment and diverse teams’ representative of the patients and communities we serve. \n \nWhy Novartis: Helping people with disease and their families takes more than innovative science. It takes a community of smart, passionate people like you. Collaborating, supporting and inspiring each other. Combining to achieve breakthroughs that change patients’ lives. Ready to create a brighter future together? https://www.novartis.com/about/strategy/people-and-culture \n\n \nSkills DesiredAlgorithms, Analytical Thinking, Chemical Biology, Clinical Research, Clinical Trials, Collaboration, Curious Mindset, Data Analysis, Detail-Oriented, Ethics, Hypothesis Testing, Immunology, Mammalian Cell Culture, Medical Research, Molecular Biology, Science",
-    "external_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Basel-City/Research-Scientist-II--Immunology_REQ-10086642-2",
-    "status": "matched",
-    "title": "Research Scientist II, Immunology",
-    "company": "Novartis",
-    "location": "Basel (City)",
-    "posted_date": "2026-09-15",
-    "department": "",
-    "score": 9,
-    "matched_keywords": [
-      "MSc",
-      "drug discovery",
-      "immunology",
-      "in vitro",
-      "in vivo",
-      "molecular biology",
-      "pharmacology",
-      "preclinical",
-      "translational research"
-    ],
-    "deducted_keywords": []
-  },
   "/job/Basel-City/Research-Scientist-II--Laboratory-Automation---Drug-Discovery-Support_REQ-10087275-2": {
     "description": "Salary Range:CHF65,870.00 - CHF122,330.00\n\n \nJob Description SummaryLocation: Basel - Onsite\nThis role is not offering relocation. Please apply only if the location is accessible to you.\n#LI-Onsite\n\nApproximately 50% of the role is dedicated to laboratory automation support and operational excellence across IMM, while approximately 50% is focused on hands-on assay development, screening, profiling, and experimental support of drug discovery projects.\n\n \nJob Description\nKey Responsibilities\n\nAct as the primary IMM contact for laboratory automation systems and liquid handling platforms.\nEnsure reliable operation, maintenance, troubleshooting, and continuous improvement of laboratory automation infrastructure.\nProvide rapid hands-on technical support and training to automation users across IMM.\nDevelop, optimize, validate, and execute biochemical, cellular, and biophysical assays supporting drug discovery projects.\nPerform compound profiling and small- to medium-throughput screening campaigns using automated platforms.\nAnalyze and communicate experimental results to project teams and stakeholders.\nSupport assay automation, implementation, and transfer onto automated workflows.\nCollaborate closely with project teams to advance hit-to-lead and lead optimization activities.\nMaintain high scientific and operational standards, ensuring data quality and reproducibility.\n\n \nEssential Requirements\n\nBachelor's or Master's degree in Biology, Biochemistry, Pharmacology, Biotechnology, or a related field.\nAt least three years of experience operating and troubleshooting laboratory automation and liquid handling platforms.\nPractical experience in biochemical and/or cellular assay development and execution.\nDemonstrates a service-oriented mindset by responding constructively to urgent support requests, maintaining a positive attitude, and providing reliable assistance on automation platforms and devices.\nProvide strategic oversight of IMM laboratory automation infrastructure by anticipating future scientific requirements, maintaining state-of-the-art instrumentation and software, and developing long-term automation solutions that support departmental objectives.\nUnderstanding of drug discovery workflows and hit-to-lead activities. Strong data analysis and problem-solving skills. Excellent communication and collaboration skills. Ability to prioritize and support multiple users and projects simultaneously.\n\nDesirable Requirements\nExperience with biophysical assay technologies (SPR, Dianthus)\nExperience with screening and profiling software such as Genedata Screener, Spotfire, and GraphPad Prism.\nFluent in English, German, and French, with strong verbal and written communication skills\n\nRewards \nAt Novartis, we’re committed to reimagining medicine together - and rewarding the people who make it happen. \n \nThe rewards of being part of our team go far beyond base pay and incentives. We also offer a variety of competitive benefits in kind to help you thrive personally and professionally, such as insurance plans, retirement plans, wellbeing resources and global recognition programs. In addition, we provide flexible and hybrid working options, where possible, and a minimum of 14 weeks paid parental leave. \n \nExpected Annual Base Salary Range for role: \nSwitzerland: 65,870.00 - 122,330.00 CHF Annual\n \nThe salary offered is determined based on gender-neutral objectives, such as relevant skills, competencies and experience in accordance with the Novartis pay setting policy and upon joining Novartis will be reviewed periodically.  \n \nIn addition to your base salary, you may be eligible for a performance-based bonus depending on certain performance parameters. Further details will be provided during the application process.  \n \nPay equity is a fundamental principle of our employment policy and reflects our commitment to create a diverse, equitable and inclusive environment that treats all employees with dignity and respect, as outlined in our Code of Ethics. \n \nRead our brochure to learn more about our global total rewards offering: https://www.novartis.com/sites/novartis_com/files/novartis-life-handbook.pdf  \nNote: Benefits and compensation may vary by country and are subject to local legal requirements, including provisions of collective bargaining agreements where applicable. A full overview of your compensation package, including any relevant collective bargaining agreement details applicable to your role based on your employment location and Novartis employer entity, will be communicated separately to you during the application process.    \n \nCommitment to Diversity and Inclusion / EEO paragraph: \nNovartis is committed to building an outstanding, inclusive work environment and diverse teams’ representative of the patients and communities we serve. \n \nWhy Novartis: Helping people with disease and their families takes more than innovative science. It takes a community of smart, passionate people like you. Collaborating, supporting and inspiring each other. Combining to achieve breakthroughs that change patients’ lives. Ready to create a brighter future together? https://www.novartis.com/about/strategy/people-and-culture \nBenefits and Rewards: Read our handbook to learn about all the ways we’ll help you thrive personally and professionally: https://www.novartis.com/careers/benefits-rewards  \n\n \nSkills DesiredAlgorithms, Analytical Thinking, Chemical Biology, Clinical Research, Clinical Trials, Collaboration, Curious Mindset, Data Analysis, Detail-Oriented, Ethics, Hypothesis Testing, Immunology, Mammalian Cell Culture, Medical Research, Molecular Biology, Science",
     "external_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Basel-City/Research-Scientist-II--Laboratory-Automation---Drug-Discovery-Support_REQ-10087275-2",
@@ -2461,7 +2418,7 @@
     "title": "Research Scientist II, Laboratory Automation & Drug Discovery Support",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-09-23",
+    "posted_date": "2026-09-24",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -2482,7 +2439,7 @@
     "title": "Director, Translational Medicine Expert (Neurodegeneration)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-09-24",
+    "posted_date": "2026-09-25",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -2505,7 +2462,7 @@
     "title": "Business Development Director",
     "company": "KBI Biopharma",
     "location": "Switzerland - Plan-les-Ouates",
-    "posted_date": "2026-08-29",
+    "posted_date": "2026-08-30",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -2569,11 +2526,6 @@
   "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000152154391": {
     "description": "En tant que cheffe ou chef de clinique, avec ou sans titre de spécialité, vous assurez le suivi psychiatrique des patients/détenus et des patientes/détenues au sein du service (milieu fermé ou ouvert).\nVous intervenez dans un cadre clinique exigeant, au croisement des enjeux de soins, de justice et de sécurité, en lien étroit avec des équipes pluridisciplinaires expérimentées.\nVotre approche s’inscrit dans un abord thérapeutique individualisé visant la stabilisation des troubles mentaux, la rééducation des symptômes et la prévention de la récidive. Vous contribuez à une prise en charge globale, respectueuse de la dignité des personnes et des principes éthiques propres à la psychiatrie en contexte de contrainte. A ce titre, vous travaillez de manière coordonnée avec des personnes professionnelles aux compétences complémentaires, telles qu’infirmiers et infirmières, psychologues, psychiatres, ergothérapeutes, psychomotriciens et psychomotriciennes.\nParallèlement à votre activité, vous avez l'opportunité de finaliser, si cela n'est pas encore le cas, votre formation post-graduée de qualité intégrée contribuant à l'obtention du titre de spécialiste en psychiatrie et psychothérapie.",
     "external_url": "https://jobs.smartrecruiters.com/HUG/744000152154391-chef-ou-cheffe-de-clinique-avec-ou-sans-titre-de-specialite-80-a-100-?oga=true",
-    "status": "matched"
-  },
-  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000152155659": {
-    "description": "Pour renforcer l’équipe en place, nous cherchons un biostatisticien ou biostatiscienne épidémiologiste de recherche pour rejoindre le Service de chirurgie viscérale et contribuer, sur une durée de trois ans, à l’étude épidémiologique nationale « Missed Opportunities for Ovarian Cancer Prevention During Digestive Surgery: A Nationwide Epidemiological Study », financée par Swiss Cancer Research (KFS-6636-02-2026).\nVous êtes rattaché  au responsable du projet et en lien étroit avec le Registre Genevois des Tumeurs, vous assurez à la fois les aspects cliniques et épidémiologiques du poste et menez de manière autonome la gestion des données et les analyses statistiques du projet, jusqu’à leur valorisation scientifique.\nVos développez, gérez et validez les bases de données de recherche du projet. Vous êtes en charge d'extraire, préparer et analyser des données issues des registres suisses des tumeurs et de bases de données hospitalières. Vous réalisez les analyses statistiques et épidémiologiques (taux d’incidence standardisés, analyses de survie) et participez à la conception méthodologique des études. Vous contribuez à la rédaction des protocoles, demandes éthiques, rapports scientifiques et publications, et collaborez avec les différents partenaires académiques et institutionnels du projet.",
-    "external_url": "https://jobs.smartrecruiters.com/HUG/744000152155659-biostatisticien-ou-biostatisticienne-epidemiologiste-de-recherche-75-?oga=true",
     "status": "matched"
   },
   "https://jobdetails.nestle.com/job/Vevey-Senior-Acquisitions-&-Business-Development-Manager/1441989433/": {
