@@ -1083,7 +1083,7 @@
     "title": "Application Development Scientist – Reagents (12 months fixed-term contract)",
     "company": "Bio-Techne / Lunaphore",
     "location": "Tolochenaz, Switzerland",
-    "posted_date": "2026-08-30",
+    "posted_date": "2026-08-31",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1395,11 +1395,6 @@
     ],
     "deducted_keywords": []
   },
-  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000148540179": {
-    "description": "En tant que cheffe ou chef de clinique titulaire d’un titre de spécialiste en pneumologie, vous assurez l’ensemble des activités cliniques du service et évoluez dans un environnement universitaire, à l’interface des soins, de l’enseignement et de la recherche. Grâce à un tournus trimestriel au sein des différentes unités spécialisées, vous développez une expertise diversifiée couvrant aussi bien la pratique hospitalière qu’ambulatoire en faisant preuve de polyvalence. Vous intervenez notamment dans la prise en charge des pneumopathies interstitielles, des complications pulmonaires chez les patientes ou patients immunodéprimés, de la transplantation pulmonaire, de la pneumologie interventionnelle ainsi que des troubles respiratoires du sommeil, en collaboration étroite avec le Centre de médecine du sommeil.\nVous rejoignez une équipe soudée composée de 9 chefs et cheffes de clinique, 4 médecins adjoints et adjointes et 5 médecins internes, sous la responsabilité de la professeure cheffe de service. Vous collaborez étroitement avec une équipe pluridisciplinaire regroupant infirmiers et infirmières spécialisées, techniciens et techniciennes en physiologie respiratoire, personnel administratif ainsi que les différents centres et départements médicaux de l’institution.\nVous assurez la prise en charge diagnostique et thérapeutique des pathologies respiratoires aiguës et chroniques. Vous participez à l’évaluation et au suivi de situations complexes, incluant notamment la dyspnée, la tuberculose, l’insuffisance respiratoire et les différents domaines médico-techniques de la spécialité.\nVous faites preuve de résilience, de sens clinique et d’une grande capacité d’analyse dans la prise en charge de situations parfois complexes. Grâce à votre sens de l’organisation et à votre capacité à prioriser, vous assurez efficacement vos activités cliniques tout en répondant aux multiples sollicitations (patients et patientes, téléphones, correspondances, réunions). Vous veillez à maintenir une communication claire, bienveillante et adaptée avec les patients et patientes, leurs proches ainsi qu’avec l’ensemble des professionnels impliqués dans leur prise en charge, en adaptant votre discours à leur compréhension.\nEn vous appuyant sur votre esprit d’équipe, vous faites preuve de solidarité face aux imprévus. En tant que cheffe ou chef de clinique, vous participez activement à la supervision et à la formation des médecins internes du département de médecine dans le domaine de la pneumologie, en adoptant une posture de mentorat et en partageant votre expertise.",
-    "external_url": "https://jobs.smartrecruiters.com/HUG/744000148540179-chef-ou-cheffe-de-clinique-avec-titre-de-specialite-en-pneumologie-100-?oga=true",
-    "status": "matched"
-  },
   "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000148538556": {
     "description": "Au sein de l’Unité de médecine et psychologie du trafic (UMPT), vous participez, sous supervision, aux expertises d’aptitude à la conduite automobile réalisées sur les différents sites de l’unité. Pour ce faire, vous collaborez étroitement avec les psychologues de l’UMPT dans le cadre de l’évaluation des situations qui vous sont confiées et contribuez à une prise en charge interdisciplinaire de qualité.\nDans le cadre de vos activités, vous effectuez également des prélèvements biologiques destinés à des analyses toxicologiques et rédigez des rapports d’expertise qui sont validés et co-signés par le ou la médecin responsable de l’unité.\nAfin de développer vos compétences dans ce domaine spécialisé, vous participez à des séminaires scientifiques ainsi qu’à des enseignements de formation prégraduée en médecine du trafic, dispensés en français et/ou en allemand.",
     "external_url": "https://jobs.smartrecruiters.com/HUG/744000148538556-medecin-interne-a-l-unite-de-medecine-et-psychologie-du-trafic-umpt-50-?oga=true",
@@ -1461,11 +1456,6 @@
   "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000149054435": {
     "description": "Vous occupez un poste de diététicien ou diététicienne transverse et intervenez en remplacement de vos collègues au sein des Départements de Réadaptation et Gériatrie, de Psychiatrie et des Neurosciences cliniques, sur l’ensemble des sites externes des HUG. Dans ce cadre, vous assurez le suivi nutritionnel des patientes et des patients sous la supervision de la diététicienne responsable d’équipe.\nEn qualité de diététicienne ou diététicien, votre mission est de permettre aux patientes et patients d'entretenir, de récupérer ou d'améliorer leurs capacités fonctionnelles et leur qualité de vie en tenant compte des aspects éthiques et déontologiques.\nVous appliquez l’Evidence Based Practice (EBP) et effectuez vos prises en charge selon les critères du processus de soins nutritionnel.\nVous êtes responsable d’une documentation rigoureuse et régulière des dossiers patients.\nVous êtes actif dans la prévention de la malnutrition protéino-énergétique hospitalière.\nVous assistez et participez aux colloques interdisciplinaires et collaborez à la formation des étudiantes, étudiants et des professionnels et professionnelles de la santé.",
     "external_url": "https://jobs.smartrecruiters.com/HUG/744000149054435-dieteticien-ou-dieteticienne-100-?oga=true",
-    "status": "matched"
-  },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000149258659": {
-    "description": "As the successful candidate you will contribute to the CERN Computer Security Office by 1) maintaining, extending and developing extra functionality for its Security Operations Centre, i.e. the central hub for incident detection and response, and, 2) and in parallel, securing CERN's contracted external cloud services (i.e. AWS and Oracle cloud, but also reviewing Microsoft Azure, Microsoft 365, Google Cloud Platform and Google Workspace set-ups).\nYour responsibilities\nYour main tasks will include:\nTake an active role in maintaining, supporting, and extending the Computer Security Office's incident detection and response infrastructure (its \"Security Operating Centre\") based on open source technologies (e.g. \"Zeek\", OpenSearch, Apache Kafka, Kubernetes, \"MISP\").\nConfigure the IT department's newly contracted external cloud services (i.e. AWS, GCP, Azure and Oracle) such that their functionality and data maximally benefit from all relevant inherent security settings.\nReview, in addition, the current security posture and configuration of CERN's existing Microsoft and Google SaaS cloud configurations.\nAs side-tasks, you will have the opportunity to:\nContribute to other computer security projects managed by the Office.\nProviding advice and consultancy in matters of computer security, including performing penetration testing.\nMore information here.\nYour profile\nExperience in design of networks as well as knowledge of communication technologies and protocols.\nExperience in administration of computing systems as well as installation, operation and maintenance (preventive and corrective) of computing systems.\nExperience in \"computer security\", secure configurations, security analysis and penetration testing, and, in particular, that of cloud services.\nIdeally, but in addition, experience in monitoring and responding to security threats and incidents for ICT systems.\nSkills\nExcellent knowledge of the Linux/UNIX operating system, virtualisation, databases, and in particular of shell scripting and programming (Python, and/or C), other languages or technologies would be a plus.\nKnowledge of cloud frameworks like Kubernetes.\nKnowledge of best practises for developing secure software and of, development and integration of IT security (features), in particular in AWS, Google and MS cloud environments.\nSpoken and written English, with a commitment to learn French.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nBy the application deadline, you have a maximum of two years of professional experience since graduation in Computer Science (or a related field) and your highest educational qualification is either a Bachelor's or Master's degree.\nYou have never had a CERN fellow or graduate contract before.\nApplicants without University degree are not eligible.\nApplicants with a PhD are not eligible.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000149258659-computer-security-architect-it-di-cso-2026-190-grae-?oga=true",
     "status": "matched"
   },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000149321309": {
@@ -1636,7 +1626,7 @@
     "title": "Senior Scientist Physico-Chemical Quality Control 80-100%",
     "company": "Lonza",
     "location": "CH - Basel",
-    "posted_date": "2026-09-18",
+    "posted_date": "2026-09-19",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1651,7 +1641,7 @@
     "title": "Business Development Manager (m/w/d) Neuromodulation – Schweiz",
     "company": "Abbott",
     "location": "Switzerland - Baar",
-    "posted_date": "2026-08-30",
+    "posted_date": "2026-08-31",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -1666,7 +1656,7 @@
     "title": "Executive Director, Regional Medical Lead - Solid Tumors, Medical Affairs, Europe",
     "company": "BeiGene",
     "location": "Basel",
-    "posted_date": "2026-08-30",
+    "posted_date": "2026-08-31",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1687,7 +1677,7 @@
     "title": "Director, Medical Affairs, Hemato-Oncology, Europe",
     "company": "BeiGene",
     "location": "Basel",
-    "posted_date": "2026-08-30",
+    "posted_date": "2026-08-31",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1704,7 +1694,7 @@
     "title": "Senior Scientist Electronic Laboratory Systems",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-08-30",
+    "posted_date": "2026-08-31",
     "department": "",
     "score": -1,
     "matched_keywords": [
@@ -1854,7 +1844,7 @@
     "title": "Senior Scientist QA Operations",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-09-23",
+    "posted_date": "2026-09-24",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -1913,7 +1903,7 @@
     "title": "Sr. Scientist, Stat. Programming",
     "company": "MSD",
     "location": "CHE - Zurich - Zurich (The Circle)",
-    "posted_date": "2026-09-25",
+    "posted_date": "2026-09-26",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1926,7 +1916,7 @@
     "title": "Machine Learning Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-25",
+    "posted_date": "2026-09-26",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -1947,7 +1937,7 @@
     "title": "Principal Scientist - Discovery Oncology",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-24",
+    "posted_date": "2026-09-25",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -1971,7 +1961,7 @@
     "title": "Senior Computational & Applied AI Scientist (Real-World Data))",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-10",
+    "posted_date": "2026-09-11",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -1990,7 +1980,7 @@
     "title": "Cardio-Renal Discovery & Scientific Strategy Area Leader",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-21",
+    "posted_date": "2026-09-22",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -2011,7 +2001,7 @@
     "title": "Senior Computational & Applied AI - Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-31",
+    "posted_date": "2026-09-01",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -2029,7 +2019,7 @@
     "title": "Principal Scientist, Respiratory Discovery",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-01",
+    "posted_date": "2026-09-02",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -2053,7 +2043,7 @@
     "title": "Postdoctoral Scientist – Vascularized Kidney Organoids (at the Institute of Human Biology (IHB))",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-04",
+    "posted_date": "2026-09-05",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -2073,7 +2063,7 @@
     "title": "Research Associate In Cellular Assay Development",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-30",
+    "posted_date": "2026-08-31",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -2090,7 +2080,7 @@
     "title": "Scientist, Cell Engineering and Phenotypic Screening Models",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-30",
+    "posted_date": "2026-08-31",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -2111,7 +2101,7 @@
     "title": "Discovery Scientist – Neural Retina & Ocular Disease",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-30",
+    "posted_date": "2026-08-31",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -2134,7 +2124,7 @@
     "title": "\"Principal Scientist siRNA Design",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-30",
+    "posted_date": "2026-08-31",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2150,7 +2140,7 @@
     "title": "Senior/Principal Scientist - NMR Expert",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-08-30",
+    "posted_date": "2026-08-31",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2166,7 +2156,7 @@
     "title": "AI Scientist – AI-Driven Target Identification",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-30",
+    "posted_date": "2026-08-31",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -2185,7 +2175,7 @@
     "title": "Patent Attorney",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-30",
+    "posted_date": "2026-08-31",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -2198,7 +2188,7 @@
     "title": "Senior Principal Scientist/Associate Director Clinical PBPK  (Dual Level Posting)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-30",
+    "posted_date": "2026-08-31",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -2217,7 +2207,7 @@
     "title": "Translational Medicine Expert – Gastroenterology, Associate Director",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-09-07",
+    "posted_date": "2026-09-08",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -2234,7 +2224,7 @@
     "title": "Senior Principal Scientist / Associate Director– Soluble Biomarkers, Molecular & Cellular Sciences (MCS)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-30",
+    "posted_date": "2026-08-31",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -2255,7 +2245,7 @@
     "title": "Translational Medicine Director/Associate*- Cardiovascular & Metabolic",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-09-03",
+    "posted_date": "2026-09-04",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -2279,7 +2269,7 @@
     "title": "Therapeutic Area Biomarker Director  – Cardiovascular and Metabolism",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-08-31",
+    "posted_date": "2026-09-01",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -2303,7 +2293,7 @@
     "title": "Biomarker Therapeutic Area Head -Neuroscience",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-09-07",
+    "posted_date": "2026-09-08",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -2327,7 +2317,7 @@
     "title": "Research Scientist II",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-09-23",
+    "posted_date": "2026-09-24",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -2350,7 +2340,7 @@
     "title": "Research Scientist II, Laboratory Automation & Drug Discovery Support",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-09-23",
+    "posted_date": "2026-09-24",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -2371,7 +2361,7 @@
     "title": "Director, Translational Medicine Expert (Neurodegeneration)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-09-24",
+    "posted_date": "2026-09-25",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -2394,7 +2384,7 @@
     "title": "Business Development Director",
     "company": "KBI Biopharma",
     "location": "Switzerland - Plan-les-Ouates",
-    "posted_date": "2026-08-30",
+    "posted_date": "2026-08-31",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -2493,11 +2483,6 @@
     "external_url": "https://jobs.smartrecruiters.com/HUG/744000152365639-ingenieure-ou-ingenieur-chef-ou-cheffe-de-projet-technique-et-batiment-cvc-sanitaire-gaz-medicaux-regulation-100-?oga=true",
     "status": "matched"
   },
-  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000152464057": {
-    "description": "Au sein de ladite équipe RH, votre activité englobe notamment la gestion administrative des collaboratrices et collaborateurs de la Direction et services communs, incluant la production d’actes administratifs variés.\nDans le cadre de cette opportunité, vous renseignez et conseillez les collaboratrices et collaborateurs et les cadres sur les questions liées aux procédures RH et vous assumez la gestion administrative pour le public cible dont vous êtes responsable, ceci en synergie avec une collègue responsable RH adjointe et deux gestionnaires RH. Ainsi, vous intervenez au plan administratif sur tout le cycle de vie des membres du personnel, du recrutement au départ, et en lien avec de nombreux partenaires de la DRH et de l’institution (gestionnaire salaire, service recrutement, managers, etc.). \nVous garantissez, par délégation du responsable des ressources humaines, l'organisation et la gestion des activités liées au traitement des dossiers tout en veillant à une juste répartition des priorités. Vous coordonnez les prestations RH selon les règles et directives de la DRH en représentant la politique des ressources humaines institutionnelle.\nVous apportez du soutien à votre responsable dans le développement d’un climat de travail harmonieux et respectueux des personnes.\nPersonne orientée service clients et solutions, vous vous reconnaissez par ailleurs dans les valeurs des HUG que vous incarnez dans l’exercice de vos fonctions.",
-    "external_url": "https://jobs.smartrecruiters.com/HUG/744000152464057-gestionnaire-rh-100-?oga=true",
-    "status": "matched"
-  },
   "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000152357259": {
     "description": "Dans le cadre de votre fonction, vous évaluez le fonctionnement psychologique des patients et patientes et prenez en charge leurs difficultés. Vous élaborez des plans de prise en charge adaptés, développez des activités d’intervention, de prévention et contribuez ainsi à une prise en charge proactive.\nDans vos activités, vous travaillez en interdisciplinarité avec les équipes médico-soignantes, le personnel médico-thérapeutique et participez activement aux colloques interdisciplinaires de réadaptation.\nEn collaboration avec vos collègues psychologues, vous organisez les thérapies et la répartition des unités à couvrir.\nVous supervisez les psychologues en formation postgrade de psychothérapie, initiez et collaborez à des activités d’enseignement et de recherche en lien avec les intérêts de la Clinique.",
     "external_url": "https://jobs.smartrecruiters.com/HUG/744000152357259-psychologue-specialise-ou-specialisee-en-psychotherapie-crans-montana-80-?oga=true",
@@ -2524,7 +2509,7 @@
     "title": "Specialist, Regulatory Affairs",
     "company": "Danaher",
     "location": "Neuchâtel, Switzerland",
-    "posted_date": "2026-09-29",
+    "posted_date": "2026-09-30",
     "department": "",
     "score": 4,
     "matched_keywords": [
