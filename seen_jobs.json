@@ -9,7 +9,7 @@
     "keywords": "npp"
   },
   "_generic:Charles River Laboratories": {
-    "keywords": "regulatory,spécialiste"
+    "keywords": "regulatory"
   },
   "_generic:MoonLake Immunotherapeutics": {
     "keywords": "clinical development,medical affairs"
@@ -1166,16 +1166,6 @@
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000146658359-shipping-officer-sce-ssc-sc-2026-217-grae-?oga=true",
     "status": "matched"
   },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000147156779": {
-    "description": "Introduction:\nYou will join a multidisciplinary team responsible for developing more efficient superconducting radiofrequency (SRF) cavities for future CERN accelerators. In this hands-on role, after dedicated training in the team you will contribute to the improvement of thin-film coating technologies through the design, fabrication, commissioning and operation of physical vapour deposition (PVD) equipment. \nFunctions:\nDesign mechanical components and coating equipment using 3D CAD tools and produce the associated manufacturing and assembly drawings. \nAssemble, install, test, commission and operate physical vapour deposition coating systems and their associated equipment. \nManufacture and modify metallic and ceramic components using conventional machining and computer numerical control (CNC)-based manufacturing techniques. \nParticipate in coating activities, record operating parameters and document process procedures. \nProcure mechanical components for thin-film coating systems. \nDiagnose faults, carry out maintenance and implement mechanical improvements to existing coating systems.  \nApply the relevant safe.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000147156779-mechanical-technician-te-vsc-scc-2026-188-ld-?oga=true",
-    "status": "matched"
-  },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000147154529": {
-    "description": "Introduction:\nYou will join a multidisciplinary team developing the next generation of high-performance superconducting radiofrequency (SRF) cavities. In this role, after dedicated training in the team, you will develop and optimise advanced surface treatments essential to their performance, including chemical polishing, electrochemical polishing and electroplating. You will also contribute to the design, procurement, commissioning, and acceptance of a new surface treatment facility dedicated to SRF components.\nFunctions:\nDevelop, operate and optimise chemical and electrochemical surface-processing techniques for SRF accelerating cavities and their subassemblies.\nOptimise existing processes by developing and conducting laboratory-scale chemical and electrochemical trials, applying multiphysics simulation tools to improve process performance and reproducibility.\nDefine technical requirements and coordinate the design, procurement, testing, commissioning and acceptance of new equipment and facilities for the chemical and electrochemical surface finishing of SRF components.\nDevelop, validate, document and implement operating procedures, process specifications and quality control methods for the surface finishing of SRF components.\nWork closely with engineers, physicists, technicians, safety specialists and external suppliers, communicating results and technical recommendations through reports, reviews and project meetings.\nEnsure that all necessary safety measures and documentation are kept up to date and effectively implemented across existing and new processes and facilities.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000147154529-chemical-engineer-te-vsc-scc-2026-187-ld-?oga=true",
-    "status": "matched"
-  },
   "https://www.michaelpage.ch/job-detail/asap-sponsorship-business-development-manager-mwd/ref/jn-092026-7096210": {
     "external_url": "https://www.michaelpage.ch/job-detail/asap-sponsorship-business-development-manager-mwd/ref/jn-092026-7096210",
     "status": "ignored",
@@ -1439,11 +1429,6 @@
       "location:Switzerland"
     ]
   },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000149780079": {
-    "description": "Introduction\nYou will ensure the availability and reliability of CERN's cryogenic installations by providing daily technical support, maintaining industrial instrumentation systems and diagnosing complex electrical faults. You will also contribute to the design and optimisation of low-voltage electrical cabinets and components, in compliance with electrical safety standards.\nFunctions\nContribute to the technical design and development of electrical cabinets for cryogenic systems, including the calculation to dimension the electrical systems, producing detailed electrical drawings, selecting components and ensuring compliance with electrical safety requirements.\nParticipate in and supervise the fabrication, installation and commissioning of electrical and instrumentation systems for cryogenic installations, including related procurement activities such as evaluating cost estimates and ordering component.\nProvide daily operational support for cryogenic installations and contribute to the stand-by duty service to resolve urgent issues (including fault-finding, implementation of fixes, and reporting to the operation team).\nPlan and coordinate preventive and corrective maintenance activities for system components, setting maintenance priorities and keep the corresponding technical documentation and procedures up to date.\nSelect and implement industrial instrumentation systems and carry out equipment testing and calibration according to operational requirements.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000149780079-electromechanical-technician-for-cryogenics-te-crg-ic-2026-176-ld-?oga=true",
-    "status": "matched"
-  },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000149783149": {
     "description": "Job Overview:\nWe are offering one post-doctoral research position in the field of applied physics and engineering. The successful candidates will be working in the Accelerator Systems departments of CERN. They will be performing research in the field of Accelerator Physics and System Design, including but not limited to: \n\n- Design, develop and optimise beam transfer systems supporting CERN's accelerator complex and future accelerator projects.\n\n- Perform accelerator physics studies, including beam optics design, particle tracking and multi-physics simulations, to support system design, validation and performance optimisation.\n\n- Develop functional specifications for beam transfer systems based on accelerator physics requirements and engineering constraints.\n\n- Develop and implement modern commissioning strategies using automation, numerical optimisation and data-driven techniques.\n\n- Analyse beam and system performance to improve beam quality, operational efficiency and system reliability.\nCandidate Profile:\nYou have a strong background in applied physics, engineering or a closely related field.\nYou have research experience in applied physics and engineering, ideally linked to the design, development or operation of experimental systems.\nYou are interested in pursuing a career in research or academia and in taking an active role within a research project.\nYou are motivated to contribute to large-scale experimental programmes in an international research environment.\nTechnical Skills:\nYou have strong analytical and problem-solving skills applied to experimental systems and technologies.\nYou are able to work collaboratively within large, international and multidisciplinary teams.\nYou communicate effectively in a scientific and technical environment.\nYou are able to work independently while contributing to shared project objectives.\nYour PhD is in the fields of Applied Physics and Engineering.",
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000149783149-ats-research-fellowship-applied-physics-and-engineering?oga=true",
@@ -1565,7 +1550,7 @@
     "title": "Senior Scientist Physico-Chemical Quality Control 80-100%",
     "company": "Lonza",
     "location": "CH - Basel",
-    "posted_date": "2026-09-19",
+    "posted_date": "2026-09-18",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1778,7 +1763,7 @@
     "title": "Senior Scientist QA Operations",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-09-24",
+    "posted_date": "2026-09-23",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -1837,7 +1822,7 @@
     "title": "Sr. Scientist, Stat. Programming",
     "company": "MSD",
     "location": "CHE - Zurich - Zurich (The Circle)",
-    "posted_date": "2026-09-26",
+    "posted_date": "2026-09-25",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1850,7 +1835,7 @@
     "title": "Machine Learning Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-26",
+    "posted_date": "2026-09-25",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -1871,7 +1856,7 @@
     "title": "Principal Scientist - Discovery Oncology",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-25",
+    "posted_date": "2026-09-24",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -1895,7 +1880,7 @@
     "title": "Senior Computational & Applied AI Scientist (Real-World Data))",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-11",
+    "posted_date": "2026-09-10",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -1914,7 +1899,7 @@
     "title": "Cardio-Renal Discovery & Scientific Strategy Area Leader",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-22",
+    "posted_date": "2026-09-21",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -1953,7 +1938,7 @@
     "title": "Postdoctoral Scientist – Vascularized Kidney Organoids (at the Institute of Human Biology (IHB))",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-05",
+    "posted_date": "2026-09-04",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -2096,7 +2081,7 @@
     "title": "Translational Medicine Expert – Gastroenterology, Associate Director",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-09-08",
+    "posted_date": "2026-09-07",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -2134,7 +2119,7 @@
     "title": "Translational Medicine Director/Associate*- Cardiovascular & Metabolic",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-09-04",
+    "posted_date": "2026-09-03",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -2182,7 +2167,7 @@
     "title": "Biomarker Therapeutic Area Head -Neuroscience",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-09-08",
+    "posted_date": "2026-09-07",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -2206,7 +2191,7 @@
     "title": "Research Scientist II",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-09-24",
+    "posted_date": "2026-09-23",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -2229,7 +2214,7 @@
     "title": "Research Scientist II, Laboratory Automation & Drug Discovery Support",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-09-24",
+    "posted_date": "2026-09-23",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -2250,7 +2235,7 @@
     "title": "Director, Translational Medicine Expert (Neurodegeneration)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-09-25",
+    "posted_date": "2026-09-24",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -2380,18 +2365,13 @@
     "title": "Specialist, Regulatory Affairs",
     "company": "Danaher",
     "location": "Neuchâtel, Switzerland",
-    "posted_date": "2026-10-01",
+    "posted_date": "",
     "department": "",
     "score": 4,
     "matched_keywords": [
       "location:neuchâtel"
     ],
     "deducted_keywords": []
-  },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000152609519": {
-    "description": "Join the Linear and Non-Linear Optics (LNO) Section within CERN's Accelerator and Beam Physics (ABP) Group and help shape the future of the High-Luminosity Large Hadron Collider (HL-LHC). As part of the Optics Measurement and Correction (OMC) team, you will develop advanced software and analysis tools that enable precise beam-optics measurements and corrections, as well as improve commissioning procedures.\nYour work will play a key role in ensuring the safe, reliable, and high-performance operation of the HL-LHC, contributing directly to the successful delivery of its novel physics programme.\nYour responsibilities\nMaintain and extend the core OMC framework and toolset used during LHC commissioning and operation.\nExplore software solutions to improve the efficiency and capability of optics measurement and corrections in the LHC.\nUpdate accelerator model creation and correction algorithms to utilise new simulation tools.\nExplore the viability of automation for key measurement and analysis workflows, implementing solutions where possible.\nDevelop new GUIs and analysis tools to be used in the CERN Control Centre during optics commissioning.\nParticipate in, and contribute to the analysis of, optics measurements in the CERN accelerators.\nYour profile\nBackground in programming and software design, with experience in Python.\nFamiliarity with version control systems and collaborative workflows (Github).\nExperience of GUI development.\nKnowledge of particle accelerator physics and operation would be an advantage.\nSkills\nSoftware development. in Python.\nGUI development\nAbility to test, diagnose and optimise existing software.\nStructured approach towards work, good prioritisation skills to deliver results on required time-lines.\nAbility and willingness to share knowledge and participate in knowledge transfer activities.\nStrong teamwork and communication skills.\nInterest in developing and maintaining software solutions for applied physics, particularly the field of accelerator physics.\nSpoken and written English or French, with a commitment to learn the other language.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nYou have a professional background in Physics, Software Engineering (or a related field) and have either:\na Master's degree with 2 to 6 years of post-graduation professional experience;\nor a PhD with no more than 3 years of post-graduation professional experience.\nYou have never had a CERN fellow or graduate contract before.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000152609519-software-developer-beam-optics-be-abp-lno-2026-132-grap-?oga=true",
-    "status": "matched"
   },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000152603439": {
     "description": "Introduction:\nWe invite you to take your career to an exciting new level by joining the team of operators who run the CERN accelerator complex from the CERN Control Centre (CCC). The Operations Group is responsible for the exploitation of the entire CERN accelerator complex and its technical infrastructure, including the Large Hadron Collider (LHC), running a rich proton, antiproton and heavy ion experimental programme. You will be at the heart of the preparation and delivery of particle beams to the different physics programs at CERN. When not operating these complex machines, you will contribute to the development of applications and advanced tools to support and improve operation.\nFunctions:\nTake part in the 24/7 shift team which runs CERN's accelerator complex.\nOperate proton and/or ion accelerators (Linac3, Linac4, PSB, LEIR and/or PS) and the beam lines to the associated experimental facilities on a shift basis, ensuring the safe and timely execution of the physics schedule and obtaining the defined beam performance goals.\nWork closely with accelerator physicists to set up and optimise the accelerator operation and to design, document, commission and optimise various operational scenarios.\nParticipate in the development of applications and advanced tools as part of a team or in collaboration with engineers or physicists within the OP group or within a specialised equipment group.\nOutside periods of accelerator operation, assist the technical infrastructure team with the operation of CERN's technical infrastructure or other CERN equipment groups, if required.",
@@ -2410,7 +2390,7 @@
     "title": "Regulatory Affairs Consultant - on-site in Basel (German and French language skills)",
     "company": "Parexel",
     "location": "Switzerland-Basel",
-    "posted_date": "2026-10-01",
+    "posted_date": "",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2418,5 +2398,65 @@
       "oncology"
     ],
     "deducted_keywords": []
+  },
+  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000152831017": {
+    "description": "Join the Linear and Non-Linear Optics (LNO) Section within CERN's Accelerator and Beam Physics (ABP) Group and help shape the future of the High-Luminosity Large Hadron Collider (HL-LHC). As part of the Optics Measurement and Correction (OMC) team, you will develop advanced software and analysis tools that enable precise beam-optics measurements and corrections, as well as improve commissioning procedures.\nYour work will play a key role in ensuring the safe, reliable, and high-performance operation of the HL-LHC, contributing directly to the successful delivery of its novel physics programme.\nYour responsibilities\nMaintain and extend the core OMC framework and toolset used during LHC commissioning and operation.\nExplore software solutions to improve the efficiency and capability of optics measurement and corrections in the LHC.\nUpdate accelerator model creation and correction algorithms to utilise new simulation tools.\nExplore the viability of automation for key measurement and analysis workflows, implementing solutions where possible.\nDevelop new GUIs and analysis tools to be used in the CERN Control Centre during optics commissioning.\nParticipate in, and contribute to the analysis of, optics measurements in the CERN accelerators.\nYour profile\nBackground in programming and software design, with experience in Python.\nFamiliarity with version control systems and collaborative workflows (Github).\nExperience of GUI development.\nKnowledge of particle accelerator physics and operation would be an advantage.\nSkills\nSoftware development. in Python.\nGUI development\nAbility to test, diagnose and optimise existing software.\nStructured approach towards work, good prioritisation skills to deliver results on required time-lines.\nAbility and willingness to share knowledge and participate in knowledge transfer activities.\nStrong teamwork and communication skills.\nInterest in developing and maintaining software solutions for applied physics, particularly the field of accelerator physics.\nSpoken and written English or French, with a commitment to learn the other language.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nYou have a professional background in Physics, Software Engineering (or a related field) and have either:\na Master's degree with 2 to 6 years of post-graduation professional experience;\nor a PhD with no more than 3 years of post-graduation professional experience.\nYou have never had a CERN fellow or graduate contract before.",
+    "external_url": "https://jobs.smartrecruiters.com/CERN/744000152831017-software-developer-beam-optics-be-abp-lno-2026-132-grap-?oga=true",
+    "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000152857979": {
+    "description": "Vous êtes la personne de référence pour la gestion des fonds de tiers du département. Vous effectuez certaines opérations comptables telles que facturation aux tiers, OD comptable de reclassement, requête de paiement.\nVous assistez l’équipe du Responsable administratif et financier (RAF) dans les tâches administratives (accueil téléphonique, traitement des courriers, organisation des séances).\nVous contrôlez la justesse et la documentation des demandes de remboursements de frais et de formation.\nVous prenez des décisions dans les affaires courantes et dans le cadre du traitement des dossiers confiés, dans le respect des budgets ainsi que des directives en vigueur, en faisant remonter les situations complexes ou particulières à votre hiérarchie avec des propositions de solutions.\nSur délégation du RAF, vous contrôlez les factures et libérez le paiement aux fournisseurs. Vous contrôlez et validez les commandes du département.\nVous assurez le suivi et le contrôle de la facturation ambulatoire des différents services à l’aide des tableaux de bord et outils mis à disposition, en collaboration avec les Centres d’admissions et de facturation, les médecins et les secrétariats du département.\nVous participez aux projets du département et/ou institutionnels.",
+    "external_url": "https://jobs.smartrecruiters.com/HUG/744000152857979-assistante-ou-assistant-de-gestion-au-departement-de-medecine-aigue-100-?oga=true",
+    "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000152857520": {
+    "description": "Au sein du Centre de l’Innovation, vous jouez un rôle clé dans l’évolution de Concerto, une plateforme au cœur des parcours de soins et des usages numériques. À l’interface entre les métiers et les équipes techniques, vous contribuez à définir les orientations de la plateforme, à piloter ses évolutions et à accompagner leur déploiement.\nVous prenez en charge des projets transversaux et des évolutions fonctionnelles de bout en bout. À ce titre, vous analysez les besoins des patients et patientes ainsi que des professionnels et professionnelles de santé, comprenez les parcours existants et identifiez les opportunités de simplification et d’amélioration. Vous formalisez les besoins, les traduisez en objectifs, fonctionnalités et processus, puis définissez les priorités, les jalons, les responsabilités ainsi que les risques et dépendances associés. Vous assurez ensuite le pilotage des projets jusqu’à leur mise en production, en garantissant le respect des délais, des ressources et des livrables. Vous animez également les ateliers, groupes de travail et instances de gouvernance, tout en assurant un reporting clair et régulier auprès des différentes parties prenantes.\nVéritable trait d’union entre les utilisateurs et utilisatrices et les équipes spécialisées, vous transformez les besoins métiers en exigences fonctionnelles exploitables. Vous collaborez étroitement avec les équipes de développement, d’UX/UI, d’architecture, de cybersécurité et d’intégration, ainsi qu’avec les directions médicales, soignantes, administratives et les autres métiers concernés. Vous participez à la conception et à la validation des parcours et fonctionnalités, tout en challengeant les demandes afin d’identifier les solutions offrant le meilleur équilibre entre valeur d’usage, simplicité, faisabilité et cohérence avec l’écosystème numérique des HUG. Sans être nécessairement spécialiste en informatique, vous êtes à l’aise avec les enjeux techniques et savez faciliter le dialogue entre les différents acteurs.\nAu-delà du pilotage de projets, vous contribuez à la vision d’ensemble de la plateforme. Vous participez à l’identification et à la priorisation des évolutions, à la construction et à l’actualisation de la feuille de route fonctionnelle ainsi qu’à l’analyse et à l’arbitrage des demandes en fonction de leur impact, des ressources disponibles et des priorités institutionnelles. Vous veillez également à identifier les interdépendances entre projets et systèmes afin de garantir le développement cohérent et évolutif de Concerto, tout en assurant une veille sur les usages et les innovations du numérique en santé. Cette fonction vous amène à naviguer avec aisance entre réflexion stratégique et mise en œuvre opérationnelle.\nVous accompagnez également les phases de test, de validation et de déploiement des nouvelles fonctionnalités. En collaboration avec les parties prenantes, vous anticipez les impacts organisationnels, définissez les modalités d’accompagnement au changement et contribuez aux actions de communication, d’information et de formation. Vous soutenez l’appropriation des nouveaux usages par les équipes, recueillez les retours des utilisateurs et utilisatrices et veillez à leur intégration dans les évolutions futures de la plateforme.\nEnfin, vous participez au développement d’une culture de pilotage fondée sur les données et les résultats. Vous définissez les indicateurs de suivi de l’utilisation et de l’adoption des fonctionnalités, analysez les usages et les points de friction, mesurez les bénéfices obtenus et proposez des actions d’amélioration continues. Cette démarche contribue à démontrer la valeur de Concerto pour les patients, les professionnels et l’institution.\nVous évoluez dans un environnement transversal, complexe et en constante transformation. Cette position requiert la capacité de fédérer des interlocuteurs aux profils variés, de créer l’adhésion sans lien hiérarchique direct et de faire progresser collectivement des projets à forts enjeux.",
+    "external_url": "https://jobs.smartrecruiters.com/HUG/744000152857520-cheffe-ou-chef-de-projet-plateforme-numerique-concerto-80-a-100-?oga=true",
+    "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000152857639": {
+    "description": "Vous êtes intégré ou intégrée au Centre de l’innovation des HUG. Vous jouez un rôle clé dans l’émergence et le développement des initiatives innovantes portées par les collaborateurs et collaboratrices des HUG, en leur apportant un accompagnement en gestion de projet. Par votre action, vous contribuez au développement de la culture de l’innovation, de la créativité et de la transformation au sein de l’institution.\nVotre mission consiste à créer les conditions favorables à l’émergence, à la maturation et à l’implémentation de nouveaux produits, services ou améliorations de processus (applications, dispositifs médicaux, outils, solutions organisationnelles, etc.), en vous appuyant sur des approches collaboratives et centrées sur les utilisateurs.\nÀ ce titre, vous stimulez en continu la génération d’idées et accompagnez les projets d’innovation de leur conception à leur mise en œuvre. Vous analysez les problématiques, les besoins et les usages afin de définir des cahiers des charges clairs intégrant les enjeux, objectifs, périmètres et livrables. Vous contribuez à la conception de solutions innovantes adaptées aux besoins identifiés et soutenez leur concrétisation à travers la réalisation de prototypes, maquettes, plans numériques ou user stories.\nPlus spécifiquement, vous challengez les idées et hypothèses initiales avec les porteurs et porteuses de projets en évaluant leur utilité, leur désirabilité, leur faisabilité et leur viabilité, afin d’orienter les initiatives vers des solutions à fort impact et alignées avec les priorités institutionnelles.\nDans une logique d’efficience et de durabilité, vous favorisez la mutualisation des ressources et des projets existants, tant en interne qu’avec les partenaires externes, en identifiant les synergies et en limitant les redondances.\nVous accompagnez les innovateurs et innovatrices dans le développement de solutions à forte valeur ajoutée répondant aux besoins des utilisateurs et utilisatrices. Vous pilotez les différentes phases des projets, incluant l’idéation, la formalisation des spécifications fonctionnelles et techniques, le prototypage, la validation de la faisabilité et de l’acceptabilité, ainsi que la préparation de l’implémentation.\nVous contribuez à la structuration technique des projets en coordination avec les partenaires internes et externes afin d’en garantir la qualité, la faisabilité et la pérennité. Vous facilitez les interactions entre les parties prenantes et veillez à une collaboration efficace tout au long du cycle de vie des projets.\nVous soutenez également les porteurs et porteuses de projets dans la recherche de financements et la valorisation de leurs initiatives, en contribuant à la préparation des dossiers, à leur visibilité et à leur promotion auprès des instances et partenaires concernés.\nDans votre pratique, vous développez une compréhension approfondie du fonctionnement de l’organisation, de ses réseaux, de ses pratiques et de ses mécanismes décisionnels. Vous analysez et cartographiez les processus, les flux d’information et les circuits de décision afin de structurer, documenter et prioriser les besoins en tenant compte des exigences métiers et du contexte institutionnel.\nVous accordez une attention particulière à la valorisation des acteurs et actrices de l’innovation et contribuez au rayonnement de cette culture au sein de l’institution, notamment en participant à la conception et à l’organisation d’événements et d’actions de communication tels que le Hackathon des HUG ou la Journée de l’innovation.\nVous participez aux réflexions et initiatives du Centre de l’innovation liées à la stimulation de l’innovation, à la valorisation de l’intelligence collective, à l’animation de la communauté, à la communication, à la modélisation des processus et à la gestion du changement.\nVous veillez également à la documentation des processus mis en place et à la capitalisation des connaissances, notamment par l’organisation de retours d’expérience et la constitution de bases de savoirs accessibles permettant de soutenir les projets futurs.\nMembre actif ou active de l’équipe, vous contribuez au développement du Centre de l’innovation en proposant des idées et des initiatives favorisant son rayonnement. Vous assumez la responsabilité des projets qui vous sont confiés tout en collaborant étroitement avec les autres membres de l’équipe.\nVous participez enfin à la vie opérationnelle du Centre à travers la préparation des reportings, le suivi des projets et des budgets, ainsi que l’organisation des comités de pilotage et des séances d’équipe. Dans ce cadre, vous interagissez avec une grande diversité d’acteurs, notamment les soignantes et soignants, les médecins, les chercheurs et chercheuses, les développeurs et développeuses, ainsi que les patientes et patients.\nGrâce à votre posture orientée solutions, vous répondez efficacement aux besoins récurrents comme aux situations imprévues. Par votre engagement, votre sens de la collaboration et votre professionnalisme, vous contribuez activement à la dynamique collective et portez les valeurs du Centre de l’innovation.",
+    "external_url": "https://jobs.smartrecruiters.com/HUG/744000152857639-ingenieur-ou-ingenieure-specialiste-en-innovation-80-a-100-?oga=true",
+    "status": "matched",
+    "title": "Ingénieur ou Ingénieure spécialiste en innovation - 80% à 100%",
+    "company": "HUG",
+    "location": "Rue Gabrielle-Perret-Gentil, Switzerland",
+    "posted_date": "2026-10-01",
+    "department": "Other",
+    "score": -2,
+    "matched_keywords": [],
+    "deducted_keywords": [
+      "location:Rue Gabrielle-Perret-Gentil, Switzerland"
+    ]
+  },
+  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000152857285": {
+    "description": "Au sein du service de la gynécologie, vous assistez le médecin chef de service pour la gestion et l'organisation administrative du service, dans les domaines clinique, académique et de recherche, en assurant l'interface entre les différentes filières professionnelles.\nVous organisez les rendez-vous, les séances et les séminaires, en gérant l’agenda électronique du médecin chef de service. Vous préparez les dossiers, rédigez les comptes rendus de séances et coordonnez le suivi des décisions prises.\nVous gérez la correspondance de manière autonome. Votre capacité d'auto-initiative vous permet d'analyser les situations afin de soumettre des projets de réponse.\nTout en répondant aux diverses sollicitations, vous menez à bien et de manière autonome les activités administratives en lien avec votre fonction telles que la gestion des horaires (VRH) des médecins cadres, des chefs ou cheffes de clinique et des médecins internes, la gestion administrative des fonds privés ou facultaires, l’organisation des congrès et colloques du corps médical, le suivi du budget alloué au service et à la recherche.\nVotre proactivité vous permet d'effectuer les tâches logistiques découlant de la vie d’un secrétariat, telles que les commandes, les demandes d'engagement, de remboursement de frais et de formation.\nVous participez également à la coordination administrative des consultations du service. À ce titre, vous assurez la gestion des rendez-vous, le suivi des plannings de consultations, la préparation des dossiers médicaux et la liaison avec les patientes, les médecins et les différents intervenants afin de garantir le bon déroulement de la prise en charge ambulatoire. Vous veillez au traitement et au suivi des demandes en lien avec l’activité de consultation.\nAu sein de l’équipe, vous développez un lien de proximité avec vos collègues secrétaires médicales et vous assurez une continuité de service lors des absences. Et plus généralement, votre sens du service fait de vous une personne agile prête à mettre votre polyvalence au service de l’institution pour exercer dans différents services en fonction des besoins.",
+    "external_url": "https://jobs.smartrecruiters.com/HUG/744000152857285-secretaire-de-medecin-chef-du-service-de-la-gynecologie-100-?oga=true",
+    "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000152857529": {
+    "description": "Au sein du secrétariat de l’unité de la chirurgie de la main composée actuellement de deux secrétaires médicales, vous avez pour mission d'organiser et d’assurer de manière autonome le travail quotidien lié à l'activité des trois médecins adjoints et adjointes ainsi que des quatre chefs et cheffes de clinique. \n\n \n\nGrâce à votre aisance relationnelle, vous accueillez, renseignez et orientez les patients et patientes se présentant en chirurgie de la main et gérez les appels téléphoniques que vous recevez. \n\n \n\nVous organisez les consultations en gérant l’agenda électronique des médecins et en préparant les dossiers patients. Après les consultations, vous assurez de manière autonome et rapide la frappe de rapports médicaux, lettres de sortie et compte rendus opératoires. Au besoin, vous programmez les examens médicaux complémentaires. Vous assurez également la gestion et suivi des demandes assurantielles (DRM). \n\n \n\nTout en répondant aux diverses sollicitations, vous menez à bien et de manière autonome les activités administratives en lien avec votre fonction comme le suivi des dossiers patients, la gestion du courrier et de la messagerie électronique. \n\n \n\nVous faites preuve de proactivité pour effectuer les tâches logistiques découlant de la vie d’un secrétariat comme la réception, le tri, la distribution et/ou le suivi du courrier papier et des commandes, le scannage et l’archivage des divers documents. \n\n \n\nAu sein de l’équipe, vous développez un lien de proximité avec vos collègues secrétaires médicales, et vous assurez une continuité de service lors des absences. Plus généralement, votre sens du service fait de vous une personne agile prête à mettre votre polyvalence au service de l’institution pour exercer dans différents services en fonction des besoins.",
+    "external_url": "https://jobs.smartrecruiters.com/HUG/744000152857529-secretaire-medical-ou-medicale-en-chirurgie-de-la-main-60-?oga=true",
+    "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000152857409": {
+    "description": "Dans le cadre de votre fonction, vous êtes responsable de la collecte, du tri et de la préparation du linge. Vous assurez le lavage, le séchage, le calandrage, le pliage, le conditionnement et le rangement du linge hospitalier et professionnel, en respectant scrupuleusement les normes de qualité et d’hygiène en vigueur.\nVous évoluez dans une structure industrielle, organisée et dynamique, où vous pourrez évoluer dans un environnement de travail stimulant.",
+    "external_url": "https://jobs.smartrecruiters.com/HUG/744000152857409-employee-ou-employe-de-buanderie-100-?oga=true",
+    "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000152856630": {
+    "description": "Vous collaborez à la conception et à la réalisation des différentes études cliniques, qu’elles soient initiées par les investigateurs ou menées en collaboration avec l’industrie.\nVous participez à l’organisation et à la planification des études cliniques, y compris à leur planification financière.\nVous assurez le suivi des participants aux études, contribuez à la transcription des résultats et participez à l’identification de nouveaux candidats susceptibles d’être inclus dans les études.\nVous participez également aux activités de recherche clinique.",
+    "external_url": "https://jobs.smartrecruiters.com/HUG/744000152856630-assistant-ou-assistante-de-recherche-service-de-cardiologie-50-?oga=true",
+    "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000152857189": {
+    "description": "Vous rejoignez le pôle ORCA de l’UPHR et collaborez activement avec les médecins et le personnel ambulancier travaillant dans ce pôle afin d’assurer la réponse cantonale en cas d’événement majeur ou de situation exceptionnelle.\nVous participez aux formations initiales et continues des intervenants et intervenantes sanitaires en cas d’événement majeur et contribuez au développement de ces formations.\nVous assurez un service de piquet continu. Vos horaires sont flexibles et vous pouvez être amené ou amenée à travailler le week-end, les nuits, ou les jours fériés, sur le terrain de manière imprévue comme dans des postes de commandement de manière programmée.\nVous contribuez à l’exploitation des moyens d’exception et contribuez activement à assurer leur disponibilité et leur fonctionnalité.",
+    "external_url": "https://jobs.smartrecruiters.com/HUG/744000152857189-ambulanciere-ou-ambulancier-chef-des-secours-20-?oga=true",
+    "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000152856959": {
+    "description": "Vous intégrez le service d'addictologie et assurez, au sein d’une équipe pluridisciplinaire, l’évaluation, l’orientation et le suivi psychologique et psychothérapeutique des patientes et patients suivis en ambulatoire.\nVous assurez des évaluations cliniques, des suivis individuels et/ou de groupe en collaboration avec des professionnelles et professionnels expérimentés.\nVous vous conformez aux directives institutionnelles pour toutes les questions liées aux situations suivies et à la saisie de vos prestations.",
+    "external_url": "https://jobs.smartrecruiters.com/HUG/744000152856959-psychologue-psychotherapeute-50-?oga=true",
+    "status": "matched"
   }
 }
