@@ -392,7 +392,7 @@
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-09-27"
+    "cached_at": "2026-10-05"
   },
   "_generic:Release Therapeutics": {
     "keywords": "npp"
@@ -721,7 +721,8 @@
     "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Basel-City/Research-Scientist-II--Laboratory-Automation---Drug-Discovery-Support_REQ-10087275-2": "ignored",
     "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Basel-City/Director--Translational-Medicine-Expert--Neurodegeneration-_REQ-10088329-2": "ignored",
     "https://msd.wd5.myworkdayjobs.com/SearchJobs/job/CHE---Zurich---Zurich-The-Circle/Sr-Scientist--Stat-Programming_R419332-1": "ignored",
-    "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Machine-Learning-Scientist_202609-123839": "ignored"
+    "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Machine-Learning-Scientist_202609-123839": "ignored",
+    "https://jobs.smartrecruiters.com/CERN/744000149783149-ats-research-fellowship-applied-physics-and-engineering?oga=true": "ignored"
   },
   "_generic:Hurdle Bio": {
     "keywords": "biomarker,precision medicine"
@@ -1071,7 +1072,7 @@
     "title": "Application Development Scientist – Reagents (12 months fixed-term contract)",
     "company": "Bio-Techne / Lunaphore",
     "location": "Tolochenaz, Switzerland",
-    "posted_date": "2026-09-04",
+    "posted_date": "2026-09-05",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1101,20 +1102,6 @@
     "external_url": "https://www.michaelpage.ch/job-detail/data-and-market-intelligence-analyst/ref/jn-072026-7074770",
     "status": "ignored",
     "title": "Data and Market Intelligence Analyst",
-    "company": "Michael Page Switzerland",
-    "location": "Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": -2,
-    "matched_keywords": [],
-    "deducted_keywords": [
-      "location:Switzerland"
-    ]
-  },
-  "https://www.michaelpage.ch/de/job-detail/sales-consultant-business-development-manager-mwd/ref/jn-072026-7057195?lang=en": {
-    "external_url": "https://www.michaelpage.ch/de/job-detail/sales-consultant-business-development-manager-mwd/ref/jn-072026-7057195?lang=en",
-    "status": "ignored",
-    "title": "(Senior) Sales Consultant / Business Development Manager (m/w/d)",
     "company": "Michael Page Switzerland",
     "location": "Switzerland",
     "posted_date": "",
@@ -1641,7 +1628,7 @@
     "title": "Business Development Director",
     "company": "KBI Biopharma",
     "location": "Switzerland - Plan-les-Ouates",
-    "posted_date": "2026-09-04",
+    "posted_date": "2026-09-05",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -1728,7 +1715,7 @@
     "title": "Specialist, Regulatory Affairs",
     "company": "Danaher",
     "location": "Neuchâtel, Switzerland",
-    "posted_date": "2026-09-30",
+    "posted_date": "2026-10-01",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -1753,7 +1740,7 @@
     "title": "Regulatory Affairs Consultant - on-site in Basel (German and French language skills)",
     "company": "Parexel",
     "location": "Switzerland-Basel",
-    "posted_date": "2026-09-30",
+    "posted_date": "2026-10-01",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1844,7 +1831,7 @@
     "title": "Consultant – Qualitative Market Research & Competitive Intelligence (Switzerland)/ Part-Time",
     "company": "IQVIA",
     "location": "Zug, Switzerland",
-    "posted_date": "2026-10-02",
+    "posted_date": "2026-10-03",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1870,7 +1857,7 @@
     "title": "Sr Manager, Quality and Regulatory Operations",
     "company": "Danaher",
     "location": "Neuchâtel, Switzerland",
-    "posted_date": "2026-10-02",
+    "posted_date": "2026-10-03",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -1905,7 +1892,7 @@
     "title": "Senior Associate Clinical Trials Regulatory Affairs",
     "company": "Amgen",
     "location": "Switzerland - Rotkreuz",
-    "posted_date": "2026-10-02",
+    "posted_date": "2026-10-03",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -1920,7 +1907,7 @@
     "title": "Data Science Intern / Master Thesis Student (Basel, 6 Monate)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-02",
+    "posted_date": "2026-10-03",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1933,7 +1920,7 @@
     "title": "Internship – Agentic AI for Environmental Regulatory Compliance",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-02",
+    "posted_date": "2026-10-03",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1948,7 +1935,7 @@
     "title": "Senior Scientist in Process Chemistry & Catalysis",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-01",
+    "posted_date": "2026-10-02",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1964,7 +1951,7 @@
     "title": "Portfolio Manager Liquid Alternatives",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-02",
+    "posted_date": "2026-10-03",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1977,7 +1964,7 @@
     "title": "Machine Learning Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-25",
+    "posted_date": "2026-09-26",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -1998,7 +1985,7 @@
     "title": "Principal Scientist - Discovery Oncology",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-24",
+    "posted_date": "2026-09-25",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -2022,7 +2009,7 @@
     "title": "Senior Legal Counsel – Legal Business Development & Corporate",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-01",
+    "posted_date": "2026-10-02",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -2035,7 +2022,7 @@
     "title": "Cardio-Renal Discovery & Scientific Strategy Area Leader",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-21",
+    "posted_date": "2026-09-22",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -2056,7 +2043,7 @@
     "title": "Senior Computational & Applied AI Scientist (Real-World Data))",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-10",
+    "posted_date": "2026-09-11",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -2075,7 +2062,7 @@
     "title": "Senior Computational & Applied AI - Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-04",
+    "posted_date": "2026-09-05",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -2093,7 +2080,7 @@
     "title": "Postdoctoral Scientist – Vascularized Kidney Organoids (at the Institute of Human Biology (IHB))",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-04",
+    "posted_date": "2026-09-05",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -2113,7 +2100,7 @@
     "title": "Discovery Scientist – Neural Retina & Ocular Disease",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-04",
+    "posted_date": "2026-09-05",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -2136,7 +2123,7 @@
     "title": "\"Principal Scientist siRNA Design",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-04",
+    "posted_date": "2026-09-05",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2152,7 +2139,7 @@
     "title": "Senior/Principal Scientist - NMR Expert",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-04",
+    "posted_date": "2026-09-05",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2168,7 +2155,7 @@
     "title": "Senior Principal Scientist/Associate Director Clinical PBPK  (Dual Level Posting)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-09-04",
+    "posted_date": "2026-09-05",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -2187,7 +2174,7 @@
     "title": "AI Scientist – AI-Driven Target Identification",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-09-04",
+    "posted_date": "2026-09-05",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -2206,7 +2193,7 @@
     "title": "Senior Principal Scientist / Associate Director– Soluble Biomarkers, Molecular & Cellular Sciences (MCS)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-09-04",
+    "posted_date": "2026-09-05",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -2227,7 +2214,7 @@
     "title": "Patent Attorney",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-09-04",
+    "posted_date": "2026-09-05",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -2240,7 +2227,7 @@
     "title": "Translational Medicine Expert – Gastroenterology, Associate Director",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-09-07",
+    "posted_date": "2026-09-08",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -2257,7 +2244,7 @@
     "title": "Translational Medicine Director/Associate*- Cardiovascular & Metabolic",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-09-04",
+    "posted_date": "2026-09-05",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -2281,7 +2268,7 @@
     "title": "Biomarker Therapeutic Area Head -Neuroscience",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-09-07",
+    "posted_date": "2026-09-08",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -2305,7 +2292,7 @@
     "title": "Research Scientist II, Laboratory Automation & Drug Discovery Support",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-09-23",
+    "posted_date": "2026-09-24",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -2326,7 +2313,7 @@
     "title": "Director, Translational Medicine Expert (Neurodegeneration)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-09-24",
+    "posted_date": "2026-09-25",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -2349,7 +2336,7 @@
     "title": "Business Development Manager (m/w/d) Neuromodulation – Schweiz",
     "company": "Abbott",
     "location": "Switzerland - Baar",
-    "posted_date": "2026-09-04",
+    "posted_date": "2026-09-05",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -2364,7 +2351,7 @@
     "title": "Director, Medical Affairs, Hemato-Oncology, Europe",
     "company": "BeiGene",
     "location": "Basel",
-    "posted_date": "2026-09-04",
+    "posted_date": "2026-09-05",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -2381,7 +2368,7 @@
     "title": "Senior Scientist QA Operations",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-09-23",
+    "posted_date": "2026-09-24",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -2396,7 +2383,7 @@
     "title": "Senior Scientist Electronic Laboratory Systems",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-09-04",
+    "posted_date": "2026-09-05",
     "department": "",
     "score": -1,
     "matched_keywords": [
