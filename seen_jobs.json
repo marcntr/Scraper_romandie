@@ -88,7 +88,7 @@
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-09-29"
+    "cached_at": "2026-10-07"
   },
   "_facets:roche:roche-ext": {
     "facets": {},
@@ -96,7 +96,7 @@
       "Basel",
       "Kaiseraugst"
     ],
-    "cached_at": "2026-09-29"
+    "cached_at": "2026-10-07"
   },
   "_facets:novartis:Novartis_Careers": {
     "facets": {},
@@ -104,63 +104,63 @@
       "Basel",
       "Stein"
     ],
-    "cached_at": "2026-09-29"
+    "cached_at": "2026-10-07"
   },
   "_facets:sanofi:SanofiCareers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-09-29"
+    "cached_at": "2026-10-07"
   },
   "_facets:abbott:abbottcareers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-09-29"
+    "cached_at": "2026-10-07"
   },
   "_facets:pfizer:PfizerCareers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-09-29"
+    "cached_at": "2026-10-07"
   },
   "_facets:gsk:GSKCareers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-09-29"
+    "cached_at": "2026-10-07"
   },
   "_facets:astrazeneca:Careers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-09-29"
+    "cached_at": "2026-10-07"
   },
   "_facets:amgen:Careers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-09-29"
+    "cached_at": "2026-10-07"
   },
   "_facets:gilead:gileadcareers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-09-29"
+    "cached_at": "2026-10-07"
   },
   "_facets:modernatx:M_tx": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-09-29"
+    "cached_at": "2026-10-07"
   },
   "_facets:takeda:External": {
     "facets": {},
@@ -176,21 +176,21 @@
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-09-29"
+    "cached_at": "2026-10-07"
   },
   "_facets:msd:SearchJobs": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-09-29"
+    "cached_at": "2026-10-07"
   },
   "_facets:vrtx:Vertex_Careers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-09-29"
+    "cached_at": "2026-10-07"
   },
   "_facets:lonza:Lonza_Careers": {
     "facets": {},
@@ -199,7 +199,7 @@
       "Visp",
       "Stein"
     ],
-    "cached_at": "2026-09-29"
+    "cached_at": "2026-10-07"
   },
   "_facets:csl:CSL_External": {
     "facets": {},
@@ -209,7 +209,7 @@
       "St. Gallen",
       "Romont"
     ],
-    "cached_at": "2026-09-29"
+    "cached_at": "2026-10-07"
   },
   "_facets:alcon:careers_alcon": {
     "facets": {},
@@ -218,7 +218,7 @@
       "Hünenberg",
       "Zurich"
     ],
-    "cached_at": "2026-09-29"
+    "cached_at": "2026-10-07"
   },
   "_facets:galderma:External": {
     "facets": {},
@@ -227,63 +227,63 @@
       "La Tour-de-Peilz",
       "Lausanne"
     ],
-    "cached_at": "2026-09-29"
+    "cached_at": "2026-10-07"
   },
   "_facets:iqvia:IQVIA": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-09-29"
+    "cached_at": "2026-10-07"
   },
   "_facets:icon:broadbean_external": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-09-29"
+    "cached_at": "2026-10-07"
   },
   "_facets:parexel:Parexel_External_Careers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-09-29"
+    "cached_at": "2026-10-07"
   },
   "_facets:syneoshealth:Syneos_Health_External_Site": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-09-29"
+    "cached_at": "2026-10-07"
   },
   "_facets:myhrabc:Global": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-09-29"
+    "cached_at": "2026-10-07"
   },
   "_facets:thermofisher:ThermoFisherCareers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-09-29"
+    "cached_at": "2026-10-07"
   },
   "_facets:danaher:DanaherJobs": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-09-29"
+    "cached_at": "2026-10-07"
   },
   "_facets:illumina:illumina-careers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-09-29"
+    "cached_at": "2026-10-07"
   },
   "_facets:qiagen:QIAGEN": {
     "facets": {},
@@ -297,14 +297,14 @@
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-09-29"
+    "cached_at": "2026-10-07"
   },
   "_facets:jsrglobal:KBI_Biopharma": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-09-29"
+    "cached_at": "2026-10-07"
   },
   "_generic:Tigen Pharma": {
     "keywords": "npp"
@@ -1073,7 +1073,7 @@
     "title": "Application Development Scientist – Reagents (12 months fixed-term contract)",
     "company": "Bio-Techne / Lunaphore",
     "location": "Tolochenaz, Switzerland",
-    "posted_date": "2026-09-06",
+    "posted_date": "2026-09-07",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1124,11 +1124,6 @@
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000147895994": {
     "description": "Introduction:\nAs Power System Physicist/Engineer for the CMS High-Granularity Calorimeter (HGCAL), you will play a key role in the development, integration, testing and commissioning of the power systems for one of the most innovative particle detectors ever conceived.\nWorking within a multinational, multidisciplinary team, you will contribute to the procurement and testing of power supplies for HGCAL detector modules, including low-voltage, high-current supplies for the readout electronics and medium-voltage supplies of up to 800 V for sensor biasing.\nYou will also contribute to the integration of power systems with the detector’s safety, control and monitoring systems, as well as the testing and implementation of power components such as DC-DC converters, voltage regulation and cabling.\nA key aspect of the role will be to assess the impact of the power system on HGCAL performance and to develop and implement strategies to minimise noise effects such as interference, coupling and ripple.\nThis role offers the opportunity to combine strong electrical engineering and detector-physics skills with hands-on involvement in the construction, testing and commissioning of a large-scale, state-of-the-art particle detector.\nFunctions:\nFollow the procurement of the power supplies (Low Voltage and Bias Voltage, totalling several MCHF), including carrying out acceptance and stress tests on the delivered units.\nSupport the commissioning of these power systems during the mass assembly and testing phases of HGCAL.\nWork with physicists and engineers to evaluate the performance of HGCAL in relation to its power systems and to develop and implement mitigation strategies where possible and necessary, first on the surface and subsequently when HGCAL is installed in CMS, 100 metres underground.\nWork with the HGCAL and central CMS Technical Coordination teams to oversee the installation and testing of the power systems underground in the “Service” and “Experimental” caverns. This will include overseeing cable installation, in-situ connectorisation where needed, testing and commissioning, and the integration of the power system into the HGCAL and CMS safety and monitoring systems.",
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000147895994-power-system-physicist-engineer-for-the-cms-hgcal-ep-cms-ec-2026-189-ld-?oga=true",
-    "status": "matched"
-  },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000147881765": {
-    "description": "Introduction\nAs Field Coordinator for the CMS High-Granularity Calorimeter (HGCAL), you will play a key role in coordinating and overseeing the assembly, integration, testing and commissioning of one of the most innovative particle detectors ever conceived. Working within a multinational, multidisciplinary team, you will help coordinate the mass assembly and testing of HGCAL detector elements (“cassettes”) on the surface, their integration into the complete 250-tonne detector, and the subsequent system-level testing.\nYou will also contribute to the installation and commissioning of HGCAL approximately 100 metres underground within CMS, including the integration and testing of essential services such as CO? cooling, dry gas, cabling and optical fibres. This role offers the opportunity to combine strong technical coordination skills with hands-on involvement in the construction and commissioning of a large-scale, state-of-the-art particle detector.\nFunctions:\nOversee the operation and maintenance of the HGCAL assembly and testing facilities at CERN, which include large ISO 7 cleanrooms and a large assembly hall. These areas are equipped with high-power electrical and cooling infrastructure that must be operated continuously and safely. You will be responsible for planning and organising the execution of all interventions in these facilities.\nProvide technical support to physicists, engineers and technicians using these facilities. This will include liaising with the HGCAL Technical Coordinators and Safety Officer, as well as with the central CMS Technical Coordination team and CERN service groups (e.g. HVAC, electrical infrastructure, etc.).\nPlan and supervise all activities related to the large-scale detector integration, including cassette insertion (Hadronic section of HGCAL - CE-H) and stacking (Electromagnetic section - CE-E), the mechanical and electrical connection between CE-E and CE-H, installation and testing of the HGCAL thermal screen (to maintain the exterior at a warm temperature while the interior is cold), and cold testing of the complete detector.\nWork with the HGCAL team to plan and execute tests of “sectors” of HGCAL on the surface, and similarly when HGCAL is installed inside CMS.\nWork with the HGCAL Engineering Team to ensure the safe transport of large and delicate HGCAL structures around the site, as well as the overall lowering of HGCAL into the experimental cavern.\nOversee logistics for HGCAL-related items, including detector modules, cassettes, ancillary equipment and mechanical components.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000147881765-field-coordinator-for-the-cms-high-granularity-calorimeter-ep-cms-ec-2026-191-ld-?oga=true",
     "status": "matched"
   },
   "https://www.michaelpage.ch/de/job-detail/key-account-business-development-manager-schweiz-mwd/ref/jn-092026-7097880?lang=en": {
@@ -1191,11 +1186,6 @@
     "external_url": "https://jobdetails.nestle.com/job/Vevey-Global-Medical-Affairs-Lead-Diabetes-&-Obesity/1408799633/",
     "status": "matched"
   },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000148419889": {
-    "description": "Introduction\nAs an Electrical Works Manager within the Cabling Section, you’ll play a key role in expanding, strengthening, and maintaining CERN’s control and power cable installations, required for various systems within the CERN accelerators, such as alarm systems, process control systems, beam instrumentation and magnet powering systems.\nFunctions\nAnalyse installation and dismantling requests, liaising directly with requestors as needed to complete the required information.\nConduct on-site technical visits to prepare and coordinate the activities. \nPrepare bills of quantities and quotations. \nDevelop comprehensive technical documentation detailing the work to be carried out by CERN's electrical installation contractor. \nManage the logistics required for the activities, such as material delivery, scaffolding setup, and site access. \nCarry out risk assessments related to the execution of the work, identifying potential hazards and defining mitigation measures to ensure safety and compliance with CERN standards. \nSupervise daily activities and report the progress, safety and quality of the works. \nPerform the inspection, testing and acceptance of completed work.​",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000148419889-electrical-works-supervisor-en-el-cs-2025-277-ld-?oga=true",
-    "status": "matched"
-  },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000148423351": {
     "description": "One of CERN’s key missions is education. Our experts enjoy sharing their knowledge with committed and passionate students.\nIf you are an undergraduate student in a technical or administrative field, and you’re looking to spend a few months training on-the-job, imagine doing your internship at CERN in Geneva. An impressive addition to your CV!\nWe offer a limited number of placements in our practical training programme.\nDuration 1 – 6 months.\n!Important!: Please note that only nationals of CERN Member States or Associate Member States are eligible to apply. Applications from other countries will not be considered.",
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000148423351-short-term-internship-2026?oga=true",
@@ -1253,11 +1243,6 @@
     "deducted_keywords": [
       "location:Switzerland"
     ]
-  },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000149516269": {
-    "description": "Drive the modernisation of CERN's Geodetic Metrology data management system, migrating legacy Oracle APEX/PL/SQL applications to a Java/Spring Boot and Angular platform, while leading the redesign of a mission-critical application for CERN's Accelerator Complex.\nYour responsibilities\nAnalyse Oracle APEX pages, processes and PL/SQL packages to understand business workflows and data dependencies.\nImplement Spring Boot REST APIs and Angular Frontend.\nWrite automated tests and apply software quality practices.\nParticipate in the whole software development lifecycle (requirements, design, development, testing), following a modern agile approach to ensure high-quality outcomes.\nInteract with the end-users of the services to understand their needs and help translate those into appropriate software solutions.\nBuild strong partnerships with IT and multidisciplinary teams across CERN to ensure the delivery of reliable, maintainable, and scalable software solutions aligned with current needs and future strategic goals.\nThis role includes team supervision responsibilities.\nMore information here.\nYour profile\nProven experience in designing and developing software applications using Java technologies and modern JavaScript/TypeScript frameworks.\nPractical experience with concurrent and multithreaded programming.\nExperience applying software quality assurance practices and using related tools (code review, preparing tests, deliver high quality documentation, unit tests, clean code, sonarqube).\nExperience in ICT systems architecture and design, including the design of scalable services and APIs.\nFamiliarity with CI/CD pipelines and automated build, test, and deployment workflows.\nExperience with cloud-native technologies, including Kubernetes.\nKnowledge of Oracle APEX would be an asset.\nSkills\nStrong knowledge of the Spring framework ecosystem.\nStrong knowledge of relational database systems, particularly Oracle Database, including proficiency in PL/SQL.\nAbility to design reliable software services following SOLID principles or similar best practices.\nKnowledge of software development lifecycle (SDLC) tools, methodologies, and procedures.\nAbility to deliver high-quality work on time and meet expectations.\nContributes to a positive team environment through an optimistic and constructive attitude while proactively addressing issues.\nSpoken and written English or French, with a commitment to learn the basics of the other language.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nYou have a professional background in Software Engineering (or a related field) and have either:\na Master's degree with 2 to 6 years of post-graduation professional experience;\nor a PhD with no more than 3 years of post-graduation professional experience.\nYou have never had a CERN fellow or graduate contract before.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000149516269-software-developer-java-angular-be-gm-apc-2026-151-grap-?oga=true",
-    "status": "matched"
   },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000149834269": {
     "description": "Introduction\nAs a Mechanical CAD Designer in the Superconducting Magnet Technology section, you will develop three-dimensional computer-aided design (CAD) models and detailed drawings for novel superconducting magnets and associated tooling. Working closely with engineers and other technical specialists, you will take part in research and development projects for future particle accelerators. Your work will help transform innovative magnet concepts into manufacturable prototypes and practical assembly solutions.\nFunctions\nPrepare 3D CAD mechanical models and drawings of short magnet demonstrators, prototypes and associated tooling, in close collaboration with other colleagues in the section. \nUpdate CAD models and drawings to integrate feedback from construction and assembly activities. \nContribute to technical discussions related to mechanical tolerances, machining methods and assembly procedures.  \nSupport procurement of components and update CAD models and drawings to reflect as-built configurations. \nAssist colleagues with tailored 3D models for computer numerical control (CNC) machining and simulations (electromagnetic, mechanical).",
@@ -1446,7 +1431,7 @@
     "title": "Business Development Director",
     "company": "KBI Biopharma",
     "location": "Switzerland - Plan-les-Ouates",
-    "posted_date": "2026-09-06",
+    "posted_date": "2026-09-07",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -1851,7 +1836,7 @@
     "title": "Senior Computational & Applied AI - Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-06",
+    "posted_date": "2026-09-07",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -1869,7 +1854,7 @@
     "title": "Postdoctoral Scientist – Vascularized Kidney Organoids (at the Institute of Human Biology (IHB))",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-06",
+    "posted_date": "2026-09-07",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -1889,7 +1874,7 @@
     "title": "Discovery Scientist – Neural Retina & Ocular Disease",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-06",
+    "posted_date": "2026-09-07",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -1912,7 +1897,7 @@
     "title": "\"Principal Scientist siRNA Design",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-06",
+    "posted_date": "2026-09-07",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1928,7 +1913,7 @@
     "title": "Senior/Principal Scientist - NMR Expert",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-06",
+    "posted_date": "2026-09-07",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1944,7 +1929,7 @@
     "title": "Senior Principal Scientist/Associate Director Clinical PBPK  (Dual Level Posting)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-09-06",
+    "posted_date": "2026-09-07",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -1963,7 +1948,7 @@
     "title": "AI Scientist – AI-Driven Target Identification",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-09-06",
+    "posted_date": "2026-09-07",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -1982,7 +1967,7 @@
     "title": "Senior Principal Scientist / Associate Director– Soluble Biomarkers, Molecular & Cellular Sciences (MCS)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-09-06",
+    "posted_date": "2026-09-07",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -2003,7 +1988,7 @@
     "title": "Patent Attorney",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-09-06",
+    "posted_date": "2026-09-07",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -2033,7 +2018,7 @@
     "title": "Translational Medicine Director/Associate*- Cardiovascular & Metabolic",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-09-06",
+    "posted_date": "2026-09-07",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -2104,7 +2089,7 @@
     "title": "Business Development Manager (m/w/d) Neuromodulation – Schweiz",
     "company": "Abbott",
     "location": "Switzerland - Baar",
-    "posted_date": "2026-09-06",
+    "posted_date": "2026-09-07",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -2119,7 +2104,7 @@
     "title": "Director, Medical Affairs, Hemato-Oncology, Europe",
     "company": "BeiGene",
     "location": "Basel",
-    "posted_date": "2026-09-06",
+    "posted_date": "2026-09-07",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -2151,7 +2136,7 @@
     "title": "Senior Scientist Electronic Laboratory Systems",
     "company": "Thermo Fisher Scientific",
     "location": "Lengnau, Switzerland",
-    "posted_date": "2026-09-06",
+    "posted_date": "2026-09-07",
     "department": "",
     "score": -1,
     "matched_keywords": [
@@ -2448,7 +2433,7 @@
     "title": "Post Doctorate Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-06",
+    "posted_date": "",
     "department": "",
     "score": 8,
     "matched_keywords": [
@@ -2470,7 +2455,7 @@
     "title": "One Product Development Regulatory (PDR) Early Talent (ET) Program (Basel, 2 years)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-06",
+    "posted_date": "",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -2480,5 +2465,15 @@
     "deducted_keywords": [
       "CRA"
     ]
+  },
+  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000154015101": {
+    "description": "As part of the ATLAS Detector Cooling team, you will contribute to the qualification, integration, and commissioning of the 2PACL CO₂ cooling system supporting future detector upgrades. You will be involved in thermal testing, instrumentation and DAQ development, data analysis, and the installation and commissioning of cooling infrastructure, gaining unique experience in the deployment of complex systems for a world-leading scientific experiment.\nYour responsibilities\nContribute to the testing and validation of detector structures and 2PACL CO₂ cooling system components, including comparison of experimental results with simulation models.\nParticipate in the design, construction, and operation of thermal test setups, instrumentation, and data acquisition (DAQ) systems.\nAnalyse and interpret test data to assess system performance and support detector integration activities.\nCollaborate with detector teams by providing technical feedback and supporting detector integration and commissioning work.\nContribute to the installation, commissioning, and performance validation of the 2PACL cooling system, including cooling distribution lines and vacuum infrastructure.\nYour profile\nInitial experience in thermal-fluid systems, cooling technologies, or heat transfer gained through academic, research, or engineering projects.\nExperience with simulation or modelling of thermal and fluid systems.\nExperience using CAD software for 2D and/or 3D mechanical design (e.g. CATIA V5 or similar tools).\nHands-on experience with instrumentation, laboratory testing, or data acquisition (DAQ) systems.\nExperience analysing and interpreting experimental or simulation data.\nSkills\nGood understanding of thermodynamics and heat transfer principles, ideally including exposure to two-phase cooling systems.\nKnowledge of fluid mechanics and thermal-fluid system behaviour.\nAbility to read and interpret electrical schematics and technical drawings.\nFamiliarity with instrumentation, sensor integration, and data acquisition (DAQ) systems.\nUnderstanding of SCADA systems and industrial control environments.\nSpoken and written English, with a commitment to learn French.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nBy the application deadline, you have a maximum of two years of professional experience since graduation in Mechanical Engineering, Electrical Engineering, Electromechanical Engineering, Refrigeration (or a related field) and your highest educational qualification is either a Bachelor's or Master's degree.\nYou have never had a CERN fellow or graduate contract before.\nApplicants without University degree are not eligible.\nApplicants with a PhD are not eligible.",
+    "external_url": "https://jobs.smartrecruiters.com/CERN/744000154015101-atlas-detector-cooling-engineer-ep-atl-po-2026-240-grae-?oga=true",
+    "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000154014106": {
+    "description": "Dans le cadre des interventions par ultrasons focalisés pour traiter le tremblement chez les patientes et patients atteints de tremblement essentiel ou de la maladie de Parkinson, vous avez la charge de la partie technique pour les interventions, sous la supervision des neurochirurgiens.\nVotre rôle consiste à préparer les interventions : calcul du SDR, tractographie des faisceaux, commande du matériel. Vous apportez un support pendant les interventions : calibration du système, acquisition et analyse de données (tremblement, voix).\nVous identifiez et résolvez les problèmes techniques et assurez un suivi des interventions dans un but d’amélioration constante (effets secondaires, paramètres de traitements, rapports d’incidents auprès du fabricant etc.).",
+    "external_url": "https://jobs.smartrecruiters.com/HUG/744000154014106-technicien-ou-technicienne-en-ultrasons-focalises-guides-par-irm-40-?oga=true",
+    "status": "matched"
   }
 }
