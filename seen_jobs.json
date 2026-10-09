@@ -1239,16 +1239,6 @@
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000149834269-mechanical-cad-designer-te-msc-smt-2026-195-ld-?oga=true",
     "status": "matched"
   },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000150038179": {
-    "description": "As part of the Technical Coordination team for the CMS Experiment at the Large Hadron Collider (LHC), you will join the Safety Team and familiarise yourself with CERN and CMS safety systems and alarms, hazard identification and risk assessment processes, as well as CMS infrastructure and computing tools.\nYour responsibilities\nSupport the CMS LEXGLIMOS (Large Experiment Group Leader in Matters of Safety), working closely with the CMS Technical Coordination team and contributing to implementing CERN's safety objectives within CMS and defining the associated priorities and timelines.\nContribute to drafting and reviewing risk assessments and procedures for projects, works, areas and activities, and to updating the associated Safety File, particularly in support of the LS3 CMS upgrade.\nHelp manage and assess the fire safety compliance of materials used in the CMS Phase II Upgrade Projects, including follow-up risk assessments for potentially non-compliant materials.\nPerform incident analyses and follow up on the implementation of safety actions and safety measures to support continuous improvement.\nSupport emergency preparedness activities within CMS, including the coordination and organisation of planned evacuations.\nYour profile\nBasic experience in engineering (safety, industrial, mechanical, or a related field).\nExposure to laboratory, workshop, or technical environments.\nInitial experience (through academic projects, internships, or similar activities) in risk assessment, hazard identification, fire safety, and related safety measures.\nFamiliarity with data handling, reporting, and technical documentation.\nExperience working in multidisciplinary or team-based projects.\nSkills\nInitial experience in occupational safety and risk management, including assessing workplace activities, identifying hazards, and analysing risks.\nKnowledge of safety-related projects in complex industrial or scientific facilities.\nStrong written and verbal communication skills, with the ability to collaborate effectively with multidisciplinary teams and stakeholders.\nAbility to draft safety documentation and deliver oral presentations in at least one of CERN's two official languages (English or French).\nProactive, organised, and detail-oriented, with the ability to manage multiple tasks and work both independently and as part of a team.\nStrong analytical and problem-solving skills, with a keen interest in safety, engineering, and project delivery.\nSpoken and written English or French, with a commitment to learn the other language.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nBy the application deadline, you have a maximum of two years of professional experience since graduation in Safety or Industrial Engineering (or a related field) and your highest educational qualification is either a Bachelor's or Master's degree.\nYou have never had a CERN fellow or graduate contract before.\nApplicants without University degree are not eligible.\nApplicants with a PhD are not eligible.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000150038179-safety-engineer-ep-cms-ssi-2026-224-grae-?oga=true",
-    "status": "matched"
-  },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000150034165": {
-    "description": "Join the team responsible for the High Throughput Compute systems at the heart of CERN's data processing!\n\nAre you a recent graduate with an interest in large-scale computing, automation, and infrastructure technologies? Would you like to develop your skills while contributing to the evolution of the computing infrastructure supporting the High-Luminosity LHC?\n\nAs a member of the team responsible for the batch service and configuration management of IT services, you will have the opportunity to experience a varied role, from helping to automate the delivery of compute, to self healing infrastructure, to evolving the toolset that the IT department uses to manage its services.\n\nThe Compute and Devices (CD) group in CERN IT provides a wide range of compute services, all the way from end user devices, through cloud infrastructure-as-a- Service, machine-learning, Kubernetes, configuration management, batch and HPC computing at CERN, together with a set of services that support the whole WLCG.\n\nAs a member of the Compute and Configuration (CC) section of the CD group, you will join a team of engineers focusing on services supporting the physics community. We run the compute facility that comprises approximately 20% of the WLCG, using tools such as Puppet, OpenStack and Kubernetes to manage batch systems running HTCondor, HPC systems running SLURM, and the support services keeping everything glued together.\n\nIf you enjoy solving complex technical challenges, contributing to open-source software, and working with infrastructure at scale, come join us!\nYour responsibilities\nHelp manage the fleet of 400k+ cores complete lifecycle from CI provisioning through automated and AI enhanced maintenance.\nHelp keep us ahead of LLM enhanced security threats with monitoring.\nSuggest, test, and deploy configuration changes on a large scale to production.\nContribute to the operation and maintenance of the current configuration management infrastructure, including Foreman, Puppet and OpenVox components.\nContribute to the development and maintenance of Terraform/OpenTofu modules used to provision and configure the supporting infrastructure.\nImprove the quality of the configuration code through testing, validation, code review and standardisation.\nYour profile\nExperience administering or working with Linux systems in a server or data centre environment.\nExperience writing scripts or applications for automation or system tasks.\nExperience with configuration management tools such as Puppet or Ansible is a plus.\nExperience with container technologies, CI/CD systems or Infrastructure-as-Code tools is a plus.\nSkills\nKnowledge of Linux, programming or scripting languages such as Python or Go.\nFamiliarity with git for distributed version control is highly desirable.\nKnowledge of configuration management tools such as Puppet or Ansible is desirable.\nInfrastructure as Code tools such as Terraform or OpenTofu would be a plus.\nAny knowledge of batch systems such as HTCondor, SLURM or kueue would be a plus.\nSpoken and written English, with a commitment to learn French.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nBy the application deadline, you have a maximum of two years of professional experience since graduation in Computer Science (or a related field) and your highest educational qualification is either a Bachelor's or Master's degree.\nYou have never had a CERN fellow or graduate contract before.\nApplicants without University degree are not eligible.\nApplicants with a PhD are not eligible.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000150034165-devops-engineer-for-large-scale-compute-it-cd-cc-2026-223-grae-?oga=true",
-    "status": "matched"
-  },
   "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000150082841": {
     "description": "Dans le cadre d'une réorganisation dans un contexte de perpétuelle amélioration de la qualité de vie au travail des professionnelles et professionnels et de la qualité de soins aux patients te patientes, nous renforçons notre équipe médicale des soins intensifs adultes (réanimation).\n\nDans cette nouvelle organisation, propice à un équilibre vie privée - vie professionnelle, vous assurez la prise en charge de la patientèle du service des soins intensifs adultes (réanimation) et participez activement aux activités de formation et de supervision des médecins internes du service, aux activités de recherche ainsi qu'au développement de la médecine intensive.",
     "external_url": "https://jobs.smartrecruiters.com/HUG/744000150082841-chef-ou-cheffe-de-clinique-avec-ou-sans-titre-de-specialite-au-service-des-soins-intensifs-adultes-80-a-100-?oga=true",
@@ -1484,7 +1474,7 @@
     "title": "Specialist, Regulatory Affairs",
     "company": "Danaher",
     "location": "Neuchâtel, Switzerland",
-    "posted_date": "",
+    "posted_date": "2026-10-07",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -1509,7 +1499,7 @@
     "title": "Regulatory Affairs Consultant - on-site in Basel (German and French language skills)",
     "company": "Parexel",
     "location": "Switzerland-Basel",
-    "posted_date": "",
+    "posted_date": "2026-10-07",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1600,7 +1590,7 @@
     "title": "Consultant – Qualitative Market Research & Competitive Intelligence (Switzerland)/ Part-Time",
     "company": "IQVIA",
     "location": "Zug, Switzerland",
-    "posted_date": "2026-10-03",
+    "posted_date": "2026-10-02",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1621,7 +1611,7 @@
     "title": "Sr Manager, Quality & Regulatory Operations",
     "company": "Danaher",
     "location": "Neuchâtel, Switzerland",
-    "posted_date": "",
+    "posted_date": "2026-10-07",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -1651,7 +1641,7 @@
     "title": "Senior Associate Clinical Trials Regulatory Affairs",
     "company": "Amgen",
     "location": "Switzerland - Rotkreuz",
-    "posted_date": "2026-10-03",
+    "posted_date": "2026-10-02",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -1666,7 +1656,7 @@
     "title": "Data Science Intern / Master Thesis Student (Basel, 6 Monate)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-03",
+    "posted_date": "2026-10-02",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1679,7 +1669,7 @@
     "title": "Internship – Agentic AI for Environmental Regulatory Compliance",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-03",
+    "posted_date": "2026-10-02",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1694,7 +1684,7 @@
     "title": "Senior Scientist in Process Chemistry & Catalysis",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-02",
+    "posted_date": "2026-10-01",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1710,7 +1700,7 @@
     "title": "Portfolio Manager Liquid Alternatives",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-03",
+    "posted_date": "2026-10-02",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1723,7 +1713,7 @@
     "title": "Machine Learning Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-26",
+    "posted_date": "2026-09-25",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -1744,7 +1734,7 @@
     "title": "Principal Scientist - Discovery Oncology",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-25",
+    "posted_date": "2026-09-24",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -1768,7 +1758,7 @@
     "title": "Senior Legal Counsel – Legal Business Development & Corporate",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-02",
+    "posted_date": "2026-10-01",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1781,7 +1771,7 @@
     "title": "Cardio-Renal Discovery & Scientific Strategy Area Leader",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-22",
+    "posted_date": "2026-09-21",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -1995,7 +1985,7 @@
     "title": "Director, Translational Medicine Expert (Neurodegeneration)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-09-25",
+    "posted_date": "2026-09-24",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -2302,7 +2292,7 @@
     "title": "Post Doctorate Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "",
+    "posted_date": "2026-10-07",
     "department": "",
     "score": 8,
     "matched_keywords": [
@@ -2324,7 +2314,7 @@
     "title": "One Product Development Regulatory (PDR) Early Talent (ET) Program (Basel, 2 years)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-07",
+    "posted_date": "2026-10-06",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -2376,7 +2366,7 @@
     "title": "Senior Scientist, Roche Cell and Organoid Biorepository (RoCOB)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "",
+    "posted_date": "2026-10-07",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -2478,6 +2468,31 @@
     "matched_keywords": [],
     "deducted_keywords": [
       "location:Switzerland"
+    ]
+  },
+  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000154609299": {
+    "description": "Introduction\nThe CERN ATLAS Team plays a major role in the construction of the future silicon ATLAS Inner Tracker (ITk). In particular, the final integration of the ITk detector prior to installation in the experiment is a crucial step to validate the full functionality.\n\nAs an applied physicist or engineer in the CERN-ATL Team, you will join the Tracker section (EP-ATL-TRK) and work closely with personnel from the Detector Technologies Group (EP-DT) on the construction and integration of the ATLAS ITk Pixel System and its integration into the ATLAS ITk.\nFunctions\nReception testing of ITk Silicon Pixel Detector elements and testing of multi-module Pixel structures to be integrated into the ITk Pixel Outer Barrel.\nTesting and verification of integrated ITk Pixel Detector structures and services as well as combined testing with the ITk Strip Detector in the surface integration facility (SR1) at CERN.\nDeploy and improve software and hardware elements for integration testing and service validation (online, detector control, detector safety) for the Pixel Detector and the combined ITk.\nDocument procedures and results for ITk integration testing and service validation and develop testing procedures for the ITk Detector after installation.\nParticipate hands-on in the ITk Detector integration work in the surface cleanroom as well as the preparation of equipment for the different testing stages.",
+    "external_url": "https://jobs.smartrecruiters.com/CERN/744000154609299-applied-physicist-engineer-atlas-itk-ep-atl-trk-2026-208-ld-?oga=true",
+    "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000154590199": {
+    "description": "You will join the Accelerator and Technology Sector (ATS) which comprises four departments - Beams, Engineering, Accelerator Systems, and Technology - responsible for the Sector's main technical activities. The ATS Directorate Office (ATS-DO Unit) is home to the Project Office, the main project teams, and a number of sector-wide transversal activities.\nThe Project Office is seeking a Project Assistant with prior experience in large-scale scientific international projects, to join its dynamic team and provide key support to the HL-LHC Project, European projects, the ATS Specification Committee and other strategic projects and studies.\nYour responsibilities:\nLead the coordination and delivery of complex European and strategic projects, ensuring effective planning, stakeholder engagement, milestone tracking, risk management, documentation, reporting, and the timely completion of project deliverables.\nManage the end-to-end ATS Specification Committee technical review process, coordinating multidisciplinary stakeholders, overseeing workflows and schedules, ensuring compliance with procurement and audit requirements, and driving the timely execution of actions, deliverables, KPIs, and reporting.\nDrive project governance and performance monitoring by maintaining project plans, tracking progress against objectives, consolidating status reports, managing documentation and repositories (EDMS, CERNBox, JIRA), and proactively resolving issues that may impact schedules or deliverables.\nPlan and coordinate workshops, technical reviews, and large-scale project events, managing logistics, stakeholder engagement, documentation, follow-up actions, and decision tracking to support successful project outcomes.\nCoordinate communication and outreach activities for major projects and studies, developing communication plans, aligning stakeholders, supporting change management efforts, and ensuring clear, consistent messaging across CERN departments and external partners.\nYour profile:\nDemonstrated experience in the planning, coordination and delivery of workshops, meetings, reviews or other large-scale events.\nExperience working in an international and multicultural environment.\nExperience in a scientific, technical, engineering or project-based environment, with the ability to understand and support complex technical activities.\nSkills:\nStrong organisational and planning skills, with the ability to manage multiple priorities, work autonomously and contribute effectively within a multidisciplinary team.\nProactive, service-oriented and solution-driven approach, with excellent communication skills and the ability to build effective relationships with a wide range of stakeholders.\nAbility to interact effectively with a diverse range of stakeholders.\nAbility and willingness to engage with technical topics and rapidly acquire knowledge of project-related matters to support project leaders, coordinators and committee Chairs.\nStrong attention to detail, combined with flexibility and the ability to adapt to changing priorities.\n Proficiency in standard office software and collaborative digital tools.\nSpoken and written English, with a commitment to learn French.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nYou have a professional background in Administration, Event Management (or a related field) and have either:\na Master's degree with 2 to 6 years of post-graduation professional experience;\nor a PhD with no more than 3 years of post-graduation professional experience.\nYou have never had a CERN fellow or graduate contract before.",
+    "external_url": "https://jobs.smartrecruiters.com/CERN/744000154590199-experienced-project-assistant-ats-do-2026-162-grap-?oga=true",
+    "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000154601029": {
+    "description": "Sous la responsabilité du chef ou de la cheffe de production, vous faites partie d'une équipe de chefs et cheffes de groupe, se répartissant le management des 70 technologues en dispositifs médicaux du service dès leur prise de poste et au quotidien.\nVous organisez et assurez les prestations de retraitement des dispositifs médicaux pour l’ensemble des services des HUG (Blocs opératoires, services de soins ou tout autre client interne) et des clients externes en vous appuyant sur votre attitude orientée service clients.\nVous coordonnez la prise en charge des dispositifs médicaux selon les bonnes pratiques en stérilisation, les priorités et les urgences pour les blocs opératoires et l’ensemble de la clientèle.\nVous savez analyser des situations, décider, travailler en autonomie et en équipe afin d'optimiser l’utilisation des moyens techniques par rapport aux priorités et aux besoins.\nSensible à la présence de la patientèle et aux contraintes hospitalières, vous supervisez et faites respecter l’application des procédures et protocoles définis dans le système assurance qualité du service et l’ensemble des bonnes pratiques professionnelles.\nVotre sens de l'organisation et de la planification vous garantit la prise en charge des dispositifs médicaux selon les ressources et les besoins des différents secteurs tout en veillant à l'équilibre entre les besoins de production et le bien-être des collaborateurs et collaboratrices.\nDe nature positive, optimiste et faisant preuve d'écoute, vous motivez et accompagnez vos collaboratrices et collaborateurs en développant l'esprit d'équipe. Vous entretenez un climat de partenariat afin de gérer de manière proactive des situations complexes impliquant plusieurs acteurs et actrices professionnelles.\nVous faites preuve de rigueur et vous managez avec respect et reconnaissance tout en faisant preuve d'équité. Vous veillez à fournir des feedbacks réguliers pour développer les compétences de votre équipe.\nVous actualisez les connaissances de vos collaborateurs et collaboratrices ainsi que les vôtres, relatives au retraitement des dispositifs médicaux, par le biais de formations continues et de congrès.",
+    "external_url": "https://jobs.smartrecruiters.com/HUG/744000154601029-chef-ou-cheffe-de-groupe-service-de-retraitement-des-dispositifs-medicaux-100-?oga=true",
+    "status": "matched",
+    "title": "Chef ou Cheffe de groupe - service de retraitement des dispositifs médicaux - 100%",
+    "company": "HUG",
+    "location": "Chemin de l'Emeraude, Switzerland",
+    "posted_date": "2026-10-09",
+    "department": "Production",
+    "score": -2,
+    "matched_keywords": [],
+    "deducted_keywords": [
+      "location:Chemin de l'Emeraude, Switzerland"
     ]
   }
 }
