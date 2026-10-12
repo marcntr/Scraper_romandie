@@ -385,7 +385,7 @@
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-10-04"
+    "cached_at": "2026-10-12"
   },
   "_facets:onehealthineers:SHSJB": {
     "facets": {},
@@ -889,7 +889,7 @@
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-10-04"
+    "cached_at": "2026-10-12"
   },
   "https://jobs.ashbyhq.com/adaptyv/206ef8b0-0a46-4a55-8aa9-ed495c165d53": {
     "description": "Adaptyv is building an automated lab thats let AI agents run biology experiments.\n\nWe're entering the era of agentic science where AI models can now design novel proteins, propose hypotheses, and iterate on experimental results. But they can't run the experiments themselves - that's still a manual, months-long process. We're building the infrastructure that gives AI agents access to the physical world.\n\nWe are one of the fastest growing biotech companies, trusted by leading biopharmas, frontier AI labs, and the techbio companies pushing the field forward. This is a rare chance to help advance some of the most important work happening in biotech today.\n\nOur automated lab is powered by a deep software + hardware stack: lab instruments worth millions of USD reverse-engineered into API-controllable hardware, dozens of devices orchestrated through complex workflows, full observability on everything that happens in the lab, processing pipelines for messy physical-world data, and AI systems that troubleshoot production results and accelerate assay development.\n\nWe’re growing rapidly and are hiring for talented people to scale and support the massive demand for AI-driven wet lab experimentation.\n\n\nABOUT THE ROLE\n\nYou'll build out antibody developability at Adaptyv — the panel of assays that separates a nice binder from a manufacturable, stable, well-behaved therapeutic. Aggregation, thermostability, self-association, polyreactivity, solubility, viscosity, and chemical liabilities: you'll build the experimental stack that flags these early, and make it something customers can order as a product.\n\nThese assays exist today as a scattered, bespoke collection. Your job is to turn them into one coherent, automated, high-throughput developability assessment — and to connect the experimental data to in-silico prediction so the lab and the models reinforce each other. You'll develop the assays hands-on, work with lab automation to scale them, and work with the software and ML teams to model the data and make it useful for protein designers. You'll lead the science and stay at the bench.\n\n\nWHAT YOU'LL DO\n\n - Build and validate a developability assessment panel hands-on: thermostability (DSF/nanoDSF), aggregation and self-association (SEC, HIC, AC-SINS, DLS), polyreactivity/nonspecificity, solubility, and chemical-liability assessment.\n\n - Turn that panel into a productized, high-throughput service customers can order against their antibody campaigns.\n\n - Partner with lab automation to scale and automate the assays for reproducible, fast turnaround.\n\n - Work with the software and ML teams to structure developability data and connect it to computational developability prediction.\n\n - Interpret results and advise customers on liabilities, risk, and what to engineer next.\n\n - Set the scientific standard for what developability data we trust and report.\n\n\nWHAT WE'RE LOOKING FOR\n\n - Deep, hands-on experience assessing antibody developability — you know the assay panel cold and have used it to triage real antibody campaigns.\n\n - Applied industry experience. You've done this in an antibody discovery, engineering, or development setting where decisions and timelines were on the line — not primarily in an academic research project. This is the core requirement.\n\n - Strong grasp of what makes a biologic developable — the link between early biophysical signals and downstream manufacturability and stability.\n\n - Builder who moves fast. You want to stand up new capabilities and productize them, not run a fixed service.\n\n - Interdisciplinary. You collaborate naturally with automation engineers and with software/ML people, and you're excited about closing the loop between wet-lab data and predictive models.\n\n - Data fluency (scripting, working with structured datasets) is a strong plus.\n\n\nDETAILS\n\n - Location: Lausanne, Switzerland (on-site)\n\n - Type: Full time\n\n - Start date: ASAP\n\n\n\nApplication deadline\n\nWe are reviewing applicants on a rolling basis.",
@@ -1073,7 +1073,7 @@
     "title": "Application Development Scientist – Reagents (12 months fixed-term contract)",
     "company": "Bio-Techne / Lunaphore",
     "location": "Tolochenaz, Switzerland",
-    "posted_date": "2026-09-11",
+    "posted_date": "2026-09-12",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1350,11 +1350,6 @@
     "external_url": "https://jobs.smartrecruiters.com/HUG/744000151001569-secretaires-pour-le-departement-de-medecine-60-a-100-?oga=true",
     "status": "matched"
   },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000151535090": {
-    "description": "Work with us to evolve the CERN data storage systems used at the Large Hadron Collider (LHC) and at its international partners. CERN is the birthplace of the World Wide Web and one of the world’s leading laboratories for particle physics. Join the Storage and Data Management Group in CERN’s IT Department as a Distributed Storage Engineer for a unique challenge as the next step in your career. CERN, take part! The CERN IT Storage and Data Management group operates the core services used by both LHC and non-LHC experiments for data collection, archival, reconstruction, analysis, and global distribution via the Worldwide LHC Computing Grid. Join us to work on core data storage and management capabilities which enable scientific progress at CERN!\nAs a Distributed Storage Engineer, you will contribute to the design, evolution, and operation of large-scale, distributed critical storage services for the CERN cloud and computing infrastructures. You will join a team to work with open-source Ceph-based block, object, and filesystem solutions (including CephFS and NFS integrations), ensuring high availability, performance, and resilience across multi-datacenter environments.\nYour role will involve system-wide troubleshooting in a distributed Linux-based environment and optimising storage architectures for demanding workloads. You will use your C++ software development skills to help identify and troubleshoot issues with the Ceph code base and to contribute code improvements to the upstream open-source Ceph project when necessary.\nYou will have opportunities to learn and contribute to improving automation, deployment, and observability, aligned with modern DevOps practices, to participate in inspiring projects and new technologies such as storage for HPC and AI/ML and to engage with our international partners, participating to conferences and workshops.\nFunctions\nManagement and operations of distributed disk storage, block, object and filesystem services based on mainstream open-source technologies (Ceph)\nParticipate in the evolution of architecture and design of storage services for CERN and software-defined storage technology with Open Source\nIntegrate, troubleshoot and maintain distributed disk storage systems at scale, across multiple availability zones and data centres.\nContribute to documentation, development, optimisation and further automation of storage services.\nContribute to change management, incident response, and user support.\nLiaise with key stakeholders inside and outside of the IT department.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000151535090-distributed-storage-engineer-it-sd-gss-2026-96-ld-?oga=true",
-    "status": "matched"
-  },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000151579759": {
     "description": "The SY-BI group in CERN's Accelerator Systems Department develops and operates the instruments used to observe particle beams and measure their key properties. These systems are essential to the reliable operation, optimisation, and future development of CERN's accelerator complex.\nYou will contribute to the development of next-generation beam-position monitoring systems for CERN's injector complex, including the pre-accelerators and Antimatter Decelerator. You will work on innovative high-speed data-acquisition platforms combining fast digitisers with advanced System-on-Chip (SoC) technologies.\nThis role offers a hands-on opportunity to work at the intersection of digital electronics, embedded systems, real-time signal processing, and accelerator physics. It is particularly suited to people with an interest in FPGA or HDL development, high-speed electronics, embedded software, digital signal processing, instrumentation, or experimental physics.\nYour responsibilities:\nDevelop, integrate and test FPGA gateware and embedded SoC firmware for a SoC device.\nImplement data acquisition and data processing logic and real-time digital signal-processing algorithms.\nValidate system performance in laboratory and accelerator environments.\nPerform data analysis in Python.\nAssist measurement campaigns in the accelerator complex.\nCollaborate with experienced engineers, physicists, and technicians from different teams across CERN.\nYour profile:\nExperience in digital signal processing.\nDemonstrated experience with FPGA and SoC.\nExperience in Software programming (e.g. Python, C++).\nDemonstrated experience with Xilinx Zynq UltraScale+ MPSoC and/or RFSoC would be an advantage.\nSkills:\nKnowledge of Verilog and SystemVerilog.\nKnowledge of digital electronics.\nKnowledge of Python.\nSpoken and written English, with a commitment to learn French.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nYou have a professional background in Electronic Engineering (or a related field) and have either:\na Master's degree with 2 to 6 years of post-graduation professional experience;\nor a PhD with no more than 3 years of post-graduation professional experience.\nYou have never had a CERN fellow or graduate contract before.",
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000151579759-firmware-fpga-development-engineer-sy-bi-bp-2026-154-grap-?oga=true",
@@ -1391,7 +1386,7 @@
     "title": "Business Development Director",
     "company": "KBI Biopharma",
     "location": "Switzerland - Plan-les-Ouates",
-    "posted_date": "2026-09-11",
+    "posted_date": "2026-09-12",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -1459,7 +1454,7 @@
     "title": "Specialist, Regulatory Affairs",
     "company": "Danaher",
     "location": "Neuchâtel, Switzerland",
-    "posted_date": "2026-10-07",
+    "posted_date": "2026-10-08",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -1484,7 +1479,7 @@
     "title": "Regulatory Affairs Consultant - on-site in Basel (German and French language skills)",
     "company": "Parexel",
     "location": "Switzerland-Basel",
-    "posted_date": "2026-10-09",
+    "posted_date": "2026-10-10",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1575,7 +1570,7 @@
     "title": "Consultant – Qualitative Market Research & Competitive Intelligence (Switzerland)/ Part-Time",
     "company": "IQVIA",
     "location": "Zug, Switzerland",
-    "posted_date": "2026-10-02",
+    "posted_date": "2026-10-03",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1596,7 +1591,7 @@
     "title": "Sr Manager, Quality & Regulatory Operations",
     "company": "Danaher",
     "location": "Neuchâtel, Switzerland",
-    "posted_date": "2026-10-07",
+    "posted_date": "2026-10-08",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -1626,7 +1621,7 @@
     "title": "Senior Associate Clinical Trials Regulatory Affairs",
     "company": "Amgen",
     "location": "Switzerland - Rotkreuz",
-    "posted_date": "2026-10-02",
+    "posted_date": "2026-10-03",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -1641,7 +1636,7 @@
     "title": "Data Science Intern / Master Thesis Student (Basel, 6 Monate)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-02",
+    "posted_date": "2026-10-03",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1654,7 +1649,7 @@
     "title": "Internship – Agentic AI for Environmental Regulatory Compliance",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-02",
+    "posted_date": "2026-10-03",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1669,7 +1664,7 @@
     "title": "Senior Scientist in Process Chemistry & Catalysis",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-01",
+    "posted_date": "2026-10-02",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1685,7 +1680,7 @@
     "title": "Portfolio Manager Liquid Alternatives",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-02",
+    "posted_date": "2026-10-03",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1698,7 +1693,7 @@
     "title": "Machine Learning Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-25",
+    "posted_date": "2026-09-26",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -1719,7 +1714,7 @@
     "title": "Principal Scientist - Discovery Oncology",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-24",
+    "posted_date": "2026-09-25",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -1743,7 +1738,7 @@
     "title": "Senior Legal Counsel – Legal Business Development & Corporate",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-01",
+    "posted_date": "2026-10-02",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1756,7 +1751,7 @@
     "title": "Cardio-Renal Discovery & Scientific Strategy Area Leader",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-21",
+    "posted_date": "2026-09-22",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -1777,7 +1772,7 @@
     "title": "Postdoctoral Scientist – Vascularized Kidney Organoids (at the Institute of Human Biology (IHB))",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-11",
+    "posted_date": "2026-09-12",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -1797,7 +1792,7 @@
     "title": "Discovery Scientist – Neural Retina & Ocular Disease",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-11",
+    "posted_date": "2026-09-12",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -1820,7 +1815,7 @@
     "title": "\"Principal Scientist siRNA Design",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-11",
+    "posted_date": "2026-09-12",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1836,7 +1831,7 @@
     "title": "Senior/Principal Scientist - NMR Expert",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-11",
+    "posted_date": "2026-09-12",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1852,7 +1847,7 @@
     "title": "AI Scientist – AI-Driven Target Identification",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-09-11",
+    "posted_date": "2026-09-12",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -1871,7 +1866,7 @@
     "title": "Senior Principal Scientist / Associate Director– Soluble Biomarkers, Molecular & Cellular Sciences (MCS)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-09-11",
+    "posted_date": "2026-09-12",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -1892,7 +1887,7 @@
     "title": "Patent Attorney",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-09-11",
+    "posted_date": "2026-09-12",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1905,7 +1900,7 @@
     "title": "Translational Medicine Expert – Gastroenterology, Associate Director",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-09-11",
+    "posted_date": "2026-09-12",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1922,7 +1917,7 @@
     "title": "Translational Medicine Director/Associate*- Cardiovascular & Metabolic",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-09-11",
+    "posted_date": "2026-09-12",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -1946,7 +1941,7 @@
     "title": "Biomarker Therapeutic Area Head -Neuroscience",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-09-11",
+    "posted_date": "2026-09-12",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -1970,7 +1965,7 @@
     "title": "Director, Translational Medicine Expert (Neurodegeneration)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-09-24",
+    "posted_date": "2026-09-25",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -1993,7 +1988,7 @@
     "title": "Business Development Manager (m/w/d) Neuromodulation – Schweiz",
     "company": "Abbott",
     "location": "Switzerland - Baar",
-    "posted_date": "2026-09-11",
+    "posted_date": "2026-09-12",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -2008,7 +2003,7 @@
     "title": "Director, Medical Affairs, Hemato-Oncology, Europe",
     "company": "BeiGene",
     "location": "Basel",
-    "posted_date": "2026-09-11",
+    "posted_date": "2026-09-12",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -2277,7 +2272,7 @@
     "title": "Post Doctorate Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-07",
+    "posted_date": "2026-10-08",
     "department": "",
     "score": 8,
     "matched_keywords": [
@@ -2299,7 +2294,7 @@
     "title": "One Product Development Regulatory (PDR) Early Talent (ET) Program (Basel, 2 years)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-06",
+    "posted_date": "2026-10-07",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -2351,7 +2346,7 @@
     "title": "Senior Scientist, Roche Cell and Organoid Biorepository (RoCOB)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-07",
+    "posted_date": "2026-10-08",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -2525,7 +2520,7 @@
     "title": "Experienced Discovery Scientist in Immunology",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-09",
+    "posted_date": "2026-10-10",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -2546,5 +2541,56 @@
     "description": "Location: Orbe, Switzerland\nCompany: Nestlé Product Technology Center for Coffee\nWork model: Hybrid\nContract type / duration: Internship – 6 months\nStart date: February 2027, flexible\nActivity rate: 100%\n\nBe a force for good and transform your potential into something extraordinary\n\nThe Nestlé Product Technology Center for Coffee is a global center of expertise for coffee and beverage innovation. Our teams in Konolfingen, Orbe, Singapore and Marysville lead coffee and beverage research and development for Nestlé markets worldwide.\n\nAs a R&D Data Science Intern, you will contribute to innovative projects across various Nestlé research and development facilities. Collaborating with Nestlé experts, you will help design the research tools of the future, contributing to advancements in data science and technology. This is your opportunity to make an impact while gaining hands on experience and mentorship to kick-start your career.\n\nHow you’ll make an impact as a R&D Data Science Intern\n\nDeveloping digital tools that enable researchers and product developers to work more effectively.\n\nBuilding computer vision models that characterize products and extract valuable information.\n\nCreating reliable data pipelines that turn experimental data into usable insights.\n\nDelivering automated reports and clear dashboards that support evidence-based decisions.\n\nDocumenting reusable code and sharing your solutions with colleagues across research and development teams.\n\nWhat will make you successful\n\nCurrent student or fresh graduate in Data Science, Computer Science or a related field\n\nBringing strong programming skills in Python or R and the ability to build clear, maintainable solution\n\nApplying knowledge of data science, machine learning, computer vision and cloud-based application development.\n\nBeing proactive, resourceful and curious, with the autonomy to solve problems and the openness to collaborate.\n\nFluency in English, French would be an asset.\n\nDemonstrating courage, collaboration, speed and continuous learning, while translating ideas into measurable impact and creating shared value.\n\nAt Nestlé, we place people at the heart of everything we do\n\nOur benefits are designed to support your growth and wellbeing, so you can thrive at work and in life:\n\nFlexible working options, including hybrid work possibilities (for office-based roles)\n\nLearning and development opportunities to grow your career\n\nHealthcare contribution and access to the Employee Assistance Program\n\nAttractive employee discounts across various products and services\n\nWhat to expect from our hiring process\n\nWe are committed to an inclusive and respectful hiring experience and are happy to provide reasonable accommodations if needed. Our workplaces are fully accessible and supported by a strong safety culture, with modern installations and procedures to ensure a safe environment for everyone.\n\nThe hiring process typically includes an interview with Talent Acquisition, an interview with the hiring team, and a final discussion and offer. We review applications as they are received and close the role once a strong list of relevant candidates is identified, so we encourage you to apply early. All information is treated confidentially.\n\nStay vigilant: Nestlé will only contact candidates via official company email addresses and will never ask for payments or sensitive personal information at any stage of the hiring process.\n\nReady to start your career journey with us?\n\nApply now and transform your potential into something extraordinary.",
     "external_url": "https://jobdetails.nestle.com/job/Orbe-R&D-Data-Science-Intern/1445507833/",
     "status": "matched"
+  },
+  "/job/CHE---Geneva---7-rue-Moise-Marcinhes/Intern---Flow-Cytometry-Scientist_2634673": {
+    "description": "Labcorp is a global leader in laboratory services, providing the insights and answers that help healthcare providers, patients, researchers, pharmaceutical companies and health systems make confident decisions and improve outcomes. Through our unparalleled science, data, technology and laboratory network, we advance diagnostics, accelerate innovation and help address some of the world’s most important health challenges. As we shape the future of healthcare, we are leveraging advanced technologies, intelligent digital solutions and data-driven innovation across our operations to enhance how work gets done and deliver greater value to customers and patients. With our global scale and deep expertise, you’ll have the opportunity to do meaningful work, grow your career and make a real impact on people’s health around the world. Together, we’re improving health and improving lives.\n\nLabcorp is seeking a Flow Cytometry Scientist Intern to join our team on our Geneva site.\n \nWork Schedule:\nMonday-Friday.\n40hrs per week (with flexibility to consider an 80% working schedule)\n \nJob Responsibilities: \nContribute to the validation and optimization of flow cytometry protocols for small particle detection.\nDesign and perform a series of experiments to evaluate assay performance, optimize sample preparation and acquisition parameters, and support the development of robust and reliable methods for the detection and characterization of small particles.\n \nMinimum Qualifications: \nCurrent enrolment in a Bachelor’s degree program in Biology\n \nPreferred Qualifications:\n3 months or more of experience in Flow Cytometry\nCurrent enrolment in a Master’s degree program in Biology\n \nAdditional Job Standards:\nYou must be a student and be eligible for an internship agreement with a third party.\nFluency in English. An intermediate level in French is a plus\nAbility to collaborate with various stakeholders and internal/external colleagues.\nAbility to embrace diverse ways of thinking through various forms of collaboration and partnership.\n \nAbout the Team:\nAs an intern, you will be part of the Scientific Team within the Flow Cytometry Department based in Geneva, where innovation, precision, and collaboration drive our daily work. You’ll be immersed in a fast-paced, dynamic environment that values scientific rigor and continuous learning.\nYou will also have the opportunity to collaborate with our global teams, connecting with experts across multiple time zones and cultures. This international exposure fosters a rich exchange of ideas and offers a unique perspective on how flow cytometry is applied in diverse research and clinical settings.\n \nAbout the Program:\nAs a Labcorp intern, you’ll be immersed in hands-on work that complements your academic background. In addition to your project work, you’ll gain valuable exposure to Labcorp’s global business, culture, and leadership through:\n• Enterprise-wide learning experiences that introduce you to key business functions across Labcorp\n• Leadership exposure and visibility, including direct interaction with senior leaders\n• Senior leader speaker sessions offering insights into strategy, innovation, and career growth\n• Continuous opportunities to connect and grow, from intern cohort communication channels and LinkedIn\nLearning resources to professional development sessions and storytelling opportunities that highlight your internship journey\n• Connection to Labcorp’s inclusive culture through engagement with our employee resource groups (ERGs)and values-driven community initiatives\n• Dedicated mentoring connections to guide your growth, provide career advice, and support your internship journey\n \nInternship Details:\n• Duration: 5-6 months, full-time (with flexibility to consider an 80% working schedule)\n• Dates of Internship: starting preferably from January 2026\n• Compensation: Paid internship\n• Eligibility: Currently enrolled in a relevant degree program\n \nApply now to launch your career and create real impact for patients worldwide. #FutureofLabcorp\n \n\nLabcorp is proud to be an Equal Opportunity Employer:\nLabcorp strives for inclusion and belonging in the workforce and does not tolerate harassment or discrimination of any kind. We make employment decisions based on the needs of our business and the qualifications and merit of the individual. Qualified applicants will receive consideration for employment without regard to race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), family or parental status, marital, civil union or domestic partnership status, sexual orientation, gender identity, gender expression, personal appearance, age, veteran status, disability, genetic information, or any other legally protected characteristic. Additionally, all qualified applicants with arrest or conviction records will be considered for employment in accordance with applicable law. \n\nWe encourage all to apply\nIf you are an individual with a disability who needs assistance using our online tools to search and apply for jobs, or needs an accommodation, please visit our accessibility site or contact us at Labcorp Accessibility. For more information about how we collect and store your personal data, please see our Privacy Statement.",
+    "external_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/CHE---Geneva---7-rue-Moise-Marcinhes/Intern---Flow-Cytometry-Scientist_2634673",
+    "status": "matched",
+    "title": "Intern - Flow Cytometry Scientist",
+    "company": "Labcorp",
+    "location": "CHE - Geneva - 7 rue Moise-Marcinhes",
+    "posted_date": "2026-10-12",
+    "department": "",
+    "score": 5,
+    "matched_keywords": [
+      "French",
+      "location:geneva"
+    ],
+    "deducted_keywords": []
+  },
+  "/job/CHE---Geneva---7-rue-Moise-Marcinhes/Intern---Supply-Chain-and-Regulatory-Compliance_2634647": {
+    "description": "Labcorp is a global leader in laboratory services, providing the insights and answers that help healthcare providers, patients, researchers, pharmaceutical companies and health systems make confident decisions and improve outcomes. Through our unparalleled science, data, technology and laboratory network, we advance diagnostics, accelerate innovation and help address some of the world’s most important health challenges. As we shape the future of healthcare, we are leveraging advanced technologies, intelligent digital solutions and data-driven innovation across our operations to enhance how work gets done and deliver greater value to customers and patients. With our global scale and deep expertise, you’ll have the opportunity to do meaningful work, grow your career and make a real impact on people’s health around the world. Together, we’re improving health and improving lives.\n\nLabcorp is seeking a Supply Chain and Regulatory Compliance Intern to join our Resource Planning team in Geneva.\n \nWork Schedule:\nMonday-Friday.\n40hrs per week (with flexibility to consider an 80% working schedule)\n \nJob Responsibilities: \nBuild a roadmap and define an operational process for identification and maintenance of supplies regulatory declarations under the various regulations applicable to the supplies distributed by Labcorp’s Supply Chain department including medical devices, In Vitro Diagnostics devices and Packaging.\nMap out supplies regulatory landscape and matching supplies lists with their respective declaration requirements to support internal reference material and applicability assessments\nDefine Applicability assessment and supplies declaration operational processes for new supply chain material. These processes should be integrated among the already existing supply chain processes for sourcing and distribution to support efficiency.\nDesign operational process for maintenance of regulatory declarations including documentation, declaration procedures and interactions with other departments when applicable\n \nMinimum Qualifications: \nCurrent enrolment in a Bachelor’s degree program\n \nPreferred Qualifications:\nCurrent enrolment in a Master’s degree program\nCurrent enrolment in a degree with a major in Regulatory affairs/Regulatory science or Supply chain management/Operations Management\n \nAdditional Job Standards:\nYou must be a student and be eligible for an internship agreement with a third party\nFluency in English\nInterest in process mapping and document control process\nAbility to analyse regulations and convert them into operational requirements\nDemonstrate strong attention to detail\nShow initiative and the ability to work independently under general supervision\nAbility to collaborate with various stakeholders and internal/external colleagues\nAbility to embrace diverse ways of thinking through various forms of collaboration and partnership\n \nAbout the Team:\nThe Resource Planning team is integrated within the Operations department at Labcorp and is a global team overseeing among other responsibilities the compliance of the supplies distributed through kit production across the world. With the many regulations applicable and the various types of supplies distributed, it is essential for the Resource Planning team to keep building support processes to ensure compliance maintenance. The Resource Planning team is working with the rest of the supply chain department as well as the Regulatory Compliance teams to ensure a smooth control of the supplies distributed around the world.\n \nAbout the Program:\nAs a Labcorp intern, you’ll be immersed in hands-on work that complements your academic background. In addition to your project work, you’ll gain valuable exposure to Labcorp’s global business, culture, and leadership through:\nEnterprise-wide learning experiences that introduce you to key business functions across Labcorp\nLeadership exposure and visibility, including direct interaction with senior leaders\nSenior leader speaker sessions offering insights into strategy, innovation, and career growth\nContinuous opportunities to connect and grow, from intern cohort communication channels and LinkedIn\nLearning resources to professional development sessions and storytelling opportunities that highlight your internship journey\nConnection to Labcorp’s inclusive culture through engagement with our employee resource groups (ERGs)and values-driven community initiatives\nDedicated mentoring connections to guide your growth, provide career advice, and support your internship journey\n \nInternship Details:\nDuration: 5-6 months, full-time (with flexibility to consider an 80% working schedule)\nDates of Internship: starting preferably from January 2026\nCompensation: Paid internship\nEligibility: Currently enrolled in a relevant degree program\n \nApply now to launch your career and create real impact for patients worldwide. #FutureofLabcorp\n\nLabcorp is proud to be an Equal Opportunity Employer:\nLabcorp strives for inclusion and belonging in the workforce and does not tolerate harassment or discrimination of any kind. We make employment decisions based on the needs of our business and the qualifications and merit of the individual. Qualified applicants will receive consideration for employment without regard to race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), family or parental status, marital, civil union or domestic partnership status, sexual orientation, gender identity, gender expression, personal appearance, age, veteran status, disability, genetic information, or any other legally protected characteristic. Additionally, all qualified applicants with arrest or conviction records will be considered for employment in accordance with applicable law. \n\nWe encourage all to apply\nIf you are an individual with a disability who needs assistance using our online tools to search and apply for jobs, or needs an accommodation, please visit our accessibility site or contact us at Labcorp Accessibility. For more information about how we collect and store your personal data, please see our Privacy Statement.",
+    "external_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/CHE---Geneva---7-rue-Moise-Marcinhes/Intern---Supply-Chain-and-Regulatory-Compliance_2634647",
+    "status": "matched",
+    "title": "Intern - Supply Chain and Regulatory Compliance",
+    "company": "Labcorp",
+    "location": "CHE - Geneva - 7 rue Moise-Marcinhes",
+    "posted_date": "2026-10-12",
+    "department": "",
+    "score": 5,
+    "matched_keywords": [
+      "in vitro",
+      "location:geneva"
+    ],
+    "deducted_keywords": []
+  },
+  "/job/CHE---Geneva---7-rue-Moise-Marcinhes/Intern---Bioinformatics_2634757": {
+    "description": "Labcorp is a global leader in laboratory services, providing the insights and answers that help healthcare providers, patients, researchers, pharmaceutical companies and health systems make confident decisions and improve outcomes. Through our unparalleled science, data, technology and laboratory network, we advance diagnostics, accelerate innovation and help address some of the world’s most important health challenges. As we shape the future of healthcare, we are leveraging advanced technologies, intelligent digital solutions and data-driven innovation across our operations to enhance how work gets done and deliver greater value to customers and patients. With our global scale and deep expertise, you’ll have the opportunity to do meaningful work, grow your career and make a real impact on people’s health around the world. Together, we’re improving health and improving lives.\n\nLabcorp is seeking a Bioinformatics Intern to join our Precision Medicine/Genomics Team in Geneva.\n \nWork Schedule:\nMonday-Friday.\n40hrs per week (with flexibility to consider an 80% working schedule)\n \nJob Responsibilities: \nAnalyse and interpret whole-genome sequencing (WGS) and other genomic datasets to support research and development initiatives.\nEvaluate assay performance by assessing sequencing quality, coverage, callability, and variant detections across clinically relevant genomic regions.\nDevelop data visualizations, reports, and presentations that communicate findings to scientific and cross-functional stakeholders.\nSupport the development and documentation of reproducible bioinformatics workflows, scripts, and analytical methods.\nAssist in the evaluation of emerging genomic analysis approaches, including pangenome-based methods and other innovative technologies.\nCollaborate with bioinformatics scientists and multidisciplinary teams to contribute to projects supporting assay development, quality monitoring, and clinical genomics operations.\n \nMinimum Qualifications: \nCurrent enrolment in a Bachelor’s degree program in Bioinformatics or Computational Biology or Genomics or Computer Science or Data Science or Statistics or Biology or Genetics or related scientific discipline\n \nPreferred Qualifications:\nCurrent enrolment in a Master’s degree program\n \nAdditional Job Standards:\nYou must be a student and be eligible for an internship agreement with a third party\nFluency in English\nDemonstrated scientific curiosity, eagerness, and willingness to learn new technologies and analytical approaches\nFamiliarity with sequencing\nAbility to work independently and collaboratively within a multidisciplinary team.\nStrong organizational skills and attention to detail and ability to follow established procedures\nEffective written and verbal communication skills with diverse audiences\n \nAbout the Team:\nThe Precision Medicine Bioinformatics team applies genomics, computational biology, and data science to gain insights from complex biological data. Working closely with our pharmaceutical sponsors and internal scientific teams, we support programs across the product development lifecycle, from exploratory research and technology evaluation through clinical studies and companion diagnostic (CDx) development. Our projects include large-scale genomic data analysis, novel method development, assay development and  validation, and the application of advanced bioinformatics approaches to real-world scientific and clinical challenges. Team members have the opportunity to contribute to innovative genomic research while helping translate scientific discoveries into meaningful patient impact.\n \nAbout the Program:\nAs a Labcorp intern, you’ll be immersed in hands-on work that complements your academic background. In addition to your project work, you’ll gain valuable exposure to Labcorp’s global business, culture, and leadership through:\nEnterprise-wide learning experiences that introduce you to key business functions across Labcorp\nLeadership exposure and visibility, including direct interaction with senior leaders\nSenior leader speaker sessions offering insights into strategy, innovation, and career growth\nContinuous opportunities to connect and grow, from intern cohort communication channels and LinkedIn\nLearning resources to professional development sessions and storytelling opportunities that highlight your internship journey\nConnection to Labcorp’s inclusive culture through engagement with our employee resource groups (ERGs)and values-driven community initiatives\nDedicated mentoring connections to guide your growth, provide career advice, and support your internship journey\n \nInternship Details:\nDuration: 5-6 months, full-time (with flexibility to consider an 80% working schedule)\nDates of Internship: starting preferably from January 2026\nCompensation: Paid internship\nEligibility: Currently enrolled in a relevant degree program\n \nApply now to launch your career and create real impact for patients worldwide. #FutureofLabcorp\n\nLabcorp is proud to be an Equal Opportunity Employer:\nLabcorp strives for inclusion and belonging in the workforce and does not tolerate harassment or discrimination of any kind. We make employment decisions based on the needs of our business and the qualifications and merit of the individual. Qualified applicants will receive consideration for employment without regard to race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), family or parental status, marital, civil union or domestic partnership status, sexual orientation, gender identity, gender expression, personal appearance, age, veteran status, disability, genetic information, or any other legally protected characteristic. Additionally, all qualified applicants with arrest or conviction records will be considered for employment in accordance with applicable law. \n\nWe encourage all to apply\nIf you are an individual with a disability who needs assistance using our online tools to search and apply for jobs, or needs an accommodation, please visit our accessibility site or contact us at Labcorp Accessibility. For more information about how we collect and store your personal data, please see our Privacy Statement.",
+    "external_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/CHE---Geneva---7-rue-Moise-Marcinhes/Intern---Bioinformatics_2634757",
+    "status": "matched",
+    "title": "Intern - Bioinformatics",
+    "company": "Labcorp",
+    "location": "CHE - Geneva - 7 rue Moise-Marcinhes",
+    "posted_date": "2026-10-12",
+    "department": "",
+    "score": 8,
+    "matched_keywords": [
+      "assay development",
+      "bioinformatics",
+      "computational biology",
+      "genomics",
+      "location:geneva"
+    ],
+    "deducted_keywords": []
   }
 }
