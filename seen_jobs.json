@@ -891,22 +891,6 @@
     ],
     "cached_at": "2026-10-12"
   },
-  "https://jobs.ashbyhq.com/adaptyv/206ef8b0-0a46-4a55-8aa9-ed495c165d53": {
-    "description": "Adaptyv is building an automated lab thats let AI agents run biology experiments.\n\nWe're entering the era of agentic science where AI models can now design novel proteins, propose hypotheses, and iterate on experimental results. But they can't run the experiments themselves - that's still a manual, months-long process. We're building the infrastructure that gives AI agents access to the physical world.\n\nWe are one of the fastest growing biotech companies, trusted by leading biopharmas, frontier AI labs, and the techbio companies pushing the field forward. This is a rare chance to help advance some of the most important work happening in biotech today.\n\nOur automated lab is powered by a deep software + hardware stack: lab instruments worth millions of USD reverse-engineered into API-controllable hardware, dozens of devices orchestrated through complex workflows, full observability on everything that happens in the lab, processing pipelines for messy physical-world data, and AI systems that troubleshoot production results and accelerate assay development.\n\nWe’re growing rapidly and are hiring for talented people to scale and support the massive demand for AI-driven wet lab experimentation.\n\n\nABOUT THE ROLE\n\nYou'll build out antibody developability at Adaptyv — the panel of assays that separates a nice binder from a manufacturable, stable, well-behaved therapeutic. Aggregation, thermostability, self-association, polyreactivity, solubility, viscosity, and chemical liabilities: you'll build the experimental stack that flags these early, and make it something customers can order as a product.\n\nThese assays exist today as a scattered, bespoke collection. Your job is to turn them into one coherent, automated, high-throughput developability assessment — and to connect the experimental data to in-silico prediction so the lab and the models reinforce each other. You'll develop the assays hands-on, work with lab automation to scale them, and work with the software and ML teams to model the data and make it useful for protein designers. You'll lead the science and stay at the bench.\n\n\nWHAT YOU'LL DO\n\n - Build and validate a developability assessment panel hands-on: thermostability (DSF/nanoDSF), aggregation and self-association (SEC, HIC, AC-SINS, DLS), polyreactivity/nonspecificity, solubility, and chemical-liability assessment.\n\n - Turn that panel into a productized, high-throughput service customers can order against their antibody campaigns.\n\n - Partner with lab automation to scale and automate the assays for reproducible, fast turnaround.\n\n - Work with the software and ML teams to structure developability data and connect it to computational developability prediction.\n\n - Interpret results and advise customers on liabilities, risk, and what to engineer next.\n\n - Set the scientific standard for what developability data we trust and report.\n\n\nWHAT WE'RE LOOKING FOR\n\n - Deep, hands-on experience assessing antibody developability — you know the assay panel cold and have used it to triage real antibody campaigns.\n\n - Applied industry experience. You've done this in an antibody discovery, engineering, or development setting where decisions and timelines were on the line — not primarily in an academic research project. This is the core requirement.\n\n - Strong grasp of what makes a biologic developable — the link between early biophysical signals and downstream manufacturability and stability.\n\n - Builder who moves fast. You want to stand up new capabilities and productize them, not run a fixed service.\n\n - Interdisciplinary. You collaborate naturally with automation engineers and with software/ML people, and you're excited about closing the loop between wet-lab data and predictive models.\n\n - Data fluency (scripting, working with structured datasets) is a strong plus.\n\n\nDETAILS\n\n - Location: Lausanne, Switzerland (on-site)\n\n - Type: Full time\n\n - Start date: ASAP\n\n\n\nApplication deadline\n\nWe are reviewing applicants on a rolling basis.",
-    "external_url": "https://jobs.ashbyhq.com/adaptyv/206ef8b0-0a46-4a55-8aa9-ed495c165d53",
-    "status": "ignored",
-    "title": "Scientist, Antibody Developability",
-    "company": "Adaptyv Bio",
-    "location": "Lausanne",
-    "posted_date": "2026-06-05",
-    "department": "Biology",
-    "score": 5,
-    "matched_keywords": [
-      "assay development",
-      "location:lausanne"
-    ],
-    "deducted_keywords": []
-  },
   "https://jobs.ashbyhq.com/adaptyv/2c8c23dd-dab9-4876-bc0d-a5ffd68a3179": {
     "description": "Adaptyv is building an automated lab thats let AI agents run biology experiments.\n\nWe're entering the era of agentic science where AI models can now design novel proteins, propose hypotheses, and iterate on experimental results. But they can't run the experiments themselves - that's still a manual, months-long process. We're building the infrastructure that gives AI agents access to the physical world.\n\nWe are one of the fastest growing biotech companies, trusted by leading biopharmas, frontier AI labs, and the techbio companies pushing the field forward. This is a rare chance to help advance some of the most important work happening in biotech today.\n\nOur automated lab is powered by a deep software + hardware stack: lab instruments worth millions of USD reverse-engineered into API-controllable hardware, dozens of devices orchestrated through complex workflows, full observability on everything that happens in the lab, processing pipelines for messy physical-world data, and AI systems that troubleshoot production results and accelerate assay development.\n\nWe’re growing rapidly and are hiring for talented people to scale and support the massive demand for AI-driven wet lab experimentation.\n\n\nABOUT THE ROLE\n\nYou'll build out protein expression and purification at Adaptyv, with a focus on mammalian systems — CHO and HEK, transient and stable. This is the foundation the rest of the platform stands on: titers, quality, and turnaround here set the ceiling for everything downstream.\n\nYour job is to take expression and purification from bespoke, person-dependent protocols to a robust, automated, high-throughput product. You'll optimize and run the science hands-on, work with lab automation to scale it onto liquid handlers and automated systems, and work with the software team to track samples, capture process data, and make production observable and predictable. You'll lead the science and stay deeply hands-on.\n\n\nWHAT YOU'LL DO\n\n - Develop, optimize, and run mammalian expression hands-on (CHO/HEK, transient and stable), pushing titer, quality, and reproducibility.\n\n - Own purification across modalities (Protein A, IEX, SEC, and related) and the quality of the proteins we ship.\n\n - Turn expression and purification into a productized, high-throughput, automated capability with predictable turnaround.\n\n - Partner with lab automation to scale workflows onto automated systems, and reduce manual, person-dependent steps.\n\n - Work with the software team to track samples and process parameters, and make production yields and quality observable and improvable.\n\n - Set the quality bar and troubleshoot the inevitable failures across biology, reagents, and process.\n\n\nWHAT WE'RE LOOKING FOR\n\n - Deep, hands-on expertise in mammalian protein expression and purification — CHO/HEK, and the full path from construct to purified, characterized protein.\n\n - Applied industry experience. You've run expression and purification in a production or industrial setting — where yield, reproducibility, and turnaround mattered at scale — not primarily in an academic research project. This is the core requirement.\n\n - Track record of making production reliable — titer optimization, scale-up, and consistent quality, not one-off preps.\n\n - Builder who moves fast. You want to stand up and continuously improve a production capability, not run a fixed protocol.\n\n - Interdisciplinary. You collaborate naturally with automation engineers and software people, and you see automation and data as core to a modern production process.\n\n - Data fluency (scripting, tracking and analyzing process data) is a strong plus.\n\n\nDETAILS\n\n - Location: Lausanne, Switzerland (on-site)\n\n - Type: Full time\n\n - Start date: ASAP\n\n\n\nApplication deadline\n\nWe are reviewing applicants on a rolling basis.",
     "external_url": "https://jobs.ashbyhq.com/adaptyv/2c8c23dd-dab9-4876-bc0d-a5ffd68a3179",
@@ -1250,11 +1234,6 @@
     ],
     "deducted_keywords": []
   },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000150323889": {
-    "description": "We are recruiting two early-career graduates for Mechanical Technician positions within the CMS experiment. Both positions involve hands-on mechanical work and close collaboration with technicians, engineers, and physicists, but each will have a different main area of responsibility.\nOne position will join the Electromagnetic Calorimeter (ECAL) team, supporting the refurbishment of the barrel electromagnetic calorimeter and covering a large panel of activities and responsibilities, from mechanical work and the handling and assembly of detector parts to logistic activities.\nThe second position will join the CMS Technical Coordination crew, supporting mechanical activities for the CMS detector and its infrastructure, including maintenance, upgrades, tooling, and heavy-lifting operations.\nYour responsibilities\nKey Tasks ECAL position:\nParticipate in the extraction and insertion of the ECAL supermodules, including the preparation, installation, and removal of the required tooling.\nCarry out mechanical operations during the refurbishment of the supermodules, including the replacement of cooling fittings.\nSupport the installation of ECAL services and electronics and assist with related logistics.\nKey tasks Technical Coordination position:\nParticipate in mechanical work for the upgrade, maintenance, and repair of the CMS detector and its associated infrastructure.\nManufacture mechanical parts and contribute to on-site assembly, installation, alignment, and repair activities.\nSupport the development of tooling and the preparation or modification of technical drawings using drafting software such as CATIA.\nParticipate in heavy-lifting and movement operations using equipment such as strand jacks, air pads, and hydraulic jacks, and support regular checks and maintenance of this equipment.\nYour profile\nInitial hands-on experience in the construction and assembly of mechanical components and structures.\nExperience in mechanical equipment or detector assembly, including cooling connections, pressure testing, or leak detection.\nExperience using machine tools and hand tools for mechanical manufacturing activities.\nExperience with mechanical systems and the handling of large, heavy, or fragile equipment.\nExperience with drafting software, such as CATIA.\nSkills\nKnowledge of manufacturing techniques for mechanical parts.\nExperience in the assembly and integration of mechanical structures, equipment, and systems.\nKnowledge of the operation and maintenance of cooling-water systems.\nExperience in the safe operation of mechanical handling systems and the application of safety procedures related to heavy machinery and mechanical operations.\nProblem-solving skills and attention to detail.\nAbility to work both independently and collaboratively within a multidisciplinary team.\nClear communication skills and the ability to follow technical instructions accurately.\nSpoken and written English or French, with a commitment to learn the other language.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nBy the application deadline, you have a maximum of two years of professional experience since graduation in Mechanics or related (or a related field) and your highest educational qualification is a general secondary education diploma.\nYou have never had a CERN fellow or graduate contract before.\nApplicants with a Bachelor's, Master's or PhD degree are not eligible.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000150323889-mechanical-technician-for-cms-ep-cms-ic-2026-226-grae-?oga=true",
-    "status": "matched"
-  },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000150292799": {
     "description": "Introduction\nThe Engineering Department (EN) provides CERN with the Engineering expertise, Infrastructure Systems and Technical Coordination necessary for the design, installation, operation, maintenance and dismantling phases of the CERN accelerator complex and its experimental facilities. \n\nThe position is within the Transport and Handling Engineering Group (EN-THE), responsible for preparing, organising and coordinating all transport and handling operations for the CERN accelerators and experiments. The Group also manages the transport of thousands of conventional and unconventional items, chemical and radioactive products each year.  \n\nAs a Transport and Handling Specialist  in EN-THE, you will be part of the Heavy Handling (EN-HE-HH) Section, which is in charge for organising and supervising transport, handling and lifting operations at CERNs accelerators complex, experimental areas and industrial buildings both underground and in surface premises.\nFunctions\nAs a Transport and Handling Specialist in the EN-THE-HH Section, you will be part of a team of 10 people (technical engineers and technicians) in charge of:\nCoordinating transport and handling operations for the Accelerator complex, Experiments, and surface premises.\nCoordinating and planning meetings to evaluate technical and resource needs. \nAssessing and proposing possible handling and transport solutions.\nDefining technical and safety requirements for the transport of dangerous goods and ensuring compliance with ADR principles and applicable regulations.\nSpecific operations by using customised equipment, analysing related working procedures and Safety assessments.\nDeveloping technical specifications, work procedures and contract documentation for transport and handling activities.\nSupervising contractor activities on site, ensuring Safety during the operations in both conventional and radioactive environments.\nCollaborating with the EN-THE design office to develop custom handling tools and conduct logistic studies.\nCollaborating with Radiation Protection Services to establish/redact the Work Dose Planning and Radiological work permit (DIMR).\nPerforming handling operations in specific situations.",
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000150292799-transport-and-handling-specialist-en-the-hh-2026-196-ld-?oga=true",
@@ -1293,11 +1272,6 @@
   "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000150614464": {
     "description": "En tant que médecin interne, vous avez débuté votre parcours de formation en médecine interne et souhaitez désormais vous orienter vers l’obtention du titre de spécialiste en infectiologie.\nDans ce contexte, vous rejoignez le Service des maladies infectieuses et participez aux activités des différentes consultations spécialisées, notamment en maladies infectieuses générales, auprès des personnes immunodéprimées, des personnes âgées, dans le domaine de l’orthopédie septique et du VIH/Sida, au travers de rotations.\nSous la supervision des médecins cadres, vous assurez la prise en charge des patientes et patients qui vous sont confiés, tant en ambulatoire qu’en intrahospitalier, au sein de l’ensemble de l’institution. Vous développez progressivement votre expertise clinique en étant confronté et confrontée à des situations variées et parfois complexes, qui renforcent vos capacités d’analyse, votre jugement clinique et votre aptitude à vous adapter rapidement à de nouveaux contextes médicaux.\nGrâce à votre sens de l’organisation et à votre rigueur, vous assurez les activités cliniques, diagnostiques et thérapeutiques nécessaires à la prise en charge des patientes et patients. Vous veillez au respect des règles et des procédures internes, dans un souci constant de qualité des prestations médicales apportées.\nFace à la diversité des demandes de consultation et à la complexité de certaines situations cliniques, vous faites preuve de sang-froid, de discernement et d’une bonne gestion du stress. Votre curiosité intellectuelle vous incite à approfondir vos connaissances et à comprendre les enjeux des situations auxquelles vous faites face. Vous accueillez également les retours constructifs avec ouverture et les utilisez comme leviers de progression dans l’atteinte de vos objectifs de formation.\nÉvoluant dans un environnement universitaire stimulant et exigeant, au sein d’une équipe pluridisciplinaire, vous participez également à la formation des médecins stagiaires. Vous collaborez étroitement avec l’ensemble des équipes médico-soignantes de l’institution, dans une approche proactive et centrée sur les besoins des patientes et patients. Vous veillez à maintenir une communication claire, respectueuse et adaptée, tant avec vos collègues qu’avec les personnes prises en charge et leurs proches.\nPar ailleurs, vous avez la possibilité de participer à des projets de recherche en cours au sein du service.\nDans le cadre de votre parcours de formation, vous développez vos compétences conformément au plan de formation et aux exigences de la FMH durant trois années au sein du service. Celui-ci offre un environnement reconnu pour la qualité de son enseignement, un large éventail d’activités en infectiologie ainsi que des opportunités de développement favorisant l’obtention du titre FMH. Vous bénéficiez également d’un accompagnement personnalisé grâce à des séances de coaching, des formations ciblées et un encadrement régulier assuré par les médecins cadres ainsi que les chefs et cheffes de clinique.",
     "external_url": "https://jobs.smartrecruiters.com/HUG/744000150614464-medecin-interne-en-maladies-infectieuses-100-?oga=true",
-    "status": "matched"
-  },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000150620548": {
-    "description": "As an Administrative Assistant in the CERN Users Office, you will contribute to the delivery of customer-focused administrative services for CERN's international community of guest scientists, supporting processes related to registration, personnel formalities, and Host State documentation. You will gain hands-on experience in administrative coordination, stakeholder engagement, and service delivery while contributing to the implementation of CERN's new Human Capital Management (HCM) system and the development of onboarding initiatives that support the integration of newcomers across the Administration Directorate.\nYour responsibilities\nProvide administrative support and guidance to CERN's guest scientists, facilitating registration, personnel formalities, and their integration into the CERN community.\nProcess, maintain, and manage administrative records and documentation, ensuring data quality and accuracy across CERN's information systems.\nContribute to the continuous delivery of administrative services by supporting team activities and ensuring service continuity when required.\nSupport the documentation, review, and improvement of administrative and Human Capital Management (HCM) processes, including the collection and analysis of user feedback.\nContribute to the development and maintenance of onboarding resources, communication materials, and knowledge-sharing initiatives that support the successful integration of newcomers across AGS services.\nYour profile\nInitial experience in administrative support, customer service, office administration, or a related field would be considered an asset.\nExposure to service-oriented activities and interaction with a diverse range of stakeholders would be an advantage.  \nExperience maintaining records, documentation, or administrative information would be considered an asset.\nFamiliarity with standard office software and digital collaboration tools.\nExposure to onboarding activities, user support, feedback collection, or the preparation of guidance materials would be an advantage.\nSkills\nStrong communication and interpersonal skills, with the ability to work effectively in an international and multicultural environment.\nService-oriented mindset and ability to interact professionally with a diverse range of stakeholders.\nGood organisational skills, with the ability to manage multiple tasks, maintain accurate records, and follow up on activities.\nStrong attention to detail and ability to handle information, documentation, and data with accuracy and confidentiality.\nProficiency in Microsoft Office applications and collaborative document management tools.\nSpoken and written English, with a commitment to learn French.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nBy the application deadline, you have a maximum of two years of professional experience since graduation in General Administration, Customer Service (or a related field) and your highest educational qualification is a general secondary education diploma.\nYou have never had a CERN fellow or graduate contract before.\nApplicants with a Bachelor's, Master's or PhD degree are not eligible.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000150620548-administrative-assistant-ep-ags-2026-227-grae-?oga=true",
     "status": "matched"
   },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000150937109": {
@@ -1424,7 +1398,7 @@
     "title": "Specialist, Regulatory Affairs",
     "company": "Danaher",
     "location": "Neuchâtel, Switzerland",
-    "posted_date": "2026-10-08",
+    "posted_date": "2026-10-07",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -1449,7 +1423,7 @@
     "title": "Regulatory Affairs Consultant - on-site in Basel (German and French language skills)",
     "company": "Parexel",
     "location": "Switzerland-Basel",
-    "posted_date": "2026-10-10",
+    "posted_date": "2026-10-09",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1540,7 +1514,7 @@
     "title": "Consultant – Qualitative Market Research & Competitive Intelligence (Switzerland)/ Part-Time",
     "company": "IQVIA",
     "location": "Zug, Switzerland",
-    "posted_date": "2026-10-03",
+    "posted_date": "2026-10-02",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1561,7 +1535,7 @@
     "title": "Sr Manager, Quality & Regulatory Operations",
     "company": "Danaher",
     "location": "Neuchâtel, Switzerland",
-    "posted_date": "2026-10-08",
+    "posted_date": "2026-10-07",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -1591,7 +1565,7 @@
     "title": "Senior Associate Clinical Trials Regulatory Affairs",
     "company": "Amgen",
     "location": "Switzerland - Rotkreuz",
-    "posted_date": "2026-10-03",
+    "posted_date": "2026-10-02",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -1606,7 +1580,7 @@
     "title": "Data Science Intern / Master Thesis Student (Basel, 6 Monate)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-03",
+    "posted_date": "2026-10-02",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1619,7 +1593,7 @@
     "title": "Internship – Agentic AI for Environmental Regulatory Compliance",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-03",
+    "posted_date": "2026-10-02",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1634,7 +1608,7 @@
     "title": "Senior Scientist in Process Chemistry & Catalysis",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-02",
+    "posted_date": "2026-10-01",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1650,7 +1624,7 @@
     "title": "Portfolio Manager Liquid Alternatives",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-03",
+    "posted_date": "2026-10-02",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1663,7 +1637,7 @@
     "title": "Machine Learning Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-26",
+    "posted_date": "2026-09-25",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -1684,7 +1658,7 @@
     "title": "Principal Scientist - Discovery Oncology",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-25",
+    "posted_date": "2026-09-24",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -1708,7 +1682,7 @@
     "title": "Senior Legal Counsel – Legal Business Development & Corporate",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-02",
+    "posted_date": "2026-10-01",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1721,7 +1695,7 @@
     "title": "Cardio-Renal Discovery & Scientific Strategy Area Leader",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-22",
+    "posted_date": "2026-09-21",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -1935,7 +1909,7 @@
     "title": "Director, Translational Medicine Expert (Neurodegeneration)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-09-25",
+    "posted_date": "2026-09-24",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -2206,7 +2180,7 @@
     "title": "Post Doctorate Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-08",
+    "posted_date": "2026-10-07",
     "department": "",
     "score": 8,
     "matched_keywords": [
@@ -2228,7 +2202,7 @@
     "title": "One Product Development Regulatory (PDR) Early Talent (ET) Program (Basel, 2 years)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-07",
+    "posted_date": "2026-10-06",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -2280,7 +2254,7 @@
     "title": "Senior Scientist, Roche Cell and Organoid Biorepository (RoCOB)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-08",
+    "posted_date": "2026-10-07",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -2454,7 +2428,7 @@
     "title": "Experienced Discovery Scientist in Immunology",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-10",
+    "posted_date": "2026-10-09",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -2522,7 +2496,7 @@
     "title": "Intern Data Science - Future Talent Program",
     "company": "Abbott",
     "location": "Switzerland - Basel",
-    "posted_date": "2026-10-13",
+    "posted_date": "",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2537,27 +2511,11 @@
     "title": "Intern Portfolio Strategy & Innovation - Future Talent Program",
     "company": "Abbott",
     "location": "Switzerland - Basel",
-    "posted_date": "2026-10-13",
+    "posted_date": "",
     "department": "",
     "score": 1,
     "matched_keywords": [
       "medical affairs"
-    ],
-    "deducted_keywords": []
-  },
-  "/job/CH---Basel/Associate-Director--Integrated-Biologics-R-D-Portfolio-Lead--80-100---m-f-d-_R77973": {
-    "description": "Today, Lonza is a global leader in life sciences operating across five continents. While we work in science, there’s no magic formula to how we do it. Our greatest scientific solution is talented people working together, devising ideas that help businesses to help people. In exchange, we let our people own their careers. Their ideas, big and small, genuinely improve the world. And that’s the kind of work we want to be part of.\n\nThe Integrated Biologics R&D Portfolio Lead is responsible for shaping, prioritizing, and advancing the R&D innovation portfolio to accelerate R&D impact and deliver measurable business value. The role operates at the intersection of science, strategy, operations, and commercial value creation, ensuring that investments, resources, and innovation efforts are focused on the opportunities with the highest strategic and financial impact.\nWorking in a highly matrixed environment, the R&D Portfolio Lead navigates ambiguity, drives alignment without formal authority, and enables innovation delivery from ideation through implementation and value realisation. The role serves as a trusted advisor to senior leadership, combining strong business acumen, advanced stakeholder management, and innovation insights to influence decision-making and portfolio direction.\n\nKey responsibilities:\n\nPortfolio strategy & prioritization\nTranslate R&D and business strategy into a balanced portfolio of initiatives, investments, and innovation opportunities\nEstablish portfolio prioritization frameworks, governance and process based on strategic fit, value, risk, feasibility, and resource requirements\nLeverage technology trends, competitive intelligence, market insights, and external innovation signals to identify areas where R&D investment should be increased, accelerated, redirected, or reduced, ensuring a robust and future-ready innovation portfolio + network beyond R&D (SM, CD consolidate inputs… -> actionalable)\nSupport leadership in making data-driven investment and resource allocation decisions\nContinuously assess portfolio performance and recommend adjustments to maximise value delivery\n\nInnovation insights\nIdentify emerging scientific, technological, market, and industry trends that could influence R&D strategy and competitive positioning\nGenerate actionable innovation insights through external scouting, benchmarking, competitive intelligence, and collaboration with internal experts\nTranslate innovation opportunities into strategic options, business cases, and investment recommendations\nSupport development of long-term innovation roadmaps and strategic growth opportunities\n\nBusiness value & financial acumen\nBuild and evaluate business cases, investment proposals, and portfolio recommendations.\nQuantify value creation opportunities, including productivity improvements, cost reduction, revenue growth, risk mitigation, and customer impact.\nPartner with R&D, Finance, Business and Operations stakeholders to assess ROI, financial viability, and strategic trade-offs.\nEstablish KPIs and value realization metrics to track outcomes and benefits realization.\n\nStakeholder management & executive influence\nBuild trusted relationships with senior leaders across R&D, Operations, Commercial Development, Finance, and external partners\nDrive alignment among diverse stakeholders with competing priorities and perspectives\nFacilitate executive discussions, strategic workshops, and governance forums\nInfluence decision-making through structured problem solving, compelling communication, and evidence-based recommendations\nAct as a translator between scientific, technical, operational, and business communities\n\nPortfolio governance & decision support\nEstablish governance processes that improve transparency, accountability, and decision quality\nDevelop executive-level portfolio reviews and performance reporting\nPrepare strategic recommendations for leadership teams and governance bodies\nEnsure decisions are supported by robust analysis, insights, and risk assessment\n\nCore competencies\nBusiness acumen\nStrong understanding of business strategy, value creation drivers, and financial performance\nAbility to build and challenge business cases, investment decisions, and portfolio trade-offs\nDeep understanding of how R&D activities translate into commercial and operational value\n\nAdvanced stakeholder management\nAbility to influence senior stakeholders without formal authority\nStrong executive presence with outstanding communication and facilitation skills\nProven ability to align diverse stakeholder groups around common objectives\nSkilled in navigating organizational complexity and competing priorities\n\nInnovation insights & capability building\nStrong strategic thinking and innovation mindset\nAbility to identify emerging trends and convert insights into actionable opportunities\nExperience translating scientific and technical developments into business implications and strategic recommendations\nDrive capability building and foster a culture of innovation and continuous learning across the R&D network\n\nPortfolio & program leadership\nExpertise in portfolio management, prioritization, and governance\nAbility to balance short-term delivery with long-term strategic objectives\nStrong systems thinking and end-to-end perspective\n\nExecution excellence\nAbility to structure complex and ambiguous problems\nStrong analytical and decision-making capabilities\nResults-oriented mindset with a focus on measurable outcomes, delivery excellence and value realization\nBrings structure and clarity to uncertain situations\n\nQualifications & experience\n\nEducation\nPh.D., Master's degree, or equivalent experience in Life Sciences, Biotechnology, Engineering, Business, or related discipline\n\nExperience\nSignificant experience in portfolio management, strategy, innovation, consulting, business transformation, or R&D leadership\nExperience in strategic and/or management consulting is highly desirable\nProven track record of leading complex cross-functional initiatives within matrix organizations\nDemonstrated experience developing business cases, investment strategies, and portfolio recommendations\nStrong understanding of R&D, product development, manufacturing, and commercialization processes\nExperience engaging with senior leadership and facilitating strategic decision-making\nDemonstrated ability to drive outcomes through influence rather than direct authority\n\nEvery day, Lonza’s products and services have a positive impact on millions of people. For us, this is not only a great privilege, but also a great responsibility. How we achieve our business results is just as important as the achievements themselves. At Lonza, we respect and protect our people and our environment. Any success we achieve is no success at all if not achieved ethically.\nPeople come to Lonza for the challenge and creativity of solving complex problems and developing new ideas in life sciences. In return, we offer the satisfaction that comes with improving lives all around the world. The satisfaction that comes with making a meaningful difference.\n\nLonza is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, religion, color, national origin, sex, sexual orientation, gender identity, age, status as a qualified individual with disability, protected veteran status, or any other characteristic protected by law.",
-    "external_url": "https://lonza.wd3.myworkdayjobs.com/Lonza_Careers/job/CH---Basel/Associate-Director--Integrated-Biologics-R-D-Portfolio-Lead--80-100---m-f-d-_R77973",
-    "status": "ignored",
-    "title": "Associate Director, Integrated Biologics R&D Portfolio Lead  80-100% (m/f/d)",
-    "company": "Lonza",
-    "location": "CH - Basel",
-    "posted_date": "2026-10-13",
-    "department": "",
-    "score": 2,
-    "matched_keywords": [
-      "Master's degree",
-      "competitive intelligence"
     ],
     "deducted_keywords": []
   },
@@ -2568,7 +2526,7 @@
     "title": "Intern - Flow Cytometry Scientist",
     "company": "Labcorp",
     "location": "CHE - Geneva - 7 rue Moise-Marcinhes",
-    "posted_date": "",
+    "posted_date": "2026-10-11",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -2584,7 +2542,7 @@
     "title": "Intern - Supply Chain and Regulatory Compliance",
     "company": "Labcorp",
     "location": "CHE - Geneva - 7 rue Moise-Marcinhes",
-    "posted_date": "",
+    "posted_date": "2026-10-11",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -2638,7 +2596,7 @@
   },
   "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-senior-scientist-bcqc-lengnau-berne-880270/1": {
     "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-senior-scientist-bcqc-lengnau-berne-880270/1",
-    "status": "matched",
+    "status": "ignored",
     "title": "Senior Scientist BCQC(m/f/d)",
     "company": "Hays Switzerland",
     "location": "Lengnau, Berne, Switzerland",
@@ -2646,6 +2604,90 @@
     "department": "",
     "score": 0,
     "matched_keywords": [],
+    "deducted_keywords": []
+  },
+  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000155189459": {
+    "description": "Work with us to evolve the CERN data storage systems used at the Large Hadron Collider (LHC) and at its international partners. CERN is the birthplace of the World Wide Web and one of the world’s leading laboratories for particle physics. Join the Storage and Data Management Group in CERN’s IT Department as a Distributed Storage Engineer for a unique challenge as the next step in your career. CERN, take part! The CERN IT Storage and Data Management group operates the core services used by both LHC and non-LHC experiments for data collection, archival, reconstruction, analysis, and global distribution via the Worldwide LHC Computing Grid. Join us to work on core data storage and management capabilities which enable scientific progress at CERN!\nAs a Distributed Storage Engineer, you will contribute to the design, evolution, and operation of large-scale, distributed critical storage services for the CERN cloud and computing infrastructures. You will join a team to work with open-source Ceph-based block, object, and filesystem solutions (including CephFS and NFS integrations), ensuring high availability, performance, and resilience across multi-datacenter environments.\nYour role will involve system-wide troubleshooting in a distributed Linux-based environment and optimising storage architectures for demanding workloads. You will use your C++ software development skills to help identify and troubleshoot issues with the Ceph code base and to contribute code improvements to the upstream open-source Ceph project when necessary.\nYou will have opportunities to learn and contribute to improving automation, deployment, and observability, aligned with modern DevOps practices, to participate in inspiring projects and new technologies such as storage for HPC and AI/ML and to engage with our international partners, participating to conferences and workshops.\nFunctions\nManagement and operations of distributed disk storage, block, object and filesystem services based on mainstream open-source technologies (Ceph)\nParticipate in the evolution of architecture and design of storage services for CERN and software-defined storage technology with Open Source\nIntegrate, troubleshoot and maintain distributed disk storage systems at scale, across multiple availability zones and data centres.\nContribute to documentation, development, optimisation and further automation of storage services.\nContribute to change management, incident response, and user support.\nLiaise with key stakeholders inside and outside of the IT department.",
+    "external_url": "https://jobs.smartrecruiters.com/CERN/744000155189459-distributed-storage-engineer-it-sd-gss-2026-96-ld-?oga=true",
+    "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/Sobi/postings/744000155179203": {
+    "description": "As External Quality Operation Manager (EQOM), you will play a central role in ensuring strong quality oversight of external manufacturing partners and supporting the reliable supply of high‑quality medicines. Acting as the main quality interface with Contract Manufacturing Organizations (CMOs), you will collaborate closely with internal stakeholders across Sobi in a fast‑moving, global environment. \nThis is a hands‑on role combining operational responsibility with continuous improvement. You will help ensure compliance, strengthen partnerships and contribute to developing efficient, future‑ready ways of working. \nThis position is a Hybrid role, based in our Global Hub in Basel Switzerland or Headquarter in Stockholm, Sweden reporting directly to the Associate Director, External Quality Operations.  \n \nKey Responsibilities  \nPerform as EQOM to act as Single point of contact for all quality related activities at the Contract Manufacturing Organization (CMO)  \nEnsure that all aspects of handling, manufacturing, distribution of products are in compliance with Sobi Quality system, the effective Quality Technical Agreement, that they meet relevant CGMP regulatory requirement.  \nSupport the products release by acting as QP Delegate according to delegation documents, when necessary \nSupport the External Service Provider (CMO) Qualification \nEnsure Quality Technical Agreement (QTA) be established appropriately and ensure valid QTA clearly defines roles & responsibilities between Sobi and the External Supplier \nEnsure implementation and maintaining Quality Risk Assessment and KPIs on Quality External activities. Guide defining & monitoring remediation plans to ensure that issues are suitably addressed. Drive or support improvement opportunities for processes and product Quality performance \nEnsure CMO provides product reviews or data (APQR/PQRs, stability reports) as specified in the QTA. Assess the performance of the product and the process as per Sobi requirement \nManage/approve quality issues (deviations, CAPA and complaints) as per QTA and Sobi requirement \nEnsure that Change requests either from CMO or from Sobi are managed according to the QTA and Sobi requirements \nSupport that Quality Audits of the CMO is performed according to Sobi requirement and the QTA \nLead to define strategy of implementation and monitoring of key Quality transformation initiatives and align with all process stakeholders outside of Quality organization \nLead or act as Quality representative in project related to CMO eg Tech Transfer, Launch \nAssess and ensure CMO readiness for Health Authorities (HAs) inspection  \nSupport HA inspections/audits of Sobi \nResponsible to inform the line manager and cross functional teams of all critical & major issues and escalate any issues as per Sobi escalation policy \nEnsure a good collaboration is maintained within the Global Quality Operations and cross-functionally",
+    "external_url": "https://jobs.smartrecruiters.com/Sobi/744000155179203-external-quality-operations-manager?oga=true",
+    "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/Sobi/postings/744000155225129": {
+    "description": "Make scientific exchange matter\nAt Sobi, we work to improve the lives of people living with rare diseases. As our Medical Science Liaison (MSL) in haemophilia, you’ll build trusted scientific relationships and bring valuable insights to our medical work in Switzerland and across the region.\nWorking with colleagues across Medical Affairs and other functions, you’ll support high-quality scientific exchange, medical education and stakeholder engagement. You’ll also help ensure that local perspectives inform regional and global plans.\nWhat you’ll do\nBuild and maintain collaborative, peer-to-peer scientific relationships with key opinion leaders (KOLs), scientific experts, healthcare professionals and other medical stakeholders in haemophilia\nDeliver high-quality, balanced medical and scientific communication in line with approved communication plans and applicable requirements.\nDevelop and execute stakeholder engagement plans to support meaningful scientific exchange.\nIndependently initiate planned medical activities, including scientific presentations, discussion of clinical data and programs, presentation of medical value proposition concepts and educational programs.\nWork with Medical Affairs colleagues to develop and deliver medical education programs, scientific presentations and publications.\nPlan, organize and execute scientific advisory boards with appropriate stakeholders.\nSupport the Swiss country team in developing local medical tactics, and contribute to regional and global plans where relevant.\nCollaborate with the local patient access team to support local access activities.\nContribute medical and scientific expertise to local and regional initiatives, and provide local and regional feedback to Head Office.\nSupport Head Office-led medical programs, investigator-sponsored studies (ISSs) and local studies, as appropriate.\nCoordinate medical information enquiries in collaboration with colleagues at Head Office in Stockholm.\nAttend relevant local, regional and global congresses and symposia, representing Sobi and engaging with appropriate stakeholders.\nBuild relationships with scientific societies, relevant health authorities and other z, including hospitals and non-governmental organizations.\nProvide medical input to the organization and management, including advice on relevant legal and compliance considerations.\nLocalize and adapt global medical slide decks to meet local requirements.\nMaintain timely, complete and compliant CRM documentation, and report in line with Sobi’s requirements and standards.\nKeep your therapeutic-area knowledge current, including developments in haemophilia, treatment guidelines, products and the wider scientific landscape",
+    "external_url": "https://jobs.smartrecruiters.com/Sobi/744000155225129-medical-science-liaison-haemophilia?oga=true",
+    "status": "matched",
+    "title": "Medical Science Liaison - Haemophilia",
+    "company": "Sobi",
+    "location": "Zug, Switzerland",
+    "posted_date": "2026-10-13",
+    "department": "Product Management",
+    "score": 1,
+    "matched_keywords": [
+      "medical affairs"
+    ],
+    "deducted_keywords": []
+  },
+  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000155289136": {
+    "description": "Join CERN's EP-ESE-ME section in the development of a radiation-tolerant microcontroller ASIC for use in future particle physics detectors and accelerator systems. Operating in highly challenging radiation environments, these systems require robust and reliable embedded electronics.\nThe project is based on an open-source RISC-V processing core and the CERN SOCRATES (System-On-Chip Radiation-Tolerant Ecosystem) framework for fault-tolerant SoC design. The successful candidate will contribute to the full development cycle, from requirements definition and system architecture to implementation, verification, and post-silicon validation.\nYour responsibilities:\nAnalyse application requirements across CERN's accelerator complex and particle physics detector systems to define technical specifications for the microcontroller ASIC.\nContribute to the architecture, design, and validation of a radiation-tolerant microcontroller ASIC implemented in 65 nm or 28 nm CMOS technology.\nSupport the definition of the SoC architecture, including the selection and configuration of an appropriate RISC-V processing core.\nDesign, integrate, and validate peripheral IP blocks within the CERN SOCRATES framework.\nApply fault-tolerant design methodologies, including triple modular redundancy (TMR) and single-event upset (SEU) mitigation techniques.\nParticipate in design verification activities and physical implementation, from RTL development through to tapeout.\nContribute to post-silicon testing, characterisation, and validation following chip fabrication.\nYour profile:\nStrong understanding of digital logic design.\nSolid experience with digital IC design and RTL development (Verilog/SystemVerilog).\nFamiliarity with standard ASIC design flows (synthesis, place and route, timing closure).\nKnowledge of RISC-V architecture and its ecosystem.\nExperience with microcontroller-based embedded systems development, including firmware programming in C and peripheral interfacing.\nSkills:\nRTL design and simulation (Verilog / SystemVerilog).\nFamiliarity with the digital ASIC design flow, including synthesis, place-and-route, timing closure, and sign-off activities.\nKnowledge of fault-tolerant design techniques and radiation effects in CMOS circuits is an asset.\nMicrocontroller embedded systems development (firmware in C, peripheral interfacing, bare-metal programming).\nScripting and automation (Python or equivalent).\nLinux/Unix working environment.\nCuriosity and willingness to learn in a multidisciplinary environment.\nAbility to work independently as well as within a team.\nSpoken and written English, with a commitment to learn French.\nPlease provide at least 1 reference letter to support your application.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nYou have a professional background in Electronics Engineer (or a related field) and have either:\na Master's degree with 2 to 6 years of post-graduation professional experience;\nor a PhD with no more than 3 years of post-graduation professional experience.\nYou have never had a CERN fellow or graduate contract before.",
+    "external_url": "https://jobs.smartrecruiters.com/CERN/744000155289136-digital-asic-designer-ep-ese-me-2026-134-grap-?oga=true",
+    "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/Sobi/postings/744000155177621": {
+    "description": "As a E2E Supply Planning Manager you will be responsible for the end-to-end supply planning of a product portfolio (DS-DP-FG), acting as a recognized subject matter expert within Global E2E Supply Planning. Accountable for independently balancing supply, demand, inventory, capacity, business integration, technology transfer activities, working capital governance, and business risk to ensure long-term supply continuity and optimal business performance. Expected to drive advanced and complex planning process improvement, innovation in partnering with suppliers and systems, scenario-based decision making, working capital initiatives, and cross-functional alignment, while influencing internal and external stakeholders at an operational, tactical and strategic planning level.\nBased at our Stockholm headquarters or global hub in Basel, you will join the End to End Supply team and report to the Head of E2E Supply Planning. We offer a hybrid working model that combines collaboration and flexibility.\nWhat you will do\nCreate and own balanced end-to-end supply plans across finished goods, drug product and drug substance for both commercial and clinical demand.\nTranslate market demand into capacity and supply requirements, identifying scenarios, risks and practical solutions when supply and demand cannot be fully balanced.\nLead volume, inventory and long-range planning for your portfolio, including forecasts, budgets, safety-stock assessments and scenario planning.\nManage replenishment and inventory performance across assigned products and markets, with a strong focus on service levels, stock targets, cost accuracy, waste and delivery performance.\nMonitor supply chain KPIs and inventory development, taking early action and building mitigation plans for potential shortages, out-of-stock situations or other deviations.\nPlay an active role in Product Teams and the monthly S&OP process, leading supply-related discussions and helping deliver a balanced, executable plan.\nPartner closely with Finance and other functions to ensure accurate and timely reporting of supply chain costs, transactions, inventory reconciliation and scrapping.\nSupport product lifecycle and insurance-baseline planning while maintaining accurate and reliable master data in IFS.\nContinuously improve supply planning processes, ways of working and team performance.",
+    "external_url": "https://jobs.smartrecruiters.com/Sobi/744000155177621-e2e-supply-planning-manager?oga=true",
+    "status": "matched"
+  },
+  "/job/CHE---Geneva---7-rue-Moise-Marcinhes/Intern---Histology-Scientist_2635684-1": {
+    "description": "Labcorp is a global leader in laboratory services, providing the insights and answers that help healthcare providers, patients, researchers, pharmaceutical companies and health systems make confident decisions and improve outcomes. Through our unparalleled science, data, technology and laboratory network, we advance diagnostics, accelerate innovation and help address some of the world’s most important health challenges. As we shape the future of healthcare, we are leveraging advanced technologies, intelligent digital solutions and data-driven innovation across our operations to enhance how work gets done and deliver greater value to customers and patients. With our global scale and deep expertise, you’ll have the opportunity to do meaningful work, grow your career and make a real impact on people’s health around the world. Together, we’re improving health and improving lives.\n\nLabcorp is seeking a Histology Scientist Intern to join our Histology team in Geneva.\n \nWork Schedule:\nMonday-Friday.\n40hrs per week.\n \nJob Responsibilities: \nDevelop, optimize, and implement multiplex immunofluorescence (mIF) workflows for clinical and translational research applications.\nAdvance high-plex assay capabilities, establish quality control processes, reduce imaging artifacts, and develop image processing solutions to ensure robust, reproducible, and high-quality biomarker analysis.\n \nMinimum Qualifications: \nCurrent enrolment in a Bachelor’s degree program in Life Sciences or Biology\n \nPreferred Qualifications:\nCurrent enrolment in a Master’s degree program in Life Sciences or Biology\n3 months or more of experience in image analysis\n \nAdditional Job Standards:\nYou must be a student and be eligible for an internship agreement with a third party.\nIntermediate level in French is required. Intermediate level in English is preferred.\nInterest in histology, image analysis and programming\nAttention to detail and willingness to verify incomplete or inconsistent information with the appropriate stakeholders.\nAbility to collaborate across teams and communicate clearly with colleagues from different backgrounds.\nInitiative and ability to manage agreed tasks under supervision, communicate progress, and raise issues promptly.\nCommitment to confidentiality and following approved procedures.\n \nAbout the Team:\nThe histology department performs standard histology services (tissue processing, FFPE block sectioning, IHC, FISH and multiplex immunofluorescence). The department also develops AI algorithms to analyze images and provide meaningful clinical data to our clients. The histology department is a multidisciplinary environment where lab technicians, scientists and pathologists collaborate to deliver reproducible and high-quality results.\n  \nAbout the Program:\nAs a Labcorp intern, you’ll be immersed in hands-on work that complements your academic background. In addition to your project work, you’ll gain valuable exposure to Labcorp’s global business, culture, and leadership through:\nEnterprise-wide learning experiences that introduce you to key business functions across Labcorp\nLeadership exposure and visibility, including direct interaction with senior leaders\nSenior leader speaker sessions offering insights into strategy, innovation, and career growth\nContinuous opportunities to connect and grow, from intern cohort communication channels and LinkedIn\nLearning resources to professional development sessions and storytelling opportunities that highlight your internship journey\nConnection to Labcorp’s inclusive culture through engagement with our employee resource groups (ERGs)and values-driven community initiatives\nDedicated mentoring connections to guide your growth, provide career advice, and support your internship journey\n \nInternship Details:\nDuration: 5-6 months, full-time\nDates of Internship: starting preferably from January 2026\nCompensation: Paid internship\nEligibility: Currently enrolled in a relevant degree program\n \nApply now to launch your career and create real impact for patients worldwide. #FutureofLabcorp\n \n \n\nLabcorp is proud to be an Equal Opportunity Employer:\nLabcorp strives for inclusion and belonging in the workforce and does not tolerate harassment or discrimination of any kind. We make employment decisions based on the needs of our business and the qualifications and merit of the individual. Qualified applicants will receive consideration for employment without regard to race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), family or parental status, marital, civil union or domestic partnership status, sexual orientation, gender identity, gender expression, personal appearance, age, veteran status, disability, genetic information, or any other legally protected characteristic. Additionally, all qualified applicants with arrest or conviction records will be considered for employment in accordance with applicable law. \n\nWe encourage all to apply\nIf you are an individual with a disability who needs assistance using our online tools to search and apply for jobs, or needs an accommodation, please visit our accessibility site or contact us at Labcorp Accessibility. For more information about how we collect and store your personal data, please see our Privacy Statement.",
+    "external_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/CHE---Geneva---7-rue-Moise-Marcinhes/Intern---Histology-Scientist_2635684-1",
+    "status": "matched",
+    "title": "Intern - Histology Scientist",
+    "company": "Labcorp",
+    "location": "CHE - Geneva - 7 rue Moise-Marcinhes",
+    "posted_date": "2026-10-13",
+    "department": "",
+    "score": 7,
+    "matched_keywords": [
+      "French",
+      "location:geneva",
+      "multiplex immunofluorescence",
+      "translational research"
+    ],
+    "deducted_keywords": []
+  },
+  "/job/Basel/Portfolio-Strategy-and-Insights-Interns--Basel--up-to-12-months-_202606-116569-1": {
+    "description": "At Roche you can show up as yourself, embraced for the unique qualities you bring. Our culture encourages personal expression, open dialogue, and genuine connections,  where you are valued, accepted and respected for who you are, allowing you to thrive both personally and professionally. This is how we aim to prevent, stop and cure diseases and ensure everyone has access to healthcare today and for generations to come. Join Roche, where every voice matters.\n\nThe Position\nPortfolio Strategy & Insights (PSI), part of Global Product Strategy (GPS), brings together expertise in portfolio strategy, market research, competitive intelligence, analytics and business insights to support strategic and portfolio decision making across Roche.\nAs a PSI Intern, you will contribute to project-based work across PSI, gaining hands-on experience in how a global organization uses insights, data and effective business operations to support decision making. You will receive dedicated mentorship and guidance, while gaining exposure to different areas of PSI and a broader understanding of Roche’s pipeline, portfolio and pharmaceutical strategy.\n\nThe Opportunity\n\nYour work could include:\nInsights & Analysis: Support analysis of portfolio, market, competitive or business information by bringing together data, identifying patterns and summarizing key findings.\nStrategic & Portfolio Support: Contribute to portfolio reviews, prioritization, planning and other strategic projects through research, analysis and preparation of materials.\nBusiness Operations & Leadership Support: Help a PSI leadership team or project team operate effectively by coordinating agendas and meetings, preparing materials, tracking actions and helping maintain momentum across priorities.\nProject Coordination: Support cross-functional initiatives by organizing work, connecting inputs across stakeholders, tracking progress and helping teams move from discussion to action.\nData, Digital & AI: Apply analytics, visualization, AI and emerging tools to make information easier to use and improve how teams work.\nCommunication & Storytelling: Turn analysis and project updates into clear, concise presentations and communications for different audiences.\n\nWho You Are\n\nEducation: Currently enrolled in a Master’s, MBA, or PhD program, or recently graduated (within 12 months) from a Master’s or MBA program in Business, Life Sciences, Data Science, Analytics, Economics, or a related quantitative or scientific field . \nAnalytical Skills: Strong problem-solving abilities and a genuine curiosity to understand complex systems and processes.\nOrganization & Proactivity: Detail-oriented and proactive approach to managing multiple tasks and following through on commitments.\nIndustry Interest: Passion for the pharmaceutical industry and how strategy, insights, and business operations intersect.\nData & Tools: Comfortable working with data and spreadsheets; experience with Excel/Google Sheets, analytics, or visualization tools is a plus.\nCommunication: Excellent written and spoken English with strong presentation skills (PowerPoint and Google Slides).\nMindset: Collaborative, agile learner ready to contribute to both high-level strategy and hands-on execution.\nExperience: Prior experience in consulting, pharmaceuticals, analytics, or strategy is an advantage, but not required.\n\nAdditional information\n\nStart Date: 1 December 2026 or as soon as possible\nDuration: up to 12 months (Full-time).\nLocation: Roche Global Headquarters, Basel.\nRequirement for Non-EU/EFTA: You must provide confirmation from your university that this is a compulsory internship and remain enrolled for the duration.\nThe internship is not suitable for writing a Bachelor or Master thesis.\n\nThe next step is yours. To apply, please submit your CV and a motivation letter via the Roche Careers portal.\n\n \n \n\nWho we are\nA healthier future drives us to innovate. Together, more than 100’000 employees across the globe are dedicated to advance science, ensuring everyone has access to healthcare today and for generations to come. Our efforts result in more than 26 million people treated with our medicines and over 30 billion tests conducted using our Diagnostics products. We empower each other to explore new possibilities, foster creativity, and keep our ambitions high, so we can deliver life-changing healthcare solutions that make a global impact.\n\nLet’s build a healthier future, together.\n\nRoche is an Equal Opportunity Employer.",
+    "external_url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Portfolio-Strategy-and-Insights-Interns--Basel--up-to-12-months-_202606-116569-1",
+    "status": "matched",
+    "title": "Portfolio Strategy and Insights Interns (Basel, up to 12 months)",
+    "company": "Roche",
+    "location": "Basel",
+    "posted_date": "2026-10-13",
+    "department": "",
+    "score": 2,
+    "matched_keywords": [
+      "PhD",
+      "competitive intelligence"
+    ],
+    "deducted_keywords": []
+  },
+  "/job/CH---Basel/Project-Scientist-Phys-Chem-QC-12-months-fix-term-contract-80-100--f-m-d-_R79952": {
+    "description": "The actual location of this job is in Basel Stücki, Switzerland.\n\nFor our successful Drug Product Services (DPS) focused branch located in Basel and Stein, Switzerland, we have exciting opportunities. Become part of a group that enables its customers to meet some of the greatest challenges in patient treatment and join us by applying for the Project Scientist Phys-Chem QC position.\n\nWhat you will get:\nAn agile career and a dynamic work culture\nAn inclusive and ethical workplace\nCompensation programs that recognize high performance\n\nWhat you will do:\nReview and approve physico-chemical QC analytical data packages (e.g., identity, purity, content, compendial tests) under cGMP, ensuring compliance with SOPs and Good Documentation Practices\nEnsure timely tracking and closure of internal and external QC testing activities; escalate risks or delays proactively\nCoordinate sample lifecycle activities (from pull to disposal) and manage associated documentation in collaboration with QC Project Lead and laboratory teams\nSupport investigations of deviations, OOX events, and CAPAs related to QC testing\nContribute to onsite customer or regulatory audits by providing QC-related documentation and clarifications\n\nWhat we are looking for:\nMSc or BSc in Analytical Chemistry, Biochemistry, Pharmaceutical Sciences, or related field\n0–4 years of experience in QC or analytical development; prior exposure to GMP environments is advantageous\nBasic understanding of physico-chemical analytical techniques (e.g., HPLC, CE/icIEF, protein content, pH, osmolality)\nFamiliarity with laboratory systems such as LIMS, Empower, or Electronic Lab Notebooks is a plus\nStrong attention to detail, organizational skills, and ability to work within established procedures\nEffective communication and collaboration skills; business fluent English (written and spoken)\n\nAbout Lonza\nAt Lonza, our people are our greatest strength. With 30+ sites across five continents, our globally connected teams work together every day to manufacture the medicines of tomorrow. Our core values of Collaboration, Accountability, Excellence, Passion and Integrity reflect who we are and how we work together. Everyone’s ideas, big or small, have the potential to improve millions of lives, and that’s the kind of work we want you to be part of.\n\nInnovation thrives when people from all backgrounds bring their unique perspectives to the table. At Lonza, we value diversity and are committed to creating an inclusive environment for all employees. If you’re ready to help turn our customers’ breakthrough ideas into viable therapies, we look forward to welcoming you on board.\n\nReady to shape the future of life sciences? Apply now.",
+    "external_url": "https://lonza.wd3.myworkdayjobs.com/Lonza_Careers/job/CH---Basel/Project-Scientist-Phys-Chem-QC-12-months-fix-term-contract-80-100--f-m-d-_R79952",
+    "status": "matched",
+    "title": "Project Scientist Phys-Chem QC 12 months fix-term contract 80-100 (f/m/d)",
+    "company": "Lonza",
+    "location": "CH - Basel",
+    "posted_date": "2026-10-13",
+    "department": "",
+    "score": 1,
+    "matched_keywords": [
+      "MSc"
+    ],
     "deducted_keywords": []
   }
 }
