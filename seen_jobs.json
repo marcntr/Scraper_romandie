@@ -2509,18 +2509,6 @@
     "matched_keywords": [],
     "deducted_keywords": []
   },
-  "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-senior-scientist-bcqc-lengnau-berne-880270/1": {
-    "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-senior-scientist-bcqc-lengnau-berne-880270/1",
-    "status": "ignored",
-    "title": "Senior Scientist BCQC(m/f/d)",
-    "company": "Hays Switzerland",
-    "location": "Lengnau, Berne, Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": 0,
-    "matched_keywords": [],
-    "deducted_keywords": []
-  },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000155189459": {
     "description": "Work with us to evolve the CERN data storage systems used at the Large Hadron Collider (LHC) and at its international partners. CERN is the birthplace of the World Wide Web and one of the world’s leading laboratories for particle physics. Join the Storage and Data Management Group in CERN’s IT Department as a Distributed Storage Engineer for a unique challenge as the next step in your career. CERN, take part! The CERN IT Storage and Data Management group operates the core services used by both LHC and non-LHC experiments for data collection, archival, reconstruction, analysis, and global distribution via the Worldwide LHC Computing Grid. Join us to work on core data storage and management capabilities which enable scientific progress at CERN!\nAs a Distributed Storage Engineer, you will contribute to the design, evolution, and operation of large-scale, distributed critical storage services for the CERN cloud and computing infrastructures. You will join a team to work with open-source Ceph-based block, object, and filesystem solutions (including CephFS and NFS integrations), ensuring high availability, performance, and resilience across multi-datacenter environments.\nYour role will involve system-wide troubleshooting in a distributed Linux-based environment and optimising storage architectures for demanding workloads. You will use your C++ software development skills to help identify and troubleshoot issues with the Ceph code base and to contribute code improvements to the upstream open-source Ceph project when necessary.\nYou will have opportunities to learn and contribute to improving automation, deployment, and observability, aligned with modern DevOps practices, to participate in inspiring projects and new technologies such as storage for HPC and AI/ML and to engage with our international partners, participating to conferences and workshops.\nFunctions\nManagement and operations of distributed disk storage, block, object and filesystem services based on mainstream open-source technologies (Ceph)\nParticipate in the evolution of architecture and design of storage services for CERN and software-defined storage technology with Open Source\nIntegrate, troubleshoot and maintain distributed disk storage systems at scale, across multiple availability zones and data centres.\nContribute to documentation, development, optimisation and further automation of storage services.\nContribute to change management, incident response, and user support.\nLiaise with key stakeholders inside and outside of the IT department.",
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000155189459-distributed-storage-engineer-it-sd-gss-2026-96-ld-?oga=true",
