@@ -1204,11 +1204,6 @@
       "location:Switzerland"
     ]
   },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000149834269": {
-    "description": "Introduction\nAs a Mechanical CAD Designer in the Superconducting Magnet Technology section, you will develop three-dimensional computer-aided design (CAD) models and detailed drawings for novel superconducting magnets and associated tooling. Working closely with engineers and other technical specialists, you will take part in research and development projects for future particle accelerators. Your work will help transform innovative magnet concepts into manufacturable prototypes and practical assembly solutions.\nFunctions\nPrepare 3D CAD mechanical models and drawings of short magnet demonstrators, prototypes and associated tooling, in close collaboration with other colleagues in the section. \nUpdate CAD models and drawings to integrate feedback from construction and assembly activities. \nContribute to technical discussions related to mechanical tolerances, machining methods and assembly procedures.  \nSupport procurement of components and update CAD models and drawings to reflect as-built configurations. \nAssist colleagues with tailored 3D models for computer numerical control (CNC) machining and simulations (electromagnetic, mechanical).",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000149834269-mechanical-cad-designer-te-msc-smt-2026-195-ld-?oga=true",
-    "status": "matched"
-  },
   "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000150097810": {
     "description": "En tant que médecin chef ou cheffe de clinique, vous êtes responsable de la prise en charge du suivi ambulatoire des patientes et patients cérébrolésés, surtout avec traumatisme crânio-cérébral (TCC), en étroite collaboration avec les équipes déjà impliqués au sein de la Consultation de santé cérébrale et mentale du Campus Biotech.\nUn environnement attrayant vous attend, dans lequel vous pouvez mettre vos compétences au service d'une équipe interdisciplinaire motivée.\nVous participez activement aux programmes de formation prégraduée et post-graduée du service.\nVous aurez accès à des programmes de recherche clinique structurés et financés, ainsi que la possibilité de collaborer avec des experts sur les nouvelles méthodes de neuromodulation.\nVous effectuez des piquets de médecin cadre.\nLe poste permet une flexibilité dans la planification des horaires de travail.",
     "external_url": "https://jobs.smartrecruiters.com/HUG/744000150097810-chef-ou-cheffe-de-clinique-avec-titre-de-specialite-50-?oga=true",
@@ -1273,11 +1268,6 @@
   "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000150951229": {
     "description": "À la Clinique de Crans-Montana, nous vous offrons l'opportunité de débuter votre parcours professionnel dans un environnement stimulant, humain et riche en découvertes.\nDurant votre année de stage MPE, vous évoluez au sein de plusieurs secteurs administratifs essentiels au bon fonctionnement de l'institution, notamment la réception, les admissions, les ressources humaines, la gestion administrative et comptable ainsi que le secrétariat.\nAccompagné ou accompagnée par des professionnelles et professionnels expérimentés, vous développez progressivement vos compétences en participant à des activités variées telles que la gestion de la correspondance, le suivi administratif des patientes et patients, l'élaboration de statistiques, la gestion des caisses et des fournisseurs, ainsi que la saisie d'écritures comptables.\nLa diversité des missions confiées et les exigences propres au milieu hospitalier vous permettent d'acquérir une expérience complète et enrichissante. Vous découvrez les multiples facettes du travail administratif tout en contribuant, à votre niveau, à la qualité de l'accueil et des prestations offertes à nos patientes et patients.\nCette année de stage constitue une excellente opportunité de mettre en pratique les connaissances acquises à l'école tout en développant de nouvelles compétences professionnelles dans un cadre formateur et valorisant.",
     "external_url": "https://jobs.smartrecruiters.com/HUG/744000150951229-stage-de-maturite-professionnelle-commerciale-mpe-crans-montana-100-?oga=true",
-    "status": "matched"
-  },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000151026764": {
-    "description": "Within the FAP Department, you will join the Business Computing (BC) Quality and Service Team and contribute to delivering high-quality IT services across the organisation. You will play a key role in providing second-line support for business applications, coordinating hardware support activities, assisting users, and helping improve service processes through automation and documentation.\nThis position offers a unique opportunity to work in a diverse IT environment, collaborate with experts across multiple domains, and gain hands-on experience in IT support, service management, hardware lifecycle management, and process improvement.\nYour responsibilities:\nUser Support & Service Delivery\nProvide second-line support for Business Computing applications, investigating and resolving user issues.\nDeliver technical assistance and guidance to users of Business Computing services and applications.\nCoordinate with application experts, IT specialists, service providers, and support teams to ensure timely resolution of incidents and service requests.\nHardware & Asset Management\nProvide hardware-related support to designated users and coordinate equipment interventions, office moves, and replacements.\nManage computer equipment inventory, stock levels, asset tracking, and associated administrative processes.\nDocumentation & Knowledge Management\nCreate, maintain, and enhance technical documentation, software installation guides, knowledge base articles, and operational procedures for the team and Service Desk.\nOperational Improvement & Security Coordination\nContribute to IT security activities by liaising with security experts and promoting good security practices.\nIdentify and implement opportunities to streamline and automate operational and administrative processes.\nYour profile:\nExperience in one or more of the following areas would be considered an advantage:\nWindows and Mac workstation administration and troubleshooting.\nHardware deployment, inventory management, or asset management.\nIT support, help desk, service desk, or technical user support.\nExperience with ServiceNow.\nTechnical documentation and knowledge management.\nIT service management practices and ticketing systems.\nSkills:\nInterest in IT support, technology, and helping users.\nBasic understanding of computer systems, hardware, networking, and cybersecurity.\nStrong problem-solving and communication skills.\nAbility to work collaboratively in a team environment.\nOrganised, reliable, and eager to learn.\nInterest in improving processes and finding efficient ways of working.\nSpoken and written English, with a commitment to learn French.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nBy the application deadline, you have a maximum of two years of professional experience since graduation in Computer Science / Computer Engineering (or a related field) and your highest educational qualification is either a Bachelor's or Master's degree.\nYou have never had a CERN fellow or graduate contract before.\nApplicants without University degree are not eligible.\nApplicants with a PhD are not eligible.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000151026764-it-support-engineer-fap-bc-iqs-2026-229-grae-?oga=true",
     "status": "matched"
   },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000150954584": {
@@ -1389,18 +1379,13 @@
     "title": "Specialist, Regulatory Affairs",
     "company": "Danaher",
     "location": "Neuchâtel, Switzerland",
-    "posted_date": "2026-10-08",
+    "posted_date": "2026-10-07",
     "department": "",
     "score": 4,
     "matched_keywords": [
       "location:neuchâtel"
     ],
     "deducted_keywords": []
-  },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000152603439": {
-    "description": "Introduction:\nWe invite you to take your career to an exciting new level by joining the team of operators who run the CERN accelerator complex from the CERN Control Centre (CCC). The Operations Group is responsible for the exploitation of the entire CERN accelerator complex and its technical infrastructure, including the Large Hadron Collider (LHC), running a rich proton, antiproton and heavy ion experimental programme. You will be at the heart of the preparation and delivery of particle beams to the different physics programs at CERN. When not operating these complex machines, you will contribute to the development of applications and advanced tools to support and improve operation.\nFunctions:\nTake part in the 24/7 shift team which runs CERN's accelerator complex.\nOperate proton and/or ion accelerators (Linac3, Linac4, PSB, LEIR and/or PS) and the beam lines to the associated experimental facilities on a shift basis, ensuring the safe and timely execution of the physics schedule and obtaining the defined beam performance goals.\nWork closely with accelerator physicists to set up and optimise the accelerator operation and to design, document, commission and optimise various operational scenarios.\nParticipate in the development of applications and advanced tools as part of a team or in collaboration with engineers or physicists within the OP group or within a specialised equipment group.\nOutside periods of accelerator operation, assist the technical infrastructure team with the operation of CERN's technical infrastructure or other CERN equipment groups, if required.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000152603439-particle-accelerator-operator-be-op-psb-2026-141-ld-?oga=true",
-    "status": "matched"
   },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000152705180": {
     "description": "Are you an enthusiastic and curious Technical Engineer looking for a challenging professional experience? If so, joining CERN's ORIGIN programme may be the perfect opportunity for you.\nAs a Technical Engineer in the surface coating and chemistry team, you will contribute to the production of thin films for CERN's accelerator complex. All necessary training on the specific coating set ups and instrumentation will be given.\nYour responsibilities\nOperate Physical Vapor Deposition (PVD) coating setups (sputtering): including assembly, vacuum pumping, bakeout, deposition processing, and disassembly.\nMeasure the thickness and composition of thin films using an X-Ray Fluorescence spectrometer.\nPerform validation and quality control of the performance of Non-Evaporable Getter coatings (NEG).\nPrepare technical documentation, including reports and procedures.\nContribute to the design, procurement, and assembly of tooling for the coating setups.\nYour profile\nExperience in the areas of vacuum technology and the use of vacuum instrumentation, including vacuum pumps.\nExperience in materials for vacuum.\nBasic knowledge in materials properties and characterisation.\nPractical experience in thin films coating is an advantage.\nFamiliarity with surface treatments and their execution/preparation is an advantage.\nExperience in Ultra-high vacuum is an advantage.\nSkills\nAbility to work in groups and actively participate in team activities.\nAbility to work independently and communicate progress, priorities and challenges in your work.\nKnowledge and use of Excel and Word, Labview is a plus.\nSpoken and written English, with a commitment to learn French.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nBy the application deadline, you have a maximum of two years of professional experience since graduation in Vacuum and Material Sciences (or a related field) and your highest educational qualification is either a Bachelor's or Master's degree.\nYou have never had a CERN fellow or graduate contract before.\nApplicants without University degree are not eligible.\nApplicants with a PhD are not eligible.",
@@ -1414,7 +1399,7 @@
     "title": "Regulatory Affairs Consultant - on-site in Basel (German and French language skills)",
     "company": "Parexel",
     "location": "Switzerland-Basel",
-    "posted_date": "2026-10-10",
+    "posted_date": "2026-10-09",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1495,7 +1480,7 @@
     "title": "Consultant – Qualitative Market Research & Competitive Intelligence (Switzerland)/ Part-Time",
     "company": "IQVIA",
     "location": "Zug, Switzerland",
-    "posted_date": "2026-10-03",
+    "posted_date": "2026-10-02",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1516,7 +1501,7 @@
     "title": "Sr Manager, Quality & Regulatory Operations",
     "company": "Danaher",
     "location": "Neuchâtel, Switzerland",
-    "posted_date": "2026-10-08",
+    "posted_date": "2026-10-07",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -1546,7 +1531,7 @@
     "title": "Senior Associate Clinical Trials Regulatory Affairs",
     "company": "Amgen",
     "location": "Switzerland - Rotkreuz",
-    "posted_date": "2026-10-03",
+    "posted_date": "2026-10-02",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -1561,7 +1546,7 @@
     "title": "Data Science Intern / Master Thesis Student (Basel, 6 Monate)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-03",
+    "posted_date": "2026-10-02",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1574,7 +1559,7 @@
     "title": "Senior Scientist in Process Chemistry & Catalysis",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-02",
+    "posted_date": "2026-10-01",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1590,7 +1575,7 @@
     "title": "Portfolio Manager Liquid Alternatives",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-03",
+    "posted_date": "2026-10-02",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1603,7 +1588,7 @@
     "title": "Machine Learning Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-26",
+    "posted_date": "2026-09-25",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -1624,7 +1609,7 @@
     "title": "Principal Scientist - Discovery Oncology",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-25",
+    "posted_date": "2026-09-24",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -1648,7 +1633,7 @@
     "title": "Senior Legal Counsel – Legal Business Development & Corporate",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-02",
+    "posted_date": "2026-10-01",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1661,7 +1646,7 @@
     "title": "Cardio-Renal Discovery & Scientific Strategy Area Leader",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-22",
+    "posted_date": "2026-09-21",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -1875,7 +1860,7 @@
     "title": "Director, Translational Medicine Expert (Neurodegeneration)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-09-25",
+    "posted_date": "2026-09-24",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -2085,7 +2070,7 @@
     "title": "Post Doctorate Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-08",
+    "posted_date": "2026-10-07",
     "department": "",
     "score": 8,
     "matched_keywords": [
@@ -2107,7 +2092,7 @@
     "title": "One Product Development Regulatory (PDR) Early Talent (ET) Program (Basel, 2 years)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-07",
+    "posted_date": "2026-10-06",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -2159,7 +2144,7 @@
     "title": "Senior Scientist, Roche Cell and Organoid Biorepository (RoCOB)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-08",
+    "posted_date": "2026-10-07",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -2333,7 +2318,7 @@
     "title": "Experienced Discovery Scientist in Immunology",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-10",
+    "posted_date": "2026-10-09",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -2401,7 +2386,7 @@
     "title": "Intern Data Science - Future Talent Program",
     "company": "Abbott",
     "location": "Switzerland - Basel",
-    "posted_date": "2026-10-13",
+    "posted_date": "2026-10-12",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2416,7 +2401,7 @@
     "title": "Intern Portfolio Strategy & Innovation - Future Talent Program",
     "company": "Abbott",
     "location": "Switzerland - Basel",
-    "posted_date": "2026-10-13",
+    "posted_date": "2026-10-12",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2431,7 +2416,7 @@
     "title": "Intern - Flow Cytometry Scientist",
     "company": "Labcorp",
     "location": "CHE - Geneva - 7 rue Moise-Marcinhes",
-    "posted_date": "2026-10-12",
+    "posted_date": "2026-10-11",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -2447,7 +2432,7 @@
     "title": "Intern - Supply Chain and Regulatory Compliance",
     "company": "Labcorp",
     "location": "CHE - Geneva - 7 rue Moise-Marcinhes",
-    "posted_date": "2026-10-12",
+    "posted_date": "2026-10-11",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -2463,7 +2448,7 @@
     "title": "Intern - Bioinformatics",
     "company": "Labcorp",
     "location": "CHE - Geneva - 7 rue Moise-Marcinhes",
-    "posted_date": "",
+    "posted_date": "2026-10-13",
     "department": "",
     "score": 8,
     "matched_keywords": [
@@ -2541,7 +2526,7 @@
     "title": "Intern - Histology Scientist",
     "company": "Labcorp",
     "location": "CHE - Geneva - 7 rue Moise-Marcinhes",
-    "posted_date": "",
+    "posted_date": "2026-10-13",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -2559,7 +2544,7 @@
     "title": "Portfolio Strategy and Insights Interns (Basel, up to 12 months)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "",
+    "posted_date": "2026-10-13",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2575,7 +2560,7 @@
     "title": "Project Scientist Phys-Chem QC 12 months fix-term contract 80-100 (f/m/d)",
     "company": "Lonza",
     "location": "CH - Basel",
-    "posted_date": "",
+    "posted_date": "2026-10-13",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2682,7 +2667,7 @@
     "title": "Sr. Scientist - Computational & Applied AI",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-15",
+    "posted_date": "",
     "department": "",
     "score": 8,
     "matched_keywords": [
