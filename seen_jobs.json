@@ -729,7 +729,9 @@
     "https://www.michaelpage.ch/job-detail/analytics-and-business-intelligence-analyst-12-month-contract/ref/jn-092026-7105923": "ignored",
     "https://www.michaelpage.ch/de/job-detail/business-development-manager-100/ref/jn-082026-7090776?lang=en": "ignored",
     "https://www.michaelpage.ch/job-detail/asap-sponsorship-business-development-manager-mwd/ref/jn-092026-7096210": "ignored",
-    "https://jobs.ashbyhq.com/adaptyv/206ef8b0-0a46-4a55-8aa9-ed495c165d53": "ignored"
+    "https://jobs.ashbyhq.com/adaptyv/206ef8b0-0a46-4a55-8aa9-ed495c165d53": "ignored",
+    "https://jobs.smartrecruiters.com/HUG/744000152857639-ingenieur-ou-ingenieure-specialiste-en-innovation-80-a-100-?oga=true": "ignored",
+    "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Senior-Scientist-in-Process-Chemistry---Catalysis_202609-124542": "ignored"
   },
   "_generic:Hurdle Bio": {
     "keywords": "biomarker,precision medicine"
@@ -1084,11 +1086,6 @@
       "location:Zuerich & Umgebung / Ostschweiz, Switzerland"
     ]
   },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000147435309": {
-    "description": "The Electrical Engineering Group (EN-EL) at CERN is responsible for the electrical power-distribution network (from 400 kV to 400/230V), for the fibre-optics infrastructure, and for signal and DC-power cabling for the accelerator complex.\nYou will join the electrical Design and Documentation Office (EN-EL-DDO). You will take on a support electrical designer role. This will include the creation and modification of electrical drawings, design of low voltage distribution networks, cable sizing, equipment sizing, LV protection studies and the general support to senior electrical designers. With time you will be required to take on design tasks of increasing complexity. In addition, you will oversee various quality-related activities within the Design Office, such as the management of the printing office and the maintenance and updating of templates.\nThis is the perfect opportunity for a junior technician to further establish their existing knowledge of low voltage distribution circuits by putting it into practice.\nYour responsibilities:\nPreparing design drawings using CAD software.\nPreparing calculation notes using ElecCalc/Caneco BT or similar.\nPreparing bills of material and cabling tables for electrical-related equipment in Excel.\nUpdating excel based design templates.\nGeneral quality related tasks in the design office.\nYour profile:\nDemonstrated experience in:\nThe design of Low voltage distribution networks, cable sizing and selectivity studies.\nProducing drawings in AutoCAD or similar.\nThe intermediate level of Microsoft EXCEL.\nSkills:\nAn understanding of low voltage distribution networks (selectivity, completing calculation notes, knowledge of European LV standards, protection, protection of circuits for indirect contact, knowledge of different types of earthing systems).\nAn understanding of power systems; voltage drop calculations, short circuit calculations, understanding fault levels, dimensioning of cables.\nExperience on low voltage design calculation tools (ElecCalc, Caneco or similar software).\nProficient in AutoCAD or similar.\nProficient in Microsoft Excel.\nSpoken and written English or French, with a commitment to learn the basics of the other language.\nBeneficial skills/or knowledge:\nExperience on the design of lighting systems for buildings and external areas using DIALux.\nExperience with E-PLAN or similar software.\nExperience in the design of medium voltage distribution networks.\nMotivated candidates without direct design office experience would still be considered.\nEligibility criteria:\nBy the application deadline, you have a maximum of two years of professional experience since graduation in Electrical Engineering (or a related field) and your highest educational qualification is a general secondary education diploma.\nYou have never had a CERN fellow or graduate contract before.\nApplicants with a Bachelor's, Master's or PhD degree are not eligible.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000147435309-electrical-design-technician-en-el-ddo-2026-218-grae-?oga=true",
-    "status": "matched"
-  },
   "https://www.stettlerconsulting.ch/en/current-vacancies/business-development-manager-inside-sales-manager-w-m-100/": {
     "external_url": "https://www.stettlerconsulting.ch/en/current-vacancies/business-development-manager-inside-sales-manager-w-m-100/",
     "status": "ignored",
@@ -1374,7 +1371,7 @@
     "title": "Specialist, Regulatory Affairs",
     "company": "Danaher",
     "location": "Neuchâtel, Switzerland",
-    "posted_date": "2026-10-08",
+    "posted_date": "2026-10-07",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -1394,7 +1391,7 @@
     "title": "Regulatory Affairs Consultant - on-site in Basel (German and French language skills)",
     "company": "Parexel",
     "location": "Switzerland-Basel",
-    "posted_date": "2026-10-10",
+    "posted_date": "2026-10-09",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1461,7 +1458,7 @@
     "title": "Sr Manager, Quality & Regulatory Operations",
     "company": "Danaher",
     "location": "Neuchâtel, Switzerland",
-    "posted_date": "2026-10-08",
+    "posted_date": "2026-10-07",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -2677,5 +2674,15 @@
     "deducted_keywords": [
       "clinical operations"
     ]
+  },
+  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000155909350": {
+    "description": "En tant qu'assistante ou assistant en pharmacie, vous gérez au quotidien les stocks des unités de soins des HUG.\nVos tâches sont le réapprovisionnement et la révision des stocks des unités de soins, avec ou sans armoires automatisées, en concertation avec les équipes soignantes et les équipes de la logistique pharmaceutique. Vous êtes amené ou amenée à porter des charges entre 5 et 10 kg. Vous participez à des tâches et des projets de l’unité de Logistique pharmaceutique. \nLe poste nécessite une mobilité sur l’ensemble du canton de Genève. La personne recrutée sera amenée à travailler sur différents sites, notamment sur le site principal de Cluse-Roseraie et sur les sites extérieurs : Loëx, Joli-Mont, Belle-Idée, Trois-Chêne et Bellerive. \nOn reconnaît en vous votre aptitude à travailler en équipe, votre aisance relationnelle avec le personnel soignant et votre bon sens de la communication.\nVous avez le sens de l’organisation et vous savez travailler en autonomie dans une équipe pluridisciplinaire.\nVous apportez une grande rigueur dans votre travail et vous savez gérer les priorités. Vous gérez facilement des situations de stress.\nVous êtes à l'aise avec les outils informatiques et vous avez une parfaite maîtrise du français.",
+    "external_url": "https://jobs.smartrecruiters.com/HUG/744000155909350-assistante-ou-assistant-en-pharmacie-100-?oga=true",
+    "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000155909979": {
+    "description": "En votre qualité de data manager, vous collectez et contrôlez les données cliniques en vous appuyant sur les bases de données institutionnelles et les plateformes exigés par les organes de la MHS. Vous assurez l’exhaustivité, la cohérence, la traçabilité et le respect des délais de soumission auprès de la MHS.\nVous assurez la mise en œuvre d'une gestion qualitative des données en participant à la mise en place de supports standardisés du recueil de données, en participant à la définition des règles de saisie et en mettant en place un processus de validation des données.\nVous procédez à l'extraction des données du système d’information hospitalier (DPI) pour concevoir des tableaux de bord et suivre les volumes d’activité exigés par la MHS (seuil minimal de cas par an et par opérateur).  \nAfin d'assurer la fiabilité et la traçabilité des données, vous collaborez avec les équipes pluridisciplinaires, les médecins cadres, les secrétariats médicaux, le codage médical et les équipes infirmières pour documenter le parcours patient. Vous participez aux séances et réunions des équipes.\nVous participez à la formation et à l'encadrement des nouveaux collaborateurs et collaboratrices.",
+    "external_url": "https://jobs.smartrecruiters.com/HUG/744000155909979-data-manager-pour-l-unite-d-onco-gynecologie-chirurgicale-20-a-40-?oga=true",
+    "status": "matched"
   }
 }
