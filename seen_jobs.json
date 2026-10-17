@@ -1889,7 +1889,7 @@
   "https://jobs.ashbyhq.com/adaptyv/81bf229d-5941-4f49-84af-27041c863033": {
     "description": "Adaptyv is building an automated lab that lets AI agents run biology experiments. \n\nWe're entering the era of agentic science where AI models can now design novel proteins, propose hypotheses, and iterate on experimental results. But they can't run the experiments themselves - that's still a manual, months-long process. We're building the infrastructure that gives AI agents access to the physical world.\n\nWe are one of the fastest growing biotech companies, trusted by leading biopharmas, frontier AI labs, and the techbio companies pushing the field forward. This is a rare chance to help advance some of the most important work happening in biotech today.\n\nOur automated lab is powered by a deep software + hardware stack: lab instruments worth millions of USD reverse-engineered into API-controllable hardware, dozens of devices orchestrated through complex workflows, full observability on everything that happens in the lab, processing pipelines for messy physical-world data, and AI systems that troubleshoot production results and accelerate assay development.\n\nWe’re growing rapidly and are hiring for talented people to scale and support the massive demand for AI-driven wet lab experimentation.\n\n\nABOUT THE ROLE\n\nThis is not a lab technician position. This is a senior scientist who owns assay quality, data QC and controls, and production troubleshooting across the entire experimental pipeline.\n\nThe production team runs 150+ experiments per month across expression, BLI, SPR, thermostability, and enzyme activity. When something goes wrong (failed expression, anomalous binding data, instrument artifacts), this person diagnoses the root cause and fixes it. As the assay and instrumentation portfolio expands, this person translates new R&D methods into production-ready protocols, builds robust methods that junior technicians can execute reliably, and designs comprehensive controls that enable automated QC and data processing.\n\nThis is a player-coach position. You will still run experiments personally, especially as you integrate into the lab, but you will also elevate the whole team's capabilities.\n\n\nWHAT YOU'LL DO\n\n - Troubleshoot production failures across the full pipeline. A batch of proteins isn't expressing: is it the construct design, the expression system, or the media? BLI sensorgrams look noisy: is it the sensor tips, the sample prep, or an instrument issue? You figure it out, fix it, and make the cause easier to identify next time.\n\n - Develop and document SOPs for new assays as the portfolio expands. Take methods from the R&D team and make them production-ready: robust, reproducible, and executable by junior technicians without hand-holding.\n\n - Mentor a growing production team. Set quality standards, review data, train new hires, and build a culture where people flag problems early instead of hiding them.\n\n - Work at the intersection of biology, automation, and QC. Collaborate with researchers, laboratory technicians, and automation engineers on protocol optimization for work cells, and with software on LabOS protocol integration.\n\n - Own the relationship between assay science and throughput. The easy version of every assay doesn't scale, and the scalable version often sacrifices quality. You find the right tradeoff.\n\n\nWHAT WE'RE LOOKING FOR\n\n - Deep hands-on expertise in protein production: expression (E. coli, mammalian, cell-free), purification (IMAC, SEC), and biophysical characterization (BLI and SPR at minimum). This isn't negotiable. You need to have done this work yourself, at volume.\n\n - PhD in protein biochemistry, biophysics, or structural biology, plus 3-5 years in a production or development role at a CRO, foundry, or high-throughput lab. Academic postdocs count if the work was high-throughput and production-oriented.\n\n - Experience with high-throughput workflows. You're comfortable with 96-well plates and liquid handlers, not just single-column purifications. You've optimized protocols for scale, not just for one perfect result.\n\n - Mentorship mindset. You've managed or trained junior scientists before. You enjoy teaching and get satisfaction from watching your team grow.\n\n - Troubleshooting instinct. When data looks wrong, your first impulse is to understand why, not to rerun the experiment and hope it works.\n\n - Quality-obsessed but pragmatic. You care deeply about data quality, but you also understand that production has deadlines and sometimes \"good enough\" is the right call.\n\n - Bridge between R&D and production. You can speak both languages: the exploratory mindset of research and the reproducibility demands of production.\n\n\nDETAILS\n\n - Location: Lausanne, Switzerland (on-site)\n\n - Type: Full time\n\n - Start date: ASAP\n\nWe review applications on a rolling basis.\n\n\n\nApplication deadline\n\nWe are reviewing applicants on a rolling basis.",
     "external_url": "https://jobs.ashbyhq.com/adaptyv/81bf229d-5941-4f49-84af-27041c863033",
-    "status": "matched",
+    "status": "ignored",
     "title": "Production Scientist (Senior)",
     "company": "Adaptyv Bio",
     "location": "Lausanne",
@@ -2378,7 +2378,7 @@
   "/job/Basel-City/Next-Generation-Scientist-2027_REQ-10089124-1": {
     "description": "Salary Range:CHF 0.00 - CHF 0.00\n\n \nJob Description SummaryThe Next Generation Scientist Program 2027 by Novartis and University of Basel is an intensive internship program for talented and motivated research scientists from low-middle income countries. The 3-month program (01 June to 31 August 2027), hosted at the Novartis research site in Basel, Switzerland, is designed to foster both their scientific and professional development. Novartis will provide a monthly stipend to cover incidentals and basic living expenses. Guided by Novartis mentors, the interns work on a jointly, agreed-upon scientific, clinical research or global health project and participate in a leadership development program. Research projects expose selected scientists to state-of-the-art methodologies and leading experts in their fields, whilst ensuring that the knowledge and expertise gained can be applied within their home institutions.\n\n \nJob Description\nMinimum requirements:\nEnrolled at university as MSc, PhD or MD student in a geography of scope (low- and middle-income country)\nActive participation in all program and training activities expected\nAdvanced verbal and written English communication skills\nAbility to work independently and in groups\nTime management and good organizational skills\n\nResearch Area:\nPreferred field of studies are across a wide range of Novartis therapeutic and functional areas, including translational science, clinical development, and global health. \nTherapeutic areas include, but are not limited to: Cardiovascular diseases, oncology (breast and prostate cancer), infectious diseases (malaria, dengue, cryptosporidiosis, leishmaniasis, Chagas disease leprosy), sickle cell disease\nFunctional areas include, but are not limited to: Drug discovery and clinical research, clinical operations, bioinformatics, data analytics and AI, patient engagement/advocacy, global health (scientific publications and community health initiatives)\n\n \nSkills Desired",
     "external_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Basel-City/Next-Generation-Scientist-2027_REQ-10089124-1",
-    "status": "matched",
+    "status": "ignored",
     "title": "Next Generation Scientist 2027",
     "company": "Novartis",
     "location": "Basel (City)",
@@ -2575,5 +2575,41 @@
     "deducted_keywords": [
       "location:Switzerland - Plan-les-Ouates"
     ]
+  },
+  "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-senior-scientist-basel-stadt-896947/1": {
+    "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-senior-scientist-basel-stadt-896947/1",
+    "status": "matched",
+    "title": "Senior Scientist(m/f/d)",
+    "company": "Hays Switzerland",
+    "location": "Basel Stadt, Switzerland",
+    "posted_date": "",
+    "department": "",
+    "score": 0,
+    "matched_keywords": [],
+    "deducted_keywords": []
+  },
+  "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-scientist-qa-bern-892890/1": {
+    "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-scientist-qa-bern-892890/1",
+    "status": "matched",
+    "title": "Scientist QA(m/f/d)",
+    "company": "Hays Switzerland",
+    "location": "Bern, Switzerland",
+    "posted_date": "",
+    "department": "",
+    "score": 0,
+    "matched_keywords": [],
+    "deducted_keywords": []
+  },
+  "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-senior-scientist-bcqc-lengnau-berne-880270/1": {
+    "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-senior-scientist-bcqc-lengnau-berne-880270/1",
+    "status": "matched",
+    "title": "Senior Scientist BCQC(m/f/d)",
+    "company": "Hays Switzerland",
+    "location": "Lengnau, Berne, Switzerland",
+    "posted_date": "",
+    "department": "",
+    "score": 0,
+    "matched_keywords": [],
+    "deducted_keywords": []
   }
 }
