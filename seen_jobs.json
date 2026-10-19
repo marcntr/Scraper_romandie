@@ -9,7 +9,7 @@
     "keywords": "npp"
   },
   "_generic:Charles River Laboratories": {
-    "keywords": "business development,regulatory"
+    "keywords": "regulatory"
   },
   "_generic:MoonLake Immunotherapeutics": {
     "keywords": "clinical development,medical affairs"
@@ -752,7 +752,12 @@
     "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Basel-City/Regulatory-Affairs-Data---Technology-Project-Manager_REQ-10089117": "ignored",
     "https://wd1.myworkdaysite.com/recruiting/parexel/Parexel_External_Careers/job/Switzerland-Basel/Regulatory-Affairs-Consultant---on-site-in-Basel--German-and-French-language-skills-_R0000046397-1": "ignored",
     "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-senior-scientist-basel-stadt-896947/1": "ignored",
-    "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-scientist-qa-bern-892890/1": "ignored"
+    "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-scientist-qa-bern-892890/1": "ignored",
+    "https://jobs.ashbyhq.com/adaptyv/81bf229d-5941-4f49-84af-27041c863033": "ignored",
+    "https://jobs.ashbyhq.com/adaptyv/2c8c23dd-dab9-4876-bc0d-a5ffd68a3179": "ignored",
+    "https://jobs.ashbyhq.com/adaptyv/bcc29ec7-1e14-46e7-91ee-cf791b16feda": "ignored",
+    "https://jobs.ashbyhq.com/adaptyv/d15ab16a-2a89-43e5-b8c1-46e1badef5f2": "ignored",
+    "https://jobs.ashbyhq.com/adaptyv/6f9f629e-ca05-4cdf-8967-667c88eb19e2": "ignored"
   },
   "_generic:Hurdle Bio": {
     "keywords": "biomarker,precision medicine"
@@ -1325,11 +1330,6 @@
   "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000153687920": {
     "description": "Vous intégrez un département dynamique et engagé dans l’innovation et l’amélioration continue de la qualité accueillant de nombreux projets pilotes et innovants pour l’institution, un département qui valorise la formation continue, et le développement professionnel. \nVous rejoignez une des unités de soins du département de chirurgie, qui assure la prise en charge de patientes et patients admis en électif ou en urgence dans les différentes spécialités chirurgicales (orthopédie et traumatologie, chirurgie viscérale, chirurgie thoracique, urologie, etc., selon l'unité d'affectation). Vous êtes responsable d'assurer des soins pré et post-opératoires de qualité, avec une attention particulière portée à la sécurité, au confort et au rétablissement optimal de chaque patient.\nVous assurez un suivi global des patients et patientes avant et après leur intervention chirurgicale. Cela inclut la préparation préopératoire, la gestion de la douleur, ainsi que les soins post-opératoires visant à prévenir les complications et à favoriser un retour rapide à l’autonomie. \nVous réalisez l’évaluation clinique infirmière (ECI) des patientes et patients dont vous avez la charge, afin d’objectiver les données cliniques, d’anticiper les risques de complications et d’ajuster la prise en charge en concertation avec l’équipe médico-soignante. Une posture de leadership clinique est attendue : vous êtes force de proposition, autonome dans vos prises de décision, tout en contribuant activement à la dynamique et à la cohésion de l’équipe. \nTout au long de l’hospitalisation, vous réalisez des évaluations cliniques régulières pour surveiller l’état général et l’évolution postopératoire des patients. Vous êtes particulièrement vigilant face aux risques associés à la chirurgie : complications hémorragiques ou infectieuses, douleur, escarres, chutes, etc. \nVous avez l’opportunité d’enrichir votre pratique en intégrant des approches innovantes et complémentaires aux soins techniques, en fonction des spécificités de votre unité d'affectation. Vous contribuez activement au bien-être de la patientèle tout au long de leur séjour hospitalier. \nVous collaborez étroitement avec les chirurgiennes et chirurgiens, médecins, physiothérapeutes et autres professionnelles et professionnels de santé pour garantir une prise en charge coordonnée et personnalisée de chaque patient. \nÀ l’écoute et disponible, vous accompagnez les proches tout au long du parcours de soins, en les intégrant pleinement afin d’optimiser l’expérience et le séjour du patient. \nVous participez activement à la création d’un environnement de travail positif et bienveillant, en vous impliquant dans les initiatives visant à améliorer la qualité de vie au sein de l’équipe.",
     "external_url": "https://jobs.smartrecruiters.com/HUG/744000153687920-infirmier-ou-infirmiere-au-departement-de-chirurgie-80-a-100-?oga=true",
-    "status": "matched"
-  },
-  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000153689858": {
-    "description": "Dans le cadre de votre fonction, vous planifiez, organisez et pilotez les travaux de l'équipe d'horticulteurs ou horticultrices et d'aides horticultrices ou horticulteurs qui assurent l'entretien des fleurs, des arbres, des espaces verts, cheminements et parkings.\nVous contrôlez l'exécution des tâches, l’efficacité et la qualité des prestations fournies tout en garantissant le respect des règles de sécurité.\nVous gérez les stocks de produits et de matériel, vous formez et encadrez les nouvelles collaboratrices et nouveaux collaborateurs.\nVotre orientation client et votre sens de la négociation vous permettent de proposer des solutions pour améliorer l'efficience de l'équipe et du travail.\nD'un leadership naturel, vous êtes une personne respectueuse qui a à cœur de fédérer ses collaborateurs et collaboratrices autour d’une mission commune et d’accompagner le changement.",
-    "external_url": "https://jobs.smartrecruiters.com/HUG/744000153689858-chef-horticulteur-ou-cheffe-horticultrice-cheffe-d-equipe-contremaitresse-contremaitre-100-?oga=true",
     "status": "matched"
   },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000153738539": {
