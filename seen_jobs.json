@@ -1198,11 +1198,6 @@
     ],
     "deducted_keywords": []
   },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000150292799": {
-    "description": "Introduction\nThe Engineering Department (EN) provides CERN with the Engineering expertise, Infrastructure Systems and Technical Coordination necessary for the design, installation, operation, maintenance and dismantling phases of the CERN accelerator complex and its experimental facilities. \n\nThe position is within the Transport and Handling Engineering Group (EN-THE), responsible for preparing, organising and coordinating all transport and handling operations for the CERN accelerators and experiments. The Group also manages the transport of thousands of conventional and unconventional items, chemical and radioactive products each year.  \n\nAs a Transport and Handling Specialist  in EN-THE, you will be part of the Heavy Handling (EN-HE-HH) Section, which is in charge for organising and supervising transport, handling and lifting operations at CERNs accelerators complex, experimental areas and industrial buildings both underground and in surface premises.\nFunctions\nAs a Transport and Handling Specialist in the EN-THE-HH Section, you will be part of a team of 10 people (technical engineers and technicians) in charge of:\nCoordinating transport and handling operations for the Accelerator complex, Experiments, and surface premises.\nCoordinating and planning meetings to evaluate technical and resource needs. \nAssessing and proposing possible handling and transport solutions.\nDefining technical and safety requirements for the transport of dangerous goods and ensuring compliance with ADR principles and applicable regulations.\nSpecific operations by using customised equipment, analysing related working procedures and Safety assessments.\nDeveloping technical specifications, work procedures and contract documentation for transport and handling activities.\nSupervising contractor activities on site, ensuring Safety during the operations in both conventional and radioactive environments.\nCollaborating with the EN-THE design office to develop custom handling tools and conduct logistic studies.\nCollaborating with Radiation Protection Services to establish/redact the Work Dose Planning and Radiological work permit (DIMR).\nPerforming handling operations in specific situations.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000150292799-transport-and-handling-specialist-en-the-hh-2026-196-ld-?oga=true",
-    "status": "matched"
-  },
   "https://jobs.servier.com/job/Geneva-Field-Medical-Advisor-Solid-Tumors-1202/1368160355/": {
     "description": "About the Role\n\nAs a Field Medical Advisor Solid Tumors, you will serve as a strategic scientific partner in oncology, with a strong focus on ocular oncology. Reporting directly to the Medical Lead Oncology & Hematology, this field-based role is instrumental in strengthening Servier's scientific presence in Switzerland, building trusted scientific partnerships, generating actionable medical insights, and supporting future indications and therapeutic areas. You will contribute to the development and implementation of the local medical strategy while ensuring scientific excellence, compliance, and cross-functional collaboration.\n\n \nKey Responsibilities\n\nContribute to the development and execution of the local medical strategy across the solid tumor portfolio, with a focus on melanoma and ocular oncology.\n\nIdentify unmet medical needs, treatment trends, and evidence gaps and translate insights into impactful medical initiatives.\n\nProvide accurate, balanced, and compliant scientific information and support the development and review of scientific and educational materials.\n\nSupport evidence-generation activities, including real-world evidence projects, registries, observational studies, investigator-initiated research, scientific publications, and congress activities.\n\nBuild and maintain scientific partnerships with healthcare professionals, scientific societies, expert networks, and multidisciplinary teams across Switzerland.\n\nOrganize and lead scientific exchanges, advisory boards, and educational initiatives while gathering actionable field insights.\n\nDeliver medical training and scientific updates to internal teams and contribute to onboarding and continuous learning initiatives.\n\nMonitor emerging evidence, treatment trends, congress highlights, and developments within the therapeutic area.\n\nLead and support patient affairs initiatives and projects within the therapeutic area, collaborating with relevant stakeholders to address patient needs and improve the patient journey and disease awareness.\n\nCollaborate closely with Commercial, Marketing, Market Access, Regulatory Affairs, Pharmacovigilance, and Global Medical and Patient Affairs teams to ensure alignment of medical activities with patient and business needs.\n\nMonitor and communicate project progress, stakeholder engagement, outcomes, risks, and opportunities through appropriate reporting tools and KPIs.\n\n \n\nRequired Qualifications and Experience\n\nAdvanced university degree in a health-related scientific discipline (MD, PharmD, PhD, MSc, or equivalent).\n\n3–5 years of experience in Medical Affairs within the pharmaceutical industry.\n\nAt least 2–3 years of experience in Oncology; experience in melanoma, and/or ocular oncology, is a strong asset.\n\nGood understanding of the Swiss healthcare environment, regulatory framework, market access context, and pharmaceutical compliance requirements.\n\nExperience in medical strategy development, scientific communication, medical review, evidence generation, or clinical research projects.\n\nStrong project management skills and ability to manage several activities simultaneously.\n\nFluency in English; good German and/or French is strongly preferred.\n\nWillingness to travel frequently within Switzerland and occasionally internationally.\n\n \n\nSkills and Competencies\n\nStrong communication and presentation skills, including the ability to explain complex scientific or medical information to different audiences.\n\nCollaborative mindset and strong team orientation with the ability to work effectively across functions and with external stakeholders.\n\nAbility to build trusted scientific relationships and influence stakeholders without direct authority.\n\nStrong project management capabilities and ability to manage multiple priorities simultaneously.\n\nHigh learning agility, curiosity, and willingness to continuously develop expertise in multiple therapeutic areas.\n\nCommitment to partnering with patients and patient communities, ensuring that patient perspectives are meaningfully integrated into medical activities and decision-making.\n\nResilience, adaptability, business acumen, and the ability to work both autonomously and as part of a team.\n\nStrong digital literacy, including the use of insight-generation, AI, and project-management tools.\n\nJoin Servier and contribute to a purpose-driven company committed to therapeutic progress for the benefit of patients. We value diversity, inclusion, and equal opportunities, and we welcome applications from all qualified candidates. At Servier, we believe that our differences make us stronger and that every talent deserves the opportunity to grow and make an impact.",
     "external_url": "https://jobs.servier.com/job/Geneva-Field-Medical-Advisor-Solid-Tumors-1202/1368160355/",
@@ -1243,11 +1238,6 @@
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000151579759-firmware-fpga-development-engineer-sy-bi-bp-2026-154-grap-?oga=true",
     "status": "matched"
   },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000151775284": {
-    "description": "Help shape the future of the Large Hadron Collider (LHC) machine protection systems. We are looking for a motivated Engineer to contribute to the renovation of the LHC Collimator Control System, a critical component ensuring the safe and reliable operation of the world's most powerful particle accelerator. Working in a highly collaborative environment you will help to increase the reliability, usability, and long-term maintainability of systems at the heart of LHC operations. This is a unique opportunity to combine software development, controls engineering, and accelerator technology while making a tangible impact on CERN's flagship facility.\nYour responsibilities\nDevelop and maintain control applications for the LHC Collimator system using the FESA framework, ensuring integration within CERN's accelerator control environment.\nCoordinate and support control system commissioning, performing functional testing, validation, and verification of interlocks and fail-safes prior to operational deployment.\nIntegrate control systems with the alarm server and develop high-level tools to enhance usability and real-time monitoring.\nContribute to the design and validation of system-level tests, including functional, integration, and regression testing.\nSupport expert and operational interfaces, providing diagnostic capabilities and improving intervention workflows.\nYour profile\nDemonstrated experience in real-time or distributed control systems, preferably within accelerator, industrial automation, or scientific environments.\nExperience in interventions in complex industrial or technical environments.\nExperience developing and maintaining expert interfaces (GUIs, web tools) for control and diagnostics.\nExperience with software version control (e.g. Git) and CI/CD workflows.\nSkills\nProficiency in C++.\nKnowledge of Python.\nSkilled in system integration, commissioning, and validation of control applications for hardware-software systems.\nStrong ability to troubleshoot, analyse, and document complex technical issues in operational environments.\nProactive, organised, and collaborative, with the ability to work effectively in multidisciplinary engineering teams and communicate technical progress clearly.\nSpoken and written English, with a commitment to learn French.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nYou have a professional background in Controls Engineering, Computer Science, Electronic Engineering (or a related field) and have either:\na Master's degree with 2 to 6 years of post-graduation professional experience;\nor a PhD with no more than 3 years of post-graduation professional experience.\nYou have never had a CERN fellow or graduate contract before.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000151775284-embedded-software-engineer-be-cem-mro-2026-156-grap-?oga=true",
-    "status": "matched"
-  },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000151796289": {
     "description": "As-tu terminé l'école obligatoire? Es-tu à la recherche d'un apprentissage? Le domaine de la bibliothèque dans un environnement scientifique t'attire-t-il particulièrement? Nous avons peut-être le poste qu'il te faut !\nLe CERN est un centre de recherche en physique des particules, il accueille des scientifiques du monde entier. Le Service d’Information Scientifique du CERN offre un environnement de travail dynamique, international et stimulant.\nPour la rentrée 2027, nous sommes à la recherche d'un(e) apprenti(e) motivé(e) pour apprendre le métier d'Agent en Information Documentaire dans un environnement scientifique et multilingue.\nQualifications requises\nAvoir terminé la scolarité obligatoire\nAvoir un niveau scolaire correspondant à la 11ème à Genève ou à la 3ème en France\nBonne maîtrise du français écrit et parlé\nConnaissance de l'anglais et de l'allemand\nProcédure de sélection :\nLa sélection se fait en 3 étapes :\nEntretien\nTests : français, anglais, allemand, logique\nStage pratique : 2 jours\nDélai de candidature : 31.01.2027\nDocuments à fournir lors de ta candidature:\nCV (obligatoire)\nLettre de motivation\n3 derniers bulletins de notes ou dernier diplôme obtenu\nConditions d'emploi:\nNous offrons un apprentissage AID de 3 années, durant lesquelles l’apprenti partage son temps entre l’école (CEC Nicolas Bouvier, Genève) et le CERN.\nSalaire : 770 CHF la première année avec une augmentation chaque année pendant les deux années suivantes.\n \nLe CERN considère la diversité et le caractère international de son personnel comme des valeurs essentielles et un facteur décisif de son succès.\nNous encourageons les candidatures de ressortissants de tous les États membres et États membres associés.\nINTERESSE(E)?\nN'attend plus pour nous faire parvenir ta candidature en cliquant sur la case bleue 'Je suis intéressé(e)' au bas ou en haut à droite de cette annonce. Si tu as des questions sur la procédure de candidature, tu peux nous contacter en nous écrivant a cette adresse e-mail: cern-apprentissage-aid[at]cern.ch.\nBonne chance !",
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000151796289-apprentissage-agent-en-information-documentaire-aid-?oga=true",
@@ -1275,11 +1265,6 @@
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000152088859": {
     "description": "You will join the LHCb Technical Coordination section of the LHCb group. You will be part of the LHCb design office, contributing to the CAD modelling of the LHCb detector and helping to develop LHCb digital mock-up and digital twin methodologies that will support installation planning, maintenance, and operation for the next milestones of the experiment.\nYour responsibilities\nContribute to the conceptual design and development of mechanical systems.\nCollaborate with physicists, engineers, and technicians to translate conceptual requirements into practical engineering solutions.\nProduce engineering documentation, technical specifications, 3D models, and manufacturing drawings.\nSupport the manufacturing, assembly, testing, and installation of equipment.\nMore information here.\nYour profile\nInitial experience in designing mechanical components and assemblies using 3D CAD software.\nKnowledge of CATIA V5, PDM/PLM environments, or structured engineering data management; familiarity with these tools is considered an advantage.\nExposure to the machining of parts, assembly, and testing of mechanical systems is considered an advantage.\nFamiliarity with 3D scanning, reverse engineering, or digital twin concepts is considered an advantage.\nSkills\nMandatory:\nAbility to work effectively in an international, multidisciplinary team with physicists, engineers, and technicians.\n3D CAD modelling and 2D drafting skills, preferably using CATIA V5 (or an equivalent CAD system, with a willingness to learn CATIA).\nGood knowledge of mechanical drawing standards, dimensioning and tolerancing (ISO GPS), materials, and manufacturing processes.\nOptional:\nBasic programming skills, ideally in JavaScript and/or Python.\nInterest in or experience with 3D web visualisation technologies (e.g. Three.js, WebGL, and the glTF format).\nLanguage skills:\nSpoken and written English or French, with a commitment to learn the basics of the other language.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nBy the application deadline, you have a maximum of two years of professional experience since graduation in Mechanical Engineering (or a related field) and your highest educational qualification is either a Bachelor's or Master's degree.\nYou have never had a CERN fellow or graduate contract before.\nApplicants without University degree are not eligible.\nApplicants with a PhD are not eligible.",
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000152088859-mechanical-design-engineer-for-lhcb-ep-lcb-tc-2026-233-grae-?oga=true",
-    "status": "matched"
-  },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000152085674": {
-    "description": "The Cooling & Ventilation (CV) Group is responsible for the design, installation, commissioning, operation, and maintenance of the cooling systems, pumping stations, air conditioning plants, and fluid distribution networks serving CERN's accelerator complex, experimental areas, selected LHC detector cooling systems, and strategic technical infrastructures such as the Computer Centre.\nThis project aims to identify, evaluate, and implement solutions to improve the energy efficiency and performance of existing and future CV plants. The Project Engineer will analyse plant operation, develop physical models of HVAC and hydraulic systems using simulation tools, and assess alternative control strategies. Based on these studies, the engineer will design and validate process and control improvements, and manage their deployment, testing, and commissioning on operational plants to ensure the expected performance and energy savings are achieved.\nYour responsibilities\nDevelop and validate dynamic simulation models of HVAC, cooling, ventilation, and hydraulic systems to assess plant performance and evaluate energy optimisation opportunities.\nDesign, test, and implement control system improvements, including advanced control strategies, to enhance energy efficiency, reliability, and operational stability.\nApply data analytics, Machine Learning, and neural network techniques to support performance monitoring, fault detection, predictive analysis, and process optimisation.\nManage the deployment, testing, commissioning, and performance verification of selected process, control, and AI-based solutions on operational production plants.\nProduce technical studies, engineering recommendations, and performance assessments, and collaborate with operations and maintenance teams to ensure successful implementation of improvements.\nMore information here.\nYour profile\nExperience in modelling and simulation of physical systems (HVAC, hydraulic, thermal, or industrial processes) using tools such as EcosimPro, Matlab/Simulink, or similar platforms.\nExperience in the design, implementation, testing, and commissioning of industrial control systems, with knowledge of advanced control techniques considered an asset.\nExperience in data analysis and software development using Python; familiarity with data analytics, machine learning, or artificial intelligence libraries is an advantage.\nSkills\nSystem Modelling & Simulation: HVAC, hydraulic, and industrial process modelling using EcosimPro, Matlab/Simulink, or equivalent tools.\nPLC Programming & Automation: Siemens Step7, TIA Portal, and/or Schneider EcoStruxure Control Expert.\nPython programming, data analysis, Machine Learning, and AI techniques for process optimisation and performance monitoring.\nSpoken and written English, with a commitment to learn French.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nBy the application deadline, you have a maximum of two years of professional experience since graduation in Automation and Controls (or a related field) and your highest educational qualification is either a Bachelor's or Master's degree.\nYou have never had a CERN fellow or graduate contract before.\nApplicants without University degree are not eligible.\nApplicants with a PhD are not eligible.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000152085674-controls-and-automation-engineer-en-cv-cl-2026-230-grae-?oga=true",
     "status": "matched"
   },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000152082399": {
@@ -1930,7 +1915,7 @@
     "title": "Intern - Bioinformatics",
     "company": "Labcorp",
     "location": "CHE - Geneva - 7 rue Moise-Marcinhes",
-    "posted_date": "2026-10-14",
+    "posted_date": "2026-10-13",
     "department": "",
     "score": 8,
     "matched_keywords": [
@@ -1949,7 +1934,7 @@
     "title": "Intern - Supply Chain and Regulatory Compliance",
     "company": "Labcorp",
     "location": "CHE - Geneva - 7 rue Moise-Marcinhes",
-    "posted_date": "2026-10-12",
+    "posted_date": "2026-10-11",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -1965,7 +1950,7 @@
     "title": "Intern - Histology Scientist",
     "company": "Labcorp",
     "location": "CHE - Geneva - 7 rue Moise-Marcinhes",
-    "posted_date": "2026-10-14",
+    "posted_date": "2026-10-13",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -1983,7 +1968,7 @@
     "title": "Intern - Flow Cytometry Scientist",
     "company": "Labcorp",
     "location": "CHE - Geneva - 7 rue Moise-Marcinhes",
-    "posted_date": "2026-10-12",
+    "posted_date": "2026-10-11",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -1999,7 +1984,7 @@
     "title": "Senior Scientist, Roche Cell and Organoid Biorepository (RoCOB)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-08",
+    "posted_date": "2026-10-07",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -2020,7 +2005,7 @@
     "title": "Experienced Clinical Scientist/Medical monitor in neurosciences",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-16",
+    "posted_date": "2026-10-15",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -2038,7 +2023,7 @@
     "title": "Sr. Scientist - Computational & Applied AI",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-15",
+    "posted_date": "2026-10-14",
     "department": "",
     "score": 8,
     "matched_keywords": [
@@ -2060,7 +2045,7 @@
     "title": "Experienced Discovery Scientist in Immunology",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-10",
+    "posted_date": "2026-10-09",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -2084,7 +2069,7 @@
     "title": "One Product Development Regulatory (PDR) Early Talent (ET) Program (Basel, 2 years)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-07",
+    "posted_date": "2026-10-06",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -2102,7 +2087,7 @@
     "title": "Post Doctorate Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-08",
+    "posted_date": "2026-10-07",
     "department": "",
     "score": 8,
     "matched_keywords": [
@@ -2124,7 +2109,7 @@
     "title": "Senior Legal Counsel – Legal Business Development & Corporate",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-02",
+    "posted_date": "2026-10-01",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -2137,7 +2122,7 @@
     "title": "Portfolio Manager Liquid Alternatives",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-03",
+    "posted_date": "2026-10-02",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -2150,7 +2135,7 @@
     "title": "Principal Scientist - Discovery Oncology",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-25",
+    "posted_date": "2026-09-24",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -2174,7 +2159,7 @@
     "title": "Cardio-Renal Discovery & Scientific Strategy Area Leader",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-22",
+    "posted_date": "2026-09-21",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -2344,7 +2329,7 @@
     "title": "Regulatory Affairs Data & Technology Project Manager",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-10-16",
+    "posted_date": "2026-10-15",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -2357,7 +2342,7 @@
     "title": "Next Generation Scientist 2027",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-10-16",
+    "posted_date": "2026-10-15",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -2378,7 +2363,7 @@
     "title": "Director, Translational Medicine Expert (Neurodegeneration)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-09-25",
+    "posted_date": "2026-09-24",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -2416,7 +2401,7 @@
     "title": "Intern Portfolio Strategy & Innovation - Future Talent Program",
     "company": "Abbott",
     "location": "Switzerland - Basel",
-    "posted_date": "2026-10-13",
+    "posted_date": "2026-10-12",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2431,7 +2416,7 @@
     "title": "Intern Data Science - Future Talent Program",
     "company": "Abbott",
     "location": "Switzerland - Basel",
-    "posted_date": "2026-10-13",
+    "posted_date": "2026-10-12",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2446,7 +2431,7 @@
     "title": "Senior Associate Clinical Trials Regulatory Affairs",
     "company": "Amgen",
     "location": "Switzerland - Rotkreuz",
-    "posted_date": "2026-10-03",
+    "posted_date": "2026-10-02",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -2478,7 +2463,7 @@
     "title": "Consultant – Qualitative Market Research & Competitive Intelligence (Switzerland)/ Part-Time",
     "company": "IQVIA",
     "location": "Zug, Switzerland",
-    "posted_date": "2026-10-03",
+    "posted_date": "2026-10-02",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2494,7 +2479,7 @@
     "title": "Regulatory Affairs Consultant - on-site in Basel (German and French language skills)",
     "company": "Parexel",
     "location": "Switzerland-Basel",
-    "posted_date": "2026-10-10",
+    "posted_date": "2026-10-09",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2510,7 +2495,7 @@
     "title": "Sr Manager, Quality & Regulatory Operations",
     "company": "Danaher",
     "location": "Neuchâtel, Switzerland",
-    "posted_date": "2026-10-08",
+    "posted_date": "2026-10-07",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -2525,7 +2510,7 @@
     "title": "Specialist, Regulatory Affairs",
     "company": "Danaher",
     "location": "Neuchâtel, Switzerland",
-    "posted_date": "2026-10-08",
+    "posted_date": "2026-10-07",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -2553,7 +2538,7 @@
   },
   "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-senior-scientist-basel-stadt-896947/1": {
     "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-senior-scientist-basel-stadt-896947/1",
-    "status": "matched",
+    "status": "ignored",
     "title": "Senior Scientist(m/f/d)",
     "company": "Hays Switzerland",
     "location": "Basel Stadt, Switzerland",
@@ -2565,7 +2550,7 @@
   },
   "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-scientist-qa-bern-892890/1": {
     "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-scientist-qa-bern-892890/1",
-    "status": "matched",
+    "status": "ignored",
     "title": "Scientist QA(m/f/d)",
     "company": "Hays Switzerland",
     "location": "Bern, Switzerland",
@@ -2577,7 +2562,7 @@
   },
   "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-senior-scientist-bcqc-lengnau-berne-880270/1": {
     "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-senior-scientist-bcqc-lengnau-berne-880270/1",
-    "status": "matched",
+    "status": "ignored",
     "title": "Senior Scientist BCQC(m/f/d)",
     "company": "Hays Switzerland",
     "location": "Lengnau, Berne, Switzerland",
@@ -2586,5 +2571,25 @@
     "score": 0,
     "matched_keywords": [],
     "deducted_keywords": []
+  },
+  "/job/Basel/Lab-Scientist--Microscopy_202610-125638-1": {
+    "description": "At Roche you can show up as yourself, embraced for the unique qualities you bring. Our culture encourages personal expression, open dialogue, and genuine connections,  where you are valued, accepted and respected for who you are, allowing you to thrive both personally and professionally. This is how we aim to prevent, stop and cure diseases and ensure everyone has access to healthcare today and for generations to come. Join Roche, where every voice matters.\n\nThe Position\nIn Roche’s Pharmaceutical Research and Early Development organisation (pRED), we make transformative medicines for patients in order to tackle some of the world’s toughest unmet healthcare needs. At pRED, we are united by our mission to transform science into medicines. Together, we create a culture defined by curiosity, responsibility, and humility, where our talented people are empowered and inspired to bring forward extraordinary life-changing innovation at speed.\n\nStrategy, Portfolio & Operations (SPO) is a unified function that serves as the strategic and operational backbone enabling pRED's strategy from lab to clinic. Operating under a dynamic Chapter Model, SPO centralizes specialized skills across critical areas including Sites & Lab Services, Program & Project Management, Strategy, Clinical Operations, External Operations, Capability Development, Core Lab Technology Platforms (360Labs) and Asset Team Leadership. SPO’s mission is to drive enterprise value creation by delivering operational excellence, and accelerating portfolio productivity. As a trusted partner, SPO fosters a culture of collaboration and accountability to ensure pRED transitions assets smoothly from early research to late-stage development.\n\n360 Labs Chapter at a Glance\n\nThe primary mission of the 360 Labs Chapter within SPO is to provide greater access and support for the use of cutting-edge biomedical research technologies by scientists across our discovery portfolio. 360 Labs delivers core scientific technologies, expertise and enabling activities, as well as facilitating knowledge sharing in close collaboration with our therapeutic areas and functions. Our ambition is to bring to life a thriving workplace environment, where your collaborative mindset is as valued as your professional expertise. Our goal is to act as a highly integrated ecosystem, supporting research and development, working collaboratively, and focused on fostering excellence and sustainability. Together, these efforts will serve to increase the speed, enhance the robustness and improve the sustainability of our exploratory research and early discovery activities.\n\nThe Opportunity\n\nThe Microscopy Technology Platform in the 360 Labs Chapter is seeking an experienced, highly motivated, collaborative, and customer-centric lab-based senior scientist. The successful candidate will have a strong theoretical and practical background in the use of state-of-the-art optical microscopy techniques. Candidates with a solid understanding of how to best design and execute optical microscopy-based assays as applied to a variety of 2D and 3D sample types (including complex cell and organoid cultures and fixed cell/tissue preparations) are strongly desired. You will work with a sense of urgency as part of a matrix team, collaborating with specialists from each of our therapeutic disease areas and functions to advance early drug discovery programs, and you will also contribute to the ongoing development and operations of the Microscopy Technology Platform within the pRED organisation.\n\nYour Role and Responsibilities:\n\nYou will provide in-depth training to platform users in the appropriate use of both optical microscope instrumentation and fluorescence-based microscopy approaches;\nYou will support platform users in the planning, development, execution, and validation of both routine and custom workflows concerning fluorescence microscopy-based assays and experiments, as well as engage with stakeholders to present and discuss findings in a dynamic and flexible manner;\nYou will ensure the continued production of high-quality FAIR research data by performing regular quality control and troubleshooting of optical microscopy instruments and workflows;\nYou will embrace a continuous learning mindset by actively engaging with the scientific literature to stay abreast of emergent technologies/approaches in the advanced optical microscopy field.\n\nWho You Are\n\nYou hold an MSc or PhD degree in biology, chemistry or physics, with either 5+ or 3+ years of experience, respectively, focused on fluorescence-based optical microscopy approaches, either in an academic research laboratory/core facility setting and/or the pharmaceutical industry/biotech sector;\nYou possess in-depth theoretical and proven hands-on knowledge in a variety of optical microscopy techniques and their adaptation across various biological sample types. Specifically, robust experience in the use of widefield, confocal microscopy (both laser-scanning and live-cell spinning disk) as well as multi-photon/label-free imaging is required. Further experience with super-resolution imaging, fluorescence lifetime Imaging, and feedback microscopy workflows is highly desired;\nYou have a proven ability to collaborate within and across matrix teams, including molecular biologists, microscopists, research histopathologists, and image analysis experts, educating scientists on optical microscopy instruments and workflows, as well as in designing experiments based on complex research questions, including interpretation of results.\n\nIn addition to your scientific expertise and critical technical skills, we are looking for candidates who are:\n\nCustomer-focused with a drive for growth and a questioning mindset. Skilled in creative problem-solving, organisation, and implementing innovative ideas efficiently in a fast-paced research context; \nExcellent communicators with a high fluency in English, a desire to continuously build a personal network, and the ability to thrive in a dynamic, inclusive environment which gives you full accountability for your own contributions and development.\n\nAt Roche, we aim high to deliver life-changing healthcare solutions. If you’re ready to make a meaningful impact on patients and healthcare systems worldwide, this is the place for you.\n \n \n\nWho we are\nA healthier future drives us to innovate. Together, more than 100’000 employees across the globe are dedicated to advance science, ensuring everyone has access to healthcare today and for generations to come. Our efforts result in more than 26 million people treated with our medicines and over 30 billion tests conducted using our Diagnostics products. We empower each other to explore new possibilities, foster creativity, and keep our ambitions high, so we can deliver life-changing healthcare solutions that make a global impact.\n\nLet’s build a healthier future, together.\n\nRoche is an Equal Opportunity Employer.",
+    "external_url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Lab-Scientist--Microscopy_202610-125638-1",
+    "status": "matched",
+    "title": "Lab Scientist, Microscopy",
+    "company": "Roche",
+    "location": "Basel",
+    "posted_date": "2026-10-19",
+    "department": "",
+    "score": 2,
+    "matched_keywords": [
+      "MSc",
+      "PhD",
+      "drug discovery",
+      "organoid"
+    ],
+    "deducted_keywords": [
+      "clinical operations"
+    ]
   }
 }
