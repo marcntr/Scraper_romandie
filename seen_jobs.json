@@ -385,7 +385,7 @@
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-10-12"
+    "cached_at": "2026-10-20"
   },
   "_facets:onehealthineers:SHSJB": {
     "facets": {},
@@ -918,7 +918,7 @@
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-10-12"
+    "cached_at": "2026-10-20"
   },
   "_generic:Bio-Rad": {
     "keywords": "npp"
@@ -978,7 +978,7 @@
     "title": "Application Development Scientist – Reagents (12 months fixed-term contract)",
     "company": "Bio-Techne / Lunaphore",
     "location": "Tolochenaz, Switzerland",
-    "posted_date": "2026-09-19",
+    "posted_date": "2026-09-20",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1155,11 +1155,6 @@
     ],
     "deducted_keywords": []
   },
-  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000150614001": {
-    "description": "Vous prenez en charge une patientèle traitée par transplantation de cellules souches hématopoïétiques ainsi que des problèmes hématologiques comme des leucémies aiguës, des lymphomes et autre hémopathies malignes et bénignes.\nVous garantissez des prestations médicales de qualité, tant sur le plan clinique et administratif qu'organisationnel.\nVous contribuez à la formation des médecins stagiaires.\nEn parallèle à votre activité, vous avez la possibilité de bénéficier d'une formation post-graduée de qualité contribuant à l'obtention du titre de spécialiste en hématologie.\nEn tant que centre de référence de Suisse romande pour la transplantation allogénique de cellules souches hématopoïétiques ainsi que la coordination de deux boards institutionnels pour la prise en charge des patientes et patients atteints d’hémopathies du canton de Genève, nous vous offrons l'opportunité de prendre en charge tout le spectre des pathologies de l’hématologie clinique (malin et bénin).\nVous êtes intégrés ou intégrées au sein d’une équipe dynamique composée de 15 médecins séniors et 7 médecins internes.",
-    "external_url": "https://jobs.smartrecruiters.com/HUG/744000150614001-medecin-interne-au-service-d-hematologie-100-?oga=true",
-    "status": "matched"
-  },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000150954584": {
     "description": "Introduction:\nThe CERN Staff Association (SA) is committed to promoting the welfare of CERN personnel through a wide range of services and initiatives. Among these is the Jardin des Particules (JDP), an early childhood education and childcare facility located at CERN, welcoming children from 4 months to 10 years old.\nWe are looking for an experienced Administrative Assistant to play a central role in the day-to-day administration and management of the Jardin des Particules. This is a varied position combining human resources administration, financial management and operational coordination within a Swiss employment framework.\nIf you enjoy taking ownership of diverse administrative responsibilities, have solid knowledge of Swiss employment administration and thrive in an international environment, then join the CERN Staff Association and contribute to an essential service for the CERN community.\nFunctions:\nAs an Administrative Assistant in the CERN Staff Association, you will report directly to the Presidents of the Staff Association and work closely with the Management Committee of the Jardin des Particules, external service providers and the Staff Association Secretariat.\nYour primary responsibility will be to ensure the efficient administrative, human resources and financial management of the Jardin des Particules.\nYour main responsibilities will include:\nManaging the full administrative lifecycle of JDP employees, including recruitment administration, employment contracts, amendments, onboarding and departures.\nCoordinating payroll administration with the external fiduciary and ensuring the accuracy of salary-related information.\nManaging personnel administration in accordance with Swiss employment legislation, including social insurance, pension schemes (LPP), employment contracts, leave management and other statutory obligations.\nActing as the main administrative contact for JDP staff on employment-related matters.\nMonitoring the JDP budget, processing invoices and payments, maintaining accounting records and supporting financial reporting.\nPerforming financial monitoring and analysis to support sound budget management.\nLiaising with external partners including the fiduciary, insurance providers and public authorities when required.\nPreparing communication and promotional material for the Jardin des Particules and supporting its visibility within the CERN community.\nContributing to the continuous improvement of administrative and financial processes.\nIn addition, you will provide occasional support to the Staff Association Secretariat by welcoming visitors and responding to general enquiries.",
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000150954584-administrative-assistant-hr-sa-2026-197-ld-?oga=true",
@@ -1194,29 +1189,9 @@
       "location:Region Ostschweiz, Switzerland"
     ]
   },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000152087269": {
-    "description": "In preparation for the High-Luminosity LHC phase, the CMS collaboration is working on an ambitious upgrade of the first stage of its online selection system, the Level-1 (L1) trigger. The upgraded system will use powerful FPGA processors connected through a high-bandwidth network, paving the way for more sophisticated online algorithms such as Particle Flow reconstruction.\nBy joining the team, you will contribute to the development of these algorithms, their implementation in firmware, and the evaluation of their physics performance.\nYour responsibilities:\nContribute to the development of algorithms for the CMS Level-1 (L1) trigger.\nIntegrate and maintain contributions from other developers to support collaborative project development.\nEvaluate the physics performance of the algorithms and contribute to the development of monitoring systems.\nParticipate in the hardware testing and installation of the upgraded trigger system.\nCollaborate closely with members of the CMS L1 trigger groups at CERN.\nPresent project progress and results at collaboration meetings, workshops, and international conferences.\nThis role includes team supervision responsibilities.\nYour profile:\nExperience in FPGA firmware development using HDL and High-Level Synthesis (HLS) tools.\nExperience in data analysis, preferably in the field of high-energy physics.\nPractical experience in developing and applying machine learning solutions to real-world problems.\nExperience with Continuous Integration (CI) and quality assurance techniques and tools.\nFamiliarity with trigger or data acquisition systems and their associated hardware, such as high-speed optical links, would be an advantage.\nSkills:\nProficiency in software development using C++, Python, and Git is required.\nKnowledge of data analysis tools and techniques, including ROOT and machine learning frameworks, is required.\nExperience with the following software and technologies would be an advantage: Vivado Design Suite, Vivado/Vitis High-Level Synthesis (HLS), GitLab, and continuous integration workflows.\nStrong collaborative skills and effective communication are essential.\nSpoken and written English, with a commitment to learn French.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nYou have a professional background in Physics (or a related field) and have either:\na Master's degree with 2 to 6 years of post-graduation professional experience;\nor a PhD with no more than 3 years of post-graduation professional experience.\nYou have never had a CERN fellow or graduate contract before.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000152087269-developer-for-the-cms-level-1-trigger-ep-cms-tdq-2026-157-grap-?oga=true",
-    "status": "matched"
-  },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000152088859": {
-    "description": "You will join the LHCb Technical Coordination section of the LHCb group. You will be part of the LHCb design office, contributing to the CAD modelling of the LHCb detector and helping to develop LHCb digital mock-up and digital twin methodologies that will support installation planning, maintenance, and operation for the next milestones of the experiment.\nYour responsibilities\nContribute to the conceptual design and development of mechanical systems.\nCollaborate with physicists, engineers, and technicians to translate conceptual requirements into practical engineering solutions.\nProduce engineering documentation, technical specifications, 3D models, and manufacturing drawings.\nSupport the manufacturing, assembly, testing, and installation of equipment.\nMore information here.\nYour profile\nInitial experience in designing mechanical components and assemblies using 3D CAD software.\nKnowledge of CATIA V5, PDM/PLM environments, or structured engineering data management; familiarity with these tools is considered an advantage.\nExposure to the machining of parts, assembly, and testing of mechanical systems is considered an advantage.\nFamiliarity with 3D scanning, reverse engineering, or digital twin concepts is considered an advantage.\nSkills\nMandatory:\nAbility to work effectively in an international, multidisciplinary team with physicists, engineers, and technicians.\n3D CAD modelling and 2D drafting skills, preferably using CATIA V5 (or an equivalent CAD system, with a willingness to learn CATIA).\nGood knowledge of mechanical drawing standards, dimensioning and tolerancing (ISO GPS), materials, and manufacturing processes.\nOptional:\nBasic programming skills, ideally in JavaScript and/or Python.\nInterest in or experience with 3D web visualisation technologies (e.g. Three.js, WebGL, and the glTF format).\nLanguage skills:\nSpoken and written English or French, with a commitment to learn the basics of the other language.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nBy the application deadline, you have a maximum of two years of professional experience since graduation in Mechanical Engineering (or a related field) and your highest educational qualification is either a Bachelor's or Master's degree.\nYou have never had a CERN fellow or graduate contract before.\nApplicants without University degree are not eligible.\nApplicants with a PhD are not eligible.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000152088859-mechanical-design-engineer-for-lhcb-ep-lcb-tc-2026-233-grae-?oga=true",
-    "status": "matched"
-  },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000152082399": {
-    "description": "You will support day-to-day logistics operations, coordinate activities and projects in the field with various stakeholders, and follow up on continuous improvement initiatives related to services and infrastructures. As part of the Logistics Operations team, you will combine administrative tasks with practical follow-up in the field, supporting a wide range of logistics services for the CERN community, including Goods Reception and Expedition, Internal Delivery, Stores, Storage and Mail Services.\nYour responsibilities\nSupport day-to-day logistics operations, including inventory management and process optimisation.\nCoordinate operations-related projects and activities in the field with various stakeholders and contractors, and follow up on agreed actions.\nFollow up on logistics infrastructure-related tasks and contribute to continuous improvement initiatives related to services and infrastructures.\nSupport the collection of supply chain operational data, reporting and KPI monitoring.\nYour profile\nFirst experience in Operations, Logistics, Supply Chain or a related field, supporting day-to-day operational activities.\nFirst exposure to inventory management, process optimisation and continuous improvement initiatives.\nStrong interest in combining administrative tasks with practical follow-up of operational activities in the field.\nSkills\nKnowledge of logistics, warehouse or inventory management processes, with an interest in continuous improvement and operational excellence.\nGood organisational skills and ability to follow up on operational tasks and coordinate activities with different stakeholders.\nGood knowledge of MS Office tools, with strong interpersonal and team collaboration skills.\nSpoken and written English or French, with a commitment to learn the other language.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nBy the application deadline, you have a maximum of two years of professional experience since graduation in Bachelor/Master of Supply Chain (or a related field) and your highest educational qualification is either a Bachelor's or Master's degree.\nYou have never had a CERN fellow or graduate contract before.\nApplicants without University degree are not eligible.\nApplicants with a PhD are not eligible.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000152082399-junior-field-operations-coordinator-sce-ssc-sc-2026-232-grae-?oga=true",
-    "status": "matched"
-  },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000152079731": {
     "description": "You will support day-to-day logistics operations and contribute to continuous improvement initiatives, leveraging digital tools and systems to enhance operational performance, improve data visibility and support decision-making. As part of the Logistics Operations team, you will contribute to efficient and sustainable supply chain solutions across a wide range of services supporting CERN's community, including Goods Reception and Expedition, Internal Delivery, Stores, Storage and Mail Services.\nYour responsibilities\nSupport logistics operations, including inventory management and process optimisation.\nImprove data visibility through technical tools such as Power BI and ERP systems, and contribute to KPI monitoring and reporting.\nContribute to the implementation of efficient and sustainable supply chain solutions and systems and to continuous improvement initiatives.\nCoordinate operations-related projects with various stakeholders and contractors.\nYour profile\nFirst experience in Supply Chain Operations and Logistics, including inventory management, process optimisation and continuous improvement initiatives.\nFirst exposure in project management, data analytics and visualisation, using tools such as Power BI, Excel or ERP systems.\nExperience working within a multinational team.\nSkills\nGood knowledge of Power BI, advanced Excel, ERP systems and data visualisation for KPI development and reporting.\nKnowledge of continuous improvement, operational excellence, inventory and warehouse management.\nStrong interpersonal skills and team collaboration. Ability to work autonomously.\nSpoken and written both English and French.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nBy the application deadline, you have a maximum of two years of professional experience since graduation in Supply Chain (or a related field) and your highest educational qualification is either a Bachelor's or Master's degree.\nYou have never had a CERN fellow or graduate contract before.\nApplicants without University degree are not eligible.\nApplicants with a PhD are not eligible.",
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000152079731-junior-supply-chain-system-professional-sce-ssc-sc-2026-231-grae-?oga=true",
-    "status": "matched"
-  },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000152115319": {
-    "description": "Join CERN's Vacuum, Surfaces and Coatings Group and contribute to engineering projects supporting the Large Hadron Collider (LHC) experiments.\nAs a Mechanical Engineer in the Experimental Vacuum team, you will work on the design, development, production and testing of ultra-high vacuum equipment around the ATLAS, ALICE, CMS and LHCb experiments.\nYou will take part in projects from initial engineering concepts through design, simulation and prototyping to testing, installation and operational follow-up. Working alongside engineers, technicians and specialists from other disciplines, you will gain hands-on experience with complex mechanical systems in a unique scientific environment.\nYour responsibilities\nDesign and develop precision mechanical equipment for ultra-high vacuum applications.\nCreate 3D CAD models and perform structural, thermal and modal analyses to validate designs.\nFollow projects through design, prototyping, manufacturing, assembly and testing.\nPlan and carry out laboratory tests, including leak detection, residual gas analysis and vacuum performance measurements.\nWork with CERN workshops, suppliers and technical teams to support production and quality control.\nContribute to the installation, commissioning and improvement of vacuum equipment for the LHC experiments.\nCollaborate across engineering disciplines to solve technical challenges and deliver reliable solutions.\nYour profile\nMechanical design and CAD (CATIA, Autodesk Inventor, SolidWorks or similar).\nEngineering simulation and analysis (ANSYS or similar).\nPrecision mechanics, manufacturing, assembly or testing.\nVacuum technology or laboratory environments.\nExperience with ultra-high vacuum systems, leak detection or residual gas analysis is an advantage, but you do not need experience in all these areas.\nSkills\nGood foundation in mechanical engineering and design.\nInterest in developing expertise in ultra-high vacuum and precision engineering.\nPractical, curious and solution-oriented approach.\nClear communication and commitment to high-quality engineering.\nSpoken and written English or French, with a commitment to learn the basics of the other language.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nYou have a professional background in Mechanical Engineering (or a related field) and have either:\na Master's degree with 2 to 6 years of post-graduation professional experience;\nor a PhD with no more than 3 years of post-graduation professional experience.\nYou have never had a CERN fellow or graduate contract before.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000152115319-mechanical-engineer-for-vacuum-technology-te-vsc-bvo-2026-155-grap-?oga=true",
     "status": "matched"
   },
   "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000152154391": {
@@ -2089,7 +2064,7 @@
     "title": "Postdoctoral Scientist – Vascularized Kidney Organoids (at the Institute of Human Biology (IHB))",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-19",
+    "posted_date": "2026-09-20",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -2109,7 +2084,7 @@
     "title": "\"Principal Scientist siRNA Design",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-19",
+    "posted_date": "2026-09-20",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2125,7 +2100,7 @@
     "title": "Senior/Principal Scientist - NMR Expert",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-19",
+    "posted_date": "2026-09-20",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2141,7 +2116,7 @@
     "title": "AI Scientist – AI-Driven Target Identification",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-09-19",
+    "posted_date": "2026-09-20",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -2160,7 +2135,7 @@
     "title": "Patent Attorney",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-09-19",
+    "posted_date": "2026-09-20",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -2173,7 +2148,7 @@
     "title": "Translational Medicine Director/Associate*- Cardiovascular & Metabolic",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-09-19",
+    "posted_date": "2026-09-20",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -2197,7 +2172,7 @@
     "title": "Translational Medicine Expert – Gastroenterology, Associate Director",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-09-19",
+    "posted_date": "2026-09-20",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -2214,7 +2189,7 @@
     "title": "Biomarker Therapeutic Area Head -Neuroscience",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-09-19",
+    "posted_date": "2026-09-20",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -2282,7 +2257,7 @@
     "title": "Business Development Manager (m/w/d) Neuromodulation – Schweiz",
     "company": "Abbott",
     "location": "Switzerland - Baar",
-    "posted_date": "2026-09-19",
+    "posted_date": "2026-09-20",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -2342,7 +2317,7 @@
     "title": "Director, Medical Affairs, Hemato-Oncology, Europe",
     "company": "BeiGene",
     "location": "Basel",
-    "posted_date": "2026-09-19",
+    "posted_date": "2026-09-20",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -2406,7 +2381,7 @@
     "title": "Business Development Director",
     "company": "KBI Biopharma",
     "location": "Switzerland - Plan-les-Ouates",
-    "posted_date": "2026-09-19",
+    "posted_date": "2026-09-20",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -2460,7 +2435,7 @@
     "title": "Lab Scientist, Microscopy",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-19",
+    "posted_date": "",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2472,11 +2447,6 @@
     "deducted_keywords": [
       "clinical operations"
     ]
-  },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000156254229": {
-    "description": "Work with us to evolve the CERN data storage systems used at the Large Hadron Collider (LHC) and at its international partners. CERN is the birthplace of the World Wide Web and one of the world’s leading laboratories for particle physics. Join the Storage and Data Management Group in CERN’s IT Department as a Distributed Storage Engineer for a unique challenge as the next step in your career. CERN, take part! The CERN IT Storage and Data Management group operates the core services used by both LHC and non-LHC experiments for data collection, archival, reconstruction, analysis, and global distribution via the Worldwide LHC Computing Grid. Join us to work on core data storage and management capabilities which enable scientific progress at CERN!\nAs a Distributed Storage Engineer, you will contribute to the design, evolution, and operation of large-scale, distributed critical storage services for the CERN cloud and computing infrastructures. You will join a team to work with open-source Ceph-based block, object, and filesystem solutions (including CephFS and NFS integrations), ensuring high availability, performance, and resilience across multi-datacenter environments.\nYour role will involve system-wide troubleshooting in a distributed Linux-based environment and optimising storage architectures for demanding workloads. You will use your C++ software development skills to help identify and troubleshoot issues with the Ceph code base and to contribute code improvements to the upstream open-source Ceph project when necessary.\nYou will have opportunities to learn and contribute to improving automation, deployment, and observability, aligned with modern DevOps practices, to participate in inspiring projects and new technologies such as storage for HPC and AI/ML and to engage with our international partners, participating to conferences and workshops.\nFunctions\nManagement and operations of distributed disk storage, block, object and filesystem services based on mainstream open-source technologies (Ceph)\nParticipate in the evolution of architecture and design of storage services for CERN and software-defined storage technology with Open Source\nIntegrate, troubleshoot and maintain distributed disk storage systems at scale, across multiple availability zones and data centres.\nContribute to documentation, development, optimisation and further automation of storage services.\nContribute to change management, incident response, and user support.\nLiaise with key stakeholders inside and outside of the IT department.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000156254229-distributed-storage-engineer-it-sd-gss-2026-96-ld-?oga=true",
-    "status": "matched"
   },
   "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000156315900": {
     "description": "En tant que responsable du secteur des Formations Spécialisées en Soins, vous définissez et déployez la stratégie du secteur en cohérence avec les orientations institutionnelles des HUG et du Centre de formation et de développement.\nVous assurez la direction d'une équipe d’une vingtaine de chargés et chargées de formation dont le rôle est de concevoir et dispenser les programmes de formation et du même nombre de chargées et chargés d’encadrement sur des lieux cliniques de formation. Vous accompagnez leur développement professionnel, encouragez l’autonomie et la prise de responsabilité. Vous instaurez un environnement de travail collaboratif, innovant et orienté vers la qualité de service, tout en accompagnant les équipes dans les différentes transformations organisationnelles.\nVous garantissez la conformité des programmes avec les exigences réglementaires, normatives et professionnelles en vigueur et supervisez les démarches de reconnaissance, de certification et d'audit.\nVous veillez à la qualité pédagogique des formations, vous assurez leur évaluation et l'actualisation régulière des cursus par votre équipe, afin d'intégrer les évolutions des pratiques de soins et des référentiels de formation.\nEn collaboration avec les équipes du développement pédagogique du CFD, vous faites évoluer les méthodes pédagogiques et les outils de formation pour intégrer les innovations et les meilleures pratiques du domaine.\nMembre de la direction du Centre, vous travaillez en étroite collaboration avec la cheffe de service et les autres membres de la direction. Grâce à votre connaissance du domaine de la formation et à votre expérience de l'accompagnement des organisations et de la conduite du changement, vous contribuez aux réflexions stratégiques, aux missions et aux projets du CFD, ainsi qu'à la promotion d'une culture apprenante au sein de l'institution.\nVous développez et entretenez des partenariats stratégiques avec les acteurs internes et externes, en particulier avec la Direction des soins, la HES pour les CAS et DAS conduits en collaboration, ainsi qu'avec les autres partenaires académiques et de formation. Vous représentez le secteur et le CFD auprès des instances institutionnelles et professionnelles, et participez aux comités de pilotage et autres commissions.",
@@ -2564,7 +2534,7 @@
     "title": "Scientist – Oligonucleotide Chemistry & Innovation",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-19",
+    "posted_date": "",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2580,7 +2550,7 @@
     "title": "Senior Scientist in Process Chemistry & Catalysis",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-19",
+    "posted_date": "",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2596,7 +2566,7 @@
     "title": "Associate Principal Scientist / Bioanalytical Expert 80-100% (f/m/d)",
     "company": "Lonza",
     "location": "CH - Basel",
-    "posted_date": "2026-10-19",
+    "posted_date": "",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -2609,7 +2579,7 @@
     "title": "Scientist Analytical Development 80-100 (f/m/d)",
     "company": "Lonza",
     "location": "CH - Basel",
-    "posted_date": "2026-10-19",
+    "posted_date": "",
     "department": "",
     "score": 1,
     "matched_keywords": [
