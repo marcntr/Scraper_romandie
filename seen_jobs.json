@@ -1060,18 +1060,6 @@
     "external_url": "https://jobs.smartrecruiters.com/Sobi/744000148941430-global-pv-partnership-operations-director?oga=true",
     "status": "matched"
   },
-  "https://gloorlang.starhunter.software/Headhunter/project/job-ad/hash/6a6b16a7042f3": {
-    "external_url": "https://gloorlang.starhunter.software/Headhunter/project/job-ad/hash/6a6b16a7042f3",
-    "status": "ignored",
-    "title": "Associate Director / Senior Regulatory Affairs",
-    "company": "Gloor & Lang",
-    "location": "Basel, Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": 0,
-    "matched_keywords": [],
-    "deducted_keywords": []
-  },
   "https://gloorlang.starhunter.software/Headhunter/project/job-ad/hash/68b5a83b99a4d": {
     "external_url": "https://gloorlang.starhunter.software/Headhunter/project/job-ad/hash/68b5a83b99a4d",
     "status": "ignored",
@@ -1294,11 +1282,6 @@
   "https://api.smartrecruiters.com/v1/companies/Sobi/postings/744000153753715": {
     "description": "The Regional Medical Excellence Associate Director/Director will be dedicated to the Region Europe, and main responsibilities are as follows:\nContribute to the development of the Europe Region Medical strategies and tactics\nProvide European Medical team with relevant insights, medical practice understanding, and stakeholder needs to develop and update the KOL engagement plan with high value scientific programs\nWork with country teams to standardize and drive excellence in the planning and execution of medical activities. This can include Evidence Generation and Dissemination, Field Medical Training, Launch Planning, Scientific Activities Coordination\nConsolidate dashboards, monitor KPIs and metrics, elaborate launch reports; provide actionable insights and recommendations to ensure launch readiness.\nSupport country Medical Director Identifying areas of improvement and efficiency, people development, skills and capability uplift.\nSupport the learning and development team in developing training programs, personal development plans, to meet key business objectives\nSupport the Region in setting up the regional tactical medical plan, scientific objectives and priorities\nActively participates in cross functional initiatives (e.g. commercial, medical and PACE, etc…) as the voice of the regional stakeholders needs.\nSupport the Region in due diligence activity & Global B&D programs in close collaboration with the head of Region and Global B&D cross functional team",
     "external_url": "https://jobs.smartrecruiters.com/Sobi/744000153753715-regional-medical-excellence-associate-director-director?oga=true",
-    "status": "matched"
-  },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000153737459": {
-    "description": "We are looking for a full-stack software developer with DevOps experience. In this role, you will be a member of the Web, DevOps and Authoring section in the IT-PW group.\nWe have been consolidating all Web hosting services on our Platform as a Service (PaaS) infrastructure based on OpenShift/OKD4, including the supported CERN Web Content Management Systems (Drupal, WordPress). By joining us, you will support and contribute to the continuous improvement of .CERN top-level domain management and hosting.\nCERN is managing its own top level internet domain. This generic top-level domain (gTLD) is used for hosting highly visible public websites such as CERN, Careers, openlab, etc.\nYour responsibilities:\nSupporting and further integration of the handling of the top-level domain .CERN, including the process of certificate procurement and automation of certificate renewal.\nImplementation of features for the CERN Web infrastructure services, including the Web Services Portal and dedicated functionality such as information retrieval from .CERN sites and extensions to the hosting mechanisms used for .CERN sites.\nYour profile:\nExperience with full-stack software development.\nExperience with version control systems and CI/CD workflows.\nExperience with container orchestration platforms such as Kubernetes / OpenShift is a plus.\nStrong problem-solving and analytical skills, with a proactive mindset to identify challenges and drive innovative solutions.\nGood communication and collaboration skills, with ability to work effectively within cross-functional teams.\nStrong commitment to user satisfaction, actively seeking feedback and collaborating with users to continuously improve services.\nSkills:\nProgramming in Python, JavaScript, React.\nKnowledge of Web protocols and technologies (including certificates).\nGit, CI/CD tools, test and deployment automation.\nKnowledge of Web Content Management Systems would be an asset.\nLinux and Bash scripting.\nExperience with Kubernetes and/or OpenShift/OKD container technology is a plus.\nSpoken and written English, with a commitment to learn French.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nBy the application deadline, you have a maximum of two years of professional experience since graduation in Software or computer engineering (or a related field) and your highest educational qualification is either a Bachelor's or Master's degree.\nYou have never had a CERN fellow or graduate contract before.\nApplicants without University degree are not eligible.\nApplicants with a PhD are not eligible.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000153737459-full-stack-web-engineer-it-pw-wda-2026-108-grae-?oga=true",
     "status": "matched"
   },
   "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000153776398": {
@@ -1603,11 +1586,6 @@
   "https://api.smartrecruiters.com/v1/companies/Sobi/postings/744000155177621": {
     "description": "As a E2E Supply Planning Manager you will be responsible for the end-to-end supply planning of a product portfolio (DS-DP-FG), acting as a recognized subject matter expert within Global E2E Supply Planning. Accountable for independently balancing supply, demand, inventory, capacity, business integration, technology transfer activities, working capital governance, and business risk to ensure long-term supply continuity and optimal business performance. Expected to drive advanced and complex planning process improvement, innovation in partnering with suppliers and systems, scenario-based decision making, working capital initiatives, and cross-functional alignment, while influencing internal and external stakeholders at an operational, tactical and strategic planning level.\nBased at our Stockholm headquarters or global hub in Basel, you will join the End to End Supply team and report to the Head of E2E Supply Planning. We offer a hybrid working model that combines collaboration and flexibility.\nWhat you will do\nCreate and own balanced end-to-end supply plans across finished goods, drug product and drug substance for both commercial and clinical demand.\nTranslate market demand into capacity and supply requirements, identifying scenarios, risks and practical solutions when supply and demand cannot be fully balanced.\nLead volume, inventory and long-range planning for your portfolio, including forecasts, budgets, safety-stock assessments and scenario planning.\nManage replenishment and inventory performance across assigned products and markets, with a strong focus on service levels, stock targets, cost accuracy, waste and delivery performance.\nMonitor supply chain KPIs and inventory development, taking early action and building mitigation plans for potential shortages, out-of-stock situations or other deviations.\nPlay an active role in Product Teams and the monthly S&OP process, leading supply-related discussions and helping deliver a balanced, executable plan.\nPartner closely with Finance and other functions to ensure accurate and timely reporting of supply chain costs, transactions, inventory reconciliation and scrapping.\nSupport product lifecycle and insurance-baseline planning while maintaining accurate and reliable master data in IFS.\nContinuously improve supply planning processes, ways of working and team performance.",
     "external_url": "https://jobs.smartrecruiters.com/Sobi/744000155177621-e2e-supply-planning-manager?oga=true",
-    "status": "matched"
-  },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000155419365": {
-    "description": "You will contribute to developing, deploying, and maintaining the application supporting the Open Research Europe publishing platform based on Open Journal Systems (OJS). Working under the guidance of a senior engineer, you will develop, test, and operate the platform and its integrations to ensure secure and reliable service delivery in close collaboration with the business and editorial operations team.\nYour responsibilities:\nContribute to developing the OJS application and plugins, testing integrations with external services.\nContribute improvements to open-source projects such as OJS and related components.\nAssist in the deployment and maintenance of the Open Research Europe infrastructure using Kubernetes/OpenShift and automated CI/CD workflows.\n Participate in system testing, performance checks, documentation of procedures, and day-to-day operational support.\nYour profile:\nDemonstrated experience in developing web applications, in particular PHP and Laravel stack.\nFamiliarity with Open Journal Systems (OJS) source code, plugin system and workflows will be a plus.\nExperience with containerised infrastructure and orchestration tools (Kubernetes or OpenShift), and knowledge of system administration, CI/CD pipelines, and infrastructure automation (e.g. Helm, GitLab CI) will be a plus.\nStrong problem-solving and communication skills, with an interest in open-source development and collaborative work.\nSkills:\nScripting and integrations: PHP, Python & MySQL.\nWeb platform management: Open Journal Systems (OJS) or similar.\nDeployment, Infrastructure and Containers orchestration: CI/CD, Docker, Helm, Kubernetes / OpenShift (Container orchestration).\nSpoken and written English, with a commitment to learn French.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nBy the application deadline, you have a maximum of two years of professional experience since graduation in Software Engineer or Computer Science (or a related field) and your highest educational qualification is either a Bachelor's or Master's degree.\nYou have never had a CERN fellow or graduate contract before.\nApplicants without University degree are not eligible.\nApplicants with a PhD are not eligible.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000155419365-software-and-infrastructure-engineer-it-ca-osi-2026-213-grae-?oga=true",
     "status": "matched"
   },
   "https://careers.ompharma.com/job/Meyrin-Regulatory-Affairs-Operations-Trainee-Geneva-Gene/1446737333/": {
@@ -2609,5 +2587,38 @@
       "in vitro"
     ],
     "deducted_keywords": []
+  },
+  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000156563269": {
+    "description": "ARIA/CAiMIRA is a joint WHO-CERN project that models the airborne transmission of respiratory pathogens and develops an automated, structured, and transparent systematic literature review process to inform public health policy and guidance. It builds on CERN's expertise in data management and knowledge systematisation. The planned second phase will extend the project to other airborne pathogens and to indoor air quality.\nWork Package 4, \"NLP Mechanisms for Systematic Literature Reviews,\" will continue automating the systematic review process and associated data analysis using AI-based methods. Within this work package, the QUEST graduate will spend 12 months bringing the NeutrinoReview prototype to production.\nYour responsibilities:\nDesign the architecture and concept for the production version of NeutrinoReview.\nEstablish a detailed development roadmap with clear milestones.\nDevelop guidelines for the safe and responsible integration of AI into systematic review workflows.\nRelease NeutrinoReview as a production-ready, general-purpose tool for domains beyond public health, including IT and physics.\nYour profile:\nExtensive experience in ML/NLP-based data science.\nStrong expertise in systematic literature review workflows and methodologies.\nRecognised expertise in AI-assisted research tools.\nProficiency in full-stack development and DevOps practices.\nHands-on experience deploying applications on Kubernetes/OpenShift.\nSkills:\nProgramming: Advanced proficiency in Python, JavaScript and React.\nUI/UX: Design and development of intuitive, user-centred interfaces.\nSystematic reviews: Strong expertise in systematic literature review workflows and methodologies.\nAI/NLP: In-depth experience designing and deploying AI and NLP pipelines.\nDevOps: Solid working knowledge of DevOps practices, including CI/CD and containerisation.\nSpoken and written English, with a commitment to learn French.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nYou have a professional background in Data Science (or a related field) and have either:\na Master's degree with 2 to 6 years of post-graduation professional experience;\nor a PhD with no more than 3 years of post-graduation professional experience.\nYou have never had a CERN fellow or graduate contract before.",
+    "external_url": "https://jobs.smartrecruiters.com/CERN/744000156563269-aria-literature-review-ai-automation-it-pw-wda-2026-165-grap-?oga=true",
+    "status": "matched"
+  },
+  "https://www.michaelpage.ch/job-detail/analytics-and-business-intelligence-analyst-12-month-contract/ref/jn-092026-7105923?ng-src=other-users-applied&ng-jn=job-search": {
+    "external_url": "https://www.michaelpage.ch/job-detail/analytics-and-business-intelligence-analyst-12-month-contract/ref/jn-092026-7105923?ng-src=other-users-applied&ng-jn=job-search",
+    "status": "matched",
+    "title": "Analytics and Business Intelligence Analyst - 12 month contract",
+    "company": "Michael Page Switzerland",
+    "location": "Switzerland",
+    "posted_date": "",
+    "department": "",
+    "score": -2,
+    "matched_keywords": [],
+    "deducted_keywords": [
+      "location:Switzerland"
+    ]
+  },
+  "https://www.michaelpage.ch/job-detail/data-and-market-intelligence-analyst/ref/jn-072026-7074770?ng-src=other-users-applied&ng-jn=job-search": {
+    "external_url": "https://www.michaelpage.ch/job-detail/data-and-market-intelligence-analyst/ref/jn-072026-7074770?ng-src=other-users-applied&ng-jn=job-search",
+    "status": "matched",
+    "title": "Data and Market Intelligence Analyst",
+    "company": "Michael Page Switzerland",
+    "location": "Switzerland",
+    "posted_date": "",
+    "department": "",
+    "score": -2,
+    "matched_keywords": [],
+    "deducted_keywords": [
+      "location:Switzerland"
+    ]
   }
 }
