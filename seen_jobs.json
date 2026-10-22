@@ -816,13 +816,13 @@
     "status": "ignored",
     "title": "Business Development Manager «Home Care» (w/m) 100%",
     "company": "Stettler Consulting",
-    "location": "Region Zuerich/Ostschweiz, Switzerland",
+    "location": "Region: Zuerich/Ostschweiz, Switzerland",
     "posted_date": "",
     "department": "",
     "score": -2,
     "matched_keywords": [],
     "deducted_keywords": [
-      "location:Region Zuerich/Ostschweiz, Switzerland"
+      "location:Region: Zuerich/Ostschweiz, Switzerland"
     ]
   },
   "https://www.stettlerconsulting.ch/en/current-vacancies/head-regulatory-medical-affairs-80-100-w-m/": {
@@ -830,7 +830,7 @@
     "status": "ignored",
     "title": "Head Regulatory & Medical Affairs (w/m) 80 – 100 %",
     "company": "Stettler Consulting",
-    "location": "Region Ostschweiz, Switzerland",
+    "location": "Region: Ostschweiz, Switzerland",
     "posted_date": "",
     "department": "",
     "score": -1,
@@ -838,7 +838,7 @@
       "medical affairs"
     ],
     "deducted_keywords": [
-      "location:Region Ostschweiz, Switzerland"
+      "location:Region: Ostschweiz, Switzerland"
     ]
   },
   "_generic:CDD Vault": {
@@ -995,13 +995,13 @@
     "status": "ignored",
     "title": "Quality & Regulatory Affairs Manager 80–100 %",
     "company": "Stettler Consulting",
-    "location": "Zuerich & Umgebung / Ostschweiz, Switzerland",
+    "location": "Region: Zuerich & Umgebung / Ostschweiz, Switzerland",
     "posted_date": "",
     "department": "",
     "score": -2,
     "matched_keywords": [],
     "deducted_keywords": [
-      "location:Zuerich & Umgebung / Ostschweiz, Switzerland"
+      "location:Region: Zuerich & Umgebung / Ostschweiz, Switzerland"
     ]
   },
   "https://www.stettlerconsulting.ch/en/current-vacancies/business-development-manager-inside-sales-manager-w-m-100/": {
@@ -1009,7 +1009,7 @@
     "status": "ignored",
     "title": "Business Development Manager & Inside Sales Manager (w/m) 100%",
     "company": "Stettler Consulting",
-    "location": "Basel, Mittelland, Switzerland",
+    "location": "Region: Basel, Mittelland, Switzerland",
     "posted_date": "",
     "department": "",
     "score": 0,
@@ -1137,13 +1137,13 @@
     "status": "ignored",
     "title": "Head Regulatory Affairs Medizintechnik (w/m) 80-100%",
     "company": "Stettler Consulting",
-    "location": "Region Ostschweiz, Switzerland",
+    "location": "Region: Ostschweiz, Switzerland",
     "posted_date": "",
     "department": "",
     "score": -2,
     "matched_keywords": [],
     "deducted_keywords": [
-      "location:Region Ostschweiz, Switzerland"
+      "location:Region: Ostschweiz, Switzerland"
     ]
   },
   "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000152154391": {
@@ -1390,7 +1390,7 @@
     "status": "ignored",
     "title": "Medical Advisor Nephrologie/ZNS 80-100% (w/m)",
     "company": "Stettler Consulting",
-    "location": "Deutschschweiz, Bern, Basel, Mittelland, Zuerich & Umgebung, Switzerland",
+    "location": "Region: Deutschschweiz, Bern, Basel, Mittelland, Zuerich & Umgebung, Switzerland",
     "posted_date": "",
     "department": "",
     "score": 0,
@@ -1536,11 +1536,6 @@
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000155289136": {
     "description": "Join CERN's EP-ESE-ME section in the development of a radiation-tolerant microcontroller ASIC for use in future particle physics detectors and accelerator systems. Operating in highly challenging radiation environments, these systems require robust and reliable embedded electronics.\nThe project is based on an open-source RISC-V processing core and the CERN SOCRATES (System-On-Chip Radiation-Tolerant Ecosystem) framework for fault-tolerant SoC design. The successful candidate will contribute to the full development cycle, from requirements definition and system architecture to implementation, verification, and post-silicon validation.\nYour responsibilities:\nAnalyse application requirements across CERN's accelerator complex and particle physics detector systems to define technical specifications for the microcontroller ASIC.\nContribute to the architecture, design, and validation of a radiation-tolerant microcontroller ASIC implemented in 65 nm or 28 nm CMOS technology.\nSupport the definition of the SoC architecture, including the selection and configuration of an appropriate RISC-V processing core.\nDesign, integrate, and validate peripheral IP blocks within the CERN SOCRATES framework.\nApply fault-tolerant design methodologies, including triple modular redundancy (TMR) and single-event upset (SEU) mitigation techniques.\nParticipate in design verification activities and physical implementation, from RTL development through to tapeout.\nContribute to post-silicon testing, characterisation, and validation following chip fabrication.\nYour profile:\nStrong understanding of digital logic design.\nSolid experience with digital IC design and RTL development (Verilog/SystemVerilog).\nFamiliarity with standard ASIC design flows (synthesis, place and route, timing closure).\nKnowledge of RISC-V architecture and its ecosystem.\nExperience with microcontroller-based embedded systems development, including firmware programming in C and peripheral interfacing.\nSkills:\nRTL design and simulation (Verilog / SystemVerilog).\nFamiliarity with the digital ASIC design flow, including synthesis, place-and-route, timing closure, and sign-off activities.\nKnowledge of fault-tolerant design techniques and radiation effects in CMOS circuits is an asset.\nMicrocontroller embedded systems development (firmware in C, peripheral interfacing, bare-metal programming).\nScripting and automation (Python or equivalent).\nLinux/Unix working environment.\nCuriosity and willingness to learn in a multidisciplinary environment.\nAbility to work independently as well as within a team.\nSpoken and written English, with a commitment to learn French.\nPlease provide at least 1 reference letter to support your application.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nYou have a professional background in Electronics Engineer (or a related field) and have either:\na Master's degree with 2 to 6 years of post-graduation professional experience;\nor a PhD with no more than 3 years of post-graduation professional experience.\nYou have never had a CERN fellow or graduate contract before.",
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000155289136-digital-asic-designer-ep-ese-me-2026-134-grap-?oga=true",
-    "status": "matched"
-  },
-  "https://api.smartrecruiters.com/v1/companies/Sobi/postings/744000155177621": {
-    "description": "As a E2E Supply Planning Manager you will be responsible for the end-to-end supply planning of a product portfolio (DS-DP-FG), acting as a recognized subject matter expert within Global E2E Supply Planning. Accountable for independently balancing supply, demand, inventory, capacity, business integration, technology transfer activities, working capital governance, and business risk to ensure long-term supply continuity and optimal business performance. Expected to drive advanced and complex planning process improvement, innovation in partnering with suppliers and systems, scenario-based decision making, working capital initiatives, and cross-functional alignment, while influencing internal and external stakeholders at an operational, tactical and strategic planning level.\nBased at our Stockholm headquarters or global hub in Basel, you will join the End to End Supply team and report to the Head of E2E Supply Planning. We offer a hybrid working model that combines collaboration and flexibility.\nWhat you will do\nCreate and own balanced end-to-end supply plans across finished goods, drug product and drug substance for both commercial and clinical demand.\nTranslate market demand into capacity and supply requirements, identifying scenarios, risks and practical solutions when supply and demand cannot be fully balanced.\nLead volume, inventory and long-range planning for your portfolio, including forecasts, budgets, safety-stock assessments and scenario planning.\nManage replenishment and inventory performance across assigned products and markets, with a strong focus on service levels, stock targets, cost accuracy, waste and delivery performance.\nMonitor supply chain KPIs and inventory development, taking early action and building mitigation plans for potential shortages, out-of-stock situations or other deviations.\nPlay an active role in Product Teams and the monthly S&OP process, leading supply-related discussions and helping deliver a balanced, executable plan.\nPartner closely with Finance and other functions to ensure accurate and timely reporting of supply chain costs, transactions, inventory reconciliation and scrapping.\nSupport product lifecycle and insurance-baseline planning while maintaining accurate and reliable master data in IFS.\nContinuously improve supply planning processes, ways of working and team performance.",
-    "external_url": "https://jobs.smartrecruiters.com/Sobi/744000155177621-e2e-supply-planning-manager?oga=true",
     "status": "matched"
   },
   "https://careers.ompharma.com/job/Meyrin-Regulatory-Affairs-Operations-Trainee-Geneva-Gene/1446737333/": {
@@ -1976,38 +1971,6 @@
       "PhD",
       "preclinical"
     ],
-    "deducted_keywords": []
-  },
-  "/job/Basel-City/AI-Scientist---AI-Driven-Target-Identification_REQ-10084379-2": {
-    "description": "Salary Range:CHF78,400.00 - CHF145,600.00\n\n \nJob Description SummaryLocation: Basel or Cambridge\nOnsite\n\nRelocation is offered for this role.\n#LI-Onsite\n\nThe Oncology Data Science team in Biomedical Research at Novartis works at the intersection of oncology drug discovery, computational biology, AI/ML, and data engineering. We are seeking an enthusiastic AI/ML scientist with strong curiosity for AI-driven drug discovery to join the AI & Innovation team.\nThis role will apply advanced AI approaches to generate insights from complex multi-modal datasets and advance our target and biomarker discovery efforts.\n\n \nJob Description\n Key responsibilities:\nDesign, develop, implement and apply advanced machine learning algorithms, AI models, and platforms to enable the delivery of predictive insights from pre-clinical, clinical and real-world evidence datasets.\nDemonstrate value of innovative AI techniques in the context of drug target identification, biomolecular interaction modeling, drug development and biomarker discovery.\nWork with foundational models, including pre-trained, self-supervised, multi-purpose, and multi-modal models to advance generative AI applications in drug discovery.\nCollaborate with cross-functional teams to develop and adopt best practices for ML-ready data.\nContribute to scientific publications and present results at internal and external scientific conferences.\n\nRequirements:\n\nPh.D. in Machine Learning, Computer Science, Applied Mathematics, Computational Biology or related field.\nStrong experience in one or more of the following areas: generative AI, biomedical foundation models, geometric deep learning, multi-modal learning, and large-scale knowledge graphs.\nExcellent programming skills and proficiency in deep learning frameworks such as PyTorch, with openness to learning new tools and technologies.\nPractical experience across ML and LLM software stack, including feature engineering, model development, deployment, and validation.\nPrior experience working with omics data and familiarity with oncology drug development.\nExcellent communication skills, with the ability to communicate complex data insights and recommendations to cross-functional teams.\nDemonstrated strong research skills, evidenced by publications in top-tier ML/AI conferences and/or leading scientific journals.\n\nRewards \nAt Novartis, we’re committed to reimagining medicine together - and rewarding the people who make it happen. \n\nThe rewards of being part of our team go far beyond base pay and incentives. We also offer a variety of competitive benefits in kind to help you thrive personally and professionally, such as insurance plans, retirement plans, wellbeing resources and global recognition programs. In addition, we provide flexible and hybrid working options, where possible, and a minimum of 14 weeks paid parental leave. \n\nExpected Annual Base Salary Range for role: \nSwitzerland: 78,400.00 - 145,600.00 CHF Annual\n\nThe salary offered is determined based on gender-neutral objectives, such as relevant skills, competencies and experience in accordance with the Novartis pay setting policy and upon joining Novartis will be reviewed periodically.  \n\nIn addition to your base salary, you may be eligible for a performance-based bonus depending on certain performance parameters. Further details will be provided during the application process.  \n\nPay equity is a fundamental principle of our employment policy and reflects our commitment to create a diverse, equitable and inclusive environment that treats all employees with dignity and respect, as outlined in our Code of Ethics. \n\nRead our brochure to learn more about our global total rewards offering: https://www.novartis.com/sites/novartis_com/files/novartis-life-handbook.pdf  \nNote: Benefits and compensation may vary by country and are subject to local legal requirements, including provisions of collective bargaining agreements where applicable. A full overview of your compensation package, including any relevant collective bargaining agreement details applicable to your role based on your employment location and Novartis employer entity, will be communicated separately to you during the application process.    \n\nCommitment to Diversity and Inclusion / EEO paragraph: \nNovartis is committed to building an outstanding, inclusive work environment and diverse teams’ representative of the patients and communities we serve. \n\nWhy Novartis: Helping people with disease and their families takes more than innovative science. It takes a community of smart, passionate people like you. Collaborating, supporting and inspiring each other. Combining to achieve breakthroughs that change patients’ lives. Ready to create a brighter future together? https://www.novartis.com/about/strategy/people-and-culture \nBenefits and Rewards: Read our handbook to learn about all the ways we’ll help you thrive personally and professionally: https://www.novartis.com/careers/benefits-rewards\n\n \nSkills DesiredBiostatistics, Curious Mindset, Data Governance, Data Literacy, Data Quality, Data Science, Data Visualization, Graph Algorithms, Learning Agility, Machine Learning (ML), Machine Learning Algorithms, Python (Programming Language), Statistical Analysis, Time Series Analysis",
-    "external_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Basel-City/AI-Scientist---AI-Driven-Target-Identification_REQ-10084379-2",
-    "status": "ignored",
-    "title": "AI Scientist – AI-Driven Target Identification",
-    "company": "Novartis",
-    "location": "Basel (City)",
-    "posted_date": "2026-09-22",
-    "department": "",
-    "score": 5,
-    "matched_keywords": [
-      "biomarker discovery",
-      "computational biology",
-      "drug development",
-      "drug discovery",
-      "oncology"
-    ],
-    "deducted_keywords": []
-  },
-  "/job/Basel-City/Patent-Attorney_REQ-10081840-1": {
-    "description": "Salary Range:CHF146,300.00 - CHF271,700.00\n\n \nJob Description Summary#LI-Hybrid\nLocation: Basel, Switzerland or Cambridge, United States (see separate posting)\n\nReady to shape the future of innovation at Novartis? As a Patent Attorney, you will play a pivotal role in protecting groundbreaking scientific discoveries and enabling life-changing medicines to reach patients worldwide. Partnering closely with R&D teams, you will drive strategic intellectual property decisions, build robust patent portfolios, and navigate complex legal landscapes to safeguard innovation across the product lifecycle.\n\n \nJob Description\nKey Responsibilities\nProvide clear, strategic, and business-focused counsel to Novartis R&D clients on invention protection, portfolio development, publication strategy, and third-party risks.\nBuild and manage patent portfolios for Novartis R&D projects by identifying inventions and preparing, prosecuting, maintaining, and defending patent filings across areas such as new molecular entities, processes, manufacturing, platforms, technologies, and clinical developments.\nRender legal opinions on patentability, validity, and freedom to operate, and develop patent strategies that strengthen IP positions, support freedom to operate, and enable effective IP defense.\nApply deep knowledge of national patent law and practice, including relevant legal developments and patent trends, to shape strategy and advice.\nUnderstand and apply other forms of exclusivity protection, as appropriate.\nCommunicate effectively with colleagues and leaders across the legal, IP, and R&D organizations.\nBuild and manage relationships with outside counsel and collaborators, including extensive interaction within a multicultural global patent function.\nConduct due diligence and provide counsel based on those assessments, including freedom-to-operate, infringement, validity, risk evaluation, and risk mitigation strategies.\nProvide IP support for transactional matters, including M&A, research collaborations, and in-licensing opportunities, with advice on contract drafting and negotiation\nEnsure high-quality, timely delivery of work aligned with business goals and budgets\n\nEssential Requirements\nUniversity degree in law, admission to the bar and qualification as a European Patent Attorney / Lawyer\nAdvanced degree in chemistry or related field, with strong preference for a doctoral degree\nSignificant experience as a patent attorney within a law firm or pharmaceutical or biotechnology environment\nStrong technical expertise in chemistry, preferably including experience with small molecules, synthesis, or pharmaceutical development.\nExpertise in U.S. and PCT patent law, filing processes, and prosecution practice, with a detailed understanding of European patent law and other major global patent systems\nProven ability to partner with scientific and business stakeholders to deliver strategic intellectual property advice\nStrong analytical, communication, and decision-making skills with high attention to detail\nAbility to manage multiple priorities effectively within a fast-paced, global environment\n\nBenefits & Rewards \n\nAt Novartis, we’re committed to reimagining medicine together - and rewarding the people who make it happen. \n\n  \n\nExpected Annual Base Salary Range for role: CHF 146.300 - CHF 271.700\n\n  \n\nThe base salary offered is determined based on gender-neutral objectives, such as relevant skills, competencies and experience in accordance with the Novartis pay setting policy and upon joining Novartis will be reviewed periodically. \n\n  \n\nThe rewards of being part of our team go far beyond base pay and incentives. We also offer a variety of competitive benefits in kind to help you thrive personally and professionally, such as insurance plans, retirement plans, wellbeing resources and global recognition programs. In addition, we provide flexible and hybrid working options, where possible, and minimum 14 weeks paid parental leave. \n\nIn addition to your base salary, you may be eligible for a performance-based bonus depending on certain performance parameters. Long-term equity awards granted at group level may also be part of your package. Further details will be provided during the application process.  \n\n  \n\nRead our brochure to learn more about our global total rewards offering: \n\nhttps://www.novartis.com/sites/novartis_com/files/novartis-life-handbook.pdf \n\n  \n\nNote: Benefits and compensation may vary by country and are subject to local legal requirements, including provisions of collective bargaining agreements where applicable. A full overview of your compensation package, including any relevant collective bargaining agreement details applicable to your role based on your employment location and Novartis employer entity, will be communicated separately to you during the application process. \n\nCommitment to Diversity and Inclusion:\nNovartis is committed to building an outstanding, inclusive work environment and diverse teams representative of the patients and communities we serve.\n\nAccessibility and Accommodation:\nNovartis is committed to working with and providing reasonable accommodation to all individuals. If, because of a medical condition or disability, you need a reasonable accommodation for any part of the recruitment process, or in order to receive more detailed information about the essential functions of a position, please send an e-mail to diversity.inclusion_ch@novartis.com and let us know the nature of your request and your contact information. Please include the job requisition number in your message. \n\n \nSkills Desired",
-    "external_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Basel-City/Patent-Attorney_REQ-10081840-1",
-    "status": "ignored",
-    "title": "Patent Attorney",
-    "company": "Novartis",
-    "location": "Basel (City)",
-    "posted_date": "2026-09-22",
-    "department": "",
-    "score": 0,
-    "matched_keywords": [],
     "deducted_keywords": []
   },
   "/job/Basel-City/Translational-Medicine-Director-Associate---Cardiovascular---Metabolic_REQ-10087155-1": {
@@ -2663,5 +2626,15 @@
       "drug development"
     ],
     "deducted_keywords": []
+  },
+  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000157168607": {
+    "description": "Introduction\nYou will plan, coordinate and oversee the infrastructure and services that ensure the efficient flow of goods and people to, from and within the Organization, in compliance with applicable safety rules and procedures. You will apply best practices and contribute to the continuous improvement of logistics and operational processes, covering areas such as warehouse and inventory management, goods reception, process optimisation, ERP-based operational follow-up, KPI monitoring and the supervision of subcontracted activities.\nFunctions\nPlan, coordinate and optimise the delivery of logistics and warehouse services, assisting operational teams, including the contractor’s team, in ensuring quality, safety and efficiency of logistics services.\nAct as interface between logistics actors, including warehouse teams, procurement, technical support and various service providers, maintaining regular communication with end users at CERN and ensuring a high level of customer service.\nMonitor operational and contractor performance, including KPIs, invoicing, payment controls, audits and related activities.\nOversee CERN Store replenishment activities in strong collaboration with the CERN Referencing team, and provide support on ERP-related questions and improvements.\nParticipate in and lead logistics-related projects in collaboration with internal and external stakeholders.",
+    "external_url": "https://jobs.smartrecruiters.com/CERN/744000157168607-logistics-support-officer-sce-ssc-sc-2026-211-ld-?oga=true",
+    "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000157094440": {
+    "description": "Introduction\nCERN’s scientific mission relies on the exchange of knowledge, technologies and equipment across borders. Ensuring that these exchanges meet export-control requirements is essential to managing risks and enabling responsible research.\nTo support a consistent, proportionate and risk-based approach to export-control compliance, CERN is establishing an internal compliance programme, centred on a new CERN Export Control Compliance Office.\nAs Export Control Compliance Lead, you will establish and lead the Export Control Compliance Office, developing the governance, policies and processes needed to embed this programme across the Organization.\nWorking within the Resilience team in OSI-ICS, you will conduct classifications, screenings, due diligence reviews, compliance assessments and export-control evaluations. You will provide expert advice to CERN Management on export-control and related regulatory risks, and work closely with legal, technical and operational experts to ensure effective implementation of export-control requirements.\nThis is an opportunity to shape a new compliance function at the intersection of science, advanced technology and international regulation.\nFunctions\nEstablish and lead CERN’s Export Control Compliance Office, developing and implementing the governance framework, policies, processes, guidance, tools and training needed to support a consistent, proportionate and risk-based approach to export-control compliance across the Organization.\nAct as CERN's central focal point for export-control compliance matters, advising personnel, promoting awareness, conducting classifications, screenings, end-user and end-use reviews, compliance assessments, determinations and other due diligence activities, and coordinating inputs as required.\nSupport and monitor the operational implementation of export-control requirements and decisions, including the management of export authorisations and associated compliance measures; act as principal adviser and secretariat to the Export Control Compliance Committee and coordinate departmental export-control liaison officers.\nServe as CERN's contact point on export-control matters with relevant national authorities, external advisers and peer organisations, and maintain an effective external network within the export-control compliance community, particularly in the research sector.\nMaintain authoritative records of export-control compliance assessments, determinations, authorisations, policies, procedures and supporting documentation, including registers of technologies, activities, institutions and persons subject to screening, due diligence or export-control requirements.\nMonitor the effectiveness of CERN's export-control compliance arrangements, identify emerging risks, issues and trends, support the management of incidents, and provide reporting, escalation and recommendations for their continual improvement.\nCarry out such other tasks as may be required to deliver an effective export-control compliance programme.",
+    "external_url": "https://jobs.smartrecruiters.com/CERN/744000157094440-export-control-compliance-lead-osi-ics-2026-212-ld-?oga=true",
+    "status": "matched"
   }
 }
