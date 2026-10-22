@@ -9,7 +9,7 @@
     "keywords": "npp"
   },
   "_generic:Charles River Laboratories": {
-    "keywords": "regulatory,scientist"
+    "keywords": "regulatory"
   },
   "_generic:MoonLake Immunotherapeutics": {
     "keywords": "clinical development,medical affairs"
@@ -1586,20 +1586,6 @@
     "external_url": "https://www.michaelpage.ch/job-detail/asap-sponsorship-business-development-manager-mwd/ref/jn-092026-7096210",
     "status": "ignored",
     "title": "ASAP: Sponsorship & Business Development Manager (m/w/d)",
-    "company": "Michael Page Switzerland",
-    "location": "Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": -2,
-    "matched_keywords": [],
-    "deducted_keywords": [
-      "location:Switzerland"
-    ]
-  },
-  "https://www.michaelpage.ch/fr/job-detail/sp%C3%A9cialiste-salaires-et-assurances-sociales-80-100/ref/jn-072025-6778709?lang=en": {
-    "external_url": "https://www.michaelpage.ch/fr/job-detail/sp%C3%A9cialiste-salaires-et-assurances-sociales-80-100/ref/jn-072025-6778709?lang=en",
-    "status": "ignored",
-    "title": "Spécialiste salaires et assurances sociales 80-100%",
     "company": "Michael Page Switzerland",
     "location": "Switzerland",
     "posted_date": "",
