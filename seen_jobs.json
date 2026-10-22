@@ -9,7 +9,7 @@
     "keywords": "npp"
   },
   "_generic:Charles River Laboratories": {
-    "keywords": "regulatory"
+    "keywords": "regulatory,scientist"
   },
   "_generic:MoonLake Immunotherapeutics": {
     "keywords": "clinical development,medical affairs"
@@ -1122,11 +1122,6 @@
     ],
     "deducted_keywords": []
   },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000150954584": {
-    "description": "Introduction:\nThe CERN Staff Association (SA) is committed to promoting the welfare of CERN personnel through a wide range of services and initiatives. Among these is the Jardin des Particules (JDP), an early childhood education and childcare facility located at CERN, welcoming children from 4 months to 10 years old.\nWe are looking for an experienced Administrative Assistant to play a central role in the day-to-day administration and management of the Jardin des Particules. This is a varied position combining human resources administration, financial management and operational coordination within a Swiss employment framework.\nIf you enjoy taking ownership of diverse administrative responsibilities, have solid knowledge of Swiss employment administration and thrive in an international environment, then join the CERN Staff Association and contribute to an essential service for the CERN community.\nFunctions:\nAs an Administrative Assistant in the CERN Staff Association, you will report directly to the Presidents of the Staff Association and work closely with the Management Committee of the Jardin des Particules, external service providers and the Staff Association Secretariat.\nYour primary responsibility will be to ensure the efficient administrative, human resources and financial management of the Jardin des Particules.\nYour main responsibilities will include:\nManaging the full administrative lifecycle of JDP employees, including recruitment administration, employment contracts, amendments, onboarding and departures.\nCoordinating payroll administration with the external fiduciary and ensuring the accuracy of salary-related information.\nManaging personnel administration in accordance with Swiss employment legislation, including social insurance, pension schemes (LPP), employment contracts, leave management and other statutory obligations.\nActing as the main administrative contact for JDP staff on employment-related matters.\nMonitoring the JDP budget, processing invoices and payments, maintaining accounting records and supporting financial reporting.\nPerforming financial monitoring and analysis to support sound budget management.\nLiaising with external partners including the fiduciary, insurance providers and public authorities when required.\nPreparing communication and promotional material for the Jardin des Particules and supporting its visibility within the CERN community.\nContributing to the continuous improvement of administrative and financial processes.\nIn addition, you will provide occasional support to the Staff Association Secretariat by welcoming visitors and responding to general enquiries.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000150954584-administrative-assistant-hr-sa-2026-197-ld-?oga=true",
-    "status": "matched"
-  },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000151579759": {
     "description": "The SY-BI group in CERN's Accelerator Systems Department develops and operates the instruments used to observe particle beams and measure their key properties. These systems are essential to the reliable operation, optimisation, and future development of CERN's accelerator complex.\nYou will contribute to the development of next-generation beam-position monitoring systems for CERN's injector complex, including the pre-accelerators and Antimatter Decelerator. You will work on innovative high-speed data-acquisition platforms combining fast digitisers with advanced System-on-Chip (SoC) technologies.\nThis role offers a hands-on opportunity to work at the intersection of digital electronics, embedded systems, real-time signal processing, and accelerator physics. It is particularly suited to people with an interest in FPGA or HDL development, high-speed electronics, embedded software, digital signal processing, instrumentation, or experimental physics.\nYour responsibilities:\nDevelop, integrate and test FPGA gateware and embedded SoC firmware for a SoC device.\nImplement data acquisition and data processing logic and real-time digital signal-processing algorithms.\nValidate system performance in laboratory and accelerator environments.\nPerform data analysis in Python.\nAssist measurement campaigns in the accelerator complex.\nCollaborate with experienced engineers, physicists, and technicians from different teams across CERN.\nYour profile:\nExperience in digital signal processing.\nDemonstrated experience with FPGA and SoC.\nExperience in Software programming (e.g. Python, C++).\nDemonstrated experience with Xilinx Zynq UltraScale+ MPSoC and/or RFSoC would be an advantage.\nSkills:\nKnowledge of Verilog and SystemVerilog.\nKnowledge of digital electronics.\nKnowledge of Python.\nSpoken and written English, with a commitment to learn French.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nYou have a professional background in Electronic Engineering (or a related field) and have either:\na Master's degree with 2 to 6 years of post-graduation professional experience;\nor a PhD with no more than 3 years of post-graduation professional experience.\nYou have never had a CERN fellow or graduate contract before.",
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000151579759-firmware-fpga-development-engineer-sy-bi-bp-2026-154-grap-?oga=true",
@@ -1151,11 +1146,6 @@
       "location:Region Ostschweiz, Switzerland"
     ]
   },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000152079731": {
-    "description": "You will support day-to-day logistics operations and contribute to continuous improvement initiatives, leveraging digital tools and systems to enhance operational performance, improve data visibility and support decision-making. As part of the Logistics Operations team, you will contribute to efficient and sustainable supply chain solutions across a wide range of services supporting CERN's community, including Goods Reception and Expedition, Internal Delivery, Stores, Storage and Mail Services.\nYour responsibilities\nSupport logistics operations, including inventory management and process optimisation.\nImprove data visibility through technical tools such as Power BI and ERP systems, and contribute to KPI monitoring and reporting.\nContribute to the implementation of efficient and sustainable supply chain solutions and systems and to continuous improvement initiatives.\nCoordinate operations-related projects with various stakeholders and contractors.\nYour profile\nFirst experience in Supply Chain Operations and Logistics, including inventory management, process optimisation and continuous improvement initiatives.\nFirst exposure in project management, data analytics and visualisation, using tools such as Power BI, Excel or ERP systems.\nExperience working within a multinational team.\nSkills\nGood knowledge of Power BI, advanced Excel, ERP systems and data visualisation for KPI development and reporting.\nKnowledge of continuous improvement, operational excellence, inventory and warehouse management.\nStrong interpersonal skills and team collaboration. Ability to work autonomously.\nSpoken and written both English and French.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nBy the application deadline, you have a maximum of two years of professional experience since graduation in Supply Chain (or a related field) and your highest educational qualification is either a Bachelor's or Master's degree.\nYou have never had a CERN fellow or graduate contract before.\nApplicants without University degree are not eligible.\nApplicants with a PhD are not eligible.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000152079731-junior-supply-chain-system-professional-sce-ssc-sc-2026-231-grae-?oga=true",
-    "status": "matched"
-  },
   "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000152154391": {
     "description": "En tant que cheffe ou chef de clinique, avec ou sans titre de spécialité, vous assurez le suivi psychiatrique des patients/détenus et des patientes/détenues au sein du service (milieu fermé ou ouvert).\nVous intervenez dans un cadre clinique exigeant, au croisement des enjeux de soins, de justice et de sécurité, en lien étroit avec des équipes pluridisciplinaires expérimentées.\nVotre approche s’inscrit dans un abord thérapeutique individualisé visant la stabilisation des troubles mentaux, la rééducation des symptômes et la prévention de la récidive. Vous contribuez à une prise en charge globale, respectueuse de la dignité des personnes et des principes éthiques propres à la psychiatrie en contexte de contrainte. A ce titre, vous travaillez de manière coordonnée avec des personnes professionnelles aux compétences complémentaires, telles qu’infirmiers et infirmières, psychologues, psychiatres, ergothérapeutes, psychomotriciens et psychomotriciennes.\nParallèlement à votre activité, vous avez l'opportunité de finaliser, si cela n'est pas encore le cas, votre formation post-graduée de qualité intégrée contribuant à l'obtention du titre de spécialiste en psychiatrie et psychothérapie.",
     "external_url": "https://jobs.smartrecruiters.com/HUG/744000152154391-chef-ou-cheffe-de-clinique-avec-ou-sans-titre-de-specialite-80-a-100-?oga=true",
@@ -1169,11 +1159,6 @@
   "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000152357259": {
     "description": "Dans le cadre de votre fonction, vous évaluez le fonctionnement psychologique des patients et patientes et prenez en charge leurs difficultés. Vous élaborez des plans de prise en charge adaptés, développez des activités d’intervention, de prévention et contribuez ainsi à une prise en charge proactive.\nDans vos activités, vous travaillez en interdisciplinarité avec les équipes médico-soignantes, le personnel médico-thérapeutique et participez activement aux colloques interdisciplinaires de réadaptation.\nEn collaboration avec vos collègues psychologues, vous organisez les thérapies et la répartition des unités à couvrir.\nVous supervisez les psychologues en formation postgrade de psychothérapie, initiez et collaborez à des activités d’enseignement et de recherche en lien avec les intérêts de la Clinique.",
     "external_url": "https://jobs.smartrecruiters.com/HUG/744000152357259-psychologue-specialise-ou-specialisee-en-psychotherapie-crans-montana-80-?oga=true",
-    "status": "matched"
-  },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000152705180": {
-    "description": "Are you an enthusiastic and curious Technical Engineer looking for a challenging professional experience? If so, joining CERN's ORIGIN programme may be the perfect opportunity for you.\nAs a Technical Engineer in the surface coating and chemistry team, you will contribute to the production of thin films for CERN's accelerator complex. All necessary training on the specific coating set ups and instrumentation will be given.\nYour responsibilities\nOperate Physical Vapor Deposition (PVD) coating setups (sputtering): including assembly, vacuum pumping, bakeout, deposition processing, and disassembly.\nMeasure the thickness and composition of thin films using an X-Ray Fluorescence spectrometer.\nPerform validation and quality control of the performance of Non-Evaporable Getter coatings (NEG).\nPrepare technical documentation, including reports and procedures.\nContribute to the design, procurement, and assembly of tooling for the coating setups.\nYour profile\nExperience in the areas of vacuum technology and the use of vacuum instrumentation, including vacuum pumps.\nExperience in materials for vacuum.\nBasic knowledge in materials properties and characterisation.\nPractical experience in thin films coating is an advantage.\nFamiliarity with surface treatments and their execution/preparation is an advantage.\nExperience in Ultra-high vacuum is an advantage.\nSkills\nAbility to work in groups and actively participate in team activities.\nAbility to work independently and communicate progress, priorities and challenges in your work.\nKnowledge and use of Excel and Word, Labview is a plus.\nSpoken and written English, with a commitment to learn French.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nBy the application deadline, you have a maximum of two years of professional experience since graduation in Vacuum and Material Sciences (or a related field) and your highest educational qualification is either a Bachelor's or Master's degree.\nYou have never had a CERN fellow or graduate contract before.\nApplicants without University degree are not eligible.\nApplicants with a PhD are not eligible.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000152705180-vacuum-thin-film-coating-technical-engineer-te-vsc-scc-2026-234-grae-?oga=true",
     "status": "matched"
   },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000152831017": {
@@ -1721,7 +1706,7 @@
     "title": "Intern - Bioinformatics",
     "company": "Labcorp",
     "location": "CHE - Geneva - 7 rue Moise-Marcinhes",
-    "posted_date": "2026-10-14",
+    "posted_date": "2026-10-13",
     "department": "",
     "score": 8,
     "matched_keywords": [
@@ -1740,7 +1725,7 @@
     "title": "Intern - Supply Chain and Regulatory Compliance",
     "company": "Labcorp",
     "location": "CHE - Geneva - 7 rue Moise-Marcinhes",
-    "posted_date": "2026-10-12",
+    "posted_date": "2026-10-11",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -1756,7 +1741,7 @@
     "title": "Intern - Histology Scientist",
     "company": "Labcorp",
     "location": "CHE - Geneva - 7 rue Moise-Marcinhes",
-    "posted_date": "2026-10-14",
+    "posted_date": "2026-10-13",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -1774,7 +1759,7 @@
     "title": "Intern - Flow Cytometry Scientist",
     "company": "Labcorp",
     "location": "CHE - Geneva - 7 rue Moise-Marcinhes",
-    "posted_date": "2026-10-12",
+    "posted_date": "2026-10-11",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -1790,7 +1775,7 @@
     "title": "Senior Scientist, Roche Cell and Organoid Biorepository (RoCOB)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-08",
+    "posted_date": "2026-10-07",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1811,7 +1796,7 @@
     "title": "Experienced Clinical Scientist/Medical monitor in neurosciences",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-16",
+    "posted_date": "2026-10-15",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -1829,7 +1814,7 @@
     "title": "Sr. Scientist - Computational & Applied AI",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-15",
+    "posted_date": "2026-10-14",
     "department": "",
     "score": 8,
     "matched_keywords": [
@@ -1851,7 +1836,7 @@
     "title": "Experienced Discovery Scientist in Immunology",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-10",
+    "posted_date": "2026-10-09",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -1875,7 +1860,7 @@
     "title": "Post Doctorate Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-08",
+    "posted_date": "2026-10-07",
     "department": "",
     "score": 8,
     "matched_keywords": [
@@ -1897,7 +1882,7 @@
     "title": "Senior Legal Counsel – Legal Business Development & Corporate",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-02",
+    "posted_date": "2026-10-01",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1910,7 +1895,7 @@
     "title": "Portfolio Manager Liquid Alternatives",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-03",
+    "posted_date": "2026-10-02",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1923,7 +1908,7 @@
     "title": "Principal Scientist - Discovery Oncology",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-25",
+    "posted_date": "2026-09-24",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -2097,7 +2082,7 @@
     "title": "Next Generation Scientist 2027",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-10-16",
+    "posted_date": "2026-10-15",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -2118,7 +2103,7 @@
     "title": "Director, Translational Medicine Expert (Neurodegeneration)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-09-25",
+    "posted_date": "2026-09-24",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -2156,7 +2141,7 @@
     "title": "Intern Portfolio Strategy & Innovation - Future Talent Program",
     "company": "Abbott",
     "location": "Switzerland - Basel",
-    "posted_date": "2026-10-13",
+    "posted_date": "2026-10-12",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2171,7 +2156,7 @@
     "title": "Intern Data Science - Future Talent Program",
     "company": "Abbott",
     "location": "Switzerland - Basel",
-    "posted_date": "2026-10-13",
+    "posted_date": "2026-10-12",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2186,7 +2171,7 @@
     "title": "Senior Associate Clinical Trials Regulatory Affairs",
     "company": "Amgen",
     "location": "Switzerland - Rotkreuz",
-    "posted_date": "2026-10-03",
+    "posted_date": "2026-10-02",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -2218,7 +2203,7 @@
     "title": "Consultant – Qualitative Market Research & Competitive Intelligence (Switzerland)/ Part-Time",
     "company": "IQVIA",
     "location": "Zug, Switzerland",
-    "posted_date": "2026-10-03",
+    "posted_date": "2026-10-02",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2234,7 +2219,7 @@
     "title": "Regulatory Affairs Consultant - on-site in Basel (German and French language skills)",
     "company": "Parexel",
     "location": "Switzerland-Basel",
-    "posted_date": "2026-10-10",
+    "posted_date": "2026-10-09",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2250,7 +2235,7 @@
     "title": "Sr Manager, Quality & Regulatory Operations",
     "company": "Danaher",
     "location": "Neuchâtel, Switzerland",
-    "posted_date": "2026-10-08",
+    "posted_date": "2026-10-07",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -2307,7 +2292,7 @@
     "title": "Lab Scientist, Microscopy",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-20",
+    "posted_date": "2026-10-19",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2406,7 +2391,7 @@
     "title": "Scientist – Oligonucleotide Chemistry & Innovation",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-20",
+    "posted_date": "2026-10-19",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2422,7 +2407,7 @@
     "title": "Senior Scientist in Process Chemistry & Catalysis",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-20",
+    "posted_date": "2026-10-19",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2438,7 +2423,7 @@
     "title": "Associate Principal Scientist / Bioanalytical Expert 80-100% (f/m/d)",
     "company": "Lonza",
     "location": "CH - Basel",
-    "posted_date": "2026-10-20",
+    "posted_date": "2026-10-19",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -2451,7 +2436,7 @@
     "title": "Scientist Analytical Development 80-100 (f/m/d)",
     "company": "Lonza",
     "location": "CH - Basel",
-    "posted_date": "2026-10-20",
+    "posted_date": "2026-10-19",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2499,7 +2484,7 @@
     "title": "Project & Portfolio Manager - Sites Network",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "",
+    "posted_date": "2026-10-20",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -2512,7 +2497,7 @@
     "title": "Internship – Agentic AI for Environmental Regulatory Compliance",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "",
+    "posted_date": "2026-10-20",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2649,7 +2634,7 @@
     "title": "Senior Scientist in Flow Cytometry",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-22",
+    "posted_date": "",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -2671,7 +2656,7 @@
     "title": "Director, Portfolio Analytics",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-10-22",
+    "posted_date": "",
     "department": "",
     "score": 1,
     "matched_keywords": [
