@@ -1122,11 +1122,6 @@
     ],
     "deducted_keywords": []
   },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000151579759": {
-    "description": "The SY-BI group in CERN's Accelerator Systems Department develops and operates the instruments used to observe particle beams and measure their key properties. These systems are essential to the reliable operation, optimisation, and future development of CERN's accelerator complex.\nYou will contribute to the development of next-generation beam-position monitoring systems for CERN's injector complex, including the pre-accelerators and Antimatter Decelerator. You will work on innovative high-speed data-acquisition platforms combining fast digitisers with advanced System-on-Chip (SoC) technologies.\nThis role offers a hands-on opportunity to work at the intersection of digital electronics, embedded systems, real-time signal processing, and accelerator physics. It is particularly suited to people with an interest in FPGA or HDL development, high-speed electronics, embedded software, digital signal processing, instrumentation, or experimental physics.\nYour responsibilities:\nDevelop, integrate and test FPGA gateware and embedded SoC firmware for a SoC device.\nImplement data acquisition and data processing logic and real-time digital signal-processing algorithms.\nValidate system performance in laboratory and accelerator environments.\nPerform data analysis in Python.\nAssist measurement campaigns in the accelerator complex.\nCollaborate with experienced engineers, physicists, and technicians from different teams across CERN.\nYour profile:\nExperience in digital signal processing.\nDemonstrated experience with FPGA and SoC.\nExperience in Software programming (e.g. Python, C++).\nDemonstrated experience with Xilinx Zynq UltraScale+ MPSoC and/or RFSoC would be an advantage.\nSkills:\nKnowledge of Verilog and SystemVerilog.\nKnowledge of digital electronics.\nKnowledge of Python.\nSpoken and written English, with a commitment to learn French.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nYou have a professional background in Electronic Engineering (or a related field) and have either:\na Master's degree with 2 to 6 years of post-graduation professional experience;\nor a PhD with no more than 3 years of post-graduation professional experience.\nYou have never had a CERN fellow or graduate contract before.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000151579759-firmware-fpga-development-engineer-sy-bi-bp-2026-154-grap-?oga=true",
-    "status": "matched"
-  },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000151796289": {
     "description": "As-tu terminé l'école obligatoire? Es-tu à la recherche d'un apprentissage? Le domaine de la bibliothèque dans un environnement scientifique t'attire-t-il particulièrement? Nous avons peut-être le poste qu'il te faut !\nLe CERN est un centre de recherche en physique des particules, il accueille des scientifiques du monde entier. Le Service d’Information Scientifique du CERN offre un environnement de travail dynamique, international et stimulant.\nPour la rentrée 2027, nous sommes à la recherche d'un(e) apprenti(e) motivé(e) pour apprendre le métier d'Agent en Information Documentaire dans un environnement scientifique et multilingue.\nQualifications requises\nAvoir terminé la scolarité obligatoire\nAvoir un niveau scolaire correspondant à la 11ème à Genève ou à la 3ème en France\nBonne maîtrise du français écrit et parlé\nConnaissance de l'anglais et de l'allemand\nProcédure de sélection :\nLa sélection se fait en 3 étapes :\nEntretien\nTests : français, anglais, allemand, logique\nStage pratique : 2 jours\nDélai de candidature : 31.01.2027\nDocuments à fournir lors de ta candidature:\nCV (obligatoire)\nLettre de motivation\n3 derniers bulletins de notes ou dernier diplôme obtenu\nConditions d'emploi:\nNous offrons un apprentissage AID de 3 années, durant lesquelles l’apprenti partage son temps entre l’école (CEC Nicolas Bouvier, Genève) et le CERN.\nSalaire : 770 CHF la première année avec une augmentation chaque année pendant les deux années suivantes.\n \nLe CERN considère la diversité et le caractère international de son personnel comme des valeurs essentielles et un facteur décisif de son succès.\nNous encourageons les candidatures de ressortissants de tous les États membres et États membres associés.\nINTERESSE(E)?\nN'attend plus pour nous faire parvenir ta candidature en cliquant sur la case bleue 'Je suis intéressé(e)' au bas ou en haut à droite de cette annonce. Si tu as des questions sur la procédure de candidature, tu peux nous contacter en nous écrivant a cette adresse e-mail: cern-apprentissage-aid[at]cern.ch.\nBonne chance !",
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000151796289-apprentissage-agent-en-information-documentaire-aid-?oga=true",
@@ -1667,7 +1662,7 @@
     "title": "Intern - Bioinformatics",
     "company": "Labcorp",
     "location": "CHE - Geneva - 7 rue Moise-Marcinhes",
-    "posted_date": "2026-10-14",
+    "posted_date": "2026-10-13",
     "department": "",
     "score": 8,
     "matched_keywords": [
@@ -1686,7 +1681,7 @@
     "title": "Intern - Supply Chain and Regulatory Compliance",
     "company": "Labcorp",
     "location": "CHE - Geneva - 7 rue Moise-Marcinhes",
-    "posted_date": "2026-10-12",
+    "posted_date": "2026-10-11",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -1702,7 +1697,7 @@
     "title": "Intern - Histology Scientist",
     "company": "Labcorp",
     "location": "CHE - Geneva - 7 rue Moise-Marcinhes",
-    "posted_date": "2026-10-14",
+    "posted_date": "2026-10-13",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -1720,7 +1715,7 @@
     "title": "Intern - Flow Cytometry Scientist",
     "company": "Labcorp",
     "location": "CHE - Geneva - 7 rue Moise-Marcinhes",
-    "posted_date": "2026-10-12",
+    "posted_date": "2026-10-11",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -1736,7 +1731,7 @@
     "title": "Senior Scientist, Roche Cell and Organoid Biorepository (RoCOB)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-08",
+    "posted_date": "2026-10-07",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1757,7 +1752,7 @@
     "title": "Experienced Clinical Scientist/Medical monitor in neurosciences",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-16",
+    "posted_date": "2026-10-15",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -1775,7 +1770,7 @@
     "title": "Sr. Scientist - Computational & Applied AI",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-15",
+    "posted_date": "2026-10-14",
     "department": "",
     "score": 8,
     "matched_keywords": [
@@ -1797,7 +1792,7 @@
     "title": "Experienced Discovery Scientist in Immunology",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-10",
+    "posted_date": "2026-10-09",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -1821,7 +1816,7 @@
     "title": "Post Doctorate Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-08",
+    "posted_date": "2026-10-07",
     "department": "",
     "score": 8,
     "matched_keywords": [
@@ -1843,7 +1838,7 @@
     "title": "Senior Legal Counsel – Legal Business Development & Corporate",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-02",
+    "posted_date": "2026-10-01",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1856,7 +1851,7 @@
     "title": "Portfolio Manager Liquid Alternatives",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-03",
+    "posted_date": "2026-10-02",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1869,7 +1864,7 @@
     "title": "Principal Scientist - Discovery Oncology",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-25",
+    "posted_date": "2026-09-24",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -2011,7 +2006,7 @@
     "title": "Next Generation Scientist 2027",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-10-16",
+    "posted_date": "2026-10-15",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -2032,7 +2027,7 @@
     "title": "Director, Translational Medicine Expert (Neurodegeneration)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-09-25",
+    "posted_date": "2026-09-24",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -2048,21 +2043,6 @@
       "clinical operations"
     ]
   },
-  "/job/Switzerland---Baar/Business-Development-Manager--m-w-d--Neuromodulation---Schweiz_31156326": {
-    "description": "JOB DESCRIPTION:\nAbbott ist ein weltweit führendes Unternehmen im Gesundheitswesen, das bahnbrechende wissenschaftliche Erkenntnisse nutzt und Lösungen zur Verbesserung der Gesundheit der Menschen entwickelt. Wir blicken stets in die Zukunft und antizipieren Veränderungen in der medizinischen Wissenschaft und Technologie. \n\nARBEITEN BEI ABBOTT \nBei Abbott finden Sie eine Aufgabe, die von Bedeutung ist, und können sich weiterentwickeln und lernen, für sich und Ihre Familie sorgen, sich selbst verwirklichen und ein erfülltes Leben führen. Abbott bietet Ihnen:  \n\nEntwicklungsmöglichkeiten in einem internationalen Unternehmen, in dem Sie die Karriere machen können, von der Sie träumen\n\nEine herausfordernde Position in einer schnell wachsenden krisenunabhängigen Branche \n\nTeil eines dynamischen, hochqualifizierten und motivierten Teams zu werden \n\nFlache Hierarchien, offene, wertschätzende Mentalität und effiziente, konstruktive Kommunikationswege\n\nEin multinationales Umfeld, in dem wir die Entwicklung unserer Talente innerhalb des Unternehmens fördern \n\nEin Unternehmen, das als eine der Best Big Companies to Work For anerkannt ist, sowie als bester Arbeitsplatz für Vielfalt, arbeitende Mütter, weibliche Führungskräfte und Wissenschaftler:innen sowie als Top Employer Deutschlands ausgezeichnet wurde\n\nUnser Neuromodulationsgeschäft umfasst implantierbare Geräte, die mit mobiler Technologie kompatibel sind, um Menschen zu helfen, die an chronischen Schmerzen und Bewegungsstörungen leiden. Diese nicht-opioiden Therapien ermöglichen es uns, Patienten während des gesamten Schmerzkontinuums eine interventionelle Schmerztherapie anzubieten.\n\nZur Verstärkung unseres Neuromodulation-Teams in der Schweiz suchen wir zum nächstmöglichen Zeitpunkt eine/n\n\nBusiness Development Manager (m/w/d) Neuromodulation – Schweiz\nhome-office based in der Schweiz\n\nIn dieser Position übernehmen Sie die Verantwortung für die Weiterentwicklung und Etablierung unserer Neuromodulationstherapien im Bereich Deep Brain Stimulation (DBS), Dorsal Root Ganglion (DRG) und Radiofrequenztherapie (RF) in der Schweiz. Gemeinsam mit Vertrieb, Clinical Specialists und Marketing entwickeln Sie nachhaltige Wachstumsstrategien, bauen ein starkes Netzwerk aus Key Opinion Leadern auf und sorgen für die erfolgreiche Umsetzung unserer Vertriebs- und Marktziele.\n\nAufgaben\nEntwicklung und Umsetzung von Markt- und Vertriebsstrategien zur erfolgreichen Positionierung von DBS-, DRG- und RF-Therapien in der Schweiz\nIdentifikation, Entwicklung und Ausbau strategischer Kundenaccounts zur Steigerung der Marktdurchdringung in DBS\nSegmentierung des Marktes sowie Priorisierung geeigneter Zielkunden in DBS &DRG in enger Zusammenarbeit mit Territory Managern, Clinical Specialists und Marketing\nAufbau, Pflege und Weiterentwicklung eines nationalen Key Opinion Leader (KOL)-Netzwerks im Bereich DBS &DRG\nVerantwortung für die Therapiestrategie im Bereich DRG sowie Initiierung und Leitung relevanter klinischer Kundenveranstaltungen, Workshops und Round Tables\nErstellung und Umsetzung individueller Account-Pläne zur Erreichung der Umsatz- und Wachstumsziele\nFunktion als nationale/r Trainer/in und fachliche/r Ansprechpartner/in für DRG- und RF-Therapien in der Schweiz\nUnterstützung europäischer Ausbildungs- und Schulungsaktivitäten im Bereich Neuromodulation\nSchulung und fachliche Begleitung von Vertriebsmitarbeitenden sowie Unterstützung von Ärztinnen, Ärzten und Pflegepersonal bei Implantationen und Follow-up-Terminen\nAnalyse von Markt-, Wettbewerbs- und Kundenentwicklungen zur Identifikation neuer Geschäftsmöglichkeiten und Wachstumsfelder\nDurchführung von Produktpräsentationen sowie Repräsentation des Unternehmens auf Kongressen, Fachveranstaltungen und Messen\nSicherstellung aktueller Fachkenntnisse zu Therapien, Produkten, klinischen Anwendungen, regulatorischen Anforderungen und Qualitätsstandards\nAktive Unterstützung von Marketingaktivitäten sowie regelmäßiges Reporting relevanter Markt- und Vertriebsinformationen an das Management\nFörderung einer engen und erfolgreichen Zusammenarbeit innerhalb des Vertriebs- und Funktionsübergreifenden Teams\n\nIhr Profil\nAbgeschlossenes Studium im medizinischen, naturwissenschaftlichen, technischen oder betriebswirtschaftlichen Bereich oder eine vergleichbare Qualifikation\nMindestens 5 Jahre erfolgreiche Vertriebserfahrung im Gesundheitswesen, idealerweise im Bereich Neuromodulation oder mit komplexen Medizinprodukten\nFundierte Erfahrung in der Geschäftsentwicklung sowie im Aufbau langfristiger Kunden- und Netzwerkbeziehungen\nAusgeprägtes Verständnis für Markt- und Wettbewerbsdynamiken im Medizintechnik- oder Neuromodulationsumfeld\nErfahrung im Umgang mit Key Opinion Leadern und klinischen Stakeholdern\nStarke kommerzielle Orientierung sowie ausgeprägte Fähigkeiten im Beziehungsmanagement\nÜberzeugende Präsentations- und Kommunikationsfähigkeiten sowohl in großen Gruppen als auch im persönlichen Austausch\nHervorragende schriftliche und mündliche Kommunikationsfähigkeiten\nSelbstständige, strukturierte und ergebnisorientierte Arbeitsweise mit hoher Eigeninitiative\nTeamorientierte Persönlichkeit mit professionellem und kundenorientiertem Auftreten\nVerhandlungssichere Deutsch- und Englischkenntnisse; Französischkenntnisse sind von Vorteil\nHohe Reisebereitschaft innerhalb der Schweiz\n\nHaben wir Ihr Interesse geweckt? Dann bewerben Sie sich bei uns.   \nWir freuen uns auf Sie! \n\nFolgen Sie Ihren Karrierezielen bei Abbott für vielfältige Möglichkeiten mit einem Unternehmen, das Ihnen helfen kann, Ihre Zukunft aufzubauen und Ihr bestes Leben zu führen. Abbott ist ein Arbeitgeber für Chancengleichheit, der sich der Vielfalt der Mitarbeiter verschrieben hat.\n\nWir bitten um Ihr Verständnis, dass wir ausschließlich Online-Bewerbungen über unser Online-Bewerbungsportal berücksichtigen. Bewerbungen per E-Mail oder per Post können nicht verarbeitet werden. Originalunterlagen werden nicht zurückgeschickt.   \n\nBleiben Sie in Kontakt über www.abbott.com, Facebook www.facebook.com/Abbott und X @AbbottNews and @AbbottGlobal. \n     \nThe base pay for this position is N/A\nIn specific locations, the pay range may vary from the range posted.\n     \nJOB FAMILY:Sales Force\n     \nDIVISION:NM Neuromodulation\n        \nLOCATION:Switzerland > Baar : Remote\n     \nADDITIONAL LOCATIONS:\n     \nWORK SHIFT:Standard\n     \nTRAVEL:Yes, 75 % of the Time\n     \nMEDICAL SURVEILLANCE:Not Applicable\n     \nSIGNIFICANT WORK ACTIVITIES:Not Applicable",
-    "external_url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Switzerland---Baar/Business-Development-Manager--m-w-d--Neuromodulation---Schweiz_31156326",
-    "status": "ignored",
-    "title": "Business Development Manager (m/w/d) Neuromodulation – Schweiz",
-    "company": "Abbott",
-    "location": "Switzerland - Baar",
-    "posted_date": "2026-09-23",
-    "department": "",
-    "score": -2,
-    "matched_keywords": [],
-    "deducted_keywords": [
-      "location:Switzerland - Baar"
-    ]
-  },
   "/job/Switzerland---Basel/Intern-Portfolio-Strategy---Innovation---Future-Talent-Program_31164359": {
     "description": "JOB DESCRIPTION:\nAbout Abbott  \nAbbott is a global healthcare leader that helps people live more fully at all stages of life. Our portfolio of life-changing technologies spans the spectrum of healthcare, with leading businesses and products in diagnostics, medical devices, nutrition, and branded generic medicines. Through our innovative solutions, we are committed to improving the health and well-being of people around the world.  \n \nThe Position  \nFor our Established Pharmaceuticals Business (EPD) based in Basel, Switzerland, we are seeking a highly motivated candidate for a Portfolio Strategy & Innovation Internship (m/f/d). This 6-12-month graduate Internship offers a unique opportunity to contribute to portfolio strategy, innovation, portfolio governance, and growth opportunity evaluation within a global pharmaceutical organization.  \nWorking closely with the Global Head of Portfolio and Program Management, you will support the evaluation of growth opportunities, disease area strategies, and portfolio prioritization decisions while gaining exposure to Product Development, Medical Affairs, and Commercial functions. As part of the assignment, you will lead selected workstreams and support growth teams in developing structured concepts for future evaluation and investment decisions.  \n \nKey Responsibilities:  \nSupport portfolio strategy activities through data analysis, strategic recommendations, and portfolio governance support.  \nContribute to disease area strategy development and portfolio prioritization initiatives across the EPD portfolio.  \nSupport annual and quarterly portfolio reviews by consolidating pipeline, lifecycle, and financial information.  \nCreate executive-ready summaries, dashboards, and governance materials to support portfolio decision-making forums.  \nTrack portfolio performance metrics, key milestones, and strategic initiatives across the portfolio.  \nLead therapeutic area assessments to identify future growth opportunities and strategic priorities.  \nConduct epidemiology reviews, competitive landscape analyses, emerging technology assessments, patient journey evaluations, and unmet need analyses.  \nIdentify strategic white space opportunities and present recommendations to growth teams and senior stakeholders.  \nPartner with Medical and Digital teams to assess opportunities beyond medicines, including digital health solutions, remote monitoring, and early diagnosis initiatives. \nReview portfolio governance processes, benchmark industry best practices, and identify opportunities to improve decision-making efficiency.  \nSupport the definition of portfolio metrics, reporting standards, and governance frameworks that enable effective portfolio management.  \n \nRequired Qualifications:  \nCurrently enrolled in or recently graduated from a leading MBA program. \nStrong interest in portfolio strategy, innovation management, business development, and the pharmaceutical industry. \nExcellent analytical and problem-solving skills with the ability to translate complex data into business insights and recommendations. \nExperience in strategic planning, consulting, corporate strategy, business analytics, finance, or related disciplines. \nAbility to develop executive-ready presentations, business cases, and strategic assessments. \nStrong communication and stakeholder management skills with the ability to interact effectively across functions and organizational levels. \nDemonstrated ability to manage projects independently and drive deliverables in a fast-paced environment. \nFluent English language skills, both written and spoken. \n \nWhy Join Abbott?  \nAt Abbott, you can build a meaningful career while contributing to innovative healthcare solutions that improve lives around the world.  \nThis Internship offers: \nDirect exposure to portfolio strategy, innovation management, and governance activities. \nExperience working with senior leaders across Product Development, Medical Affairs, and Commercial functions. \nOwnership of high-visibility projects with strategic impact on portfolio growth and prioritization. \nDevelopment of analytical, strategic thinking, and executive communication skills. \nExposure to disease area strategy development, innovation assessments, and portfolio decision-making processes. \nA highly collaborative and international working environment. \nPotential future career opportunities within Abbott. \n \nInterested in joining us? Apply today and become part of a team that is helping shape the future of healthcare.  \nAbbott is an equal opportunity employer committed to employee diversity and inclusion. We welcome applications from all qualified candidates. \n \nStay connected at www.abbott.com, Facebook www.facebook.com/Abbott and Twitter @AbbottNews and @AbbottGlobal. \n \n#earlycareersDACH #earlycareers\n     \nThe base pay for this position is N/A\nIn specific locations, the pay range may vary from the range posted.\n     \nJOB FAMILY:Administrative Support\n     \nDIVISION:EPD Established Pharma\n        \nLOCATION:Switzerland > Allschwil : H-127\n     \nADDITIONAL LOCATIONS:\n     \nWORK SHIFT:Standard\n     \nTRAVEL:Not specified\n     \nMEDICAL SURVEILLANCE:Not Applicable\n     \nSIGNIFICANT WORK ACTIVITIES:Not Applicable",
     "external_url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Switzerland---Basel/Intern-Portfolio-Strategy---Innovation---Future-Talent-Program_31164359",
@@ -2070,7 +2050,7 @@
     "title": "Intern Portfolio Strategy & Innovation - Future Talent Program",
     "company": "Abbott",
     "location": "Switzerland - Basel",
-    "posted_date": "2026-10-13",
+    "posted_date": "2026-10-12",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2085,7 +2065,7 @@
     "title": "Intern Data Science - Future Talent Program",
     "company": "Abbott",
     "location": "Switzerland - Basel",
-    "posted_date": "2026-10-13",
+    "posted_date": "2026-10-12",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2100,7 +2080,7 @@
     "title": "Senior Associate Clinical Trials Regulatory Affairs",
     "company": "Amgen",
     "location": "Switzerland - Rotkreuz",
-    "posted_date": "2026-10-03",
+    "posted_date": "2026-10-02",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -2132,7 +2112,7 @@
     "title": "Consultant – Qualitative Market Research & Competitive Intelligence (Switzerland)/ Part-Time",
     "company": "IQVIA",
     "location": "Zug, Switzerland",
-    "posted_date": "2026-10-03",
+    "posted_date": "2026-10-02",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2148,7 +2128,7 @@
     "title": "Regulatory Affairs Consultant - on-site in Basel (German and French language skills)",
     "company": "Parexel",
     "location": "Switzerland-Basel",
-    "posted_date": "2026-10-10",
+    "posted_date": "2026-10-09",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2164,7 +2144,7 @@
     "title": "Sr Manager, Quality & Regulatory Operations",
     "company": "Danaher",
     "location": "Neuchâtel, Switzerland",
-    "posted_date": "2026-10-08",
+    "posted_date": "2026-10-07",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -2221,7 +2201,7 @@
     "title": "Lab Scientist, Microscopy",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-20",
+    "posted_date": "2026-10-19",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2320,7 +2300,7 @@
     "title": "Scientist – Oligonucleotide Chemistry & Innovation",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-20",
+    "posted_date": "2026-10-19",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2336,7 +2316,7 @@
     "title": "Senior Scientist in Process Chemistry & Catalysis",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-20",
+    "posted_date": "2026-10-19",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2352,7 +2332,7 @@
     "title": "Associate Principal Scientist / Bioanalytical Expert 80-100% (f/m/d)",
     "company": "Lonza",
     "location": "CH - Basel",
-    "posted_date": "2026-10-20",
+    "posted_date": "2026-10-19",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -2365,7 +2345,7 @@
     "title": "Scientist Analytical Development 80-100 (f/m/d)",
     "company": "Lonza",
     "location": "CH - Basel",
-    "posted_date": "2026-10-20",
+    "posted_date": "2026-10-19",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2413,7 +2393,7 @@
     "title": "Project & Portfolio Manager - Sites Network",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-21",
+    "posted_date": "2026-10-20",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -2426,7 +2406,7 @@
     "title": "Internship – Agentic AI for Environmental Regulatory Compliance",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-21",
+    "posted_date": "2026-10-20",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2558,7 +2538,7 @@
     "title": "Senior Scientist in Flow Cytometry",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "",
+    "posted_date": "2026-10-21",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -2580,7 +2560,7 @@
     "title": "Director, Portfolio Analytics",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "",
+    "posted_date": "2026-10-21",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2596,6 +2576,16 @@
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000157094440": {
     "description": "Introduction\nCERN’s scientific mission relies on the exchange of knowledge, technologies and equipment across borders. Ensuring that these exchanges meet export-control requirements is essential to managing risks and enabling responsible research.\nTo support a consistent, proportionate and risk-based approach to export-control compliance, CERN is establishing an internal compliance programme, centred on a new CERN Export Control Compliance Office.\nAs Export Control Compliance Lead, you will establish and lead the Export Control Compliance Office, developing the governance, policies and processes needed to embed this programme across the Organization.\nWorking within the Resilience team in OSI-ICS, you will conduct classifications, screenings, due diligence reviews, compliance assessments and export-control evaluations. You will provide expert advice to CERN Management on export-control and related regulatory risks, and work closely with legal, technical and operational experts to ensure effective implementation of export-control requirements.\nThis is an opportunity to shape a new compliance function at the intersection of science, advanced technology and international regulation.\nFunctions\nEstablish and lead CERN’s Export Control Compliance Office, developing and implementing the governance framework, policies, processes, guidance, tools and training needed to support a consistent, proportionate and risk-based approach to export-control compliance across the Organization.\nAct as CERN's central focal point for export-control compliance matters, advising personnel, promoting awareness, conducting classifications, screenings, end-user and end-use reviews, compliance assessments, determinations and other due diligence activities, and coordinating inputs as required.\nSupport and monitor the operational implementation of export-control requirements and decisions, including the management of export authorisations and associated compliance measures; act as principal adviser and secretariat to the Export Control Compliance Committee and coordinate departmental export-control liaison officers.\nServe as CERN's contact point on export-control matters with relevant national authorities, external advisers and peer organisations, and maintain an effective external network within the export-control compliance community, particularly in the research sector.\nMaintain authoritative records of export-control compliance assessments, determinations, authorisations, policies, procedures and supporting documentation, including registers of technologies, activities, institutions and persons subject to screening, due diligence or export-control requirements.\nMonitor the effectiveness of CERN's export-control compliance arrangements, identify emerging risks, issues and trends, support the management of incidents, and provide reporting, escalation and recommendations for their continual improvement.\nCarry out such other tasks as may be required to deliver an effective export-control compliance programme.",
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000157094440-export-control-compliance-lead-osi-ics-2026-212-ld-?oga=true",
+    "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000157392879": {
+    "description": "Are you a creative communicator who enjoys turning complexity into stories people can understand and relate to? Are you interested in people, transformation and the role communication can play in bringing the two together?\nJoin CERN's Human Capital Management (HCM) project and help us communicate one of the Organization's major transformations. HCM will reshape the HR systems and processes supporting people throughout their working lives at CERN, creating a more connected experience from recruitment to departure.\nAs part of the HCM Change and Adoption team, you will help bring this transformation closer to CERN's diverse community. You will contribute to shaping our communications approach and turn it into clear, engaging, audience-focused communications that help people understand what is changing, why it matters, and what it means for them.\nYour responsibilities:\nTranslate the HCM project's communication strategy into concrete communication activities.\nPlan and deliver communications around the project milestones, managing multiple deliverables and deadlines autonomously.\nTurn complex information into clear and engaging messages for different audiences, working closely with experts and stakeholders.\nCreate content across a broad range of channels and formats, including posts, emails, webpages, presentations, one-pagers, communication toolkits, videos and other multimedia content.\nManage HCM communication channels and editorial planning.\nContribute to wider change and adoption activities such as surveys and learning materials.\nYour profile\nProfessional experience in communications, ideally in organisational change, large-scale transformation project, or another complex multistakeholder environment.\nDemonstrated ability translating complex information into clear and engaging content for different audiences.\nExperience managing communication activities and an editorial calendar against multiple deadlines and milestones.\nExperience with common content creation, web, presentation and visual communication tools; experience creating or coordinating video/multimedia content would be an advantage.\nProactive, collaborative and eager to learn in a dynamic project environment.\nSkills:\nExcellent written and verbal communication skills in English; knowledge of French an advantage.\nAbility to communicate with clarity, creativity and attention to detail.\nStrong organisation skills and ability to manage multiple activities and deadlines.\nCollaborative and confident working with people from different backgrounds and areas of expertise.\nSpoken and written English, with a commitment to learn French.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nYou have a professional background in Communications, Marketing or related (or a related field) and have either:\na Master's degree with 2 to 6 years of post-graduation professional experience;\nor a PhD with no more than 3 years of post-graduation professional experience.\nYou have never had a CERN fellow or graduate contract before.",
+    "external_url": "https://jobs.smartrecruiters.com/CERN/744000157392879-communications-specialist-hr-pxe-2026-164-grap-?oga=true",
+    "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000157394735": {
+    "description": "Vous assurez en étroite collaboration avec votre hiérarchie, la direction d’une unité de soins, la coordination des activités pratiques, les interventions cliniques, thérapeutiques ou chirurgicales de la patientèle qui vous est confiée.\nVous êtes responsable, sous la supervision de votre hiérarchie directe, des actes médicaux relevant du service.\nVous garantissez la qualité des prestations médicales dans les unités de soins y compris dans des activités aigues de type soins intermédiaires et dans le service des urgences adultes, incluant des périodes de garde.\nVous procédez à des actes diagnostiques ou thérapeutiques interventionnels dans les domaines définis par le médecin-chef de service.\nVous contribuez à la formation et accompagnez de manière efficiente les médecins internes et médecins stagiaires dans leur développement de compétences.\nVous assurez des activités de formation, tel que la participation aux séminaires, colloques ou conférences de formation théorique interne et y contribuez par des présentations.\nVous poursuivez vos objectifs de formation selon le plan de formation postgraduée et/ou les exigences de l’ISFM-FMH pour le titre de spécialité envisagé ou la conservation de celui-ci.\nVous participez aux activités de recherche en cours dans le service et participer à l’évaluation de la formation suivie et du degré d’atteinte de ses objectifs.",
+    "external_url": "https://jobs.smartrecruiters.com/HUG/744000157394735-chef-ou-cheffe-de-clinique-au-service-de-medecine-interne-generale-100-?oga=true",
     "status": "matched"
   }
 }
