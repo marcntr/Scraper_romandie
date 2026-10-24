@@ -9,7 +9,7 @@
     "keywords": "npp"
   },
   "_generic:Charles River Laboratories": {
-    "keywords": "regulatory,scientifique,scientist"
+    "keywords": "regulatory,scientist"
   },
   "_generic:MoonLake Immunotherapeutics": {
     "keywords": "clinical development,medical affairs"
@@ -757,7 +757,9 @@
     "https://jobs.ashbyhq.com/adaptyv/2c8c23dd-dab9-4876-bc0d-a5ffd68a3179": "ignored",
     "https://jobs.ashbyhq.com/adaptyv/bcc29ec7-1e14-46e7-91ee-cf791b16feda": "ignored",
     "https://jobs.ashbyhq.com/adaptyv/d15ab16a-2a89-43e5-b8c1-46e1badef5f2": "ignored",
-    "https://jobs.ashbyhq.com/adaptyv/6f9f629e-ca05-4cdf-8967-667c88eb19e2": "ignored"
+    "https://jobs.ashbyhq.com/adaptyv/6f9f629e-ca05-4cdf-8967-667c88eb19e2": "ignored",
+    "https://lonza.wd3.myworkdayjobs.com/Lonza_Careers/job/CH---Basel/Scientist-Physico-Chemical-Quality-Control-80-100--f-m-d-_R80008-1": "ignored",
+    "https://www.michaelpage.ch/de/job-detail/business-development-manager-schweiz-mwd-defra/ref/jn-092026-7094364?lang=en": "ignored"
   },
   "_generic:Hurdle Bio": {
     "keywords": "biomarker,precision medicine"
@@ -978,7 +980,7 @@
     "title": "Application Development Scientist – Reagents (12 months fixed-term contract)",
     "company": "Bio-Techne / Lunaphore",
     "location": "Tolochenaz, Switzerland",
-    "posted_date": "2026-09-23",
+    "posted_date": "2026-09-24",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1440,11 +1442,6 @@
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000154969429-data-privacy-specialist-cio-2026-209-ld-?oga=true",
     "status": "matched"
   },
-  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000154944709": {
-    "description": "Au sein des laboratoires de génétique, vous assurez la prise en charge des demandes d’analyses et des prélèvements reçus. Vous préparez les dossiers conformément aux exigences en vigueur et garantissez une communication efficace entre le centre d’accueil des prélèvements et les différents laboratoires, dans le strict respect des procédures et des standards qualité établis.\nVous participez activement au maintien du système qualité et de l’accréditation du laboratoire. À ce titre, vous contribuez à la gestion des non-conformités liées aux étapes pré-analytiques, assurez leur suivi et participez à la mise en œuvre des actions correctives et préventives.\nVous êtes également responsable de la gestion des stocks de réactifs, consommables et matériel de laboratoire. Vous veillez à leur disponibilité en assurant le suivi des niveaux de stock, la passation des commandes, la réception des marchandises ainsi que leur traçabilité.\nDans le cadre du bon fonctionnement des activités de laboratoire, vous contribuez à la maintenance opérationnelle en veillant à ce que les postes de travail soient correctement approvisionnés en consommables. Vous apportez également un soutien ponctuel aux responsables d’équipements lors des opérations de maintenance et de contrôle.\nVous avez également la charge de l’archivage des dossiers, lames et autres matériels nécessitant un classement et une conservation systématiques, en collaboration avec les équipes techniques, afin de garantir une organisation efficace et la conformité des processus de laboratoire. Enfin, vous assistez les responsables de laboratoire dans diverses tâches administratives, notamment la gestion documentaire, l’archivage et le suivi de documents qualité.\nCette description de fonction n’est pas exhaustive. Les missions et responsabilités pourront évoluer en fonction des besoins du laboratoire, de l’organisation du service et des priorités opérationnelles.",
-    "external_url": "https://jobs.smartrecruiters.com/HUG/744000154944709-preparateur-ou-preparatrice-de-travaux-100-?oga=true",
-    "status": "matched"
-  },
   "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000154944849": {
     "description": "Vous participez, avec les préparatrices et préparateurs en pharmacie, les logisticiens et logisticiennes et les assistantes et assistants en pharmacie, à l’activité de pharmacien ou pharmacienne de routine de l’Unité de logistique pharmaceutique de la pharmacie des HUG. Vous assurez, sous la supervision des pharmaciennes et pharmaciens chefs de projets et adjoints ou adjointes, au bon fonctionnement de l’approvisionnement en médicaments et leur mise à disposition auprès des patients.\nEn collaboration avec deux autres pharmaciens et pharmaciennes, vous êtes le ou la référente pour les demandes diverses des médecins et unités de soins en lien avec l’obtention des médicaments, vous supervisez la gestion des ruptures, vous gérez les stocks de stupéfiants illicites. Vous assurez le suivi des prescriptions des médicaments critiques. Vous pilotez le processus de contrôle et retrait de lots avec le responsable assurance qualité.\nVous garantissez la mise en application de la politique du médicament et des procédures de qualité et de sécurité. Vous contribuez à l’amélioration continue de l’organisation, en collaboration étroite avec les autres pharmaciens et pharmaciennes de l’unité, y compris en participant aux séances transversales avec d’autres unités ou services (pharmacie clinique, production).\nVous participez à la formation et l’encadrement de collaboratrices et collaborateurs de la Pharmacie y compris apprenants et apprenantes (MAS, stagiaires).",
     "external_url": "https://jobs.smartrecruiters.com/HUG/744000154944849-pharmacien-ou-pharmacienne-interne-50-?oga=true",
@@ -1638,7 +1635,7 @@
     "title": "Intern - Bioinformatics",
     "company": "Labcorp",
     "location": "CHE - Geneva - 7 rue Moise-Marcinhes",
-    "posted_date": "2026-10-13",
+    "posted_date": "2026-10-14",
     "department": "",
     "score": 8,
     "matched_keywords": [
@@ -1657,7 +1654,7 @@
     "title": "Intern - Supply Chain and Regulatory Compliance",
     "company": "Labcorp",
     "location": "CHE - Geneva - 7 rue Moise-Marcinhes",
-    "posted_date": "2026-10-11",
+    "posted_date": "2026-10-12",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -1673,7 +1670,7 @@
     "title": "Intern - Histology Scientist",
     "company": "Labcorp",
     "location": "CHE - Geneva - 7 rue Moise-Marcinhes",
-    "posted_date": "2026-10-13",
+    "posted_date": "2026-10-14",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -1691,7 +1688,7 @@
     "title": "Intern - Flow Cytometry Scientist",
     "company": "Labcorp",
     "location": "CHE - Geneva - 7 rue Moise-Marcinhes",
-    "posted_date": "2026-10-11",
+    "posted_date": "2026-10-12",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -1707,7 +1704,7 @@
     "title": "Senior Scientist, Roche Cell and Organoid Biorepository (RoCOB)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-07",
+    "posted_date": "2026-10-08",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1728,7 +1725,7 @@
     "title": "Experienced Clinical Scientist/Medical monitor in neurosciences",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-15",
+    "posted_date": "2026-10-16",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -1746,7 +1743,7 @@
     "title": "Sr. Scientist - Computational & Applied AI",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-14",
+    "posted_date": "2026-10-15",
     "department": "",
     "score": 8,
     "matched_keywords": [
@@ -1768,7 +1765,7 @@
     "title": "Experienced Discovery Scientist in Immunology",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-09",
+    "posted_date": "2026-10-10",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -1792,7 +1789,7 @@
     "title": "Post Doctorate Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-07",
+    "posted_date": "2026-10-08",
     "department": "",
     "score": 8,
     "matched_keywords": [
@@ -1814,7 +1811,7 @@
     "title": "Senior Legal Counsel – Legal Business Development & Corporate",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-01",
+    "posted_date": "2026-10-02",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1827,7 +1824,7 @@
     "title": "Portfolio Manager Liquid Alternatives",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-02",
+    "posted_date": "2026-10-03",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1840,7 +1837,7 @@
     "title": "Principal Scientist - Discovery Oncology",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-24",
+    "posted_date": "2026-09-25",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -1864,7 +1861,7 @@
     "title": "Cardio-Renal Discovery & Scientific Strategy Area Leader",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-23",
+    "posted_date": "2026-09-24",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -1885,7 +1882,7 @@
     "title": "\"Principal Scientist siRNA Design",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-23",
+    "posted_date": "2026-09-24",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1901,7 +1898,7 @@
     "title": "Senior/Principal Scientist - NMR Expert",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-23",
+    "posted_date": "2026-09-24",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1917,7 +1914,7 @@
     "title": "Translational Medicine Director/Associate*- Cardiovascular & Metabolic",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-09-23",
+    "posted_date": "2026-09-24",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -1941,7 +1938,7 @@
     "title": "Biomarker Therapeutic Area Head -Neuroscience",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-09-23",
+    "posted_date": "2026-09-24",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -1965,7 +1962,7 @@
     "title": "Next Generation Scientist 2027",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-10-15",
+    "posted_date": "2026-10-16",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1986,7 +1983,7 @@
     "title": "Director, Translational Medicine Expert (Neurodegeneration)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-09-24",
+    "posted_date": "2026-09-25",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -2009,7 +2006,7 @@
     "title": "Intern Portfolio Strategy & Innovation - Future Talent Program",
     "company": "Abbott",
     "location": "Switzerland - Basel",
-    "posted_date": "2026-10-12",
+    "posted_date": "2026-10-13",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2024,7 +2021,7 @@
     "title": "Intern Data Science - Future Talent Program",
     "company": "Abbott",
     "location": "Switzerland - Basel",
-    "posted_date": "2026-10-12",
+    "posted_date": "2026-10-13",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2039,7 +2036,7 @@
     "title": "Senior Associate Clinical Trials Regulatory Affairs",
     "company": "Amgen",
     "location": "Switzerland - Rotkreuz",
-    "posted_date": "2026-10-02",
+    "posted_date": "2026-10-03",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -2054,7 +2051,7 @@
     "title": "Director, Medical Affairs, Hemato-Oncology, Europe",
     "company": "BeiGene",
     "location": "Basel",
-    "posted_date": "2026-09-23",
+    "posted_date": "2026-09-24",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -2071,7 +2068,7 @@
     "title": "Consultant – Qualitative Market Research & Competitive Intelligence (Switzerland)/ Part-Time",
     "company": "IQVIA",
     "location": "Zug, Switzerland",
-    "posted_date": "2026-10-02",
+    "posted_date": "2026-10-03",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2087,7 +2084,7 @@
     "title": "Regulatory Affairs Consultant - on-site in Basel (German and French language skills)",
     "company": "Parexel",
     "location": "Switzerland-Basel",
-    "posted_date": "2026-10-09",
+    "posted_date": "2026-10-10",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2103,7 +2100,7 @@
     "title": "Sr Manager, Quality & Regulatory Operations",
     "company": "Danaher",
     "location": "Neuchâtel, Switzerland",
-    "posted_date": "2026-10-07",
+    "posted_date": "2026-10-08",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -2118,7 +2115,7 @@
     "title": "Business Development Director",
     "company": "KBI Biopharma",
     "location": "Switzerland - Plan-les-Ouates",
-    "posted_date": "2026-09-23",
+    "posted_date": "2026-09-24",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -2160,7 +2157,7 @@
     "title": "Lab Scientist, Microscopy",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-19",
+    "posted_date": "2026-10-20",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2259,7 +2256,7 @@
     "title": "Scientist – Oligonucleotide Chemistry & Innovation",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-19",
+    "posted_date": "2026-10-20",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2275,7 +2272,7 @@
     "title": "Senior Scientist in Process Chemistry & Catalysis",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-19",
+    "posted_date": "2026-10-20",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2291,7 +2288,7 @@
     "title": "Associate Principal Scientist / Bioanalytical Expert 80-100% (f/m/d)",
     "company": "Lonza",
     "location": "CH - Basel",
-    "posted_date": "2026-10-19",
+    "posted_date": "2026-10-20",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -2337,7 +2334,7 @@
     "title": "Project & Portfolio Manager - Sites Network",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-20",
+    "posted_date": "2026-10-21",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -2350,7 +2347,7 @@
     "title": "Internship – Agentic AI for Environmental Regulatory Compliance",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-20",
+    "posted_date": "2026-10-21",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2482,7 +2479,7 @@
     "title": "Senior Scientist in Flow Cytometry",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-21",
+    "posted_date": "2026-10-22",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -2504,7 +2501,7 @@
     "title": "Director, Portfolio Analytics",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-10-21",
+    "posted_date": "2026-10-22",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2597,7 +2594,7 @@
     "title": "Global Regulatory Director, RA Central Solutions CTA/CTR",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-10-23",
+    "posted_date": "2026-10-24",
     "department": "",
     "score": 0,
     "matched_keywords": [],
