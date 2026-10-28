@@ -1183,11 +1183,6 @@
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000153482109-planning-engineer-ep-atl-po-2026-200-ld-?oga=true",
     "status": "matched"
   },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000153738539": {
-    "description": "As an Electrical Engineer, within the Beams Department, you will join the BE-EA-EC cabling team to work on projects for the LHC and CERN's experiments. We aim to optimise and maintain the infrastructure and provide strong support to the physicists. You will support the team with the study, execution and coordination of complex technical cabling projects.\nYour responsibilities:\nSupport the gathering of user requirements and provide technical assistance.\nContribute to technical studies, cost estimates, and project documentation.\nAssist with the procurement of materials and services.\nParticipate in the assembly, installation, and testing of cabling and electrical equipment.\nSupport workshop and on-site activities related to experiment infrastructure.\nAssist with prototype development, commissioning, and reception tests.\nContribute to project coordination activities and technical meetings.\nSupport the preparation and review of technical reports, specifications, and change requests.\nApply and promote quality assurance procedures and documentation standards.\nContinuously develop technical expertise and contribute to team knowledge sharing.\nMore information here.\nYour profile:\nInitial experience in the electrical domain.\nExperience working with industry standards and Electrical Safety Systems.\nPrevious use of related electrical software packages would be an asset.\nSkills:\nExcellent team-working attitude.\nAbility to manage several activities simultaneously and meet tight deadlines.\nGood perception of colors.\nGood writing skills in English for technical documentation.\nSpoken and written English or French, with a commitment to learn the basics of the other language.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nBy the application deadline, you have a maximum of two years of professional experience since graduation in Electrical Engineering (or a related field) and your highest educational qualification is either a Bachelor's or Master's degree.\nYou have never had a CERN fellow or graduate contract before.\nApplicants without University degree are not eligible.\nApplicants with a PhD are not eligible.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000153738539-electrical-cabling-engineer-be-ea-ec-2026-237-grae-?oga=true",
-    "status": "matched"
-  },
   "https://api.smartrecruiters.com/v1/companies/Sobi/postings/744000153753715": {
     "description": "The Regional Medical Excellence Associate Director/Director will be dedicated to the Region Europe, and main responsibilities are as follows:\nContribute to the development of the Europe Region Medical strategies and tactics\nProvide European Medical team with relevant insights, medical practice understanding, and stakeholder needs to develop and update the KOL engagement plan with high value scientific programs\nWork with country teams to standardize and drive excellence in the planning and execution of medical activities. This can include Evidence Generation and Dissemination, Field Medical Training, Launch Planning, Scientific Activities Coordination\nConsolidate dashboards, monitor KPIs and metrics, elaborate launch reports; provide actionable insights and recommendations to ensure launch readiness.\nSupport country Medical Director Identifying areas of improvement and efficiency, people development, skills and capability uplift.\nSupport the learning and development team in developing training programs, personal development plans, to meet key business objectives\nSupport the Region in setting up the regional tactical medical plan, scientific objectives and priorities\nActively participates in cross functional initiatives (e.g. commercial, medical and PACE, etc…) as the voice of the regional stakeholders needs.\nSupport the Region in due diligence activity & Global B&D programs in close collaboration with the head of Region and Global B&D cross functional team",
     "external_url": "https://jobs.smartrecruiters.com/Sobi/744000153753715-regional-medical-excellence-associate-director-director?oga=true",
@@ -1528,11 +1523,6 @@
   "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000155705715": {
     "description": "Vous rejoignez l’Unité alimentation et nutrition chez l’enfant et l’adolescent ou adolescente (AliNEA), une unité spécialisée dans l’évaluation et la prise en charge des troubles des conduites alimentaires et de l’alimentation chez les enfants et les jeunes de 4 à 16 ans.\nVous assurez la prise en charge d’enfants, d’adolescents et adolescentes présentant des troubles du comportement alimentaire (TCA) et des troubles alimentaires (TA). Cette activité s'inscrit dans une approche multidisciplinaire intégrée associant pédopsychiatrie, pédiatrie, psychologie, soins infirmiers et travail avec les familles.\nVous menez des psychothérapies d’enfants, d’adolescents et adolescentes, et de leurs familles.\nVous participez aux supervisions, aux différents temps de réunions et présentez les situations cliniques auprès de vos collègues.",
     "external_url": "https://jobs.smartrecruiters.com/HUG/744000155705715-psychologue-au-service-de-psychiatrie-de-l-enfant-et-de-l-adolescent-80-a-100-?oga=true",
-    "status": "matched"
-  },
-  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000155705319": {
-    "description": "Dans le cadre de ce poste, vous assurez une prise en charge psychothérapeutique des patientes et patients cérébrolésés durant leur hospitalisation, en tenant compte de leurs besoins psychiques et de leur situation clinique.\nVous collaborez étroitement avec le Service de psychiatrie de liaison et d’intervention de crise afin de garantir une prise en charge interdisciplinaire et coordonnée.\nVous intervenez également auprès des familles des personnes prises en charge, ainsi qu’auprès des équipes soignantes, dans une perspective d’information, de soutien et de coordination de l’approche psychothérapeutique.",
-    "external_url": "https://jobs.smartrecruiters.com/HUG/744000155705319-psychologue-psychotherapeute-40-?oga=true",
     "status": "matched"
   },
   "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000155909350": {
@@ -1883,7 +1873,7 @@
     "title": "Intern - Supply Chain and Regulatory Compliance",
     "company": "Labcorp",
     "location": "CHE - Geneva - 7 rue Moise-Marcinhes",
-    "posted_date": "2026-10-12",
+    "posted_date": "2026-10-11",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -1899,7 +1889,7 @@
     "title": "Intern - Flow Cytometry Scientist",
     "company": "Labcorp",
     "location": "CHE - Geneva - 7 rue Moise-Marcinhes",
-    "posted_date": "2026-10-12",
+    "posted_date": "2026-10-11",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -1915,7 +1905,7 @@
     "title": "Intern - Bioinformatics",
     "company": "Labcorp",
     "location": "CHE - Geneva - 7 rue Moise-Marcinhes",
-    "posted_date": "2026-10-14",
+    "posted_date": "2026-10-13",
     "department": "",
     "score": 8,
     "matched_keywords": [
@@ -1934,7 +1924,7 @@
     "title": "Intern - Histology Scientist",
     "company": "Labcorp",
     "location": "CHE - Geneva - 7 rue Moise-Marcinhes",
-    "posted_date": "2026-10-14",
+    "posted_date": "2026-10-13",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -1952,7 +1942,7 @@
     "title": "Project & Portfolio Manager - Sites Network",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-21",
+    "posted_date": "2026-10-20",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1965,7 +1955,7 @@
     "title": "Internship – Agentic AI for Environmental Regulatory Compliance",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-21",
+    "posted_date": "2026-10-20",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1980,7 +1970,7 @@
     "title": "Senior Scientist in Flow Cytometry",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-22",
+    "posted_date": "2026-10-21",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -2002,7 +1992,7 @@
     "title": "Scientist – Oligonucleotide Chemistry & Innovation",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-20",
+    "posted_date": "2026-10-19",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2018,7 +2008,7 @@
     "title": "Lab Scientist, Microscopy",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-20",
+    "posted_date": "2026-10-19",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2038,7 +2028,7 @@
     "title": "Experienced Clinical Scientist/Medical monitor in neurosciences",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-16",
+    "posted_date": "2026-10-15",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -2056,7 +2046,7 @@
     "title": "Senior Scientist in Process Chemistry & Catalysis",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-20",
+    "posted_date": "2026-10-19",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2072,7 +2062,7 @@
     "title": "Sr. Scientist - Computational & Applied AI",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-15",
+    "posted_date": "2026-10-14",
     "department": "",
     "score": 8,
     "matched_keywords": [
@@ -2094,7 +2084,7 @@
     "title": "Experienced Discovery Scientist in Immunology",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-10",
+    "posted_date": "2026-10-09",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -2118,7 +2108,7 @@
     "title": "Portfolio Manager Liquid Alternatives",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-03",
+    "posted_date": "2026-10-02",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -2131,7 +2121,7 @@
     "title": "Senior Scientist, Roche Cell and Organoid Biorepository (RoCOB)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-08",
+    "posted_date": "2026-10-07",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -2152,7 +2142,7 @@
     "title": "Post Doctorate Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-08",
+    "posted_date": "2026-10-07",
     "department": "",
     "score": 8,
     "matched_keywords": [
@@ -2174,7 +2164,7 @@
     "title": "Senior Legal Counsel – Legal Business Development & Corporate",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-02",
+    "posted_date": "2026-10-01",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -2319,7 +2309,7 @@
     "title": "Director, Portfolio Analytics",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-10-22",
+    "posted_date": "2026-10-21",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2334,7 +2324,7 @@
     "title": "Global Regulatory Director, RA Central Solutions CTA/CTR",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-10-24",
+    "posted_date": "2026-10-23",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -2347,7 +2337,7 @@
     "title": "Next Generation Scientist 2027",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-10-16",
+    "posted_date": "2026-10-15",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -2368,7 +2358,7 @@
     "title": "Intern Data Science - Future Talent Program",
     "company": "Abbott",
     "location": "Switzerland - Basel",
-    "posted_date": "2026-10-13",
+    "posted_date": "2026-10-12",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2383,7 +2373,7 @@
     "title": "Intern Portfolio Strategy & Innovation - Future Talent Program",
     "company": "Abbott",
     "location": "Switzerland - Basel",
-    "posted_date": "2026-10-13",
+    "posted_date": "2026-10-12",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2398,7 +2388,7 @@
     "title": "Senior Associate Clinical Trials Regulatory Affairs",
     "company": "Amgen",
     "location": "Switzerland - Rotkreuz",
-    "posted_date": "2026-10-03",
+    "posted_date": "2026-10-02",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -2413,28 +2403,12 @@
     "title": "Consultant – Qualitative Market Research & Competitive Intelligence (Switzerland)/ Part-Time",
     "company": "IQVIA",
     "location": "Zug, Switzerland",
-    "posted_date": "2026-10-03",
+    "posted_date": "2026-10-02",
     "department": "",
     "score": 2,
     "matched_keywords": [
       "French",
       "competitive intelligence"
-    ],
-    "deducted_keywords": []
-  },
-  "/job/Switzerland-Basel/Regulatory-Affairs-Consultant---on-site-in-Basel--German-and-French-language-skills-_R0000046397-1": {
-    "description": "When our values align, there's no limit to what we can achieve.\n \nAt Parexel, we all share the same goal - to improve the world's health. From clinical trials to regulatory, consulting, and market access, every clinical development solution we provide is underpinned by something special - a deep conviction in what we do.\nEach of us, no matter what we do at Parexel, contributes to the development of a therapy that ultimately will benefit a patient. We take our work personally, we do it with empathy and we're committed to making a difference.\n\nWe are seeking an experienced Regulatory Affairs Consultant to join our global Regulatory Affairs team. In this role, you will develop, review, and manage regulatory submissions and compliance activities for pharmaceutical products throughout their lifecycle—from clinical development through post-market activities. You will work collaboratively with cross-functional teams while demonstrating strong independent judgment and operational expertise.\n\nThis is a client dedicated role and you will be working from an office 2 days a week (Basel).\n\nKey Responsibilities:\n\nDevelop, contribute to, and review content and format for regulatory submissions according to Swiss regulatory guidelines, including:\nMajor and minor submissions\nPeriodic Safety Update Reports (PSURs)\nLabel changes and Chemistry, Manufacturing & Controls (CMC) variations\nPost-approval commitments, variations, and notifications\nCollaborate with the Swiss regulatory team, Global Regulatory Science, Regulatory CMC, and cross-functional project teams to develop and execute regulatory strategy throughout the product lifecycle, including clinical development, post-market activity, and life cycle management.\nCoordinate regulatory submission aspects relevant to assigned projects and programs.\nMaintain Swiss labeling (SmPC, PIL, artwork, and packaging in local languages) in alignment with regulatory requirements and global labeling/core datasheet standards.\nDemonstrate strong ability to work both independently and collaboratively within project teams to achieve group goals.\nSupport the Head of Regulatory Affairs Switzerland in regulatory activities as appropriate.\n\nSkills and Qualifications:\n\nUniversity Degree in Life Sciences or related discipline\n5-8+ years of professional experience in Regulatory Affairs (Marketing Authorization Applications and post-approval variations)\nStrong, current knowledge of Swissmedic regulations (mandatory)\nProven experience in preparing major regulatory submissions and variation packages to Swissmedic\nStrong experience with CTD format and eCTD submission builds\nExperience in biologics and vaccines development - preferred\nKnowledge of Rare Diseases, Autoimmune Diseases, or Oncology therapeutic areas - preferred\nFluent spoken and written German, French and English",
-    "external_url": "https://wd1.myworkdaysite.com/recruiting/parexel/Parexel_External_Careers/job/Switzerland-Basel/Regulatory-Affairs-Consultant---on-site-in-Basel--German-and-French-language-skills-_R0000046397-1",
-    "status": "ignored",
-    "title": "Regulatory Affairs Consultant - on-site in Basel (German and French language skills)",
-    "company": "Parexel",
-    "location": "Switzerland-Basel",
-    "posted_date": "2026-10-10",
-    "department": "",
-    "score": 2,
-    "matched_keywords": [
-      "French",
-      "oncology"
     ],
     "deducted_keywords": []
   },
@@ -2445,7 +2419,7 @@
     "title": "Sr Manager, Quality & Regulatory Operations",
     "company": "Danaher",
     "location": "Neuchâtel, Switzerland",
-    "posted_date": "2026-10-08",
+    "posted_date": "2026-10-07",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -2483,7 +2457,7 @@
     "title": "WORKFORCE STRATEGY HEAD, ENTERPRISE DATA SCIENCE & ARTIFICIAL INTELLIGENCE (DSAI)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "",
+    "posted_date": "2026-10-26",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -2496,7 +2470,7 @@
     "title": "AI Strategy & Portfolio Lead",
     "company": "Lonza",
     "location": "CH - Basel",
-    "posted_date": "2026-10-28",
+    "posted_date": "",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -2514,7 +2488,7 @@
     "title": "Scientist – Assay Data, AI & Workflows",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-28",
+    "posted_date": "",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -2561,5 +2535,91 @@
     "description": "Join our team of control and automation experts and contribute to the development of applications based on the UNICOS-CPC framework, which is used CERN-wide for the development of PLC-based control systems. You will work alongside process and equipment experts from across CERN to develop, test, commission and maintain control systems across a wide range of domains.\nYour responsibilities\nDevelop, commission and maintain control applications based on the UNICOS-CPC framework for standardised PLC application generation, supporting Siemens and Schneider PLCs.\nWork closely with process and equipment experts to specify, implement, commission and support control systems that meet their operational needs.\nContribute to the maintenance and further development of tooling and testing infrastructure used to support application development.\nContribute to the evaluation of emerging automation technologies and help shape the next generation of control at CERN.\nMore information here.\nYour profile\nBackground and/or interest in the field of automation and control.\nBasic hands-on experience developing, testing or troubleshooting PLC programs using IEC 61131-3 languages.\nKnowledge and experience in industrial communication protocols would be an asset.\nInitial experience with Python.\nSkills\nStrong problem-solving and technical communication skills.\nBasic knowledge of control theory and automation principles.\nKnowledge of PLC programming using IEC 61131-3 languages.\nKnowledge of Continuous Integration based on GitLab CI would be an asset.\nSpoken and written English, with a commitment to learn French.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nBy the application deadline, you have a maximum of two years of professional experience since graduation in Automation, Control Engineering (or a related field) and your highest educational qualification is either a Bachelor's or Master's degree.\nYou have never had a CERN fellow or graduate contract before.\nApplicants without University degree are not eligible.\nApplicants with a PhD are not eligible.",
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000157822439-junior-automation-controls-engineer-be-ics-acs-2026-247-grae-?oga=true",
     "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000158324999": {
+    "description": "The Electrical Group of the Engineering Department (EN-EL) is responsible of operation, maintenance and works on the CERN electrical network. Within the Electrical Group, you will join the Electrical Project Management Section (EPM), which is responsible for the management of projects related to the CERN's electrical transmission and distribution network and to the powering of future scientific infrastructures.\nThe Einstein Telescope (ET) is a proposed underground facility for a third-generation gravitational-wave observatory. Building on the success of Advanced Virgo and Advanced LIGO, which detected merging black holes and neutron stars, ET will have a much higher sensitivity. This will be achieved with 10km interferometer arms (up from Virgo's 3km), a depth of 150-300 meters underground, and new technologies like cryogenic cooling of optics around 15K, quantum techniques to reduce light fluctuations, and advanced noise-reduction systems. ET will enable exploration of the Universe's gravitational waves back to the cosmological dark ages, offering insights into fundamental physics and cosmology.\nThe ET project is in the 'study' phase at present and will transition into an execution project after its approval.\nYour responsibilities\nAs an Electrical Engineer, you will support the mission of the group EN-EL, taking part in the studies of the electrical network and infrastructure of Einstein Telescope.\nYour main tasks will include:\nDefining the electrical requirements with users and producing the Electrical Load List.\nPreparation of conceptual design specifications and reports.\nDevelop and use models of the HV, MV and LV networks of the telescope using commercially available software applications to perform various electrical system studies such as load flow, short circuit, transient stability, harmonic analysis etc.\nPreparing the transmission and distribution single line diagrams, failure mode scenarios and backup power supply solutions for both surface and underground facilities.\nContribute to the study for a potential deployment of energy storage, grid control, FACTS, and DC grids.\nAdditional tasks will include:\nProviding the inputs required and supporting the grid connection preparation.\nPerform surveys/ carry out measurements on CERN existing electrical systems (surface and underground) and other similar telescope installations globally as appropriate, to retrieve the information useful for the studies.\nSupport the preparation of bill of quantities and cost estimate (CAPEX and OPEX).\nDefine and review the requirements of the electrical systems and co-ordinate with the other Study team members for 3D modelling of the electrical infrastructure for its integration into the overall model and the civil works.\nContribute to the (technological) survey of new technologies in the electrical distribution domain that could be deployed on the project.\nMore information here.\nYour profile\nExperience in developing and the use of the models for High Voltage, Medium Voltage, and Low Voltage networks.\nExperience in the conceptual design of the electrical installations in the industrial facilities.\nPrevious professional experience in the domain of the electrical network studies is considered an asset.\nExperience in the cost estimation processing would be an advantage.\nSkills\nKnow-how/ appreciation of the Clean Room application would be an advantage.\nKnowledge of designing the underground installations would be considered as an asset.\nInnovative problem-solving attitude.\nMindset to manoeuvre through and carry out multiple design iterations to support the early-stage development of the project.\nSpoken and written English, with a commitment to learn French.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nYou have a professional background in Electrical Engineering (or a related field) and have either:\na Master's degree with 2 to 6 years of post-graduation professional experience;\nor a PhD with no more than 3 years of post-graduation professional experience.\nYou have never had a CERN fellow or graduate contract before.",
+    "external_url": "https://jobs.smartrecruiters.com/CERN/744000158324999-electrical-engineer-for-einstein-telescope-en-el-epm-2026-170-grap-?oga=true",
+    "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000158328419": {
+    "description": "The Electrical Engineering Group (EN-EL) at CERN is responsible for the electrical power-distribution network (from 400 kV to 400/230V), for the fibre-optics infrastructure, and for signal and DC-power cabling for the accelerator complex.\nYou will join the electrical Design and Documentation Office (EN-EL-DDO). You will take on a support electrical designer role. This will include the creation and modification of electrical drawings, design of low voltage distribution networks, cable sizing, equipment sizing, LV protection studies and the general support to senior electrical designers. With time you will be required to take on design tasks of increasing complexity. In addition, you will oversee various quality-related activities within the Design Office, such as the management of the printing office and the maintenance and updating of templates.\nThis is the perfect opportunity for a junior technician to further establish their existing knowledge of low voltage distribution circuits by putting it into practice.\nYour responsibilities:\nPreparing design drawings using CAD software.\nPreparing calculation notes using ElecCalc/Caneco BT or similar.\nPreparing bills of material and cabling tables for electrical-related equipment in Excel.\nUpdating excel based design templates.\nGeneral quality related tasks in the design office.\nYour profile:\nDemonstrated experience in:\nThe design of Low voltage distribution networks, cable sizing and selectivity studies.\nProducing drawings in AutoCAD or similar.\nThe intermediate level of Microsoft EXCEL.\nSkills:\nAn understanding of low voltage distribution networks (selectivity, completing calculation notes, knowledge of European LV standards, protection, protection of circuits for indirect contact, knowledge of different types of earthing systems).\nAn understanding of power systems; voltage drop calculations, short circuit calculations, understanding fault levels, dimensioning of cables.\nExperience on low voltage design calculation tools (ElecCalc, Caneco or similar software).\nProficient in AutoCAD or similar.\nProficient in Microsoft Excel.\nSpoken and written English or French, with a commitment to learn the basics of the other language.\nBeneficial skills/or knowledge:\nExperience on the design of lighting systems for buildings and external areas using DIALux.\nExperience with E-PLAN or similar software.\nExperience in the design of medium voltage distribution networks.\nMotivated candidates without direct design office experience would still be considered.\nEligibility criteria:\nBy the application deadline, you have a maximum of two years of professional experience since graduation in Electrical Engineering (or a related field) and your highest educational qualification is a general secondary education diploma.\nYou have never had a CERN fellow or graduate contract before.\nApplicants with a Bachelor's, Master's or PhD degree are not eligible.",
+    "external_url": "https://jobs.smartrecruiters.com/CERN/744000158328419-electrical-design-technician-en-el-ddo-2026-218-grae-?oga=true",
+    "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000158229187": {
+    "description": "You will support the Future Circular Collider (FCC) site investigations campaign (approximately 100 deep boreholes) - including the project management, permitting and stakeholder engagement - and the design studies for the project's underground and surface civil engineering infrastructure, as a graduate engineer with experience in geotechnical and/or underground civil engineering, joining the civil engineering team working on the FCC at CERN.\nYour responsibilities:\nSupport site investigations project manager with both site-based and office support for all execution of the planning, execution and reporting of the site investigations campaign.\nAssist with design reviews of tunnels, shafts, caverns and surface structures, checking consultant deliverables against the brief, design codes and CERN requirements.\nSupport geotechnical calculations and analyses.\nHelp assess construction methods, including TBM and conventional excavation, and their interaction with ground conditions.\nContribute to the project geotechnical and hydrogeological risk register and to options studies for alignment and site layout.\nSupport cost estimates, construction schedules and quantity take-offs for the civil works.\nHelp translate site investigation findings into design parameters and geotechnical baseline information.\nPrepare technical notes, drawings mark-ups and presentation material for internal reviews, committees and public engagement.\nLiaise with other CERN groups (integration, survey, cooling and ventilation, safety, etc.) on interfaces with the civil works.\nYour profile:\nStrong academic background in geotechnical engineering.\nFirst experience working in a consultancy/contractor specialising in geotechnical works, either surface or underground.\nStrong fundamentals in soil and rock mechanics.\nBasic experience of geotechnical modelling.\nFamiliarity with GIS and geotechnical data management.\nSkills:\nAbility to work in an international team and adapt readily to changing requirements.\nWillingness to work on a variety of tasks as the team requires.\nOrganised, able to manage several tasks and deadlines at once.\nA clear communicator, in writing and in person, with specialists and non-specialists alike.\nSpoken and written English, with a commitment to learn French.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nYou have a professional background in Geotechnical or Civil Engineering (or a related field) and have either:\na Master's degree with 2 to 6 years of post-graduation professional experience;\nor a PhD with no more than 3 years of post-graduation professional experience.\nYou have never had a CERN fellow or graduate contract before.",
+    "external_url": "https://jobs.smartrecruiters.com/CERN/744000158229187-geotechnical-engineer-sce-ppm-fc-2026-169-grap-?oga=true",
+    "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000158223729": {
+    "description": "Au sein du secrétariat du service d’immunologie et d’allergologie composé actuellement de trois secrétaires médicales, vous avez pour mission d'organiser et d’assurer de manière autonome le travail quotidien lié à l'activité des médecins adjoints et adjointes ainsi que des chefs et cheffes de clinique et des internes de l’unité d’allergologie. \n\n \n\nGrâce à votre aisance relationnelle, vous accueillez, renseignez et orientez les patients et patientes se présentant en allergologie et gérez les appels téléphoniques que vous recevez. \n\n \n\nVous organisez les consultations en gérant l’agenda électronique des médecins et en préparant les dossiers patients. Au besoin, vous programmez les examens médicaux complémentaires et rapatriez les rapports médicaux, et vous vous occupez des passeports d’allergie.\nVous assurez également la gestion et suivi des demandes assurantielles (DRM), la gestion des programmations laboratoire ADR AC (Berne), la gestion des demandes de prises en charges sociales et les examens de capillaroscopie à exporter dans DPI.\n\n \n\nTout en répondant aux diverses sollicitations, vous menez à bien et de manière autonome les activités administratives en lien avec votre fonction comme le suivi des dossiers patients, la gestion du courrier et de la messagerie électronique. \n\n \n\nVous faites preuve de proactivité pour effectuer les tâches logistiques découlant de la vie d’un secrétariat comme la réception, le tri, la distribution et/ou le suivi du courrier papier et des commandes, le scannage et l’archivage des divers documents. \n\n \n\nAu sein de l’équipe, vous développez un lien de proximité avec vos collègues secrétaires médicales (assurez une continuité de service lors des absences) ainsi qu’avec l’équipe médico-soignante. Plus généralement, votre sens du service fait de vous une personne agile prête à mettre votre polyvalence au service de l’institution pour exercer dans différents services en fonction des besoins.",
+    "external_url": "https://jobs.smartrecruiters.com/HUG/744000158223729-secretaire-medical-ou-medicale-au-service-d-immunologie-et-d-allergologie-80-?oga=true",
+    "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000158223869": {
+    "description": "Dans ce rôle, vous gérez une équipe composée d'environ 10 collaborateurs et collaboratrices, dont la mission est d'intervenir en premier niveau pour toutes les demandes d'interventions émanent des utilisateurs et utilisatrices des bâtiments, locaux et équipements, pour le site de Cluse-Roseraie placé sous votre responsabilité et en gardant toujours à l'esprit les 5 valeurs de l'institution : confiance, respect, esprit d'équipe, reconnaissance, égalité-inclusion.\nVous coordonnez et contrôlez l'activité du groupe \"Maçonnerie-Peinture et Signalisation\", dont la mission est d'entretenir, de réparer, de réviser, de contrôler de transformer, de modifier, d'améliorer, de fabriquer des structures de bâtiments touchant les domaines hospitaliers et médical. Le domaine d'intervention touche plus particulièrement les éléments de maçonnerie, béton-armé, forages, de génie-civil, protections murales, routes et chemins, d’éléments coupe-feu, carrelage et faïences, faux-plafonds, revêtements de sol, échafaudages, protections anti-poussières de peinture, de gypserie, revêtements muraux, marquages routiers, de signalisations, etc.\nVous assurez l'étude, la coordination et l'exécution des petits travaux de transformation et rénovation, demandés par la clientèle.\nVous participer aux études et à la réalisation des projets confiés au secteur de maintenance par les secteurs ingénierie technique du bâtiment et architecture du service mandataires de maîtrise d’œuvre. Vous assurez une gestion rigoureuse, offrant les meilleurs rapports qualités/prix et au juste prix, en optimisant la technologie et matériaux utilisés, le recours à la sous-traitance et aux contrats de maintenance en contrôlant l'adéquation des qualifications professionnelles de votre équipe avec les tâches à réaliser.\nVous remplacez le chef du secteur lors de ses absences, à tour de rôle avec votre collègue chef du groupe \"Menuiserie-Clés\"\nVous assurez la gestion administrative et managériale en lien avec les activités du groupe.\nVous assistez le chef du secteur dans la mise en place d'une organisation tendant à améliorer la satisfaction des clients et clientes et les performances du secteur.\nVos compétences de leadership (respect, écoute, esprit d'équipe, équité, reconnaissance, agilité) et votre rigueur vous confèrent une crédibilité qui vous permet d'accompagner les collaborateurs et collaboratrices en développant leur esprit d'équipe. Vous veillez à leur fournir des feedbacks réguliers pour développer leurs compétences.\nVotre sens de l'organisation et de la planification vous garantissent la prise en charge des interventions et dépannages selon les ressources à disposition et les besoins.\nSensible à la présence de la patientèle et aux contraintes hospitalières, vous supervisez et faites respecter l’application des procédures et protocoles définis dans le système assurance qualité du secteur et l’ensemble des bonnes pratiques professionnelles.\nDe nature positive, optimiste et orientée \"service clients\", vous savez motiver votre équipe et entretenir un climat de partenariat afin de gérer de manière proactive des situations complexes impliquant plusieurs actrices et acteurs professionnels.\nVous actualisez les connaissances de votre équipe et les vôtres, relatives à votre domaine, par le biais de formations.",
+    "external_url": "https://jobs.smartrecruiters.com/HUG/744000158223869-chef-ou-cheffe-de-groupe-maconnerie-peinture-signalisation-site-cluse-roseraie-100-?oga=true",
+    "status": "matched",
+    "title": "Chef ou Cheffe de groupe Maçonnerie-Peinture-Signalisation, site Cluse-Roseraie - 100%",
+    "company": "HUG",
+    "location": "Rue Gabrielle-Perret-Gentil 4, Switzerland",
+    "posted_date": "2026-10-28",
+    "department": "Other",
+    "score": -2,
+    "matched_keywords": [],
+    "deducted_keywords": [
+      "location:Rue Gabrielle-Perret-Gentil 4, Switzerland"
+    ]
+  },
+  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000158224059": {
+    "description": "Dans le cadre de ce poste, vous gérez les interactions entre les cliniciens et cliniciennes ainsi que les chercheurs et chercheuses des différents départements et institutions.\nVous organisez et coordonnez des réunions périodiques pour maintenir l'interaction entre les membres, présentez de nouveaux projets et partagez les progrès des projets. Vous coordonnez la répartition efficace des ressources pour les activités cliniques et de recherche (personnel et équipement).\nVous gérez l'affectation des patients et des patientes aux projets de recherche et aux chercheurs et chercheuses appropriés (y compris la coordination du personnel de recherche junior chargé du recrutement).\nVous participez à la mise à jour régulière des bases de données sur les projets de recherche. Vous aidez à la mise en place des procédures et de processus pour garantir des tests précis et l'intégrité des protocoles cliniques et de recherche.\nVous assurez le suivi de l'évolution et de l’état des projets afin d’effectuer des rapports réguliers.\nVous garantissez le bon fonctionnement des activités logistiques et administratives (création badges, attribution des accès, …).",
+    "external_url": "https://jobs.smartrecruiters.com/HUG/744000158224059-coordinateur-ou-coordinatrice-pour-la-consultation-de-sante-cerebrale-et-mentale-70-?oga=true",
+    "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000158224120": {
+    "description": "Dans le cadre de ce poste, vous assurez une prise en charge psychothérapeutique des patientes et patients cérébrolésés durant leur hospitalisation, en tenant compte de leurs besoins psychiques et de leur situation clinique.\nVous collaborez étroitement avec le Service de psychiatrie de liaison et d’intervention de crise afin de garantir une prise en charge interdisciplinaire et coordonnée.\nVous intervenez également auprès des familles des personnes prises en charge, ainsi qu’auprès des équipes soignantes, dans une perspective d’information, de soutien et de coordination de l’approche psychothérapeutique.",
+    "external_url": "https://jobs.smartrecruiters.com/HUG/744000158224120-psychologue-psychotherapeute-40-?oga=true",
+    "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000158223579": {
+    "description": "En tant que coordinateur ou coordinatrice, vous êtes l'interlocutrice ou l'interlocuteur privilégié des acteurs impliqués dans la mise en œuvre des activités de formations postgrades destinées aux médecins.\nVous créez les conditions permettant aux professionnels et professionnelles de santé de se former, d'échanger et de faire évoluer leurs pratiques dans un environnement exigeant et stimulant.\nGrâce à votre sens de l'organisation et à votre capacité à fédérer des interlocutrices et interlocuteurs variés, vous mettez en oeuvre les besoins exprimés par les responsables médicaux en parcours de formations fluides, reconnus et actualisés. Vous coordonnez l'ensemble des étapes nécessaires à la mise en œuvre des programmes académiques, de leur planification annuelle, à leur suivi administratif et financier.\nVous veillez à ce que chaque session se déroule dans d’excellentes conditions et apportez aux médecins un soutien logistique et opérationnel durant leurs journées de formation. Notamment lors des cours BLOC qui se déroulent principalement le samedi, à raison d’environ 10 à 20 journées par année.\nVotre capacité à anticiper les besoins, coordonner les ressources et proposer des solutions pragmatiques, contribue directement au succès des objectifs de l’enseignement. Vous gérez efficacement la réservation des espaces, l’accueil des intervenants et intervenantes, l’organisation des déplacements, la gestion des équipements techniques, restauration ou solutions de visioconférence.\nGrâce à votre sens du contact et à votre réactivité, vous facilitez les collaborations, favorisez la communication et êtes capable d'interagir aussi bien avec des médecins spécialistes, qu'avec des prestataires externes.\nVous participez activement à la promotion des programmes en assurant leur diffusion auprès des professionnels et professionnelles concernées et en contribuant à leur visibilité.\nVous contribuez également à la pérennité de ces projets en développant des partenariats financiers avec des sponsors du secteur de la santé (laboratoires pharmaceutiques, pharmacies) et en entretenant avec eux une relation de confiance.\nCette fonction s'adresse à une personne qui souhaite aller au-delà de la simple gestion administrative et avoir un rôle de véritable facilitateur, capable de proposer des solutions innovantes et de contribuer activement au dynamisme et au développement du savoir actualisé de la communauté médicale.\nDans le cadre de ses activités, le coordinateur ou la coordinatrice travaille en étroite collaboration avec la Responsable de l’administration et des finances du Département, les médecins chefs et cheffes de service, la comptabilité, les médecins formateurs et formatrices ainsi qu'avec les différents partenaires.",
+    "external_url": "https://jobs.smartrecruiters.com/HUG/744000158223579-coordinateur-ou-coordinatrice-de-la-formation-medicale-aux-services-de-gynecologie-et-d-obstetrique-50-?oga=true",
+    "status": "matched"
+  },
+  "https://jobdetails.nestle.com/job/Lausanne-Bioinformatics-Intern/1452225933/": {
+    "description": "Location: Lausanne, Switzerland\nContract type / duration: Internship – 6 months\nStart date: February / March 2027\n\nBe a force for good and transform your potential into something extraordinary.\n\nAs a Bioinformatics Intern within the Bioinformatics & Data Analytics group at Nestlé Research, your mission will be to contribute to the development of an advanced yeast genome annotation pipeline by integrating gene expression data to improve gene prediction accuracy.\n\nYou will help develop automated solutions to process genomic data and integrate annotated yeast genomes into a local genome database and genome browser. Working closely with microbiologists and genomics scientists, you will translate biological requirements into reproducible bioinformatics solutions while gaining hands-on experience in yeast genomics, gene expression analysis, and pipeline development.\n\nHow you’ll make an impact as a Bioinformatics Intern\n\nReview scientific literature and evaluate bioinformatics software for integrating gene expression data into a yeast genome annotation pipeline\n\nDevelop and improve scripts and workflows to automate genomic data processing and genome annotation\n\nIntegrate annotated yeast genomes into a local genome database and genome browser to support visualization and downstream analysis\n\nDocument code, workflows and results to ensure traceability, reproducibility and effective knowledge transfer\n\nCollaborate with microbiologists and genomics scientists to translate biological requirements into technical solutions and present your progress and results\n\n \n\nWhat will make you successful\n\nStudent or recent graduate from a Bachelor or Master in Bioinformatics, Computational Biology, Genomics, Biology or a related field, with good knowledge of genomics and strong exposure to bioinformatics\n\nUnderstanding of Next-Generation Sequencing technologies and their application to genomic or transcriptomic data analysis\n\nGood programming and scripting skills using Python, R or Bash, experience using a Unix or Linux environment is a strong advantage\n\nFirst exposure to workflow and command-line tools such as Nextflow or Awk is an advantage, combined with an interest in developing automated and reproducible bioinformatics pipelines\n\nBasic knowledge of code version control (Git)\n\nStrong analytical, communication, collaboration and learning skills\n\nFluency in English; knowledge of French is an advantage\n\n \n\nAt Nestlé Research, we place people at the heart of everything we do.\n\nOur benefits are designed to support your growth and wellbeing, so you can thrive at work and in life:\n\nLearning and development opportunities to grow your career\n\nHealthcare contribution and access to the Employee Assistance Program\n\nAttractive employee discounts across various products and services\n\nWhat to expect from our hiring process\n\nWe are committed to an inclusive and respectful hiring experience and are happy to provide reasonable accommodation if needed. Our workplaces are fully accessible and supported by a strong safety culture, with modern installations and procedures to ensure a safe environment for everyone.\n\nThe hiring process typically includes a video interview with Talent Acquisition, an interview with the hiring team, and a final discussion and offer. We review applications as they are received and close the role once a strong list of relevant candidates is identified, so we encourage you to apply early. All information is treated confidentially.\n\nReady to start your career journey with us?\n\nApply now and transform your potential into something extraordinary.",
+    "external_url": "https://jobdetails.nestle.com/job/Lausanne-Bioinformatics-Intern/1452225933/",
+    "status": "matched",
+    "title": "Bioinformatics Intern",
+    "company": "Nestlé",
+    "location": "Lausanne, CH",
+    "posted_date": "",
+    "department": "",
+    "score": 8,
+    "matched_keywords": [
+      "French",
+      "bioinformatics",
+      "computational biology",
+      "genomics",
+      "location:lausanne"
+    ],
+    "deducted_keywords": []
+  },
+  "/job/Switzerland-Remote/Regulatory-Affairs-Consultant---on-site-in-Basel--German-and-French-language-skills-_R0000046397-1": {
+    "description": "When our values align, there's no limit to what we can achieve.\n \nAt Parexel, we all share the same goal - to improve the world's health. From clinical trials to regulatory, consulting, and market access, every clinical development solution we provide is underpinned by something special - a deep conviction in what we do.\nEach of us, no matter what we do at Parexel, contributes to the development of a therapy that ultimately will benefit a patient. We take our work personally, we do it with empathy and we're committed to making a difference.\n\nWe are seeking an experienced Regulatory Affairs Consultant to join our global Regulatory Affairs team. In this role, you will develop, review, and manage regulatory submissions and compliance activities for pharmaceutical products throughout their lifecycle—from clinical development through post-market activities. You will work collaboratively with cross-functional teams while demonstrating strong independent judgment and operational expertise.\n\nKey Responsibilities:\n\nDevelop, contribute to, and review content and format for regulatory submissions according to Swiss regulatory guidelines, including:\nMajor and minor submissions\nPeriodic Safety Update Reports (PSURs)\nLabel changes and Chemistry, Manufacturing & Controls (CMC) variations\nPost-approval commitments, variations, and notifications\nCollaborate with the Swiss regulatory team, Global Regulatory Science, Regulatory CMC, and cross-functional project teams to develop and execute regulatory strategy throughout the product lifecycle, including clinical development, post-market activity, and life cycle management.\nCoordinate regulatory submission aspects relevant to assigned projects and programs.\nMaintain Swiss labeling (SmPC, PIL, artwork, and packaging in local languages) in alignment with regulatory requirements and global labeling/core datasheet standards.\nDemonstrate strong ability to work both independently and collaboratively within project teams to achieve group goals.\nSupport the Head of Regulatory Affairs Switzerland in regulatory activities as appropriate.\n\nSkills and Qualifications:\n\nUniversity Degree in Life Sciences or related discipline\n5-8+ years of professional experience in Regulatory Affairs (Marketing Authorization Applications and post-approval variations)\nStrong, current knowledge of Swissmedic regulations (mandatory)\nProven experience in preparing major regulatory submissions and variation packages to Swissmedic\nStrong experience with CTD format and eCTD submission builds\nExperience in biologics and vaccines development - preferred\nKnowledge of Rare Diseases, Autoimmune Diseases, or Oncology therapeutic areas - preferred\nFluent spoken and written German, French and English",
+    "external_url": "https://wd1.myworkdaysite.com/recruiting/parexel/Parexel_External_Careers/job/Switzerland-Remote/Regulatory-Affairs-Consultant---on-site-in-Basel--German-and-French-language-skills-_R0000046397-1",
+    "status": "matched",
+    "title": "Regulatory Affairs Consultant (German and French language skills)",
+    "company": "Parexel",
+    "location": "Switzerland-Remote",
+    "posted_date": "2026-10-28",
+    "department": "",
+    "score": 6,
+    "matched_keywords": [
+      "French",
+      "location:remote",
+      "oncology"
+    ],
+    "deducted_keywords": []
   }
 }
