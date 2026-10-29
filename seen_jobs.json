@@ -392,7 +392,7 @@
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-10-21"
+    "cached_at": "2026-10-29"
   },
   "_generic:Release Therapeutics": {
     "keywords": "npp"
@@ -1297,11 +1297,6 @@
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000154415529": {
     "description": "Join CERN's Geodetic Metrology Group and contribute to the metrology and alignment of components used in particle physics experiments. Your main focus will be the Full Remote Alignment System (FRAS), which uses a network of high-precision sensors and electromechanical actuators to monitor and remotely adjust accelerator components with micrometric precision.\nAs a Mechanical Technician in the High Precision Alignment Technologies Section, you will contribute to the procurement, assembly, testing, installation and commissioning of FRAS mechanical and electromechanical components.\nYour responsibilities:\nSupporting the procurement of FRAS mechanical and electromechanical components, including quality assurance and acceptance activities.\nAssembling and testing FRAS components, initially in the workshop and subsequently in the LHC tunnel.\nPreparing assembly, installation and validation documentation, including reports and procedure updates.\nTaking part in the commissioning of the mechanical and electromechanical equipment, from individual components through to the complete FRAS installation.\nMore information here.\nYour profile:\nExperience in mechanics, electromechanical systems or mechatronics.\nExperience in the assembly, testing and commissioning of mechanical and/or electromechanical systems.\nExperience in writing technical documentation would be an advantage.\nSkills:\nPractical technical skills in mechanics, mechatronics or a related field.\nAnalytical and problem-solving skills.\nAbility to work independently and as part of a multidisciplinary team.\nSpoken and written English or French, with a commitment to learn the basics of the other language.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nBy the application deadline, you have a maximum of two years of professional experience since graduation in Mechanics, Electro-Mechanics, Production (or a related field) and your highest educational qualification is a general secondary education diploma.\nYou have never had a CERN fellow or graduate contract before.\nApplicants with a Bachelor's, Master's or PhD degree are not eligible.",
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000154415529-mechanical-technician-be-gm-hpa-2026-243-grae-?oga=true",
-    "status": "matched"
-  },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000154429914": {
-    "description": "Within the framework of the High-Luminosity Large Hadron Collider project, and long shutdown activities, you will join the Cryogenic Group as a full member of the team, working in a multidisciplinary environment focused on cryogenic instrumentation, control systems, and electrical engineering. You will contribute to R&D activities, as well as to the design, reception, and maintenance of tooling and test benches used for validation and commissioning operations.\nYour responsibilities\nContribute to the development of new cryogenic instrumentation like pressure, level, temperature or heater, ensuring their design, qualification, and adaptation to the complex and challenging operating conditions of CERN accelerators, including cryogenic environments, high magnetic fields, and other harsh constraints inherent to accelerator operation.\nEnsure the maintenance of existing test benches based on LabVIEW, including legacy systems, while also developing new test facilities for the qualification of series of radiation-tolerant electronic cards, the calibration of absolute and differential pressure sensors, and associated data analysis.\nProvide field support for cryogenic instrumentation deployed across CERN accelerators, cryogenic plants, and test facilities, including diagnostics, maintenance, and repair activities to ensure reliable and continuous operation of the equipment.\nMore information here.\nYour profile\nTesting, calibration, and validation of instrumentation sensors under cryogenic conditions.\nExperience with front-end and back-end electronics, as well as real-time data acquisition systems.\nPerformance analysis and optimisation of cryogenic instrumentation systems. \nSkills\nMetrology, Radiology, LabView or similar, Python, data acquisition system.\nDiagnostics and troubleshooting of electrical and instrumentation issues in complex process systems.\nApplying practical knowledge of measurement and electronic technologies in operational environments,\nCollaborating within multidisciplinary teams and contributing to the training and supervision of students.\nSpoken and written English or French, with a commitment to learn the other language.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nYou have a professional background in Applied Physics/Electromechanical Engineering, Electronic Engineering (or a related field) and have either:\na Master's degree with 2 to 6 years of post-graduation professional experience;\nor a PhD with no more than 3 years of post-graduation professional experience.\nYou have never had a CERN fellow or graduate contract before.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000154429914-instrumentation-engineer-te-crg-ic-2026-94-grap-?oga=true",
     "status": "matched"
   },
   "https://www.stettlerconsulting.ch/en/current-vacancies/medical-adviser-nephrologie-zns-80-100-w-m/": {
@@ -2388,7 +2383,7 @@
     "title": "Senior Associate Clinical Trials Regulatory Affairs",
     "company": "Amgen",
     "location": "Switzerland - Rotkreuz",
-    "posted_date": "2026-10-02",
+    "posted_date": "2026-10-03",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -2403,7 +2398,7 @@
     "title": "Consultant – Qualitative Market Research & Competitive Intelligence (Switzerland)/ Part-Time",
     "company": "IQVIA",
     "location": "Zug, Switzerland",
-    "posted_date": "2026-10-02",
+    "posted_date": "2026-10-03",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2419,7 +2414,7 @@
     "title": "Sr Manager, Quality & Regulatory Operations",
     "company": "Danaher",
     "location": "Neuchâtel, Switzerland",
-    "posted_date": "2026-10-07",
+    "posted_date": "2026-10-08",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -2434,7 +2429,7 @@
     "title": "Business Development Director",
     "company": "KBI Biopharma",
     "location": "Switzerland - Plan-les-Ouates",
-    "posted_date": "2026-09-28",
+    "posted_date": "2026-09-29",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -2612,13 +2607,45 @@
     "title": "Regulatory Affairs Consultant (German and French language skills)",
     "company": "Parexel",
     "location": "Switzerland-Remote",
-    "posted_date": "2026-10-28",
+    "posted_date": "2026-10-29",
     "department": "",
     "score": 6,
     "matched_keywords": [
       "French",
       "location:remote",
       "oncology"
+    ],
+    "deducted_keywords": []
+  },
+  "/job/Basel/Internship-in-PD-Medical-Affairs-Compliance-and-Process-Excellence---Non-Interventional-Studies--NIS--Optimization---Digital-Workspace--12-Months--Basel-_202610-127268": {
+    "description": "At Roche you can show up as yourself, embraced for the unique qualities you bring. Our culture encourages personal expression, open dialogue, and genuine connections,  where you are valued, accepted and respected for who you are, allowing you to thrive both personally and professionally. This is how we aim to prevent, stop and cure diseases and ensure everyone has access to healthcare today and for generations to come. Join Roche, where every voice matters.\n\nThe Position\nProduct Development Medical Affairs (PDMA) plays a pivotal role in advancing the future of healthcare by connecting scientific advances with medical practice needs and embedding medical practice realities into Roche strategies.\n\nJoin the PDMA Process and Compliance Excellence Team for a 12-month internship in Basel.\n\nThis is your opportunity to gain hands-on experience in strategic planning, business and project management, process optimization, systems, AI and digital tools, as well as resource and knowledge management.\n\nAbout the Team\nThe PDMA Process and Compliance Excellence Team operates across molecules, indications, and the broader Roche organization to uphold business integrity and ensure regulatory, medical, and healthcare compliance for the benefit of patients and society.\n\nWe engage across three key strategic pillars:\nPatient-Centric Activities Governance & Scientific Rigor\nProactive Quality Management & Healthcare Compliance\nTechnology & Digital Compliance Systems\nWe leverage our diverse expertise and strategic partnerships to drive proactive quality and compliance, adapt processes to evolving business needs, and harness modern technology to enhance operational efficiencies.\nPartnering seamlessly across Roche, we deliver high-impact solutions, oversight, and advisory support that enable Medical Affairs to succeed with integrity.\n\nThe Opportunity\nThis position focuses primarily on Non-Interventional Studies (NIS) process optimization and harmonization, regulatory standards (GVP, GPP, MDR), cross-divisional stakeholder engagement, and digital content migration and workspace redesign.\n\nAs an intern in this role, you will lead and support high-impact projects designed to streamline clinical study documentation and modernize digital compliance tools.\n\nYour Responsibilities\nTemplate Harmonization: Develop unified, streamlined NIS protocol templates, Informed Consent Form (ICF) templates, and Clinical Study Report (CSR) templates applicable across non-interventional study designs.\nGuidance Development: Consolidate standalone medical device wording and study design variations into a single, comprehensive companion guide providing clear instructions for different study types.\nRegulatory Alignment: Align template structures and companion guidance with relevant regulatory frameworks, including Good Pharmacovigilance Practices (GVP), Good Pharmacoepidemiology Practices (GPP), and Medical Device Regulations (MDR).\nStakeholder Engagement: Engage cross-divisional stakeholders to gather input, ensure alignment, and foster adoption of harmonized NIS documentation standards.\nDigital Workspace Redesign: Lead the migration, revision, and user-centric redesign of the NIS gSite/intranet environment within Microsoft enterprise solutions.\n\nWho You Are\nYou are currently enrolled at a university (Bachelor's or Master's degree), or you have completed your studies within the 12 months prior to the internship start date, ideally in Life Sciences, Data Sciences, Business Administration, or a related field.\nYou are a team player with strong communication, self-reflection, and assertiveness skills.\nYou are open-minded, flexible, creative, and bring a proactive, can-do attitude.\nYou have project management and analytical skills, combined with a disciplined approach to quality and documentation.\nYou have advanced knowledge of Google Workspace, Microsoft Office applications, and AI tools.\nYou are fluent in spoken and written English.\n\nPlease note: This internship is not suitable for completing a Master's thesis.\n\nIdeally you also have the following experience, skills and knowledge:\nPrevious work experience, preferably in an international business environment.\nA general understanding of and interest in the pharmaceutical industry.\n\nAdditional information:\nPlease include the following documents with your application:\nCV in English\nCover letter indicating your earliest possible starting date\n\nDue to regulatory requirements, non-EU/non-EFTA citizens must provide a certificate from their university confirming that the internship is mandatory and specifying its required duration, as well as a certificate of enrollment.\n\nIf you are proud to contribute and feel you have the dedication to teamwork and innovation that we are seeking, then Roche is the organization for you.\n\nEvery role at Roche plays a part in making a difference in patients' lives. If you want to work in a passionate team, make your mark, and improve lives, apply now.\n \n \n\nWho we are\nA healthier future drives us to innovate. Together, more than 100’000 employees across the globe are dedicated to advance science, ensuring everyone has access to healthcare today and for generations to come. Our efforts result in more than 26 million people treated with our medicines and over 30 billion tests conducted using our Diagnostics products. We empower each other to explore new possibilities, foster creativity, and keep our ambitions high, so we can deliver life-changing healthcare solutions that make a global impact.\n\nLet’s build a healthier future, together.\n\nRoche is an Equal Opportunity Employer.",
+    "external_url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Internship-in-PD-Medical-Affairs-Compliance-and-Process-Excellence---Non-Interventional-Studies--NIS--Optimization---Digital-Workspace--12-Months--Basel-_202610-127268",
+    "status": "matched",
+    "title": "Internship in PD Medical Affairs Compliance and Process Excellence – Non-Interventional Studies (NIS) Optimization & Digital Workspace (12 Months, Basel)",
+    "company": "Roche",
+    "location": "Basel",
+    "posted_date": "2026-10-28",
+    "department": "",
+    "score": 2,
+    "matched_keywords": [
+      "Master's degree",
+      "medical affairs"
+    ],
+    "deducted_keywords": []
+  },
+  "/job/Basel/Internship-in-PD-Medical-Affairs-Compliance-and-Process-Excellence---Project-Management---Business-Operations--12-Months--Basel-_202610-127800": {
+    "description": "At Roche you can show up as yourself, embraced for the unique qualities you bring. Our culture encourages personal expression, open dialogue, and genuine connections,  where you are valued, accepted and respected for who you are, allowing you to thrive both personally and professionally. This is how we aim to prevent, stop and cure diseases and ensure everyone has access to healthcare today and for generations to come. Join Roche, where every voice matters.\n\nThe Position\nProduct Development Medical Affairs (PDMA) plays a pivotal role in advancing the future of healthcare by connecting scientific advances with medical practice needs and embedding medical practice realities into Roche strategies.\n\nJoin the PDMA Process and Compliance Excellence Team for a 12-month internship in Basel.\n\nThis is your opportunity to gain hands-on experience in strategic planning, business and project management, process optimization, systems, AI and digital tools, as well as resource and knowledge management.\n\nAbout the Team\nThe PDMA Process and Compliance Excellence Team operates across molecules, indications, and the broader Roche organization to uphold business integrity and ensure regulatory, medical, and healthcare compliance for the benefit of patients and society.\n\nWe engage across three key strategic pillars:\nPatient-Centric Activities Governance & Scientific Rigor\nProactive Quality Management & Healthcare Compliance\nTechnology & Digital Compliance Systems\n\nWe leverage our diverse expertise and strategic partnerships to drive proactive quality and compliance, adapt processes to evolving business needs, and harness modern technology to enhance operational efficiencies.\nPartnering seamlessly across Roche, we deliver high-impact solutions, oversight, and advisory support that enable Medical Affairs to succeed with integrity.\n\nThe Opportunity\nThis position focuses primarily on project management and execution, regulatory documentation readiness, process and compliance excellence support, and digital content migration and workspace redesign (Google Workspace to Microsoft 365).\n\nAs an intern in this role, you will support key strategic initiatives and work alongside team members to streamline regulatory documentation, modernize digital team sites, track project deliverables, and drive organizational efficiency.\n\nYour Responsibilities\nProject Management & Execution: Lead operational tracking for key strategic projects, with a primary focus on Standard Operating Procedure (SOP) revisions. Manage timelines, facilitate cross-functional meetings, and use project management tools to ensure deliverables are completed on time. The two main areas of focus will be Market Research and Patient Support Program (MAP) and Digital Customer Engagement and Listening Activity (DiCELA).\nSystems & Content Migration: Drive document readiness and workspace transition activities from Google Workspace to Microsoft 365. Prepare migration checklists, perform quality control on documentation and assets, map current-to-future operational processes, execute manual content transfers, and assemble training, communication, and readiness materials.\nAI Governance & Compliance Validation: Assist in building, testing, and documenting Artificial Intelligence (AI) solutions within Process and Compliance Excellence, supporting both new model development and the validation readiness of existing tools. Map documentation gaps against quality and AI governance standards, track mitigation actions, and assemble review-ready evidence packages for subject matter expert (SME) and Quality closure.\nProcess Excellence Team Support: Assist the Process and Compliance Excellence Team in driving continuous improvement projects and strategic team initiatives.\n\nWho You Are\nYou are currently enrolled at a university (Bachelor's or Master's degree), or you have completed your studies within the 12 months prior to the internship start date, ideally in Life Sciences, Data Sciences, Business Administration, or a related field.\nYou are a team player with strong communication, self-reflection, and assertiveness skills.\nYou are open-minded, flexible, creative, and bring a proactive, can-do attitude.\nYou have project management and analytical skills, combined with a disciplined approach to quality and documentation.\nYou have advanced knowledge of Google Workspace, Microsoft Office applications, and AI tools.\nYou are fluent in spoken and written English.\n\nPlease note: This internship is not suitable for completing a Master's thesis.\n\nIdeally, You Also Bring\nPrevious work experience, preferably in an international business environment.\nA general understanding of and interest in the pharmaceutical industry.\n\nAdditional information\nPlease include the following documents with your application:\nCV in English\nCover letter indicating your earliest possible starting date\n\nDue to regulatory requirements, non-EU/non-EFTA citizens must provide a certificate from their university confirming that the internship is mandatory and specifying its required duration, as well as a certificate of enrollment.\n\nIf you are proud to contribute and feel you have the dedication to teamwork and innovation that we are seeking, then Roche is the organization for you.\n\nEvery role at Roche plays a part in making a difference in patients' lives. If you want to work in a passionate team, make your mark, and improve lives, apply now.\n \n \n\nWho we are\nA healthier future drives us to innovate. Together, more than 100’000 employees across the globe are dedicated to advance science, ensuring everyone has access to healthcare today and for generations to come. Our efforts result in more than 26 million people treated with our medicines and over 30 billion tests conducted using our Diagnostics products. We empower each other to explore new possibilities, foster creativity, and keep our ambitions high, so we can deliver life-changing healthcare solutions that make a global impact.\n\nLet’s build a healthier future, together.\n\nRoche is an Equal Opportunity Employer.",
+    "external_url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Internship-in-PD-Medical-Affairs-Compliance-and-Process-Excellence---Project-Management---Business-Operations--12-Months--Basel-_202610-127800",
+    "status": "matched",
+    "title": "Internship in PD Medical Affairs Compliance and Process Excellence – Project Management & Business Operations (12 Months, Basel)",
+    "company": "Roche",
+    "location": "Basel",
+    "posted_date": "2026-10-28",
+    "department": "",
+    "score": 2,
+    "matched_keywords": [
+      "Master's degree",
+      "medical affairs"
     ],
     "deducted_keywords": []
   }
