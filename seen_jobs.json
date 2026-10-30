@@ -2095,7 +2095,7 @@
     "title": "Principal Scientist - Discovery Oncology",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-29",
+    "posted_date": "2026-09-30",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -2119,7 +2119,7 @@
     "title": "Cardio-Renal Discovery & Scientific Strategy Area Leader",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-29",
+    "posted_date": "2026-09-30",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -2140,7 +2140,7 @@
     "title": "\"Principal Scientist siRNA Design",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-29",
+    "posted_date": "2026-09-30",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2156,7 +2156,7 @@
     "title": "Biomarker Therapeutic Area Head -Neuroscience",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-09-29",
+    "posted_date": "2026-09-30",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -2180,7 +2180,7 @@
     "title": "Director, Translational Medicine Expert (Neurodegeneration)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-09-29",
+    "posted_date": "2026-09-30",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -2203,7 +2203,7 @@
     "title": "Translational Medicine Director/Associate*- Cardiovascular & Metabolic",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-09-29",
+    "posted_date": "2026-09-30",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -2337,7 +2337,7 @@
     "title": "Sr Manager, Quality & Regulatory Operations",
     "company": "Danaher",
     "location": "Neuchâtel, Switzerland",
-    "posted_date": "2026-10-08",
+    "posted_date": "2026-10-07",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -2406,7 +2406,7 @@
     "title": "Scientist – Assay Data, AI & Workflows",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-29",
+    "posted_date": "",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -2530,7 +2530,7 @@
     "title": "Regulatory Affairs Consultant (German and French language skills)",
     "company": "Parexel",
     "location": "Switzerland-Remote",
-    "posted_date": "",
+    "posted_date": "2026-10-28",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -2547,7 +2547,7 @@
     "title": "Internship in PD Medical Affairs Compliance and Process Excellence – Non-Interventional Studies (NIS) Optimization & Digital Workspace (12 Months, Basel)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "",
+    "posted_date": "2026-10-28",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2563,7 +2563,7 @@
     "title": "Internship in PD Medical Affairs Compliance and Process Excellence – Project Management & Business Operations (12 Months, Basel)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "",
+    "posted_date": "2026-10-28",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2604,7 +2604,7 @@
     "title": "Data Scientist / Engineer - DNA-Encoded Library Technology (DELT)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-29",
+    "posted_date": "",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -2621,7 +2621,7 @@
     "title": "Scientific AI Platform Lead, Data Science, Disease Area X",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-10-29",
+    "posted_date": "2026-10-30",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -2632,5 +2632,15 @@
       "genomics"
     ],
     "deducted_keywords": []
+  },
+  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000158676704": {
+    "description": "Introduction\nThe CERN ATLAS Team plays a major role in the construction of the future silicon ATLAS Inner Tracker (ITk). In particular, the CERN Detector Technologies (DT) team focuses on the realisation of the Pixel Outer Barrel for the ITk. Our activities include the design, prototyping and assembly of the support structures and tooling as well as the final detector integration, installation and testing. As a mechanical/electromechanical technician in the CERN-DT Team, you will join the Engineering Office Section (EP-DT-EO) and work closely with personnel from the ATLAS Group (EP-ATL) and the Technical Coordination Team of the ATLAS Experiment in the design and construction of the ATLAS ITk Pixel Outer Barrel.\nFunctions\nParticipate in the production, testing and installation of the Pixel Outer System services and their support structures (e.g. trolleys).\nSupport the design, manufacturing and installation of temporary services and infrastructure for testing during the integration of the Pixel Detector.\nParticipate hands-on in the integration of the Pixel Outer System and its insertion into ITk in the SR1 cleanroom, contributing to the development and fabrication of the corresponding tooling.\nParticipate in the ITk installation in the ATLAS cavern, supporting preparation of Pixel services for installation as well as connections after insertion.\nDocument manufacturing and installation procedures as well QC information of tools and production parts to ensure traceability.",
+    "external_url": "https://jobs.smartrecruiters.com/CERN/744000158676704-mechanical-electromechanical-technician-atlas-itk-upgrade-ep-dt-eo-2026-215-ld-?oga=true",
+    "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000158674036": {
+    "description": "Introduction:\nYou will join the Technology Department's Machine Protection and Electrical Integrity (MPE) Group, which develops and maintains systems that protect accelerator equipment, including magnets and particle-beam-related installations.\nWorking in a collaborative team of software engineers, you will design, develop and maintain reliable software that supports the safe and efficient operation of the Large Hadron Collider and its injector complex. You will have the opportunity to solve challenging engineering problems, collaborate with experts across different disciplines and contribute to systems that are essential to CERN's scientific mission. \nFunctions:\nDesign, implement, test and maintain software components that interface with equipment protection and interlock systems.\nMonitor deployed applications, investigate technical issues and improve reliability, availability and maintainability.\nWork with engineers, technical specialists and accelerator operations teams during commissioning, testing and operation.\nUnderstand user requirements, contribute to technical decisions and help deliver sustainable software solutions.\nCollaborate with colleagues to strengthen development workflows, automated testing, continuous integration and software quality, including exploring AI-assisted development tools where appropriate.\nProvide technical guidance and mentoring to colleagues and students.",
+    "external_url": "https://jobs.smartrecruiters.com/CERN/744000158674036-control-software-engineer-particle-accelerators-te-mpe-cb-2026-213-ld-?oga=true",
+    "status": "matched"
   }
 }
