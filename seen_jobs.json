@@ -753,7 +753,8 @@
     "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Basel-City/Next-Generation-Scientist-2027_REQ-10089124-1": "ignored",
     "https://www.stettlerconsulting.ch/en/current-vacancies/head-regulatory-affairs-medizintechnik-w-m-80-100/": "ignored",
     "https://www.michaelpage.ch/fr/job-detail/sp%C3%A9cialiste-affiliations-cotisations-et-contentieux-80-100/ref/jn-102026-7121445?lang=en": "ignored",
-    "https://jobs.smartrecruiters.com/CERN/744000080108845-non-member-state-postdoc-fellowship-programme-theoretical-physics-?oga=true": "ignored"
+    "https://jobs.smartrecruiters.com/CERN/744000080108845-non-member-state-postdoc-fellowship-programme-theoretical-physics-?oga=true": "ignored",
+    "https://www.michaelpage.ch/de/job-detail/key-account-business-development-manager-schweiz-mwd/ref/jn-092026-7097880?lang=en": "ignored"
   },
   "_generic:Hurdle Bio": {
     "keywords": "biomarker,precision medicine"
@@ -2653,5 +2654,19 @@
       "PhD"
     ],
     "deducted_keywords": []
+  },
+  "https://www.michaelpage.ch/fr/job-detail/sp%C3%A9cialiste-assurances-rc-internationale-fr-eng/ref/jn-102026-7131578?lang=en": {
+    "external_url": "https://www.michaelpage.ch/fr/job-detail/sp%C3%A9cialiste-assurances-rc-internationale-fr-eng/ref/jn-102026-7131578?lang=en",
+    "status": "matched",
+    "title": "Spécialiste Assurances RC Internationale FR / ENG 80% - 100% (m / f)",
+    "company": "Michael Page Switzerland",
+    "location": "Switzerland",
+    "posted_date": "",
+    "department": "",
+    "score": -2,
+    "matched_keywords": [],
+    "deducted_keywords": [
+      "location:Switzerland"
+    ]
   }
 }
