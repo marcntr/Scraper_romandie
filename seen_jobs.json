@@ -88,7 +88,7 @@
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-10-23"
+    "cached_at": "2026-10-31"
   },
   "_facets:roche:roche-ext": {
     "facets": {},
@@ -96,7 +96,7 @@
       "Basel",
       "Kaiseraugst"
     ],
-    "cached_at": "2026-10-23"
+    "cached_at": "2026-10-31"
   },
   "_facets:novartis:Novartis_Careers": {
     "facets": {},
@@ -104,63 +104,63 @@
       "Basel",
       "Stein"
     ],
-    "cached_at": "2026-10-23"
+    "cached_at": "2026-10-31"
   },
   "_facets:sanofi:SanofiCareers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-10-23"
+    "cached_at": "2026-10-31"
   },
   "_facets:abbott:abbottcareers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-10-23"
+    "cached_at": "2026-10-31"
   },
   "_facets:pfizer:PfizerCareers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-10-23"
+    "cached_at": "2026-10-31"
   },
   "_facets:gsk:GSKCareers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-10-23"
+    "cached_at": "2026-10-31"
   },
   "_facets:astrazeneca:Careers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-10-23"
+    "cached_at": "2026-10-31"
   },
   "_facets:amgen:Careers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-10-23"
+    "cached_at": "2026-10-31"
   },
   "_facets:gilead:gileadcareers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-10-23"
+    "cached_at": "2026-10-31"
   },
   "_facets:modernatx:M_tx": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-10-23"
+    "cached_at": "2026-10-31"
   },
   "_facets:takeda:External": {
     "facets": {},
@@ -176,21 +176,21 @@
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-10-23"
+    "cached_at": "2026-10-31"
   },
   "_facets:msd:SearchJobs": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-10-23"
+    "cached_at": "2026-10-31"
   },
   "_facets:vrtx:Vertex_Careers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-10-23"
+    "cached_at": "2026-10-31"
   },
   "_facets:lonza:Lonza_Careers": {
     "facets": {},
@@ -199,7 +199,7 @@
       "Visp",
       "Stein"
     ],
-    "cached_at": "2026-10-23"
+    "cached_at": "2026-10-31"
   },
   "_facets:csl:CSL_External": {
     "facets": {},
@@ -209,7 +209,7 @@
       "St. Gallen",
       "Romont"
     ],
-    "cached_at": "2026-10-23"
+    "cached_at": "2026-10-31"
   },
   "_facets:alcon:careers_alcon": {
     "facets": {},
@@ -218,7 +218,7 @@
       "Hünenberg",
       "Zurich"
     ],
-    "cached_at": "2026-10-23"
+    "cached_at": "2026-10-31"
   },
   "_facets:galderma:External": {
     "facets": {},
@@ -227,63 +227,63 @@
       "La Tour-de-Peilz",
       "Lausanne"
     ],
-    "cached_at": "2026-10-23"
+    "cached_at": "2026-10-31"
   },
   "_facets:iqvia:IQVIA": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-10-23"
+    "cached_at": "2026-10-31"
   },
   "_facets:icon:broadbean_external": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-10-23"
+    "cached_at": "2026-10-31"
   },
   "_facets:parexel:Parexel_External_Careers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-10-23"
+    "cached_at": "2026-10-31"
   },
   "_facets:syneoshealth:Syneos_Health_External_Site": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-10-23"
+    "cached_at": "2026-10-31"
   },
   "_facets:myhrabc:Global": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-10-23"
+    "cached_at": "2026-10-31"
   },
   "_facets:thermofisher:ThermoFisherCareers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-10-23"
+    "cached_at": "2026-10-31"
   },
   "_facets:danaher:DanaherJobs": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-10-23"
+    "cached_at": "2026-10-31"
   },
   "_facets:illumina:illumina-careers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-10-23"
+    "cached_at": "2026-10-31"
   },
   "_facets:qiagen:QIAGEN": {
     "facets": {},
@@ -297,14 +297,14 @@
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-10-23"
+    "cached_at": "2026-10-31"
   },
   "_facets:jsrglobal:KBI_Biopharma": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-10-23"
+    "cached_at": "2026-10-31"
   },
   "_generic:Tigen Pharma": {
     "keywords": "npp"
@@ -1456,11 +1456,6 @@
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000155462920-software-engineer-it-ca-cet-2026-210-ld-?oga=true",
     "status": "matched"
   },
-  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000155516612": {
-    "description": "Vous dispensez, de manière autonome et/ou sur délégation médicale, des soins infirmiers personnalisés et globaux dans le cadre d’une unité de réhabilitation.\nVous assurez avec précision et rigueur la transmission d’informations entre les équipes multidisciplinaires et contribuez au développement de la qualité des soins. Vous collaborez à l’encadrement et à l’enseignement clinique du nouveau personnel soignant et des étudiants et étudiantes.\nVous soutenez les équipes en place avec une grande capacité d’adaptation, de souplesse et de disponibilité. Vous contribuez aux projets d’améliorations continues en montrant votre ouverture aux changements.",
-    "external_url": "https://jobs.smartrecruiters.com/HUG/744000155516612-infirmier-ou-infirmiere-crans-montana-80-?oga=true",
-    "status": "matched"
-  },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000155749480": {
     "description": "As a Project Engineer for the High-Luminosity LHC, you will join the Project Office (DO) within the Accelerators and Technology (ATS) Sector.\nIn the frame of HL-LHC installations during the Long Shutdown 3 (LS3) your work will focus on the follow up of de-installation and installation activities in support to the HL Activity coordinators and ensuring proper update of 3D models in as built status.\nYour responsibilities:\nDaily follow up of the ongoing activities in the worksites, tracking progress according to schedule and identify schedule issues and technical divergences.\nReport to HL Activity coordinators and propose mitigation actions for schedule issues and technical divergences.\nActively contribute to the installation schedule updates and changes considering the field work progress.\nTake part in the onsite organisation meeting, preparing material for it, providing support to the HL Activity coordinators.\nAnalyse the impacts of submitted Engineering Change Requests (ECR) to the installation schedule and on project budget.\nValidate equipment integration and ensure the 3D models are updated accordingly.\nSupporting the Work Packages for the de-installation and installation procedure preparation and contributing to the Installation Readiness Reviews required for starting of major installation phases.\nTake part in HL Technical coordination team activities for organising meetings, editing reports, updating SharePoint pages, etc.\nYour profile:\nExperience with project control and scheduling.\nExperience with multi-stakeholder negotiations.\nExperience with working in the field.\nSkills:\nFamiliarity with MS project.\nFamiliarity with CATIA V5 or equivalent.\nBasic knowledge of 3D modelling.\nSpoken and written both English and French.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nBy the application deadline, you have a maximum of two years of professional experience since graduation in Mechanical/Electrical/Industrial Engineering (or a related field) and your highest educational qualification is either a Bachelor's or Master's degree.\nYou have never had a CERN fellow or graduate contract before.\nApplicants without University degree are not eligible.\nApplicants with a PhD are not eligible.",
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000155749480-junior-project-engineer-ats-do-2026-244-grae-?oga=true",
@@ -1667,16 +1662,6 @@
       "location:Rue Gabrielle-Perret-Gentil, Switzerland"
     ]
   },
-  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000156511739": {
-    "description": "Le périmètre de vos activités comprend trois sites hospitaliers ainsi que plusieurs centres de consultation disséminés en ville de Genève.\nVous réalisez de manière autonome l’ensemble des tâches de maintenance préventive et corrective ainsi que les travaux d’installation demandés par votre hiérarchie.\nVous assurez le suivi et la surveillance des chantiers et travaux en veillant au respect des délais, des normes et des directives en vigueur.\nVous effectuez des retours réguliers sur vos interventions auprès de votre hiérarchie et signalez tout dysfonctionnement, dommage ou anomalie technique constatés.\nVous veillez à la mise à jour de la documentation technique ainsi qu’à l’entretien et au nettoyage des outils, locaux et équipements mis à votre disposition.\nSelon les besoins, vous supervisez également des travaux de maintenance et des dépannages liés à votre secteur d’activité. En tant que personne de contact, vous coordonnez, contrôlez et accompagnez les entreprises externes mandatées.\nVous participez à la gestion du stock ainsi qu’à la préparation des demandes de matériel.\nCurieux ou curieuse et motivée ou motivé par l’évolution des techniques et technologies de votre domaine, vous appréciez également transmettre votre savoir-faire et collaborer avec vos collègues.\nSensible aux enjeux environnementaux et aux économies d’énergie, vous intégrez ces préoccupations dans l’ensemble de vos activités.\nVous travaillez selon un horaire régulier et participez, selon un tournus planifié, au service de piquet de votre secteur. En cas d’urgence vous êtes également disposé ou disposée à intervenir en dehors des horaires habituels, y compris de nuit, les week-ends et les jours fériés.",
-    "external_url": "https://jobs.smartrecruiters.com/HUG/744000156511739-technicien-ou-technicienne-es-orientee-chauffage-sites-externes-100-?oga=true",
-    "status": "matched"
-  },
-  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000156509626": {
-    "description": "Au sein de la nouvelle Direction des blocs opératoires (DBO), vous jouez un rôle central et transversal dans la gestion stratégique, numérique et opérationnelle des équipements biomédicaux :\nDans le cadre de la Gouvernance & Planification stratégique, vous devez contribuer à la planification pluriannuelle des dispositifs médicaux (équipements et consommables associés), assurer la mise à jour de l’inventaire et piloter la gestion des immobilisations.\nVous avez également à élaborer le plan d’équipements de la DBO ; accompagner l’expression des besoins des utilisateurs et utilisatrices, évaluer les solutions existantes et challenger les demandes en lien avec les orientations institutionnelles. Vous participez activement aux groupes pluriprofessionnels pour les dossiers d’acquisition et de renouvellement pilotés par le Service Biomédical.  Vous coordonnerez les tests et mises en service avec les techniciens des blocs.\nEn tant que référente ou référent technologique & Interface active, vous apportez votre expertise technique et technologique lors des échanges au sein de la Direction et de la gouvernance des blocs opératoires.\nEn ce qui concerne l'Intégration numérique, vidéo et réseaux, vous participez à la gestion des interfaces complexes et interopérabilité entre équipements, travaillez en étroite collaboration avec les services informatiques sur l’intégration réseau et audiovisuelle (PACS, flux vidéo, etc.) du bloc opératoire.\nPour le Support opérationnel & Amélioration continue, vous encadrez le support de premier niveau, coordonnez les interventions techniques, planifiez de manière optimale les maintenances préventives via la GMAO (en lien avec le Secteur de maintenance biomédicale et avec les techniciens des blocs), contribuez à la gestion des dispositifs médicaux (DM/DMI), des prêts et des contrats associés, tout en contribuant aux projets transverses.\nPour la Formation & Accompagnement au changement, en lien avec les fournisseurs, vous devez concevoir les formations des différents équipements des blocs opératoires. Organiser et relayer ces formations aux équipes soignantes et médicales pour optimiser et sécuriser l’utilisation.\nPour les Grands projets de modernisation & Infrastructure, vous intervenez pour la DBO, en lien avec le service biomédical et la direction de l’immobilier, en tant que conseil auprès des architectes et chefs de projets lors des chantiers de rénovation et d’évolution des blocs. Vous devez définir les besoins, structurer les programmes techniques, anticiper les contraintes d’implantation et contribuer à assurer la cohérence globale entre infrastructures et pratiques cliniques.\nEn ce qui concerne la Veille technologique, Sécurité & Gestion des risques, vous devez assurer une veille active sur les innovations (robotique, IA, chirurgie assistée). Vous devez également veiller à la conformité réglementaire, anticiper les obsolescences, collaborer avec la commission de matériovigilance pour sécuriser la traçabilité et participer activement aux démarches qualité et d'atténuation des risques (dont la radioprotection, en collaboration avec la Direction médicale).",
-    "external_url": "https://jobs.smartrecruiters.com/HUG/744000156509626-ingenieur-ou-ingenieure-biomedicale-pour-la-direction-des-blocs-operatoires-100-?oga=true",
-    "status": "matched"
-  },
   "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000156511290": {
     "description": "En tant que représentante ou représentant du maître d'ouvrage, vous conduisez et gérez des projets institutionnels complexes en vous assurant de leur intégration dans la chaîne de valeur de l’institution dans des dimensions organisationnelles, technologiques et culturelles. Vous concourrez ainsi à la réalisation de la stratégie immobilière. \nVous conduisez des missions de conseil pour la gouvernance et interagissez avec des membres du Comité de Direction, Conseil d'Administration et politiques de l’Etat dans le cadre des grands projets. \nVous menez des missions de maîtrise d’ouvrage publique en conduisant l'ensemble des phases de l'organisation de projets, de l'étude de faisabilité à la réception de l'ouvrage selon les méthodologies Hermes et SIA. \nVous êtes un consultant ou une consultante interne et réalisez des études et des diagnostics des bâtiments de l'institution. Vous fournissez une expertise métiers dans l’un ou plusieurs domaines de l’immobilier dans le cadre des projets institutionnels. \nVous développez, entretenez et diffusez une veille stratégique dans le domaine des concepts architecturaux et de l'organisation de projets immobiliers.",
     "external_url": "https://jobs.smartrecruiters.com/HUG/744000156511290-representant-ou-representante-du-maitre-d-ouvrage-100-?oga=true",
@@ -1799,7 +1784,7 @@
     "title": "Intern - Supply Chain and Regulatory Compliance",
     "company": "Labcorp",
     "location": "CHE - Geneva - 7 rue Moise-Marcinhes",
-    "posted_date": "2026-10-11",
+    "posted_date": "2026-10-12",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -1815,7 +1800,7 @@
     "title": "Intern - Flow Cytometry Scientist",
     "company": "Labcorp",
     "location": "CHE - Geneva - 7 rue Moise-Marcinhes",
-    "posted_date": "2026-10-11",
+    "posted_date": "2026-10-12",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -1831,7 +1816,7 @@
     "title": "Intern - Bioinformatics",
     "company": "Labcorp",
     "location": "CHE - Geneva - 7 rue Moise-Marcinhes",
-    "posted_date": "2026-10-13",
+    "posted_date": "2026-10-14",
     "department": "",
     "score": 8,
     "matched_keywords": [
@@ -1850,7 +1835,7 @@
     "title": "Intern - Histology Scientist",
     "company": "Labcorp",
     "location": "CHE - Geneva - 7 rue Moise-Marcinhes",
-    "posted_date": "2026-10-13",
+    "posted_date": "2026-10-14",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -1868,7 +1853,7 @@
     "title": "Project & Portfolio Manager - Sites Network",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-20",
+    "posted_date": "2026-10-21",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1881,7 +1866,7 @@
     "title": "Senior Scientist in Flow Cytometry",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-21",
+    "posted_date": "2026-10-22",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -1903,7 +1888,7 @@
     "title": "Scientist – Oligonucleotide Chemistry & Innovation",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-19",
+    "posted_date": "2026-10-20",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1919,7 +1904,7 @@
     "title": "Lab Scientist, Microscopy",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-19",
+    "posted_date": "2026-10-20",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1939,7 +1924,7 @@
     "title": "Experienced Clinical Scientist/Medical monitor in neurosciences",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-15",
+    "posted_date": "2026-10-16",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -1957,7 +1942,7 @@
     "title": "Senior Scientist in Process Chemistry & Catalysis",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-19",
+    "posted_date": "2026-10-20",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1973,7 +1958,7 @@
     "title": "Sr. Scientist - Computational & Applied AI",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-14",
+    "posted_date": "2026-10-15",
     "department": "",
     "score": 8,
     "matched_keywords": [
@@ -1995,7 +1980,7 @@
     "title": "Experienced Discovery Scientist in Immunology",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-09",
+    "posted_date": "2026-10-10",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -2019,7 +2004,7 @@
     "title": "Portfolio Manager Liquid Alternatives",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-02",
+    "posted_date": "2026-10-03",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -2032,7 +2017,7 @@
     "title": "Post Doctorate Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-07",
+    "posted_date": "2026-10-08",
     "department": "",
     "score": 8,
     "matched_keywords": [
@@ -2047,19 +2032,6 @@
     ],
     "deducted_keywords": []
   },
-  "/job/Basel/Senior-Legal-Counsel---Legal-Business-Development---Corporate_202609-122881-1": {
-    "description": "At Roche you can show up as yourself, embraced for the unique qualities you bring. Our culture encourages personal expression, open dialogue, and genuine connections,  where you are valued, accepted and respected for who you are, allowing you to thrive both personally and professionally. This is how we aim to prevent, stop and cure diseases and ensure everyone has access to healthcare today and for generations to come. Join Roche, where every voice matters.\n\nThe Position\nWe are offering an exciting legal role that will help us to shape the future for patients across the globe. We focus on making a difference with cutting-edge technologies in research, development and commercialization of innovative therapeutic products. To that end, we are looking for an experienced transactional attorney. You have a global mindset and are capable of communicating at ease across cultures. You will be part of our global Legal Business Development & Corporate team, supporting Roche’s business development transactions (licensing, mergers and acquisitions, venture investments). You are curious and have an outstanding ability to build and maintain relationships both locally and globally. \n\nYou will be based at Roche headquarters in Basel and work with a team of outstanding local and global legal experts. \n\nThe Opportunity\n\nLead, structure, and negotiate complex global licensing transactions and support a growing portfolio of alliances\n\nAct as a trusted legal advisor to key business partners, assessing and managing legal risks appropriately and  pragmatically \n\nCollaborate closely within a global team of legal experts in Switzerland, the USA, and China.\n\nDesign and deliver targeted legal training programs to support evolving business needs and strategy.\n\nDrive cross-functional solutions while operating seamlessly across global time zones.\n\n \nWho You Are\n\nA qualified attorney with a Swiss bar admission (or foreign equivalent) and at least 5 years of post-bar experience, ideally with training or practice in an English-speaking country.\n\nExperienced in licensing and corporate law, IP/technology law within an in-house or specialized law firm setting.\n\nA skilled negotiator capable of translating complex legal issues into clear, actionable advice for diverse stakeholders.\n\nA collaborative relationship-builder with a strong affinity for tech/AI and a curiosity to learn.\n\nAn open-minded communicator fluent in English who thrives in global, multicultural team settings.\n\n \nWe look forward to your application!\n \n \n\nWho we are\nA healthier future drives us to innovate. Together, more than 100’000 employees across the globe are dedicated to advance science, ensuring everyone has access to healthcare today and for generations to come. Our efforts result in more than 26 million people treated with our medicines and over 30 billion tests conducted using our Diagnostics products. We empower each other to explore new possibilities, foster creativity, and keep our ambitions high, so we can deliver life-changing healthcare solutions that make a global impact.\n\nLet’s build a healthier future, together.\n\nRoche is an Equal Opportunity Employer.",
-    "external_url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Senior-Legal-Counsel---Legal-Business-Development---Corporate_202609-122881-1",
-    "status": "ignored",
-    "title": "Senior Legal Counsel – Legal Business Development & Corporate",
-    "company": "Roche",
-    "location": "Basel",
-    "posted_date": "2026-10-01",
-    "department": "",
-    "score": 0,
-    "matched_keywords": [],
-    "deducted_keywords": []
-  },
   "/job/Basel/Principal-Scientist---Discovery-Oncology_202609-123772-1": {
     "description": "At Roche you can show up as yourself, embraced for the unique qualities you bring. Our culture encourages personal expression, open dialogue, and genuine connections,  where you are valued, accepted and respected for who you are, allowing you to thrive both personally and professionally. This is how we aim to prevent, stop and cure diseases and ensure everyone has access to healthcare today and for generations to come. Join Roche, where every voice matters.\n\nThe Position\nA healthier future. It’s what drives us to innovate. To continuously advance science and ensure everyone has access to the healthcare they need today and for generations to come. Creating a world where we all have more time with the people we love. That’s what makes us Roche.\n\nThis position is located within our Discovery Research Unit focused on Cancer Cell Dependencies (CCD) within the Oncology Discovery organization dedicated to the discovery and development of novel cancer therapeutics. We collaborate closely with functions in Therapeutic Modalities, Pharmaceutical Science as well as within the oncology therapeutic area to translate hypotheses into innovative therapeutics.\n\nThe Opportunity\n\nAs a Senior / Principal Scientist Discovery Oncology, you will work within a collaborative team of motivated and scientifically rigorous scientists and associates to conduct preclinical research and advance our clinical and preclinical drug programs in the field of cancer cell biology. You will translate basic research findings into therapeutic strategies, utilizing genetic and pharmacological approaches to understand target mechanisms of action, generate patient stratification strategies and identify rational drug combinations that can be translated into the clinic.\n\nLead internal target identification initiatives and exploratory activities, from initial ideation to nomination of the program and proactively seek out future horizon opportunities and be passionate about the co-creation of new areas of focus. \n\nLead internal and external global cross-functional portfolio projects of high strategic impact, show resource awareness, coordinate cross-functional efforts to meet long-term project objectives as a matrix leader.\n\nDesign, execute and analyze/interpret experimental strategies and present research results and methodologies at regular meetings with teams, key stakeholders and/or interact regularly with project leaders, project teams and other research forums. Work collaboratively  with scientists and associates across oncology discovery research units to integrate complex data sets including high dimensional  ‘omic’ data in pre-clinical settings for target validation and increased understanding of target biology and MoA of therapeutic compounds.\n\nDrive resolution of key scientific challenges in their respective area of expertise and provide feedback to scientific communities. Proactively seek out and share new knowledge and incorporate this into individual project(s) as well as the overall portfolio, catalyze knowledge sharing within pRED function and make knowledge accessible throughout pRED.\n\nExternal Innovation (EI) SPOC for Discovery: Lead biology/discovery evaluations across Triage, Non-Confidential, Pre-DD, and DD stages for assets from Discovery through DevGo (handing over to EDO post-DevGo). Deliver clear Go/No-Go recommendations. Identify critical scientific questions for DD in preDD setting, co-author Pre-DD and DD-request slide decks, and present at governance check-ins. Lead biology DD activities, directly oversee Material Transfer Agreement (MTA) studies and data reporting, and contribute to final DD reports and governance presentations.\n\nRole model curiosity for working flexibly in new concepts and a matrix environment, take a proactive role in personal growth and scientific development. Enable individual and organizational learning within their teams and across the Discovery organization in order to advance the portfolio and scientific innovation. Thrive in a dynamic, inclusive environment and contribute to building a culture that embraces scientific excellence, accountability, urgency, partnerships with key stakeholders, continuous learning and improvement, increasing technical skill base and cancer biology expertise.\n\nProvide clarity of vision, coaching and architecture to enable smart decision-making, prioritization and the highest level of performance. Incentivize people to constructively challenge the status quo and stop doing work that does not have scientific and business impact.\n\nRole model E2E collaboration. Hold team members accountable for sharing, data, systems and methods. Nurture a culture where we debate, decide and commit, while respecting colleagues' intent and expertise regardless of hierarchy.\n\nHold themselves, colleagues and teams accountable for delivery and resource management. Incentivize and reward based on impact. Apply proactive performance management: ensure consequences for failure to deliver or engage in the foundational behaviors and mindset required for success.\n\nWho you are\n\nPhD or MD/PhD in Molecular or Cellular Biology, Immunology, Pharmacology (or a comparable biological science) with 6+ years of relevant postdoctoral experience in an academic or pharmaceutical/biotech environment.\nPrior industry experience is preferred.\nExperience in cancer drug discovery /translational research and targeting molecular pathways using diverse modalities including large and/or small molecule compounds.\nExperience in intracellular oncogenic signalling and cancer cell dependencies is required. Extensive knowledge and understanding of other areas of cancer biology including but not limited to cell cycle regulation, transcription factors, oncogenic signalling and or ADC biology is a plus.\nExperience supporting IND study reports or contributing to relevant sections of IND study reports is an advantage.\nCollaborative mind-set, capable and eager to work within a matrix organization, collective goal achievement, ability to work in a team environment, good communication skills.\n\nUnwavering focus, collaborative teamwork and exceptional delivery are key behaviors that drive our mission of doing now what patients need next. Together, we can be transformative.\n \nIf you are passionate about contributing to a committed team and have the dedication to partnership and innovation, Roche is the place for you! Every role at Roche plays a part in making a difference in patients’ lives. Apply now and join us in making an impact.\n\n \n \n\nWho we are\nA healthier future drives us to innovate. Together, more than 100’000 employees across the globe are dedicated to advance science, ensuring everyone has access to healthcare today and for generations to come. Our efforts result in more than 26 million people treated with our medicines and over 30 billion tests conducted using our Diagnostics products. We empower each other to explore new possibilities, foster creativity, and keep our ambitions high, so we can deliver life-changing healthcare solutions that make a global impact.\n\nLet’s build a healthier future, together.\n\nRoche is an Equal Opportunity Employer.",
     "external_url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Principal-Scientist---Discovery-Oncology_202609-123772-1",
@@ -2067,7 +2039,7 @@
     "title": "Principal Scientist - Discovery Oncology",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-30",
+    "posted_date": "2026-10-01",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -2091,7 +2063,7 @@
     "title": "Cardio-Renal Discovery & Scientific Strategy Area Leader",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-30",
+    "posted_date": "2026-10-01",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -2112,7 +2084,7 @@
     "title": "\"Principal Scientist siRNA Design",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-09-30",
+    "posted_date": "2026-10-01",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2128,7 +2100,7 @@
     "title": "Biomarker Therapeutic Area Head -Neuroscience",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-09-30",
+    "posted_date": "2026-10-01",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -2152,7 +2124,7 @@
     "title": "Director, Translational Medicine Expert (Neurodegeneration)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-09-30",
+    "posted_date": "2026-10-01",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -2175,7 +2147,7 @@
     "title": "Translational Medicine Director/Associate*- Cardiovascular & Metabolic",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-09-30",
+    "posted_date": "2026-10-01",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -2199,7 +2171,7 @@
     "title": "Director, Portfolio Analytics",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-10-21",
+    "posted_date": "2026-10-22",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2214,7 +2186,7 @@
     "title": "Global Regulatory Director, RA Central Solutions CTA/CTR",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-10-23",
+    "posted_date": "2026-10-24",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -2227,7 +2199,7 @@
     "title": "Next Generation Scientist 2027",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-10-15",
+    "posted_date": "2026-10-16",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -2248,7 +2220,7 @@
     "title": "Intern Data Science - Future Talent Program",
     "company": "Abbott",
     "location": "Switzerland - Basel",
-    "posted_date": "2026-10-12",
+    "posted_date": "2026-10-13",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2263,7 +2235,7 @@
     "title": "Intern Portfolio Strategy & Innovation - Future Talent Program",
     "company": "Abbott",
     "location": "Switzerland - Basel",
-    "posted_date": "2026-10-12",
+    "posted_date": "2026-10-13",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2278,7 +2250,7 @@
     "title": "Senior Associate Clinical Trials Regulatory Affairs",
     "company": "Amgen",
     "location": "Switzerland - Rotkreuz",
-    "posted_date": "2026-10-02",
+    "posted_date": "2026-10-03",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -2293,7 +2265,7 @@
     "title": "Consultant – Qualitative Market Research & Competitive Intelligence (Switzerland)/ Part-Time",
     "company": "IQVIA",
     "location": "Zug, Switzerland",
-    "posted_date": "2026-10-02",
+    "posted_date": "2026-10-03",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2309,7 +2281,7 @@
     "title": "Sr Manager, Quality & Regulatory Operations",
     "company": "Danaher",
     "location": "Neuchâtel, Switzerland",
-    "posted_date": "2026-10-07",
+    "posted_date": "2026-10-08",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -2324,7 +2296,7 @@
     "title": "Business Development Director",
     "company": "KBI Biopharma",
     "location": "Switzerland - Plan-les-Ouates",
-    "posted_date": "2026-09-30",
+    "posted_date": "2026-10-01",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -2347,7 +2319,7 @@
     "title": "WORKFORCE STRATEGY HEAD, ENTERPRISE DATA SCIENCE & ARTIFICIAL INTELLIGENCE (DSAI)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-10-26",
+    "posted_date": "2026-10-27",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -2360,7 +2332,7 @@
     "title": "AI Strategy & Portfolio Lead",
     "company": "Lonza",
     "location": "CH - Basel",
-    "posted_date": "2026-10-27",
+    "posted_date": "2026-10-28",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -2502,7 +2474,7 @@
     "title": "Regulatory Affairs Consultant (German and French language skills)",
     "company": "Parexel",
     "location": "Switzerland-Remote",
-    "posted_date": "2026-10-28",
+    "posted_date": "2026-10-29",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -2519,7 +2491,7 @@
     "title": "Internship in PD Medical Affairs Compliance and Process Excellence – Non-Interventional Studies (NIS) Optimization & Digital Workspace (12 Months, Basel)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-28",
+    "posted_date": "2026-10-29",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2535,7 +2507,7 @@
     "title": "Internship in PD Medical Affairs Compliance and Process Excellence – Project Management & Business Operations (12 Months, Basel)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-28",
+    "posted_date": "2026-10-29",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2593,7 +2565,7 @@
     "title": "Scientific AI Platform Lead, Data Science, Disease Area X",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-10-30",
+    "posted_date": "2026-10-31",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -2647,7 +2619,7 @@
     "title": "Associate Principal Scientist Bioanalytics 80-100% (f/m/d)",
     "company": "Lonza",
     "location": "CH - Basel",
-    "posted_date": "2026-10-30",
+    "posted_date": "2026-10-31",
     "department": "",
     "score": 1,
     "matched_keywords": [
