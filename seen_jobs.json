@@ -2623,5 +2623,17 @@
     "deducted_keywords": [
       "location:Switzerland"
     ]
+  },
+  "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-scientist-qa-bern-892890/1": {
+    "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-scientist-qa-bern-892890/1",
+    "status": "matched",
+    "title": "Scientist QA(m/f/d)",
+    "company": "Hays Switzerland",
+    "location": "Bern, Switzerland",
+    "posted_date": "",
+    "department": "",
+    "score": 0,
+    "matched_keywords": [],
+    "deducted_keywords": []
   }
 }
