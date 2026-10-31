@@ -1240,11 +1240,6 @@
       "location:Switzerland"
     ]
   },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000154363379": {
-    "description": "Interested in helping shape the next generation systems handling the very large amount of data coming out of CERN physics detectors? Passionate about machine learning (ML) and how it will reshape how our experiments work?\nYou will design and operate shared AI platforms used by experiments, researchers, and services across CERN - combining open-source innovation, cloud-native technologies, and high-performance computing to turn vast volumes of scientific data into insight.\nYour responsibilities:\nDesign and develop the platform and support activities in the Next Generation Triggers (NGT) project, shaping the next generation systems for the High Luminosity LHC (HL-LHC) and beyond.\nDesign and develop the central machine learning (ML) platform at CERN, supporting activities across all experiments, campus services and user communities.\nCollaborate with CERN teams to identify, prototype and benchmark AI use cases across heterogeneous computing infrastructures.\nBuild and maintain an open-source-based AI/MLOps ecosystem, including model and agent lifecycle management, evaluation, monitoring, and engagement with open-source communities and industry partners.\nYour profile:\nExperience with machine learning systems and platforms, including practical operation of ML services.\nStrong knowledge of MLOps and cloud-native technologies, such as Kubernetes, containers, CI/CD, observability, and model lifecycle management.\nExperience with GPU or accelerator-based workloads, including performance optimisation for training and inference.\nFamiliarity with open-source ecosystems, with an interest in evaluating and contributing to community projects.\nSkills:\nComfortable with Linux based systems.\nKnowledge of system configuration tools.\nIdentification and selection of relevant emerging ICT technologies.\nKnowledge and application of software life-cycle tools and procedures.\nSpoken and written English, with a commitment to learn French.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nBy the application deadline, you have a maximum of two years of professional experience since graduation in Computing Engineering (or a related field) and your highest educational qualification is either a Bachelor's or Master's degree.\nYou have never had a CERN fellow or graduate contract before.\nApplicants without University degree are not eligible.\nApplicants with a PhD are not eligible.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000154363379-machine-learning-engineer-it-cd-2026-239-grae-?oga=true",
-    "status": "matched"
-  },
   "https://api.smartrecruiters.com/v1/companies/Sobi/postings/744000154365554": {
     "description": "Introduction/Purpose:\nThe position holder will be office based and is expected to travel occasionally for internal and external meetings, trainings and conferences. It will be the responsibility of the position holder to help develop the presence and recognition of Sobi as a credible partner within the rare disease community through supporting the development of relationships with key stakeholders (especially physicians), as well as authorities and patient access colleagues as well as DACH and HQ staff in a cross functional approach to Sobi’s interactions with all stakeholders (physicians, payers, nurses and patients).\nObjective for the company:\nPropose and implement market access strategies and tactics for all Sobi products that are already launched and marketed in the DACH region in light of the current applicable regulations and the expectations of the health authorities, customers and patients organizations.\nKey Responsibilities:\nWork closely with the local cross-functional product teams as well as with the National Sales Managers to identify pricing and positioning opportunities as well as threats for the Haemophilia franchise, Haematology and Immunology products.\nStrong collaboration with finance, sales and patient access to manage existing and develop new pricing and reimbursement offers and the impact from an economical perspective\nMonitor competitive environment and develop appropriate pricing and contracting strategies for marketed Sobi products to support commercial business goals\nExecute and negotiate pricing and contracting strategies with relevant stakeholders as sick funds or physician associations where needed\nProduce and analyse contract/payer specific reports\nDevelop consultative relationships with key decision makers and stakeholders and leverage Sobi as the preferred partner for innovative contracting models\nIdentify national and regional authorities and stakeholders with responsibility for the pricing and reimbursement of existing and new products and engage appropriately with such bodies together with the Director Patient Access & Engagement DACH to understand requirements and support for optimal pricing and reimbursement\nProactively track key legislative changes and sick fund related changes with potential impact on Sobi’s business\nDevelop and drive local real-world evidence and HEOR strategy as well as respective publication plan to demonstrate reliable insights of health care reality and benefits of modern therapy approaches\nLiase with Marketing and Patient Access to drive materials, fact sheets, cost calculators and other selling tools\nSupport the AMNOG process for Sobi’s pre-launch products by shaping reimbursement strategies, dossiers and benefit assessment process in close collaboration with the pre-launch Patient Access team\nPropose, coordinate and lead AMNOG negotiations with GKV-SV in close collaboration with the pre-launch Patient Access team",
     "external_url": "https://jobs.smartrecruiters.com/Sobi/744000154365554-market-access-manager?oga=true",
@@ -1487,18 +1482,6 @@
     "title": "Senior Scientist(m/f/d)",
     "company": "Hays Switzerland",
     "location": "Basel Stadt, Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": 0,
-    "matched_keywords": [],
-    "deducted_keywords": []
-  },
-  "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-scientist-qa-bern-892890/1": {
-    "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-scientist-qa-bern-892890/1",
-    "status": "ignored",
-    "title": "Scientist QA(m/f/d)",
-    "company": "Hays Switzerland",
-    "location": "Bern, Switzerland",
     "posted_date": "",
     "department": "",
     "score": 0,
@@ -1784,7 +1767,7 @@
     "title": "Intern - Supply Chain and Regulatory Compliance",
     "company": "Labcorp",
     "location": "CHE - Geneva - 7 rue Moise-Marcinhes",
-    "posted_date": "2026-10-12",
+    "posted_date": "2026-10-11",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -1800,7 +1783,7 @@
     "title": "Intern - Flow Cytometry Scientist",
     "company": "Labcorp",
     "location": "CHE - Geneva - 7 rue Moise-Marcinhes",
-    "posted_date": "2026-10-12",
+    "posted_date": "2026-10-11",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -1816,7 +1799,7 @@
     "title": "Intern - Bioinformatics",
     "company": "Labcorp",
     "location": "CHE - Geneva - 7 rue Moise-Marcinhes",
-    "posted_date": "2026-10-14",
+    "posted_date": "2026-10-13",
     "department": "",
     "score": 8,
     "matched_keywords": [
@@ -1835,7 +1818,7 @@
     "title": "Intern - Histology Scientist",
     "company": "Labcorp",
     "location": "CHE - Geneva - 7 rue Moise-Marcinhes",
-    "posted_date": "2026-10-14",
+    "posted_date": "2026-10-13",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -1853,7 +1836,7 @@
     "title": "Project & Portfolio Manager - Sites Network",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-21",
+    "posted_date": "2026-10-20",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1866,7 +1849,7 @@
     "title": "Senior Scientist in Flow Cytometry",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-22",
+    "posted_date": "2026-10-21",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -1888,7 +1871,7 @@
     "title": "Scientist – Oligonucleotide Chemistry & Innovation",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-20",
+    "posted_date": "2026-10-19",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1904,7 +1887,7 @@
     "title": "Lab Scientist, Microscopy",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-20",
+    "posted_date": "2026-10-19",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1924,7 +1907,7 @@
     "title": "Experienced Clinical Scientist/Medical monitor in neurosciences",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-16",
+    "posted_date": "2026-10-15",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -1942,7 +1925,7 @@
     "title": "Senior Scientist in Process Chemistry & Catalysis",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-20",
+    "posted_date": "2026-10-19",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1958,7 +1941,7 @@
     "title": "Sr. Scientist - Computational & Applied AI",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-15",
+    "posted_date": "2026-10-14",
     "department": "",
     "score": 8,
     "matched_keywords": [
@@ -1980,7 +1963,7 @@
     "title": "Experienced Discovery Scientist in Immunology",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-10",
+    "posted_date": "2026-10-09",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -2004,7 +1987,7 @@
     "title": "Portfolio Manager Liquid Alternatives",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-03",
+    "posted_date": "2026-10-02",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -2017,7 +2000,7 @@
     "title": "Post Doctorate Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-08",
+    "posted_date": "2026-10-07",
     "department": "",
     "score": 8,
     "matched_keywords": [
@@ -2171,7 +2154,7 @@
     "title": "Director, Portfolio Analytics",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-10-22",
+    "posted_date": "2026-10-21",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2186,7 +2169,7 @@
     "title": "Global Regulatory Director, RA Central Solutions CTA/CTR",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-10-24",
+    "posted_date": "2026-10-23",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -2199,7 +2182,7 @@
     "title": "Next Generation Scientist 2027",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-10-16",
+    "posted_date": "2026-10-15",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -2220,7 +2203,7 @@
     "title": "Intern Data Science - Future Talent Program",
     "company": "Abbott",
     "location": "Switzerland - Basel",
-    "posted_date": "2026-10-13",
+    "posted_date": "2026-10-12",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2235,7 +2218,7 @@
     "title": "Intern Portfolio Strategy & Innovation - Future Talent Program",
     "company": "Abbott",
     "location": "Switzerland - Basel",
-    "posted_date": "2026-10-13",
+    "posted_date": "2026-10-12",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2250,7 +2233,7 @@
     "title": "Senior Associate Clinical Trials Regulatory Affairs",
     "company": "Amgen",
     "location": "Switzerland - Rotkreuz",
-    "posted_date": "2026-10-03",
+    "posted_date": "2026-10-02",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -2265,7 +2248,7 @@
     "title": "Consultant – Qualitative Market Research & Competitive Intelligence (Switzerland)/ Part-Time",
     "company": "IQVIA",
     "location": "Zug, Switzerland",
-    "posted_date": "2026-10-03",
+    "posted_date": "2026-10-02",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2281,7 +2264,7 @@
     "title": "Sr Manager, Quality & Regulatory Operations",
     "company": "Danaher",
     "location": "Neuchâtel, Switzerland",
-    "posted_date": "2026-10-08",
+    "posted_date": "2026-10-07",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -2319,7 +2302,7 @@
     "title": "WORKFORCE STRATEGY HEAD, ENTERPRISE DATA SCIENCE & ARTIFICIAL INTELLIGENCE (DSAI)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-10-27",
+    "posted_date": "2026-10-26",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -2332,7 +2315,7 @@
     "title": "AI Strategy & Portfolio Lead",
     "company": "Lonza",
     "location": "CH - Basel",
-    "posted_date": "2026-10-28",
+    "posted_date": "2026-10-27",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -2350,7 +2333,7 @@
     "title": "Scientist – Assay Data, AI & Workflows",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "",
+    "posted_date": "2026-10-29",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -2474,7 +2457,7 @@
     "title": "Regulatory Affairs Consultant (German and French language skills)",
     "company": "Parexel",
     "location": "Switzerland-Remote",
-    "posted_date": "2026-10-29",
+    "posted_date": "2026-10-28",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -2491,7 +2474,7 @@
     "title": "Internship in PD Medical Affairs Compliance and Process Excellence – Non-Interventional Studies (NIS) Optimization & Digital Workspace (12 Months, Basel)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-29",
+    "posted_date": "2026-10-28",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2507,7 +2490,7 @@
     "title": "Internship in PD Medical Affairs Compliance and Process Excellence – Project Management & Business Operations (12 Months, Basel)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-29",
+    "posted_date": "2026-10-28",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2548,7 +2531,7 @@
     "title": "Data Scientist / Engineer - DNA-Encoded Library Technology (DELT)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "",
+    "posted_date": "2026-10-29",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -2565,7 +2548,7 @@
     "title": "Scientific AI Platform Lead, Data Science, Disease Area X",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-10-31",
+    "posted_date": "",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -2619,7 +2602,7 @@
     "title": "Associate Principal Scientist Bioanalytics 80-100% (f/m/d)",
     "company": "Lonza",
     "location": "CH - Basel",
-    "posted_date": "2026-10-31",
+    "posted_date": "",
     "department": "",
     "score": 1,
     "matched_keywords": [
