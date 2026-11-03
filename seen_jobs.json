@@ -9,7 +9,7 @@
     "keywords": "npp"
   },
   "_generic:Charles River Laboratories": {
-    "keywords": "regulatory,scientist"
+    "keywords": "regulatory"
   },
   "_generic:MoonLake Immunotherapeutics": {
     "keywords": "clinical development,medical affairs"
@@ -27,7 +27,7 @@
     "keywords": "alliance management,business development,clinical development,immuno-oncology,licensing,portfolio,regulatory,regulatory affairs,scientific advisor,scientific lead"
   },
   "_generic:BC Platforms": {
-    "keywords": "business development,clinical development,data science,evidence generation,precision medicine,scientist"
+    "keywords": "clinical development,data science,evidence generation,precision medicine,scientist"
   },
   "_generic:ABCDx": {
     "keywords": "biomarker,portfolio"
@@ -757,7 +757,8 @@
     "https://www.michaelpage.ch/de/job-detail/key-account-business-development-manager-schweiz-mwd/ref/jn-092026-7097880?lang=en": "ignored",
     "https://www.michaelpage.ch/de/job-detail/regulatory-affairs-specialist/ref/jn-102026-7122321?lang=en": "ignored",
     "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Basel-City/Global-Regulatory-Director--RA-Central-Solutions-CTA-CTR_REQ-10089021": "ignored",
-    "https://jobs.smartrecruiters.com/CERN/744000153423250-laser-scientist-isolde-rilis-sy-sti-lps-2026-159-grap-?oga=true": "ignored"
+    "https://jobs.smartrecruiters.com/CERN/744000153423250-laser-scientist-isolde-rilis-sy-sti-lps-2026-159-grap-?oga=true": "ignored",
+    "https://www.michaelpage.ch/de/job-detail/business-development-manager-100/ref/jn-102026-7129527?lang=en": "ignored"
   },
   "_generic:Hurdle Bio": {
     "keywords": "biomarker,precision medicine"
@@ -1142,11 +1143,6 @@
   "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000153697304": {
     "description": "En regard de votre parcours de formation pour l’obtention de votre titre en psychiatrie et psychothérapie, vous intégrez une unité de soins du département et assurez, au sein d'une équipe pluridisciplinaire, le suivi psychiatrique et psychothérapeutique hospitalier ou ambulatoire des patientes et patients de votre unité.\nParallèlement à votre activité, vous bénéficiez d'une formation post-graduée clinique et structurée intégrée de qualité selon les exigences de la FMH pour l'obtention du titre de spécialiste en psychiatrie et psychothérapie.\nIl vous est également possible de participer aux activités de recherches en cours au niveau des services. Vous pouvez également bénéficier d’un accompagnement pour effectuer une thèse de doctorat.\nUne formation intégrée de qualité répondant aux exigences de la Fédération des médecins suisses (FMH) qui comprend tant une formation pratique par l’activité clinique que théorique dans l’ensemble des champs de la psychiatrie ainsi que dans les trois principaux axes de la psychothérapie.\nDans le cadre de votre formation, vous assurez un tournus au sein des différents services du département selon votre choix de parcours de formation.\nA cette formation pratique et théorique se rajoute la participation à des supervisions de psychothérapie et des congrès. \nLe département prend en charge l’ensemble de la formation.",
     "external_url": "https://jobs.smartrecruiters.com/HUG/744000153697304-medecin-interne-en-psychiatrie-80-a-100-?oga=true",
-    "status": "matched"
-  },
-  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000153697597": {
-    "description": "Dans le cadre de votre formation en infectiologie, vous intégrez le SPCI en vue de l’obtention du diplôme de formation approfondie en PCI, certifiée par l’ISFM. La formation porte en particulier sur l’épidémiologie, la microbiologie et plus particulièrement la résistance aux antibiotiques, l’hygiène environnementale, la désinfection/stérilisation et la gestion des risques et sciences comportementales (https://siwf.ch/files/pdf26/infektionspraevention_version_internet_f.pdf).\nAu sein du SPCI, vous participez à des activités variées de consultation auprès des patients et patientes ainsi que des équipes professionnelles, logistiques et opérationnelles. Vous contribuez également aux activités de surveillance épidémiologique et des pratiques de soins, notamment par le suivi des micro-organismes multirésistants et des événements infectieux sporadiques, épidémiques ou endémiques associés aux soins. Le poste inclut en outre une participation aux activités de formation et d’enseignement, y compris la formation des nouveaux collaborateurs et collaboratrices des HUG et l’animation d’ateliers thématiques. Enfin, vous êtes associée ou associé aux activités de promotion et de recherche du SPCI. A ce titre, vous aurez l’occasion de participer aux études cliniques observationnelles et interventionnelles en cours au sein du service.\nDans le cadre de votre activité de base, vous êtes amené ou amenée à contribuer de manière significative au projet national de surveillance et prévention des bactériémies associées aux cathéters vasculaires centraux (CLABSI), en collaboration avec d’autres hôpitaux suisses et en particulier Swissnoso ainsi que l’Office Fédéral de la Santé Publique (OFSP). Cette activité inclut des taches de coordination, gestion d’équipe, recherche, communication et d’implémentation des modules de surveillance et prévention au niveau local et national.\nEvoluant dans un environnement universitaire stimulant et exigeant, au sein d’une équipe pluridisciplinaire, vous participez à l’encadrement des stagiaires, étudiantes et étudiantes et doctorants. Vous êtes supervisé ou supervisée par le médecin chef et les médecins adjoints du service et vous collaborez de façon étroite avec l’équipe des ISC, les médecins ainsi que les collaborateurs et collaboratrices scientifiques.",
-    "external_url": "https://jobs.smartrecruiters.com/HUG/744000153697597-medecin-interne-en-prevention-et-controle-de-l-infection-100-?oga=true",
     "status": "matched"
   },
   "https://www.michaelpage.ch/de/job-detail/business-development-manager-100/ref/jn-082026-7090776?lang=en": {
@@ -1537,19 +1533,9 @@
     "external_url": "https://jobs.smartrecruiters.com/HUG/744000156513019-infirmier-ou-infirmiere-de-recherche-60-a-80-?oga=true",
     "status": "matched"
   },
-  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000156512669": {
-    "description": "Le poste est rattaché l’unité d’investigations anesthésiologiques hospitalo-universitaire qui a pour mission de soutenir la mise en place, la conduite et la valorisation des projets de recherche clinique et translationnels en lien avec les services cliniques, la Faculté de médecine et les partenaires institutionnels, et à l’unité d’anesthésie pédiatrique. Elle n’a pas d’activité d’accueil de la patientèle.\nDans le cadre des 2 unités :\nRattaché aux directions des deux unités, vous assurez de façon autonome le secrétariat, dans tous les domaines relevant de ses activités hospitalières, académiques et institutionnelles, avec prises de décision selon délégation de pouvoirs, après examen des dossiers.\nVous gérez et organisez l’agenda des deux médecins responsables d’unité, filtrez les sollicitations et assurez l’interface avec les interlocutrices et interlocuteurs internes et externes (département, faculté, et partenaires).\nVous réalisez les demandes de formation, congrès, etc., organisez les déplacements et effectuez les demandes de remboursements des frais y relatives, les demandes d’accès pour l’ensemble des médecins cadres des deux unités.\nVous contribuez à la saisie et au suivi des éléments dans l’outil VRH des 2 équipes, à l’accueil administratif des nouveaux collaborateurs et collaboratrices (infirmières de recherche, doctorantes et doctorants, stagiaires) et à la préparation des dossiers d’engagement.\nVous appuyez la gestion administrative des comptes hospitaliers (HUG) et facultaires (UNIGE): pièces justificatives, notes de frais, engagements, suivi des échéances et des clôtures, en lien avec la comptabilité des deux institutions. Vous soutenez administrativement les responsables d’unités dans le processus de recrutement du nouveau personnel et gérez les horaires et absences du personnel (hospitalo-universitaire) sur les applications institutionnelles de gestion du temps.\n\nDans le cadre de l’assistanat du professeur hospitalo-universitaire responsable de l’Unité d’investigations anesthésiologiques :\nVous organisez les séances d’équipe de l’unité, les comités stratégiques, les séances de projets, rédigez les comptes rendus et assurez le suivi des décisions.\nVous contribuez à la vie administrative des projets de recherche (conventions, circulation des signatures, classement du dossier administratif, soutenances et réunions).\nVous maintenez à jour l’intranet et les pages web de l’unité, la liste des projets soutenus tant cliniques que facultaires, ainsi que les listes de diffusion et l’organigramme.\nVous rédigez et mettez en page courriers, notes, rapports d’activité et financier et présentations.\nVous assurez la continuité du secrétariat en l’absence de la direction, dans le cadre de la délégation qui vous est confiée.\n\nDans le cadre de l’assistanat du professeur hospitalo-universitaire responsable de l’Unité d’anesthésie pédiatrique :\nVous apportez votre assistance pour la gestion des piquets des médecins du secteur et des plans de garde. Vous êtes l’interface avec tous les partenaires du service d’anesthésiologie pédiatrique, notamment pour les greffes et les bilans hépatiques.\nVous gérez les expertises pour les assurances et le suivi des dossiers pour les litiges. Grâce à votre aisance relationnelle, vous collaborez avec les équipes pluridisciplinaires, les collaborateurs et collaboratrices, les secteurs partenaires, les personnes privées et les autres services. Vous interagissez avec vos collègues du département.\nEt plus généralement, votre sens du service fait de vous une personne agile prête à mettre sa polyvalence au service de l’institution pour exercer dans différents services en fonction des besoins.",
-    "external_url": "https://jobs.smartrecruiters.com/HUG/744000156512669-secretaire-assistante-ou-assistant-de-la-responsable-de-l-unite-d-investigations-anesthesiologies-et-du-responsable-de-l-unite-pediatrique-du-service-d-anesthesie-80-?oga=true",
-    "status": "matched"
-  },
   "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000156512489": {
     "description": "Au sein du service de rhumatologie vous faîtes de la recherche en épidémiologie et statistiques appliquées, en vue d’accroître les connaissances scientifiques et mettre au point des applications pratiques, notamment d’ordre médical, industriel et de santé publique. Vous travaillez principalement sur des registres et des études observationnelles longitudinales.\nVous étudiez de nouvelles techniques d’analyse statistiques et leurs applications.\nVous participez à l’enseignement de travaux pratiques, de séminaires et de colloques.",
     "external_url": "https://jobs.smartrecruiters.com/HUG/744000156512489-assistant-ou-assistante-de-recherche-service-de-rhumatologie-80-a-100-?oga=true",
-    "status": "matched"
-  },
-  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000156510980": {
-    "description": "Dans le cadre de votre fonction, vous contribuez, sous la responsabilité infirmière et en collaboration avec l’équipe interprofessionnelle, à la prise en charge globale de patients adultes hospitalisés en chirurgie cardio-vasculaire, thoracique et plastique, en chirurgie viscérale, dans un contexte de soins aigus.\nVous assurez des soins de base et médico-techniques délégués, participez à l’accompagnement des patients et patientes dans les activités de la vie quotidienne, et contribuez activement à leur confort, leur sécurité et leur bien-être durant leur hospitalisation. Vous intervenez auprès d’une patientèle en période pré et post-opératoire nécessitant une prise en charge rigoureuse, une grande capacité d’adaptation et une vigilance clinique constante.\nVous participez à la surveillance de l’état général des patients et patientes, à la prévention des complications post-opératoires ainsi qu’à la mobilisation précoce, en étroite collaboration avec les équipes soignantes. Vous accompagnez également les patients et leurs proches dans la compréhension des mesures de soins, notamment en lien avec la récupération fonctionnelle, la douleur et le retour à domicile.\nGrâce à votre sens de l’organisation, votre esprit d’équipe et vos compétences relationnelles, vous collaborez étroitement avec les différents professionnels et professionnelles de santé afin d’assurer la continuité et la qualité des soins. Vous contribuez également à l’accueil et à l’intégration des nouveaux collaborateurs et collaboratrices ainsi qu’à l’encadrement des personnes en formation.",
-    "external_url": "https://jobs.smartrecruiters.com/HUG/744000156510980-assistant-ou-assistante-en-soins-et-sante-communautaire-departement-de-chirurgie-80-a-90-?oga=true",
     "status": "matched"
   },
   "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000156512180": {
@@ -1566,11 +1552,6 @@
     "deducted_keywords": [
       "location:Rue Gabrielle-Perret-Gentil, Switzerland"
     ]
-  },
-  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000156511290": {
-    "description": "En tant que représentante ou représentant du maître d'ouvrage, vous conduisez et gérez des projets institutionnels complexes en vous assurant de leur intégration dans la chaîne de valeur de l’institution dans des dimensions organisationnelles, technologiques et culturelles. Vous concourrez ainsi à la réalisation de la stratégie immobilière. \nVous conduisez des missions de conseil pour la gouvernance et interagissez avec des membres du Comité de Direction, Conseil d'Administration et politiques de l’Etat dans le cadre des grands projets. \nVous menez des missions de maîtrise d’ouvrage publique en conduisant l'ensemble des phases de l'organisation de projets, de l'étude de faisabilité à la réception de l'ouvrage selon les méthodologies Hermes et SIA. \nVous êtes un consultant ou une consultante interne et réalisez des études et des diagnostics des bâtiments de l'institution. Vous fournissez une expertise métiers dans l’un ou plusieurs domaines de l’immobilier dans le cadre des projets institutionnels. \nVous développez, entretenez et diffusez une veille stratégique dans le domaine des concepts architecturaux et de l'organisation de projets immobiliers.",
-    "external_url": "https://jobs.smartrecruiters.com/HUG/744000156511290-representant-ou-representante-du-maitre-d-ouvrage-100-?oga=true",
-    "status": "matched"
   },
   "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000156513839": {
     "description": "En étroite collaboration avec les équipes hospitalières françaises et suisses, vous apportez un appui scientifique et méthodologique aux activités du projet.\n\nSous la supervision du chef de projet, vous contribuez à l'analyse des parcours patients transfrontaliers, à l'évaluation de nouvelles organisations de soins, au suivi des activités scientifiques ainsi qu'à l'évaluation de dispositifs numériques facilitant le repérage des patientes et patients éligibles aux essais cliniques.\n\nVous collaborez avec les équipes hospitalières françaises et suisses afin de recueillir les informations nécessaires à la mise en oeuvre des différentes phases du projet.\nDans le cadre de l’analyse des parcours patients, vous participez à la collecte et à l’exploitation des informations relatives aux parcours de soins transfrontaliers.\nVous contribuez à l’identification des freins juridiques, organisationnels, administratifs et logistiques pouvant entraver l’accès aux soins et analysez, en collaboration avec l’homologue français, les différences organisationnelles entre les systèmes de santé suisse et français.\nÀ partir de ces éléments, vous prenez part à la rédaction de rapports d’analyse et de synthèse et contribuez à l’élaboration de recommandations visant à fluidifier les parcours patients et à faciliter l’accès aux essais cliniques. Vous entretenez également des échanges réguliers avec les partenaires hospitaliers suisses et français.\nDans le cadre du projet pilote, vous participez à la coordination des patients transfrontaliers inclus dans les études cliniques. Vous contribuez à l’harmonisation des procédures administratives et cliniques, notamment en matière de consentements, de documents réglementaires, d’assurances et d’organisation du transport des patients.\nVous participez à l’identification des difficultés rencontrées par la patientèle et les professionnels et professionnelles de santé et contribuez à la collecte des indicateurs nécessaires à l’évaluation des outils de trial matching, ainsi qu’au recrutement, au repérage et à l’orientation de la patientèle vers les essais cliniques. Enfin, vous participez à l’interprétation des résultats et à leur valorisation sous forme de rapports techniques et scientifiques.",
@@ -1679,7 +1660,7 @@
     "title": "Intern - Flow Cytometry Scientist",
     "company": "Labcorp",
     "location": "CHE - Geneva - 7 rue Moise-Marcinhes",
-    "posted_date": "2026-10-11",
+    "posted_date": "2026-10-12",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -1695,7 +1676,7 @@
     "title": "Intern - Bioinformatics",
     "company": "Labcorp",
     "location": "CHE - Geneva - 7 rue Moise-Marcinhes",
-    "posted_date": "2026-10-13",
+    "posted_date": "2026-10-14",
     "department": "",
     "score": 8,
     "matched_keywords": [
@@ -1714,7 +1695,7 @@
     "title": "Intern - Histology Scientist",
     "company": "Labcorp",
     "location": "CHE - Geneva - 7 rue Moise-Marcinhes",
-    "posted_date": "2026-10-13",
+    "posted_date": "2026-10-14",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -1732,7 +1713,7 @@
     "title": "Project & Portfolio Manager - Sites Network",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-20",
+    "posted_date": "2026-10-21",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1745,7 +1726,7 @@
     "title": "Senior Scientist in Flow Cytometry",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-21",
+    "posted_date": "2026-10-22",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -1767,7 +1748,7 @@
     "title": "Scientist – Oligonucleotide Chemistry & Innovation",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-19",
+    "posted_date": "2026-10-20",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1783,7 +1764,7 @@
     "title": "Lab Scientist, Microscopy",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-19",
+    "posted_date": "2026-10-20",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1803,7 +1784,7 @@
     "title": "Experienced Clinical Scientist/Medical monitor in neurosciences",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-15",
+    "posted_date": "2026-10-16",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -1821,7 +1802,7 @@
     "title": "Senior Scientist in Process Chemistry & Catalysis",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-19",
+    "posted_date": "2026-10-20",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1837,7 +1818,7 @@
     "title": "Sr. Scientist - Computational & Applied AI",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-14",
+    "posted_date": "2026-10-15",
     "department": "",
     "score": 8,
     "matched_keywords": [
@@ -1859,7 +1840,7 @@
     "title": "Experienced Discovery Scientist in Immunology",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-09",
+    "posted_date": "2026-10-10",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -1883,7 +1864,7 @@
     "title": "Post Doctorate Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-07",
+    "posted_date": "2026-10-08",
     "department": "",
     "score": 8,
     "matched_keywords": [
@@ -1905,7 +1886,7 @@
     "title": "Principal Scientist - Discovery Oncology",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-03",
+    "posted_date": "2026-10-04",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -1929,7 +1910,7 @@
     "title": "Cardio-Renal Discovery & Scientific Strategy Area Leader",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-03",
+    "posted_date": "2026-10-04",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -1950,7 +1931,7 @@
     "title": "\"Principal Scientist siRNA Design",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-03",
+    "posted_date": "2026-10-04",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1966,7 +1947,7 @@
     "title": "Biomarker Therapeutic Area Head -Neuroscience",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-10-03",
+    "posted_date": "2026-10-04",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -1990,7 +1971,7 @@
     "title": "Director, Translational Medicine Expert (Neurodegeneration)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-10-03",
+    "posted_date": "2026-10-04",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -2013,7 +1994,7 @@
     "title": "Translational Medicine Director/Associate*- Cardiovascular & Metabolic",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-10-03",
+    "posted_date": "2026-10-04",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -2037,7 +2018,7 @@
     "title": "Director, Portfolio Analytics",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-10-21",
+    "posted_date": "2026-10-22",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2052,7 +2033,7 @@
     "title": "Next Generation Scientist 2027",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-10-15",
+    "posted_date": "2026-10-16",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -2073,7 +2054,7 @@
     "title": "Intern Data Science - Future Talent Program",
     "company": "Abbott",
     "location": "Switzerland - Basel",
-    "posted_date": "2026-10-12",
+    "posted_date": "2026-10-13",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2088,7 +2069,7 @@
     "title": "Intern Portfolio Strategy & Innovation - Future Talent Program",
     "company": "Abbott",
     "location": "Switzerland - Basel",
-    "posted_date": "2026-10-12",
+    "posted_date": "2026-10-13",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2103,7 +2084,7 @@
     "title": "Senior Associate Clinical Trials Regulatory Affairs",
     "company": "Amgen",
     "location": "Switzerland - Rotkreuz",
-    "posted_date": "2026-10-03",
+    "posted_date": "2026-10-04",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -2118,7 +2099,7 @@
     "title": "Consultant – Qualitative Market Research & Competitive Intelligence (Switzerland)/ Part-Time",
     "company": "IQVIA",
     "location": "Zug, Switzerland",
-    "posted_date": "2026-10-03",
+    "posted_date": "2026-10-04",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2134,7 +2115,7 @@
     "title": "Sr Manager, Quality & Regulatory Operations",
     "company": "Danaher",
     "location": "Neuchâtel, Switzerland",
-    "posted_date": "2026-10-07",
+    "posted_date": "2026-10-08",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -2149,7 +2130,7 @@
     "title": "Business Development Director",
     "company": "KBI Biopharma",
     "location": "Switzerland - Plan-les-Ouates",
-    "posted_date": "2026-10-03",
+    "posted_date": "2026-10-04",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -2172,7 +2153,7 @@
     "title": "WORKFORCE STRATEGY HEAD, ENTERPRISE DATA SCIENCE & ARTIFICIAL INTELLIGENCE (DSAI)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-10-26",
+    "posted_date": "2026-10-27",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -2185,7 +2166,7 @@
     "title": "AI Strategy & Portfolio Lead",
     "company": "Lonza",
     "location": "CH - Basel",
-    "posted_date": "2026-10-27",
+    "posted_date": "2026-10-28",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -2203,7 +2184,7 @@
     "title": "Scientist – Assay Data, AI & Workflows",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-29",
+    "posted_date": "2026-10-30",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -2327,7 +2308,7 @@
     "title": "Regulatory Affairs Consultant (German and French language skills)",
     "company": "Parexel",
     "location": "Switzerland-Remote",
-    "posted_date": "2026-10-28",
+    "posted_date": "2026-10-29",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -2344,7 +2325,7 @@
     "title": "Internship in PD Medical Affairs Compliance and Process Excellence – Non-Interventional Studies (NIS) Optimization & Digital Workspace (12 Months, Basel)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-28",
+    "posted_date": "2026-10-29",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2360,7 +2341,7 @@
     "title": "Internship in PD Medical Affairs Compliance and Process Excellence – Project Management & Business Operations (12 Months, Basel)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-28",
+    "posted_date": "2026-10-29",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2401,7 +2382,7 @@
     "title": "Data Scientist / Engineer - DNA-Encoded Library Technology (DELT)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-29",
+    "posted_date": "2026-10-30",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -2418,7 +2399,7 @@
     "title": "Scientific AI Platform Lead, Data Science, Disease Area X",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-10-30",
+    "posted_date": "2026-10-31",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -2472,7 +2453,7 @@
     "title": "Associate Principal Scientist Bioanalytics 80-100% (f/m/d)",
     "company": "Lonza",
     "location": "CH - Basel",
-    "posted_date": "2026-10-30",
+    "posted_date": "2026-10-31",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2587,7 +2568,7 @@
     "title": "Research Scientist - In Vivo Preclinical RLT Pharmacology (80-100%)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-11-02",
+    "posted_date": "2026-11-03",
     "department": "",
     "score": 8,
     "matched_keywords": [
@@ -2609,7 +2590,7 @@
     "title": "Scientist, Tech Ops (Analytical Testing)",
     "company": "CSL Behring / Vifor",
     "location": "EMEA, CH, Kanton Bern, Bern, CSL Behring",
-    "posted_date": "2026-11-02",
+    "posted_date": "2026-11-03",
     "department": "",
     "score": 1,
     "matched_keywords": [
