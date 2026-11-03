@@ -36,7 +36,7 @@
     "keywords": "data science,portfolio,regulatory,scientist"
   },
   "_generic:Insilico Medicine": {
-    "keywords": "alliance management,business development,business development manager,computational biology,licensing,scientific advisor,scientist"
+    "keywords": "computational biology,scientific advisor,scientist"
   },
   "_generic:Biognosys": {
     "keywords": "biomarker,immuno-oncology"
@@ -1059,22 +1059,6 @@
     "matched_keywords": [],
     "deducted_keywords": []
   },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000150312819": {
-    "description": "You will join one of CERN’s theoretical physics research groups, if selected for this Research Fellowship, to develop and lead your own research programme at the frontier of fundamental physics. You will work in a highly collaborative and international environment, contributing to the development of theoretical models, performing analytical and computational research, and advancing the understanding of particle physics and related fields.\nYou will also be part of CERN’s vibrant scientific community through seminars, workshops, training activities and collaborative projects.\nYour key tasks\nYou conduct research in theoretical physics.\nYou contribute to CERN’s theoretical physics programme by developing innovative theoretical approaches and advancing the interpretation of experimental results.\nYou collaborate with theoretical and experimental physicists on research related to particle physics and fundamental interactions.\nYou develop and pursue your own research interests within the framework of the Fellowship.\nYour profile\nYou hold a PhD in theoretical physics or have a scheduled PhD defence before taking up your appointment at CERN.\nYou have no more than six years of research experience after completing your PhD.\nYou have a strong background in theoretical particle physics or a closely related field.\nYou have research experience aligned with the scientific activities carried out within CERN’s Theory Department.\nYou are motivated to join a leading international research environment and contribute to high-impact scientific research.\nYou are eager to develop and pursue your own research interests within the Fellowship framework.\nYour skills\nYou have strong analytical and problem-solving skills in the context of theoretical physics.\nYou are able to work collaboratively within large, international scientific teams.\nYou communicate effectively in a scientific environment, including presenting and discussing research results.\nYou can work independently while contributing to shared research objectives and collaborative projects.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000150312819-research-fellowship-theoretical-physics?oga=true",
-    "status": "ignored",
-    "title": "Research Fellowship: Theoretical Physics",
-    "company": "CERN",
-    "location": "Geneva, Switzerland",
-    "posted_date": "2026-09-18",
-    "department": "Research",
-    "score": 5,
-    "matched_keywords": [
-      "PhD",
-      "location:geneva"
-    ],
-    "deducted_keywords": []
-  },
   "https://jobs.servier.com/job/Geneva-Field-Medical-Advisor-Solid-Tumors-1202/1368160355/": {
     "description": "About the Role\n\nAs a Field Medical Advisor Solid Tumors, you will serve as a strategic scientific partner in oncology, with a strong focus on ocular oncology. Reporting directly to the Medical Lead Oncology & Hematology, this field-based role is instrumental in strengthening Servier's scientific presence in Switzerland, building trusted scientific partnerships, generating actionable medical insights, and supporting future indications and therapeutic areas. You will contribute to the development and implementation of the local medical strategy while ensuring scientific excellence, compliance, and cross-functional collaboration.\n\n \nKey Responsibilities\n\nContribute to the development and execution of the local medical strategy across the solid tumor portfolio, with a focus on melanoma and ocular oncology.\n\nIdentify unmet medical needs, treatment trends, and evidence gaps and translate insights into impactful medical initiatives.\n\nProvide accurate, balanced, and compliant scientific information and support the development and review of scientific and educational materials.\n\nSupport evidence-generation activities, including real-world evidence projects, registries, observational studies, investigator-initiated research, scientific publications, and congress activities.\n\nBuild and maintain scientific partnerships with healthcare professionals, scientific societies, expert networks, and multidisciplinary teams across Switzerland.\n\nOrganize and lead scientific exchanges, advisory boards, and educational initiatives while gathering actionable field insights.\n\nDeliver medical training and scientific updates to internal teams and contribute to onboarding and continuous learning initiatives.\n\nMonitor emerging evidence, treatment trends, congress highlights, and developments within the therapeutic area.\n\nLead and support patient affairs initiatives and projects within the therapeutic area, collaborating with relevant stakeholders to address patient needs and improve the patient journey and disease awareness.\n\nCollaborate closely with Commercial, Marketing, Market Access, Regulatory Affairs, Pharmacovigilance, and Global Medical and Patient Affairs teams to ensure alignment of medical activities with patient and business needs.\n\nMonitor and communicate project progress, stakeholder engagement, outcomes, risks, and opportunities through appropriate reporting tools and KPIs.\n\n \n\nRequired Qualifications and Experience\n\nAdvanced university degree in a health-related scientific discipline (MD, PharmD, PhD, MSc, or equivalent).\n\n3–5 years of experience in Medical Affairs within the pharmaceutical industry.\n\nAt least 2–3 years of experience in Oncology; experience in melanoma, and/or ocular oncology, is a strong asset.\n\nGood understanding of the Swiss healthcare environment, regulatory framework, market access context, and pharmaceutical compliance requirements.\n\nExperience in medical strategy development, scientific communication, medical review, evidence generation, or clinical research projects.\n\nStrong project management skills and ability to manage several activities simultaneously.\n\nFluency in English; good German and/or French is strongly preferred.\n\nWillingness to travel frequently within Switzerland and occasionally internationally.\n\n \n\nSkills and Competencies\n\nStrong communication and presentation skills, including the ability to explain complex scientific or medical information to different audiences.\n\nCollaborative mindset and strong team orientation with the ability to work effectively across functions and with external stakeholders.\n\nAbility to build trusted scientific relationships and influence stakeholders without direct authority.\n\nStrong project management capabilities and ability to manage multiple priorities simultaneously.\n\nHigh learning agility, curiosity, and willingness to continuously develop expertise in multiple therapeutic areas.\n\nCommitment to partnering with patients and patient communities, ensuring that patient perspectives are meaningfully integrated into medical activities and decision-making.\n\nResilience, adaptability, business acumen, and the ability to work both autonomously and as part of a team.\n\nStrong digital literacy, including the use of insight-generation, AI, and project-management tools.\n\nJoin Servier and contribute to a purpose-driven company committed to therapeutic progress for the benefit of patients. We value diversity, inclusion, and equal opportunities, and we welcome applications from all qualified candidates. At Servier, we believe that our differences make us stronger and that every talent deserves the opportunity to grow and make an impact.",
     "external_url": "https://jobs.servier.com/job/Geneva-Field-Medical-Advisor-Solid-Tumors-1202/1368160355/",
@@ -1113,11 +1097,6 @@
   "https://api.smartrecruiters.com/v1/companies/Sobi/postings/744000153234089": {
     "description": "Product-level safety ownership\nPerform and lead signal detection, evaluation, validation and escalation activities for assigned product(s).\nSet the strategy for safety signal detection methodology, signal tracking and oversight of safety signals for assigned products.\nDrive, perform and document benefit‑risk evaluations and ensure appropriate risk‑management strategies are implemented.\nLead and perform assessments for the preparation, review and approval of key safety deliverables (e.g. PSURs, DSURs, RMPs, regulatory responses).\nTranslate safety data insights into actionable recommendations for product‑level benefit–risk discussions and regulatory interactions.\nLead the clinical safety science interactions with partner companies for the assigned products (if applicable) ensuring sharing of safety information per the SDEA and the set up and collaborative functioning of the JSMT.\nProvide safety scientific input to ISS Evaluation Committee as required.\nIn case of product quality escalations, work cross functionally to understand impacts on patients, and (if required) lead the preparation of a medical impact Health Hazard Assessment statement.\n \nCross-functional execution (MDT)\nAct as the Safety Science representative in the Medical Development Team (MDT) and ensure integration of safety into product development and lifecycle decisions.\nProvide clinical safety input into study design, conduct, analysis and interpretation, including study‑level Safety Lead responsibilities where applicable.\nProvide medical and pharmacovigilance expertise e.g. for the clinical safety strategy of the product clinical development program, the development of the Target Product Profile (TPP), the development and maintenance of the RSI, including IB and CDS\n \nGovernance and decision-making\nChair product‑level Benefit Risk Teams (BRTs) and ensure effective operation per SOPs.\nRepresent the BRT at Benefit Risk Council (BRC).\nServe as the primary decision-maker for product-level safety issues, including signal validation and escalation.\n \nCollaboration and delivery\nLead interactions with external partners and service providers related to assigned product safety deliverables.\nSupport regulatory interactions, inspections and audits at product level.\n \nPeople and capability development\nMentor colleagues and support capability development within the product safety team.\n \nContinuous improvement & data-driven decision making\nActively use and continuously develop proficiency in safety systems, data visualization tools, and AI‑enabled analyses (e.g. Veeva Vault(s), analytics dashboards) to support robust and efficient signal detection, safety assessments, and decision‑making for assigned products.\nIdentify opportunities for process, data and system improvements within Safety Science.\n \nLevel of autonomy: works independently with accountability for assigned products, escalating complex or cross‑product issues as appropriate.",
     "external_url": "https://jobs.smartrecruiters.com/Sobi/744000153234089-global-product-safety-science-lead?oga=true",
-    "status": "matched"
-  },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000153482109": {
-    "description": "Introduction\nAs a Planning Engineer within the ATLAS Technical Coordination, you will play a key role in monitoring ATLAS activities during Long Shutdown 3 (LS3). You will be responsible for keeping the installation schedule up to date, reporting any delays, and proposing mitigation measures to recover lost time. The ATLAS schedule is a complex construction programme encompassing several sub-projects. You will collaborate closely with the various Project Engineers and Project Leaders to understand their constraints and support them in implementing any necessary changes to the schedule baseline. You will also join the Project Management Office (PMO) and play a leading role in the preparation of the quarterly status report, assisting the Upgrade Project Leaders in updating the schedule and reporting on progress.\nFunctions\nDevelop and maintain the ATLAS installation schedules for Long Shutdown 3 (LS3), and actively participate in all schedule baseline changes resulting from the evolution of the LS3 programme.\nMonitor and review the progress of activities during planning meetings and in close collaboration with Project Engineers.\nReport any delays to the Technical Coordination Management and propose mitigation measures to recover lost time.\nContribute to the maintenance and continuous improvement of the scheduling tools.\nPlay a leading role in the quarterly status reporting process for the Phase-2 Upgrade projects, and assist the Upgrade Project Leaders in preparing updated schedules, progress reports, and schedule baseline changes.\nSupervise the ATLAS team responsible for developing and maintaining the interface with the ATLAS Oracle database. Collect requirements for the evolution of the existing ATLAS information-management tools and establish priorities for the maintenance and development activities of the small team of software engineers.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000153482109-planning-engineer-ep-atl-po-2026-200-ld-?oga=true",
     "status": "matched"
   },
   "https://api.smartrecruiters.com/v1/companies/Sobi/postings/744000153753715": {
@@ -1159,38 +1138,10 @@
       "location:Switzerland"
     ]
   },
-  "https://www.michaelpage.ch/job-detail/client-portfolio-manager-investment-associate/ref/jn-092026-7101747": {
-    "external_url": "https://www.michaelpage.ch/job-detail/client-portfolio-manager-investment-associate/ref/jn-092026-7101747",
-    "status": "ignored",
-    "title": "Client Portfolio Manager / Investment Associate",
-    "company": "Michael Page Switzerland",
-    "location": "Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": -2,
-    "matched_keywords": [],
-    "deducted_keywords": [
-      "location:Switzerland"
-    ]
-  },
   "https://www.michaelpage.ch/job-detail/analytics-and-business-intelligence-analyst-12-month-contract/ref/jn-092026-7105923": {
     "external_url": "https://www.michaelpage.ch/job-detail/analytics-and-business-intelligence-analyst-12-month-contract/ref/jn-092026-7105923",
     "status": "ignored",
     "title": "Analytics and Business Intelligence Analyst - 12 month contract",
-    "company": "Michael Page Switzerland",
-    "location": "Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": -2,
-    "matched_keywords": [],
-    "deducted_keywords": [
-      "location:Switzerland"
-    ]
-  },
-  "https://www.michaelpage.ch/fr/job-detail/sp%C3%A9cialiste-salaires-mission-temporaire/ref/jn-102026-7120040?lang=en": {
-    "external_url": "https://www.michaelpage.ch/fr/job-detail/sp%C3%A9cialiste-salaires-mission-temporaire/ref/jn-102026-7120040?lang=en",
-    "status": "ignored",
-    "title": "Spécialiste Salaires - mission temporaire",
     "company": "Michael Page Switzerland",
     "location": "Switzerland",
     "posted_date": "",
@@ -1271,20 +1222,6 @@
     "description": "Introduction\nThe CERN ATLAS Team plays a major role in the construction and integration of the future silicon ATLAS Inner Tracker (ITk). The different parts of the ITk system are being constructed and integrated in institutes and then transported to CERN where the entire ITk will be assembled.\n\nAs an applied physicist or engineer in the CERN-ATL Team, you will join the Tracker section (EP-ATL-TRK) and work closely with the teams in the different institutes to synchronise the integration testing of the ATLAS ITk parts on surface, support their integration and commissioning into the ATLAS ITk and prepare the cavern commissioning.\nFunctions\nTesting and verification of  integrated ITk Strip Barrel and Endcap structures and services in the surface integration facility (SR1) at CERN.\nWork closely with integration sites off CERN, e.g. DESY or NIKHEF, synchronise the testing and provide trouble shooting support for integration teams including support at the sites.            \nDevelop software and hardware elements for the integration testing of ITk Barrel and Endcaps in the various integration sites and validate the procedures in SR1.\nStreamline and document procedures for ITk integration testing and service validation and extend the testing procedures for the ITk Detector after installation and during commissioning.\nParticipate hands-on in the ITk Detector integration work in the ATLAS SR1 cleanroom and during ITk installation in the cavern including the preparation of equipment in the cavern.",
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000154674740-applied-physicist-engineer-atlas-itk-integration-ep-atl-trk-2026-207-ld-?oga=true",
     "status": "matched"
-  },
-  "https://www.michaelpage.ch/de/job-detail/senior-sales-fmcg-retail-mwd-80-100/ref/jn-102026-7122845?lang=en": {
-    "external_url": "https://www.michaelpage.ch/de/job-detail/senior-sales-fmcg-retail-mwd-80-100/ref/jn-102026-7122845?lang=en",
-    "status": "ignored",
-    "title": "Sales & Business Development Manager - Schweizer FMCG Trading Firma",
-    "company": "Michael Page Switzerland",
-    "location": "Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": -2,
-    "matched_keywords": [],
-    "deducted_keywords": [
-      "location:Switzerland"
-    ]
   },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000154969429": {
     "description": "Introduction\nAs a Data Privacy Specialist, you will join the Office of Data Privacy (ODP) in the Office of the CIO. ODP is CERN’s independent and impartial centre of expertise in the area of data privacy. You will report to the Data Privacy Advisor, CERN’s Data Protection Officer, and will advise CERN Management as well as Data Subjects and External Entities involved in the Processing of Personal Data, on all issues related to the Organization’s data privacy protection.\nFunctions\nProvide specialised legal and operational advice to ensure that CERN's processing of personal data complies with applicable data privacy protection requirements throughout the data lifecycle, including projects, contracts, risk assessments, data transfers, and data breach response, taking into account data protection implications of emerging technologies.\nManage or contribute to projects in the privacy and data protection field involving internal and external stakeholders (e.g. international data-sharing initiatives).\nAdvise on the relevant governance structures, policies, documentation, stakeholder engagement, and establish and maintain regulatory relationships necessary to support CERN's data privacy protection framework.\nEnsure the effective exercise of data subject rights and the prompt handling of grievances and complaints.\nPromote a strong culture of data privacy protection through communication, awareness campaigns, guidance materials, and targeted training for CERN personnel and stakeholders.\nOversee the effectiveness of CERN's data privacy protection framework, identify improvement opportunities, and ensure ongoing alignment with evolving regulatory expectations and recognised best practices.",
@@ -1660,7 +1597,7 @@
     "title": "Intern - Flow Cytometry Scientist",
     "company": "Labcorp",
     "location": "CHE - Geneva - 7 rue Moise-Marcinhes",
-    "posted_date": "2026-10-12",
+    "posted_date": "2026-10-11",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -1676,7 +1613,7 @@
     "title": "Intern - Bioinformatics",
     "company": "Labcorp",
     "location": "CHE - Geneva - 7 rue Moise-Marcinhes",
-    "posted_date": "2026-10-14",
+    "posted_date": "2026-10-13",
     "department": "",
     "score": 8,
     "matched_keywords": [
@@ -1695,7 +1632,7 @@
     "title": "Intern - Histology Scientist",
     "company": "Labcorp",
     "location": "CHE - Geneva - 7 rue Moise-Marcinhes",
-    "posted_date": "2026-10-14",
+    "posted_date": "2026-10-13",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -1713,7 +1650,7 @@
     "title": "Project & Portfolio Manager - Sites Network",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-21",
+    "posted_date": "2026-10-20",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1726,7 +1663,7 @@
     "title": "Senior Scientist in Flow Cytometry",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-22",
+    "posted_date": "2026-10-21",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -1748,7 +1685,7 @@
     "title": "Scientist – Oligonucleotide Chemistry & Innovation",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-20",
+    "posted_date": "2026-10-19",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1764,7 +1701,7 @@
     "title": "Lab Scientist, Microscopy",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-20",
+    "posted_date": "2026-10-19",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1784,7 +1721,7 @@
     "title": "Experienced Clinical Scientist/Medical monitor in neurosciences",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-16",
+    "posted_date": "2026-10-15",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -1802,7 +1739,7 @@
     "title": "Senior Scientist in Process Chemistry & Catalysis",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-20",
+    "posted_date": "2026-10-19",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1818,7 +1755,7 @@
     "title": "Sr. Scientist - Computational & Applied AI",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-15",
+    "posted_date": "2026-10-14",
     "department": "",
     "score": 8,
     "matched_keywords": [
@@ -1840,7 +1777,7 @@
     "title": "Experienced Discovery Scientist in Immunology",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-10",
+    "posted_date": "2026-10-09",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -1864,7 +1801,7 @@
     "title": "Post Doctorate Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-08",
+    "posted_date": "2026-10-07",
     "department": "",
     "score": 8,
     "matched_keywords": [
@@ -2018,7 +1955,7 @@
     "title": "Director, Portfolio Analytics",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-10-22",
+    "posted_date": "2026-10-21",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2033,7 +1970,7 @@
     "title": "Next Generation Scientist 2027",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-10-16",
+    "posted_date": "2026-10-15",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -2054,7 +1991,7 @@
     "title": "Intern Data Science - Future Talent Program",
     "company": "Abbott",
     "location": "Switzerland - Basel",
-    "posted_date": "2026-10-13",
+    "posted_date": "2026-10-12",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2069,7 +2006,7 @@
     "title": "Intern Portfolio Strategy & Innovation - Future Talent Program",
     "company": "Abbott",
     "location": "Switzerland - Basel",
-    "posted_date": "2026-10-13",
+    "posted_date": "2026-10-12",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2115,7 +2052,7 @@
     "title": "Sr Manager, Quality & Regulatory Operations",
     "company": "Danaher",
     "location": "Neuchâtel, Switzerland",
-    "posted_date": "2026-10-08",
+    "posted_date": "2026-10-07",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -2153,7 +2090,7 @@
     "title": "WORKFORCE STRATEGY HEAD, ENTERPRISE DATA SCIENCE & ARTIFICIAL INTELLIGENCE (DSAI)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-10-27",
+    "posted_date": "2026-10-26",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -2166,7 +2103,7 @@
     "title": "AI Strategy & Portfolio Lead",
     "company": "Lonza",
     "location": "CH - Basel",
-    "posted_date": "2026-10-28",
+    "posted_date": "2026-10-27",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -2184,7 +2121,7 @@
     "title": "Scientist – Assay Data, AI & Workflows",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-30",
+    "posted_date": "2026-10-29",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -2308,7 +2245,7 @@
     "title": "Regulatory Affairs Consultant (German and French language skills)",
     "company": "Parexel",
     "location": "Switzerland-Remote",
-    "posted_date": "2026-10-29",
+    "posted_date": "2026-10-28",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -2325,7 +2262,7 @@
     "title": "Internship in PD Medical Affairs Compliance and Process Excellence – Non-Interventional Studies (NIS) Optimization & Digital Workspace (12 Months, Basel)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-29",
+    "posted_date": "2026-10-28",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2341,7 +2278,7 @@
     "title": "Internship in PD Medical Affairs Compliance and Process Excellence – Project Management & Business Operations (12 Months, Basel)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-29",
+    "posted_date": "2026-10-28",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2382,7 +2319,7 @@
     "title": "Data Scientist / Engineer - DNA-Encoded Library Technology (DELT)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-30",
+    "posted_date": "2026-10-29",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -2399,7 +2336,7 @@
     "title": "Scientific AI Platform Lead, Data Science, Disease Area X",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-10-31",
+    "posted_date": "2026-10-30",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -2453,7 +2390,7 @@
     "title": "Associate Principal Scientist Bioanalytics 80-100% (f/m/d)",
     "company": "Lonza",
     "location": "CH - Basel",
-    "posted_date": "2026-10-31",
+    "posted_date": "2026-10-30",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2568,7 +2505,7 @@
     "title": "Research Scientist - In Vivo Preclinical RLT Pharmacology (80-100%)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-11-03",
+    "posted_date": "",
     "department": "",
     "score": 8,
     "matched_keywords": [
@@ -2590,11 +2527,86 @@
     "title": "Scientist, Tech Ops (Analytical Testing)",
     "company": "CSL Behring / Vifor",
     "location": "EMEA, CH, Kanton Bern, Bern, CSL Behring",
-    "posted_date": "2026-11-03",
+    "posted_date": "",
     "department": "",
     "score": 1,
     "matched_keywords": [
       "immunology"
+    ],
+    "deducted_keywords": []
+  },
+  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000159422712": {
+    "description": "What you'll do\nYou’ll take your first steps into the world of work at CERN — a place where learning and discovery go hand in hand. You’ll join a team of experts and contribute to real projects that connect science, technology and innovation. Every day will bring opportunities to learn new skills, explore your interests and see how your studies come to life.\nYour responsibilities\nSupport experienced professionals in their daily activities.\nLearn and apply new tools or methods relevant to your area of study.\nContribute to small-scale projects under the guidance of your supervisor.\nCollaborate with people from diverse backgrounds and share ideas in an international environment.\nYour profile\nYou are currently studying in a physics field.\nYou are required or encouraged by your university to complete a practical training period.\nYou are eager to develop your skills through on-the-job learning.\nYou enjoy teamwork and learning from others in a collaborative setting.\nYour skills\nFundamental knowledge in your field of study.\nCuriosity, precision and a proactive attitude towards learning.\nGood communication skills and ability to work effectively in a multicultural team.",
+    "external_url": "https://jobs.smartrecruiters.com/CERN/744000159422712-short-term-internship-2027-applied-physics?oga=true",
+    "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000159314751": {
+    "description": "As a motivated young mechanical design engineer, with a specific interest in seeking practical solutions around mechanical systems, CERN's graduate program may very well give you that challenging opportunity.\n\nThe mandate of the MME group, within the Engineering Department (EN), is to provide to the CERN community specific engineering solutions combining mechanical design, fabrication and material sciences. Historically the group maintains and develops the know-how on the mechanical construction of beam accelerator components and physics detectors. You will join the Design Office that is in charge of mechanical design of components required for CERN's accelerator and detectors, comprising many high-tech equipment such as superconducting magnets and cavities, vacuum systems and instrumentation. And under the supervision of a senior design engineer, you will design and develop mechanical components and systems from concept to production.\nWhat we offer:\nA collaborative and innovative work environment.\nOpportunities for professional growth and development.\nAccess to the latest tools and technologies.\nSupportive team culture focused on achieving excellence.\nYour responsibilities\nDesign and develop mechanical components and systems from concept to production.\nCreate detailed 3D models and 2D drawings using CATIA V5, adhering to ISO GPS norms.\nCarry out simple structural analysis and numerical calculations.\nCollaborate with cross-functional teams within the group, material science, manufacturing, and quality assurance, to ensure design feasibility and manufacturability.\nContinuously improve designs based on feedback and testing results.\nParticipate in problem-solving and troubleshooting activities related to design and production issues.\nMaintain accurate documentation of designs, modifications, and project progress.\nYour profile\nInitial experience in mechanical design and development of mechanical components or assemblies.\nKnowledge of 3D CAD modelling and 2D technical drafting, preferably using CATIA V5\nUnderstanding of mechanical engineering principles, including materials, manufacturing processes and mechanical behaviour of structures.\nSkills\nProficiency in CAD software such as CATIA V5 for creating 3D & 2D drawings.\nStrong understanding of ISO GPS norms and their application in mechanical design.\nPractical knowledge of mechanics and mechanical systems.\nAbility to learn new languages (French / English).\nSpoken and written English, with a commitment to learn French.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nBy the application deadline, you have a maximum of two years of professional experience since graduation in Mechanical Engineering (or a related field) and your highest educational qualification is either a Bachelor's or Master's degree.\nYou have never had a CERN fellow or graduate contract before.\nApplicants without University degree are not eligible.\nApplicants with a PhD are not eligible.",
+    "external_url": "https://jobs.smartrecruiters.com/CERN/744000159314751-mechanical-design-engineer-en-mme-md-2026-250-grae-?oga=true",
+    "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000159349782": {
+    "description": "Be part of the future of mobility at CERN and lead projects contributing to the delivery and evolution of CERN's mobility strategy. You will coordinate the implementation of the mobility plan, prepare the next mobility plan, and lead cross-functional projects and events that improve mobility across CERN sites.\nYour responsibilities:\nCoordinate and monitor the actions of CERN's mobility plan through to the 2028 horizon, including milestones, dependencies, risks, decisions and follow-up actions.\nMaintain a consolidated project portfolio and ensure regular, reliable reporting on status, priorities, issues and forthcoming decisions.\nWork with action owners and stakeholders to translate strategic objectives into practical workplans, deliverables and implementation steps.\nContribute to the preparation of the future CERN mobility plan by gathering needs, analysing lessons learned, structuring consultations and drafting supporting material.\nPilot mobility-related projects and events, from initial scoping and stakeholder alignment through implementation, operational coordination and post-event review.\nParticipate actively in the CERN mobility working group, prepare inputs and meetings, document conclusions, and coordinate agreed follow-up.\nSupport communication and stakeholder engagement on mobility initiatives, ensuring that information is clear, timely and adapted to the target audience.\nIdentify opportunities for service improvement, sustainability and better user experience, and formulate evidence-based recommendations for decision-making.\nEnsure that project documentation, decisions, indicators and lessons learned are recorded and accessible for continuity and governance purposes.\nYour profile:\nGraduated in Project Management, Transport and Mobility, Urban Planning, Sustainability, Engineering, Business Administration, Public Policy or a related field.\nInitial experience in project coordination, multi-stakeholder initiatives, mobility, events, sustainability or service development would be an asset.\nExperience in an international or multidisciplinary environment would be an advantage.\nSkills:\nAbility to structure and monitor projects, action plans, milestones, risks and deliverables.\nStrong analytical and drafting skills, with the ability to turn varied inputs into concise reports and recommendations.\nGood command of common office, collaboration, presentation and project-tracking tools.\nAbility to organise meetings, workshops and events and to ensure systematic follow-up.\nInterest in sustainable mobility, transport services and user-centred service improvement.\nClear communication and stakeholder management.\nAbility to work autonomously while escalating risks and decisions appropriately.\nSpoken and written English or French, with a commitment to learn the other language.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nYou have a professional background in Transportation Management, Civil Engineering (or a related field) and have either:\na Master's degree with 2 to 6 years of post-graduation professional experience;\nor a PhD with no more than 3 years of post-graduation professional experience.\nYou have never had a CERN fellow or graduate contract before.",
+    "external_url": "https://jobs.smartrecruiters.com/CERN/744000159349782-projects-coordinator-for-mobility-sce-ssc-cs-2026-171-grap-?oga=true",
+    "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000159352361": {
+    "description": "À la Clinique de Crans-Montana, l’équipe de cuisine prépare chaque jour environ 180 repas destinés aux patientes et patients ainsi qu’au personnel de l’institution. Elle propose également une offre de petite restauration à la cafétéria. Sa mission est de garantir une alimentation équilibrée, variée et savoureuse, répondant aux recommandations nutritionnelles suisses et élaborée dans le respect des normes d’hygiène et de sécurité alimentaire. Labellisé « Cuisinons notre région » et « Fourchette verte », le service privilégie les produits frais et locaux afin de valoriser les saveurs du terroir.\nEn tant qu’apprenti ou apprentie cuisinière, vous participez à la préparation et à la réalisation de plats destinés à une clientèle variée, tout en tenant compte des régimes alimentaires spécifiques liés au milieu hospitalier.\nLa diversité des prestations et les exigences propres à notre environnement de soins vous permettent de bénéficier d’une formation riche et complète. Vous découvrez l’ensemble des postes de la cuisine et développez progressivement vos compétences techniques et organisationnelles.\nAu cours de votre formation, vous apprenez les techniques de préparation et de cuisson des aliments, les règles d’hygiène et de sécurité alimentaire, ainsi que les bases de l’organisation et de la gestion d’une cuisine professionnelle, conformément aux objectifs de votre cursus.",
+    "external_url": "https://jobs.smartrecruiters.com/HUG/744000159352361-apprentissage-cuisinier-ou-cuisiniere-cfc-crans-montana-100-?oga=true",
+    "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000159315937": {
+    "description": "En tant que chef ou cheffe de clinique, vous avez obtenu votre titre de spécialiste en infectiologie ou êtes sur le point de finaliser votre formation.\nDans cette fonction, vous assurez l’ensemble des activités cliniques du service et évoluez dans un environnement universitaire stimulant, à l’interface des soins, de l’enseignement et de la recherche. Grâce à votre expertise clinique et à votre capacité d’adaptation, vous intervenez dans les secteurs et unités du service suivant : la consultation d’infectiologie générale, la consultation d’infectiologie ambulatoire, l’orthopédie septique, le HIV, l’infectiologie gériatrique, ainsi que l’infectiologie des patients immunodéprimés.\nSous la supervision d’un médecin adjoint, vous assurez de manière autonome l’évaluation, le diagnostic et le suivi de situations cliniques souvent complexes, tout en apportant un appui spécialisé aux équipes médico-soignantes. Vous mobilisez votre sens clinique, votre esprit d’analyse et votre capacité de décision afin de garantir une prise en charge de qualité, fondée sur les meilleures pratiques médicales.\nGrâce à votre sens de l’organisation et à votre aptitude à gérer les priorités, vous conduisez efficacement vos activités cliniques tout en répondant aux nombreuses sollicitations liées à votre fonction (patients et patientes, téléphones, correspondances, réunions). Vous veillez au respect des procédures institutionnelles et contribuez activement à l’amélioration continue de la qualité et de la sécurité des soins.\nFace à des situations exigeantes et à la diversité des problématiques rencontrées, vous faites preuve de discernement, de résilience et d’une excellente gestion du stress. Votre curiosité intellectuelle et votre intérêt pour l’évolution des connaissances médicales vous permettent de maintenir un haut niveau d’expertise.\nÉvoluant au sein d’une équipe pluridisciplinaire, vous collaborez étroitement avec les différents services, ainsi que les professionnels et professionnelles de l’institution dans une approche coordonnée et centrée sur les besoins des patientes et patients. Vous entretenez des relations de travail constructives et favorisez une communication claire, respectueuse et adaptée avec vos collègues, les personnes prises en charge et leurs proches.\nEn vous appuyant sur votre esprit d’équipe, vous faites preuve de solidarité face aux imprévus. En tant que cheffe ou chef de clinique, vous participez activement à la supervision et à la formation des médecins internes du service, en adoptant une posture de mentorat et en partageant votre expertise.\nPar ailleurs, vous avez la possibilité de participer à des projets de recherche en cours au sein du service.",
+    "external_url": "https://jobs.smartrecruiters.com/HUG/744000159315937-chef-ou-cheffe-de-clinique-en-maladies-infectieuses-50-a-100-?oga=true",
+    "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000159351192": {
+    "description": "À la Clinique de Crans-Montana, l’équipe du service hôtelier contribue chaque jour au confort, à l’accueil et au bien-être des patientes et patients. Elle assure l’entretien des chambres et des locaux selon les normes d’hygiène hospitalière en vigueur, participe au service des repas en salle à manger et à la cafétéria, et veille à offrir un environnement agréable et de qualité.\nEn tant qu’apprentie ou apprenti gestionnaire en hôtellerie-intendance, vous êtes amené ou amenée à découvrir et à exercer de nombreuses activités au sein de différents secteurs de l’institution. Vous participez aux travaux de nettoyage et d’entretien, au service des repas et des boissons, à la gestion du linge, à l’accueil des patients à la réception ainsi qu’à certaines activités de préparation en cuisine. Vous réalisez également diverses tâches administratives, notamment liées à la gestion des stocks et aux commandes.\nLa diversité des missions proposées et les exigences propres au milieu hospitalier vous permettent de bénéficier d’une formation complète et variée, favorisant le développement de compétences tant techniques que relationnelles. Afin d’enrichir votre parcours, des stages externes sont organisés pour vous permettre de découvrir d’autres domaines d’activité, notamment la gestion professionnelle d’une lingerie.\nAu fil de votre apprentissage, vous développez votre sens du service, votre autonomie et votre polyvalence, tout en acquérant les compétences nécessaires à l’exercice du métier, conformément aux objectifs de votre formation.",
+    "external_url": "https://jobs.smartrecruiters.com/HUG/744000159351192-apprentissage-de-gestionnaire-ou-employe-ou-employee-en-hotellerie-intendance-afp-cfc-crans-montana-100-?oga=true",
+    "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000159318139": {
+    "description": "En tant que médecin interne, vous avez débuté votre parcours de formation en médecine interne et souhaitez désormais vous orienter vers l’obtention du titre de spécialiste en infectiologie.\nDans ce contexte, vous rejoignez le Service des maladies infectieuses et participez aux activités des différentes consultations spécialisées, notamment en maladies infectieuses générales, auprès des personnes immunodéprimées, des personnes âgées, dans le domaine de l’orthopédie septique et du VIH/Sida, au travers de rotations.\nSous la supervision des médecins cadres, vous assurez la prise en charge des patientes et patients qui vous sont confiés, tant en ambulatoire qu’en intrahospitalier, au sein de l’ensemble de l’institution. Vous développez progressivement votre expertise clinique en étant confronté et confrontée à des situations variées et parfois complexes, qui renforcent vos capacités d’analyse, votre jugement clinique et votre aptitude à vous adapter rapidement à de nouveaux contextes médicaux.\nGrâce à votre sens de l’organisation et à votre rigueur, vous assurez les activités cliniques, diagnostiques et thérapeutiques nécessaires à la prise en charge des patientes et patients. Vous veillez au respect des règles et des procédures internes, dans un souci constant de qualité des prestations médicales apportées.\nFace à la diversité des demandes de consultation et à la complexité de certaines situations cliniques, vous faites preuve de sang-froid, de discernement et d’une bonne gestion du stress. Votre curiosité intellectuelle vous incite à approfondir vos connaissances et à comprendre les enjeux des situations auxquelles vous faites face. Vous accueillez également les retours constructifs avec ouverture et les utilisez comme leviers de progression dans l’atteinte de vos objectifs de formation.\nÉvoluant dans un environnement universitaire stimulant et exigeant, au sein d’une équipe pluridisciplinaire, vous participez également à la formation des médecins stagiaires. Vous collaborez étroitement avec l’ensemble des équipes médico-soignantes de l’institution, dans une approche proactive et centrée sur les besoins des patientes et patients. Vous veillez à maintenir une communication claire, respectueuse et adaptée, tant avec vos collègues qu’avec les personnes prises en charge et leurs proches.\nPar ailleurs, vous avez la possibilité de participer à des projets de recherche en cours au sein du service.\nDans le cadre de votre parcours de formation, vous développez vos compétences conformément au plan de formation et aux exigences de la FMH durant trois années au sein du service. Celui-ci offre un environnement reconnu pour la qualité de son enseignement, un large éventail d’activités en infectiologie ainsi que des opportunités de développement favorisant l’obtention du titre FMH. Vous bénéficiez également d’un accompagnement personnalisé grâce à des séances de coaching, des formations ciblées et un encadrement régulier assuré par les médecins cadres ainsi que les chefs et cheffes de clinique.",
+    "external_url": "https://jobs.smartrecruiters.com/HUG/744000159318139-medecin-interne-en-maladies-infectieuses-100-?oga=true",
+    "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000159312709": {
+    "description": "Dans le cadre de votre fonction, vous assurez le bon fonctionnement des systèmes informatiques du Département de Médecine.\nVous assurez la gestion et le suivi des demandes ainsi que le suivi du renouvellement du parc informatique du Département de Médecine en lien avec la DTN-IA.\nVous coordonnez avec l’équipe des correspondants informatiques les maintenances, mises à jour, upgrades de versions, migrations des logiciels du département avec les éditeurs externes et internes notamment avec les référents applicatifs des services, la DTN-IA et le service biomédical.\nVous assurez l’assistance aux utilisateurs et utilisatrices du département.\nVous participez à l’élaboration de statistiques.",
+    "external_url": "https://jobs.smartrecruiters.com/HUG/744000159312709-correspondant-ou-correspondante-informatique-80-?oga=true",
+    "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000159312739": {
+    "description": "Au sein de l'équipe RH du Département de médecine interne, votre activité englobe notamment la gestion administrative des collaboratrices et collaborateurs dudit département incluant la production d’actes administratifs variés.\nDans le cadre de cette opportunité, vous renseignez et conseillez les collaboratrices et collaborateurs et les cadres sur les questions liées aux procédures RH et vous assumez la gestion administrative pour le public cible dont vous êtes responsable, ceci en synergie avec deux collègues responsables RH adjointes et deux gestionnaires RH. Ainsi, vous intervenez au plan administratif sur tout le cycle de vie des membres du personnel, du recrutement au départ, et en lien avec de nombreux partenaires de la DRH et de l’institution (gestionnaire salaire, service recrutement, managers, etc.). \nVous garantissez, par délégation du responsable des ressources humaines, l'organisation et la gestion des activités liées au traitement des dossiers tout en veillant à une juste répartition des priorités. Vous coordonnez les prestations RH selon les règles et directives de la DRH en représentant la politique des ressources humaines institutionnelle.\nVous apportez du soutien à votre responsable dans le développement d’un climat de travail harmonieux et respectueux des personnes.\nPersonne orientée service clients et solutions, vous vous reconnaissez par ailleurs dans les valeurs des HUG que vous incarnez dans l’exercice de vos fonctions.",
+    "external_url": "https://jobs.smartrecruiters.com/HUG/744000159312739-gestionnaire-rh-100-?oga=true",
+    "status": "matched"
+  },
+  "https://www.michaelpage.ch/de/job-detail/business-development-manager-100/ref/jn-102026-7129527?lang=en": {
+    "external_url": "https://www.michaelpage.ch/de/job-detail/business-development-manager-100/ref/jn-102026-7129527?lang=en",
+    "status": "matched",
+    "title": "Business Development Manager (a) 100%",
+    "company": "Michael Page Switzerland",
+    "location": "Switzerland",
+    "posted_date": "",
+    "department": "",
+    "score": -2,
+    "matched_keywords": [],
+    "deducted_keywords": [
+      "location:Switzerland"
+    ]
+  },
+  "/job/Basel-City/Principal-Scientist-Senior-Scientist--Cryo-EM-Structural-Biology_REQ-10091286": {
+    "description": "Salary Range:CHF93,800.00 - CHF174,200.00\n\n \nJob Description SummaryRole Type: Onsite Working, #LI-Onsite\nLocation: Basel, Switzerland\nRelocation Support: This role is based in Basel, Switzerland. Novartis is unable to offer relocation support: please only apply if accessible.\n\nWhat if your expertise in structural biology could reveal the molecular insights that unlock the next generation of medicines? As Principal Scientist/Senior Scientist, Cryogenic Electron Microscopy (Cryo-EM) Structural Biology, you will join the Protein Sciences group within Discovery Sciences, applying cutting-edge Cryo-EM to challenging targets across early drug discovery. Working with scientists across Biomedical Research, you will prepare biological samples, generate and interpret high-quality structural data, and translate molecular insights into actionable science that supports the discovery of novel therapeutic candidates.\n\n \nJob Description\nKey Responsibilities:\nContribute experimentally and scientifically to early drug-discovery projects within multidisciplinary teams.\nPrepare biological samples for Cryo-EM, including data collection, processing, structural determination, and model building.\nApply current Cryo-EM technologies and methodologies to generate high-quality structural insights for drug discovery.\nCollaborate closely with laboratory associates, providing mentoring and technical training within a matrix environment.\nMaintain accurate experimental records, scientific documentation, and instrument logs to support data quality and reproducibility.\nCommunicate structural biology findings through internal and external presentations and scientific publications.\n\nEssential Requirements:\nPhD in a relevant scientific discipline with at least five years of research experience, or an equivalent combination of training and experience.\nDeep expertise in Cryo-EM, including sample preparation, single-particle analysis, structure determination, model building, and structural interpretation.\nHands-on experience operating high-end cryo-transmission electron microscopes.\nDemonstrated experience in the expression and purification of a range of protein targets.\nExcellent written and spoken English, with strong scientific communication and presentation skills.\nStrong analytical skills, attention to detail, and a collaborative approach to working within multidisciplinary scientific teams.\n\nDesirable Requirements:\nExperience troubleshooting and optimizing experimental and data-processing workflows for single-particle analysis and cryo-electron tomography.\nFamiliarity with artificial intelligence-based and computational tools for protein construct design and optimization.\nExperience characterizing protein-ligand interactions.\nHands-on experience with single-particle analysis, cryo-electron tomography, and dual-beam scanning electron microscopy.\n\nWhy Novartis:\nAt Novartis, you will join a collaborative Protein Sciences team applying complementary technologies, including biophysics, Nuclear Magnetic Resonance spectroscopy, X-ray crystallography, and Cryo-Electron Microscopy, to advance target-based drug discovery and novel therapeutic candidates.\n\nBenefits & Rewards:\nAt Novartis, we’re committed to reimagining medicine together - and rewarding the people who make it happen.\n\nExpected Annual Base Salary Range for role: 93,800.00 - 174,200.00 CHF\n\nThe base salary offered is determined based on gender-neutral objectives, such as relevant skills, competencies and experience in accordance with the Novartis pay setting policy and upon joining Novartis will be reviewed periodically.\n\nIn addition to your base salary, you may be eligible for a performance-based bonus depending on certain performance parameters.\nThe rewards of being part of our team go far beyond base pay and incentives.\n\nWe also offer a variety of competitive benefits in kind to help you thrive personally and professionally, such as insurance plans, retirement plans, wellbeing resources and global recognition programs. In addition, we provide flexible and hybrid working options, where possible, and minimum 14 weeks paid parental leave. \n\nRead our brochure to learn more about our global total rewards offering:\nhttps://www.novartis.com/sites/novartis_com/files/novartis-life-handbook.pdf\n\nNote: Benefits and compensation may vary by country and are subject to local legal requirements, including provisions of collective bargaining agreements where applicable. A full overview of your compensation package, including any relevant collective bargaining agreement details applicable to your role based on your employment location and Novartis employer entity, will be communicated separately to you during the application process.\n\nCommitment to Diversity and Inclusion / EEO paragraph:\nNovartis is committed to building an outstanding, inclusive work environment and diverse teams’ representative of the patients and communities we serve.\n\n \nSkills DesiredAnalytical Chemistry, Analytical Laboratory Equipment, Analytical Thinking, Chemical Analysis, Chemistry, Data Capturing, Data Science, Digital Workflows, Employee Development, Employee Performance Management, High-Performance Liquid Chromatography (HPLC), Laboratory Automation, Life Sciences R&D, Machine Learning (ML), Physicochemical Characterization, Python (Programming Language), Scientific Publications, Spectrometry, Spectroscopy, Therapeutic Modalities",
+    "external_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Basel-City/Principal-Scientist-Senior-Scientist--Cryo-EM-Structural-Biology_REQ-10091286",
+    "status": "matched",
+    "title": "Principal Scientist/Senior Scientist, Cryo-EM Structural Biology",
+    "company": "Novartis",
+    "location": "Basel (City)",
+    "posted_date": "2026-11-03",
+    "department": "",
+    "score": 2,
+    "matched_keywords": [
+      "PhD",
+      "drug discovery"
     ],
     "deducted_keywords": []
   }
