@@ -19,7 +19,7 @@ from concurrent.futures import ThreadPoolExecutor, TimeoutError as FutureTimeout
 import cache as job_cache
 from config import COMPANIES, GIST_ID, LOCATION_FILTERS, TITLE_FILTERS
 from export_html import export_html
-from filters import apply_filters, score_job
+from filters import apply_filters, explain_job, score_job
 from models import Job
 from scrapers.generic_monitor import GenericMonitor
 from scrapers.alecallan import AlecAllanScraper
@@ -28,6 +28,7 @@ from scrapers.gloorlang import GloorLangScraper
 from scrapers.greenhouse import GreenhouseScraper
 from scrapers.hayatx import HayaTxScraper
 from scrapers.hays import HaysScraper
+from scrapers.incyte import IncyteScraper
 from scrapers.michaelpage import MichaelPageScraper
 from scrapers.nestlehealthscience import NestleHealthScienceScraper
 from scrapers.paylocity import PaylocityScraper
@@ -139,19 +140,41 @@ def _validate_companies(companies: list[dict]) -> None:
 
 
 # ---------------------------------------------------------------------------
+# Per-company term resolution
+# ---------------------------------------------------------------------------
+
+def _resolve_terms(cfg: dict) -> tuple[list[str], list[str]]:
+    """Return the (location_terms, title_terms) that apply to this company.
+
+    Falls back to the global LOCATION_FILTERS / TITLE_FILTERS unless the
+    company config overrides them (e.g. Nestlé's ", CH"-only location terms).
+    This is the single source of truth for term resolution — both
+    ``_build_scraper`` (Phase 1.5 pre-filter inside the scraper) and
+    ``_scrape_one`` (final ``apply_filters()`` gate) call it, so a
+    per-company override can no longer narrow the pre-filter while the
+    final gate silently falls back to the global list.
+    """
+    return (
+        cfg.get("location_terms", LOCATION_FILTERS),
+        cfg.get("title_terms", TITLE_FILTERS),
+    )
+
+
+# ---------------------------------------------------------------------------
 # Scraper factory
 # ---------------------------------------------------------------------------
 
 def _build_scraper(cfg: dict):
     ats = cfg["ats"]
     name = cfg["name"]
+    location_terms, title_terms = _resolve_terms(cfg)
 
     if ats == "workable":
         return WorkableScraper(
             company=name,
             slug=cfg["slug"],
-            location_terms=LOCATION_FILTERS,
-            title_terms=TITLE_FILTERS,
+            location_terms=location_terms,
+            title_terms=title_terms,
         )
 
     if ats == "workday":
@@ -160,8 +183,8 @@ def _build_scraper(cfg: dict):
             tenant=cfg["tenant"],
             instance=cfg["instance"],
             portal=cfg["portal"],
-            location_terms=LOCATION_FILTERS,
-            title_terms=TITLE_FILTERS,
+            location_terms=location_terms,
+            title_terms=title_terms,
             location_facets=cfg.get("location_facets", {}),
             search_fallback_terms=cfg.get("search_fallback_terms"),
         )
@@ -171,104 +194,104 @@ def _build_scraper(cfg: dict):
             company=name,
             company_guid=cfg["company_guid"],
             company_slug=cfg["company_slug"],
-            location_terms=LOCATION_FILTERS,
-            title_terms=TITLE_FILTERS,
+            location_terms=location_terms,
+            title_terms=title_terms,
         )
 
     if ats == "greenhouse":
         return GreenhouseScraper(
             company=name,
             board_token=cfg["board_token"],
-            location_terms=LOCATION_FILTERS,
-            title_terms=TITLE_FILTERS,
+            location_terms=location_terms,
+            title_terms=title_terms,
         )
 
     if ats == "successfactors":
         return SuccessFactorsScraper(
             company=name,
             careers_url=cfg["careers_url"],
-            location_terms=cfg.get("location_terms", LOCATION_FILTERS),
-            title_terms=TITLE_FILTERS,
+            location_terms=location_terms,
+            title_terms=title_terms,
         )
 
     if ats == "randstad":
         return RandstadScraper(
             company=name,
-            location_terms=LOCATION_FILTERS,
-            title_terms=TITLE_FILTERS,
+            location_terms=location_terms,
+            title_terms=title_terms,
         )
 
     if ats == "gloorlang":
         return GloorLangScraper(
             company=name,
-            location_terms=LOCATION_FILTERS,
-            title_terms=TITLE_FILTERS,
+            location_terms=location_terms,
+            title_terms=title_terms,
         )
 
     if ats == "stettler":
         return StettlerScraper(
             company=name,
-            location_terms=LOCATION_FILTERS,
-            title_terms=TITLE_FILTERS,
+            location_terms=location_terms,
+            title_terms=title_terms,
         )
 
     if ats == "alecallan":
         return AlecAllanScraper(
             company=name,
-            location_terms=LOCATION_FILTERS,
-            title_terms=TITLE_FILTERS,
+            location_terms=location_terms,
+            title_terms=title_terms,
         )
 
     if ats == "hays":
         return HaysScraper(
             company=name,
-            location_terms=LOCATION_FILTERS,
-            title_terms=TITLE_FILTERS,
+            location_terms=location_terms,
+            title_terms=title_terms,
         )
 
     if ats == "michaelpage":
         return MichaelPageScraper(
             company=name,
-            location_terms=LOCATION_FILTERS,
-            title_terms=TITLE_FILTERS,
+            location_terms=location_terms,
+            title_terms=title_terms,
         )
 
     if ats == "hayatx":
         return HayaTxScraper(
             company=name,
-            location_terms=LOCATION_FILTERS,
-            title_terms=TITLE_FILTERS,
+            location_terms=location_terms,
+            title_terms=title_terms,
         )
 
     if ats == "smartrecruiters":
         return SmartRecruitersScraper(
             company=name,
             company_id=cfg["company_id"],
-            location_terms=LOCATION_FILTERS,
-            title_terms=TITLE_FILTERS,
+            location_terms=location_terms,
+            title_terms=title_terms,
         )
 
     if ats == "nestlehealthscience":
         return NestleHealthScienceScraper(
             company=name,
-            location_terms=LOCATION_FILTERS,
-            title_terms=TITLE_FILTERS,
+            location_terms=location_terms,
+            title_terms=title_terms,
         )
 
     if ats == "ashby":
         return AshbyScraper(
             company=name,
             slug=cfg["slug"],
-            location_terms=LOCATION_FILTERS,
-            title_terms=cfg.get("title_terms", TITLE_FILTERS),
+            location_terms=location_terms,
+            title_terms=title_terms,
         )
 
     if ats == "personio":
         return PersonioScraper(
             company=name,
             subdomain=cfg["subdomain"],
-            location_terms=LOCATION_FILTERS,
-            title_terms=TITLE_FILTERS,
+            location_terms=location_terms,
+            title_terms=title_terms,
         )
 
     if ats == "teamtailor":
@@ -276,15 +299,22 @@ def _build_scraper(cfg: dict):
             company=name,
             subdomain=cfg["subdomain"],
             api_token=cfg["api_token"],
-            location_terms=LOCATION_FILTERS,
-            title_terms=TITLE_FILTERS,
+            location_terms=location_terms,
+            title_terms=title_terms,
+        )
+
+    if ats == "incyte":
+        return IncyteScraper(
+            company=name,
+            location_terms=location_terms,
+            title_terms=title_terms,
         )
 
     if ats == "generic":
         return GenericMonitor(
             company=name,
             careers_url=cfg["careers_url"],
-            keywords=cfg.get("keywords", TITLE_FILTERS),
+            keywords=cfg.get("keywords", title_terms),
         )
 
     logger.warning("Scraper for ATS '%s' not yet implemented — skipping %s", ats, name)
@@ -328,9 +358,30 @@ def _print_job_table(jobs: list[Job], header: str) -> None:
 # Per-company scrape helper (called from thread pool for non-Workday ATS)
 # ---------------------------------------------------------------------------
 
+def _explain_matches(jobs: list[Job], cfg: dict, explain_term: str) -> None:
+    """Print a filter verdict for every scraped job whose title, location,
+    company, or URL contains ``explain_term`` (case-insensitive).
+
+    This runs against the *unfiltered* job list so it also surfaces jobs
+    that a scraper's own Phase 1.5 pre-filter already dropped — the
+    exact class of false negative this flag exists to diagnose.
+    """
+    term_lower = explain_term.lower()
+    location_terms, title_terms = _resolve_terms(cfg)
+    for j in jobs:
+        haystack = f"{j.title} {j.location} {j.company} {j.url}".lower()
+        if term_lower not in haystack:
+            continue
+        verdict = explain_job(j, location_terms, title_terms)
+        print(f"\n  [EXPLAIN] {cfg['name']}: {j.title!r} @ {j.location!r}")
+        print(f"            {verdict}")
+        print(f"            url: {j.url}")
+
+
 def _scrape_one(
     cfg: dict,
     show_all: bool = False,
+    explain_term: str | None = None,
 ) -> tuple[list[Job], set[str], list[tuple[str, str]]]:
     """Scrape a single company.
 
@@ -356,8 +407,12 @@ def _scrape_one(
     if show_all:
         _print_job_table(all_jobs, f"ALL OPEN POSITIONS — {cfg['name']}")
 
+    if explain_term:
+        _explain_matches(all_jobs, cfg, explain_term)
+
     all_scraped_urls = {j.url for j in all_jobs}
-    matched = apply_filters(all_jobs, LOCATION_FILTERS, TITLE_FILTERS)
+    location_terms, title_terms = _resolve_terms(cfg)
+    matched = apply_filters(all_jobs, location_terms, title_terms)
     matched = [score_job(j) for j in matched]
     for j in matched:
         j.status = job_cache.get_status(j.url)
@@ -373,7 +428,11 @@ def _scrape_one(
 # Main orchestrator
 # ---------------------------------------------------------------------------
 
-def run(show_all: bool = False) -> list[Job]:
+def run(
+    show_all: bool = False,
+    explain_term: str | None = None,
+    company_filter: str | None = None,
+) -> list[Job]:
     job_cache.load()
     _sync_gist_statuses(GIST_ID)
     _validate_companies(COMPANIES)
@@ -384,11 +443,23 @@ def run(show_all: bool = False) -> list[Job]:
     all_scraped_urls: set[str] = set()
     generic_alerts: list[tuple[str, str]] = []
 
+    companies = COMPANIES
+    if company_filter:
+        needle = company_filter.lower()
+        companies = [c for c in COMPANIES if needle in c["name"].lower()]
+        if not companies:
+            logger.error("--company %r matched no configured company", company_filter)
+            return []
+
     print(f"\n{'='*70}")
     print("  BIOPHARMA JOB SCRAPER")
     print(f"{'='*70}")
     print(f"  Location filters : {', '.join(LOCATION_FILTERS)}")
     print(f"  Title filters    : {', '.join(TITLE_FILTERS)}")
+    if company_filter:
+        print(f"  Company filter   : {company_filter!r} ({len(companies)} match(es))")
+    if explain_term:
+        print(f"  Explain term     : {explain_term!r}")
     print(f"{'='*70}\n")
 
     # ── Split companies by scraping constraint ────────────────────────────
@@ -396,17 +467,19 @@ def run(show_all: bool = False) -> list[Job]:
     # sequentially with 10-15 s gaps between cold sessions.
     # Every other ATS (Greenhouse, Workable, Paylocity, SuccessFactors, Generic)
     # hits independent domains and can run fully in parallel.
-    workday_cfgs = [c for c in COMPANIES if c["ats"] == "workday"]
-    other_cfgs   = [c for c in COMPANIES if c["ats"] != "workday"]
+    workday_cfgs = [c for c in companies if c["ats"] == "workday"]
+    other_cfgs   = [c for c in companies if c["ats"] != "workday"]
 
     # ── Launch non-Workday scrapers in a thread pool ──────────────────────
     # They start immediately and run overlapped with the Workday loop below.
     pool = ThreadPoolExecutor(max_workers=_OTHER_WORKERS, thread_name_prefix="scraper")
-    other_futures = {pool.submit(_scrape_one, cfg, show_all): cfg for cfg in other_cfgs}
+    other_futures = {
+        pool.submit(_scrape_one, cfg, show_all, explain_term): cfg for cfg in other_cfgs
+    }
 
     # ── Workday: sequential with mandatory inter-company delays ───────────
     for idx, cfg in enumerate(workday_cfgs):
-        matched, urls, alerts = _scrape_one(cfg, show_all)
+        matched, urls, alerts = _scrape_one(cfg, show_all, explain_term)
         all_matched.extend(matched)
         all_scraped_urls.update(urls)
         generic_alerts.extend(alerts)
@@ -494,5 +567,22 @@ if __name__ == "__main__":
         action="store_true",
         help="Print every open position (unfiltered) before showing scored matches",
     )
+    parser.add_argument(
+        "--explain",
+        metavar="TERM",
+        help=(
+            "Debug a false negative: for every scraped job whose title, "
+            "location, company, or URL contains TERM (case-insensitive), "
+            "print which filter stage would accept/reject it and why. "
+            "Runs against the unfiltered job list, so it also surfaces jobs "
+            "a scraper's own pre-filter already dropped. Combine with "
+            "--company to skip scraping everything else."
+        ),
+    )
+    parser.add_argument(
+        "--company",
+        metavar="NAME",
+        help="Only scrape companies whose name contains NAME (case-insensitive)",
+    )
     args = parser.parse_args()
-    run(show_all=args.all)
+    run(show_all=args.all, explain_term=args.explain, company_filter=args.company)

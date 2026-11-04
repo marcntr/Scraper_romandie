@@ -200,8 +200,11 @@ COMPANIES: list[dict] = [
         "tenant": "labcorp",
         "instance": "wd1",
         "portal": "External",
-        # Only one Swiss location exists in Labcorp's facet (CHE-based country code)
-        "location_facets": {"locations": ["4a6c2a97581e0100c7d9f621e1e90000"]},
+        # Two Swiss location IDs in Labcorp's facet — both Geneva
+        "location_facets": {"locations": [
+            "4a6c2a97581e0100c7d9f621e1e90000",  # CHE - Geneva - 7 rue Moise-Marcinhes
+            "4a6c2a97581e0100c7d9f4eb70f10000",  # Geneva Switzerland
+        ]},
     },
     {
         "name": "Bristol Myers Squibb",
@@ -1022,13 +1025,13 @@ COMPANIES: list[dict] = [
     #     "ats": "phenom",
     #     "careers_url": "https://careers.emdgroup.com/global/en/",
     # },
-    # Incyte — Jibe Apply (Google CTS) frontend over iCIMS; JS-rendered SPA with
-    # no accessible public API endpoint.  Kept as generic keyword monitor.
+    # Incyte — Jibe Apply (Google CTS) frontend over iCIMS. The public page is
+    # a client-rendered SPA with no server-rendered job content, but the
+    # widget itself calls an unauthenticated JSON API (careers.incyte.com/api/jobs)
+    # that returns full per-job data directly — see scrapers/incyte.py.
     {
         "name": "Incyte",
-        "ats": "generic",
-        "careers_url": "https://careers.incyte.com/jobs",
-        "keywords": TITLE_FILTERS,
+        "ats": "incyte",
     },
     # ── Phase 3: HAYA Therapeutics — WordPress AJAX → LinkedIn links
     {
@@ -1406,6 +1409,7 @@ SCORE_LOCATION_POSITIVE: list[str] = [
     "lausanne",
     "vaud",
     "neuchâtel", "neuchatel",
+    "boudry",       # Neuchâtel canton — BMS manufacturing site
     "fribourg",
     "valais",
     "jura",

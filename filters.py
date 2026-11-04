@@ -43,6 +43,13 @@ _NEG_PATTERNS: list[re.Pattern] = [
 _POS_TERMS_LOWER:   list[str] = [t.lower() for t in SCORE_POSITIVE]
 _NEG_PHRASES_LOWER: list[str] = [p.lower() for p in SCORE_NEGATIVE_PHRASES]
 
+# Many ATS platforms (Workday, SuccessFactors, ...) render Swiss locations as
+# a bare ISO alpha-2 code with no city/country name LOCATION_FILTERS would
+# otherwise catch, e.g. "Boudry - CH" or "Vevey, CH".  Match "ch" only as an
+# isolated token (flanked by non-letters or string boundaries) so this never
+# fires inside "Chicago", "China", "Chile", "Munich", etc.
+_SWISS_COUNTRY_CODE_RE = re.compile(r"(?<![a-zA-Z])ch(?![a-zA-Z])", re.IGNORECASE)
+
 
 # ---------------------------------------------------------------------------
 # Hard exclusion filter (applied before location / title checks)
@@ -62,14 +69,29 @@ def _is_excluded_title(job: Job) -> bool:
 # Location / title substring matchers
 # ---------------------------------------------------------------------------
 
+def location_text_matches(location: str, location_terms: list[str]) -> bool:
+    """True if ``location`` contains any term, or carries a standalone Swiss
+    "CH" country-code token the term list would otherwise miss (see
+    ``_SWISS_COUNTRY_CODE_RE`` above). Shared by the final filter pipeline
+    and every scraper's Phase 1.5 pre-filter so both stages agree.
+    """
+    loc_lower = location.lower()
+    if any(term.lower() in loc_lower for term in location_terms):
+        return True
+    return bool(_SWISS_COUNTRY_CODE_RE.search(location))
+
+
 def matches_location(job: Job, location_terms: list[str]) -> bool:
-    loc = job.location.lower()
-    return any(term.lower() in loc for term in location_terms)
+    return location_text_matches(job.location, location_terms)
+
+
+def title_text_matches(title: str, title_terms: list[str]) -> bool:
+    title_lower = title.lower()
+    return any(term.lower() in title_lower for term in title_terms)
 
 
 def matches_title(job: Job, title_terms: list[str]) -> bool:
-    title = job.title.lower()
-    return any(term.lower() in title for term in title_terms)
+    return title_text_matches(job.title, title_terms)
 
 
 # ---------------------------------------------------------------------------
@@ -152,3 +174,32 @@ def score_job(job: Job) -> Job:
         job.deducted_keywords.add(f"location:{job.location}")
 
     return job
+
+
+# ---------------------------------------------------------------------------
+# Diagnostics — explain why a specific job would or wouldn't survive
+# apply_filters(), without having to trace the three-stage pipeline by hand.
+# ---------------------------------------------------------------------------
+
+def explain_job(job: Job, location_terms: list[str], title_terms: list[str]) -> str:
+    """Return a one-line human-readable verdict for ``job`` against the
+    current filter configuration, naming the exact stage that would
+    reject it. Used by ``main.py --explain`` for debugging false negatives.
+    """
+    if _is_excluded_title(job):
+        pat = next(p.pattern for p in _EXCL_PATTERNS if p.search(job.title))
+        return f"REJECTED at hard-exclusion — title matched pattern {pat!r}"
+
+    loc_ok = matches_location(job, location_terms)
+    title_ok = matches_title(job, title_terms)
+
+    if not loc_ok and not title_ok:
+        return (
+            f"REJECTED at location+title — location {job.location!r} matched no "
+            f"LOCATION_FILTERS term, and title {job.title!r} matched no TITLE_FILTERS term"
+        )
+    if not loc_ok:
+        return f"REJECTED at location — {job.location!r} matched no LOCATION_FILTERS term"
+    if not title_ok:
+        return f"REJECTED at title — {job.title!r} matched no TITLE_FILTERS term"
+    return "PASSED — matches location and title filters"

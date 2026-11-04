@@ -36,6 +36,7 @@ from datetime import date, timedelta
 import requests
 
 import cache as job_cache
+from filters import location_text_matches, title_text_matches
 from scrapers.base import BaseScraper
 from models import Job
 
@@ -63,6 +64,10 @@ _SWISS_TERMS = frozenset({"switzerland", "suisse", "schweiz", "svizzera", "swiss
 # time so the dashboard sort (date desc, score desc) works correctly for all
 # Workday companies.
 _POSTED_DAYS_RE = re.compile(r"(\d+)\+?\s*day", re.IGNORECASE)
+
+# Multi-site postings show only a count in the listing ("2 Locations"); the
+# real sites are in the detail response (location + additionalLocations).
+_MULTI_LOCATION_RE = re.compile(r"^\s*\d+\s+locations?\s*$", re.IGNORECASE)
 
 
 def _parse_workday_date(posted_on: str) -> str:
@@ -238,12 +243,14 @@ class WorkdayScraper(BaseScraper):
             title = (raw.get("title") or "").strip()
             if not title:
                 continue
-            loc_str = (raw.get("locationsText") or "").lower()
-            title_lower = title.lower()
+            loc_str = raw.get("locationsText") or ""
+            # "N Locations" can't be checked until Phase 2 — let it through
+            # here; the final location filter runs on the resolved sites.
             loc_ok   = (not self._location_terms
-                        or any(t.lower() in loc_str for t in self._location_terms))
+                        or bool(_MULTI_LOCATION_RE.match(loc_str))
+                        or location_text_matches(loc_str, self._location_terms))
             title_ok = (not self._title_terms
-                        or any(t.lower() in title_lower for t in self._title_terms))
+                        or title_text_matches(title, self._title_terms))
             if loc_ok and title_ok:
                 candidates.append(raw)
 
@@ -330,6 +337,13 @@ class WorkdayScraper(BaseScraper):
         posted = _parse_workday_date(raw.get("postedOn") or "")
 
         info = detail.get("jobPostingInfo", {})
+
+        # Multi-site postings: replace "2 Locations" with the actual sites.
+        if _MULTI_LOCATION_RE.match(location):
+            sites = [info.get("location") or ""] + list(info.get("additionalLocations") or [])
+            sites = [x.strip() for x in sites if x and x.strip()]
+            if sites:
+                location = "; ".join(sites)
 
         # Public URL from the detail response; fall back to company search page
         public_url = (info.get("externalUrl") or "").strip() or self.careers_url

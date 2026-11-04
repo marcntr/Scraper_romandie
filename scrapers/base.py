@@ -37,6 +37,7 @@ _FALLBACK_UA = (
     "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
 )
 
+from filters import location_text_matches, title_text_matches
 from models import Job
 
 logger = logging.getLogger(__name__)
@@ -207,14 +208,10 @@ class BaseScraper(ABC):
         Used by subclasses for Phase 1.5 in-memory pre-filtering before
         expensive detail fetches.  An empty term list is treated as "accept all".
         """
-        if location_terms:
-            loc_lower = location.lower()
-            if not any(t.lower() in loc_lower for t in location_terms):
-                return False
-        if title_terms:
-            title_lower = title.lower()
-            if not any(t.lower() in title_lower for t in title_terms):
-                return False
+        if location_terms and not location_text_matches(location, location_terms):
+            return False
+        if title_terms and not title_text_matches(title, title_terms):
+            return False
         return True
 
     @staticmethod
