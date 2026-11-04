@@ -9,7 +9,7 @@
     "keywords": "npp"
   },
   "_generic:Charles River Laboratories": {
-    "keywords": "regulatory,scientifique,scientist"
+    "keywords": "regulatory"
   },
   "_generic:MoonLake Immunotherapeutics": {
     "keywords": "clinical development,medical affairs"
@@ -1236,11 +1236,6 @@
     ],
     "deducted_keywords": []
   },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000155289136": {
-    "description": "Join CERN's EP-ESE-ME section in the development of a radiation-tolerant microcontroller ASIC for use in future particle physics detectors and accelerator systems. Operating in highly challenging radiation environments, these systems require robust and reliable embedded electronics.\nThe project is based on an open-source RISC-V processing core and the CERN SOCRATES (System-On-Chip Radiation-Tolerant Ecosystem) framework for fault-tolerant SoC design. The successful candidate will contribute to the full development cycle, from requirements definition and system architecture to implementation, verification, and post-silicon validation.\nYour responsibilities:\nAnalyse application requirements across CERN's accelerator complex and particle physics detector systems to define technical specifications for the microcontroller ASIC.\nContribute to the architecture, design, and validation of a radiation-tolerant microcontroller ASIC implemented in 65 nm or 28 nm CMOS technology.\nSupport the definition of the SoC architecture, including the selection and configuration of an appropriate RISC-V processing core.\nDesign, integrate, and validate peripheral IP blocks within the CERN SOCRATES framework.\nApply fault-tolerant design methodologies, including triple modular redundancy (TMR) and single-event upset (SEU) mitigation techniques.\nParticipate in design verification activities and physical implementation, from RTL development through to tapeout.\nContribute to post-silicon testing, characterisation, and validation following chip fabrication.\nYour profile:\nStrong understanding of digital logic design.\nSolid experience with digital IC design and RTL development (Verilog/SystemVerilog).\nFamiliarity with standard ASIC design flows (synthesis, place and route, timing closure).\nKnowledge of RISC-V architecture and its ecosystem.\nExperience with microcontroller-based embedded systems development, including firmware programming in C and peripheral interfacing.\nSkills:\nRTL design and simulation (Verilog / SystemVerilog).\nFamiliarity with the digital ASIC design flow, including synthesis, place-and-route, timing closure, and sign-off activities.\nKnowledge of fault-tolerant design techniques and radiation effects in CMOS circuits is an asset.\nMicrocontroller embedded systems development (firmware in C, peripheral interfacing, bare-metal programming).\nScripting and automation (Python or equivalent).\nLinux/Unix working environment.\nCuriosity and willingness to learn in a multidisciplinary environment.\nAbility to work independently as well as within a team.\nSpoken and written English, with a commitment to learn French.\nPlease provide at least 1 reference letter to support your application.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nYou have a professional background in Electronics Engineer (or a related field) and have either:\na Master's degree with 2 to 6 years of post-graduation professional experience;\nor a PhD with no more than 3 years of post-graduation professional experience.\nYou have never had a CERN fellow or graduate contract before.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000155289136-digital-asic-designer-ep-ese-me-2026-134-grap-?oga=true",
-    "status": "matched"
-  },
   "https://careers.ompharma.com/job/Meyrin-Regulatory-Affairs-Operations-Trainee-Geneva-Gene/1446737333/": {
     "description": "OM Pharma is an international biopharmaceutical company specializing in the prevention of respiratory and urinary tract infections. As a committed local player, we train and support the talents of tomorrow through meaningful and educational internships.\n\nIn this context, we are offering a paid 6 to 12-month internship, ideally starting as soon as possible or at the beginning of 2027, based at our headquarters in Meyrin. Under the supervision of the Regulatory Operations Team Lead and in close collaboration with the RA team and external partners, your mission is to support regulatory operations activities related to regulatory data management, dossier maintenance and electronic submissions, ensuring the quality, accuracy and compliance of regulatory information throughout the product lifecycle.\n\nYour main responsibilities are as follows:\n\nSupport day-to-day regulatory operations activities and assigned regulatory projects, ensuring accurate documentation and timely follow-up of deliverables\n\n Maintain and update product and registration information in regulatory databases and systems\n\nReview regulatory data to ensure accuracy, consistency, and completeness\n\nArchive regulatory documents, correspondence and submission packages in accordance with internal procedures\n\nAssist with the preparation, compilation and technical review of electronic submission packages for health authorities\n\nContribute to the management and maintenance of product information and regulatory data used for health authority submissions\n\nCollaborate with internal stakeholders and partner companies to collect, verify and update regulatory documentation and data\n\nHelp track regulatory submissions and project progress using tracking tools and status reports\n\nKeep up to date with relevant regulatory requirements, procedures and operational best practices\n\n \n\nTo carry out these activities, we are looking for a person with the following profile:\n\nCurrently pursuing a Bachelor or Master’s degree in Life Sciences, Pharmacy, Regulatory Affairs, Health Sciences or a related scientific discipline\n\nStrong interest in pharmaceutical regulatory affairs, regulatory operations and regulatory data management\n\nComfortable using databases, document management systems and Microsoft Office tools; previous exposure to Veeva an asset\n\nStrong written and spoken English skills (minimum B2 level); additional knowledge of French and/or Spanish is an advantage\n\n This internship will enable you to:\n\nGain hands-on experience in regulatory operations within an international pharmaceutical environment\n\nDevelop practical knowledge of regulatory submissions, dossier maintenance and regulatory information management systems\n\nDiscover a stimulating and collaborative work environment where trust, teamwork, and entrepreneurship are highly valued\n\nLearn from experienced regulatory professionals who will support your technical and professional growth\n\nYou are a detail-oriented, organized and proactive individual with a strong willingness to learn. After receiving initial guidance, you are able to work independently, take ownership of your tasks and ensure a high level of accuracy and quality in your work. You enjoy working with data and documentation, are comfortable interacting with different stakeholders and thrive in a collaborative and multicultural environment. Your rigorous approach, team spirit and commitment to compliance make you a valuable contributor to the Regulatory Affairs team.\n\nLooking for a first hands-on experience in Regulatory Operations within the pharmaceutical industry? Join us and make a meaningful contribution to healthcare products used worldwide. We look forward to receiving your application and getting to know you!\n\nIMPORTANT: This internship is only open to students whose academic programme requires a mandatory internship as part of the degree curriculum. Candidates must be able to provide a valid tripartite internship agreement, and the internship duration must meet the minimum requirements set by their educational institution.\n\n \n\n \nAbout Us\n\nOM Pharma is a global Geneva-based biopharmaceutical company. It is a leader in the prevention of recurrent respiratory and urinary tract infections and is also active in the treatment of vascular diseases.\nIt operates worldwide through a strong network of international partners and invests its profits in R&D to develop microbial derived immunotherapeutic products to treat acute and chronic immunological disorders resulting from inflammation and infections. \nThe company strives to improve the quality of life of patients around the world by providing access to better treatment of immunological imbalances.\n\nFor more information, visit the website: ompharma.com.\n\n-",
     "external_url": "https://careers.ompharma.com/job/Meyrin-Regulatory-Affairs-Operations-Trainee-Geneva-Gene/1446737333/",
@@ -1541,7 +1536,7 @@
     "title": "Intern - Flow Cytometry Scientist",
     "company": "Labcorp",
     "location": "CHE - Geneva - 7 rue Moise-Marcinhes",
-    "posted_date": "2026-10-12",
+    "posted_date": "2026-10-11",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -1557,7 +1552,7 @@
     "title": "Intern - Bioinformatics",
     "company": "Labcorp",
     "location": "CHE - Geneva - 7 rue Moise-Marcinhes",
-    "posted_date": "2026-10-14",
+    "posted_date": "2026-10-13",
     "department": "",
     "score": 8,
     "matched_keywords": [
@@ -1576,7 +1571,7 @@
     "title": "Intern - Histology Scientist",
     "company": "Labcorp",
     "location": "CHE - Geneva - 7 rue Moise-Marcinhes",
-    "posted_date": "2026-10-14",
+    "posted_date": "2026-10-13",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -1594,7 +1589,7 @@
     "title": "Project & Portfolio Manager - Sites Network",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-21",
+    "posted_date": "2026-10-20",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1607,7 +1602,7 @@
     "title": "Senior Scientist in Flow Cytometry",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-22",
+    "posted_date": "2026-10-21",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -1629,7 +1624,7 @@
     "title": "Scientist – Oligonucleotide Chemistry & Innovation",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-20",
+    "posted_date": "2026-10-19",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1645,7 +1640,7 @@
     "title": "Lab Scientist, Microscopy",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-20",
+    "posted_date": "2026-10-19",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1665,7 +1660,7 @@
     "title": "Experienced Clinical Scientist/Medical monitor in neurosciences",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-16",
+    "posted_date": "2026-10-15",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -1683,7 +1678,7 @@
     "title": "Senior Scientist in Process Chemistry & Catalysis",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-20",
+    "posted_date": "2026-10-19",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1699,7 +1694,7 @@
     "title": "Sr. Scientist - Computational & Applied AI",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-15",
+    "posted_date": "2026-10-14",
     "department": "",
     "score": 8,
     "matched_keywords": [
@@ -1721,7 +1716,7 @@
     "title": "Experienced Discovery Scientist in Immunology",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-10",
+    "posted_date": "2026-10-09",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -1745,7 +1740,7 @@
     "title": "Post Doctorate Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-08",
+    "posted_date": "2026-10-07",
     "department": "",
     "score": 8,
     "matched_keywords": [
@@ -1899,7 +1894,7 @@
     "title": "Director, Portfolio Analytics",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-10-22",
+    "posted_date": "2026-10-21",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1914,7 +1909,7 @@
     "title": "Next Generation Scientist 2027",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-10-16",
+    "posted_date": "2026-10-15",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1935,7 +1930,7 @@
     "title": "Intern Data Science - Future Talent Program",
     "company": "Abbott",
     "location": "Switzerland - Basel",
-    "posted_date": "2026-10-13",
+    "posted_date": "2026-10-12",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1950,7 +1945,7 @@
     "title": "Intern Portfolio Strategy & Innovation - Future Talent Program",
     "company": "Abbott",
     "location": "Switzerland - Basel",
-    "posted_date": "2026-10-13",
+    "posted_date": "2026-10-12",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1996,7 +1991,7 @@
     "title": "Sr Manager, Quality & Regulatory Operations",
     "company": "Danaher",
     "location": "Neuchâtel, Switzerland",
-    "posted_date": "2026-10-08",
+    "posted_date": "2026-10-07",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -2034,7 +2029,7 @@
     "title": "WORKFORCE STRATEGY HEAD, ENTERPRISE DATA SCIENCE & ARTIFICIAL INTELLIGENCE (DSAI)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-10-27",
+    "posted_date": "2026-10-26",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -2047,7 +2042,7 @@
     "title": "AI Strategy & Portfolio Lead",
     "company": "Lonza",
     "location": "CH - Basel",
-    "posted_date": "2026-10-28",
+    "posted_date": "2026-10-27",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -2065,7 +2060,7 @@
     "title": "Scientist – Assay Data, AI & Workflows",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-30",
+    "posted_date": "2026-10-29",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -2189,7 +2184,7 @@
     "title": "Regulatory Affairs Consultant (German and French language skills)",
     "company": "Parexel",
     "location": "Switzerland-Remote",
-    "posted_date": "2026-10-29",
+    "posted_date": "2026-10-28",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -2206,7 +2201,7 @@
     "title": "Internship in PD Medical Affairs Compliance and Process Excellence – Non-Interventional Studies (NIS) Optimization & Digital Workspace (12 Months, Basel)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-29",
+    "posted_date": "2026-10-28",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2222,7 +2217,7 @@
     "title": "Internship in PD Medical Affairs Compliance and Process Excellence – Project Management & Business Operations (12 Months, Basel)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-29",
+    "posted_date": "2026-10-28",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2263,7 +2258,7 @@
     "title": "Data Scientist / Engineer - DNA-Encoded Library Technology (DELT)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-30",
+    "posted_date": "2026-10-29",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -2280,7 +2275,7 @@
     "title": "Scientific AI Platform Lead, Data Science, Disease Area X",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-10-31",
+    "posted_date": "2026-10-30",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -2334,7 +2329,7 @@
     "title": "Associate Principal Scientist Bioanalytics 80-100% (f/m/d)",
     "company": "Lonza",
     "location": "CH - Basel",
-    "posted_date": "2026-10-31",
+    "posted_date": "2026-10-30",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2449,7 +2444,7 @@
     "title": "Research Scientist - In Vivo Preclinical RLT Pharmacology (80-100%)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "",
+    "posted_date": "2026-11-02",
     "department": "",
     "score": 8,
     "matched_keywords": [
@@ -2471,7 +2466,7 @@
     "title": "Scientist, Tech Ops (Analytical Testing)",
     "company": "CSL Behring / Vifor",
     "location": "EMEA, CH, Kanton Bern, Bern, CSL Behring",
-    "posted_date": "",
+    "posted_date": "2026-11-02",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2545,7 +2540,7 @@
     "title": "Principal Scientist/Senior Scientist, Cryo-EM Structural Biology",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-11-04",
+    "posted_date": "",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2581,5 +2576,10 @@
     "deducted_keywords": [
       "location:Switzerland"
     ]
+  },
+  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000159558115": {
+    "description": "The BE-EA-DC section is responsible of mechanical beamline equipment such as beam intercepting devices and beam instrumentations. This equipment requires constant maintenance and upgrading to ensure its reliability and accuracy.\nYour responsibilities\nConduct the dismantling/assembling activities of the beam line equipment.\nActively participate in all stages of the mechanical equipment readiness, from production to installation.\nCollaborate closely with engineers, coordination teams, technicians.\nCommunicate and report the advancement of the work to the supervisor and project managers.\nParticipate to various mechanical design studies (new beam line equipment, tooling, upgrade).\nWrite technical specifications and procedures (maintenance, installation).\nMaintain up to date and improve the equipment maintenance database.\nMore information here.\nYour profile\nHands-on experience with mechanical equipment assembly and installation.\nExperience reading 2D drawings (ISO-GPS).\nFamiliarity with 3D modeling software (CATIA) and Microsoft Office pack.\nFamiliarity with a Computerized Maintenance Management System.\nSkills\nUnderstanding of the design of mechanical equipment and structures.\nKnowledge of manufacturing methods and work preparation (procedures, orders, BOM, metrology, logistics... ).\nKnowledge of design codes and compliance verification of mechanical equipment.\nOrganisation, planning and control of tasks.\nSpoken and written English or French, with a commitment to learn the basics of the other language.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nBy the application deadline, you have a maximum of two years of professional experience since graduation in Mechanical Engineering (or a related field) and your highest educational qualification is a general secondary education diploma.\nYou have never had a CERN fellow or graduate contract before.\nApplicants with a Bachelor's, Master's or PhD degree are not eligible.",
+    "external_url": "https://jobs.smartrecruiters.com/CERN/744000159558115-mechanical-technician-be-ea-dc-2026-251-grae-?oga=true",
+    "status": "matched"
   }
 }
