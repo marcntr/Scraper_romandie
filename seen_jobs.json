@@ -368,7 +368,7 @@
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-10-28"
+    "cached_at": "2026-11-05"
   },
   "_facets:onehealthineers:SHSJB": {
     "facets": {},
@@ -764,7 +764,8 @@
     "https://www.michaelpage.ch/job-detail/client-portfolio-manager-investment-associate/ref/jn-092026-7101747": "ignored",
     "https://www.michaelpage.ch/fr/job-detail/sp%C3%A9cialiste-salaires-mission-temporaire/ref/jn-102026-7120040?lang=en": "ignored",
     "https://jobs.smartrecruiters.com/HUG/744000156512180-ingenieure-ou-ingenieur-specialiste-en-chauffage-hydraulique-100-?oga=true": "ignored",
-    "https://jobs.smartrecruiters.com/HUG/744000154601029-chef-ou-cheffe-de-groupe-service-de-retraitement-des-dispositifs-medicaux-100-?oga=true": "ignored"
+    "https://jobs.smartrecruiters.com/HUG/744000154601029-chef-ou-cheffe-de-groupe-service-de-retraitement-des-dispositifs-medicaux-100-?oga=true": "ignored",
+    "https://lonza.wd3.myworkdayjobs.com/Lonza_Careers/job/CH---Basel/AI-Strategy---Portfolio-Lead_R80140": "ignored"
   },
   "_generic:Hurdle Bio": {
     "keywords": "biomarker,precision medicine"
@@ -925,7 +926,7 @@
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-10-28"
+    "cached_at": "2026-11-05"
   },
   "_generic:Bio-Rad": {
     "keywords": "npp"
@@ -1417,11 +1418,6 @@
     ],
     "deducted_keywords": []
   },
-  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000156513210": {
-    "description": "En qualité d’acheteur ou acheteuse, vous centralisez les divers besoins émanant des Hôpitaux Universitaires de Genève (HUG) et menez les processus d’acquisitions adéquats dans le respect des règles des marchés publics.\nEn collaboration avec les acheteuses et acheteurs et les gestionnaires achats de la CAIB, vous êtes garant ou garante du développement et du déploiement de la stratégie des achats de la catégorie immobilier construction.\n\nVous êtes responsable de la gestion et la mise sous contrôle du panel fournisseurs de votre catégorie. A ce titre vous menez des appels d’offres, en collaborant avec vos clients internes et intervenez de la définition du besoin, jusqu’à la contractualisation et le suivi du développement de la relation fournisseur.\nVous participez à l’animation du réseau des affiliés de la CAIB en partageant votre expertise des achats et votre connaissance des tendances du marché.",
-    "external_url": "https://jobs.smartrecruiters.com/HUG/744000156513210-acheteur-ou-acheteuse-immobilier-construction-100-?oga=true",
-    "status": "matched"
-  },
   "https://www.michaelpage.ch/de/job-detail/sales-account-manager-b2b-mwd/ref/jn-102026-7129840?lang=en": {
     "external_url": "https://www.michaelpage.ch/de/job-detail/sales-account-manager-b2b-mwd/ref/jn-102026-7129840?lang=en",
     "status": "ignored",
@@ -1439,11 +1435,6 @@
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000156563269": {
     "description": "ARIA/CAiMIRA is a joint WHO-CERN project that models the airborne transmission of respiratory pathogens and develops an automated, structured, and transparent systematic literature review process to inform public health policy and guidance. It builds on CERN's expertise in data management and knowledge systematisation. The planned second phase will extend the project to other airborne pathogens and to indoor air quality.\nWork Package 4, \"NLP Mechanisms for Systematic Literature Reviews,\" will continue automating the systematic review process and associated data analysis using AI-based methods. Within this work package, the QUEST graduate will spend 12 months bringing the NeutrinoReview prototype to production.\nYour responsibilities:\nDesign the architecture and concept for the production version of NeutrinoReview.\nEstablish a detailed development roadmap with clear milestones.\nDevelop guidelines for the safe and responsible integration of AI into systematic review workflows.\nRelease NeutrinoReview as a production-ready, general-purpose tool for domains beyond public health, including IT and physics.\nYour profile:\nExtensive experience in ML/NLP-based data science.\nStrong expertise in systematic literature review workflows and methodologies.\nRecognised expertise in AI-assisted research tools.\nProficiency in full-stack development and DevOps practices.\nHands-on experience deploying applications on Kubernetes/OpenShift.\nSkills:\nProgramming: Advanced proficiency in Python, JavaScript and React.\nUI/UX: Design and development of intuitive, user-centred interfaces.\nSystematic reviews: Strong expertise in systematic literature review workflows and methodologies.\nAI/NLP: In-depth experience designing and deploying AI and NLP pipelines.\nDevOps: Solid working knowledge of DevOps practices, including CI/CD and containerisation.\nSpoken and written English, with a commitment to learn French.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nYou have a professional background in Data Science (or a related field) and have either:\na Master's degree with 2 to 6 years of post-graduation professional experience;\nor a PhD with no more than 3 years of post-graduation professional experience.\nYou have never had a CERN fellow or graduate contract before.",
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000156563269-aria-literature-review-ai-automation-it-pw-wda-2026-165-grap-?oga=true",
-    "status": "matched"
-  },
-  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000156512100": {
-    "description": "Au sein de l’équipe du Centre d’admission et de facturation du Département de médecine (CAF), vous êtes en charge des admissions. Vous assurez l’accueil et l’admission des patients et patientes selon les procédures et règles en vigueur. Vous renseignez toute personne qui se présente aux admissions et êtes le ou la garante de l’identitovigilance du point de vue administratif. Vous gérez les rejets liés aux renseignements non conformes.\nVotre entregent et vos aptitudes à communiquer vous permettent d’accueillir toute la patientèle avec une excellente qualité de service. Vous savez notamment agir de manière diplomate et calme face à une personne mécontente ou nerveuse. En tant que premier contact, vous incarnez au travers de votre travail l’image de l’institution.\nPar ailleurs, vous assurez la coordination des moyens de transport pour les patientes et patients qui le nécessitent. De la même façon, vous proposez un service personnalisé à la patientèle précarisée en collaboration avec les partenaires de soutien interne tels que les assistantes et assistants-sociaux ou la cellule des cas complexes.\nAu sein de l’équipe, vous vous inscrivez dans une dynamique de continuité de service en prenant le relai de vos collègues en cas d’absence et en favorisant l’échange d’informations au sein de l’équipe. Vous n’hésitez pas à vous perfectionner dans vos activités en sollicitant l’aide adéquate. Plus généralement, vous contribuez à toutes activités visant à améliorer la qualité des prestations",
-    "external_url": "https://jobs.smartrecruiters.com/HUG/744000156512100-commise-ou-commis-administratif-aux-admissions-du-departement-de-medecine-100-?oga=true",
     "status": "matched"
   },
   "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000156513019": {
@@ -1563,7 +1554,7 @@
     "title": "Intern - Flow Cytometry Scientist",
     "company": "Labcorp",
     "location": "CHE - Geneva - 7 rue Moise-Marcinhes",
-    "posted_date": "2026-10-11",
+    "posted_date": "2026-10-12",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -1579,7 +1570,7 @@
     "title": "Intern - Bioinformatics",
     "company": "Labcorp",
     "location": "CHE - Geneva - 7 rue Moise-Marcinhes",
-    "posted_date": "2026-10-13",
+    "posted_date": "2026-10-14",
     "department": "",
     "score": 8,
     "matched_keywords": [
@@ -1598,7 +1589,7 @@
     "title": "Intern - Histology Scientist",
     "company": "Labcorp",
     "location": "CHE - Geneva - 7 rue Moise-Marcinhes",
-    "posted_date": "2026-10-13",
+    "posted_date": "2026-10-14",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -1616,7 +1607,7 @@
     "title": "Project & Portfolio Manager - Sites Network",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-20",
+    "posted_date": "2026-10-21",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1629,7 +1620,7 @@
     "title": "Senior Scientist in Flow Cytometry",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-21",
+    "posted_date": "2026-10-22",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -1651,7 +1642,7 @@
     "title": "Scientist – Oligonucleotide Chemistry & Innovation",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-19",
+    "posted_date": "2026-10-20",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1667,7 +1658,7 @@
     "title": "Lab Scientist, Microscopy",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-19",
+    "posted_date": "2026-10-20",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1687,7 +1678,7 @@
     "title": "Experienced Clinical Scientist/Medical monitor in neurosciences",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-15",
+    "posted_date": "2026-10-16",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -1705,7 +1696,7 @@
     "title": "Senior Scientist in Process Chemistry & Catalysis",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-19",
+    "posted_date": "2026-10-20",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1721,7 +1712,7 @@
     "title": "Sr. Scientist - Computational & Applied AI",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-14",
+    "posted_date": "2026-10-15",
     "department": "",
     "score": 8,
     "matched_keywords": [
@@ -1743,7 +1734,7 @@
     "title": "Experienced Discovery Scientist in Immunology",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-09",
+    "posted_date": "2026-10-10",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -1767,7 +1758,7 @@
     "title": "Post Doctorate Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-07",
+    "posted_date": "2026-10-08",
     "department": "",
     "score": 8,
     "matched_keywords": [
@@ -1789,7 +1780,7 @@
     "title": "Principal Scientist - Discovery Oncology",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-05",
+    "posted_date": "2026-10-06",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -1813,7 +1804,7 @@
     "title": "Cardio-Renal Discovery & Scientific Strategy Area Leader",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-05",
+    "posted_date": "2026-10-06",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -1834,7 +1825,7 @@
     "title": "\"Principal Scientist siRNA Design",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-05",
+    "posted_date": "2026-10-06",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1850,7 +1841,7 @@
     "title": "Biomarker Therapeutic Area Head -Neuroscience",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-10-05",
+    "posted_date": "2026-10-06",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -1874,7 +1865,7 @@
     "title": "Director, Translational Medicine Expert (Neurodegeneration)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-10-05",
+    "posted_date": "2026-10-06",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -1897,7 +1888,7 @@
     "title": "Translational Medicine Director/Associate*- Cardiovascular & Metabolic",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-10-05",
+    "posted_date": "2026-10-06",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -1921,7 +1912,7 @@
     "title": "Director, Portfolio Analytics",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-10-21",
+    "posted_date": "2026-10-22",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1936,7 +1927,7 @@
     "title": "Next Generation Scientist 2027",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-10-15",
+    "posted_date": "2026-10-16",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1957,7 +1948,7 @@
     "title": "Senior Associate Clinical Trials Regulatory Affairs",
     "company": "Amgen",
     "location": "Switzerland - Rotkreuz",
-    "posted_date": "2026-10-05",
+    "posted_date": "2026-10-06",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -1972,7 +1963,7 @@
     "title": "Consultant – Qualitative Market Research & Competitive Intelligence (Switzerland)/ Part-Time",
     "company": "IQVIA",
     "location": "Zug, Switzerland",
-    "posted_date": "2026-10-05",
+    "posted_date": "2026-10-06",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1988,7 +1979,7 @@
     "title": "Manager, Quality & Regulatory Operations",
     "company": "Danaher",
     "location": "Neuchâtel, Switzerland",
-    "posted_date": "2026-11-04",
+    "posted_date": "2026-11-05",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -2003,7 +1994,7 @@
     "title": "Business Development Director",
     "company": "KBI Biopharma",
     "location": "Switzerland - Plan-les-Ouates",
-    "posted_date": "2026-10-05",
+    "posted_date": "2026-10-06",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -2026,7 +2017,7 @@
     "title": "WORKFORCE STRATEGY HEAD, ENTERPRISE DATA SCIENCE & ARTIFICIAL INTELLIGENCE (DSAI)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-10-26",
+    "posted_date": "2026-10-27",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -2044,7 +2035,7 @@
     "title": "Scientist – Assay Data, AI & Workflows",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-29",
+    "posted_date": "2026-10-30",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -2168,7 +2159,7 @@
     "title": "Regulatory Affairs Consultant (German and French language skills)",
     "company": "Parexel",
     "location": "Switzerland-Remote",
-    "posted_date": "2026-10-28",
+    "posted_date": "2026-10-29",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -2185,7 +2176,7 @@
     "title": "Internship in PD Medical Affairs Compliance and Process Excellence – Non-Interventional Studies (NIS) Optimization & Digital Workspace (12 Months, Basel)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-28",
+    "posted_date": "2026-10-29",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2201,7 +2192,7 @@
     "title": "Internship in PD Medical Affairs Compliance and Process Excellence – Project Management & Business Operations (12 Months, Basel)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-28",
+    "posted_date": "2026-10-29",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2225,11 +2216,6 @@
     "external_url": "https://jobs.smartrecruiters.com/HUG/744000158457749-secretaire-medicale-ou-medical-a-la-consultation-d-anesthesiologie-80-a-100-?oga=true",
     "status": "matched"
   },
-  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000158457659": {
-    "description": "Vous secondez la responsable administrative et financière (RAF) du D-MA dans l'exercice de ses fonctions et collaborez activement à la gestion efficace du département et des services en apportant votre expertise financière et administrative.\nSur délégation, vous remplacez la RAF en cas d’absence et exercez ses compétences et signatures.\nVous pilotez et dirigez de manière autonome un ou plusieurs processus financiers et administratifs relevant du domaine de compétences du RAF et, notamment, le contrôle de gestion départemental (reporting, budget, etc.).\nVous participez à des commissions ou à des groupes de projets institutionnels. Vous exploitez des indicateurs d'activité, de gestion et d'efficience et établissez des prévisions tout en proposant des mesures d'optimisation. \nVous proposez des améliorations de l'organisation et des processus, assurez la conception et la rédaction de la partie médico-économique des conventions, des accords de collaboration et des contrats concernant le département. \nEnfin, vous traitez en toute autonomie des mandats et projets ponctuels et vous représentez le département, la filière métier et la RAF.",
-    "external_url": "https://jobs.smartrecruiters.com/HUG/744000158457659-responsable-administrative-et-financiere-adjoint-ou-adjointe-100-?oga=true",
-    "status": "matched"
-  },
   "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000158465070": {
     "description": "En votre qualité de médecin adjoint ou adjointe à l'Unité de cardio-pédiatrie, vous contribuez à la supervision de l'activité, à l'encadrement des médecins internes et des chefs et cheffes de clinique.\nVous collaborez aux activités cliniques avec les médecins cheffes et chefs de service et les médecins adjoints et adjointes.\nVous assurez la coordination des activités pratiques, les interventions cliniques, thérapeutiques ou chirurgicales des patients et patientes qui vous sont confiées. Vous participez au système de gardes et de piquets.\nDémontrant un intérêt confirmé dans l'enseignement, vous participez à l'instruction pré/post-graduée et continue dans l'unité.\nDe nature dynamique, flexible et engagée, vous développez des projets cliniques interdisciplinaires. Vous participez, déployez et assurez la recherche dans l'unité.\nVous êtes une personne reconnue pour votre leadership et mettez à profit vos excellentes compétences organisationnelles, relationnelles et de communication, en équipe pluridisciplinaire et avec les personnes prises en charge et leur famille.",
     "external_url": "https://jobs.smartrecruiters.com/HUG/744000158465070-medecin-adjointe-ou-adjoint-a-l-unite-de-cardio-pediatrie-100-?oga=true",
@@ -2242,7 +2228,7 @@
     "title": "Data Scientist / Engineer - DNA-Encoded Library Technology (DELT)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-29",
+    "posted_date": "2026-10-30",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -2259,7 +2245,7 @@
     "title": "Scientific AI Platform Lead, Data Science, Disease Area X",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-10-30",
+    "posted_date": "2026-10-31",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -2308,7 +2294,7 @@
     "title": "Associate Principal Scientist Bioanalytics 80-100% (f/m/d)",
     "company": "Lonza",
     "location": "CH - Basel",
-    "posted_date": "2026-10-30",
+    "posted_date": "2026-10-31",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2418,7 +2404,7 @@
     "title": "Research Scientist - In Vivo Preclinical RLT Pharmacology (80-100%)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-11-02",
+    "posted_date": "2026-11-03",
     "department": "",
     "score": 8,
     "matched_keywords": [
@@ -2440,7 +2426,7 @@
     "title": "Scientist, Tech Ops (Analytical Testing)",
     "company": "CSL Behring / Vifor",
     "location": "EMEA, CH, Kanton Bern, Bern, CSL Behring",
-    "posted_date": "2026-11-02",
+    "posted_date": "2026-11-03",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2755,7 +2741,7 @@
     "title": "Image Analysis Scientist - Digital Pathology & Histology",
     "company": "Labcorp",
     "location": "Geneva Switzerland",
-    "posted_date": "2026-10-26",
+    "posted_date": "2026-10-27",
     "department": "",
     "score": 11,
     "matched_keywords": [
@@ -3011,7 +2997,7 @@
     "title": "Executive Director, International Medical Affairs, Dermatology",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-11-04",
+    "posted_date": "2026-11-05",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -3029,7 +3015,7 @@
     "title": "Executive Director, International Medical Affairs, Rheumatology",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-11-04",
+    "posted_date": "2026-11-05",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -3246,7 +3232,7 @@
     "title": "Associate Principal Scientist - Cell Culture Development",
     "company": "Lonza",
     "location": "CH - Visp",
-    "posted_date": "2026-10-29",
+    "posted_date": "2026-10-30",
     "department": "",
     "score": -1,
     "matched_keywords": [
@@ -3268,7 +3254,7 @@
     "title": "Senior QC Scientist 80-100%",
     "company": "Lonza",
     "location": "CH - Visp",
-    "posted_date": "2026-10-05",
+    "posted_date": "2026-10-06",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -3283,7 +3269,7 @@
     "title": "Senior Scientist, QC",
     "company": "Lonza",
     "location": "CH - Visp",
-    "posted_date": "2026-11-04",
+    "posted_date": "2026-11-05",
     "department": "",
     "score": 0,
     "matched_keywords": [
