@@ -1492,7 +1492,7 @@
     "title": "Senior Scientist in Flow Cytometry",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-21",
+    "posted_date": "2026-10-22",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -1514,7 +1514,7 @@
     "title": "Scientist – Oligonucleotide Chemistry & Innovation",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-19",
+    "posted_date": "2026-10-20",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1530,7 +1530,7 @@
     "title": "Lab Scientist, Microscopy",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-19",
+    "posted_date": "2026-10-20",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1550,7 +1550,7 @@
     "title": "Experienced Clinical Scientist/Medical monitor in neurosciences",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-15",
+    "posted_date": "2026-10-16",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -1568,7 +1568,7 @@
     "title": "Sr. Scientist - Computational & Applied AI",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-14",
+    "posted_date": "2026-10-15",
     "department": "",
     "score": 8,
     "matched_keywords": [
@@ -1590,7 +1590,7 @@
     "title": "Experienced Discovery Scientist in Immunology",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-10",
+    "posted_date": "2026-10-11",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -1614,7 +1614,7 @@
     "title": "Post Doctorate Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-10",
+    "posted_date": "2026-10-11",
     "department": "",
     "score": 8,
     "matched_keywords": [
@@ -1636,7 +1636,7 @@
     "title": "Cardio-Renal Discovery & Scientific Strategy Area Leader",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-10",
+    "posted_date": "2026-10-11",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -1657,7 +1657,7 @@
     "title": "\"Principal Scientist siRNA Design",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-10",
+    "posted_date": "2026-10-11",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1673,7 +1673,7 @@
     "title": "Translational Medicine Director/Associate*- Cardiovascular & Metabolic",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-10-10",
+    "posted_date": "2026-10-11",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -1697,7 +1697,7 @@
     "title": "Next Generation Scientist 2027",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-10-15",
+    "posted_date": "2026-10-16",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1711,11 +1711,6 @@
       "clinical operations"
     ]
   },
-  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000157739589": {
-    "description": "Dans le cadre de votre mission, vous accueillez et renseignez toutes les personnes se présentant à la réception des Bains de Cressy (patientèle et clientèle hétéroclite).\nVous avez la tâche d'encaisser les entrées, les abonnements et toutes autres prestations (numéraires, cartes de crédit, bons cadeaux).\nVous assurez la permanence téléphonique ainsi que la prise de rendez-vous des prestataires externes tels que les esthéticiens et esthéticiennes, masseurs et masseuses, etc et vous mettez en place les cabines de soins de bien-être.\nVous conseillez, promouvez et vendez les différentes prestations des Bains de Cressy et effectuez divers travaux administratifs (comptabilité et facturation, production de statistiques, gestion du système de parking, gestion du stock et de l’e-boutique).\nVous avez une grande résistance au stress, une excellente capacité de concentration et à faire face aux imprévus ainsi qu'une polyvalence avérée pour un poste multi-tâches.\nVous êtes capable de désamorcer des situations complexes et/ou conflictuelles avec une clientèle hétéroclite.",
-    "external_url": "https://jobs.smartrecruiters.com/HUG/744000157739589-hote-ou-hotesse-d-accueil-des-bains-de-cressy-50-?oga=true",
-    "status": "matched"
-  },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000158040029": {
     "description": "The Worldwide LHC Computing Grid (WLCG) project is a global collaboration of around 170 computing centres in more than 40 countries, linking up national and international grid infrastructures. As computing evolves for the High-Luminosity LHC (HL-LHC) era, WLCG faces a rapidly growing computing demand alongside increasingly heterogeneous hardware environments (CPUs, GPUs, Cloud, and HPC).\nTo guide procurement, resource pledging, performance studies and accounting, the High Energy Physics (HEP) community relies on domain-specific benchmarking tools to accurately measure and compare computing resources.\nAs a Graduate / Applied Engineer (QUEST), you will join our team in CERN's IT Department to support the development, operation, and user support for WLCG HEPScore benchmarking services. You will contribute to key activities, helping to build and maintain the next-generation benchmarking software stack for the WLCG community.\nYour responsibilities\nSoftware Development: Actively contribute to the development, packaging, and distribution of the HEP benchmark software stack. Integrate, profile, and validate production-level GPU application workloads from LHC experiment software (e.g., event generation, simulation, fast inference, and HLT).\nContainerisation: Build, test, and maintain container images of HEP workloads using automated GitLab CI/CD pipelines.\nService Maintenance & Enhancement: Ensure the smooth operation of the core benchmarking infrastructure and data ingestion services using Puppet, GitLab CI/CD, ActiveMQ, Logstash, OpenSearch, Kibana, Apache Spark and Grafana.\nPerformance Analysis: Collect, process, and analyze grid-wide benchmark data to evaluate performance scaling across diverse CPU/GPU architectures and server configurations.\nTechnical Support: Provide technical support and documentation to the WLCG user community.\nYour profile\nAdvanced Python Development: Solid experience in Python programming,including modular code structure,packaging, distribution, and testing.\nContainerisation: Solid understanding of Docker and Apptainer/Singularity, along with familiarity with GPU container execution runtime environments.\nDevOps & Infrastructure Automation: Proficiency with GitLab CI/CD pipelines, container registries, configuration management (Puppet), and deployment methodologies.\nLinux Systems & Performance Profiling: Strong Linux administration and shell scripting skills. Experience in system metrics tracking (e.g., CPU/GPU utilisation, hardware performance metrics, power monitoring).\nData Analytics Pipelines & Visualisation: Experience with monitoring and data analytics stacks such as OpenSearch/Elasticsearch, Logstash, Kibana, Grafana, or Apache Spark.\nCommunication & Collaboration: Good technical writing and communication skills to interact with domain experts across the global WLCG collaboration.\nSkills\nProgramming & Scripting: Python (code, packaging, testing), Bash, Git.\nContainerisation: Docker, Apptainer/Singularity.\nGPU Computing: NVIDIA Container Toolkit, CUDA, nvidia-smi, AMD ROCm, rocm-smi, GPU profiling.\nDevOps: GitLab CI/CD, Puppet, Linux administration.\nMonitoring & Data Analytics: OpenSearch/Elasticsearch, Logstash, Kibana, Grafana, Apache Spark, ActiveMQ.\nSpoken and written English, with a commitment to learn French.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nYou have a professional background in Applied Physics, Software Engineering (or a related field) and have either:\na Master's degree with 2 to 6 years of post-graduation professional experience;\nor a PhD with no more than 3 years of post-graduation professional experience.\nYou have never had a CERN fellow or graduate contract before.",
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000158040029-devops-engineer-for-hep-gpu-benchmarks-it-ce-lcg-2026-168-grap-?oga=true",
@@ -1728,7 +1723,7 @@
     "title": "Scientist – Assay Data, AI & Workflows",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-29",
+    "posted_date": "2026-10-30",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1833,7 +1828,7 @@
     "title": "Internship in PD Medical Affairs Compliance and Process Excellence – Non-Interventional Studies (NIS) Optimization & Digital Workspace (12 Months, Basel)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-28",
+    "posted_date": "2026-10-29",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1869,7 +1864,7 @@
     "title": "Data Scientist / Engineer - DNA-Encoded Library Technology (DELT)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-29",
+    "posted_date": "2026-10-30",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1886,7 +1881,7 @@
     "title": "Scientific AI Platform Lead, Data Science, Disease Area X",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-10-30",
+    "posted_date": "2026-10-31",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -2013,7 +2008,7 @@
     "title": "Research Scientist - In Vivo Preclinical RLT Pharmacology (80-100%)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-11-02",
+    "posted_date": "2026-11-03",
     "department": "",
     "score": 8,
     "matched_keywords": [
@@ -2094,7 +2089,7 @@
     "title": "Principal Scientist/Senior Scientist, Cryo-EM Structural Biology",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-11-03",
+    "posted_date": "2026-11-04",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2506,7 +2501,7 @@
     "title": "Executive Director, International Medical Affairs, Dermatology",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-11-04",
+    "posted_date": "2026-11-05",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -2524,7 +2519,7 @@
     "title": "Executive Director, International Medical Affairs, Rheumatology",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-11-04",
+    "posted_date": "2026-11-05",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -2557,7 +2552,7 @@
     "title": "Associate Principal Scientist - Cell Culture Development",
     "company": "Lonza",
     "location": "CH - Visp",
-    "posted_date": "2026-10-29",
+    "posted_date": "2026-10-30",
     "department": "",
     "score": -1,
     "matched_keywords": [
@@ -2579,7 +2574,7 @@
     "title": "Senior QC Scientist 80-100%",
     "company": "Lonza",
     "location": "CH - Visp",
-    "posted_date": "2026-10-10",
+    "posted_date": "2026-10-11",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -2594,7 +2589,7 @@
     "title": "Senior Scientist, QC",
     "company": "Lonza",
     "location": "CH - Visp",
-    "posted_date": "2026-11-04",
+    "posted_date": "2026-11-05",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -2675,7 +2670,7 @@
     "title": "Associate Principal Scientist - Analytical Development (Microbial) 80%-100% (m/w/d)",
     "company": "Lonza",
     "location": "CH - Visp",
-    "posted_date": "2026-11-05",
+    "posted_date": "2026-11-06",
     "department": "",
     "score": -1,
     "matched_keywords": [
@@ -2763,7 +2758,7 @@
     "title": "Intern - Flow Cytometry Scientist",
     "company": "Labcorp",
     "location": "CHE - Geneva - 7 rue Moise-Marcinhes",
-    "posted_date": "2026-10-11",
+    "posted_date": "2026-10-12",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -2779,7 +2774,7 @@
     "title": "Intern - Bioinformatics",
     "company": "Labcorp",
     "location": "CHE - Geneva - 7 rue Moise-Marcinhes",
-    "posted_date": "2026-10-13",
+    "posted_date": "2026-10-14",
     "department": "",
     "score": 8,
     "matched_keywords": [
@@ -2798,7 +2793,7 @@
     "title": "Intern - Histology Scientist",
     "company": "Labcorp",
     "location": "CHE - Geneva - 7 rue Moise-Marcinhes",
-    "posted_date": "2026-10-13",
+    "posted_date": "2026-10-14",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -3036,7 +3031,7 @@
     "title": "Senior Associate Clinical Trials Regulatory Affairs",
     "company": "Amgen",
     "location": "Switzerland - Rotkreuz",
-    "posted_date": "2026-10-10",
+    "posted_date": "2026-10-11",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -3071,7 +3066,7 @@
     "title": "Scientist, Tech Ops (Analytical Testing)",
     "company": "CSL Behring / Vifor",
     "location": "EMEA, CH, Kanton Bern, Bern, CSL Behring",
-    "posted_date": "2026-11-02",
+    "posted_date": "2026-11-03",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -3086,7 +3081,7 @@
     "title": "Consultant – Qualitative Market Research & Competitive Intelligence (Switzerland)/ Part-Time",
     "company": "IQVIA",
     "location": "Zug, Switzerland",
-    "posted_date": "2026-10-10",
+    "posted_date": "2026-10-11",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -3117,7 +3112,7 @@
     "title": "Regulatory Affairs Consultant (German and French language skills)",
     "company": "Parexel",
     "location": "Switzerland-Remote",
-    "posted_date": "2026-10-28",
+    "posted_date": "2026-10-29",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -3154,7 +3149,7 @@
     "title": "Manager, Quality & Regulatory Operations",
     "company": "Danaher",
     "location": "Neuchâtel, Switzerland",
-    "posted_date": "2026-11-04",
+    "posted_date": "2026-11-05",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -3169,7 +3164,7 @@
     "title": "Business Development Director",
     "company": "KBI Biopharma",
     "location": "Switzerland - Plan-les-Ouates",
-    "posted_date": "2026-10-10",
+    "posted_date": "2026-10-11",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -3245,7 +3240,7 @@
     "title": "Intern Data Science - Future Talent Program",
     "company": "Abbott",
     "location": "Switzerland - Basel",
-    "posted_date": "2026-11-09",
+    "posted_date": "2026-11-10",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -3260,7 +3255,7 @@
     "title": "Intern Portfolio Strategy & Innovation - Future Talent Program",
     "company": "Abbott",
     "location": "Switzerland - Basel",
-    "posted_date": "2026-11-09",
+    "posted_date": "2026-11-10",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -3272,5 +3267,18 @@
     "description": "For candidates seeking to be located at our Stevenage site, this role will temporarily be based at Stevenage, UK. However, the Company plans to relocate its offices to Cambridge, UK. The location of this role will therefore subsequently change to Cambridge, UK in accordance with timelines to be set by the Company. The relocation is currently proposed to take effect by early 2029.\n\nDirector, Oncology Translational Medicine, Clinical Biomarkers\n \nJob Purpose:\nThe Director, Oncology Translational Medicine, Clinical Biomarkers is responsible for the development and effective implementation of biomarker and translational medicine strategies to support the clinical development of late-stage oncology assets.\nAs a key member of a Clinical Matrix Team (CMT), the Clinical Biomarker Director will collaborate with the Clinical Biomarker Executive Director to establish clear decision-making criteria, define patient segmentation strategies, and integrate these into clinical development plans.\nYou will leverage cutting-edge technologies and methodologies to discover and clinically validate biomarkers, ensuring the biomarker strategy is fully aligned with the clinical plan. This integration will optimise decision-making in drug development and enable the identification of the right patient populations for our medicines.\nKey responsibilities:\nCollaborating closely with the Clinical Biomarker Executive Director to drive the design, alignment, and execution of clinical biomarker and translational medicine strategies focused on identifying predictive biomarkers that enable clinical success.\nValidating and implementing biomarker strategies, including target engagement, pharmacodynamic, and proof-of-mechanism biomarkers, for clinical-phase programs to support patient stratification, dose selection, and enable clinical go/no-go decisions.\nParticipating in tumor-specific Biomarker Matrix teams, with responsibility for executing clinical biomarker strategies for late-stage oncology programs, while working closely with internal and external stakeholders, as well as disease area strategy teams.\nRepresenting Translational Medicine at Clinical Development Matrix Teams (CMT) to establish biomarker-driven decision-making criteria and their seamless integration into clinical study designs, aligning with clinical study objectives\nSupporting disease area strategies and translational objectives by defining biomarker priorities, areas of interest, and generating decision-enabling evidence packages informed by real-world datasets, internal and external data and partnerships (For e.g., research collaborations, KEE consultations).\nIdentifying cutting-edge science and technological advances to incorporate into biomarker strategies for guiding indication selection, patient enrichment, and combination strategies.\nOverseeing and/or developing sample testing plans and delivering high-quality biomarker data packages to inform clinical development and regulatory strategies.\nManaging effective relationships with clinical and scientific operations, diagnostics, medical science, medical affairs, regulatory, portfolio management, and commercial functions.\nSupporting the expansion of mechanism and disease understanding to generate insights for indication expansion and scientific exchange as needed.\nDefining and studying mechanisms of resistance to enable reverse translation, inform next-line strategies, support patient enrichment, and influence life cycle management of assets.\nContributing to the company’s scientific credibility through publications and presentations.\nWhy You?\nBasic Qualifications:\nWe are looking for professionals with the following required skills and experience:\nPh.D. or equivalent with 7+ years or M.Sc. with 10+ years of drug development experience in the pharmaceutical industry, with a solid background in Oncology clinical biomarkers, expertise in late-phase oncology studies, and translational research within clinical development.\nStrong expertise in cancer biology, and clinical development, including the therapeutic landscape, approved and investigational agents, and diagnostic approaches in solid tumor and haematological malignancies.\nExperience in leading cross-functional teams and designing and executing strategic biomarker plans including development of regulated biomarker assays.\nExperience conducting clinical trials and working as part of clinical study teams.\nExperience designing and executing translational biomarker plans for clinical trials. Explores and onboards innovative technologies to advance translational research and new biomarker development\nExperience collaborating effectively with Data Sciences to analyze high-dimensional preclinical and clinical data to guide clinical decisions and inform asset strategy.\nHands-on experience implementing a broad range of biomarker platforms such as flow cytometry, molecular diagnostics including NGS, FISH and PCR, IHC/IF, liquid biopsy / ctDNA approaches, and multi-omic biomarker analyses.\nundefined\nDirect successful translation of pre-clinical research to human clinical trials, leveraging learnings from genomic, transcriptomic, and proteomic analyses of both preclinical models and patient samples.\nExperience influencing teams and key leaders, with a track record of success.\nPreferred Qualifications:\nThe following qualifications would be advantageous:\nM.D., Ph.D. or equivalent doctoral degree in a relevant scientific discipline.\nExperience with high-dimensional dataset analysis.\nPrior experience with diagnostic development and regulatory interactions.\nExperience with digital pathology, AI/ML-enabled biomarker analyses, external scientific partnerships, and mentoring or developing scientific colleagues.\nStrong sense of urgency and excellent skills in prioritization, planning as well as timely execution in a very fast-paced environment\nStrong interpersonal skills and ability to thrive in a matrixed environment. Dependable and trustworthy, willing to take ownership and responsibility\nExcellent communication, problem-solving, matrix project-management, and presentation skills.\n\nLI-GSK*\nLI-Hybrid*\n\nSkillsAnalytical Thinking, Clinical Data Interpretation, Clinical Data Review, Clinical Development, Clinical Trial Designs, Clinical Trials Monitoring, Digital Fluency, Drug Regulatory Affairs, Executive Presence, Hematology and Oncology, Learning Agility, Matrix Leadership, Real World Evidence (RWE), Scientific Presentations\n \n • If you are based in Cambridge, MA; Waltham, MA; Rockville, MD; or San Francisco, CA, the annual base salary for new hires in this position ranges $189,750 to $316,250. The US salary ranges take into account a number of factors including work location within the US market, the candidate’s skills, experience, education level and the market rate for the role. In addition, this position offers an annual bonus and eligibility to participate in our share based long term incentive program which is dependent on the level of the role. Available benefits include health care and other insurance benefits (for employee and family), retirement benefits, paid holidays, vacation, and paid caregiver/parental and medical leave. If salary ranges are not displayed in the job posting for a specific country, the relevant compensation will be discussed during the recruitment process.\n\nPlease visit  GSK US Benefits Summary to learn more about the comprehensive benefits program GSK offers US employees.\n\nWhy GSK?\nUniting science, technology and talent to get ahead of disease together.\n\nGSK is a global biopharma company with a purpose to unite science, technology and talent to get ahead of disease together. We aim to positively impact the health of 2.5 billion people by the end of the decade, as a successful, growing company where people can thrive. We get ahead of disease by preventing and treating it with innovation in specialty medicines and vaccines. We focus on four therapeutic areas: respiratory, immunology and inflammation; on",
     "external_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/USA---Pennsylvania---Upper-Providence/Director--Oncology-Translational-Medicine--Clinical-Biomarkers_449698",
     "status": "matched"
+  },
+  "/job/Basel-City/Patent-Attorney-II_REQ-10090896-2": {
+    "description": "Salary Range:CHF126,000.00 - CHF234,000.00\n\n \nJob Description Summary#LI-Hybrid\nLocation: Basel, Switzerland or Cambridge, United States (see separate posting)\n\nReady to shape the future of innovation at Novartis? As a Patent Attorney, you will play a pivotal role in protecting groundbreaking scientific discoveries and enabling life-changing medicines to reach patients worldwide. Partnering closely with R&D teams, you will drive strategic intellectual property decisions, build robust patent portfolios, and navigate complex legal landscapes to safeguard innovation across the product lifecycle.\n\n \nJob Description\nKey Responsibilities\nProvide clear, strategic, and business-focused counsel to Novartis R&D clients on invention protection, portfolio development, publication strategy, and third-party risks.\nBuild and manage patent portfolios for Novartis R&D projects by identifying inventions and preparing, prosecuting, maintaining, and defending patent filings across areas such as new molecular entities, processes, manufacturing, platforms, technologies, and clinical developments.\nRender legal opinions on patentability, validity, and freedom to operate, and develop patent strategies that strengthen IP positions, support freedom to operate, and enable effective IP defense.\nApply deep knowledge of national patent law and practice, including relevant legal developments and patent trends, to shape strategy and advice.\nUnderstand and apply other forms of exclusivity protection, as appropriate.\nCommunicate effectively with colleagues and leaders across the legal, IP, and R&D organizations.\nBuild and manage relationships with outside counsel and collaborators, including extensive interaction within a multicultural global patent function.\nConduct due diligence and provide counsel based on those assessments, including freedom-to-operate, infringement, validity, risk evaluation, and risk mitigation strategies.\nProvide IP support for transactional matters, including M&A, research collaborations, and in-licensing opportunities, with advice on contract drafting and negotiation\nEnsure high-quality, timely delivery of work aligned with business goals and budgets\n \nEssential Requirements\nUniversity degree in law, admission to the bar and qualification as a European Patent Attorney / Lawyer\nAdvanced degree in chemistry or related field, with strong preference for a doctoral degree\nSignificant experience as a patent attorney within a law firm or pharmaceutical or biotechnology environment\nStrong technical expertise in chemistry, preferably including experience with small molecules, synthesis, or pharmaceutical development.\nExpertise in U.S. and PCT patent law, filing processes, and prosecution practice, with a detailed understanding of European patent law and other major global patent systems\nProven ability to partner with scientific and business stakeholders to deliver strategic intellectual property advice\nStrong analytical, communication, and decision-making skills with high attention to detail\nAbility to manage multiple priorities effectively within a fast-paced, global environment\n \nBenefits & Rewards \nAt Novartis, we’re committed to reimagining medicine together - and rewarding the people who make it happen. \n  \nExpected Annual Base Salary Range for role: CHF 126.000 - CHF 234.000\n  \nThe base salary offered is determined based on gender-neutral objectives, such as relevant skills, competencies and experience in accordance with the Novartis pay setting policy and upon joining Novartis will be reviewed periodically. \n  \nThe rewards of being part of our team go far beyond base pay and incentives. We also offer a variety of competitive benefits in kind to help you thrive personally and professionally, such as insurance plans, retirement plans, wellbeing resources and global recognition programs. In addition, we provide flexible and hybrid working options, where possible, and minimum 14 weeks paid parental leave. \n \nIn addition to your base salary, you may be eligible for a performance-based bonus depending on certain performance parameters. Further details will be provided during the application process.  \n  \nRead our brochure to learn more about our global total rewards offering: \nhttps://www.novartis.com/sites/novartis_com/files/novartis-life-handbook.pdf \n  \nNote: Benefits and compensation may vary by country and are subject to local legal requirements, including provisions of collective bargaining agreements where applicable. A full overview of your compensation package, including any relevant collective bargaining agreement details applicable to your role based on your employment location and Novartis employer entity, will be communicated separately to you during the application process. \n \nCommitment to Diversity and Inclusion:\nNovartis is committed to building an outstanding, inclusive work environment and diverse teams representative of the patients and communities we serve.\n \nAccessibility and Accommodation:\nNovartis is committed to working with and providing reasonable accommodation to all individuals. If, because of a medical condition or disability, you need a reasonable accommodation for any part of the recruitment process, or in order to receive more detailed information about the essential functions of a position, please send an e-mail to diversity.inclusion_ch@novartis.com and let us know the nature of your request and your contact information. Please include the job requisition number in your message. \n\n \nSkills DesiredAdaptability, Business Acumen, Critical Thinking, Curious Mindset, Decision Making, Freedom to Operate Analysis, Intellectual Property Law, Negotiation, Patentability, Patent Drafting, Patent Law, Patent Litigation, Patent Portfolio Management, Patent Prosecution, Persuasion, Planning, Problem Solving, Relationship Building, Stakeholder Management, Strategic Thinking",
+    "external_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Basel-City/Patent-Attorney-II_REQ-10090896-2",
+    "status": "matched",
+    "title": "Patent Attorney II",
+    "company": "Novartis",
+    "location": "Basel (City)",
+    "posted_date": "2026-11-10",
+    "department": "",
+    "score": 0,
+    "matched_keywords": [],
+    "deducted_keywords": []
   }
 }
