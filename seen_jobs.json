@@ -354,14 +354,14 @@
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-11-04"
+    "cached_at": "2026-11-12"
   },
   "_facets:revvity:External": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-11-04"
+    "cached_at": "2026-11-12"
   },
   "_facets:alirahealth:AliraHealth": {
     "facets": {},
@@ -774,7 +774,8 @@
     "https://www.stettlerconsulting.ch/en/current-vacancies/conseiller-medical-en-urologie-a-definir/": "ignored",
     "https://www.stettlerconsulting.ch/en/current-vacancies/business-development-manager-inside-sales-manager-w-m-100/": "ignored",
     "https://www.stettlerconsulting.ch/en/current-vacancies/medical-adviser-nephrologie-zns-80-100-w-m/": "ignored",
-    "https://www.stettlerconsulting.ch/en/current-vacancies/quality-regulatory-affairs-manager-w-m-80-100/": "ignored"
+    "https://www.stettlerconsulting.ch/en/current-vacancies/quality-regulatory-affairs-manager-w-m-80-100/": "ignored",
+    "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Internship-in-PD-Medical-Affairs-Compliance-and-Process-Excellence---Non-Interventional-Studies--NIS--Optimization---Digital-Workspace--12-Months--Basel-_202610-127268": "ignored"
   },
   "_generic:Hurdle Bio": {
     "keywords": "biomarker,precision medicine"
@@ -1404,7 +1405,7 @@
     "title": "Senior Scientist in Flow Cytometry",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-21",
+    "posted_date": "2026-10-22",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -1426,7 +1427,7 @@
     "title": "Scientist – Oligonucleotide Chemistry & Innovation",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-19",
+    "posted_date": "2026-10-20",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1442,7 +1443,7 @@
     "title": "Lab Scientist, Microscopy",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-19",
+    "posted_date": "2026-10-20",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1462,7 +1463,7 @@
     "title": "Experienced Clinical Scientist/Medical monitor in neurosciences",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-15",
+    "posted_date": "2026-10-16",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -1480,7 +1481,7 @@
     "title": "Sr. Scientist - Computational & Applied AI",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-14",
+    "posted_date": "2026-10-15",
     "department": "",
     "score": 8,
     "matched_keywords": [
@@ -1502,7 +1503,7 @@
     "title": "Experienced Discovery Scientist in Immunology",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-12",
+    "posted_date": "2026-10-13",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -1526,7 +1527,7 @@
     "title": "Post Doctorate Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-12",
+    "posted_date": "2026-10-13",
     "department": "",
     "score": 8,
     "matched_keywords": [
@@ -1548,7 +1549,7 @@
     "title": "Cardio-Renal Discovery & Scientific Strategy Area Leader",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-12",
+    "posted_date": "2026-10-13",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -1569,7 +1570,7 @@
     "title": "\"Principal Scientist siRNA Design",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-12",
+    "posted_date": "2026-10-13",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1585,7 +1586,7 @@
     "title": "Translational Medicine Director/Associate*- Cardiovascular & Metabolic",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-10-12",
+    "posted_date": "2026-10-13",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -1609,7 +1610,7 @@
     "title": "Next Generation Scientist 2027",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-10-15",
+    "posted_date": "2026-10-16",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1635,7 +1636,7 @@
     "title": "Scientist – Assay Data, AI & Workflows",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-29",
+    "posted_date": "2026-10-30",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1688,31 +1689,6 @@
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000158229187-geotechnical-engineer-sce-ppm-fc-2026-169-grap-?oga=true",
     "status": "matched"
   },
-  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000158223729": {
-    "description": "Au sein du secrétariat du service d’immunologie et d’allergologie composé actuellement de trois secrétaires médicales, vous avez pour mission d'organiser et d’assurer de manière autonome le travail quotidien lié à l'activité des médecins adjoints et adjointes ainsi que des chefs et cheffes de clinique et des internes de l’unité d’allergologie. \n\n \n\nGrâce à votre aisance relationnelle, vous accueillez, renseignez et orientez les patients et patientes se présentant en allergologie et gérez les appels téléphoniques que vous recevez. \n\n \n\nVous organisez les consultations en gérant l’agenda électronique des médecins et en préparant les dossiers patients. Au besoin, vous programmez les examens médicaux complémentaires et rapatriez les rapports médicaux, et vous vous occupez des passeports d’allergie.\nVous assurez également la gestion et suivi des demandes assurantielles (DRM), la gestion des programmations laboratoire ADR AC (Berne), la gestion des demandes de prises en charges sociales et les examens de capillaroscopie à exporter dans DPI.\n\n \n\nTout en répondant aux diverses sollicitations, vous menez à bien et de manière autonome les activités administratives en lien avec votre fonction comme le suivi des dossiers patients, la gestion du courrier et de la messagerie électronique. \n\n \n\nVous faites preuve de proactivité pour effectuer les tâches logistiques découlant de la vie d’un secrétariat comme la réception, le tri, la distribution et/ou le suivi du courrier papier et des commandes, le scannage et l’archivage des divers documents. \n\n \n\nAu sein de l’équipe, vous développez un lien de proximité avec vos collègues secrétaires médicales (assurez une continuité de service lors des absences) ainsi qu’avec l’équipe médico-soignante. Plus généralement, votre sens du service fait de vous une personne agile prête à mettre votre polyvalence au service de l’institution pour exercer dans différents services en fonction des besoins.",
-    "external_url": "https://jobs.smartrecruiters.com/HUG/744000158223729-secretaire-medical-ou-medicale-au-service-d-immunologie-et-d-allergologie-80-?oga=true",
-    "status": "matched"
-  },
-  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000158223869": {
-    "description": "Dans ce rôle, vous gérez une équipe composée d'environ 10 collaborateurs et collaboratrices, dont la mission est d'intervenir en premier niveau pour toutes les demandes d'interventions émanent des utilisateurs et utilisatrices des bâtiments, locaux et équipements, pour le site de Cluse-Roseraie placé sous votre responsabilité et en gardant toujours à l'esprit les 5 valeurs de l'institution : confiance, respect, esprit d'équipe, reconnaissance, égalité-inclusion.\nVous coordonnez et contrôlez l'activité du groupe \"Maçonnerie-Peinture et Signalisation\", dont la mission est d'entretenir, de réparer, de réviser, de contrôler de transformer, de modifier, d'améliorer, de fabriquer des structures de bâtiments touchant les domaines hospitaliers et médical. Le domaine d'intervention touche plus particulièrement les éléments de maçonnerie, béton-armé, forages, de génie-civil, protections murales, routes et chemins, d’éléments coupe-feu, carrelage et faïences, faux-plafonds, revêtements de sol, échafaudages, protections anti-poussières de peinture, de gypserie, revêtements muraux, marquages routiers, de signalisations, etc.\nVous assurez l'étude, la coordination et l'exécution des petits travaux de transformation et rénovation, demandés par la clientèle.\nVous participer aux études et à la réalisation des projets confiés au secteur de maintenance par les secteurs ingénierie technique du bâtiment et architecture du service mandataires de maîtrise d’œuvre. Vous assurez une gestion rigoureuse, offrant les meilleurs rapports qualités/prix et au juste prix, en optimisant la technologie et matériaux utilisés, le recours à la sous-traitance et aux contrats de maintenance en contrôlant l'adéquation des qualifications professionnelles de votre équipe avec les tâches à réaliser.\nVous remplacez le chef du secteur lors de ses absences, à tour de rôle avec votre collègue chef du groupe \"Menuiserie-Clés\"\nVous assurez la gestion administrative et managériale en lien avec les activités du groupe.\nVous assistez le chef du secteur dans la mise en place d'une organisation tendant à améliorer la satisfaction des clients et clientes et les performances du secteur.\nVos compétences de leadership (respect, écoute, esprit d'équipe, équité, reconnaissance, agilité) et votre rigueur vous confèrent une crédibilité qui vous permet d'accompagner les collaborateurs et collaboratrices en développant leur esprit d'équipe. Vous veillez à leur fournir des feedbacks réguliers pour développer leurs compétences.\nVotre sens de l'organisation et de la planification vous garantissent la prise en charge des interventions et dépannages selon les ressources à disposition et les besoins.\nSensible à la présence de la patientèle et aux contraintes hospitalières, vous supervisez et faites respecter l’application des procédures et protocoles définis dans le système assurance qualité du secteur et l’ensemble des bonnes pratiques professionnelles.\nDe nature positive, optimiste et orientée \"service clients\", vous savez motiver votre équipe et entretenir un climat de partenariat afin de gérer de manière proactive des situations complexes impliquant plusieurs actrices et acteurs professionnels.\nVous actualisez les connaissances de votre équipe et les vôtres, relatives à votre domaine, par le biais de formations.",
-    "external_url": "https://jobs.smartrecruiters.com/HUG/744000158223869-chef-ou-cheffe-de-groupe-maconnerie-peinture-signalisation-site-cluse-roseraie-100-?oga=true",
-    "status": "ignored",
-    "title": "Chef ou Cheffe de groupe Maçonnerie-Peinture-Signalisation, site Cluse-Roseraie - 100%",
-    "company": "HUG",
-    "location": "Rue Gabrielle-Perret-Gentil 4, Switzerland",
-    "posted_date": "2026-10-28",
-    "department": "Other",
-    "score": -2,
-    "matched_keywords": [],
-    "deducted_keywords": [
-      "location:Rue Gabrielle-Perret-Gentil 4, Switzerland"
-    ]
-  },
-  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000158224059": {
-    "description": "Dans le cadre de ce poste, vous gérez les interactions entre les cliniciens et cliniciennes ainsi que les chercheurs et chercheuses des différents départements et institutions.\nVous organisez et coordonnez des réunions périodiques pour maintenir l'interaction entre les membres, présentez de nouveaux projets et partagez les progrès des projets. Vous coordonnez la répartition efficace des ressources pour les activités cliniques et de recherche (personnel et équipement).\nVous gérez l'affectation des patients et des patientes aux projets de recherche et aux chercheurs et chercheuses appropriés (y compris la coordination du personnel de recherche junior chargé du recrutement).\nVous participez à la mise à jour régulière des bases de données sur les projets de recherche. Vous aidez à la mise en place des procédures et de processus pour garantir des tests précis et l'intégrité des protocoles cliniques et de recherche.\nVous assurez le suivi de l'évolution et de l’état des projets afin d’effectuer des rapports réguliers.\nVous garantissez le bon fonctionnement des activités logistiques et administratives (création badges, attribution des accès, …).",
-    "external_url": "https://jobs.smartrecruiters.com/HUG/744000158224059-coordinateur-ou-coordinatrice-pour-la-consultation-de-sante-cerebrale-et-mentale-70-?oga=true",
-    "status": "matched"
-  },
   "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000158224120": {
     "description": "Dans le cadre de ce poste, vous assurez une prise en charge psychothérapeutique des patientes et patients cérébrolésés durant leur hospitalisation, en tenant compte de leurs besoins psychiques et de leur situation clinique.\nVous collaborez étroitement avec le Service de psychiatrie de liaison et d’intervention de crise afin de garantir une prise en charge interdisciplinaire et coordonnée.\nVous intervenez également auprès des familles des personnes prises en charge, ainsi qu’auprès des équipes soignantes, dans une perspective d’information, de soutien et de coordination de l’approche psychothérapeutique.",
     "external_url": "https://jobs.smartrecruiters.com/HUG/744000158224120-psychologue-psychotherapeute-40-?oga=true",
@@ -1733,11 +1709,6 @@
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000158488769-shipping-officer-sce-ssc-sc-2026-248-grae-?oga=true",
     "status": "matched"
   },
-  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000158457749": {
-    "description": "Au sein du Service d'anesthésiologie, vous remplissez toutes les tâches administratives en lien avec les consultations du service.\nVous gérez la planification des consultations d'anesthésiologie (prise des rendez-vous, convocations, préparation des dossiers, numérisation de documents) et organisez les examens complémentaires, tout en vous assurant du suivi de la bonne trajectoire du dossier médical et du patient ou de la patiente.\nVous gérez la gestion des appels téléphoniques ainsi que l’accueil physique des patients et patientes et/ou de leurs proches.\nVous gérez le courrier et la messagerie électronique.\nVous gérez les dossiers et réclamations de la patientèle et des assurances (suivi, dactylographie des documents, recherche, classement, numérisation) et vous participez au suivi des dossiers pour la facturation.\nVous effectuez la rédaction et la mise en forme de divers documents (correspondances, procès-verbaux, comptes-rendus médicaux, rapports, élaboration/mise à jour de procédures, etc.) et vous effectuez les tâches logistiques telles que les demandes de travaux, la gestion des stocks et la réservation de salles.\nVous saisissez et mettez à jour les statistiques inhérentes à l’activité.\nGrâce à votre aisance relationnelle, vous développez un lien de proximité avec vos collègues et vous fournissez une continuité de service en assurant la permanence lors des absences. Et plus généralement, votre sens du service fait de vous une personne agile prête à mettre sa polyvalence au service de l'institution pour exercer dans différents services en fonction des besoins.",
-    "external_url": "https://jobs.smartrecruiters.com/HUG/744000158457749-secretaire-medicale-ou-medical-a-la-consultation-d-anesthesiologie-80-a-100-?oga=true",
-    "status": "matched"
-  },
   "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000158465070": {
     "description": "En votre qualité de médecin adjoint ou adjointe à l'Unité de cardio-pédiatrie, vous contribuez à la supervision de l'activité, à l'encadrement des médecins internes et des chefs et cheffes de clinique.\nVous collaborez aux activités cliniques avec les médecins cheffes et chefs de service et les médecins adjoints et adjointes.\nVous assurez la coordination des activités pratiques, les interventions cliniques, thérapeutiques ou chirurgicales des patients et patientes qui vous sont confiées. Vous participez au système de gardes et de piquets.\nDémontrant un intérêt confirmé dans l'enseignement, vous participez à l'instruction pré/post-graduée et continue dans l'unité.\nDe nature dynamique, flexible et engagée, vous développez des projets cliniques interdisciplinaires. Vous participez, déployez et assurez la recherche dans l'unité.\nVous êtes une personne reconnue pour votre leadership et mettez à profit vos excellentes compétences organisationnelles, relationnelles et de communication, en équipe pluridisciplinaire et avec les personnes prises en charge et leur famille.",
     "external_url": "https://jobs.smartrecruiters.com/HUG/744000158465070-medecin-adjointe-ou-adjoint-a-l-unite-de-cardio-pediatrie-100-?oga=true",
@@ -1750,7 +1721,7 @@
     "title": "Data Scientist / Engineer - DNA-Encoded Library Technology (DELT)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-29",
+    "posted_date": "2026-10-30",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1767,7 +1738,7 @@
     "title": "Scientific AI Platform Lead, Data Science, Disease Area X",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-10-30",
+    "posted_date": "2026-10-31",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -1787,11 +1758,6 @@
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000158674036": {
     "description": "Introduction:\nYou will join the Technology Department's Machine Protection and Electrical Integrity (MPE) Group, which develops and maintains systems that protect accelerator equipment, including magnets and particle-beam-related installations.\nWorking in a collaborative team of software engineers, you will design, develop and maintain reliable software that supports the safe and efficient operation of the Large Hadron Collider and its injector complex. You will have the opportunity to solve challenging engineering problems, collaborate with experts across different disciplines and contribute to systems that are essential to CERN's scientific mission. \nFunctions:\nDesign, implement, test and maintain software components that interface with equipment protection and interlock systems.\nMonitor deployed applications, investigate technical issues and improve reliability, availability and maintainability.\nWork with engineers, technical specialists and accelerator operations teams during commissioning, testing and operation.\nUnderstand user requirements, contribute to technical decisions and help deliver sustainable software solutions.\nCollaborate with colleagues to strengthen development workflows, automated testing, continuous integration and software quality, including exploring AI-assisted development tools where appropriate.\nProvide technical guidance and mentoring to colleagues and students.",
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000158674036-control-software-engineer-particle-accelerators-te-mpe-cb-2026-213-ld-?oga=true",
-    "status": "matched"
-  },
-  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000158701159": {
-    "description": "Vous gérez, analysez et traitez 24h/24 les informations reçues des divers réseaux informatiques et des appels téléphoniques arrivant au Centre de contrôle. Vous intervenez immédiatement en cas de perturbation mettant en danger la patientèle, le personnel, les visiteurs et visiteuses ou le patrimoine HUG.\nVous assurez 24h/24h un service de surveillance, de mise en alerte ainsi qu’un service d’assistance sur appel des services hospitaliers, prenant en charge toutes les demandes HUG au niveau technique. De plus, vous traitez et gérez toutes les alarmes feu 24h/24 sur le site de Cluse-Roseraie élargi.\nVous gérez et pilotez les installations de la centrale thermique pour permettre un fonctionnement sans interruption de la production et de la distribution de l’énergie thermique.\nVous gérer et surveillez les divers paramètres vitaux de l’institution, (exemple : eau, électricité, gaz médicaux, climatisation, chauffage, ventilation, froid, etc.) en collaboration avec les ateliers techniques.\nVous intervenez en qualité d’expert dans une discipline ou comme spécialiste dans plusieurs disciplines (pluridisciplinarité). Vous assurez un niveau de sécurité et de confort adéquat des infrastructures et des équipements.\nEn cas d’urgences ou d’évènements majeurs, vous gérez et traitez les informations reçues avec prise de décision adéquate et immédiate. Vous décidez de manière autonome des actions à entreprendre en respectant les priorités définies et dirigez la mobilisation des intervenants et intervenantes.\nVous aimez trouver des solutions face à des problématiques techniques complexes et vous vous épanouissez également dans la réalisation de tâches plus simples et routinières.",
-    "external_url": "https://jobs.smartrecruiters.com/HUG/744000158701159-technicien-ou-technicienne-du-centre-de-controle-100-?oga=true",
     "status": "matched"
   },
   "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000158701479": {
@@ -1894,7 +1860,7 @@
     "title": "Research Scientist - In Vivo Preclinical RLT Pharmacology (80-100%)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-11-02",
+    "posted_date": "2026-11-03",
     "department": "",
     "score": 8,
     "matched_keywords": [
@@ -1975,7 +1941,7 @@
     "title": "Principal Scientist/Senior Scientist, Cryo-EM Structural Biology",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-11-03",
+    "posted_date": "2026-11-04",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2353,7 +2319,7 @@
     "title": "Executive Director, International Medical Affairs, Dermatology",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-11-04",
+    "posted_date": "2026-11-05",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -2371,7 +2337,7 @@
     "title": "Executive Director, International Medical Affairs, Rheumatology",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-11-04",
+    "posted_date": "2026-11-05",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -2387,11 +2353,6 @@
     "external_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Victoria-VIC/Portfolio-Account-Specialist--VIC-West---Rheumatology_REQ-10088680",
     "status": "matched"
   },
-  "/job/Cambridge-USA/Patent-Attorney-II_REQ-10088904": {
-    "description": "Job Description SummaryReady to shape the future of innovation at Novartis? As Patent Attorney II, you will play a pivotal role in protecting groundbreaking scientific discoveries and enabling life-changing medicines to reach patients worldwide. Partnering closely with R&D teams, you will drive strategic intellectual property decisions, build robust patent portfolios, and navigate complex legal landscapes to safeguard innovation across the product lifecycle.\n\nThis role is based in our Cambridge or San Diego office 3x/week.\n\n \nJob Description\nKey Responsibilities\nProvide clear, strategic, and business-focused counsel to Novartis R&D clients on invention protection, portfolio development, publication strategy, and third-party risks.\nBuild and manage patent portfolios for Novartis R&D projects by identifying inventions and preparing, prosecuting, maintaining, and defending patent filings across areas such as biologics, protein therapeutics, antibodies, cell and gene therapies, nucleic acid-based technologies, manufacturing processes, formulations, methods of treatment, biomarkers, companion diagnostics, platforms, and clinical developments.\nRender legal opinions on patentability, validity, and freedom to operate, and develop patent strategies that strengthen IP positions, support freedom to operate.\nApply deep knowledge of national patent law and practice, including relevant legal developments and patent trends, to shape strategy and advice.\nUnderstand and apply other forms of exclusivity protection, as appropriate.\nCommunicate effectively with colleagues and leaders across the legal, IP, and R&D organizations.\nBuild and manage relationships with outside counsel and collaborators, including extensive interaction within a multicultural global patent function.\nConduct due diligence and provide counsel based on those assessments, including freedom-to-operate, infringement, validity, and risk evaluation.\nProvide IP support for transactional matters, including M&A, research collaborations, and in-licensing opportunities, with advice on contract drafting and negotiation.\nEnsure high-quality, timely delivery of work aligned with business goals and budgets.\n\nEssential Requirements\nJuris Doctor degree with admission to at least one state bar, and registration to practice before the U.S. Patent and Trademark Office.\nPhD in molecular biology, cell biology, biochemistry, immunology, genetics, biotechnology, pharmaceutical sciences, or a related life sciences field.\nSeven or more years of experience as a patent attorney within a law firm or pharmaceutical or biotechnology environment.\nStrong technical expertise in the life sciences, including experience with biologics, antibodies, protein engineering, cell and gene therapies, nucleic acid technologies, immunology, or other advanced therapeutic modalities.\nExpertise in U.S. and PCT patent law, filing processes, and prosecution practice, with a detailed understanding of European patent law and other major global patent systems.\nProven ability to partner with scientific and business stakeholders to deliver strategic intellectual property advice.\nStrong analytical, communication, and decision-making skills with high attention to detail.\nAbility to manage multiple priorities effectively within a fast-paced, global environment.\n\nBenefits & Rewards\nThe salary for this position is expected to range between $194,600 and $361,400 per year. The final salary offered is determined based on factors like, but not limited to, relevant skills and experience, and upon joining Novartis will be reviewed periodically. Novartis may change the published salary range based on company and market factors. Your compensation will include a performance-based cash incentive and, depending on the level of the role, eligibility to be considered for annual equity awards. US-based eligible employees will receive a comprehensive benefits package that includes health, life and disability benefits, a 401(k) with company contribution and match, and a variety of other benefits. In addition, employees are eligible for a generous time off package including vacation, personal days, holidays and other leaves.\n \nWhy Novartis: Helping people with disease and their families takes more than innovative science. It takes a community of smart, passionate people like you. Collaborating, supporting and inspiring each other. Combining to achieve breakthroughs that change patients’ lives. Ready to create a brighter future together? https://www.novartis.com/about/strategy/people-and-culture\n \nJoin our Novartis Network: Not the right Novartis role for you? Sign up to our talent community to stay connected and learn about suitable career opportunities as soon as they come up: https://talentnetwork.novartis.com/network\n \nBenefits and Rewards: Read our handbook to learn about all the ways we’ll help you thrive personally and professionally: https://www.novartis.com/careers/benefits-rewards\n\n \nEEO Statement:\n\nThe Novartis Group of Companies are Equal Opportunity Employers. We do not discriminate in recruitment, hiring, training, promotion or other employment practices for reasons of race, color, religion, sex, national origin, age, sexual orientation, gender identity or expression, marital or veteran status, disability, or any other legally protected status. \n\n \nAccessibility and reasonable accommodations\n\nThe Novartis Group of Companies are committed to working with and providing reasonable accommodation to individuals with disabilities. If, because of a medical condition or disability, you need a reasonable accommodation for any part of the application process, or to perform the essential functions of a position, please send an e-mail to us.reasonableaccommodations@novartis.com or call +1(877)395-2339 and let us know the nature of your request and your contact information. Please include the job requisition number in your message.\n\n \nSalary Range$194,600.00 - $361,400.00\n\n \nSkills DesiredAdaptability, Business Acumen, Critical Thinking, Curious Mindset, Decision Making, Freedom to Operate Analysis, Intellectual Property Law, Negotiation, Patentability, Patent Drafting, Patent Law, Patent Litigation, Patent Portfolio Management, Patent Prosecution, Persuasion, Planning, Problem Solving, Relationship Building, Stakeholder Management, Strategic Thinking",
-    "external_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Cambridge-USA/Patent-Attorney-II_REQ-10088904",
-    "status": "matched"
-  },
   "/job/LaJollaSD/Patent-Attorney_REQ-10089773-1": {
     "description": "Job Description SummaryThe Patent Attorney II will lead and manage designated patent and related intellectual property (IP) activities within the Novartis research and development (R&D) organization.\n\nThis role is based out of our San Diego or Cambridge office 3x/week.\n\n \nJob Description\nJob responsibilities:\nProvide clear, strategic, and business-focused counsel to Novartis R&D clients on invention protection, portfolio development, publication strategy, and third-party risks. \nBuild and manage patent portfolios for Novartis R&D projects by identifying inventions and preparing, prosecuting, maintaining, and defending patent filings across areas such as new molecular entities, processes, manufacturing, platforms, technologies, and clinical developments. \nRender legal opinions on patentability, validity, and freedom to operate, and develop patent strategies that strengthen IP positions, support freedom to operate, and enable effective IP defense. \nApply deep knowledge of national patent law and practice, including relevant legal developments and patent trends, to shape strategy and advice. \nUnderstand and apply other forms of exclusivity protection, as appropriate. \nCommunicate effectively with colleagues and leaders across the legal, IP, and R&D organizations. \nBuild and manage relationships with outside counsel and collaborators, including extensive interaction within a multicultural global patent function. \nConduct due diligence and provide counsel based on those assessments, including freedom-to-operate, infringement, validity, risk evaluation, and risk mitigation strategies. \nProvide IP support for transactional matters, including M&A, research collaborations, and in-licensing opportunities, with advice on contract drafting and negotiation.\n\nEssential requirements:\nJ.D. degree, admission to at least one state bar, and registration to practice before the U.S. Patent and Trademark Office. AND\nAdvanced degree (Ph.D. strongly preferred) in chemistry or a closely related field (e.g., organic chemistry, medicinal chemistry, chemical engineering) and preferably with 1–2 years of exposure to drug discovery and development processes used in pharmaceutical and/or biotechnology companies. \n7+ years of experience as a qualified patent attorney in a law firm or within the pharmaceutical or biotechnology industry.\nStrong technical expertise in chemistry, preferably including experience with small molecules, synthesis, or pharmaceutical development.\nExpertise in U.S. and PCT patent law, filing processes, and prosecution practice, with a detailed understanding of European patent law and other major global patent systems.\nStrong client-service orientation, with the ability to build and sustain effective partnerships with key stakeholders and project teams.\n\nDesirable requirements:\nStrong analytical, presentation, and communication skills.\nDemonstrated ability to work effectively both independently and collaboratively.\nStrong research, critical thinking, and decision-making skills, with close attention to detail and a commitment to consistently accurate work.\nExcellent organizational and time-management skills, with the flexibility, creativity, and resourcefulness to manage multiple competing priorities successfully.\nStrong interpersonal skills, including partnership building, influence, persuasion, and teamwork.\n\nBenefits & Rewards\nThe salary for this position is expected to range between $185,500 and $344,500 per year. The final salary offered is determined based on factors like, but not limited to, relevant skills and experience, and upon joining Novartis will be reviewed periodically. Novartis may change the published salary range based on company and market factors. Your compensation will include a performance-based cash incentive and, depending on the level of the role, eligibility to be considered for annual equity awards. US-based eligible employees will receive a comprehensive benefits package that includes health, life and disability benefits, a 401(k) with company contribution and match, and a variety of other benefits. In addition, employees are eligible for a generous time off package including vacation, personal days, holidays and other leaves.\n \nWhy Novartis: Helping people with disease and their families takes more than innovative science. It takes a community of smart, passionate people like you. Collaborating, supporting and inspiring each other. Combining to achieve breakthroughs that change patients’ lives. Ready to create a brighter future together? https://www.novartis.com/about/strategy/people-and-culture\n \nJoin our Novartis Network: Not the right Novartis role for you? Sign up to our talent community to stay connected and learn about suitable career opportunities as soon as they come up: https://talentnetwork.novartis.com/network\n \nBenefits and Rewards: Read our handbook to learn about all the ways we’ll help you thrive personally and professionally: https://www.novartis.com/careers/benefits-rewards\n\n \nEEO Statement:\n\nThe Novartis Group of Companies are Equal Opportunity Employers. We do not discriminate in recruitment, hiring, training, promotion or other employment practices for reasons of race, color, religion, sex, national origin, age, sexual orientation, gender identity or expression, marital or veteran status, disability, or any other legally protected status. \n\n \nAccessibility and reasonable accommodations\n\nThe Novartis Group of Companies are committed to working with and providing reasonable accommodation to individuals with disabilities. If, because of a medical condition or disability, you need a reasonable accommodation for any part of the application process, or to perform the essential functions of a position, please send an e-mail to us.reasonableaccommodations@novartis.com or call +1(877)395-2339 and let us know the nature of your request and your contact information. Please include the job requisition number in your message.\n\n \nSalary Range$185,500.00 - $344,500.00\n\n \nSkills DesiredAdaptability, Business Acumen, Critical Thinking, Curious Mindset, Decision Making, Freedom to Operate Analysis, Intellectual Property Law, Negotiation, Patentability, Patent Drafting, Patent Law, Patent Litigation, Patent Portfolio Management, Patent Prosecution, Persuasion, Planning, Problem Solving, Relationship Building, Stakeholder Management, Strategic Thinking",
     "external_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/LaJollaSD/Patent-Attorney_REQ-10089773-1",
@@ -2404,7 +2365,7 @@
     "title": "Associate Principal Scientist - Cell Culture Development",
     "company": "Lonza",
     "location": "CH - Visp",
-    "posted_date": "2026-10-29",
+    "posted_date": "2026-10-30",
     "department": "",
     "score": -1,
     "matched_keywords": [
@@ -2426,7 +2387,7 @@
     "title": "Senior QC Scientist 80-100%",
     "company": "Lonza",
     "location": "CH - Visp",
-    "posted_date": "2026-10-12",
+    "posted_date": "2026-10-13",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -2441,7 +2402,7 @@
     "title": "Senior Scientist, QC",
     "company": "Lonza",
     "location": "CH - Visp",
-    "posted_date": "2026-11-04",
+    "posted_date": "2026-11-05",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -2522,7 +2483,7 @@
     "title": "Associate Principal Scientist - Analytical Development (Microbial) 80%-100% (m/w/d)",
     "company": "Lonza",
     "location": "CH - Visp",
-    "posted_date": "2026-11-05",
+    "posted_date": "2026-11-06",
     "department": "",
     "score": -1,
     "matched_keywords": [
@@ -2598,7 +2559,7 @@
     "title": "Intern - Flow Cytometry Scientist",
     "company": "Labcorp",
     "location": "CHE - Geneva - 7 rue Moise-Marcinhes",
-    "posted_date": "2026-10-12",
+    "posted_date": "2026-10-13",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -2614,7 +2575,7 @@
     "title": "Intern - Bioinformatics",
     "company": "Labcorp",
     "location": "CHE - Geneva - 7 rue Moise-Marcinhes",
-    "posted_date": "2026-10-13",
+    "posted_date": "2026-10-14",
     "department": "",
     "score": 8,
     "matched_keywords": [
@@ -2633,7 +2594,7 @@
     "title": "Intern - Histology Scientist",
     "company": "Labcorp",
     "location": "CHE - Geneva - 7 rue Moise-Marcinhes",
-    "posted_date": "2026-10-13",
+    "posted_date": "2026-10-14",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -2853,7 +2814,7 @@
     "title": "Senior Associate Clinical Trials Regulatory Affairs",
     "company": "Amgen",
     "location": "Switzerland - Rotkreuz",
-    "posted_date": "2026-10-12",
+    "posted_date": "2026-10-13",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -2888,7 +2849,7 @@
     "title": "Consultant – Qualitative Market Research & Competitive Intelligence (Switzerland)/ Part-Time",
     "company": "IQVIA",
     "location": "Zug, Switzerland",
-    "posted_date": "2026-10-12",
+    "posted_date": "2026-10-13",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2919,7 +2880,7 @@
     "title": "Regulatory Affairs Consultant (German and French language skills)",
     "company": "Parexel",
     "location": "Switzerland-Remote",
-    "posted_date": "2026-10-28",
+    "posted_date": "2026-10-29",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -2956,7 +2917,7 @@
     "title": "Manager, Quality & Regulatory Operations",
     "company": "Danaher",
     "location": "Neuchâtel, Switzerland",
-    "posted_date": "2026-11-04",
+    "posted_date": "2026-11-05",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -2971,7 +2932,7 @@
     "title": "Business Development Director",
     "company": "KBI Biopharma",
     "location": "Switzerland - Plan-les-Ouates",
-    "posted_date": "2026-10-12",
+    "posted_date": "2026-10-13",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -2989,7 +2950,7 @@
     "title": "Executive Assistant, Regulatory Affairs",
     "company": "BeiGene",
     "location": "Basel",
-    "posted_date": "2026-11-08",
+    "posted_date": "2026-11-09",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -3042,7 +3003,7 @@
     "title": "Intern Data Science - Future Talent Program",
     "company": "Abbott",
     "location": "Switzerland - Basel",
-    "posted_date": "2026-11-09",
+    "posted_date": "2026-11-10",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -3057,7 +3018,7 @@
     "title": "Intern Portfolio Strategy & Innovation - Future Talent Program",
     "company": "Abbott",
     "location": "Switzerland - Basel",
-    "posted_date": "2026-11-09",
+    "posted_date": "2026-11-10",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -3115,7 +3076,7 @@
     "title": "Clinical Sciences Trial Leader (Trial Leadership)  – Translational Medicine, Clinical Pharmacology (80-100%)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-11-11",
+    "posted_date": "2026-11-12",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -3184,7 +3145,7 @@
   },
   "https://www.stettlerconsulting.ch/en/current-vacancies/conseiller-medical-en-urologie-a-definir/": {
     "external_url": "https://www.stettlerconsulting.ch/en/current-vacancies/conseiller-medical-en-urologie-a-definir/",
-    "status": "matched",
+    "status": "ignored",
     "title": "Conseiller médical (f/h) en Urologie (% à définir)",
     "company": "Stettler Consulting",
     "location": "Tessin, Westschweiz & Zentralschweiz, Switzerland",
@@ -3198,7 +3159,7 @@
   },
   "https://www.stettlerconsulting.ch/en/current-vacancies/business-development-manager-inside-sales-manager-w-m-100/": {
     "external_url": "https://www.stettlerconsulting.ch/en/current-vacancies/business-development-manager-inside-sales-manager-w-m-100/",
-    "status": "matched",
+    "status": "ignored",
     "title": "Business Development Manager & Inside Sales Manager (w/m) 100%",
     "company": "Stettler Consulting",
     "location": "Region: Basel, Mittelland, Switzerland",
@@ -3210,7 +3171,7 @@
   },
   "https://www.stettlerconsulting.ch/en/current-vacancies/medical-adviser-nephrologie-zns-80-100-w-m/": {
     "external_url": "https://www.stettlerconsulting.ch/en/current-vacancies/medical-adviser-nephrologie-zns-80-100-w-m/",
-    "status": "matched",
+    "status": "ignored",
     "title": "Medical Advisor Nephrologie/ZNS 80-100% (w/m)",
     "company": "Stettler Consulting",
     "location": "Region: Deutschschweiz, Bern, Basel, Mittelland, Zuerich & Umgebung, Switzerland",
@@ -3222,7 +3183,7 @@
   },
   "https://www.stettlerconsulting.ch/en/current-vacancies/business-development-manager-wound-care-w-m-100/": {
     "external_url": "https://www.stettlerconsulting.ch/en/current-vacancies/business-development-manager-wound-care-w-m-100/",
-    "status": "matched",
+    "status": "ignored",
     "title": "Business Development Manager «Home Care» (w/m) 100%",
     "company": "Stettler Consulting",
     "location": "Region: Zuerich/Ostschweiz, Switzerland",
@@ -3236,7 +3197,7 @@
   },
   "https://www.stettlerconsulting.ch/en/current-vacancies/quality-regulatory-affairs-manager-w-m-80-100/": {
     "external_url": "https://www.stettlerconsulting.ch/en/current-vacancies/quality-regulatory-affairs-manager-w-m-80-100/",
-    "status": "matched",
+    "status": "ignored",
     "title": "Quality & Regulatory Affairs Manager 80–100 %",
     "company": "Stettler Consulting",
     "location": "Region: Zuerich & Umgebung / Ostschweiz, Switzerland",
@@ -3250,7 +3211,7 @@
   },
   "https://www.stettlerconsulting.ch/en/current-vacancies/head-regulatory-medical-affairs-80-100-w-m/": {
     "external_url": "https://www.stettlerconsulting.ch/en/current-vacancies/head-regulatory-medical-affairs-80-100-w-m/",
-    "status": "matched",
+    "status": "ignored",
     "title": "Head Regulatory & Medical Affairs (w/m) 80 – 100 %",
     "company": "Stettler Consulting",
     "location": "Region: Ostschweiz, Switzerland",
@@ -3266,7 +3227,7 @@
   },
   "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-scientist-qa-bern-892890/1": {
     "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-scientist-qa-bern-892890/1",
-    "status": "matched",
+    "status": "ignored",
     "title": "Scientist QA(m/f/d)",
     "company": "Hays Switzerland",
     "location": "Bern, Switzerland",
@@ -3302,7 +3263,7 @@
     "title": "Medical Science Liaison (MSL) GI Switzerland (100%) W-CH",
     "company": "AstraZeneca",
     "location": "Switzerland - Baar",
-    "posted_date": "2026-11-11",
+    "posted_date": "2026-11-12",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -3314,5 +3275,24 @@
     "deducted_keywords": [
       "location:Switzerland - Baar"
     ]
+  },
+  "https://jobs.ashbyhq.com/benchling/f8f82161-2653-49d4-a731-128026d35fd6": {
+    "description": "We are rebuilding biotech for the AI era.\n\nWhen a breakthrough is delayed, the world waits. Getting a molecule from discovery to patients, or a crop from lab to field, involves thousands of slow, manual, disconnected steps. AI has the potential to change this, compressing decades of R&D work into years. But that only happens when clean, structured scientific data and AI are built into how science gets done.\n\nBenchling is the AI platform for biotech R&D. Scientists use Benchling to design experiments, capture structured data, and run AI agents and models directly in their workflows. Over 200,000 scientists around the world trust Benchling to power their most important work, from academic labs to Sanofi, Moderna, and more than half of the world's top 50 biopharma.\n\nWe’re building an AI scientist for our customers. We can’t do that if we haven’t built the muscle ourselves. AI fluency is the foundation we build on; it's core to how we work, and we're committed to helping every new hire integrate it into their day-to-day. As part of our interview process, you'll complete a brief AI-focused exercise or discussion so we can understand how you think about and use AI to drive impact in your role. Feel free to reference any tools, platforms, or workflows you use today.\n\n\n\n\n\n\nROLE OVERVIEW\n\nBenchling is building a world-class Professional Services team to drive implementations for our rapidly expanding customer base. Implementation Managers work with our customers, from small Biotech startups to the largest BioPharmas in the world to develop a deep understanding of their R&D Processes, and roll out solutions that transform how their research teams work together.\n\n\n\nTo be successful in this role, you will leverage your scientific background, project management skills, and product expertise to drive successful implementations of the Benchling platform. You will work hand in hand with the research scientists at our customers, and teams throughout Benchling to implement our solutions, and ensure our customers are successful. Implementation Managers lead all aspects of customer rollouts from requirements analysis and solution design, to configurations, testing, training, and onboarding users onto the system.  Fluent or native French or German, plus experience supporting French- or German-speaking customers.\n\n \n\n\nRESPONSIBILITIES\n\n - Manage initial rollouts for new Benchling customers as well as expansion projects with new teams or for new processes at existing customers\n\n - Own implementation success from project kickoff to go-live, leveraging strong project management skills, scientific expertise, and deep product knowledge.\n\n - Build and execute detailed project plans, own project activities, work with other team members to execute on project deliverables to ensure on time, on budget, high quality deployments.\n\n - Understand customers' scientific workflows and determine how Benchling can best be leveraged to meet their key business needs.\n\n - Lead requirements and design workshops, perform data modeling & application configuration, develop test plans and guide UAT execution, train and onboard users.\n\n - Act as a trusted advisor for customers, guiding them through the implementation ensuring they leverage and apply Benchling Best Practices.\n\n - Understand and document customer pain points, advocate for them internally to influence product changes.\n\n - Identify and work with sales on opportunities for account expansion post go-live.\n\n \n\n\nQUALIFICATIONS\n\n - MS or Ph.D. in Molecular Biology, Biochemistry, Biotechnology, Immunology, Bioinformatics, Biological Engineering or a related field.\n\n - At least 2 years of experience in a lab or R&D setting, ideally in antibody discovery or strain engineering or process development. You must be able to empathize with scientists and quickly understand complicated scientific concepts.\n\n - Software Implementation experience, preferably with a SaaS software company.\n\n - Strong communication skills. You must be able to quickly and effectively connect with a range of stakeholders, including scientists, IT project leads, and executives.\n\n - Self-starter with the ability to be successful in a startup environment.\n\n - Curious, creative, and tenacious. You should be excited to collaborate with customers and other Benchling teammates as a thought partner.\n\n - Ability to travel up to 25% based on customer and project needs.\n\n - Fluent or native proficiency in French or German\n\n - Experience using Benchling, especially if you’ve been a Benchling administrator, is preferred but not required.\n\n \n\n\nHOW WE WORK\n\nWe offer a flexible hybrid work arrangement that prioritizes in-office collaboration. Employees are expected to be on-site 3 days per week (Monday, Tuesday, and Thursday).\n\n\n\n\n#LI-Hybrid \n\n#BI-Hybrid \n\nBenchling welcomes everyone.\n\nWe believe diversity enriches our team so we hire people with a wide range of identities, backgrounds, and experiences. \n\nWe are an equal opportunity employer. That means we don’t discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. We also consider for employment qualified applicants with arrest and conviction records, consistent with applicable federal, state and local law, including but not limited to the San Francisco Fair Chance Ordinance.",
+    "external_url": "https://jobs.ashbyhq.com/benchling/f8f82161-2653-49d4-a731-128026d35fd6",
+    "status": "matched",
+    "title": "Implementation Manager - Bilingual",
+    "company": "Benchling",
+    "location": "Zurich, Switzerland",
+    "posted_date": "2026-11-11",
+    "department": "Customer Experience",
+    "score": 5,
+    "matched_keywords": [
+      "French",
+      "bilingual",
+      "bioinformatics",
+      "immunology",
+      "molecular biology"
+    ],
+    "deducted_keywords": []
   }
 }
