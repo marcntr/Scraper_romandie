@@ -775,7 +775,8 @@
     "https://www.stettlerconsulting.ch/en/current-vacancies/business-development-manager-inside-sales-manager-w-m-100/": "ignored",
     "https://www.stettlerconsulting.ch/en/current-vacancies/medical-adviser-nephrologie-zns-80-100-w-m/": "ignored",
     "https://www.stettlerconsulting.ch/en/current-vacancies/quality-regulatory-affairs-manager-w-m-80-100/": "ignored",
-    "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Internship-in-PD-Medical-Affairs-Compliance-and-Process-Excellence---Non-Interventional-Studies--NIS--Optimization---Digital-Workspace--12-Months--Basel-_202610-127268": "ignored"
+    "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Internship-in-PD-Medical-Affairs-Compliance-and-Process-Excellence---Non-Interventional-Studies--NIS--Optimization---Digital-Workspace--12-Months--Basel-_202610-127268": "ignored",
+    "https://jobs.smartrecruiters.com/HUG/744000158223869-chef-ou-cheffe-de-groupe-maconnerie-peinture-signalisation-site-cluse-roseraie-100-?oga=true": "ignored"
   },
   "_generic:Hurdle Bio": {
     "keywords": "biomarker,precision medicine"
@@ -1215,11 +1216,6 @@
       "location:Switzerland"
     ]
   },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000155462920": {
-    "description": "Introduction\nAre you passionate about building and operating large-scale digital services that connect thousands of users across a worldwide scientific community?\n\nAs a Computing Engineer in CERN’s IT Department, you will play a key role in delivering and evolving the collaboration and communication services used every day by scientists, engineers and support teams across the Organization. You will help operate critical platforms including email, group management and media services while contributing to the integration of modern cloud and on-premises technologies within CERN’s computing ecosystem.\n\nWorking within the Collaboration and Engineering Tools team, you will combine software engineering, service operations and infrastructure automation to ensure that essential collaboration services remain secure, scalable and reliable. You’ll have the opportunity to work with technologies ranging from cloud services, web and automation frameworks, data analytics platforms to Kubernetes/OpenShift, Microsoft 365 and Exchange Online.\n\nThis role offers scope for technical leadership, architectural input and service ownership in a complex international environment.\nFunctions\nYou will contribute to the operation, evolution and integration of CERN's collaboration platforms by:\nActing as deputy service manager for CERN's email services and sharing technical ownership of the reliability and evolution of the messaging ecosystem.\nManaging and improving the synchronisation of email identities and attributes across Active Directory, Entra ID and Exchange Online.\nOperating and evolving CERN's distribution groups archive service.\nOperating and evolving the 365 groups provisioning integration to the CERN Computing Resources Portal.\nEnsuring seamless synchronisation of group memberships and associated collaboration services across CERN's computing environment.\nParticipating in strategic projects related to media platforms, video conferencing services and Indico (CERN event management platform).\nContributing to the operation, troubleshooting and continuous improvement of CERN's communication and collaboration services.\nWorking closely with infrastructure, security and IT service teams to deliver robust and scalable solutions.\nAutomating processes and improving service observability, reliability and user experience.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000155462920-software-engineer-it-ca-cet-2026-210-ld-?oga=true",
-    "status": "matched"
-  },
   "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000155909350": {
     "description": "En tant qu'assistante ou assistant en pharmacie, vous gérez au quotidien les stocks des unités de soins des HUG.\nVos tâches sont le réapprovisionnement et la révision des stocks des unités de soins, avec ou sans armoires automatisées, en concertation avec les équipes soignantes et les équipes de la logistique pharmaceutique. Vous êtes amené ou amenée à porter des charges entre 5 et 10 kg. Vous participez à des tâches et des projets de l’unité de Logistique pharmaceutique. \nLe poste nécessite une mobilité sur l’ensemble du canton de Genève. La personne recrutée sera amenée à travailler sur différents sites, notamment sur le site principal de Cluse-Roseraie et sur les sites extérieurs : Loëx, Joli-Mont, Belle-Idée, Trois-Chêne et Bellerive. \nOn reconnaît en vous votre aptitude à travailler en équipe, votre aisance relationnelle avec le personnel soignant et votre bon sens de la communication.\nVous avez le sens de l’organisation et vous savez travailler en autonomie dans une équipe pluridisciplinaire.\nVous apportez une grande rigueur dans votre travail et vous savez gérer les priorités. Vous gérez facilement des situations de stress.\nVous êtes à l'aise avec les outils informatiques et vous avez une parfaite maîtrise du français.",
     "external_url": "https://jobs.smartrecruiters.com/HUG/744000155909350-assistante-ou-assistant-en-pharmacie-100-?oga=true",
@@ -1405,7 +1401,7 @@
     "title": "Senior Scientist in Flow Cytometry",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-22",
+    "posted_date": "2026-10-21",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -1427,7 +1423,7 @@
     "title": "Scientist – Oligonucleotide Chemistry & Innovation",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-20",
+    "posted_date": "2026-10-19",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1443,7 +1439,7 @@
     "title": "Lab Scientist, Microscopy",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-20",
+    "posted_date": "2026-10-19",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1463,7 +1459,7 @@
     "title": "Experienced Clinical Scientist/Medical monitor in neurosciences",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-16",
+    "posted_date": "2026-10-15",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -1481,7 +1477,7 @@
     "title": "Sr. Scientist - Computational & Applied AI",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-15",
+    "posted_date": "2026-10-14",
     "department": "",
     "score": 8,
     "matched_keywords": [
@@ -1610,7 +1606,7 @@
     "title": "Next Generation Scientist 2027",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-10-16",
+    "posted_date": "2026-10-15",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1636,7 +1632,7 @@
     "title": "Scientist – Assay Data, AI & Workflows",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-30",
+    "posted_date": "2026-10-29",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1679,11 +1675,6 @@
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000158324999-electrical-engineer-for-einstein-telescope-en-el-epm-2026-170-grap-?oga=true",
     "status": "matched"
   },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000158328419": {
-    "description": "The Electrical Engineering Group (EN-EL) at CERN is responsible for the electrical power-distribution network (from 400 kV to 400/230V), for the fibre-optics infrastructure, and for signal and DC-power cabling for the accelerator complex.\nYou will join the electrical Design and Documentation Office (EN-EL-DDO). You will take on a support electrical designer role. This will include the creation and modification of electrical drawings, design of low voltage distribution networks, cable sizing, equipment sizing, LV protection studies and the general support to senior electrical designers. With time you will be required to take on design tasks of increasing complexity. In addition, you will oversee various quality-related activities within the Design Office, such as the management of the printing office and the maintenance and updating of templates.\nThis is the perfect opportunity for a junior technician to further establish their existing knowledge of low voltage distribution circuits by putting it into practice.\nYour responsibilities:\nPreparing design drawings using CAD software.\nPreparing calculation notes using ElecCalc/Caneco BT or similar.\nPreparing bills of material and cabling tables for electrical-related equipment in Excel.\nUpdating excel based design templates.\nGeneral quality related tasks in the design office.\nYour profile:\nDemonstrated experience in:\nThe design of Low voltage distribution networks, cable sizing and selectivity studies.\nProducing drawings in AutoCAD or similar.\nThe intermediate level of Microsoft EXCEL.\nSkills:\nAn understanding of low voltage distribution networks (selectivity, completing calculation notes, knowledge of European LV standards, protection, protection of circuits for indirect contact, knowledge of different types of earthing systems).\nAn understanding of power systems; voltage drop calculations, short circuit calculations, understanding fault levels, dimensioning of cables.\nExperience on low voltage design calculation tools (ElecCalc, Caneco or similar software).\nProficient in AutoCAD or similar.\nProficient in Microsoft Excel.\nSpoken and written English or French, with a commitment to learn the basics of the other language.\nBeneficial skills/or knowledge:\nExperience on the design of lighting systems for buildings and external areas using DIALux.\nExperience with E-PLAN or similar software.\nExperience in the design of medium voltage distribution networks.\nMotivated candidates without direct design office experience would still be considered.\nEligibility criteria:\nBy the application deadline, you have a maximum of two years of professional experience since graduation in Electrical Engineering (or a related field) and your highest educational qualification is a general secondary education diploma.\nYou have never had a CERN fellow or graduate contract before.\nApplicants with a Bachelor's, Master's or PhD degree are not eligible.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000158328419-electrical-design-technician-en-el-ddo-2026-218-grae-?oga=true",
-    "status": "matched"
-  },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000158229187": {
     "description": "You will support the Future Circular Collider (FCC) site investigations campaign (approximately 100 deep boreholes) - including the project management, permitting and stakeholder engagement - and the design studies for the project's underground and surface civil engineering infrastructure, as a graduate engineer with experience in geotechnical and/or underground civil engineering, joining the civil engineering team working on the FCC at CERN.\nYour responsibilities:\nSupport site investigations project manager with both site-based and office support for all execution of the planning, execution and reporting of the site investigations campaign.\nAssist with design reviews of tunnels, shafts, caverns and surface structures, checking consultant deliverables against the brief, design codes and CERN requirements.\nSupport geotechnical calculations and analyses.\nHelp assess construction methods, including TBM and conventional excavation, and their interaction with ground conditions.\nContribute to the project geotechnical and hydrogeological risk register and to options studies for alignment and site layout.\nSupport cost estimates, construction schedules and quantity take-offs for the civil works.\nHelp translate site investigation findings into design parameters and geotechnical baseline information.\nPrepare technical notes, drawings mark-ups and presentation material for internal reviews, committees and public engagement.\nLiaise with other CERN groups (integration, survey, cooling and ventilation, safety, etc.) on interfaces with the civil works.\nYour profile:\nStrong academic background in geotechnical engineering.\nFirst experience working in a consultancy/contractor specialising in geotechnical works, either surface or underground.\nStrong fundamentals in soil and rock mechanics.\nBasic experience of geotechnical modelling.\nFamiliarity with GIS and geotechnical data management.\nSkills:\nAbility to work in an international team and adapt readily to changing requirements.\nWillingness to work on a variety of tasks as the team requires.\nOrganised, able to manage several tasks and deadlines at once.\nA clear communicator, in writing and in person, with specialists and non-specialists alike.\nSpoken and written English, with a commitment to learn French.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nYou have a professional background in Geotechnical or Civil Engineering (or a related field) and have either:\na Master's degree with 2 to 6 years of post-graduation professional experience;\nor a PhD with no more than 3 years of post-graduation professional experience.\nYou have never had a CERN fellow or graduate contract before.",
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000158229187-geotechnical-engineer-sce-ppm-fc-2026-169-grap-?oga=true",
@@ -1721,7 +1712,7 @@
     "title": "Data Scientist / Engineer - DNA-Encoded Library Technology (DELT)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-30",
+    "posted_date": "2026-10-29",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1738,7 +1729,7 @@
     "title": "Scientific AI Platform Lead, Data Science, Disease Area X",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-10-31",
+    "posted_date": "2026-10-30",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -1860,7 +1851,7 @@
     "title": "Research Scientist - In Vivo Preclinical RLT Pharmacology (80-100%)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-11-03",
+    "posted_date": "2026-11-02",
     "department": "",
     "score": 8,
     "matched_keywords": [
@@ -1941,7 +1932,7 @@
     "title": "Principal Scientist/Senior Scientist, Cryo-EM Structural Biology",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-11-04",
+    "posted_date": "2026-11-03",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2261,22 +2252,6 @@
     "external_url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Warsaw/Data-Scientist_202609-122958",
     "status": "matched"
   },
-  "/job/Basel/Search-and-Evaluation-Strategy-Lead_202610-127691": {
-    "description": "At Roche you can show up as yourself, embraced for the unique qualities you bring. Our culture encourages personal expression, open dialogue, and genuine connections,  where you are valued, accepted and respected for who you are, allowing you to thrive both personally and professionally. This is how we aim to prevent, stop and cure diseases and ensure everyone has access to healthcare today and for generations to come. Join Roche, where every voice matters.\n\nThe Position\n\nAs a senior leader in business development Search & Evaluation, you play a pivotal role in identifying, evaluating, and advancing groundbreaking external innovation across Neuroscience, Ophthalmology, and Rare Diseases. You collaborate across discovery research, clinical development, commercial, and business development to find and assess therapeutic opportunities that have the potential to transform patient outcomes.\n\nYour opportunity\n\nDrive external scouting strategies to source therapeutic assets, platform technologies, and capabilities aligned with scientific priorities across Neuroscience, Ophthalmology, and Rare Diseases.\nBuild and sustain relationships across biotechnology companies, academic institutions, venture investors, and life-science hubs to capture high-impact opportunities early.\nLead rigorous  translational  assessments of external innovations, analyzing differentiation, mechanism of action, data quality, and strategic fit.\nSynthesize diverse perspectives from cross-functional teams of scientific and commercial experts into clear, actionable progression recommendations.\nPartner with Business Development colleagues to guide high-priority opportunities through diligence , and strategic deal workflows.\nRepresent the organization externally at global scientific, partnering, and medical conferences, demonstrating curiosity, respect, and long-term partnership commitment.\nMaintain high-quality opportunity documentation, landscape intelligence and decision records, and help evolve AI-enabled approaches to search, monitoring and evaluation.\n\nWho You Are\n\nYou bring deep scientific curiosity, analytical rigor, and a collaborative mindset to evaluating complex external innovation. You are driven by the ambition to translate bold scientific concepts into real solutions for patients worldwide.\nAdvanced degree (PhD, MD, PharmD, or equivalent) in Life Sciences, Medicine, Pharmacy, or a closely related discipline.\nProven scientific or clinical expertisein Neuroscience, Ophthalmology, Rare Diseases, or adjacent therapeutic areas, with the agility to master emerging scientific spaces.\nSubstantial professional experience (typically 10+ years) across pharmaceutical/biotech R&D, clinical development, Search & Evaluation, licensing, or venture investment.\nDemonstrated capability in evaluating early-to-clinical stage scientific data, identifying key risks, and framing recommendations under ambiguity.\nProven track record of building collaborative professional relationships across external life-science ecosystems and guiding cross-functional teams in a global matrix setting.\nProfessional-level English communication skills, with the ability to convey complex scientific assessments with clarity to technical and executive audiences.\n\nAre you ready to take the next step, apply now!\n\n \n Where pay transparency applies, details are provided based on the primary posting location. For this role, the primary location is Basel. If you are interested in additional locations where the role may be available, we will provide the relevant compensation details later in the hiring process.\n\nWho we are\nA healthier future drives us to innovate. Together, more than 100’000 employees across the globe are dedicated to advance science, ensuring everyone has access to healthcare today and for generations to come. Our efforts result in more than 26 million people treated with our medicines and over 30 billion tests conducted using our Diagnostics products. We empower each other to explore new possibilities, foster creativity, and keep our ambitions high, so we can deliver life-changing healthcare solutions that make a global impact.\n\nLet’s build a healthier future, together.\n\nRoche is an Equal Opportunity Employer.",
-    "external_url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Search-and-Evaluation-Strategy-Lead_202610-127691",
-    "status": "matched",
-    "title": "Search and Evaluation Strategy Lead",
-    "company": "Roche",
-    "location": "Basel; South San Francisco",
-    "posted_date": "2026-10-28",
-    "department": "",
-    "score": 2,
-    "matched_keywords": [
-      "PhD",
-      "search and evaluation"
-    ],
-    "deducted_keywords": []
-  },
   "/job/Basel/Digital-Biomarker-Science---Technology-Neuroscience-Lead_202609-122957-1": {
     "description": "At Roche you can show up as yourself, embraced for the unique qualities you bring. Our culture encourages personal expression, open dialogue, and genuine connections,  where you are valued, accepted and respected for who you are, allowing you to thrive both personally and professionally. This is how we aim to prevent, stop and cure diseases and ensure everyone has access to healthcare today and for generations to come. Join Roche, where every voice matters.\n\nThe Position\nWho we are:\n\nWe, the Digital Biomarker (dBM) and Remote Patient Management (RPM) Chapter in Roche Information Solutions, are an integrated team of scientists, technologists, data analysts and operations experts, that leverages mobile technologies like smartphones and wearables to  bring the power of sensor measures to patients everywhere: in clinical drug trials and clinical care.\nWe drive research, workflows and analytics for Digital Biomarkers and Remote patient management in Roche Information Solutions. Together with our partners, we invent, design and deliver solution capabilities, products and services for better clinical research and improved healthcare outcomes. We co-create innovative digital remote monitoring concepts for sensitive and meaningful drug development endpoints, implement them in technology solutions, develop health related outcome measures with the data, seek community and regulatory acceptance of corresponding endpoints and offer them to Biopharma companies and research institutes for use in clinical trials. We are establishing the scientific foundations for disease monitoring and screening solutions in clinical practice and enable patients and healthcare providers to leverage the power of sensor data for better outcomes in the management of neurological disease, diabetes and others. \n\nHere’s what we’re looking for:\n\nAre you passionate about leveraging digital health technology (DHT) to revolutionize healthcare? At Roche, we are seeking a dedicated Digital Biomarker Science & Technology Neuroscience Lead to join our Digital Biomarker (dBM) and Remote Patient Management (RPM) Chapter. This pivotal role will drive the scientific product vision of our innovative digital biomarker solutions for Neurology. Based on a deep understanding of clinical trials in neurology in general and deep customer insights, you ensure that we meet the evolving needs of our BioPharma customers and their clinical trials.\nYou will shape the internal and external scientific communication of our products’ value propositions, actively engaging with prospective customers in a pre-sales capacity to translate complex scientific data into compelling solution strategies.  Together with the scientific community, you will drive the acceptance of sensor-based outcome measures. acting as an influential scientific thought leader in the network of academia, industry, the patient community and regulators.  Internally at Roche, you will lead cross-functional squads to develop and execute on the scientific product vision. As such, you will closely work with experts in the dBM & RPM chapter, cross-functional stakeholders across Roche Diagnostics and Pharma Global & Affiliate organizations. \n\nWho You are:\n\nCollaborate with the International Product Manager for Chronic Remote Care Management to leverage scientific data insights and customer feedback to discover, develop and scale a product that is desirable, feasible and viable.\nTogether with the International Product Manager for Chronic Remote Care Management, develop and cultivate networks with key opinion leaders for Neuroscience as well as with key stakeholders within the company.\nPartner with a broad stakeholder community of patients, care givers, physician and other experts to create scientific digital health solutions \nAct as scientific product owner for a set of digital biomarker solutions for Roche and external customers with needs in areas of Disease understanding / Drug portfolio decision-making (phase I-II) / Regulatory treatment approval (phase III-IV) / Clinical trial participant selection / Clinical care\nOversee end-to-end scientific product research & development and the scientific roadmap\nScientifically lead large interdisciplinary project teams that identify, design, develop and implement the scientific digital biomarker solutions to address the unmet measurement needs\nDrive the regulatory strategy for digital endpoint endorsement and qualification\nDrive scientific community acceptance of digital measures and maintain a strong network of collaborators spanning industry and academia\nDevelop scientific core messages for product marketing\nRepresent RIS scientifically in pre-sales conversations on Remote Patient Management and  Digital Biomarker products\nPlan, initiate and co-author high-profile scientific publications and posters and represent Roche at relevant high-profile conferences\nGrow your influence as a respected scientific digital biomarker expert and advocate in the research and development community at Roche and externally through cross-industry task forces, communicating results at conferences and in peer-reviewed publications.\nDrive the scientific foundations of clinical use scenarios based on sensor-measurements to improve outcomes for patients as well as the efficiency of healthcare delivery\n\nWho you are:\n\nUniversity degree  (Ph.D. or equivalent) in Life Sciences or related field with a minimum of 10 years related experience in the pharmaceutical and digital health industry \nTrack record of writing compelling publications in high impact, peer-reviewed journals\nProven experience with senior stakeholder management and external collaborations\nDeep scientific product management experience in a large Pharma or Medtech company \nDeep experience in the area of sensor data and digital biomarker development\nProvable experience leading in a matrix setup, recognized for embracing new ways of leading and working, with strengths in coaching and fostering a collaborative environment\nTransparent communicator and able to apply effective empowering leadership\nPrevious clinical experience in chronic disease management and Neuroscience (especially Parkinson’s Disease, Huntington’s Disease, Multiple Sclerosis)\n\nShould you have these additional nice-to-have skills, you are the ideal team member we are searching for:\n\nComprehensive understanding of the current state of drug development for Parkinson's and Huntington's Disease\nIn-depth knowledge of the clinical endpoint landscape and associated challenges in Parkinson's and Huntington's Disease\nOverview of existing digital biomarker approaches for these diseases \nExperience with developing digital outcome measures\nFDA/EMA regulatory interactions or regulatory consortias regarding clinical drug development and novel drug development endpoints\n \n Where pay transparency applies, details are provided based on the primary posting location. For this role, the primary location is Basel. If you are interested in additional locations where the role may be available, we will provide the relevant compensation details later in the hiring process.\n\nWho we are\nA healthier future drives us to innovate. Together, more than 100’000 employees across the globe are dedicated to advance science, ensuring everyone has access to healthcare today and for generations to come. Our efforts result in more than 26 million people treated with our medicines and over 30 billion tests conducted using our Diagnostics products. We empower each other to explore new possibilities, foster creativity, and keep our ambitions high, so we can deliver life-changing healthcare solutions that make a global impact.\n\nLet’s build a healthier future, together.\n\nRoche is an Equal Opportunity Employer.",
     "external_url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Digital-Biomarker-Science---Technology-Neuroscience-Lead_202609-122957-1",
@@ -2319,7 +2294,7 @@
     "title": "Executive Director, International Medical Affairs, Dermatology",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-11-05",
+    "posted_date": "2026-11-04",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -2337,7 +2312,7 @@
     "title": "Executive Director, International Medical Affairs, Rheumatology",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-11-05",
+    "posted_date": "2026-11-04",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -2365,7 +2340,7 @@
     "title": "Associate Principal Scientist - Cell Culture Development",
     "company": "Lonza",
     "location": "CH - Visp",
-    "posted_date": "2026-10-30",
+    "posted_date": "2026-10-29",
     "department": "",
     "score": -1,
     "matched_keywords": [
@@ -2402,7 +2377,7 @@
     "title": "Senior Scientist, QC",
     "company": "Lonza",
     "location": "CH - Visp",
-    "posted_date": "2026-11-05",
+    "posted_date": "2026-11-04",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -2483,7 +2458,7 @@
     "title": "Associate Principal Scientist - Analytical Development (Microbial) 80%-100% (m/w/d)",
     "company": "Lonza",
     "location": "CH - Visp",
-    "posted_date": "2026-11-06",
+    "posted_date": "2026-11-05",
     "department": "",
     "score": -1,
     "matched_keywords": [
@@ -2575,7 +2550,7 @@
     "title": "Intern - Bioinformatics",
     "company": "Labcorp",
     "location": "CHE - Geneva - 7 rue Moise-Marcinhes",
-    "posted_date": "2026-10-14",
+    "posted_date": "2026-10-13",
     "department": "",
     "score": 8,
     "matched_keywords": [
@@ -2594,7 +2569,7 @@
     "title": "Intern - Histology Scientist",
     "company": "Labcorp",
     "location": "CHE - Geneva - 7 rue Moise-Marcinhes",
-    "posted_date": "2026-10-14",
+    "posted_date": "2026-10-13",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -2880,7 +2855,7 @@
     "title": "Regulatory Affairs Consultant (German and French language skills)",
     "company": "Parexel",
     "location": "Switzerland-Remote",
-    "posted_date": "2026-10-29",
+    "posted_date": "2026-10-28",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -2917,7 +2892,7 @@
     "title": "Manager, Quality & Regulatory Operations",
     "company": "Danaher",
     "location": "Neuchâtel, Switzerland",
-    "posted_date": "2026-11-05",
+    "posted_date": "2026-11-04",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -2950,7 +2925,7 @@
     "title": "Executive Assistant, Regulatory Affairs",
     "company": "BeiGene",
     "location": "Basel",
-    "posted_date": "2026-11-09",
+    "posted_date": "2026-11-08",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -3003,7 +2978,7 @@
     "title": "Intern Data Science - Future Talent Program",
     "company": "Abbott",
     "location": "Switzerland - Basel",
-    "posted_date": "2026-11-10",
+    "posted_date": "2026-11-09",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -3018,7 +2993,7 @@
     "title": "Intern Portfolio Strategy & Innovation - Future Talent Program",
     "company": "Abbott",
     "location": "Switzerland - Basel",
-    "posted_date": "2026-11-10",
+    "posted_date": "2026-11-09",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -3038,7 +3013,7 @@
     "title": "Patent Attorney II",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "",
+    "posted_date": "2026-11-10",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -3076,7 +3051,7 @@
     "title": "Clinical Sciences Trial Leader (Trial Leadership)  – Translational Medicine, Clinical Pharmacology (80-100%)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-11-12",
+    "posted_date": "",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -3100,7 +3075,7 @@
     "title": "Scientist Stability 80-100% (f/m/d)",
     "company": "Lonza",
     "location": "CH - Basel",
-    "posted_date": "",
+    "posted_date": "2026-11-10",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -3263,7 +3238,7 @@
     "title": "Medical Science Liaison (MSL) GI Switzerland (100%) W-CH",
     "company": "AstraZeneca",
     "location": "Switzerland - Baar",
-    "posted_date": "2026-11-12",
+    "posted_date": "",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -3292,6 +3267,89 @@
       "bioinformatics",
       "immunology",
       "molecular biology"
+    ],
+    "deducted_keywords": []
+  },
+  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000161230929": {
+    "description": "The Electrical Engineering Group (EN-EL) at CERN is responsible for the electrical power-distribution network (from 400 kV to 400/230V), for the fibre-optics infrastructure, and for signal and DC-power cabling for the accelerator complex.\nYou will join the electrical Design and Documentation Office (EN-EL-DDO). You will take on a support electrical designer role. This will include the creation and modification of electrical drawings, design of low voltage distribution networks, cable sizing, equipment sizing, LV protection studies and the general support to senior electrical designers. With time you will be required to take on design tasks of increasing complexity. In addition, you will oversee various quality-related activities within the Design Office, such as the management of the printing office and the maintenance and updating of templates.\nThis is the perfect opportunity for a junior technician to further establish their existing knowledge of low voltage distribution circuits by putting it into practice.\nYour responsibilities:\nPreparing design drawings using CAD software.\nPreparing calculation notes using ElecCalc/Caneco BT or similar.\nPreparing bills of material and cabling tables for electrical-related equipment in Excel.\nUpdating excel based design templates.\nGeneral quality related tasks in the design office.\nYour profile:\nDemonstrated experience in:\nThe design of Low voltage distribution networks, cable sizing and selectivity studies.\nProducing drawings in AutoCAD or similar.\nThe intermediate level of Microsoft EXCEL.\nSkills:\nAn understanding of low voltage distribution networks (selectivity, completing calculation notes, knowledge of European LV standards, protection, protection of circuits for indirect contact, knowledge of different types of earthing systems).\nAn understanding of power systems; voltage drop calculations, short circuit calculations, understanding fault levels, dimensioning of cables.\nExperience on low voltage design calculation tools (ElecCalc, Caneco or similar software).\nProficient in AutoCAD or similar.\nProficient in Microsoft Excel.\nSpoken and written English or French, with a commitment to learn the basics of the other language.\nBeneficial skills/or knowledge:\nExperience on the design of lighting systems for buildings and external areas using DIALux.\nExperience with E-PLAN or similar software.\nExperience in the design of medium voltage distribution networks.\nMotivated candidates without direct design office experience would still be considered.\nEligibility criteria:\nBy the application deadline, you have a maximum of two years of professional experience since graduation in Electrical Engineering (or a related field) and your highest educational qualification is a general secondary education diploma.\nYou have never had a CERN fellow or graduate contract before.\nApplicants with a Bachelor's, Master's or PhD degree are not eligible.",
+    "external_url": "https://jobs.smartrecruiters.com/CERN/744000161230929-electrical-design-technician-en-el-ddo-2026-218-grae-?oga=true",
+    "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000161227765": {
+    "description": "Introduction\nHelp shape the future of healthcare AI, where innovation meets trust.\nAt CERN, you will develop cutting-edge AI solutions that help prevent disease, improve prediction, and deliver trustworthy healthcare insights. You will work on technologies that make it possible to unlock the value of sensitive data without ever moving or exposing it, enabling collaboration where privacy is essential.\nAs part of this role, you will help develop and deploy CAFEIN®, CERN's federated AI platform powering major European healthcare initiatives, including UMBRELLA and AIM-SAFE. You will design advanced federated learning algorithms and secure distributed AI systems that allow models to learn from data across institutions while keeping the data exactly where it belongs.\nRecognised as a lighthouse example of \"data stays, AI collaborates\", CAFEIN® combines state-of-the-art federated learning with CERN's unique strengths in trust, open science, GDPR compliance, and international collaboration. The result is a pioneering framework that is redefining how AI can advance healthcare while safeguarding privacy.\nJoin us to build AI that learns globally, protects locally, and improves lives.\nFunctions\nDevelop and test federated learning software and algorithms.\nImplement and evaluate privacy-preserving techniques, including differential privacy and homomorphic encryption.\nDevelop tools to optimise data ingestions and assess the quality of data and images. \nDesign and run machine-learning experiments using programming languages like Python with libraries as TensorFLow, PyTorch, or scikit-learn. \nAnalyse data using statistical methods and visualisation for exploratory data analysis (EDA). \nImplement and benchmark state-of-the-art machine-learning methods, optimising federated learning for utility, communication efficiency, energy use and scalability. \nDesign and deploy Internet of Things (IoT)-based federated learning architectures.",
+    "external_url": "https://jobs.smartrecruiters.com/CERN/744000161227765-machine-learning-engineer-te-dps-aim-2026-223-ld-?oga=true",
+    "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000161230155": {
+    "description": "Il s’agit d’un poste hospitalo-universitaire de médecin-chef ou cheffe du Service d’addictologie, incluant une fraction de poste professoral. Ce poste est rattaché aux Départements hospitalier et académique de psychiatrie.\n\nLa ou le candidat doit répondre de qualités reconnues de gestion, de communication et de leadership ainsi que d’une grande expérience clinique en psychiatrie des addictions, pour diriger un service clinique universitaire qui assure le diagnostic et la prise en charge thérapeutique des patients et patientes souffrant de problèmes d’addiction dans le cadre de la politique suisse des quatre piliers en matière d'addictions. Le service est pionnier dans son domaine et il a procédé à d’importantes innovations concernant entre autres les traitements de substitution, la médecine de rue, l’hospitalisation à domicile et les addictions comportementales. Le ou la candidate devra continuer à faire évoluer le service pour l’adapter aux changements des besoins et des thérapies. Par son action, il ou elle supervisera, organisera et développera l’activité au sein de son service qui comporte des équipes mobiles, ambulatoires et hospitalières. Il ou elle devra développer les relations existantes avec l’Unité des dépendances du Service de médecine de premier recours, les autres services des HUG ainsi que l’Office cantonal de la santé.\n\nL’aptitude à diriger des recherches de haut niveau dans le domaine de la psychiatrie des addictions est requise, ainsi que des compétences reconnues de mentorat, de management d’équipe et d’enseignement aux niveaux pré-grade et post-grade.",
+    "external_url": "https://jobs.smartrecruiters.com/HUG/744000161230155-professeur-ou-professeure-ordinaire-ou-associee-medecin-chef-ou-cheffe-du-service-d-addictologie-100-?oga=true",
+    "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000161225419": {
+    "description": "Vous souhaitez évoluer au sein de l’institution médicale universitaire de référence du canton ? Vous souhaitez collaborer avec des spécialistes renommés de la gériatrie et de la médecine interne ?\nEn tant que Chef ou Cheffe de clinique, avec ou sans titre de spécialité, vous garantissez la qualité des prestations médicales dans les unités de soins de votre domaine de compétence.\nVous coordonnez les activités pratiques ainsi que les stratégies diagnostiques et thérapeutiques des patients et patientes qui vous sont confiées en étroite collaboration avec les médecins adjoints ou adjointes.\nEvoluant dans un environnement universitaire stimulant, au sein d’une équipe interdisciplinaire, vous contribuez aussi à la formation des médecins internes.\nVous participez aux activités de recherche clinique et vous débutez, selon votre intérêt personnel, un projet qualité ou de recherche clinique avec un encadrement spécifique.",
+    "external_url": "https://jobs.smartrecruiters.com/HUG/744000161225419-chef-ou-cheffe-de-clinique-avec-ou-sans-titre-de-specialite-80-a-100-?oga=true",
+    "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000161225964": {
+    "description": "Vous participez au suivi des projets du Département de médecine.\nVous contribuez à la gestion des projets transversaux et/ou complexes en les intégrant dans la chaîne de valeur de l’institution dans des dimensions organisationnelles, technologiques. Vous prenez part au suivi des dépenses avec le PMO et l’administrateur du département.\nVous participez au soutient et la promotion de la gestion de projets dans le département.\nVous êtes force de proposition dans la conduite des projets, dans l’organisation, l’optimisation de processus et la prévention des risques.\nVous participez à la communication et à l’accompagnement des équipes autour des projets.",
+    "external_url": "https://jobs.smartrecruiters.com/HUG/744000161225964-stage-conventionne-en-gestion-de-projet-100-?oga=true",
+    "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000161225069": {
+    "description": "Vous assurez, sous la supervision de la hiérarchie médicale, les activités pratiques, les interventions cliniques et thérapeutiques qui vous sont confiées et vous vous engagez dans une formation postgrade en médecine nucléaire et imagerie moléculaire selon le programme de l'ISFM.\nVous contribuez à la formation des médecins stagiaires.\nVous progressez dans votre cursus de formation selon le plan défini et/ou les exigences FMH pour le titre de spécialisation en médecine nucléaire et imagerie moléculaire.",
+    "external_url": "https://jobs.smartrecruiters.com/HUG/744000161225069-medecin-interne-en-medecine-nucleaire-et-imagerie-moleculaire-100-?oga=true",
+    "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000161223325": {
+    "description": "Au sein de l’Unité d’épidémiologie populationnelle, vous jouez un rôle central dans la mise en œuvre opérationnelle des études, avec un accent particulier sur le recrutement, l’accompagnement et le suivi des participants et participantes.\nVous contribuez à la conception, à la mise en œuvre et au suivi des stratégies de recrutement. À ce titre, vous êtes régulièrement en contact direct avec les participantes et participants et le public, notamment par e-mail, téléphone et lors d’activités sur le terrain. Vous présentez les études en cours de manière claire et engageante, répondez aux questions et accompagnez les personnes intéressées dans les différentes étapes de leur participation.\nVous participez activement à la création d’une expérience positive et engageante pour les participants et participantes, depuis le premier contact jusqu’au suivi au cours de l’étude. Vous contribuez à identifier les moyens les plus efficaces pour améliorer la communication, le recrutement et la fidélisation des participantes et participants, et proposez des adaptations lorsque cela est nécessaire.\nVous prenez également part à la conception, à la rédaction et à la diffusion des supports de communication liés aux projets de l’unité : documents d’information, contenus destinés aux participantes et participantes, supports de recrutement, actualités ou autres outils de communication. Vous veillez à produire des contenus clairs, accessibles, attractifs et adaptés aux différents publics.\nEn étroite collaboration avec l’équipe scientifique et opérationnelle, vous soutenez l’organisation logistique des activités de terrain : préparation des sessions de recrutement, gestion et suivi des contacts, coordination avec les participants et participantes et mise à jour des outils de suivi. Vous contribuez également à l’amélioration continue des procédures et des processus de recrutement.\nEnfin, vous participez à la rédaction et à la mise à jour de documents liés aux projets de recherche, tels que les documents d’information, procédures, supports de recrutement et rapports d’activité.\nCe poste se situe ainsi à l’interface entre recherche, santé publique, recrutement et communication, et implique des interactions régulières avec des publics variés.",
+    "external_url": "https://jobs.smartrecruiters.com/HUG/744000161223325-assistant-ou-assistante-de-recherche-recrutement-communication-a-l-unite-d-epidemiologie-populationnelle-80-a-100-?oga=true",
+    "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000161223160": {
+    "description": "En qualité d’infirmier ou infirmière au sein de l’unité de soins intermédiaires de l’Hôpital des Trois-Chêne (« unité 13 + »), vous assurez, de manière autonome et/ou sous délégation médicale, la prise en charge globale et personnalisé de patients âgés nécessitant une surveillance continue au vu de leur situation de soins aigue ou nécessitant une thérapie intensive (cardioversion).\nNotamment, vous prenez en soins des patientes et patients gériatriques aigus avec des équipements spécifiques (cathéter artériel, voie veineuse centrale…) et exercez une surveillance accrue (gestion de la ventilation non invasive, des amines). Vous associez à cette technicité une prise en charge multidimensionnelle, relationnelle, sociale et éthique.\nVous évoluez dans une équipe interprofessionnelle et coordonnez les prestations de soins dispensées à la patientèle. Vous exercez également une fonction d’encadrement et d’enseignement auprès des personnes en formation et des nouveaux collaborateurs et collaboratrices.\nEnfin, vous contribuez au développement de la qualité des soins et menez une réflexion professionnelle basée sur l’analyse des pratiques de soins infirmiers.",
+    "external_url": "https://jobs.smartrecruiters.com/HUG/744000161223160-infirmiers-ou-infirmieres-a-l-unite-de-soins-intermediaires-du-departement-de-readaptation-et-geriatrie-60-?oga=true",
+    "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000161223430": {
+    "description": "Au sein de notre service administratif de la Maternité et de la Pédiatrie, nous offrons à la patientèle, au public ainsi qu'au personnel un service professionnel, courtois et empathique, tant au téléphone qu'aux différents postes d'accueil.\nLe secteur accueil, prise de rendez-vous et Centrale de programmation du Département de la femme, de l'enfant et de l'adolescent (DFEA) est à la recherche d'un ou une collaboratrice pour compléter son équipe, sur une amplitude horaire de 7h00 à 17h30, du lundi au vendredi, en rotation hebdomadaire.\nDans le cadre de votre fonction, vous renseignez et orientez les personnes se présentant dans les différents espaces d'accueil. \nVous répondez, renseigner et transférer les appels en Centrale téléphonique et agendez des rendez-vous pluridisciplinaires selon les procédures établies.\nL’activité à la Centrale requiert le port continu d’un casque audio tout au long du service.",
+    "external_url": "https://jobs.smartrecruiters.com/HUG/744000161223430-gestionnaire-programmation-a-la-maternite-et-a-la-pediatrie-100-?oga=true",
+    "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000161223329": {
+    "description": "Au sein du secteur mécanique, vous entretenez, surveillez, dépannez, révisez, améliorez et assurez un fonctionnement performant des installations et des équipements propres au secteur mécanique et en particulier des systèmes complexes automatisés.\nVous décidez de manière autonome des actions à entreprendre en respectant les priorités définies en termes de paramètres vitaux ou secondaires pour la sécurité de la patientèle, des collaborateurs et collaboratrices et du patrimoine.\nVous assurez la maintenance préventive et corrective. Vous assistez les contrôles périodiques effectués par les organismes accrédités et effectuez des tournées de contrôle et des relevés réguliers.\nVous suivez l'état des installations et prenez en charge les alarmes des systèmes de surveillance (gestion technique du bâtiment). Vous maintenez à jour les documents de travail, vous effectuez les commandes de réapprovisionnement de matériel.\nVous participez activement à l’élaboration des procédures en fonction des évolutions de la technique.\nVous assumez le rôle de conseiller ou conseillère technique auprès des utilisatrices et utilisateurs sur le matériel mécanique et contrôlez et suivez les travaux exécutés par les entreprises extérieures.\nVous aimez trouver des solutions face à des problématiques techniques complexes et vous vous épanouissez également dans la réalisation de tâches plus simples et routinières.\nVous êtes autonome et appréciez également le travail en équipe, tout en respectant un planning établi.\nVous assurez les interventions urgentes sur demande du centre de contrôle et lors du service de piquet.",
+    "external_url": "https://jobs.smartrecruiters.com/HUG/744000161223329-technicien-ou-technicienne-de-maintenance-automaticien-ou-automaticienne-100-?oga=true",
+    "status": "matched"
+  },
+  "/job/Uxbridge---GB/Senior-Director--Early-Clinical-Development--MD----Neuroscience_R1608135": {
+    "description": "At Bristol Myers Squibb, our employees often ask, “Who are you working for?”—a question that fuels collaboration, accountability, and urgency in our work. Our purpose-driven culture inspires us to discover, develop, and deliver innovative medicines to prevail over serious diseases. We offer uniquely interesting and meaningful work, opportunities for growth, and a supportive environment that values inclusion, wellbeing, flexibility, and comprehensive benefits. This is work that transforms the lives of patients, and the careers of those who do it.\n\nJob Description\nThe Senior Director, Global Clinical Development, Neuroscience will own the clinical strategy for one or more neuropsychiatry programs. Extensive experience in clinical development in neuropsychiatric indications is a requirement. Experience in formulation development in neuropsychiatry is a plus.\nThe Neuroscience Clinical Development function is part of a global scientific organization dedicated to initial evaluations of new molecules, biomarkers, and mechanistic hypotheses in humans. The group drives clinical strategy, and the design, execution, and interpretation of studies to select the most promising drug candidates for development.\n\nPosition Summary / Objective\n\nServe as the clinical point of accountability for the Clinical Development Team and responsible for the overall clinical development plan for asset(s) in one or more indication(s)\nDemonstrate matrix leadership to develop, motivate and achieve results through teamwork\nEnsure studies are designed to meet Regulatory, Quality, medical, and access goals\n\nPosition Responsibilities\n\nMedical Monitoring\n\nServes as a Clinical Trial Physician for clinical trials by\nDeveloping and implementing the clinical development strategy\nAnalyzing, interpreting, and leveraging clinical trial data towards further clinical development\nServing as principal functional author for Regulatory submissions, Clinical Study Reports, and scientific publications \nIndependently synthesizes and/or contributes to plans (e.g., trial design, development strategy, regulatory strategy) based on emerging data and input from relevant functions\nDesigns and develops clinical studies and research plans in support of asset strategy with the program and clinical development teams\n\n Clinical Development Expertise & Strategy\n\nManages multiple/complex programs concurrently across clinical lifecycles\nAccountable for clinical contribution to the development of indication strategy\nPartners with Worldwide Patient Safety physicians in the ongoing review and interpretation of safety data\nProvides clinical leadership and disease area expertise into integrated disease area strategies\nPartners closely with KOLs in specific indications\nEvaluates strategic options against a given Target Product Profile (TPP)\nCollaborates with Global Development Operations/Global Compliance Group to develop asset level risk management plan, resolves issues with Quality/Clinical Scientists, and brings it to the Clinical Development Team as needed\nSets executional priorities and partners with Clinical Scientists and Clinical Trial Physicians to support executional delivery of studies\nAccountable for top line data with support of Clinical Scientists and Statisticians\nLiaises with Clinical Scientists, Translational & Discovery Scientists, and Development Teams to define dose and schedule, indications, and patient selection (e.g., biomarker qualification and implementation)\nAd-Hoc involvement in various departmental or enterprise initiatives (e.g., committees, sub-teams etc.)\nPresents and/or articulates clinical strategy to senior leadership and to support progression of portfolio\n\nHealth Authority Interactions\n\nServes as primary clinical representative in regulatory interactions\nAccountable for clinical contributions to clinical study reports (CSRs), regulatory reports, briefing books and submission documents\n\nExternal Partnerships, Alliances, and Publications\n\nActs as a focal point for defining and establishing relationships with key investigators\nSits in team responsible for establishing key alliances with academic centers, co-operative groups, vendors and government agencies\nRepresents department in business development due diligence and partner alliance management as appropriate; sits on JDC/JRC/JSC as appropriate\n\nLeadership and Matrix Management\n\nMay be responsible for managing Clinical Trial Physicians and Clinical Scientists, attracting, developing and retaining top talent; ensures appropriate training and mentoring of other physicians and scientists\nChampions a quality-focused mindset and ensures adherence to GCP and compliance obligations for clinical conduct\n\nDegree Requirements\n\nMD or MD/PhD and deep clinical development expertise in psychiatry\nFellowship/specialty training in relevant therapeutic area preferred\n\nExperience Requirements\n\n7+ years of relevant experience in translational and/or clinical research in an industry or biotech setting\nExtensive experience in clinical trial design and execution, and development strategy in pharmaceutical industry or biotech\nDeep understanding of pharmaceutical discovery, development and commercialization\nTrack record of mentorship and/or management and/or matrix leadership\nDemonstrated leadership abilities in a matrix environment\nTravel Required\n\nDomestic and International travel may be required\n\nWe hire for skills and capabilities, not just credentials – if this role excites you, but doesn’t perfectly match your resume, we encourage you to apply anyway.\n\nHow We Work\nWhere you work matters – because collaboration, innovation and patient impact happen in many settings. Our roles are structured across four work models: site-essential, site-by-design, field-based and remote-by-design. The model assigned to this role is based on its core responsibilities. Learn more at https://careers.bms.com/ways-of-working.\n\nSupporting People with Disabilities\nBMS is dedicated to ensuring that people with disabilities can excel through a transparent recruitment process, reasonable workplace accommodations/adjustments and ongoing support in their roles. Applicants can request a reasonable workplace accommodation/adjustment prior to accepting a job offer. If you require reasonable accommodations/adjustments in completing this application, or in any part of the recruitment process, direct your inquiries to adastaffingsupport@bms.com. Visit careers.bms.com/eeo-accessibility to access our complete Equal Employment Opportunity statement.\n\nBristol Myers Squibb is Disability Confident – Employer\n\nA UK Government scheme\n\nCandidate Rights\nBMS will consider qualified applicants with arrest and conviction records, pursuant to applicable laws in your area.\n\nFor roles based in Los Angeles County only:  If you live in or expect to work from Los Angeles County if hired for this position, please visit this page for important additional information: https://careers.bms.com/california-residents/\n\nFor roles based in Washington State only: If you live in or expect to work from Washington State if hired for this position, please visit this page for important information about the Washington Fair Chance Act.\n\nData Protection\nWe will never request payments, financial information, or social security numbers during our application or recruitment process. Learn more about protecting yourself at https://careers.bms.com/fraud-protection.\n\nAny data processed in connection with role applications will be treated in accordance with applicable data privacy policies and regulations.\n\nIf this posting is missing required information required by local law or incorrect, contact BMS at TAEnablement@bms.com with the Job Title and Requisition number. Do not send application-related inquiries to this email. To check your application status, please login to your Candidate Home Account.\n\nR1608135 : Senior Director, Early Clinical Development (MD) - Neuroscience",
+    "external_url": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS/job/Uxbridge---GB/Senior-Director--Early-Clinical-Development--MD----Neuroscience_R1608135",
+    "status": "matched"
+  },
+  "/job/Basel/Patent-Attorney-Trainee_202611-128598-2": {
+    "description": "At Roche you can show up as yourself, embraced for the unique qualities you bring. Our culture encourages personal expression, open dialogue, and genuine connections,  where you are valued, accepted and respected for who you are, allowing you to thrive both personally and professionally. This is how we aim to prevent, stop and cure diseases and ensure everyone has access to healthcare today and for generations to come. Join Roche, where every voice matters.\n\nThe Position\nWe are seeking a Patent Attorney Trainee with a biochemistry / biomedical background. As a member of our group responsible for Large Molecule pharmaceutical products (biologicals) you will advise our scientists on the patenting of inventions in this field. On your path to develop as European Patent Attorney, you will secure patent protection, freedom to operate and market exclusivity during the life cycle of Roche´s products in close collaboration with the members of all functions involved.\n\nThe opportunity:\n\nHandling of invention reports and drafting of patent applications in close collaboration with Research & Development\nHandling of patent aspects for Large Molecule projects and products, including prosecution, defense and enforcement of patent rights\nPatent portfolio management, supporting the decision making process for worldwide filings, maintenance and abandonment of patent filings\nPerforming freedom to operate analysis\nReview of planned publications\nEvaluation of contract terms related to IP and coordination with the Legal and Licensing departments on the drafting and negotiating of same\nPreparation for the European Qualification Examination under supervision of an experienced patent attorney\n\nWho you are:\n\nBiochemistry / biomedical (or related) background, at least with a master degree, and a strong and broadly based interest in science and technology\nStrong interest in patent law and interdisciplinary matters with a will to broaden horizons in this field and taking pleasure in a variety of intellectually stimulating work\nIdeally, 1 to 2 years experience as a Trainee Patent Attorney in a Patent Law firm or equivalent\nEnglish language skills; knowledge of additional languages, in particular German, will be an advantage\nWell-developed analytical and writing skills\nFinely honed interpersonal skills and collaborative mindset\nAbility to work to tight deadlines and to handle several projects simultaneously\nWell-structured, reliable and precise style of work\nStrong business acumen and interest in the pharmaceutical industry\n \n \n\nWho we are\nA healthier future drives us to innovate. Together, more than 100’000 employees across the globe are dedicated to advance science, ensuring everyone has access to healthcare today and for generations to come. Our efforts result in more than 26 million people treated with our medicines and over 30 billion tests conducted using our Diagnostics products. We empower each other to explore new possibilities, foster creativity, and keep our ambitions high, so we can deliver life-changing healthcare solutions that make a global impact.\n\nLet’s build a healthier future, together.\n\nRoche is an Equal Opportunity Employer.",
+    "external_url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Patent-Attorney-Trainee_202611-128598-2",
+    "status": "matched",
+    "title": "Patent Attorney Trainee",
+    "company": "Roche",
+    "location": "Basel",
+    "posted_date": "2026-11-12",
+    "department": "",
+    "score": 0,
+    "matched_keywords": [],
+    "deducted_keywords": []
+  },
+  "/job/CHE---Zurich---Zurich-The-Circle/Scientist--Biostatistics--m-f-d-_R426318-1": {
+    "description": "Job Description\n\nWe are a research-driven biopharmaceutical company. Our mission is built on the simple premise that if we “follow the science” and that great medicines can make a significant impact to our world. And we believe that a research-driven enterprise dedicated to world-class science can succeed by inventing medicine and vaccine innovations that make a difference for patients across the globe.\n \nYou will be part of the BARDS organization which has a presence in the US, EU and Asia Pacific. By joining our company, in this role you will apply your skills and experience in support of developing scientifically based arguments aiming to provide fair accessibility to drugs and vaccines making a real difference in patient’s lives.\n \nThe Biostatistics and Research Decision Sciences (BARDS) organization has a proud record of providing comprehensive analytical and methodological expertise to support our company’s strategic goals.  Our quantitative scientists aspire to maintain the highest quality output while adopting the most efficient and effective scientific and operational procedures that will promote breakthrough innovation, collaboration and professional activity.\n \nWe are currently looking for a Biostatistician, HTA Statistics to join the team based in one of our offices in Zurich, Switzerland, Brussels, Belgium or London, UK.\n \nThe BARDS organization has established in Europe its Centre of Excellence supporting Health Technology Assessment (HTA) dossiers with presence in Brussels (Belgium), London (United Kingdom) and Zürich (Switzerland).  Our statisticians and statistical programmers collaborate with multiple functional areas across the company and with our local affiliates to ensure that the clinical trial data representing our products is characterized properly in these dossiers, and to develop innovative statistical approaches to novel problems in the HTA space. \n \nThe primary activities include but are not limited to:\no   Provide statistical support to projects in the BARDS HTA Statistics group, including HTA submissions.\no   Contribute to the design and development of scientific tools for HTA evaluations.\no   Execute on ongoing HTA evaluations, including analysis and interpretation of HTA results.\no   Collaborate with Statistical Programming to implement methodologies and ensure high quality deliverables for HTA submissions.\no   Contribute to the preparation of the written reports to effectively communicate results of HTA evaluations to the Value & Implementation Observational Research (VIOR) and our company’s subsidiary teams.\no   May evaluate appropriateness of available software for planned analyses and ascertains needs for potential program development of novel statistical methodology.\no   May be involved in research activities for innovative statistical methods and applications in HTA activities.\n \nQualifications:\nEducation and Minimum Requirement: \no   Master`s or bachelor’s degree in statistics/biostatistics or a related discipline\n \nRequired Skills and Experience:\no   Fluency in English (oral and written).\no   Good knowledge of biostatistical methodologies and experimental design, including meta-analyses and time-to-event methodologies. \no   Proven knowledge of statistical and data processing software in R. \no   Demonstrates strong interest in statistical research activities and in application of novel methods to clinical development. \no   Team oriented, strong collaboration skills and ability to work effectively across cultures.  \no   Must also demonstrate the ability to learn, be proactive and motivated, and consistently focus on details and execution.\n \nPreferred Skills and Experience:\no   Understanding of data management and clinical concepts applied to drug development within the pharmaceutical industry.\no   Strong knowledge of computer systems and clinical databases systems in a statistical environment.\no   Experience in CDISC data standards (SDTM, ADAM)\no   Proven knowledge of statistical and data processing software in SAS.\no   Understanding of biology of disease and drug development.  \no   Publication record in peer reviewed statistical/medical journals\n \nOur Quantitative Sciences team use big data to analyse the safety and efficacy claims of our potential medical breakthroughs. We review the quality and reliability of clinical studies using deep scientific knowledge, statistical analysis and high-quality data to support decision making in clinical trials.\n \n\nAdditional location(s) Compensation Information:\n\nRequired Skills: Biostatistics, Clinical Databases, Clinical Development, Data Management, Data Science, Drug Development, Meta-Analysis, Numerical Analysis, Pharmaceutical Industry, R Programming, Scientific Modeling, Statistical Programming\n\nPreferred Skills:\n\nCurrent Employees apply HERE\n\nCurrent Contingent Workers apply HERE\n\nSearch Firm Representatives Please Read Carefully \nMerck & Co., Inc., Rahway, NJ, USA, also known as Merck Sharp & Dohme LLC, Rahway, NJ, USA, does not accept unsolicited assistance from search firms for employment opportunities. All CVs / resumes submitted by search firms to any employee at our company without a valid written search agreement in place for this position will be deemed the sole property of our company.  No fee will be paid in the event a candidate is hired by our company as a result of an agency referral where no pre-existing agreement is in place. Where agency agreements are in place, introductions are position specific. Please, no phone calls or emails. \n\nEmployee Status: Regular\n\nRelocation:No relocation\n\nVISA Sponsorship:No\n\nTravel Requirements:10%\n\nFlexible Work Arrangements:Hybrid\n\nShift:Not Indicated\n\nValid Driving License:No\n\nHazardous Material(s):N/A\n\nJob Posting End Date:11/26/2026\n*A job posting is effective until 11:59:59PM on the day BEFORE the listed job posting end date. Please ensure you apply to a job posting no later than the day BEFORE the job posting end date.",
+    "external_url": "https://msd.wd5.myworkdayjobs.com/SearchJobs/job/CHE---Zurich---Zurich-The-Circle/Scientist--Biostatistics--m-f-d-_R426318-1",
+    "status": "matched",
+    "title": "Scientist, Biostatistics (m/f/d)",
+    "company": "MSD",
+    "location": "CHE - Zurich - Zurich (The Circle); GBR - London - London (Moorgate WeWork); BEL - Brussels - Brussels (Souverain)",
+    "posted_date": "2026-11-12",
+    "department": "",
+    "score": 1,
+    "matched_keywords": [
+      "drug development"
     ],
     "deducted_keywords": []
   }
