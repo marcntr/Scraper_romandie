@@ -9,7 +9,7 @@
     "keywords": "npp"
   },
   "_generic:Charles River Laboratories": {
-    "keywords": "regulatory,scientifique"
+    "keywords": "regulatory"
   },
   "_generic:MoonLake Immunotherapeutics": {
     "keywords": "clinical development,medical affairs"
@@ -778,7 +778,10 @@
     "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Internship-in-PD-Medical-Affairs-Compliance-and-Process-Excellence---Non-Interventional-Studies--NIS--Optimization---Digital-Workspace--12-Months--Basel-_202610-127268": "ignored",
     "https://jobs.smartrecruiters.com/HUG/744000158223869-chef-ou-cheffe-de-groupe-maconnerie-peinture-signalisation-site-cluse-roseraie-100-?oga=true": "ignored",
     "https://jobs.servier.com/job/Geneva-Field-Medical-Advisor-Solid-Tumors-1202/1368160355/": "ignored",
-    "https://jobs.smartrecruiters.com/CERN/744000159621459-short-term-internship-2027-theoretical-physics?oga=true": "ignored"
+    "https://jobs.smartrecruiters.com/CERN/744000159621459-short-term-internship-2027-theoretical-physics?oga=true": "ignored",
+    "https://beigene.wd5.myworkdayjobs.com/BeiGene/job/Basel/Executive-Assistant--Regulatory-Affairs_R37577": "ignored",
+    "https://careers.ompharma.com/job/Meyrin-Sp%C3%A9cialiste-Assurance-Qualit%C3%A9-%28hf%29-Gen%C3%A8ve-Gene/1453248133/": "ignored",
+    "https://careers.ompharma.com/job/Meyrin-Regulatory-Affairs-Operations-Trainee-Geneva-Gene/1446737333/": "ignored"
   },
   "_generic:Hurdle Bio": {
     "keywords": "biomarker,precision medicine"
@@ -1257,16 +1260,6 @@
     "external_url": "https://jobs.smartrecruiters.com/HUG/744000157394735-chef-ou-cheffe-de-clinique-au-service-de-medecine-interne-generale-100-?oga=true",
     "status": "matched"
   },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000157409267": {
-    "description": "We are offering a position in the Physics Software Engineering section of the Computing for Experiments group in the CERN IT department (IT-CE-PSE) on Performance Software Engineering in the realm of high energy physics data simulation.\nThe work on this post will be carried out in the context of the NextGen project, a collaboration between the LHC experiments and the CERN Research and Computing Departments. NextGen explores the use and impact of high-performance computing architectures in data simulation and data processing for the LHC experiments with a focus on the upcoming High Luminosity (HL-LHC) data taking phase at the CERN Large Hadron Collider.\nThe simulation of particle collisions is one of the main consumers of computing resources for LHC experiments. Given the expected increase in the required statistics, accuracy and complexity for future simulation, and to stay within the forecasted computing budget, the throughput of simulation software packages needs to increase substantially.\nThe successful candidate will join a team of software engineers and physicists that addresses this challenge. Together, you will speed up software packages for Monte Carlo (MC) event generation with a focus on the Madgraph event generator suite. Current and future tasks tackled by the team are at the intersection of theoretical/computational physics and computer science. In order to profit from the latest computing hardware, adaptations or re-engineering of software in aspects such as data structures, parallelisation of the workflow or task scheduling are needed. This work is guided by the requirements of experimental analyses and takes into account the latest developments in theoretical predictions.\nIn case of interest, training on data science, programming languages, software engineering concepts and computing architectures is available and can be provided via various training programs.\nYour responsibilities:\nAnalyse and profile existing simulation code bases and develop strategies for improving their throughput.\nImplement latest software engineering concepts, leveraging on compute accelerators such as GPUs, modern CPU architectures and heterogeneous compute platforms.\nInteract and collaborate with experts in the theory, experimental physics and software engineering communities at CERN and world-wide.\nSupervise students on software development tasks and projects.\nYour profile:\nPreferably a PhD in Theoretical or Particle Physics or Master's Degree with equivalent work experience with a strong background in numerical simulation.\nProficiency in working with computing hardware accelerators and modern computing architectures, including heterogeneous compute platforms.\nA proven track record in performance software engineering for simulation applications in C++ and GPU programming languages such as CUDA or HIP.\nKnowledge of state of the art profiling tools for heterogeneous computing architectures.\nExperience with the Madgraph event generator software as a developer or user is highly valued.\nSkills:\nProficiency in modern C++ (up to C++23), GPU programming with CUDA and HIP, and Python for scripting, analysis and tooling is essential.\nKnowledge of hard scattering processes and the perturbative order of their matrix element calculations in Monte Carlo event generators is strongly desirable.\nFamiliarity with Fortran is an advantage.\nFluent in English.\nSpoken and written English or French, with a commitment to learn the basics of the other language.\nEligibility criteria:\nYou have a professional background in Theoretical or Particle Physics (or a related field) and have either:\na Master's Degree with 2 to 6 years of post-graduation professional experience;\nor a PhD with no more than 3 years of post-graduation professional experience.\nYou have never had a CERN fellow or graduate contract before.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000157409267-software-engineer-in-physics-simulation-it-ce-pse-2026-167-grap-?oga=true",
-    "status": "matched"
-  },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000157404339": {
-    "description": "The next generation of experiments, the HL-LHC upgrade of CMS and the Future Circular Collider, needs event reconstruction that is fast, accurate and portable across CPUs and GPUs. Every reconstruction algorithm and every machine-learning model is trained and judged against the simulation truth. Today that truth is stored in static, detector-specific objects. Each object is pre-grouped for one purpose, it cannot be navigated, and it separates calorimeter truth from tracker truth.\nCERN has built a prototype that replaces them. It is one navigable, event-level graph of the generator and simulation history, with calorimeter and tracker hit indices on top. Reconstruction code then reasons in terms of stable physics abstractions: particles, vertices, decay branches and hits.\nYou will make this the truth model of the future. You will generalise the prototype into an experiment-independent library, you will bring it into the FCC software stack, and you will use it to build the next reconstruction: graph algorithms and modern machine learning for clustering, particle flow and particle identification, and reliable matching between reconstructed objects and truth. You will join the EP-FCC group, and you will work on both CMS and FCC-ee.\nYour responsibilities:\nGeneralise the CMS MC-truth graph into a detector-independent and experiment-independent library. Separate the graph data model, the navigation API and the hit index from the experiment data-format bindings.\nDevelop the bindings. Keep the CMSSW binding working, and add a binding for the FCC stack (Key4hep, EDM4hep, Gaudi), so that both experiments build the same graph from their own simulation output.\nExtend the data model. Add multi-surface boundary crossings, sparse association storage, and a reduced hit-index layout. Handle pileup consistently.\nDevelop the reconstruction-to-truth association. Extend the adaptive branch associator, which selects the truth level that best matches a reconstructed object, and validate it on merged topologies such as converted photons, bremsstrahlung and early hadronic interactions.\nDefine what is reconstructible. Derive it from the truth graph and the detector description, using cell granularity, energy and time resolution, readout thresholds and two-object separation.\nApply portable graph algorithms and advanced machine learning, for example graph neural networks and transformers, to reconstruction tasks in CMS (HGCAL and TICL) and in FCC detectors: clustering, linking, particle flow and particle identification.\nBuild the training datasets and the labels from the truth graph. Define the metrics, calibrate the model outputs, and check the model before it feeds reconstruction.\nContribute the code to the official repositories of CMS and of the FCC software stack, with unit tests, documentation and code review.\nPresent the results in CMS and FCC meetings, in software forums and in publications.\nThis role includes team supervision responsibilities.\nYour profile:\nA Master's Degree or a PhD in Physics, Computer Science, Applied Mathematics or a related field.\nDemonstrated experience with modern C++ in a large, shared and peer-reviewed codebase, for example CMSSW, Gaudi or Key4hep.\nDemonstrated experience with time-aware event reconstruction and detector simulation in a high-energy physics experiment.\nDemonstrated experience with heterogeneous and portable computing, for example Alpaka, SYCL, CUDA or HIP.\nExperience with Python and with at least one machine-learning framework, preferably PyTorch.\nExperience with graph and clustering algorithms.\nExperience with git, code review and continuous integration.\nSkills:\nC++20.\nClustering, event reconstruction.\nDetector simulation.\nParticle flow.\nCMSSW,Key4hep.\nHeterogeneous computing.\nSpoken and written English, with a commitment to learn French.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nYou have a professional background in Physics (or a related field) and have either:\na Master's degree with 2 to 6 years of post-graduation professional experience;\nor a PhD with no more than 3 years of post-graduation professional experience.\nYou have never had a CERN fellow or graduate contract before.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000157404339-event-reconstruction-physicist-ep-fcc-2026-166-grap-?oga=true",
-    "status": "matched"
-  },
   "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000157398174": {
     "description": "Vous assumez sous la supervision de la hiérarchie médicale, les soins médicaux des patientes et patients confiés, les activités pratiques, les interventions cliniques et thérapeutiques. Vous participez au système de garde de nuit de week-end.\nVotre sens de l'organisation et votre capacité à travailler de manière efficace vous permettent d'assurer l’application des règles et des procédures internes, tout en garantissant la qualité des prestations médicales apportées.\nEvoluant dans un environnement universitaire stimulant, au sein d’une équipe pluridisciplinaire, vous contribuez aussi à la formation des étudiants et étudiantes en médecine.\nEn parallèle de votre activité, vous bénéficiez d'une formation post graduée de qualité contribuant à l'obtention de votre titre de spécialiste FMH en ophtalmologie. A ce titre, vous faites évoluer votre formation selon le plan défini et les exigences FMH.",
     "external_url": "https://jobs.smartrecruiters.com/HUG/744000157398174-medecin-interne-au-service-d-ophtalmologie-100-?oga=true",
@@ -1307,7 +1300,7 @@
     "title": "Senior Scientist in Flow Cytometry",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-22",
+    "posted_date": "2026-10-21",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -1329,7 +1322,7 @@
     "title": "Scientist – Oligonucleotide Chemistry & Innovation",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-20",
+    "posted_date": "2026-10-19",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1345,7 +1338,7 @@
     "title": "Lab Scientist, Microscopy",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-20",
+    "posted_date": "2026-10-19",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1365,7 +1358,7 @@
     "title": "Experienced Clinical Scientist/Medical monitor in neurosciences",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-16",
+    "posted_date": "2026-10-15",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -1512,7 +1505,7 @@
     "title": "Next Generation Scientist 2027",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-10-16",
+    "posted_date": "2026-10-15",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1538,7 +1531,7 @@
     "title": "Scientist – Assay Data, AI & Workflows",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-30",
+    "posted_date": "2026-10-29",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1613,7 +1606,7 @@
     "title": "Data Scientist / Engineer - DNA-Encoded Library Technology (DELT)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-30",
+    "posted_date": "2026-10-29",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1630,7 +1623,7 @@
     "title": "Scientific AI Platform Lead, Data Science, Disease Area X",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-10-31",
+    "posted_date": "2026-10-30",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -1717,7 +1710,7 @@
     "title": "Research Scientist - In Vivo Preclinical RLT Pharmacology (80-100%)",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-11-03",
+    "posted_date": "2026-11-02",
     "department": "",
     "score": 8,
     "matched_keywords": [
@@ -1798,7 +1791,7 @@
     "title": "Principal Scientist/Senior Scientist, Cryo-EM Structural Biology",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-11-04",
+    "posted_date": "2026-11-03",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2130,7 +2123,7 @@
     "title": "Executive Director, International Medical Affairs, Dermatology",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-11-05",
+    "posted_date": "2026-11-04",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -2148,7 +2141,7 @@
     "title": "Executive Director, International Medical Affairs, Rheumatology",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-11-05",
+    "posted_date": "2026-11-04",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -2171,7 +2164,7 @@
     "title": "Associate Principal Scientist - Cell Culture Development",
     "company": "Lonza",
     "location": "CH - Visp",
-    "posted_date": "2026-10-30",
+    "posted_date": "2026-10-29",
     "department": "",
     "score": -1,
     "matched_keywords": [
@@ -2208,7 +2201,7 @@
     "title": "Senior Scientist, QC",
     "company": "Lonza",
     "location": "CH - Visp",
-    "posted_date": "2026-11-05",
+    "posted_date": "2026-11-04",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -2252,7 +2245,7 @@
     "title": "Associate Principal Scientist - Analytical Development (Microbial) 80%-100% (m/w/d)",
     "company": "Lonza",
     "location": "CH - Visp",
-    "posted_date": "2026-11-06",
+    "posted_date": "2026-11-05",
     "department": "",
     "score": -1,
     "matched_keywords": [
@@ -2307,58 +2300,6 @@
     "external_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Ljubljana/Podatkovni-znanstvenik---svetnik--m--d----Associate-Director--Data-Science---Artificial-Intelligence--m-f-d-_REQ-10089748",
     "status": "matched"
   },
-  "/job/Switzerland-Remote/Regulatory-Affairs-Consultant---on-site-in-Basel--German-and-French-language-skills-_R0000046397-1": {
-    "description": "When our values align, there's no limit to what we can achieve.\n \nAt Parexel, we all share the same goal - to improve the world's health. From clinical trials to regulatory, consulting, and market access, every clinical development solution we provide is underpinned by something special - a deep conviction in what we do.\nEach of us, no matter what we do at Parexel, contributes to the development of a therapy that ultimately will benefit a patient. We take our work personally, we do it with empathy and we're committed to making a difference.\n\nWe are seeking an experienced Regulatory Affairs Consultant to join our global Regulatory Affairs team. In this role, you will develop, review, and manage regulatory submissions and compliance activities for pharmaceutical products throughout their lifecycle—from clinical development through post-market activities. You will work collaboratively with cross-functional teams while demonstrating strong independent judgment and operational expertise.\n\nKey Responsibilities:\n\nDevelop, contribute to, and review content and format for regulatory submissions according to Swiss regulatory guidelines, including:\nMajor and minor submissions\nPeriodic Safety Update Reports (PSURs)\nLabel changes and Chemistry, Manufacturing & Controls (CMC) variations\nPost-approval commitments, variations, and notifications\nCollaborate with the Swiss regulatory team, Global Regulatory Science, Regulatory CMC, and cross-functional project teams to develop and execute regulatory strategy throughout the product lifecycle, including clinical development, post-market activity, and life cycle management.\nCoordinate regulatory submission aspects relevant to assigned projects and programs.\nMaintain Swiss labeling (SmPC, PIL, artwork, and packaging in local languages) in alignment with regulatory requirements and global labeling/core datasheet standards.\nDemonstrate strong ability to work both independently and collaboratively within project teams to achieve group goals.\nSupport the Head of Regulatory Affairs Switzerland in regulatory activities as appropriate.\n\nSkills and Qualifications:\n\nUniversity Degree in Life Sciences or related discipline\n5-8+ years of professional experience in Regulatory Affairs (Marketing Authorization Applications and post-approval variations)\nStrong, current knowledge of Swissmedic regulations (mandatory)\nProven experience in preparing major regulatory submissions and variation packages to Swissmedic\nStrong experience with CTD format and eCTD submission builds\nExperience in biologics and vaccines development - preferred\nKnowledge of Rare Diseases, Autoimmune Diseases, or Oncology therapeutic areas - preferred\nFluent spoken and written German, French and English",
-    "external_url": "https://wd1.myworkdaysite.com/recruiting/parexel/Parexel_External_Careers/job/Switzerland-Remote/Regulatory-Affairs-Consultant---on-site-in-Basel--German-and-French-language-skills-_R0000046397-1",
-    "status": "ignored",
-    "title": "Regulatory Affairs Consultant (German and French language skills)",
-    "company": "Parexel",
-    "location": "Switzerland-Remote",
-    "posted_date": "2026-10-29",
-    "department": "",
-    "score": 6,
-    "matched_keywords": [
-      "French",
-      "location:remote",
-      "oncology"
-    ],
-    "deducted_keywords": []
-  },
-  "/job/Mexico-Remote/CMC-Regulatory-Affairs-Associate--M3-Authoring-experience-for-Biological-products--_R0000046915": {
-    "description": "When our values align, there's no limit to what we can achieve.\n \nAt Parexel, we all share the same goal - to improve the world's health. From clinical trials to regulatory, consulting, and market access, every clinical development solution we provide is underpinned by something special - a deep conviction in what we do.\nEach of us, no matter what we do at Parexel, contributes to the development of a therapy that ultimately will benefit a patient. We take our work personally, we do it with empathy and we're committed to making a difference.\n\nJoin Our Growing Team of CMC Regulatory Professionals!\n\nThe Senior Regulatory Associate will author global CMC variation submissions, annual reports, renewals, and post-approval MAA roll-outs, including responses to Health Authority requests. Responsibilities include preparing and reviewing CMC packages, supporting GMP submissions, managing change control assessments, and ensuring compliance with regulatory requirements across multiple regions. The role requires strong technical regulatory expertise, excellent writing skills, and the ability to evaluate scientific CMC information for accuracy. A degree in biological or health sciences (Regulatory Affairs preferred) and at least 5 years of experience in CMC regulatory affairs within the biotech or pharmaceutical industry are essential.\n\nActivities:\nConduct and deliver high quality, on time CMC regulatory activities, including compliant management of all internal tools and client systems;\nAuthor Administrative and CMC regulatory documents/deliverables and collaborate with project SMEs and client stakeholders to prepare submission packages;\nFull management of CMC submissions (i.e. planning, submission package compilation, RtQ preparation, Spontaneous HA queries, etc.);\nGeneral submission coordination: Submissions planning (tracker update, timelines agreement with LRA and GRA-CMC, recurrent meetings with LRAs), create submission binders and Global Content List/Submission Content Plans, coordinate the publishing aspect, review of eCTD sequences;\nAct as main GRA point of contact for LRAs and other stakeholders (i.e. for responding to any queries)\nExcellent communication and stakeholder management skills;\nStrong organizational and time management skills;\nStrong problem-solving skills;\nCoordinate all assigned activities;\nEnsure compliance to all client SOPs/training sessions;\nProactive’ and ‘efficient' work ethic; Strong oral skills, with proven ability to work efficiently as part of a team;\nStrong interpersonal skills.\n\nEducation:\nUniversity degree in biological sciences or related health sciences (BS/BA/MS or equivalent, PhD), a degree in Regulatory Affairs is advantageous.\n\nExperience:\nMinimum of 5 years’ experience in the biotech or pharmaceutical industry, with at least 5 years in Regulatory Affairs CMC for Senior and 2 for Associate level\nExperience with biological products - Mandatory - and Vaccines preferable)\nM3 authoring experience - mandatory\nStrong technical regulatory expertise and understanding of the regulatory framework in more than one key region (US, EU, Japan, Switzerland, Australia).\nRegulatory CMC writing skills and able to evaluate technical and scientific CMC information for accuracy and compliance with relevant regulatory requirements - nice to have\nKnowledge in Good Manufacturing Practice or related areas would be highly regarded.\nExperience using Veeva\n\nThis role offer exciting opportunities for growth and impact within a collaborative and forward-thinking team environment. Ideal candidates will be motivated by the chance to shape regulatory strategies, drive successful submissions, and ultimately contribute to bringing important medical advancements to patients worldwide.",
-    "external_url": "https://wd1.myworkdaysite.com/recruiting/parexel/Parexel_External_Careers/job/Mexico-Remote/CMC-Regulatory-Affairs-Associate--M3-Authoring-experience-for-Biological-products--_R0000046915",
-    "status": "matched"
-  },
-  "/job/Switzerland-Remote/Regulatory-Affairs-Consultant-Labelling---German-Speaker_R0000042476": {
-    "description": "When our values align, there's no limit to what we can achieve.\n \nAt Parexel, we all share the same goal - to improve the world's health. From clinical trials to regulatory, consulting, and market access, every clinical development solution we provide is underpinned by something special - a deep conviction in what we do.\nEach of us, no matter what we do at Parexel, contributes to the development of a therapy that ultimately will benefit a patient. We take our work personally, we do it with empathy and we're committed to making a difference.\n\nWe are seeking an experienced Regulatory Affairs Consultant specializing in global labelling operations to join our growing Regulatory Affairs team. This role offers the opportunity to shape labelling strategy across multiple markets and drive global alignment of product information for pharmaceutical portfolio of our clients.\n\nThe role can be fully home based or office based.\n\nKey Responsibilities:\n\nManage end-to-end labeling lifecycle including preliminary assessment, implementation, and post-approval maintenance\nProvide innovation and technical expertise for the creation, maintenance, and implementation of labeling to meet country-specific regulatory requirements\nExecute labeling operations globally with precision and efficiency\nParticipate in a 'follow the sun' model to ensure timely execution of labelling activities across time zones\nPrepare and review labelling documents for regulatory submissions and variations\nMaintain labeling databases and tracking systems\nSupport global labelling harmonization initiatives\nCollaborate with regional regulatory teams to ensure compliance with local requirements\nMonitor regulatory intelligence related to labelling requirements\n\nSkills and Experience required for the role:\n\nUniversity degree in a life science discipline\nA few years of experience in the biotech/pharmaceutical industry\nLabelling/regulatory experience with global responsibilities\nExperience with CCDS development and maintenance\nStrong understanding of regulatory labelling requirements across multiple markets\nDirect experience working with Swissmedic\nExcellent attention to detail and organizational skills\nExperience leading teams in a matrix organization is expected\nAbility to work effectively in a global, virtual team environment\nFluent in German and English, written and spoken",
-    "external_url": "https://wd1.myworkdaysite.com/recruiting/parexel/Parexel_External_Careers/job/Switzerland-Remote/Regulatory-Affairs-Consultant-Labelling---German-Speaker_R0000042476",
-    "status": "matched",
-    "title": "Regulatory Affairs Consultant Labelling - German Speaker m/f/d",
-    "company": "Parexel",
-    "location": "Switzerland-Remote; Germany-Berlin-Remote",
-    "posted_date": "2026-10-09",
-    "department": "",
-    "score": 4,
-    "matched_keywords": [
-      "location:remote"
-    ],
-    "deducted_keywords": []
-  },
-  "/job/Neuchtel-Switzerland/Sr-Manager--Quality-and-Regulatory-Operations_R1320464": {
-    "description": "Bring more to life.\n \nAre you ready to accelerate your potential and make a real difference within life sciences, diagnostics and biotechnology?\n \nAt Masimo, one of Danaher’s 15+ operating companies, our work saves lives—and we’re all united by a shared commitment to innovate for tangible impact. \n \nYou’ll thrive in a culture of belonging where you and your unique viewpoint matter. And by harnessing Danaher’s system of continuous improvement, you help turn ideas into impact – innovating at the speed of life.\n\nMasimo is a global medical technology company that develops and produces a wide array of industry-leading monitoring technologies, including non-invasive measurements, sensors, patient monitors, and automation and connectivity solutions. Our mission is, Masimo innovations empower clinicians to transform patient care. When you join our team, you’ll be part of a culture that’s driven by passion, challenging the status quo, and making an impact in the lives of others.\n \nLearn about the Danaher Business System which makes everything possible.\n \nThe Manager, Quality & Regulatory Operations will lead regulatory and quality operations to support compliance, market access, and commercial success. This role combines regulatory expertise with quality systems leadership to ensure products, processes, and documentation meet EU and global requirements.\n \nThe individual will act as a key partner to Commercial, Contracts, and cross-functional teams to support tender readiness, interpret regulatory and quality requirements, identify gaps, and implement practical solutions. This role requires strong expertise in medical device regulatory frameworks, quality systems, labeling, and post-market compliance, along with the ability to drive operational excellence and audit readiness\n \nThis position reports to the Sr Director, Quality & Regulatory Strategy and is part of the Quality Compliance team located in Neuchâtel, Switzerland and will be an on-site role.  \n\nIn this role, you will have the opportunity to:\nLead RA/QA operations strategy and execution to support compliance and business growth\nDrive regulatory and quality support for tenders, including requirement review, gap assessment, and compliant documentation\nOversee EUDAMED compliance (actor registration, device data, vigilance) and support maintenance of regulatory records\nSupport implementation and maintenance of UDI frameworks, ensuring alignment with EU and global UDI requirements\nManage and improve Quality Management System (QMS) processes, including CAPA, change control, deviations, and audit readiness\n \nThe essential requirements of the job include:\n4-6+ years of experience in Regulatory Affairs and/or Quality Assurance within the medical device industry\nStrong knowledge of EU MDR (2017/745), CE marking requirements, and European regulatory frameworks\nHands-on experience with EUDAMED and UDI implementation in alignment with global frameworks\nStrong experience in Quality Management Systems (ISO 13485), including CAPA, audits, change control, and compliance processes\nFluent in English, any other language is a plus.\n \nIt would be a plus if you also possess previous experience in:\nPatient monitoring, hospital-based medical devices, digital health, or software-enabled medical technologies\n3–5+ years of people leadership or matrix leadership experience, including mentoring and influencing cross-functional teams\nWorking in EU-focused or global medtech organizations with exposure to multi-country quality and regulatory operations\n\nJoin our winning team today. Together, we’ll accelerate the real-life impact of tomorrow’s science and technology. We partner with customers across the globe to help them solve their most complex challenges, architecting solutions that bring the power of science to life.\n\nFor more information, visit www.danaher.com.",
-    "external_url": "https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Neuchtel-Switzerland/Sr-Manager--Quality-and-Regulatory-Operations_R1320464",
-    "status": "ignored",
-    "title": "Manager, Quality & Regulatory Operations",
-    "company": "Danaher",
-    "location": "Neuchâtel, Switzerland",
-    "posted_date": "2026-11-05",
-    "department": "",
-    "score": 4,
-    "matched_keywords": [
-      "location:neuchâtel"
-    ],
-    "deducted_keywords": []
-  },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000160597089": {
     "description": "You will join the Accelerator and Technology Sector (ATS) which comprises four departments -Beams, Engineering, Accelerator Systems, and Technology - responsible for the Sector's main technical activities.\nWithin the ATS Directorate Office (ATS-DO), you will join the ATS Project Office, contributing to the communication, dissemination, and outreach activities of the European project EPITA as well as other strategic projects and studies coordinated by ATS.\nIn this role, you will help promote project achievements to a broad range of stakeholders, including project partners, funding bodies, the scientific community, and the public.\nYour responsibilities:\nContribute to the implementation and delivery of the EPITA communication and dissemination strategy.\nManage and regularly update the project website (WordPress), including the homepage and the \"Latest News\" section.\nDraft and publish news articles highlighting project milestones, achievements, and activities.\nCreate engaging communication content, including newsletters, feature articles, social media posts, and audiovisual material.\nSupport and maintain the project's presence across digital communication channels, including LinkedIn, YouTube, and other relevant platforms.\nProduce, collect, and edit photographs and video content showcasing project activities and results.\nDesign infographics and visual communication materials or coordinate their development with CERN's graphic design service and external providers.\nParticipate in annual project meetings, work package meetings, and other key events, presenting communication-related activities and results when required.\nContribute to outreach initiatives aimed at increasing awareness and visibility of the project's objectives and achievements.\nAttend regular communication coordination meetings within ATS-DO.\nIn close collaboration with another Graduate in the team, contribute to communication, dissemination, and outreach activities for other major CERN projects and studies managed by the ATS Project Office, according to priorities and operational needs.\nYour profile:\nExperience in communication related to science, technology and innovation.\nExperience with WordPress would be an advantage.\nSkills:\nExperience of audiovisual software/tools, e.g. CapCut would be an advantage.\nKnowledge of Canva would be an advantage.\nSpoken and written English, with a commitment to learn French.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nBy the application deadline, you have a maximum of two years of professional experience since graduation in Science Journalism, Communication/Media Production (or a related field) and your highest educational qualification is either a Bachelor's or Master's degree.\nYou have never had a CERN fellow or graduate contract before.\nApplicants without University degree are not eligible.\nApplicants with a PhD are not eligible.",
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000160597089-junior-communication-officer-ats-do-2026-252-grae-?oga=true",
@@ -2404,7 +2345,7 @@
     "title": "Patent Attorney II",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-11-11",
+    "posted_date": "2026-11-10",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -2442,7 +2383,7 @@
     "title": "Scientist Stability 80-100% (f/m/d)",
     "company": "Lonza",
     "location": "CH - Basel",
-    "posted_date": "2026-11-11",
+    "posted_date": "2026-11-10",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2586,7 +2527,7 @@
     "title": "Medical Science Liaison (MSL) GI Switzerland (100%) W-CH",
     "company": "AstraZeneca",
     "location": "Switzerland - Baar",
-    "posted_date": "2026-11-12",
+    "posted_date": "2026-11-11",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2675,7 +2616,7 @@
     "title": "Patent Attorney Trainee",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "",
+    "posted_date": "2026-11-12",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -2703,7 +2644,7 @@
     "title": "Scientist (all genders) Quality Control, Microbiology (80-100%)",
     "company": "Lonza",
     "location": "CH - Visp",
-    "posted_date": "",
+    "posted_date": "2026-11-12",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -2765,12 +2706,119 @@
     "title": "Compound Logistics Workflow and Integration Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-11-14",
+    "posted_date": "",
     "department": "",
     "score": 1,
     "matched_keywords": [
       "drug discovery"
     ],
     "deducted_keywords": []
+  },
+  "https://careers.ompharma.com/job/Meyrin-Sp%C3%A9cialiste-Qualification-&-CSV-%2890%29-Gen%C3%A8ve-Gene/1427264033/": {
+    "description": "Afin d’accompagner notre croissance, nous créons un nouveau poste de Spécialiste Qualification des équipements/utilités & Validation des Systèmes Informatisés (CSV), basé à notre siège et site de production biotechnologique de Meyrin. Sous la responsabilité du Team Leader Qualification, vous intervenez au sein des équipes Qualification et CSV, en jouant un rôle clé à l’interface de ces deux fonctions. Dans ce poste, votre mission consiste à contribuer à la validation et à la qualification des systèmes informatisés, des équipements et des utilités, en garantissant leur conformité, l’intégrité des données et leur état de préparation aux inspections, tout en soutenant les initiatives d’amélioration continue.\n\nVos principales responsabilités sont les suivantes :\n\nRéaliser les activités de qualification et de validation des équipements, des utilités et des systèmes informatisés tout au long de leur cycle de vie\n\nÉlaborer, tenir à jour, revoir et archiver la documentation de qualification et de validation dans le respect des BPF et des exigences d’intégrité des données\n\nGarantir la conformité des systèmes et l’intégrité des données tout au long de leur cycle de vie\n\nAgir en tant qu’expert métier (SME) et apporter un soutien dans le cadre des Change Controls, des déviations et des CAPA, en contribuant à l’amélioration continue des processus\n\nContribuer aux audits internes et externes ainsi qu’aux inspections réglementaires en préparant, présentant et défendant la documentation de validation et de qualification\n\nCollaborer étroitement avec les équipes transverses et les différentes parties prenantes afin d’assurer la réalisation des projets et des activités opérationnelles dans les délais et dans le respect des exigences de conformité\n\nVeiller à l’application du processus de gestion des accès aux systèmes\n\nPour mener à bien cette mission, nous recherchons une personne avec le profil suivant :\n\nFormation technique supérieure (ES, HES ou équivalent) en biotechnologies, chimie, sciences de la vie, ou dans un domaine scientifique apparenté\n\nAu moins 3 à 5 ans d’expérience dans des activités de qualification au sein de l’industrie pharmaceutique, idéalement avec une expertise en CSV\n\nSolide connaissance des exigences et référentiels pharmaceutiques (GMP, 21 CFR Part 11, Annexe 11 des GMP européennes, GAMP 5)\n\nDe langue maternelle française avec une bonne maîtrise professionnelle de l’anglais, à l’écrit comme à l’oral\n\nUne expérience pratique des systèmes d’automatisation et SCADA (iFIX, Wonderware, WinCC, Winprogress) constitue un atout\n\nD’un naturel proactif et pragmatique, vous appréciez le travail en équipe et faites preuve d’un esprit entrepreneurial. Votre curiosité, votre flexibilité et votre polyvalence vous permettent d’intervenir sur une grande variété de sujets techniques et de développer continuellement votre expertise. Vous vous épanouissez dans un environnement collaboratif, construisez de solides relations transverses et abordez les défis avec pragmatisme et dans une logique de solutions.\n\nRejoignez OM Pharma et contribuez à créer un environnement fiable et conforme, essentiel à la réalisation de notre mission : améliorer la vie des patients. Postulez dès aujourd’hui et apportez une réelle contribution !\n\nAbout Us\n\nOM Pharma is a global Geneva-based biopharmaceutical company. It is a leader in the prevention of recurrent respiratory and urinary tract infections and is also active in the treatment of vascular diseases.\n\nIt operates worldwide through a strong network of international partners and invests its profits in R&D to develop microbial derived immunotherapeutic products to treat acute and chronic immunological disorders resulting from inflammation and infections. \n\nThe company strives to improve the quality of life of patients around the world by providing access to better treatment of immunological imbalances.\n\nFor more information, visit the website: ompharma.com.",
+    "external_url": "https://careers.ompharma.com/job/Meyrin-Sp%C3%A9cialiste-Qualification-&-CSV-%2890%29-Gen%C3%A8ve-Gene/1427264033/",
+    "status": "ignored",
+    "title": "Spécialiste Qualification & CSV (90%) - Genève",
+    "company": "OM Pharma",
+    "location": "Meyrin, Geneva, CH",
+    "posted_date": "",
+    "department": "",
+    "score": 4,
+    "matched_keywords": [
+      "location:geneva"
+    ],
+    "deducted_keywords": []
+  },
+  "https://careers.ompharma.com/job/Meyrin-Regulatory-Affairs-Operations-Trainee-Geneva-Gene/1446737333/": {
+    "description": "OM Pharma is an international biopharmaceutical company specializing in the prevention of respiratory and urinary tract infections. As a committed local player, we train and support the talents of tomorrow through meaningful and educational internships.\n\nIn this context, we are offering a paid 6 to 12-month internship, ideally starting as soon as possible or at the beginning of 2027, based at our headquarters in Meyrin. Under the supervision of the Regulatory Operations Team Lead and in close collaboration with the RA team and external partners, your mission is to support regulatory operations activities related to regulatory data management, dossier maintenance and electronic submissions, ensuring the quality, accuracy and compliance of regulatory information throughout the product lifecycle.\n\nYour main responsibilities are as follows:\n\nSupport day-to-day regulatory operations activities and assigned regulatory projects, ensuring accurate documentation and timely follow-up of deliverables\n\n Maintain and update product and registration information in regulatory databases and systems\n\nReview regulatory data to ensure accuracy, consistency, and completeness\n\nArchive regulatory documents, correspondence and submission packages in accordance with internal procedures\n\nAssist with the preparation, compilation and technical review of electronic submission packages for health authorities\n\nContribute to the management and maintenance of product information and regulatory data used for health authority submissions\n\nCollaborate with internal stakeholders and partner companies to collect, verify and update regulatory documentation and data\n\nHelp track regulatory submissions and project progress using tracking tools and status reports\n\nKeep up to date with relevant regulatory requirements, procedures and operational best practices\n\n \n\nTo carry out these activities, we are looking for a person with the following profile:\n\nCurrently pursuing a Bachelor or Master’s degree in Life Sciences, Pharmacy, Regulatory Affairs, Health Sciences or a related scientific discipline\n\nStrong interest in pharmaceutical regulatory affairs, regulatory operations and regulatory data management\n\nComfortable using databases, document management systems and Microsoft Office tools; previous exposure to Veeva an asset\n\nStrong written and spoken English skills (minimum B2 level); additional knowledge of French and/or Spanish is an advantage\n\n This internship will enable you to:\n\nGain hands-on experience in regulatory operations within an international pharmaceutical environment\n\nDevelop practical knowledge of regulatory submissions, dossier maintenance and regulatory information management systems\n\nDiscover a stimulating and collaborative work environment where trust, teamwork, and entrepreneurship are highly valued\n\nLearn from experienced regulatory professionals who will support your technical and professional growth\n\nYou are a detail-oriented, organized and proactive individual with a strong willingness to learn. After receiving initial guidance, you are able to work independently, take ownership of your tasks and ensure a high level of accuracy and quality in your work. You enjoy working with data and documentation, are comfortable interacting with different stakeholders and thrive in a collaborative and multicultural environment. Your rigorous approach, team spirit and commitment to compliance make you a valuable contributor to the Regulatory Affairs team.\n\nLooking for a first hands-on experience in Regulatory Operations within the pharmaceutical industry? Join us and make a meaningful contribution to healthcare products used worldwide. We look forward to receiving your application and getting to know you!\n\nIMPORTANT: This internship is only open to students whose academic programme requires a mandatory internship as part of the degree curriculum. Candidates must be able to provide a valid tripartite internship agreement, and the internship duration must meet the minimum requirements set by their educational institution.\n\n \n\n \nAbout Us\n\nOM Pharma is a global Geneva-based biopharmaceutical company. It is a leader in the prevention of recurrent respiratory and urinary tract infections and is also active in the treatment of vascular diseases.\nIt operates worldwide through a strong network of international partners and invests its profits in R&D to develop microbial derived immunotherapeutic products to treat acute and chronic immunological disorders resulting from inflammation and infections. \nThe company strives to improve the quality of life of patients around the world by providing access to better treatment of immunological imbalances.\n\nFor more information, visit the website: ompharma.com.\n\n-",
+    "external_url": "https://careers.ompharma.com/job/Meyrin-Regulatory-Affairs-Operations-Trainee-Geneva-Gene/1446737333/",
+    "status": "ignored",
+    "title": "Regulatory Affairs Operations Trainee - Geneva",
+    "company": "OM Pharma",
+    "location": "Meyrin, Geneva, CH",
+    "posted_date": "",
+    "department": "",
+    "score": 5,
+    "matched_keywords": [
+      "French",
+      "location:geneva"
+    ],
+    "deducted_keywords": []
+  },
+  "https://careers.ompharma.com/job/Meyrin-Sp%C3%A9cialiste-Assurance-Qualit%C3%A9-%28hf%29-Gen%C3%A8ve-Gene/1453248133/": {
+    "description": "Pour notre site de production biotech et siège social de Meyrin, nous recherchons un Spécialiste Assurance Qualité (h/f).\n\nSous la supervision de la Responsable d’équipe Assurance Qualité, vous rejoignez une équipe de 5 personnes et votre mission consiste à garantir la qualité des produits fabriqués et le maintien de la conformité du site aux exigences BPF/GMP, tout en participant activement à l’amélioration continue.\n\n \nVos responsabilités principales sont les suivantes :Pour mener à bien cette mission, nous recherchons une personne ayant le profil suivant :\n\nRéviser et approuver les dossiers de lots, protocoles de fabrication, rapports de qualification / validation, programmes de maintenance / étalonnage et autres documents qualité associés\n\nPréparer les protocoles de libération\n\nAssurer un support qualité dans la gestion des événements qualité (déviations, investigations, CAPA et demandes de changement) et contribuer à leur résolution\n\nVeiller au respect des exigences réglementaires et la conformité des procédés conformément aux BPF, aux AMM et aux SOP et aux dossiers de validation\n\nContribuer à la préparation et au déroulement des audits, inspections et visites réglementaires\n\nParticiper à l'amélioration continue des systèmes qualité et de la documentation du site\n\nDévelopper une présence terrain active afin de promouvoir la culture qualité et accompagner les équipes opérationnelles\n\nParticiper aux projets qualité transverses, au suivi des indicateurs de performance et à la formation des collaborateurs sur les bonnes pratiques GxP\n\nPour mener à bien cette mission, nous recherchons une personne ayant le profil suivant :\n\nFormation supérieure en Pharmacie, Biologie, Biochimie, Chimie ou domaine équivalent\n\nAu minimum 2 à 3 ans d'expérience dans l'industrie pharmaceutique ou biotechnologique dans un rôle lié à la qualité ou la production ; bonnes connaissances de processus de fabrication un réel atout\n\nSolides connaissances des BPF, avec une bonne compréhension des systèmes qualité pharmaceutiques\n\nMaîtrise de la Suite Ms Office et des systèmes ERP (idéalement Sage X3) ; expérience avec les outils Trackwise / EDMS / LMS valorisée\n\nExcellente maîtrise du français, à l’oral comme à l’écrit ; anglais apprécié\n\nVous vous décrivez comme une personne rigoureuse, proactive et orientée solutions. Véritable team player, vous appréciez le travail au sein d’une équipe soudée et savez conjuguer assertivité et esprit de collaboration. Vous êtes capable de défendre avec conviction les exigences Qualité, tout en privilégiant le dialogue, le pragmatisme et la recherche de consensus. Grâce à votre esprit d’analyse, votre sens des responsabilités et votre excellent relationnel, vous interagissez efficacement avec différents départements et contribuez activement à promouvoir une culture qualité et collaborative forte.\n \nCette opportunité vous intéresse ? Transmettez-nous au plus vite votre candidature et rejoignez les équipes d'OM Pharma !\n\n \n\n \nAbout Us\n\nOM Pharma is a global Geneva-based biopharmaceutical company. It is a leader in the prevention of recurrent respiratory and urinary tract infections and is also active in the treatment of vascular diseases.\n\nIt operates worldwide through a strong network of international partners and invests its profits in R&D to develop microbial derived immunotherapeutic products to treat acute and chronic immunological disorders resulting from inflammation and infections. \n\nThe company strives to improve the quality of life of patients around the world by providing access to better treatment of immunological imbalances.\n\nFor more information, visit the website: ompharma.com.",
+    "external_url": "https://careers.ompharma.com/job/Meyrin-Sp%C3%A9cialiste-Assurance-Qualit%C3%A9-%28hf%29-Gen%C3%A8ve-Gene/1453248133/",
+    "status": "ignored",
+    "title": "Spécialiste Assurance Qualité (h/f) - Genève",
+    "company": "OM Pharma",
+    "location": "Meyrin, Geneva, CH",
+    "posted_date": "",
+    "department": "",
+    "score": 4,
+    "matched_keywords": [
+      "location:geneva"
+    ],
+    "deducted_keywords": []
+  },
+  "https://careers.ompharma.com/job/Villars-sur-Gl%C3%A2ne-Regulatory-Affairs-Lead-%2880-100%29-Fribourg-Frib/1454664833/": {
+    "description": "Take the lead in regulatory affairs for OM Pharma’s Swiss portfolio, including partner products. Combining strategic ownership with hands-on delivery, you will manage a Regulatory Specialist and work closely with cross-functional teams to ensure regulatory compliance throughout the product lifecycle. Based in Villars-sur-Glâne, you will report to the Head of Market Access & External Affairs, Swiss Affiliate.\n\n \n\nYour key responsibilities are as follows:\n\nLead regulatory strategy and operations for product development and lifecycle management across the Swiss portfolio, aligned with business objectives, timelines and budgets\n\nMonitor regulatory developments and proactively adapt strategies to ensure compliance throughout the product lifecycle\n\nOversee the preparation, review and timely submission of regulatory dossiers, including variations and renewals, as applicable\n\nMaintain regulatory databases and coordinate product information and packaging updates\n\nLead or support interactions with Swissmedic and other health authorities, and represent the company during quality inspections and audits\n\nProvide regulatory expertise to cross-functional projects and align activities with key internal stakeholders\n\nDevelop or contribute to SOPs and work instructions, driving continuous improvement of regulatory processes and systems\n\nManage and support the Regulatory Specialist, setting objectives, coordinating daily priorities and improving team efficiency and project delivery\n\n \n\nWhat you bring:\n\nA university degree in Life Sciences, Pharmacy, Biomedical Sciences, Medicine or an equivalent scientific discipline\n\nAt least 5 years’ experience in Regulatory Affairs within the Swiss pharmaceutical industry, with hands-on expertise in regulatory submissions and lifecycle management, including variations and renewals\n\nProven experience working with Swissmedic and a solid understanding of Swiss regulatory requirements\n\nThe ability to translate complex regulatory requirements into clear, pragmatic guidance for internal stakeholders\n\nStrong language skills: fluency in English and either French or German, with a good working knowledge of the third language; fluency in all three is preferred\n\nYou combine sound regulatory judgement with a pragmatic, hands-on and business-oriented approach. Autonomous and well-organised, you balance competing priorities without compromising quality or compliance. You build effective relationships, communicate clearly and influence stakeholders constructively. As a supportive team leader, you provide clear direction and foster collaboration and continuous improvement.\n\n \n\nReady to make a difference? Apply today and join OM Pharma in Fribourg !\n\n \nAbout Us\n\nOM Pharma is a global Geneva-based biopharmaceutical company. It is a leader in the prevention of recurrent respiratory and urinary tract infections and is also active in the treatment of vascular diseases.\n\nIt operates worldwide through a strong network of international partners and invests its profits in R&D to develop microbial derived immunotherapeutic products to treat acute and chronic immunological disorders resulting from inflammation and infections. \n\nThe company strives to improve the quality of life of patients around the world by providing access to better treatment of immunological imbalances.\n\nFor more information, visit the website: ompharma.com.",
+    "external_url": "https://careers.ompharma.com/job/Villars-sur-Gl%C3%A2ne-Regulatory-Affairs-Lead-%2880-100%29-Fribourg-Frib/1454664833/",
+    "status": "matched",
+    "title": "Regulatory Affairs Lead (80 - 100%) - Fribourg",
+    "company": "OM Pharma",
+    "location": "Villars-sur-Glâne, Fribourg, CH",
+    "posted_date": "",
+    "department": "",
+    "score": 5,
+    "matched_keywords": [
+      "French",
+      "location:fribourg"
+    ],
+    "deducted_keywords": []
+  },
+  "https://jobdetails.nestle.com/job/Henniez-Automaticien_ne-&-Sp%C3%A9cialiste-Digital/1383951133/": {
+    "description": "Division « Eau » du groupe Nestlé, Nestlé Waters (Suisse) SA est le leader suisse du marché des eaux minérales avec des marques telles que Henniez, S.Pellegrino, Vittel, Contrex, Perrier et Acqua Panna, ainsi que d’autres grandes marques de boissons sans alcool.\n\n \n\nRésumé de la position\n\nLieu de travail: Henniez\n\nType de contrat: Contrat à durée indéterminée\n\nTaux de travail: 80%-100%\n\n \n\nEn tant qu'Automaticien(ne) & Spécialiste Digital, vous jouerez un rôle clé dans le bon fonctionnement de nos installations de production et dans la digitalisation de l’usine. Véritable référent technique, vous assurerez la fiabilité des systèmes d’automation, participerez aux dépannages et contribuerez au développement des outils digitaux qui soutiennent nos opérations au quotidien.\n\n \n\n \n\nUn jour dans la vie d’un(e) Automaticien(ne) & Spécialiste Digital\n\nAssurer le bon fonctionnement et la fiabilité des systèmes d’automation de l’usine.\n\nDiagnostiquer les pannes et participer activement aux interventions sur le terrain.\n\nAméliorer les programmes, équipements et systèmes afin d’optimiser la performance des lignes de production.\n\nDévelopper la maintenance préventive et contribuer à l’amélioration continue des équipements.\n\nParticiper à l’installation, au démarrage et à la mise en service de nouveaux équipements.\n\nAssurer le support et le développement des outils digitaux de l’usine (MES, SAP, Power BI, Power Apps, POKA, etc.).\n\nGarantir la fiabilité des échanges de données entre les équipements de production, les systèmes de supervision et les applications digitales.\n\nAssurer le rôle d’administrateur FAS (Factory Automation System) du site.\n\nMaintenir à jour la documentation technique, les standards et les équipements critiques.\n\n \n\nCe qui fera votre réussite\n\nCFC d’Automaticien(n), Électronicien(n) ou formation jugée équivalente avec expérience dans un environnement industriel\n\nConnaissances des automates Siemens et des réseaux industriels.\n\nIntérêt marqué pour les nouvelles technologies, l’automation et la digitalisation industrielle.\n\nBonne maîtrise des outils informatiques ; une expérience avec SAP, MES, Power BI, Power Apps ou POKA constitue un atout.\n\nEsprit d’analyse, autonomie et orientation solutions.\n\nGoût pour le travail de terrain et la résolution de problèmes techniques.\n\nExcellentes capacités de collaboration et de communication.\n\nFrançais courant ; anglais technique un atout.",
+    "external_url": "https://jobdetails.nestle.com/job/Henniez-Automaticien_ne-&-Sp%C3%A9cialiste-Digital/1383951133/",
+    "status": "matched",
+    "title": "Automaticien.ne & Spécialiste Digital",
+    "company": "Nestlé",
+    "location": "Henniez, CH",
+    "posted_date": "",
+    "department": "",
+    "score": -2,
+    "matched_keywords": [],
+    "deducted_keywords": [
+      "location:Henniez, CH"
+    ]
+  },
+  "https://jobdetails.nestle.com/job/Vevey-Senior-Acquisitions-&-Business-Development-Manager/1441989433/": {
+    "description": "Location: Vevey - Switzerland\nWork model: Hybrid\nContract type / duration: Permanent\n\n \n\nBe a force for good and accelerate change that improves lives and the planet\n\nAs a Senior Acquisitions & Business Development Manager within our global M&A team, you will play a key role in shaping and executing strategic corporate projects that support the long-term growth of the Nestlé Group. Leading acquisitions, divestments, joint-ventures and other high-impact initiatives, you will ensure strong governance, rigorous valuation, and effective negotiations that create value and manage risk. Working closely with Zone and SBU leadership, Market Heads and CFOs, senior management, and specialist internal and external partners, you will help turn strategic opportunities into measurable business impact on a global scale, working across categories and geographies.\n\nHow you’ll make an impact as a Senior Acquisition & Business Development Manager\n\nPartner with Zones and Strategic Business Units to shape M&A strategies and evaluate potential acquisition or divestment opportunities.\n\nLead end-to-end acquisition and divestment processes, ensuring projects follow the appropriate governance and approval requirements.\n\nAssess financial, strategic, and operational risks and opportunities to strengthen decision-making and negotiation positions.\n\nLead negotiations on transaction agreements to optimize value and manage risk for Nestlé.\n\nProvide timely, clear, and decision-relevant information to senior management throughout the project lifecycle.\n\nCoordinate internal specialists and manage relationships with investment banks, financial advisers, accounting advisers, legal counsel, and other external partners to ensure the timely completion of projects.\n\nWhat will make you successful\n\nExtensive experience in mergers and acquisitions or in leading complex projects within a multinational organization, consultancy, investment bank, or financial advisory environment.\n\nStrong expertise in financial management, business analysis, valuation, governance, risk management, and strategic business planning.\n\nExcellent stakeholder management, communication, and negotiation skills, with the ability to build trusted relationships across functions, businesses, and geographies.\n\nFluency in English, with additional languages considered an advantage, combined with flexibility, sound judgement, and the ability to operate effectively in a complex global environment.\n\nDemonstrating courage, collaboration, speed and continuous learning, while translating ideas into measurable impact and creating shared value.\n\nAt Nestlé, we place people at the heart of everything we do\n\nOur benefits are designed to support your growth and wellbeing, so you can thrive at work and in life:\n\nFlexible working options, including hybrid work possibilities \n\nLearning and development opportunities to grow your career\n\nHealthcare contribution and access to the Employee Assistance Program\n\nAttractive employee discounts across various products and services\n\nWhat to expect from our hiring process\n\nWe are committed to an inclusive and respectful hiring experience and are happy to provide reasonable accommodations if needed. Our workplaces are fully accessible and supported by a strong safety culture, with modern installations and procedures to ensure a safe environment for everyone.\n\nThe hiring process typically includes an interview with Talent Acquisition, interviews with the hiring team, and a final discussion and offer. We review applications as they are received and close the role on the date listed above, so we encourage you to apply early. All information is treated confidentially.\n\nReady to Be a Force for Good?\n\nApply now and accelerate change that improves lives and the planet.",
+    "external_url": "https://jobdetails.nestle.com/job/Vevey-Senior-Acquisitions-&-Business-Development-Manager/1441989433/",
+    "status": "matched",
+    "title": "Senior Acquisitions & Business Development Manager",
+    "company": "Nestlé",
+    "location": "Vevey, CH",
+    "posted_date": "",
+    "department": "",
+    "score": -2,
+    "matched_keywords": [],
+    "deducted_keywords": [
+      "location:Vevey, CH"
+    ]
+  },
+  "https://jobdetails.nestle.com/job/Broc-Sp%C3%A9cialiste-Am%C3%A9lioration-Continue-1636/1456785133/": {
+    "description": "Instantané de la position\n\nLieu : Broc, Suisse\nEntité : Nestlé Suisse S.A.\nTaux : 100%\nType de contrat : CDI\n\nRésumé de la position\n\nLa fabrique de Broc, berceau du chocolat Cailler, allie depuis plus d’un siècle tradition, savoir-faire et innovation. Afin d’accompagner l’évolution de nos méthodes de travail et de renforcer notre culture d’amélioration continue, nous recherchons un(e) Spécialiste Amélioration Continue pour rejoindre notre équipe Production.\n\nDans ce rôle, vous contribuez activement à l’amélioration de la performance de votre secteur en pilotant des projets d’amélioration continue et de digitalisation basés sur la méthodologie TPM. Vous traduisez les priorités du secteur en initiatives concrètes, accompagnez leur mise en œuvre et mesurez leur impact sur la performance. Vous accompagnez également le déploiement et la pérennisation des standards, participez au développement des compétences des équipes et restez au plus près des opérations et des réalités du terrain.\n\nUne journée dans la vie d’un(e) Spécialiste Amélioration Continue\n\nPiloter des projets d’amélioration continue et de digitalisation, en lien avec les priorités du secteur, afin d’améliorer durablement la performance, les méthodes de travail et l’organisation.\n\nAssurer le déploiement et l’adoption des outils digitaux au sein de la fabrique (POKA, PROMETEUS, DMO MMS, DMO Performance), en veillant à leur intégration dans les pratiques opérationnelles.\n\nAnalyser les pertes et identifier les opportunités d’amélioration, définir les priorités d’action et accompagner leur mise en œuvre, en s’appuyant sur les principes et méthodologies TPM.\n\nContribuer au développement et à la pérennisation des standards de production, en veillant à leur appropriation par les équipes et à leur efficacité dans la durée.\n\nAccompagner le développement des compétences des équipes, en assurant un rôle de formateur interne et en favorisant le partage des bonnes pratiques.\n\nFédérer les différents interlocuteurs autour des projets de transformation, faciliter la résolution de problèmes et contribuer à l’amélioration durable de la performance.\n\nMaintenir une forte proximité avec les opérations afin de connecter les enjeux de performance aux réalités du terrain et soutenir activement les équipes lorsque les besoins opérationnels le nécessitent.\n\nFaire vivre une culture de courage, de collaboration, d’agilité et d’apprentissage continu, en transformant les idées en actions concrètes et en résultats mesurables.\n\n \n\nCe qui fera votre réussite\n\nFormation supérieure dans un domaine technique ou industriel, de type diplôme d’ingénieur, Brevet fédéral ou formation jugée équivalente.\n\nParcours confirmé dans un environnement de production industrielle, avec une bonne compréhension des enjeux opérationnels et de performance.\n\nExpérience dans la conduite de projets d’amélioration continue et bonne maîtrise des méthodologies TPM, Lean ou équivalentes.\n\nIntérêt marqué pour la digitalisation et les nouvelles technologies, avec la capacité à identifier et exploiter des solutions digitales au service de la performance opérationnelle.\n\nExcellentes capacités d’analyse et de résolution de problèmes, avec une approche structurée et orientée résultats.\n\nCapacité à piloter des projets de manière autonome et à mobiliser différents interlocuteurs autour d’objectifs communs.\n\nAisance dans la transmission des connaissances et l’accompagnement des équipes, avec un réel intérêt pour la formation et le développement des compétences.\n\nForte orientation terrain, esprit d’initiative et capacité à travailler en étroite collaboration avec les équipes de production.\n\nTrès bonne maîtrise du français ; des connaissances en anglais constituent un atout.\n\n \n\nChez Nestlé, nous créons un environnement de travail diversifié, collaboratif et orienté développement. Nous recherchons une personne curieuse, pragmatique et proche du terrain, capable de prendre du recul tout en restant connectée aux réalités opérationnelles.\n\nBe a force for good. Rejoignez Nestlé.",
+    "external_url": "https://jobdetails.nestle.com/job/Broc-Sp%C3%A9cialiste-Am%C3%A9lioration-Continue-1636/1456785133/",
+    "status": "matched",
+    "title": "Spécialiste Amélioration Continue",
+    "company": "Nestlé",
+    "location": "Broc, CH, 1636",
+    "posted_date": "",
+    "department": "",
+    "score": -2,
+    "matched_keywords": [],
+    "deducted_keywords": [
+      "location:Broc, CH, 1636"
+    ]
   }
 }
