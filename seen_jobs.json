@@ -88,7 +88,7 @@
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-11-08"
+    "cached_at": "2026-11-16"
   },
   "_facets:roche:roche-ext": {
     "facets": {},
@@ -96,7 +96,7 @@
       "Basel",
       "Kaiseraugst"
     ],
-    "cached_at": "2026-11-08"
+    "cached_at": "2026-11-16"
   },
   "_facets:novartis:Novartis_Careers": {
     "facets": {},
@@ -104,63 +104,63 @@
       "Basel",
       "Stein"
     ],
-    "cached_at": "2026-11-08"
+    "cached_at": "2026-11-16"
   },
   "_facets:sanofi:SanofiCareers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-11-08"
+    "cached_at": "2026-11-16"
   },
   "_facets:abbott:abbottcareers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-11-08"
+    "cached_at": "2026-11-16"
   },
   "_facets:pfizer:PfizerCareers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-11-08"
+    "cached_at": "2026-11-16"
   },
   "_facets:gsk:GSKCareers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-11-08"
+    "cached_at": "2026-11-16"
   },
   "_facets:astrazeneca:Careers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-11-08"
+    "cached_at": "2026-11-16"
   },
   "_facets:amgen:Careers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-11-08"
+    "cached_at": "2026-11-16"
   },
   "_facets:gilead:gileadcareers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-11-08"
+    "cached_at": "2026-11-16"
   },
   "_facets:modernatx:M_tx": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-11-08"
+    "cached_at": "2026-11-16"
   },
   "_facets:takeda:External": {
     "facets": {},
@@ -176,21 +176,21 @@
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-11-08"
+    "cached_at": "2026-11-16"
   },
   "_facets:msd:SearchJobs": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-11-08"
+    "cached_at": "2026-11-16"
   },
   "_facets:vrtx:Vertex_Careers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-11-08"
+    "cached_at": "2026-11-16"
   },
   "_facets:lonza:Lonza_Careers": {
     "facets": {},
@@ -199,7 +199,7 @@
       "Visp",
       "Stein"
     ],
-    "cached_at": "2026-11-08"
+    "cached_at": "2026-11-16"
   },
   "_facets:csl:CSL_External": {
     "facets": {},
@@ -209,7 +209,7 @@
       "St. Gallen",
       "Romont"
     ],
-    "cached_at": "2026-11-08"
+    "cached_at": "2026-11-16"
   },
   "_facets:alcon:careers_alcon": {
     "facets": {},
@@ -218,7 +218,7 @@
       "Hünenberg",
       "Zurich"
     ],
-    "cached_at": "2026-11-08"
+    "cached_at": "2026-11-16"
   },
   "_facets:galderma:External": {
     "facets": {},
@@ -227,35 +227,35 @@
       "La Tour-de-Peilz",
       "Lausanne"
     ],
-    "cached_at": "2026-11-08"
+    "cached_at": "2026-11-16"
   },
   "_facets:iqvia:IQVIA": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-11-08"
+    "cached_at": "2026-11-16"
   },
   "_facets:icon:broadbean_external": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-11-08"
+    "cached_at": "2026-11-16"
   },
   "_facets:parexel:Parexel_External_Careers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-11-08"
+    "cached_at": "2026-11-16"
   },
   "_facets:syneoshealth:Syneos_Health_External_Site": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-11-08"
+    "cached_at": "2026-11-16"
   },
   "_facets:myhrabc:Global": {
     "facets": {},
@@ -781,7 +781,8 @@
     "https://jobs.smartrecruiters.com/CERN/744000159621459-short-term-internship-2027-theoretical-physics?oga=true": "ignored",
     "https://beigene.wd5.myworkdayjobs.com/BeiGene/job/Basel/Executive-Assistant--Regulatory-Affairs_R37577": "ignored",
     "https://careers.ompharma.com/job/Meyrin-Sp%C3%A9cialiste-Assurance-Qualit%C3%A9-%28hf%29-Gen%C3%A8ve-Gene/1453248133/": "ignored",
-    "https://careers.ompharma.com/job/Meyrin-Regulatory-Affairs-Operations-Trainee-Geneva-Gene/1446737333/": "ignored"
+    "https://careers.ompharma.com/job/Meyrin-Regulatory-Affairs-Operations-Trainee-Geneva-Gene/1446737333/": "ignored",
+    "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Basel-City/Research-Scientist---In-Vivo-Preclinical-RLT-Pharmacology--80-100--_REQ-10088997-2": "ignored"
   },
   "_generic:Hurdle Bio": {
     "keywords": "biomarker,precision medicine"
@@ -1012,20 +1013,6 @@
     "external_url": "https://jobs.smartrecruiters.com/HUG/744000153697304-medecin-interne-en-psychiatrie-80-a-100-?oga=true",
     "status": "matched"
   },
-  "https://www.michaelpage.ch/de/job-detail/business-development-manager-100/ref/jn-082026-7090776?lang=en": {
-    "external_url": "https://www.michaelpage.ch/de/job-detail/business-development-manager-100/ref/jn-082026-7090776?lang=en",
-    "status": "ignored",
-    "title": "Business Development Manager (a) 100%",
-    "company": "Michael Page Switzerland",
-    "location": "Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": -2,
-    "matched_keywords": [],
-    "deducted_keywords": [
-      "location:Switzerland"
-    ]
-  },
   "https://www.michaelpage.ch/job-detail/analytics-and-business-intelligence-analyst-12-month-contract/ref/jn-092026-7105923": {
     "external_url": "https://www.michaelpage.ch/job-detail/analytics-and-business-intelligence-analyst-12-month-contract/ref/jn-092026-7105923",
     "status": "ignored",
@@ -1240,11 +1227,6 @@
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000157094440-export-control-compliance-lead-osi-ics-2026-212-ld-?oga=true",
     "status": "matched"
   },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000157392879": {
-    "description": "Are you a creative communicator who enjoys turning complexity into stories people can understand and relate to? Are you interested in people, transformation and the role communication can play in bringing the two together?\nJoin CERN's Human Capital Management (HCM) project and help us communicate one of the Organization's major transformations. HCM will reshape the HR systems and processes supporting people throughout their working lives at CERN, creating a more connected experience from recruitment to departure.\nAs part of the HCM Change and Adoption team, you will help bring this transformation closer to CERN's diverse community. You will contribute to shaping our communications approach and turn it into clear, engaging, audience-focused communications that help people understand what is changing, why it matters, and what it means for them.\nYour responsibilities:\nTranslate the HCM project's communication strategy into concrete communication activities.\nPlan and deliver communications around the project milestones, managing multiple deliverables and deadlines autonomously.\nTurn complex information into clear and engaging messages for different audiences, working closely with experts and stakeholders.\nCreate content across a broad range of channels and formats, including posts, emails, webpages, presentations, one-pagers, communication toolkits, videos and other multimedia content.\nManage HCM communication channels and editorial planning.\nContribute to wider change and adoption activities such as surveys and learning materials.\nYour profile\nProfessional experience in communications, ideally in organisational change, large-scale transformation project, or another complex multistakeholder environment.\nDemonstrated ability translating complex information into clear and engaging content for different audiences.\nExperience managing communication activities and an editorial calendar against multiple deadlines and milestones.\nExperience with common content creation, web, presentation and visual communication tools; experience creating or coordinating video/multimedia content would be an advantage.\nProactive, collaborative and eager to learn in a dynamic project environment.\nSkills:\nExcellent written and verbal communication skills in English; knowledge of French an advantage.\nAbility to communicate with clarity, creativity and attention to detail.\nStrong organisation skills and ability to manage multiple activities and deadlines.\nCollaborative and confident working with people from different backgrounds and areas of expertise.\nSpoken and written English, with a commitment to learn French.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nYou have a professional background in Communications, Marketing or related (or a related field) and have either:\na Master's degree with 2 to 6 years of post-graduation professional experience;\nor a PhD with no more than 3 years of post-graduation professional experience.\nYou have never had a CERN fellow or graduate contract before.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000157392879-communications-specialist-hr-pxe-2026-164-grap-?oga=true",
-    "status": "matched"
-  },
   "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000157394735": {
     "description": "Vous assurez en étroite collaboration avec votre hiérarchie, la direction d’une unité de soins, la coordination des activités pratiques, les interventions cliniques, thérapeutiques ou chirurgicales de la patientèle qui vous est confiée.\nVous êtes responsable, sous la supervision de votre hiérarchie directe, des actes médicaux relevant du service.\nVous garantissez la qualité des prestations médicales dans les unités de soins y compris dans des activités aigues de type soins intermédiaires et dans le service des urgences adultes, incluant des périodes de garde.\nVous procédez à des actes diagnostiques ou thérapeutiques interventionnels dans les domaines définis par le médecin-chef de service.\nVous contribuez à la formation et accompagnez de manière efficiente les médecins internes et médecins stagiaires dans leur développement de compétences.\nVous assurez des activités de formation, tel que la participation aux séminaires, colloques ou conférences de formation théorique interne et y contribuez par des présentations.\nVous poursuivez vos objectifs de formation selon le plan de formation postgraduée et/ou les exigences de l’ISFM-FMH pour le titre de spécialité envisagé ou la conservation de celui-ci.\nVous participez aux activités de recherche en cours dans le service et participer à l’évaluation de la formation suivie et du degré d’atteinte de ses objectifs.",
     "external_url": "https://jobs.smartrecruiters.com/HUG/744000157394735-chef-ou-cheffe-de-clinique-au-service-de-medecine-interne-generale-100-?oga=true",
@@ -1348,7 +1330,7 @@
     "title": "Experienced Clinical Scientist/Medical monitor in neurosciences",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-16",
+    "posted_date": "2026-10-17",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -1366,7 +1348,7 @@
     "title": "Sr. Scientist - Computational & Applied AI",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-16",
+    "posted_date": "2026-10-17",
     "department": "",
     "score": 8,
     "matched_keywords": [
@@ -1388,7 +1370,7 @@
     "title": "Experienced Discovery Scientist in Immunology",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-16",
+    "posted_date": "2026-10-17",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -1412,7 +1394,7 @@
     "title": "Post Doctorate Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-16",
+    "posted_date": "2026-10-17",
     "department": "",
     "score": 8,
     "matched_keywords": [
@@ -1434,7 +1416,7 @@
     "title": "Cardio-Renal Discovery & Scientific Strategy Area Leader",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-16",
+    "posted_date": "2026-10-17",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -1455,7 +1437,7 @@
     "title": "\"Principal Scientist siRNA Design",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-16",
+    "posted_date": "2026-10-17",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1471,7 +1453,7 @@
     "title": "Translational Medicine Director/Associate*- Cardiovascular & Metabolic",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-10-16",
+    "posted_date": "2026-10-17",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -1795,11 +1777,6 @@
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000159641998-short-term-internship-2027-procurement?oga=true",
     "status": "matched"
   },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000159670229": {
-    "description": "Do you enjoy building, assembling and bringing machines to life?\nJoin CERN and contribute to the development of advanced electro-mechanical equipment used in a unique high-technology environment. Working alongside experienced engineers and technicians, you will take part in the design, assembly, wiring, testing and commissioning of specialised machines, gaining hands-on experience across electrical, mechanical and control systems.\nWe will provide all the training you need. What matters most is your curiosity, practical mindset, and eagerness to learn.\nYour responsibilities\nLearn how to inspect and test advanced materials, carrying out quality checks and measurements to ensure they meet specifications.\nSupport laboratory testing activities and help evaluate how materials behave under different mechanical conditions.\nGain hands-on experience in creating electrical diagrams, wiring equipment, programming PLCs, and commissioning electro-mechanical machines.\nParticipate in the assembly, testing and operation of specialised machinery used in a cutting-edge engineering environment.\nWork with experienced engineers and technicians to integrate new materials into innovative cables and coils for future technologies.\nMore information here.\nYour profile\nBasic experience in electrical testing or material testing.\nBasic experience in reading and drawing of circuit diagrams.\nExperience in the cabling and commissioning of electrical cabinets or machines is an advantage.\nExperience in mechanical assembly is an advantage.\nSkills\nKnowledge in instrumentation and data acquisition is an advantage.\nAble to work independently and in teams.\nReliable and autonomous.\nSpoken and written English or French, with a commitment to learn the other language.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nBy the application deadline, you have a maximum of two years of professional experience since graduation in Electrical and Electronics Engineering (or a related field) and your highest educational qualification is a general secondary education diploma.\nYou have never had a CERN fellow or graduate contract before.\nApplicants with a Bachelor's, Master's or PhD degree are not eligible.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000159670229-electro-mechanical-technician-te-msc-hsd-2026-193-grae-?oga=true",
-    "status": "matched"
-  },
   "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000159674359": {
     "description": "La DAI recherche un ou une auditrice interne pour compléter son équipe composée de 6 auditeurs et auditrices internes.\nDans ce cadre, vous avez comme principales missions de planifier, conduire et documenter les missions d’audit selon la méthodologie définie. Vous identifiez et analysez les risques et vous évaluez le système de contrôle interne mis en place par les HUG pour les limiter.\nVous rédigez des rapports d’audit pertinents, clairs et succincts avec des recommandations apportant une valeur ajoutée puis vous assurez un suivi des recommandations émises.\nVous informez régulièrement le Directeur de la DAI sur le déroulement de vos activités et les faits importants constatés. Vous présentez clairement et succinctement les rapports et constatations au Directeur de la DAI ainsi qu’aux responsables des domaines audités.\nPar ailleurs, vous êtes une personne référente à l’interne pour toute question, information, documentation liée aux procédures et directives institutionnelles ainsi qu’au cadre légal cantonal ou fédéral.\nEnfin, vous contribuez à la simplification des processus internes en faisant valoir l’intelligence collective.\nVous avez un intérêt marqué par le domaine de la gestion hospitalière au sein d’un hôpital universitaire et souhaitez participer directement à l’amélioration continue de la prise en charge des patients et patientes et de la qualité des soins.",
     "external_url": "https://jobs.smartrecruiters.com/HUG/744000159674359-auditeur-ou-auditrice-interne-100-?oga=true",
@@ -2116,7 +2093,7 @@
     "title": "Senior QC Scientist 80-100%",
     "company": "Lonza",
     "location": "CH - Visp",
-    "posted_date": "2026-10-16",
+    "posted_date": "2026-10-17",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -2433,18 +2410,6 @@
       "location:Region: Ostschweiz, Switzerland"
     ]
   },
-  "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-scientist-qa-bern-892890/1": {
-    "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-scientist-qa-bern-892890/1",
-    "status": "ignored",
-    "title": "Scientist QA(m/f/d)",
-    "company": "Hays Switzerland",
-    "location": "Bern, Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": 0,
-    "matched_keywords": [],
-    "deducted_keywords": []
-  },
   "/job/Switzerland---Baar/Medical-Science-Liaison--MSL--GI-Switzerland--100---W-CH_R-263826": {
     "description": "Medical Science Liaison (MSL) GI Switzerland (100%) W-CH\n\nIn this function, you will be a scientific expert in the field (70–80% field time), with a specific focus on engaging in high-level scientific exchange, building and maintaining peer-to-peer relationships with external experts, understanding and uncovering unmet medical needs, and generating relevant insights. In addition, you will support the cross-functional team active in the Therapeutic Area of gastrointestinal cancer to ensure that they can optimally contribute to their specific tasks.\n\nYour main tasks\nWork in a cross-functional brand team as a medical-scientific expert in the therapeutic area.\nHelp develop the medical product strategy and its implementation within the framework of the brand plan, based, among other things, on the customer insights you gather in the field.\nBuild and maintain peer-level relationships with key external experts (70–80% field time) to support the understanding of the Swiss market and clinical dynamics and to engage with the medical/scientific community in a highly credible, balanced, and objective manner, representing AstraZeneca’s dedication to and excellence in science.\nDevelop solid Field Engagement Plans and cross-functional Account Management Plans.\nWork closely with Regulatory, Market Access, Marketing, and other functions on field-related medical issues and help support the oncology compounds throughout their entire lifecycle.\nSupport local, regional, and global AstraZeneca clinical research programs and externally sponsored research projects.\nHelp create meaningful real-world evidence data-generation projects in collaboration with the brand team across the lifecycle of the brands in your therapeutic areas.\nProvide medical-scientific input on our sales promotion and other activities, including their implementation and potentially the materials used.\nHelp set up and provide medical-scientific training and further education in your therapeutic area for the sales force and other AZ personnel.\nOrganize and execute scientific events such as symposia and other educational initiatives for healthcare professionals.\nOrganize and participate in (regional) advisory board meetings.\nBuild and maintain expertise in your therapeutic area through continuous education and participation in national and international congresses and AstraZeneca events.\nSupport the Medical Governance Team (Medical Information / Patient Safety) in handling external medical and scientific requests.\nEnsure compliance with all local regulatory requirements and AstraZeneca Local and Global Policies and Guidelines.\n\nYour Profile\nUniversity degree in a health-related scientific field, such as an MD or PhD.\nGood understanding of the execution of field medical affairs plans; previous knowledge of oncology is a strong plus.\nProfessional experience working in the pharmaceutical industry, preferably as an MSL or within Medical Affairs in the therapeutic area mentioned above; experience in clinical research will also be considered and is a plus.\nThorough knowledge of local regulatory and market access requirements related to medical affairs activities.\nComprehensive knowledge of the legal and ethical framework and procedural guidelines that apply to the promotion and approval of medicinal products in Switzerland (Pharmacodex, Compliance).\nQuick self-learner with the ability and willingness to work both in a team and independently.\nStrong communication and presentation skills.\nVery good spoken and written French and English.\nGood written and spoken German is a plus.\nHigh level of scientific knowledge and ability to analyze and process clinical and scientific data.\nExperience liaising with healthcare professionals.\nExceptional written and verbal communication skills, including the ability to communicate complex technical, scientific, or medical information to a broad range of audiences.\nDriving license and willingness to drive throughout Switzerland.\n\nWe offer\nA lively, interesting, and international environment.\nAn exciting challenge in a successful pharmaceutical company with a highly innovative product portfolio.\nAn attractive package, including a company car, rounds off this interesting offer.\n\nWhy AstraZeneca?\nWe are dedicated to being a Great Place to Work, where you are empowered to push the boundaries of science and unleash your entrepreneurial spirit. There is no better place to make a difference to medicine, patients, and society.\nWe foster an inclusive culture that champions diversity, collaboration, and continuous learning, while supporting personal and professional growth. We are on an exciting journey to pioneer the future of healthcare.\nJoin us and become part of an innovation-driven company that continues to stand among the leaders in the biopharmaceutical industry.\nWe look forward to receiving your application!\n\nDate Posted11-Nov-2026\n\nClosing Date18-Nov-2026\n\nAstraZeneca embraces diversity and equality of opportunity.  We are committed to building an inclusive and diverse team representing all backgrounds, with as wide a range of perspectives as possible, and harnessing industry-leading skills.  We believe that the more inclusive we are, the better our work will be.  We welcome and consider applications to join our team from all qualified candidates, regardless of their characteristics.  We comply with all applicable laws and regulations on non-discrimination in employment (and recruitment), as well as work authorization and employment eligibility verification requirements.",
     "external_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/Switzerland---Baar/Medical-Science-Liaison--MSL--GI-Switzerland--100---W-CH_R-263826",
@@ -2590,11 +2555,6 @@
     "external_url": "https://jobs.smartrecruiters.com/HUG/744000161439640-service-civil-affectation-d-aide-physiotherapeute-sur-le-site-de-crans-montana-100-?oga=true",
     "status": "matched"
   },
-  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000161437850": {
-    "description": "Le poste est rattaché au groupe de physique médicale du DDIAG, composé de cinq physiciens médicaux. Votre mission travail s’inscrit dans le cadre d’un projet visant à mettre en place un protocole de suivi pour les patientes et patients ayant reçu, lors d’actes de radiologie ou de cardiologie interventionnelle, une dose cutanée susceptible d’induire des effets déterministes. En effet, à partir d’un certain seuil de dose, des réactions tissulaires peuvent apparaître, allant d’érythèmes transitoires à des lésions cutanées plus sévères (alopécie localisée, desquamations sèches ou humides, voire nécroses dans les cas extrêmes).\nCe stage s'inscrit dans la continuité d'un précédent projet de master et visera à poursuivre et approfondir les travaux déjà réalisés.\nLors de votre stage, vous estimez la dose maximale reçue par la peau à partir des données fournies par les installations d’imagerie interventionnelle, ceci afin de mieux identifier les patients à risque et de déclencher un suivi clinique approprié. Pour cela, vous réalisez des mesures en salle d’intervention ainsi que des calculs basés sur des méthodes Monte Carlo.\nVous possédez de solides connaissances en dosimétrie appliquée au domaine médical (Ces connaissances pourront également être acquises lors du début de votre master).",
-    "external_url": "https://jobs.smartrecruiters.com/HUG/744000161437850-stage-de-master-en-physique-medicale-100-?oga=true",
-    "status": "matched"
-  },
   "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000161440399": {
     "description": "Vous assumez sous la supervision de la hiérarchie médicale, les soins médicaux des patients et patientes confiées, les activités pratiques, les interventions cliniques et thérapeutiques.\nVotre sens de l'organisation et votre capacité à travailler de manière efficace vous permettent d'assurer l’application des règles et des procédures internes, tout en garantissant la qualité des prestations médicales apportées.\nVous suivez une formation postgrade en médecine interne générale ou vous devez accomplir une année à option dans le cadre d’autres filières postgrades.\nVotre goût pour les contacts humains, le travail en équipe et la collaboration interdisciplinaire vous permettent de contribuer à la formation des médecins stagiaires.\nEn vous appuyant sur votre empathie et votre excellente capacité de communication, vous participez au développement de la prise en charge globale et interdisciplinaire du patient ou de la patiente.\nVous contribuez au développement de l'enseignement thérapeutique et de différents projets institutionnels au sein de la Clinique démontrant votre sens des priorités et votre esprit de synthèse.\nVous garantissez des prestations médicales de qualité, tant sur le plan clinique et administratif qu'organisationnel.\nVous êtes amenée ou amené  à effectuer des services de piquet",
     "external_url": "https://jobs.smartrecruiters.com/HUG/744000161440399-medecin-interne-crans-montana-100-?oga=true",
@@ -2609,20 +2569,6 @@
     "description": "Au sein du Service maintenance et optimisation des infrastructures (SMOI), vous prenez la responsabilité du secteur Electricité dont les installations sont critiques pour la sécurité de notre patientèle et le fonctionnement de l’institution.\nÀ ce titre, vous pilotez l’ensemble des activités de maintenance, d’exploitation et de développement de ces installations techniques à haute sensibilité.\nVous définissez les objectifs opérationnels de votre secteur en cohérence avec la stratégie du service et en assurez le déploiement auprès de votre équipe.\nVous gérez une équipe de techniciennes et techniciens en les responsabilisant et en leur apportant le soutien et l’encadrement nécessaires au bon fonctionnement du secteur. Vous formez et donnez un support aux collaborateurs et collaboratrices exploitant les installations électriques.\nVous assurez la gestion des activités et des ressources humaines, matérielles et financières, en garantissant le respect des normes, des délais et des budgets.\nVous veillez à la conformité réglementaire des installations sous votre responsabilité, et garantissez un haut niveau de sécurité et de fiabilité des équipements.\nVous mettez en place et suivez des indicateurs de performance permettant de piloter l’efficacité de la maintenance préventive et curative, afin d’optimiser continuellement les pratiques de votre secteur.\nVous conduisez des projets techniques (mise en conformité, renouvellement d’installations, amélioration continue), en collaboration avec les services internes et partenaires externes.\nVous assurez une veille technologique et réglementaire afin d’anticiper les évolutions nécessaires des installations en lien avec les exigences médicales et les standards de sécurité.\nManager d’équipes spécialisées, vous veillez au développement des compétences, à la transmission du savoir-faire et à l’engagement de vos collaborateurs et collaboratrices. Vous favorisez une culture d’exigence, de collaboration et d’amélioration continue.\nEn tant que responsable technique, vous êtes titulaire de l’autorisation générale d’installer au sens de l’article 9 de l’OIBT. Vous êtes également l’ « Exploitant d’installation » au sens de l’OICF et de la directive ESTI 100.\nVous êtes également un interlocuteur ou une interlocutrice clé des utilisateurs et utilisatrices, en les conseillant sur les solutions techniques adaptées et en priorisant les interventions en fonction des enjeux de sécurité et de continuité des soins.",
     "external_url": "https://jobs.smartrecruiters.com/HUG/744000161474219-cheffe-ou-chef-du-secteur-electricite-100-?oga=true",
     "status": "matched"
-  },
-  "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-msat-associate-principal-scientist-visp-902295/1": {
-    "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-msat-associate-principal-scientist-visp-902295/1",
-    "status": "matched",
-    "title": "MSAT Associate Principal Scientist(m/f/d)",
-    "company": "Hays Switzerland",
-    "location": "Visp, Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": -2,
-    "matched_keywords": [],
-    "deducted_keywords": [
-      "location:Visp, Switzerland"
-    ]
   },
   "/job/Basel/Compound-Logistics-Workflow-and-Integration-Scientist_202611-128615": {
     "description": "At Roche you can show up as yourself, embraced for the unique qualities you bring. Our culture encourages personal expression, open dialogue, and genuine connections,  where you are valued, accepted and respected for who you are, allowing you to thrive both personally and professionally. This is how we aim to prevent, stop and cure diseases and ensure everyone has access to healthcare today and for generations to come. Join Roche, where every voice matters.\n\nThe Position\nAt Roche, we believe it’s urgent to deliver medical solutions right now – even as we develop innovations for the future. We are passionate about transforming patients’ lives and we are fearless in both decision and action. And we believe that good business means a better world. That is why we come to work each day. We commit ourselves to scientific rigor, unassailable ethics, and access to medical innovations for all. We do this today to build a better tomorrow.\n\nIn the Small Molecule Research department (SMR) in Pharma Research and Early Development (pRED), we generate molecular insights, and drive the discovery and development of small molecules from initial starting points to clinical candidates across the pRED discovery portfolio. In the Compound Library Enhancement and Logistics (CLEL) team, we supply research samples for all SMR portfolio projects and serve as the custodians of the Roche Corporate Compound Collection. Using state-of-the-art automation platforms and digital workflows, our mission is to enable drug discovery projects with the supply of proprietary chemical space and the timely delivery of research samples that can be subjected to biological assays. \n\nAs the CLEL team is spearheading novel digital processes and AI-augmented drug discovery workflows, we are seeking an analytical and forward-thinking scientist to join our team in the Roche Innovation Center Basel and contribute to the exploration and implementation of next-generation end-to-end sample logistics workflows. \n\nThe position:\nIn this role, you will focus on building the next-generation workflow engines that track, plan, and securely connect decisions across our entire automated IT infrastructure. You will serve as a key business analyst, modernizing legacy systems, eliminating static steps, and replacing them with fully automated, FAIR-compliant, interoperable workflows and data foundations built for scalable automation and AI that keep the drug discovery path moving at maximum velocity.\nThis role will deliver efficiency gains by lowering business process overhead and improve coordination. It will also increase visibility and develop new planning capabilities leading to better decisions on investments and strategic resource planning, resulting in streamlined sample delivery and data processes.\nSpecifically, you will:\nScope, design and engineer an interconnected next-generation business workflow engine capable of mapping, tracking, and capturing decisions and data across automated business processes.\nDevelop solutions to lower technical barriers for sample, data and information transfer, as well as decision-making at the interface of internal or external stakeholder-facing systems.\nSupport compliance workflows in sample and data management (i.e. sample decisions, documentation), as well as overhaul automated compound QC workflows towards AI-assisted data analysis pipelines.\nPartner with automation engineers and laboratory staff to generate business dashboards and track key performance indicators (KPIs) and interface effectiveness to key stakeholders.\nShape and drive our ongoing transition to AI-based software development: build and maintain tools together with AI coding assistants, and establish the practices (review, testing, documentation) that keep AI-generated solutions reliable and future-oriented.\nDesign and implement agentic workflows in which AI agents carry out multi-step tasks such as data analysis, issue diagnosis and routine operations, with clear human oversight and safeguards for operational systems and data.\nAct as expert point of contact for operational workflows: shape the evolution of our system landscape, develop solutions with emerging AI technologies, and contribute to the architecture of future tools.\n\nWho you are:\nYou’re someone who wants to influence your own development. You’re looking to be part of a dynamic and cutting-edge organization where you have the opportunity to pursue your interests across functions and tasks. You are interested in making an impact by providing solutions, reducing complexity and connecting essential elements of the drug discovery process and are passionate about applying state-of-the-art technology and science to the biopharmaceutical industry.\n\nYou have a university degree, preferably an M.S. or B.S. in computer science, cheminformatics, a life science or another scientific discipline with a strong computational focus, or show equivalent practical experience and expertise in laboratory automation and research informatics.\nYou have exceptionally structured thinking and problem-solving skills, with the ability to bridge physical logistics with software logic. You can also translate complex thoughts into practical, robust, applications and solutions.\nYou have a solid experience in Business Analysis (BA), process mapping, or operations engineering, specifically within a pharmaceutical or biotechnology research facility.\nYou must be familiar with laboratory information flows, sample management logistics, and automated compound QC workflows.\nYou are comfortable working with and taking ownership of software-based solutions, from Python, SQL and relational databases to version-controlled codebases, testing, deployment and operation in server-based environments.\nYou have hands-on experience with agentic AI tools (e.g. Claude Code, GitHub Copilot) used for real work beyond chat: handing over multi-step tasks, giving AI agents the right context, and critically verifying what they produce.\nYou have strong interpersonal skills to influence, advise and collaborate with experts, vendors and IT partners in a matrix environment to jointly move projects forward.\nYour profile is rounded off by having good presentation and communication skills in English.\n\nThe scientific title of this position might be adjusted depending on the experience and seniority of the final candidate.\nIf you are proud of contributing and feel you have the dedication to teamwork and innovation that we are seeking, then Roche is the organization for you. Every role at Roche plays a part in making a difference to patients’ lives. If you want to work in a passionate team, make your mark and improve lives, apply now.\n\n \n \n\nWho we are\nA healthier future drives us to innovate. Together, more than 100’000 employees across the globe are dedicated to advance science, ensuring everyone has access to healthcare today and for generations to come. Our efforts result in more than 26 million people treated with our medicines and over 30 billion tests conducted using our Diagnostics products. We empower each other to explore new possibilities, foster creativity, and keep our ambitions high, so we can deliver life-changing healthcare solutions that make a global impact.\n\nLet’s build a healthier future, together.\n\nRoche is an Equal Opportunity Employer.",
@@ -3052,7 +2998,7 @@
     "title": "Manager, Quality & Regulatory Operations",
     "company": "Danaher",
     "location": "Neuchâtel, Switzerland",
-    "posted_date": "2026-11-05",
+    "posted_date": "2026-11-04",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -3085,7 +3031,7 @@
     "title": "Intern - Histology Scientist",
     "company": "Labcorp",
     "location": "CHE - Geneva - 7 rue Moise-Marcinhes",
-    "posted_date": "2026-10-16",
+    "posted_date": "2026-10-17",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -3119,7 +3065,7 @@
     "title": "Intern - Flow Cytometry Scientist",
     "company": "Labcorp",
     "location": "CHE - Geneva - 7 rue Moise-Marcinhes",
-    "posted_date": "2026-10-16",
+    "posted_date": "2026-10-17",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -3135,7 +3081,7 @@
     "title": "Intern - Bioinformatics",
     "company": "Labcorp",
     "location": "CHE - Geneva - 7 rue Moise-Marcinhes",
-    "posted_date": "2026-10-16",
+    "posted_date": "2026-10-17",
     "department": "",
     "score": 8,
     "matched_keywords": [
@@ -3154,7 +3100,7 @@
     "title": "Senior Associate Clinical Trials Regulatory Affairs",
     "company": "Amgen",
     "location": "Switzerland - Rotkreuz",
-    "posted_date": "2026-10-16",
+    "posted_date": "2026-10-17",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -3169,7 +3115,7 @@
     "title": "Consultant – Qualitative Market Research & Competitive Intelligence (Switzerland)/ Part-Time",
     "company": "IQVIA",
     "location": "Zug, Switzerland",
-    "posted_date": "2026-10-16",
+    "posted_date": "2026-10-17",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -3200,12 +3146,66 @@
     "title": "Associate Principal Scientist - Analytical Project Lead 80-100% (f/m/d)",
     "company": "Lonza",
     "location": "CH - Basel",
-    "posted_date": "2026-11-15",
+    "posted_date": "",
     "department": "",
     "score": 1,
     "matched_keywords": [
       "PhD"
     ],
     "deducted_keywords": []
+  },
+  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000161750979": {
+    "description": "Do you enjoy building, assembling and bringing machines to life?\nJoin CERN and contribute to the development of advanced electro-mechanical equipment used in a unique high-technology environment. Working alongside experienced engineers and technicians, you will take part in the design, assembly, wiring, testing and commissioning of specialised machines, gaining hands-on experience across electrical, mechanical and control systems.\nWe will provide all the training you need. What matters most is your curiosity, practical mindset, and eagerness to learn.\nYour responsibilities\nLearn how to inspect and test advanced materials, carrying out quality checks and measurements to ensure they meet specifications.\nSupport laboratory testing activities and help evaluate how materials behave under different mechanical conditions.\nGain hands-on experience in creating electrical diagrams, wiring equipment, programming PLCs, and commissioning electro-mechanical machines.\nParticipate in the assembly, testing and operation of specialised machinery used in a cutting-edge engineering environment.\nWork with experienced engineers and technicians to integrate new materials into innovative cables and coils for future technologies.\nMore information here.\nYour profile\nBasic experience in electrical testing or material testing.\nBasic experience in reading and drawing of circuit diagrams.\nExperience in the cabling and commissioning of electrical cabinets or machines is an advantage.\nExperience in mechanical assembly is an advantage.\nSkills\nKnowledge in instrumentation and data acquisition is an advantage.\nAble to work independently and in teams.\nReliable and autonomous.\nSpoken and written English or French, with a commitment to learn the other language.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nBy the application deadline, you have a maximum of two years of professional experience since graduation in Electrical and Electronics Engineering (or a related field) and your highest educational qualification is a general secondary education diploma.\nYou have never had a CERN fellow or graduate contract before.\nApplicants with a Bachelor's, Master's or PhD degree are not eligible.",
+    "external_url": "https://jobs.smartrecruiters.com/CERN/744000161750979-electro-mechanical-technician-te-msc-hsd-2026-193-grae-?oga=true",
+    "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000161748300": {
+    "description": "Vous êtes intégré à l’équipe qui se compose actuellement d’un ingénieur en radioprotection et d’un technicien en radioprotection.\nCe stage a pour but de réaliser des études de poste afin d'évaluer l’exposition professionnelle aux rayonnements ionisants de différents postes afin de contribuer à l'optimisation de la radioprotection.\nVous collectez et analysez les données nécessaires à la caractérisation radiologique des postes de travail.\nVous évaluez les doses prévisionnelles associées aux activités étudiées.\nVous identifiez les facteurs influençant l'exposition des travailleurs.\nVous proposez des mesures d'optimisation techniques et organisationnelles.\nVous participez à la classification du personnel selon leur activité.\nVous rédigez et présentez les résultats des études de poste aux parties prenantes.\nToutes ces tâches impliquent une collaboration avec les services utilisateurs de rayonnements.",
+    "external_url": "https://jobs.smartrecruiters.com/HUG/744000161748300-stage-master-en-radioprotection-100-?oga=true",
+    "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000161747261": {
+    "description": "Vous êtes actuellement en formation dans le domaine des ressources humaines et souhaitez développer une expérience concrète au sein d’un environnement dynamique et stimulant ? Nous vous proposons d’intégrer l’équipe des ressources humaines du Département de médecine dans le cadre d’un stage conventionné intra-cursus d’une durée de six mois.\nL’équipe RH du Département de médecine est composée de six professionnels et professionnelles RH accompagnant au quotidien 1'500 collaborateurs et collaboratrices, ainsi que leurs responsables hiérarchiques. Vous aurez l’opportunité de découvrir une fonction RH de proximité, au cœur des enjeux humains et organisationnels d’un grand hôpital universitaire.\nAux côtés de l’équipe, vous participez au suivi administratif des collaborateurs et collaboratrices tout au long de leur parcours professionnel. Vous contribuez à la préparation de documents RH, au suivi de dossiers administratifs, à la gestion de données et à diverses activités de support indispensables au bon fonctionnement de l’équipe.\nVous apportez également votre soutien à la communication interne du département en participant à la préparation de présentations, à la mise à jour de supports d’information ainsi qu’à la diffusion de communications destinées aux collaborateurs et collaboratrices.\nAu contact direct des responsables, des collaborateurs et des partenaires internes, vous développez une compréhension concrète des activités RH de terrain. Vous êtes amené ou amenée à répondre à diverses demandes, à orienter les interlocuteurs vers les ressources adéquates et à contribuer à la qualité du service délivré par l’équipe RH.",
+    "external_url": "https://jobs.smartrecruiters.com/HUG/744000161747261-stagiaire-rh-conventionne-80-a-100-?oga=true",
+    "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000161743922": {
+    "description": "Le Centre de la mémoire est à la recherche d'une cheffe ou d'un chef de clinique avec ou sans titre de spécialité afin de renforcer son équipe dynamique.\nVous participez à l'activité clinique et de recherche du Centre et garantissez la qualité des prestations médicales.\nVous êtes en charge de la réalisation des bilans diagnostiques, des visites de suivi médical, et des actes diagnostiques tels que la ponction lombaire.\nVous contribuez au recrutement, aux bilans et suivis cliniques de la patientèle et des volontaires des essais thérapeutiques et études observationnelles du Centre de la mémoire en veillant à la surveillance de la sécurité.\nDe plus, vous collaborez à l’évolution continue des formulaires utilisés en clinique et mettez à jour les outils de recueil de données pour la recherche.\nVous contribuez à l’organisation de conférences et colloques, y compris dans le cadre de la formation continue.\nVous participez aux réunions d’équipe du Centre, à la présentation des cas au Memory board ainsi qu’aux colloques et séminaires organisés par le Centre et le Département de réadaptation et gériatrie.\nVous contribuez à l’encadrement des étudiantes et des étudiants effectuant un Master ou un stage clinique au sein du Centre.",
+    "external_url": "https://jobs.smartrecruiters.com/HUG/744000161743922-chef-ou-cheffe-de-clinique-avec-ou-sans-titre-de-specialite-au-sein-du-centre-de-la-memoire-80-a-100-?oga=true",
+    "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000161749201": {
+    "description": "Le poste est rattaché au groupe de physique médicale du DDIAG, composé de cinq physiciens médicaux. Votre mission travail s’inscrit dans le cadre d’un projet visant à mettre en place un protocole de suivi pour les patientes et patients ayant reçu, lors d’actes de radiologie ou de cardiologie interventionnelle, une dose cutanée susceptible d’induire des effets déterministes. En effet, à partir d’un certain seuil de dose, des réactions tissulaires peuvent apparaître, allant d’érythèmes transitoires à des lésions cutanées plus sévères (alopécie localisée, desquamations sèches ou humides, voire nécroses dans les cas extrêmes).\nCe stage s'inscrit dans la continuité d'un précédent projet de master et visera à poursuivre et approfondir les travaux déjà réalisés.\nLors de votre stage, vous estimez la dose maximale reçue par la peau à partir des données fournies par les installations d’imagerie interventionnelle, ceci afin de mieux identifier les patients à risque et de déclencher un suivi clinique approprié. Pour cela, vous réalisez des mesures en salle d’intervention ainsi que des calculs basés sur des méthodes Monte Carlo.\nVous possédez de solides connaissances en dosimétrie appliquée au domaine médical (Ces connaissances pourront également être acquises lors du début de votre master).",
+    "external_url": "https://jobs.smartrecruiters.com/HUG/744000161749201-stage-de-master-en-physique-medicale-100-?oga=true",
+    "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000161745304": {
+    "description": "Dans le cadre de vos activités, vous assurez le nettoyage, le bio-nettoyage, l’entretien général et spécifique et la désinfection dans l’ensemble des bâtiments hospitaliers définis dans les cahiers de tâches.\n\nVous assurez le nettoyage, le bio-nettoyage et la désinfection du mobilier et des lits.\n\nVous êtes une personne polyvalente au niveau des sites et des horaires, mais aussi des connaissances métiers (entretiens, à fonds) afin de palier à des demandes urgentes et/ou d’éventuels remplacements.\n\nVous respectez les directives du service prévention et contrôle de l’infection.",
+    "external_url": "https://jobs.smartrecruiters.com/HUG/744000161745304-agents-ou-agentes-proprete-hygiene-100-?oga=true",
+    "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000161746169": {
+    "description": "Rattaché ou rattachée au service Espace renseignements encaissements de la Direction des finances, vous assurez le pilotage, l’analyse et le développement de l’activité liée aux honoraires privés des médecins du CCAG.\nDans le cadre du pilotage et du reporting, vous assurez le reporting régulier de l’activité liée aux honoraires privés. Vous mettez en place et développez des indicateurs de suivi ainsi que des tableaux de bord destinés au pilotage de l’activité, et produisez des rapports institutionnels et individuels à l’intention des médecins.\nVous réalisez des analyses financières approfondies et mettez en place des outils d’analyse permettant de suivre l’évolution des honoraires privés et d’en mesurer les impacts financiers. Vous contrôlez également la qualité, la cohérence et la fiabilité des données financières et administratives.\nVous participez à la mise en place de la structure métier, technique et financière nécessaire à la gestion et au paiement des honoraires privés des médecins du CCAG. Vous analysez les processus existants et proposez des améliorations visant à renforcer leur efficacité et leur sécurisation, et conduisez ou participez aux projets d’optimisation des outils et des procédures.\nEnfin, vous assurez un rôle de support et de conseil auprès des différentes interlocutrices et interlocuteurs internes et accompagnez les parties prenantes dans la compréhension et l’utilisation des indicateurs de gestion et des outils de pilotage.",
+    "external_url": "https://jobs.smartrecruiters.com/HUG/744000161746169-controleur-ou-controleuse-de-gestion-en-charge-du-processus-de-remuneration-des-honoraires-prives-100-?oga=true",
+    "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000161744002": {
+    "description": "Vous avez de l'intérêt pour le domaine de la réadaptation, de l’éducation thérapeutique, pour le travail en interprofessionnalité, ainsi que pour les prises en charge groupales et les évaluations standardisées?\nForce de proposition, vous avez envie de contribuer aux projets d'une grande institution telle que les HUG et vous vous reconnaissez dans nos valeurs institutionnelles ?\nEn tant que physiothérapeute, vous participez à l'élaboration, l'application et l'évaluation des traitements conformément au bilan physiothérapeutique, au diagnostic et à la prescription médicale.\nVous réalisez la prise en charge des patientes et des patients, en individuel ou en groupe en fonction des objectifs fixés en interprofessionnalité et avec la patientèle. Vous documentez quotidiennement les dossiers (traitements effectués et informations cliniques). Vous effectuez aussi l'enregistrement des prestations fournies.\nVous assistez et participez aux colloques interdisciplinaires et aux discussions des cas.",
+    "external_url": "https://jobs.smartrecruiters.com/HUG/744000161744002-physiotherapeute-en-readaptation-et-geriatrie-au-centre-de-prevention-et-traitement-des-chutes-cptc-70-?oga=true",
+    "status": "matched"
+  },
+  "https://www.michaelpage.ch/fr/job-detail/sp%C3%A9cialiste-paie-80-100/ref/jn-112026-7145840?lang=en": {
+    "external_url": "https://www.michaelpage.ch/fr/job-detail/sp%C3%A9cialiste-paie-80-100/ref/jn-112026-7145840?lang=en",
+    "status": "matched",
+    "title": "Spécialiste Paie - CDD",
+    "company": "Michael Page Switzerland",
+    "location": "Switzerland",
+    "posted_date": "",
+    "department": "",
+    "score": -2,
+    "matched_keywords": [],
+    "deducted_keywords": [
+      "location:Switzerland"
+    ]
   }
 }
