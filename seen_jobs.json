@@ -262,28 +262,28 @@
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-11-08"
+    "cached_at": "2026-11-16"
   },
   "_facets:thermofisher:ThermoFisherCareers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-11-08"
+    "cached_at": "2026-11-16"
   },
   "_facets:danaher:DanaherJobs": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-11-08"
+    "cached_at": "2026-11-16"
   },
   "_facets:illumina:illumina-careers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-11-08"
+    "cached_at": "2026-11-16"
   },
   "_facets:qiagen:QIAGEN": {
     "facets": {},
@@ -297,14 +297,14 @@
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-11-08"
+    "cached_at": "2026-11-16"
   },
   "_facets:jsrglobal:KBI_Biopharma": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-11-08"
+    "cached_at": "2026-11-16"
   },
   "_generic:Tigen Pharma": {
     "keywords": "npp"
@@ -1059,11 +1059,6 @@
       "location:Switzerland"
     ]
   },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000154643730": {
-    "description": "Role and composition of the IC\nThe functions of the IC are laid down in Article I 2.10 of the Fund’s rules and, amongst other things, include making proposals to the PFGB regarding the Fund’s Statement of Investment Principles, reviewing the Fund’s investment performance, and monitoring the Fund’s risk tolerance.\nThe composition of the IC is laid down in Article I 2.11 of the Fund’s rules. The IC is required to have at least four members, comprising two members of the Governing Board appointed by the latter, two external professional experts appointed by the Governing Board, and any additional member(s) that the Governing Board may decide to appoint, who can be either Governing Board members with relevant experience or external experts.\nThe members of the IC are appointed for a maximum period of three years, renewable once for a further maximum consecutive period of three years.\nDescription of work\nThe IC holds four meetings per year, including a joint meeting with the PFGB, but additional meetings or conference calls may be scheduled if required. Typically, meetings last a full day and take place at CERN in Geneva, Switzerland. Professional members are expected to attend every IC meeting. Professional members are required to act in the best interests of the Fund and to abide by the CERN Code of Conduct and the Guidelines for implementation of said Code.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000154643730-cern-pension-fund-investment-committee-external-professional-expert?oga=true",
-    "status": "matched"
-  },
   "https://www.michaelpage.ch/job-detail/senior-global-regulatory-affairs-leader/ref/jn-102026-7123784": {
     "external_url": "https://www.michaelpage.ch/job-detail/senior-global-regulatory-affairs-leader/ref/jn-102026-7123784",
     "status": "ignored",
@@ -1139,11 +1134,6 @@
     "deducted_keywords": [
       "location:Switzerland"
     ]
-  },
-  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000155909350": {
-    "description": "En tant qu'assistante ou assistant en pharmacie, vous gérez au quotidien les stocks des unités de soins des HUG.\nVos tâches sont le réapprovisionnement et la révision des stocks des unités de soins, avec ou sans armoires automatisées, en concertation avec les équipes soignantes et les équipes de la logistique pharmaceutique. Vous êtes amené ou amenée à porter des charges entre 5 et 10 kg. Vous participez à des tâches et des projets de l’unité de Logistique pharmaceutique. \nLe poste nécessite une mobilité sur l’ensemble du canton de Genève. La personne recrutée sera amenée à travailler sur différents sites, notamment sur le site principal de Cluse-Roseraie et sur les sites extérieurs : Loëx, Joli-Mont, Belle-Idée, Trois-Chêne et Bellerive. \nOn reconnaît en vous votre aptitude à travailler en équipe, votre aisance relationnelle avec le personnel soignant et votre bon sens de la communication.\nVous avez le sens de l’organisation et vous savez travailler en autonomie dans une équipe pluridisciplinaire.\nVous apportez une grande rigueur dans votre travail et vous savez gérer les priorités. Vous gérez facilement des situations de stress.\nVous êtes à l'aise avec les outils informatiques et vous avez une parfaite maîtrise du français.",
-    "external_url": "https://jobs.smartrecruiters.com/HUG/744000155909350-assistante-ou-assistant-en-pharmacie-100-?oga=true",
-    "status": "matched"
   },
   "https://jobs.ashbyhq.com/adaptyv/32b4fe9e-cd0a-4600-bea3-2fe44ff781fb": {
     "description": "Adaptyv is building an automated lab that lets AI agents run biology experiments. \n\nWe're entering the era of agentic science where AI models can now design novel proteins, propose hypotheses, and iterate on experimental results. But they can't run the experiments themselves - that's still a manual, months-long process. We're building the infrastructure that gives AI agents access to the physical world.\n\nWe are one of the fastest growing biotech companies, trusted by leading biopharmas, frontier AI labs, and the techbio companies pushing the field forward. This is a rare chance to help advance some of the most important work happening in biotech today.\n\nOur automated lab is powered by a deep software + hardware stack: lab instruments worth millions of USD reverse-engineered into API-controllable hardware, dozens of devices orchestrated through complex workflows, full observability on everything that happens in the lab, processing pipelines for messy physical-world data, and AI systems that troubleshoot production results and accelerate assay development.\n\nWe’re growing rapidly and are hiring for talented people to scale and support the massive demand for AI-driven wet lab experimentation.\n\n\nABOUT THE ROLE\n\nThis is not a lab technician position. This is a senior scientist who owns assay quality, data QC and controls, and production troubleshooting across the entire experimental pipeline.\n\nThe production team runs 150+ experiments per month across expression, BLI, SPR, thermostability, and enzyme activity. When something goes wrong (failed expression, anomalous binding data, instrument artifacts), this person diagnoses the root cause and fixes it. As the assay and instrumentation portfolio expands, this person translates new R&D methods into production-ready protocols, builds robust methods that junior technicians can execute reliably, and designs comprehensive controls that enable automated QC and data processing.\n\nThis is a player-coach position. You will still run experiments personally, especially as you integrate into the lab, but you will also elevate the whole team's capabilities.\n\n\nWHAT YOU'LL DO\n\n - Troubleshoot production failures across the full pipeline. A batch of proteins isn't expressing: is it the construct design, the expression system, or the media? BLI sensorgrams look noisy: is it the sensor tips, the sample prep, or an instrument issue? You figure it out, fix it, and make the cause easier to identify next time.\n\n - Develop and document SOPs for new assays as the portfolio expands. Take methods from the R&D team and make them production-ready: robust, reproducible, and executable by junior technicians without hand-holding.\n\n - Mentor a growing production team. Set quality standards, review data, train new hires, and build a culture where people flag problems early instead of hiding them.\n\n - Work at the intersection of biology, automation, and QC. Collaborate with researchers, laboratory technicians, and automation engineers on protocol optimization for work cells, and with software on LabOS protocol integration.\n\n - Own the relationship between assay science and throughput. The easy version of every assay doesn't scale, and the scalable version often sacrifices quality. You find the right tradeoff.\n\n\nWHAT WE'RE LOOKING FOR\n\n - Deep hands-on expertise in protein production: expression (E. coli, mammalian, cell-free), purification (IMAC, SEC), and biophysical characterization (BLI and SPR at minimum). This isn't negotiable. You need to have done this work yourself, at volume.\n\n - PhD in protein biochemistry, biophysics, or a relevant field, plus 3–5 years in a production or development role at a CRO, foundry, or high-throughput lab. Academic postdocs count if the work was high-throughput and production-oriented.\n\n - Experience with high-throughput workflows. You're comfortable with 96-well plates and liquid handlers, not just single-column purifications. You've optimized protocols for scale, not just for one perfect result.\n\n - Mentorship mindset. You've managed or trained junior scientists before. You enjoy teaching and get satisfaction from watching your team grow.\n\n - Troubleshooting instinct. When data looks wrong, your first impulse is to understand why, not to rerun the experiment and hope it works.\n\n - Quality-obsessed but pragmatic. You care deeply about data quality, but you also understand that production has deadlines and sometimes \"good enough\" is the right call.\n\n - Bridge between R&D and production. You can speak both languages: the exploratory mindset of research and the reproducibility demands of production.\n\n\nDETAILS\n\n - Location: Lausanne, Switzerland (on-site)\n\n - Type: Full time\n\n - Start date: ASAP\n\n\n\nApplication deadline\n\nWe are reviewing applicants on a rolling basis.",
@@ -1681,28 +1671,6 @@
     "description": "Dans le cadre de vos fonctions vous réalisez des évaluations neuropsychologiques d’adultes suivis au sein des différentes structures de soins de la psychiatrie adulte, des centres ambulatoires de psychiatrie ainsi qu’au sein de la consultation campus biotech Neurosciences cliniques.\nVotre activité s’articule autour de patientes et patients présentant des psychopathologies variées (schizophrénie, tda-h, …) pouvant affecter la cognition, la motivation et la régulation émotionnelle.  Le travail comprend notamment l'utilisation de tests psychométriques structurés et standardisés (par ex. BACS, MATRIX MCCB) pertinents pour l'enquête standardisée dans un contexte clinique comme scientifique. Un travail de réhabilitation cognitive est également à développer.\nVous êtes amené ou amenée à collaborer avec différentes équipes :\nÉquipes multidisciplinaires de soin ambulatoire du service de psychiatrie adule (transmission des résultats et des conclusions de l’évaluation neuropsychologique)\n\nTravail de liaison avec les psychologues travaillant dans les différentes structures ambulatoires du service\n\nCollaboration avec les intervenants et intervenantes (équipes soignantes, chercheurs, …) de la consultation campus biotech neurosciences cliniques - psychiatrie\n\nVous participez également de manière active aux activités de recherche du service de psychiatrie adulte.\nPlus globalement, vous évoluez dans un environnement qui valorise la collaboration, l’expertise clinique et le partage des connaissances, au service d’une prise en charge exigeante et humaine.",
     "external_url": "https://jobs.smartrecruiters.com/HUG/744000159113808-neuropsychologue-80-?oga=true",
     "status": "matched"
-  },
-  "/job/Basel-City/Research-Scientist---In-Vivo-Preclinical-RLT-Pharmacology--80-100--_REQ-10088997-2": {
-    "description": "Salary Range:CHF76,300.00 - CHF141,700.00\n\n \nJob Description SummaryRole Type: Onsite working, #LI-Onsite\nLocation: Basel, Switzerland\nRelocation Support: This role is based in Basel, Switzerland. Novartis is unable to offer relocation support: please only apply if accessible.\n\nWhat if your expertise in in vivo oncology could help advance the next generation of radioligand therapies (RLT)? As a Research Scientist in our preclinical Radioligand Therapy team, you will develop and characterize oncology models, evaluate novel treatments, and generate insights that support our world-leading Oncology portfolio. Working collaboratively across global laboratory and project teams, you will apply your experience with rodents, pharmacology, bioanalysis, and imaging to help translate innovative science into potential new therapies for patients.\n\n \nJob Description\nKey Responsibilities \nDevelop and characterize novel in vivo oncology models to support preclinical radioligand therapy research. \nConduct efficacy studies evaluating novel radioligand therapies across oncology programs. \nPerform biodistribution studies and metabolite analyses to inform pharmacology decisions. \nConduct small-animal positron emission tomography (PET), single-photon emission computed tomography (SPECT), and computed tomography (CT) imaging studies.  \nSupport in vitro and ex vivo activities, including cell culture, flow cytometry, immunohistochemistry, immunofluorescence, autoradiography, polymerase chain reaction, and Western blotting.\n \nEssential Requirements \nBachelor's or Master's degree in Cell Biology, Medical Physics, Bioengineering, Biotechnology, Pharmacology, or a related field. \nHands-on experience with rodent handling and in vivo oncology models, including dosing, sampling, and animal welfare requirements. \nPractical in vivo experience gained within an academic or industry biomedical research laboratory. \nTraining and practical experience working safely with open radioactive sources. \nAdvanced written and spoken English, with the ability to communicate scientific findings effectively. \n\nDesirable Requirements \nExperience with positron emission tomography, single-photon emission computed tomography, or computed tomography imaging in rodents and subsequent image analysis. \nExperience with cellular and molecular biology methods. \nExperience with immunohistochemistry, tissue processing, and sectioning. \nStrong collaboration, organization, and communication skills, with experience working across interdisciplinary and cross-site teams. (e.g. cell culture, flow cytometry, immunohistochemistry, immunofluorescence, autoradiography, PCR, Western blotting) \n \nBenefits & Rewards \nAt Novartis, we’re committed to reimagining medicine together - and rewarding the people who make it happen. \n\nExpected Annual Base Salary Range for role: \n\n76,300.00 - 141,700.00 CHF Annual\n\nThe base salary offered is determined based on gender-neutral objectives, such as relevant skills, competencies and experience in accordance with the Novartis pay setting policy and upon joining Novartis will be reviewed periodically.\n\nIn addition to your base salary, you may be eligible for a performance-based bonus depending on certain performance parameters. \n\nThe rewards of being part of our team go far beyond base pay and incentives. We also offer a variety of competitive benefits in kind to help you thrive personally and professionally, such as insurance plans, retirement plans, wellbeing resources and global recognition programs. In addition, we provide flexible and hybrid working options, where possible, and minimum 14 weeks paid parental leave.\n   \nIn addition to your base salary, you may be eligible for a performance-based bonus depending on certain performance parameters. Long-term equity awards granted at group level may also be part of your package. Further details will be provided during the application process.  \n\nPay equity is a fundamental principle of our employment policy and reflects our commitment to create a diverse, equitable and inclusive environment that treats all employees with dignity and respect, as outlined in our Code of Ethics.   \n\nRead our brochure to learn more about our global total rewards offering: \nhttps://www.novartis.com/sites/novartis_com/files/novartis-life-handbook.pdf \n  \nNote: Benefits and compensation may vary by country and are subject to local legal requirements, including provisions of collective bargaining agreements where applicable. A full overview of your compensation package, including any relevant collective bargaining agreement details applicable to your role based on your employment location and Novartis employer entity, will be communicated separately to you during the application process. \n\nCommitment to Diversity and Inclusion / EEO\nNovartis is committed to building an outstanding, inclusive work environment and diverse teams’ representative of the patients and communities we serve.\n\nAccessibility and accommodation\nNovartis is committed to working with and providing reasonable accommodation to all individuals. If, because of a medical condition or disability, you need a reasonable accommodation for any part of the recruitment process, or in order to receive more detailed information about the essential functions of a position, please send an e-mail to diversity.inclusion_ch@novartis.com and let us know the nature of your request and your contact information. Please include the job requisition number in your message.\n\nWhy Novartis\nHelping people with disease and their families takes more than innovative science. It takes a community of smart, passionate people like you. Collaborating, supporting and inspiring each other. Combining to achieve breakthroughs that change patients’ lives. Ready to create a brighter future together? https://www.novartis.com/about/strategy/people-and-culture\n\n \nSkills DesiredAnalytical Thinking, Chemical Biology, Chemistry, Clinical Research, Clinical Trials, Collaboration, Curious Mindset, Data Analysis, Detail-Oriented, Ethics, Gene Therapy, Immunology, Machine Learning (ML), Mammalian Cell Culture, Medical Research, Molecular Biology, Patient Care, Science",
-    "external_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Basel-City/Research-Scientist---In-Vivo-Preclinical-RLT-Pharmacology--80-100--_REQ-10088997-2",
-    "status": "ignored",
-    "title": "Research Scientist - In Vivo Preclinical RLT Pharmacology (80-100%)",
-    "company": "Novartis",
-    "location": "Basel (City)",
-    "posted_date": "2026-11-02",
-    "department": "",
-    "score": 8,
-    "matched_keywords": [
-      "Master's degree",
-      "immunology",
-      "in vitro",
-      "in vivo",
-      "molecular biology",
-      "oncology",
-      "pharmacology",
-      "preclinical"
-    ],
-    "deducted_keywords": []
   },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000159422712": {
     "description": "What you'll do\nYou’ll take your first steps into the world of work at CERN — a place where learning and discovery go hand in hand. You’ll join a team of experts and contribute to real projects that connect science, technology and innovation. Every day will bring opportunities to learn new skills, explore your interests and see how your studies come to life.\nYour responsibilities\nSupport experienced professionals in their daily activities.\nLearn and apply new tools or methods relevant to your area of study.\nContribute to small-scale projects under the guidance of your supervisor.\nCollaborate with people from diverse backgrounds and share ideas in an international environment.\nYour profile\nYou are currently studying in a physics field.\nYou are required or encouraged by your university to complete a practical training period.\nYou are eager to develop your skills through on-the-job learning.\nYou enjoy teamwork and learning from others in a collaborative setting.\nYour skills\nFundamental knowledge in your field of study.\nCuriosity, precision and a proactive attitude towards learning.\nGood communication skills and ability to work effectively in a multicultural team.",
@@ -3084,7 +3052,7 @@
     "title": "Manager, Quality & Regulatory Operations",
     "company": "Danaher",
     "location": "Neuchâtel, Switzerland",
-    "posted_date": "2026-11-04",
+    "posted_date": "2026-11-05",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -3099,7 +3067,7 @@
     "title": "Business Development Director",
     "company": "KBI Biopharma",
     "location": "Switzerland - Plan-les-Ouates",
-    "posted_date": "2026-10-16",
+    "posted_date": "2026-10-17",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -3224,5 +3192,20 @@
     "deducted_keywords": [
       "CRA"
     ]
+  },
+  "/job/CH---Basel/Associate-Principal-Scientist---Analytical-Project-Lead-80-100---f-m-d-_R80779": {
+    "description": "The actual location of this job is in Basel Stücki, Switzerland. Relocation assistance is available for eligible candidates and their families, if needed.\nThis is a fully site‑based role. Working together in person supports close, real‑time collaboration and the technical precision needed to manufacture medicines to the highest quality and safety standards.\n \nFor our successful Drug Product focused branch located in Basel and Stein, Switzerland, we have exciting opportunities. Become part of a group that enables its customers to meet some of the greatest challenges in patient treatment and join us by applying for this Associate Principal Scientist position.\n \nWhat you will get:\nAn agile career and a dynamic work culture\nAn inclusive and ethical workplace\nCompensation programs that recognize high performance\n \n\nWhat you will do:\nLead analytical discussions with customers and interface with subject Matter Experts (SME) representing all DPS Analytics groups\nEnsure project timelines and deliverables are visible and maintained in relevant planning tools\nOversee delivery of analytical milestones by liaising with relevant DPS Analytics executional groups\nSupport Project Leads with analytical SOWs and engage with SMEs as well as amendments team as required\nSet-up strategy for DPS analytical programs: Control strategy, specifications, analytical method lifecycle, platform methods/ product-specific methods\nMaintain up-to-date knowledge of assigned molecules as well as method strategy, industry issues/trends and pharmacopeia\nManage development and evaluation of analytical methods and technologies to support formulation development and Drug Product testing (GMP and non-GMP, specifically including HPLC and CE purity methods, content by UV, color, clarity and opalescence, pH, osmolality, extractable volume, CCI, visual inspection).\nContribute to the design and set up of analytical development processes across DPS\nAdhere to cGMP regulations as required\n \n\nWhat we are looking for:\nPhD degree in Analytical Chemistry, Biochemistry, Pharmaceutical Sciences or related field\nIndustrial work experience in analytical development and/or QC, preferably with cGMP experience\nExperience with analytical lifecycle for biotechnology products, CMC requirements for regulatory filings and working in a matrix organization highly desired\nVery good working knowledge in all relevant analytical techniques \nExperience with parenteral dosage forms and protein analytics\nAbility to interpret complex analytical data\nCapability to work independently and in a team environment\nExcellent communication, supervisory, reporting and scientific skills\nFluent in English, written and spoken\n \n\nAbout Lonza\nAt Lonza, our people are our greatest strength. With 30+ sites across five continents, our globally connected teams work together every day to manufacture the medicines of tomorrow. Our core values of Collaboration, Accountability, Excellence, Passion and Integrity reflect who we are and how we work together. Everyone’s ideas, big or small, have the potential to improve millions of lives, and that’s the kind of work we want you to be part of.\n\nInnovation thrives when people from all backgrounds bring their unique perspectives to the table. At Lonza, we value diversity and are committed to creating an inclusive environment for all employees. If you’re ready to help turn our customers’ breakthrough ideas into viable therapies, we look forward to welcoming you on board.\n\nReady to shape the future of life sciences? Apply now.",
+    "external_url": "https://lonza.wd3.myworkdayjobs.com/Lonza_Careers/job/CH---Basel/Associate-Principal-Scientist---Analytical-Project-Lead-80-100---f-m-d-_R80779",
+    "status": "matched",
+    "title": "Associate Principal Scientist - Analytical Project Lead 80-100% (f/m/d)",
+    "company": "Lonza",
+    "location": "CH - Basel",
+    "posted_date": "2026-11-15",
+    "department": "",
+    "score": 1,
+    "matched_keywords": [
+      "PhD"
+    ],
+    "deducted_keywords": []
   }
 }
