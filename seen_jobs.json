@@ -9,7 +9,7 @@
     "keywords": "npp"
   },
   "_generic:Charles River Laboratories": {
-    "keywords": "regulatory"
+    "keywords": "regulatory,scientist"
   },
   "_generic:MoonLake Immunotherapeutics": {
     "keywords": "clinical development,medical affairs"
@@ -354,14 +354,14 @@
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-11-12"
+    "cached_at": "2026-11-20"
   },
   "_facets:revvity:External": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-11-12"
+    "cached_at": "2026-11-20"
   },
   "_facets:alirahealth:AliraHealth": {
     "facets": {},
@@ -1133,7 +1133,7 @@
     "title": "Senior Scientist in Flow Cytometry",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-21",
+    "posted_date": "2026-10-22",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -1155,7 +1155,7 @@
     "title": "Scientist – Oligonucleotide Chemistry & Innovation",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-20",
+    "posted_date": "2026-10-21",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1171,7 +1171,7 @@
     "title": "Lab Scientist, Microscopy",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-20",
+    "posted_date": "2026-10-21",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1191,7 +1191,7 @@
     "title": "Experienced Clinical Scientist/Medical monitor in neurosciences",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-20",
+    "posted_date": "2026-10-21",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -1209,7 +1209,7 @@
     "title": "Sr. Scientist - Computational & Applied AI",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-20",
+    "posted_date": "2026-10-21",
     "department": "",
     "score": 8,
     "matched_keywords": [
@@ -1231,7 +1231,7 @@
     "title": "Experienced Discovery Scientist in Immunology",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-20",
+    "posted_date": "2026-10-21",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -1255,7 +1255,7 @@
     "title": "Post Doctorate Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-20",
+    "posted_date": "2026-10-21",
     "department": "",
     "score": 8,
     "matched_keywords": [
@@ -1277,7 +1277,7 @@
     "title": "Cardio-Renal Discovery & Scientific Strategy Area Leader",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-20",
+    "posted_date": "2026-10-21",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -1298,7 +1298,7 @@
     "title": "\"Principal Scientist siRNA Design",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-20",
+    "posted_date": "2026-10-21",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1314,7 +1314,7 @@
     "title": "Translational Medicine Director/Associate*- Cardiovascular & Metabolic",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-10-20",
+    "posted_date": "2026-10-21",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -1338,7 +1338,7 @@
     "title": "Scientist – Assay Data, AI & Workflows",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-29",
+    "posted_date": "2026-10-30",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1398,7 +1398,7 @@
     "title": "Data Scientist / Engineer - DNA-Encoded Library Technology (DELT)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-29",
+    "posted_date": "2026-10-30",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1415,7 +1415,7 @@
     "title": "Scientific AI Platform Lead, Data Science, Disease Area X",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-10-30",
+    "posted_date": "2026-10-31",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -1445,11 +1445,6 @@
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000159138910": {
     "description": "Join CERN's Polymer Laboratory within the Superconducting Magnet Technology section and contribute to the development and qualification of advanced polymer and composite materials.\nIn this role, you will take part in the design, validation and implementation of innovative materials for high-field superconducting magnets.\nYour responsibilities:\nContribute to the development of novel polymer and composite materials for superconducting magnets, with particular emphasis on cryogenic operation, high-voltage insulation and radiation resistance.\nDesign and validate manufacturing and processing techniques for superconducting magnet insulation systems.\nContribute to the laboratory developments by identifying material technologies and processing techniques, as well as establishing new experimental capabilities.\nYour profile:\nExperience in material characterisation techniques, such as mechanical, thermal or chemical analyses.\nExperience in composite and/or polymer processing techniques.\nKnowledge of superconducting magnet construction and technologies, or of materials for cryogenic, high-voltage or radiation environments, would be an asset.\nSkills:\nKnowledge of materials science.\nKnowledge and application of material testing.\nAbility to work effectively within multidisciplinary teams.\nKnowledge of cryogenics technology is a plus.\nSpoken and written English, with a commitment to learn French.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nYou have a professional background in Material, Chemical, Mechanical Engineering (or a related field) and have either:\na Master's degree with 2 to 6 years of post-graduation professional experience;\nor a PhD with no more than 3 years of post-graduation professional experience.\nYou have never had a CERN fellow or graduate contract before.",
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000159138910-materials-engineer-polymers-and-composite-te-msc-smt-2026-172-grap-?oga=true",
-    "status": "matched"
-  },
-  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000159111491": {
-    "description": "Au sein de l'unité de soins intensifs pédiatriques, vous accompagnez les enfants hospitalisés et leurs proches, à travers des médiations artistiques adaptées à leur état clinique et à leurs besoins spécifiques.\nEn collaboration avec l'équipe interdisciplinaire, vous contribuez à la prise en charge globale de l'enfant, notamment dans la gestion de l'anxiété et de la douleur, l'expression émotionnelle, la prévention du traumatisme médical, ainsi qu’à l'accompagnement des situations de fin de vie.\nLes prises en charge individuelles se déroulent au lit du ou de la patiente ou en chambre d'isolement, nécessitant une adaptation constante aux contraintes de l'environnement de soins intensifs (hygiène, asepsie et prévention des infections).\nÀ partir de votre évaluation clinique, vous identifiez les besoins de l'enfant et de sa famille, définissez des objectifs thérapeutiques individualisés et assurez la traçabilité des interventions dans le dossier patient.\nGrâce à des moyens variées tels que le dessin, le modelage, le conte, la musique, les marionnettes ou le collage, vous favorisez l'expression émotionnelle, le développement des ressources de l'enfant et le soutien de son vécu d'hospitalisation.\nVous accompagnez les patients et patientes, du nourrisson à l'adolescent, confrontés à l'anxiété, à la douleur, aux soins invasifs ou aux conséquences du traumatisme médical, y compris lorsque les capacités de communication sont limitées ou absentes.\nAvec les parents et les fratries, vous leur faites bénéficier d'un accompagnement adapté tout au long du parcours de soins, notamment dans les contextes de soins palliatifs, de fin de vie ou de deuil.\nDans le cadre des colloques interdisciplinaires et des transmissions cliniques, vous partagez vos observations et contribuez à l'élaboration de réponses thérapeutiques coordonnées.\nVous participez au développement des projets du service en lien avec le bien-être de l'enfant hospitalisé, les soins de développement et les soins palliatifs pédiatriques.\nLa gestion du matériel et le suivi du budget alloué à l'activité font également partie de vos responsabilités.\nAuprès des équipes soignantes, vous valorisez l'apport de l'art-thérapie, partagez votre expertise et contribuez au développement de cette pratique au sein de l'institution.\nVous participez aux démarches d'évaluation et aux projets de recherche visant à enrichir les connaissances et les pratiques en art-thérapie hospitalière.",
-    "external_url": "https://jobs.smartrecruiters.com/HUG/744000159111491-art-therapeute-aux-soins-intensifs-de-pediatrie-30-?oga=true",
     "status": "matched"
   },
   "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000159141499": {
@@ -1489,7 +1484,7 @@
     "title": "Principal Scientist/Senior Scientist, Cryo-EM Structural Biology",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-11-03",
+    "posted_date": "2026-11-04",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1766,7 +1761,7 @@
     "title": "Associate Principal Scientist - Cell Culture Development",
     "company": "Lonza",
     "location": "CH - Visp",
-    "posted_date": "2026-10-29",
+    "posted_date": "2026-10-30",
     "department": "",
     "score": -1,
     "matched_keywords": [
@@ -1788,7 +1783,7 @@
     "title": "Senior QC Scientist 80-100%",
     "company": "Lonza",
     "location": "CH - Visp",
-    "posted_date": "2026-10-20",
+    "posted_date": "2026-10-21",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -1803,7 +1798,7 @@
     "title": "Senior Scientist, QC",
     "company": "Lonza",
     "location": "CH - Visp",
-    "posted_date": "2026-11-04",
+    "posted_date": "2026-11-05",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -1837,7 +1832,7 @@
     "title": "Associate Principal Scientist - Analytical Development (Microbial) 80%-100% (m/w/d)",
     "company": "Lonza",
     "location": "CH - Visp",
-    "posted_date": "2026-11-05",
+    "posted_date": "2026-11-06",
     "department": "",
     "score": -1,
     "matched_keywords": [
@@ -1862,11 +1857,6 @@
     "external_url": "https://jobs.smartrecruiters.com/HUG/744000160134225-instrumentiste-infirmier-ou-infirmiere-diplomee-du-domaine-operatoire-iddo-80-a-100-?oga=true",
     "status": "matched"
   },
-  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000160132880": {
-    "description": "Le poste concerne une activité en hémostase spécialisée, mais ce secteur fait partie du laboratoire d’Hématologie et d’Hémostase et dans ce cadre une activité en Hématologie est également possible en fonction des contraintes du laboratoire.\nDans le cadre de vos activités, vous réceptionnez les échantillons biologiques d'hémostase adultes et pédiatriques, et enregistrez les demandes d'examens selon les procédures en vigueur.\nVous utilisez les automates d’hémostase de routine et spécialisée Sysmex CN-6000 et CN-6500, GeneXpert Cepheid, BioFlash Ruwag, Chrono-Log et Apact 4004.\nVous validez techniquement et biologiquement les résultats d’hémostase de routine et spécialisée.\nVous participez aux cours et aux réunions du service.\nVous participez à l’assurance qualité au laboratoire : passage des CQI et des CQE, réalisation des tests pour les dossiers de vérification de méthode.\nVous effectuez des gardes et des piquets de weekend, de jours fériés et de nuits éventuellement en fonction des contraintes du laboratoire.",
-    "external_url": "https://jobs.smartrecruiters.com/HUG/744000160132880-technicien-ou-technicienne-en-analyses-biomedicales-80-?oga=true",
-    "status": "matched"
-  },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000160223950": {
     "description": "This is a graduate position within the QUEST programme, funded by the EOSC4ALL project of the European Commission. It is open to recent graduates in computer science, engineering or a related field. You do not need to tick every box or have every skill listed below, if you are motivated to learn, we encourage you to apply.\nJoin CERN's Storage and Data Management Group and help evolve the storage systems behind the Large Hadron Collider (LHC), while learning large-scale storage, cloud-native technologies and open-source software with the support of an experienced team.\nYou will work on CERNBox, the cloud storage used by the whole CERN community, from scientists to administrative staff. Your main task is to help make it interoperable with research infrastructures across Europe, through the Open Cloud Mesh (OCM) standard, and easy to deploy anywhere using Kubernetes. You will also explore how AI can help users find and use their data.\nIf you enjoy open standards, open source and building tools that many institutions can adopt, this is the place for you! You will be supported by experienced colleagues and learn from the whole team.\nYour responsibilities\nDevelop and integrate backend and frontend software components.\nPackage and deploy interoperable services in distributed environments.\nSupport CERN community: you will join our operations team, troubleshooting incidents and supporting users.\nContribute your code, features and fixes back to the CERNBox open-source projects, working alongside a broader open-source community.\nWork with partner institutions and research infrastructures across Europe to test, validate and refine these tools together.\nSupport users and partner teams as they adopt these tools, helping with troubleshooting and guidance.\nExplore and prototype AI/ML capabilities for CERNBox, working with users to identify practical use cases. Prior AI/ML experience is welcome but not required.\nYour profile\nExperience with backend development in Go, and an interest in full-stack development.\nComfortable working in Linux environments and troubleshooting software and systems.\nFamiliarity with frontend development, ideally using JavaScript/TypeScript and Vue.js.\nSoftware development experience from studies, projects, internships or open-source contributions, with a willingness to take ownership of features and to collaborate with others.\nAbility to collaborate with users, technical teams and external partners.\nInterest in open-source software, distributed systems and interoperability.\nSkills\nBackend: Go and API development.\nFrontend: Modern frameworks such as Vue.js or similar technologies.\nSystems: Linux, troubleshooting and software integration.\nCloud-native technologies: Containers, Docker, Kubernetes, Helm and CI/CD pipelines are an advantage.\nCollaboration: Good communication skills and the ability to work effectively with technical and non-technical stakeholders.\nSpoken and written English, with a commitment to learn French.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nYou have a professional background in Computing Engineer (or a related field) and have either:\na Master's degree with 2 to 6 years of post-graduation professional experience;\nor a PhD with no more than 3 years of post-graduation professional experience.\nYou have never had a CERN fellow or graduate contract before.",
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000160223950-software-engineer-for-cernbox-it-sd-gss-2026-174-grap-?oga=true",
@@ -1875,11 +1865,6 @@
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000160167639": {
     "description": "Introduction\nThe CERN ATLAS Team plays a major role in the construction of the future silicon ATLAS Inner Tracker (ITk). In particular, the CERN Detector Technologies (DT) team focuses on the realisation of the Pixel Outer Barrel for the ITk. Our activities include the design, prototyping and assembly of the support structures and tooling as well as the final detector integration, installation and testing.\n\nAs a mechanical engineer in the CERN-DT Team, you will join the Engineering Office Section (EP-DT-EO) and work closely with personnel from the ATLAS Group (EP-ATL) and the Technical Coordination Team of the ATLAS Experiment on the design, construction and installation of the ATLAS ITk Pixel Outer System.\nFunctions\nDesign of precision tooling for the integration, testing and installation of the ITk Pixel Outer System Detector, comprising the Outer Barrel, Endcaps and Inner System Support Tube.\nDesign and develop service installation procedures and tooling, including temporary service management solutions for testing of the ITk Pixel Detector.\nVerify the design of components and tooling according to the relevant standards and best engineering practices, performing both, analytical and numerical calculations.\nDevelop, document and implement tools and procedures for integration and installation of detector components and services.\nParticipate hands-on in the detector integration work in the ATLAS SR1 cleanroom as well as the preparation on surface and in the cavern for the installation.\nPrepare technical specifications for components and tools, following up their production, acceptance and installation.\nSupport preparation of and participate in the ATLAS ID detector extraction.",
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000160167639-mechanical-engineer-atlas-itk-pixel-detector-ep-dt-eo-2026-222-ld-?oga=true",
-    "status": "matched"
-  },
-  "/job/Ljubljana/Podatkovni-znanstvenik---svetnik--m--d----Associate-Director--Data-Science---Artificial-Intelligence--m-f-d-_REQ-10089748": {
-    "description": "Salary Range:€67,130.00 - €124,670.00\n\n \nJob Description Summary#LI-Hybrid\nLocation: Ljubljana, Slovenia / Barcelona, Spain\n\nVas navdušuje uporaba podatkovne znanosti in umetne inteligence za reševanje kompleksnih poslovnih izzivov in doseganje merljivega učinka?\n\nKot Podatkovni znanstvenik – svetnik (Associate Director, Data Science & Artificial Intelligence) boste sodelovali z različnimi poslovnimi področji, da bi razumeli kompleksne in ključne izzive ter jih pretvorili v celovite analitične pristope. Združevali boste učinkovito upravljanje podatkov, statistične metode, strojno učenje in umetno inteligenco z namenom pridobivanja uporabnih vpogledov, avtomatizacije ponovljivih procesov ter prispevanja k reševanju še neizpolnjenih medicinskih potreb.\n\nSodelovali boste pri upravljanju življenjskega cikla podatkov na ravni podjetja, od njihovega pridobivanja ali ustvarjanja, obogatitve in uporabe do hrambe in umika, ter zagotavljali razpoložljivost uporabnih, kakovostnih in točnih podatkov skozi njihov celoten življenjski cikel.\n\nV sodelovanju z deležniki iz različnih delov organizacije boste kompleksne analitične ugotovitve pretvarjali v prepričljive poslovne vpoglede z učinkovito vizualizacijo, predstavitvami in podajanjem vsebin v ustreznem kontekstu. Samostojno boste sodelovali pri oblikovanju strategije, upravljanju proračunov, usklajevanju projektov ter zagotavljanju ustreznih virov na svojem področju odgovornosti.\n-------------------------------\nAre you passionate about using Data Science and Artificial Intelligence to solve complex business problems and make a measurable impact?\n\nAs Associate Director, Data Science & Artificial Intelligence, you will work across business domains to understand complex and critical challenges and translate them into integrated analytical approaches. You will combine effective data management, statistical methods, machine learning and Artificial Intelligence to generate actionable insights, automate repeatable processes and contribute to solving unmet medical needs.\n\nYou will help manage the lifecycle of enterprise data from acquisition or creation through enrichment, consumption, retention and retirement, supporting the availability of useful, clean and accurate data throughout its lifecycle.\n\nWorking with stakeholders across the organization, you will translate complex analytical findings into compelling business insights through effective visualization, presentations and contextual storytelling. You will independently help shape strategy, manage budgets, coordinate projects and ensure appropriate resourcing within your area of responsibility.\n\nWhere the role has people-management responsibility, you will empower, guide, coach and develop the team.\n\n \nJob Description\nVaše ključne odgovornosti:\nPreoblikovanje načina reševanja kompleksnih poslovnih izzivov z učinkovitim upravljanjem podatkov, podatkovno znanostjo, umetno inteligenco, statističnimi metodami in strojnim učenjem.\nPretvarjanje kompleksnih analitičnih ugotovitev v jasna priporočila za poslovne uporabnike ter uporaba učinkovite vizualizacije in pripovedovanja zgodb s podatki za vplivanje na strateške odločitve, tudi na ravni višjega poslovnega vodstva.\nVzpostavljanje učinkovitih pristopov k upravljanju podatkov za analitične namene ter prispevanje k razvoju zmogljivosti družbe Novartis na področju upravljanja podatkov in podatkovne znanosti.\nUsklajevanje in določanje prioritet pri razporejanju virov med ključnimi pobudami ter proaktivno upravljanje spreminjajočih se zahtev, pričakovanj deležnikov, operativnih tveganj in konkurenčnih prioritet.\nSodelovanje z internimi deležniki, medfunkcijskimi ekipami, zunanjimi partnerji in institucijami pri reševanju ključnih poslovnih izzivov ter prepoznavanju priložnosti za izboljšanje operativne učinkovitosti in inovacije.\nOcenjevanje nastajajočih tehnologij, znanstvene programske opreme, orodij za vizualizacijo in računalniških pristopov ter izbira ustreznih orodij, podatkovnih virov in analitičnih tehnik za širok nabor poslovnih vprašanj.\nZagotavljanje agilnega svetovanja in raziskovalnih analiz za nujne in nestandardne poslovne izzive ter samostojno prepoznavanje relevantnih znanstvenih raziskav in uporaba ustreznih metodologij pri reševanju poslovnih izzivov.\nPrispevanje k zunanji znanstveni skupnosti z znanstvenimi objavami, ki so bile predmet strokovnega recenzentskega postopka, sodelovanjem na strokovnih konferencah in v relevantnih medpanožnih delovnih skupinah.\nZagotavljanje poglobljenega znanstvenega in tehničnega strokovnega znanja. Opolnomočanje in razvoj zaposlenih, zagotavljanje mentorstva ter ustvarjanje okolja, ki podpira učinkovito izmenjavo znanja, razvoj in uspešnost.\nZagotavljanje skladnosti aktivnosti z veljavnimi zahtevami na področju kakovosti, etike, zdravja, varnosti in okolja ter veljavnimi odgovornostmi glede poročanja v zvezi z izdelki.\n\nZaželene izkušnje:\nIzbira in izvajanje ustreznih strategij upravljanja podatkov in podatkovne znanosti za relevantne programe.\nDoseganje ustreznih kontrolnih mejnikov programov upravljanja podatkov in napredne analitike ter pridobivanje potrebnih odobritev v okviru upravljavskih procesov.\nUspešno doseganje dogovorjenih ključnih kazalnikov uspešnosti (KPI) ter ciljev programov upravljanja podatkov in napredne analitike.\n\nNagrajevanje: \nV Novartisu smo zavezani k soustvarjanju prihodnosti medicine ter priznavanju in nagrajevanju ljudi, ki to omogočajo. \n \nPričakovani letni osnovni razpon plače za delovno mesto:  \nSlovenija: 67.130€ - 124.670€\n\nOsnovna plača se določa na podlagi vnaprej opredeljenih in transparentnih kriterijev, kot so relevantne veščine, kompetence in izkušnje, ne glede na spol, ter v skladu z Novartisovo politiko določanja plač. Po zaposlitvi v Novartisu se plača periodično pregleda v skladu z internimi akti in postopki. \n \nPlačna enakost je temeljno načelo naše kadrovske politike in odraža našo zavezo k ustvarjanju raznolikega, pravičnega in vključujočega okolja, ki vse zaposlene obravnava dostojanstveno in spoštljivo, kot je opredeljeno v našem Kodeksu etike. \n \nPoleg osnovne letne bruto plače so zaposleni upravičeni tudi do spodaj navedenih ugodnosti: \nLetni bonus, ki pripada vsakemu zaposlenemu: 15% letne plače.\nRegres za dopust: Leta 2025 je znašal 2.496 € (neto). Za leto 2026 znaša 2.678,28 € (neto). \nNagrada za poslovno uspešnost: Leta 2025 je znašala 2.538,64 € (bruto), skupaj z zimskim regresom. \nProstovoljno dodatno pokojninsko zavarovanje: Novartis v Sloveniji zagotavlja prostovoljno dodatno pokojninsko zavarovanje (5,844 % bruto izplačila, letno omejeno na 3.224,18 €). \nZavarovanje: Dodatno nezgodno zavarovanje: V času zaposlitve pri Novartisu je zaposleni 24/7 zavarovan za primer smrti ali invalidnosti, ki bi bila posledica nezgode. Zavarovanje – Specialisti: Kolektivno zdravstveno zavarovanje, ki omogoča hitrejši dostop do specialističnih zdravstvenih storitev pri Zavarovalnici Triglav d.d. za vas in vaše družinske člane. \nCare Connect: Program, ki ponuja zaupno, osebno podporo za vaše duševno zdravje in dobro počutje s pomočjo terapij, svetovanj, orodij in še mnogo več. \nOstale ugodnosti v skladu z zakonom in kolektivno pogodbo: Prevoz, prehrana ter ostali dodatki. \n \nPreberite brošuro in izvedite več o našem sistemu nagrajevanja: https://www.novartis.com/sites/novartis_com/files/novartis-life-handbook.pdf  \n \nOpomba: Ugodnosti se lahko razlikujejo glede na državo ter so skladni z lokalno zakonodajo, vključno z določili kolektivnih pogodb. Celovit pregled vašega paketa prejemkov, vključno z morebitnimi relevantnimi določbami kolektivne pogodbe, ki veljajo za vašo delovno mesto glede na lokacijo zaposlitve in delodajalca Novartis, vam bo posredovan v okviru nadaljnjih korakov zaposlitvenega postopka. \n \nPredani smo raznolikosti in vključenosti: Novartis si prizadeva ustvariti izjemno, vključujoče delovno okolje in oblikovanje raznolikih timov, saj ti predstavljajo naše bolnike in skupnosti, ki jih oskrbujemo. \n \nZakaj Nov",
-    "external_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Ljubljana/Podatkovni-znanstvenik---svetnik--m--d----Associate-Director--Data-Science---Artificial-Intelligence--m-f-d-_REQ-10089748",
     "status": "matched"
   },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000160597089": {
@@ -1927,7 +1912,7 @@
     "title": "Patent Attorney II",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-11-10",
+    "posted_date": "2026-11-11",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -2119,11 +2104,6 @@
     "external_url": "https://jobs.smartrecruiters.com/HUG/744000161223325-assistant-ou-assistante-de-recherche-recrutement-communication-a-l-unite-d-epidemiologie-populationnelle-80-a-100-?oga=true",
     "status": "matched"
   },
-  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000161223160": {
-    "description": "En qualité d’infirmier ou infirmière au sein de l’unité de soins intermédiaires de l’Hôpital des Trois-Chêne (« unité 13 + »), vous assurez, de manière autonome et/ou sous délégation médicale, la prise en charge globale et personnalisé de patients âgés nécessitant une surveillance continue au vu de leur situation de soins aigue ou nécessitant une thérapie intensive (cardioversion).\nNotamment, vous prenez en soins des patientes et patients gériatriques aigus avec des équipements spécifiques (cathéter artériel, voie veineuse centrale…) et exercez une surveillance accrue (gestion de la ventilation non invasive, des amines). Vous associez à cette technicité une prise en charge multidimensionnelle, relationnelle, sociale et éthique.\nVous évoluez dans une équipe interprofessionnelle et coordonnez les prestations de soins dispensées à la patientèle. Vous exercez également une fonction d’encadrement et d’enseignement auprès des personnes en formation et des nouveaux collaborateurs et collaboratrices.\nEnfin, vous contribuez au développement de la qualité des soins et menez une réflexion professionnelle basée sur l’analyse des pratiques de soins infirmiers.",
-    "external_url": "https://jobs.smartrecruiters.com/HUG/744000161223160-infirmiers-ou-infirmieres-a-l-unite-de-soins-intermediaires-du-departement-de-readaptation-et-geriatrie-60-?oga=true",
-    "status": "matched"
-  },
   "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000161223430": {
     "description": "Au sein de notre service administratif de la Maternité et de la Pédiatrie, nous offrons à la patientèle, au public ainsi qu'au personnel un service professionnel, courtois et empathique, tant au téléphone qu'aux différents postes d'accueil.\nLe secteur accueil, prise de rendez-vous et Centrale de programmation du Département de la femme, de l'enfant et de l'adolescent (DFEA) est à la recherche d'un ou une collaboratrice pour compléter son équipe, sur une amplitude horaire de 7h00 à 17h30, du lundi au vendredi, en rotation hebdomadaire.\nDans le cadre de votre fonction, vous renseignez et orientez les personnes se présentant dans les différents espaces d'accueil. \nVous répondez, renseigner et transférer les appels en Centrale téléphonique et agendez des rendez-vous pluridisciplinaires selon les procédures établies.\nL’activité à la Centrale requiert le port continu d’un casque audio tout au long du service.",
     "external_url": "https://jobs.smartrecruiters.com/HUG/744000161223430-gestionnaire-programmation-a-la-maternite-et-a-la-pediatrie-100-?oga=true",
@@ -2141,7 +2121,7 @@
     "title": "Patent Attorney Trainee",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-11-12",
+    "posted_date": "2026-11-13",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -2169,7 +2149,7 @@
     "title": "Scientist (all genders) Quality Control, Microbiology (80-100%)",
     "company": "Lonza",
     "location": "CH - Visp",
-    "posted_date": "2026-11-12",
+    "posted_date": "2026-11-13",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -2212,7 +2192,7 @@
     "title": "Compound Logistics Workflow and Integration Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-11-13",
+    "posted_date": "2026-11-14",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2484,7 +2464,7 @@
     "title": "Executive Assistant, Regulatory Affairs",
     "company": "BeiGene",
     "location": "Basel",
-    "posted_date": "2026-11-08",
+    "posted_date": "2026-11-09",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2539,7 +2519,7 @@
     "title": "Regulatory Affairs Consultant (German and French language skills)",
     "company": "Parexel",
     "location": "Switzerland-Remote",
-    "posted_date": "2026-10-28",
+    "posted_date": "2026-10-29",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -2572,7 +2552,7 @@
     "title": "Manager, Quality & Regulatory Operations",
     "company": "Danaher",
     "location": "Neuchâtel, Switzerland",
-    "posted_date": "2026-11-04",
+    "posted_date": "2026-11-05",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -2587,7 +2567,7 @@
     "title": "Business Development Director",
     "company": "KBI Biopharma",
     "location": "Switzerland - Plan-les-Ouates",
-    "posted_date": "2026-10-20",
+    "posted_date": "2026-10-21",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -2605,7 +2585,7 @@
     "title": "Intern - Flow Cytometry Scientist",
     "company": "Labcorp",
     "location": "CHE - Geneva - 7 rue Moise-Marcinhes",
-    "posted_date": "2026-10-20",
+    "posted_date": "2026-10-21",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -2621,7 +2601,7 @@
     "title": "Senior Associate Clinical Trials Regulatory Affairs",
     "company": "Amgen",
     "location": "Switzerland - Rotkreuz",
-    "posted_date": "2026-10-20",
+    "posted_date": "2026-10-21",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -2636,7 +2616,7 @@
     "title": "Consultant – Qualitative Market Research & Competitive Intelligence (Switzerland)/ Part-Time",
     "company": "IQVIA",
     "location": "Zug, Switzerland",
-    "posted_date": "2026-10-20",
+    "posted_date": "2026-10-21",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2667,7 +2647,7 @@
     "title": "Associate Principal Scientist - Analytical Project Lead 80-100% (f/m/d)",
     "company": "Lonza",
     "location": "CH - Basel",
-    "posted_date": "2026-11-15",
+    "posted_date": "2026-11-16",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -3109,20 +3089,6 @@
     "external_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/USA---Pennsylvania---Upper-Providence/Director--Clinical-Science---Oncology-Clinical-Development_449285-1",
     "status": "matched"
   },
-  "https://biibhr.wd3.myworkdayjobs.com/en-US/external/jobs": {
-    "external_url": "https://biibhr.wd3.myworkdayjobs.com/en-US/external/jobs",
-    "status": "matched",
-    "title": "Supply Chain Planning Portfolio Lead",
-    "company": "Biogen",
-    "location": "Baar, Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": -2,
-    "matched_keywords": [],
-    "deducted_keywords": [
-      "location:Baar, Switzerland"
-    ]
-  },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000162453369": {
     "description": "Introduction:\nBuild your expertise in power electronics and high-voltage engineering by working on pulsed power systems that steer CERN's particle beams. Join CERN's Pulsed Power Generators team to develop, test and operate the pulse generators behind the beam transfer and beam dump systems of our accelerators.\nYou will combine hands-on engineering with innovative research, working alongside experienced colleagues who will support your development, and you will have the opportunity to share your results at conferences and in scientific publications. Together, you will develop reliable technologies for today’s accelerators and those of the future.\nFunctions:\nDevelop your expertise and progressively take responsibility for the testing, commissioning and operation of safety-critical pulsed power generators used in the beam dump systems of CERN's Super Proton Synchrotron (SPS) and Large Hadron Collider (LHC), supported by hands-on training and knowledge sharing with experienced colleagues.\nContribute to the full lifecycle of pulsed power systems, from initial studies and design to development, testing, commissioning and operation. Apply engineering and safety principles, using tools such as analogue circuit simulation and numerical field calculations to solve technical challenges and help define specifications for upgrades and future systems.\nDrive research and innovation in next-generation solid-state pulse generators and high-voltage switching technologies. Working with colleagues and specialists across CERN, help develop and validate new solutions for existing accelerator infrastructure and future projects, including the Future Circular Collider (FCC).\nSupport high standards of quality and knowledge sharing by contributing to engineering specifications, testing procedures, technical documentation and scientific publications, while collaborating with colleagues across different disciplines.\nMentor and supervise students and early-career professionals.",
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000162453369-power-electronics-engineer-pulsed-power-sy-abt-ppg-2026-225-ld-?oga=true",
@@ -3198,7 +3164,7 @@
     "title": "Principal Scientist (Director) Health Economics, Oncology (m/f/d)",
     "company": "MSD",
     "location": "CHE - Zurich - Zurich (The Circle)",
-    "posted_date": "2026-11-17",
+    "posted_date": "2026-11-18",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -3306,7 +3272,7 @@
     "title": "Principal Scientist II (Lab Head), Allergy and Plasma Cell Research",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-11-19",
+    "posted_date": "2026-11-20",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -3327,7 +3293,7 @@
     "title": "Senior Scientist, Metabolomics",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-11-17",
+    "posted_date": "2026-11-18",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -3335,5 +3301,40 @@
       "proteomics"
     ],
     "deducted_keywords": []
+  },
+  "https://jobs.servier.com/job/Geneva-MEDICAL-ADVISOR-CARDIOVASCULAR-DISEASES-Gene-1202/1376775855/": {
+    "description": "MEDICAL ADVISOR\n\nCARDIOVASCULAR DISEASES | SWITZERLAND | 100% | 12-MONTH FIXED-TERM CONTRACT\n\nTo strengthen our Medical and Patient Affairs team in Geneva, we are looking for a Medical Advisor Cardiovascular Diseases. You will help shape and execute the local medical strategy, build trusted scientific partnerships and translate medical insights into initiatives that improve patient outcomes in Switzerland.\n\n \n\nWho we are\n\nServier (Suisse) S.A. is the Swiss affiliate of Servier, an independent international pharmaceutical group governed by a foundation. With its governance model, the Group is committed to therapeutic progress to serve patients and integrates the patient voice at every stage of the medicine life cycle. As a leading global player in cardiology and venous diseases, Servier aims to become a leading innovator in oncology and neurology. The Group intends to offer targeted therapeutic solutions, particularly in rare cancers and neurological diseases, and invests nearly 20% of its brand-name sales in R&D. Headquartered in France, Servier relies on its more than 20,000 employees and a solid geographic presence with medicines distributed in more than 130 countries. As Servier employees, we are united by shared values and guided by a common vision. Together, we share an entrepreneurial spirit and are committed to advancing therapeutic progress to address patients’ unmet needs.\n\n \nYour role\n\nAs Medical Advisor Cardiovascular Diseases, you will report to the Medical and Patient Affairs Manager and collaborate closely with Commercial, Marketing, Market Access, Regulatory Affairs, Pharmacovigilance and Global Medical and Patient Affairs teams. You will provide medical leadership to internal and external stakeholders, support evidence generation and scientific communication, and contribute to the development and implementation of the local medical strategy throughout the product lifecycle.\n\n \n\nAs Medical Advisor Cardiovascular Diseases, you will\n\nSHAPE\n\nContribute to the development and execution of the local medical strategy for cardiovascular diseases.\n\nIdentify unmet medical needs, treatment trends and evidence gaps, and translate insights into impactful medical initiatives.\n\nProvide strategic medical input to lifecycle management, brand planning and cross-functional projects.\n\nMonitor emerging scientific evidence, clinical-practice developments, congress highlights and relevant publications within the therapeutic area.\n\n \n\nENGAGE\n\nBuild and maintain trusted scientific partnerships with healthcare professionals, therapeutic-area experts, scientific societies, patient organizations and other relevant stakeholders.\n\nDevelop and maintain a comprehensive understanding of the healthcare ecosystem, including key healthcare professionals, centres, networks, multidisciplinary teams, referral pathways and other relevant stakeholders..\n\nOrganise advisory boards, scientific exchanges and educational initiatives while gathering and communicating actionable medical insights.\n\nDevelop and deliver medical training and scientific updates for cross-functional teams, contributing to onboarding and continuous learning initiatives.\n\n \n\nDELIVER\n\nDeliver accurate, balanced and compliant scientific information to internal and external stakeholders, and contribute to the development, review and validation of scientific and educational materials.\n\nSupport local evidence-generation activities, including real-world evidence projects, registries, observational studies, investigator-initiated trials, scientific publications and congress activities.\n\nProvide medical leadership and scientific guidance for affiliate projects and cross-functional initiatives.\n\nMonitor and communicate medical activities, stakeholder engagement, project outcomes, risks and opportunities through appropriate reporting.\n\nEnsure all activities comply with applicable regulatory, legal, ethical and pharmacovigilance standards.\n\n \n\nWhat you bring\n\nAdvanced university degree in a health-related scientific discipline, such as MD, PharmD, PhD, MSc or equivalent.\n\nRelevant experience in Medical Affairs and/or Patient Affairs within the pharmaceutical industry.\n\nExperience in medical strategy development, scientific communication, medical review, evidence generation or clinical-research projects.\n\nStrong project-management skills and the ability to manage several activities simultaneously.\n\nFluency in English; good command of French and/or German is strongly preferred.\n\nStrong digital literacy, including the use of insight-generation, AI and project-management tools.\n\n \n\nHow you work\n\nYou communicate complex scientific and medical information clearly and effectively to different audiences.\n\nYou build trusted scientific relationships and collaborate effectively across functions and with external stakeholders.\n\nYou influence and create alignment without direct authority, while working both autonomously and collaboratively.\n\nYou bring learning agility, curiosity, resilience and adaptability to a dynamic environment.\n\nYou combine strong business acumen with a focus on patient value and organisational priorities.\n\nYou are committed to partnering with patients and patient communities and to integrating patient perspectives into medical activities and decision-making.\n\n \n\nAdditional assets\n\nExperience in arterial hypertension and heart failure.\n\nExperience with real-world evidence, registries, observational studies, investigator-initiated trials or scientific publications.\n\nFamiliarity with the Swiss pharmaceutical environment, healthcare system and relevant cardiovascular stakeholder networks.\n\nExperience collaborating with scientific societies, therapeutic-area experts and multidisciplinary healthcare teams.\n\n \n\nWhat we offer\n\nThe opportunity to help shape cardiovascular medical strategy in Switzerland.\n\nA collaborative environment with direct exposure to local and international stakeholders.\n\nFlexible ways of working, combining home office and presence in a modern workplace in Geneva.\n\nOngoing learning and opportunities for personal and professional development.\n\nA competitive compensation package and a supportive team culture.\n\n \nJoin Servier and contribute to a purpose-driven company committed to therapeutic progress for the benefit of patients. We value diversity, inclusion, and equal opportunities, and we welcome applications from all qualified candidates. At Servier, we believe that our differences make us stronger and that every talent deserves the opportunity to grow and make an impact.",
+    "external_url": "https://jobs.servier.com/job/Geneva-MEDICAL-ADVISOR-CARDIOVASCULAR-DISEASES-Gene-1202/1376775855/",
+    "status": "matched",
+    "title": "MEDICAL ADVISOR - CARDIOVASCULAR DISEASES",
+    "company": "Servier Suisse",
+    "location": "Geneva, Geneva, CH, 1202",
+    "posted_date": "",
+    "department": "",
+    "score": 9,
+    "matched_keywords": [
+      "French",
+      "MSc",
+      "PhD",
+      "location:geneva",
+      "medical affairs",
+      "oncology"
+    ],
+    "deducted_keywords": []
+  },
+  "/job/Baar-Switzerland/Supply-Chain-Planning-Portfolio-Lead_REQ24484-1": {
+    "description": "About This Role:\nAs the Supply Chain Planning Portfolio Lead, you will play a pivotal role within our Global Supply Chain Planning team. This position embodies leadership in overseeing end-to-end demand and supply planning for an assigned commercial product portfolio, acting as the single voice of supply. You will integrate multiple business perspectives, considering demand, supply, inventory, and more, into a coherent strategy that supports business continuity and minimizes excess. Your role will involve representing the planning function across various forums, ensuring seamless cross-functional integration. You will lead and develop a team of planners, fostering capability growth, and standardizing planning processes. This position is crucial in safeguarding patient supply and ensuring our business objectives align across global matrix organizations.\n\nWe are currently hiring for two openings within this team.\n\nWhat You’ll Do:\nLead demand and supply alignment across the assigned commercial portfolio.\nTranslate demand changes into production, capacity, inventory, and financial implications.\nMaintain a comprehensive view of portfolio supply, inventory, performance, and outlook.\nRepresent Supply Chain Planning in Asset Teams, S&OP, and relevant project forums.\nDevelop scenarios, evaluate trade-offs, and provide clear recommendations.\nAnticipate and manage risks related to demand, supply, inventory, and lifecycle.\nCoordinate planning for major CMC and regulatory transitions and capacity constraints.\nLead, manage, and coach planners, fostering development and succession.\nReinforce standard planning processes and governance.\nCollaborate with Planning Center of Excellence on process and system adoption.\nIdentify and support improvements that enhance planning effectiveness.\n\nWho You Are:\nYou are a strategic thinker with the ability to see the big picture while managing detailed processes. Your proactive nature allows you to anticipate challenges and develop effective strategies. You thrive in a collaborative environment, leveraging strong communication skills to build consensus across diverse teams. Your analytical prowess enables you to transform complex data into actionable insights, and you are committed to continuous improvement and organizational resilience.\n\nRequired Skills:\nBachelor’s or Master’s degree in Supply Chain Management, Business Administration, Engineering, Life Sciences, or related field.\n7+ years of experience in Demand Planning, Supply Planning, or related roles.\nAdvanced knowledge of demand, supply, inventory, capacity, and lifecycle planning.\nStrong analytical and problem-solving capabilities.\nProven ability to lead and develop a team of planners.\nExcellent stakeholder management and communication skills.\n\nPreferred Skills:\nAPICS/ASCM certification or equivalent.\nLean Six Sigma or continuous-improvement certification.\nExperience in a global biotech, pharmaceutical, or similarly regulated environment.\n\n Job Level: Management\n\nWhy Biogen?\nWe are a global team with a commitment to excellence, and a pioneering spirit. As a mid-sized biotechnology company, we provide the stability and resources of a well-established business while fostering an environment where individual contributions make a significant impact. Our team encompasses some of the most talented and passionate achievers who have unparalleled opportunities for learning, growth, and expanding their skills. Above all, we work together to deliver life-changing medicines, with every role playing a vital part in our mission. Caring Deeply. Achieving Excellence. Changing Lives.\n\nAt Biogen, we are committed to building on our culture of inclusion and belonging that reflects the communities where we operate and the patients we serve. We know that diverse backgrounds, cultures, and perspectives make us a stronger and more innovative company, and we are focused on building teams where every employee feels empowered and inspired. Read on to learn more about Biogen.\n\nAll qualified applicants will receive consideration for employment without regard to sex, gender identity or expression, sexual orientation, marital status, race, color, national origin, ancestry, ethnicity, religion, age, veteran status, disability, genetic information or any other basis protected by federal, state or local law. Biogen is an E-Verify Employer in the United States.",
+    "external_url": "https://biibhr.wd3.myworkdayjobs.com/external/job/Baar-Switzerland/Supply-Chain-Planning-Portfolio-Lead_REQ24484-1",
+    "status": "matched",
+    "title": "Supply Chain Planning Portfolio Lead",
+    "company": "Biogen",
+    "location": "Baar, Switzerland",
+    "posted_date": "",
+    "department": "",
+    "score": -2,
+    "matched_keywords": [],
+    "deducted_keywords": [
+      "location:Baar, Switzerland"
+    ]
   }
 }
