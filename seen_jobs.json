@@ -1133,7 +1133,7 @@
     "title": "Senior Scientist in Flow Cytometry",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-22",
+    "posted_date": "2026-10-21",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -1338,7 +1338,7 @@
     "title": "Scientist – Assay Data, AI & Workflows",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-30",
+    "posted_date": "2026-10-29",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1381,11 +1381,6 @@
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000158440640-firmware-fpga-development-engineer-sy-bi-bp-2026-154-grap-?oga=true",
     "status": "matched"
   },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000158488769": {
-    "description": "As a Shipping Officer in CERN's Shipping Unit, you will organise and coordinate the import and export transportation of goods worldwide by road, air, sea, and rail. You will manage a wide range of shipments, including chemicals, radioactive materials, dual-use items, and other regulated goods, ensuring safe, efficient, and compliant transport operations.\nYou will coordinate transport requests, prepare documentation and quotations, advise CERN users, and ensure compliance with international regulations, contributing to the smooth and reliable movement of goods across CERN's global supply chain.\nYour responsibilities:\nReview, correct, and validate transport requests, and organise import and export shipments by road, air, sea, and rail.\nEnsure compliance with transport, customs, and dangerous goods regulations, and prepare and verify transport and customs documentation.\nCoordinate shipments with carriers, freight forwarders, and internal stakeholders, track shipments, and ensure timely delivery.\nAdvise CERN users on transport and logistics solutions, prepare transport quotations, and recommend the most suitable shipping options.\nVerify and approve transport invoices, and resolve transport issues, claims, and delivery disputes.\nProvide excellent customer service and respond to users' transport-related enquiries.\nSupport continuous improvement of shipping processes and logistics tools.\nYour profile:\nSome experience in organising international transport operations, including customer service and coordination with various partners across the transport industry.\nSome initial exposure to Incoterms® and their application in international trade and transport.\nSome experience in writing clear and structured procedures and work instructions.\nSkills:\nExcellent interpersonal and communication skills, with a strong customer and service-oriented mindset.\nStrong organisational skills, with the ability to effectively manage priorities and adapt to a dynamic working environment.\nGood knowledge of Microsoft Office applications, particularly Microsoft Excel and Microsoft Word.\nSpoken and written English, with a commitment to learn French.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nBy the application deadline, you have a maximum of two years of professional experience since graduation in Commercial Business Administration (or a related field) and your highest educational qualification is either a Bachelor's or Master's degree.\nYou have never had a CERN fellow or graduate contract before.\nApplicants without University degree are not eligible.\nApplicants with a PhD are not eligible.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000158488769-shipping-officer-sce-ssc-sc-2026-248-grae-?oga=true",
-    "status": "matched"
-  },
   "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000158465070": {
     "description": "En votre qualité de médecin adjoint ou adjointe à l'Unité de cardio-pédiatrie, vous contribuez à la supervision de l'activité, à l'encadrement des médecins internes et des chefs et cheffes de clinique.\nVous collaborez aux activités cliniques avec les médecins cheffes et chefs de service et les médecins adjoints et adjointes.\nVous assurez la coordination des activités pratiques, les interventions cliniques, thérapeutiques ou chirurgicales des patients et patientes qui vous sont confiées. Vous participez au système de gardes et de piquets.\nDémontrant un intérêt confirmé dans l'enseignement, vous participez à l'instruction pré/post-graduée et continue dans l'unité.\nDe nature dynamique, flexible et engagée, vous développez des projets cliniques interdisciplinaires. Vous participez, déployez et assurez la recherche dans l'unité.\nVous êtes une personne reconnue pour votre leadership et mettez à profit vos excellentes compétences organisationnelles, relationnelles et de communication, en équipe pluridisciplinaire et avec les personnes prises en charge et leur famille.",
     "external_url": "https://jobs.smartrecruiters.com/HUG/744000158465070-medecin-adjointe-ou-adjoint-a-l-unite-de-cardio-pediatrie-100-?oga=true",
@@ -1398,7 +1393,7 @@
     "title": "Data Scientist / Engineer - DNA-Encoded Library Technology (DELT)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-30",
+    "posted_date": "2026-10-29",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1415,7 +1410,7 @@
     "title": "Scientific AI Platform Lead, Data Science, Disease Area X",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-10-31",
+    "posted_date": "2026-10-30",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -1484,7 +1479,7 @@
     "title": "Principal Scientist/Senior Scientist, Cryo-EM Structural Biology",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-11-04",
+    "posted_date": "2026-11-03",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1656,21 +1651,6 @@
     ],
     "deducted_keywords": []
   },
-  "https://careers.incyte.com/jobs/6544?lang=fr-fr": {
-    "external_url": "https://careers.incyte.com/jobs/6544?lang=fr-fr",
-    "status": "matched",
-    "title": "Expert Compliance & Regulatory",
-    "company": "Incyte",
-    "location": "Yverdon-les-Bains, Switzerland",
-    "posted_date": "2026-09-18",
-    "department": "",
-    "score": 5,
-    "matched_keywords": [
-      "French",
-      "location:yverdon"
-    ],
-    "deducted_keywords": []
-  },
   "https://careers.incyte.com/jobs/6543?lang=fr-fr": {
     "external_url": "https://careers.incyte.com/jobs/6543?lang=fr-fr",
     "status": "matched",
@@ -1761,7 +1741,7 @@
     "title": "Associate Principal Scientist - Cell Culture Development",
     "company": "Lonza",
     "location": "CH - Visp",
-    "posted_date": "2026-10-30",
+    "posted_date": "2026-10-29",
     "department": "",
     "score": -1,
     "matched_keywords": [
@@ -1798,7 +1778,7 @@
     "title": "Senior Scientist, QC",
     "company": "Lonza",
     "location": "CH - Visp",
-    "posted_date": "2026-11-05",
+    "posted_date": "2026-11-04",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -1832,7 +1812,7 @@
     "title": "Associate Principal Scientist - Analytical Development (Microbial) 80%-100% (m/w/d)",
     "company": "Lonza",
     "location": "CH - Visp",
-    "posted_date": "2026-11-06",
+    "posted_date": "2026-11-05",
     "department": "",
     "score": -1,
     "matched_keywords": [
@@ -1912,7 +1892,7 @@
     "title": "Patent Attorney II",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-11-11",
+    "posted_date": "2026-11-10",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -2069,11 +2049,6 @@
     ],
     "deducted_keywords": []
   },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000161230929": {
-    "description": "The Electrical Engineering Group (EN-EL) at CERN is responsible for the electrical power-distribution network (from 400 kV to 400/230V), for the fibre-optics infrastructure, and for signal and DC-power cabling for the accelerator complex.\nYou will join the electrical Design and Documentation Office (EN-EL-DDO). You will take on a support electrical designer role. This will include the creation and modification of electrical drawings, design of low voltage distribution networks, cable sizing, equipment sizing, LV protection studies and the general support to senior electrical designers. With time you will be required to take on design tasks of increasing complexity. In addition, you will oversee various quality-related activities within the Design Office, such as the management of the printing office and the maintenance and updating of templates.\nThis is the perfect opportunity for a junior technician to further establish their existing knowledge of low voltage distribution circuits by putting it into practice.\nYour responsibilities:\nPreparing design drawings using CAD software.\nPreparing calculation notes using ElecCalc/Caneco BT or similar.\nPreparing bills of material and cabling tables for electrical-related equipment in Excel.\nUpdating excel based design templates.\nGeneral quality related tasks in the design office.\nYour profile:\nDemonstrated experience in:\nThe design of Low voltage distribution networks, cable sizing and selectivity studies.\nProducing drawings in AutoCAD or similar.\nThe intermediate level of Microsoft EXCEL.\nSkills:\nAn understanding of low voltage distribution networks (selectivity, completing calculation notes, knowledge of European LV standards, protection, protection of circuits for indirect contact, knowledge of different types of earthing systems).\nAn understanding of power systems; voltage drop calculations, short circuit calculations, understanding fault levels, dimensioning of cables.\nExperience on low voltage design calculation tools (ElecCalc, Caneco or similar software).\nProficient in AutoCAD or similar.\nProficient in Microsoft Excel.\nSpoken and written English or French, with a commitment to learn the basics of the other language.\nBeneficial skills/or knowledge:\nExperience on the design of lighting systems for buildings and external areas using DIALux.\nExperience with E-PLAN or similar software.\nExperience in the design of medium voltage distribution networks.\nMotivated candidates without direct design office experience would still be considered.\nEligibility criteria:\nBy the application deadline, you have a maximum of two years of professional experience since graduation in Electrical Engineering (or a related field) and your highest educational qualification is a general secondary education diploma.\nYou have never had a CERN fellow or graduate contract before.\nApplicants with a Bachelor's, Master's or PhD degree are not eligible.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000161230929-electrical-design-technician-en-el-ddo-2026-218-grae-?oga=true",
-    "status": "matched"
-  },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000161227765": {
     "description": "Introduction\nHelp shape the future of healthcare AI, where innovation meets trust.\nAt CERN, you will develop cutting-edge AI solutions that help prevent disease, improve prediction, and deliver trustworthy healthcare insights. You will work on technologies that make it possible to unlock the value of sensitive data without ever moving or exposing it, enabling collaboration where privacy is essential.\nAs part of this role, you will help develop and deploy CAFEIN®, CERN's federated AI platform powering major European healthcare initiatives, including UMBRELLA and AIM-SAFE. You will design advanced federated learning algorithms and secure distributed AI systems that allow models to learn from data across institutions while keeping the data exactly where it belongs.\nRecognised as a lighthouse example of \"data stays, AI collaborates\", CAFEIN® combines state-of-the-art federated learning with CERN's unique strengths in trust, open science, GDPR compliance, and international collaboration. The result is a pioneering framework that is redefining how AI can advance healthcare while safeguarding privacy.\nJoin us to build AI that learns globally, protects locally, and improves lives.\nFunctions\nDevelop and test federated learning software and algorithms.\nImplement and evaluate privacy-preserving techniques, including differential privacy and homomorphic encryption.\nDevelop tools to optimise data ingestions and assess the quality of data and images. \nDesign and run machine-learning experiments using programming languages like Python with libraries as TensorFLow, PyTorch, or scikit-learn. \nAnalyse data using statistical methods and visualisation for exploratory data analysis (EDA). \nImplement and benchmark state-of-the-art machine-learning methods, optimising federated learning for utility, communication efficiency, energy use and scalability. \nDesign and deploy Internet of Things (IoT)-based federated learning architectures.",
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000161227765-machine-learning-engineer-te-dps-aim-2026-223-ld-?oga=true",
@@ -2121,7 +2096,7 @@
     "title": "Patent Attorney Trainee",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-11-13",
+    "posted_date": "2026-11-12",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -2149,7 +2124,7 @@
     "title": "Scientist (all genders) Quality Control, Microbiology (80-100%)",
     "company": "Lonza",
     "location": "CH - Visp",
-    "posted_date": "2026-11-13",
+    "posted_date": "2026-11-12",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -2192,7 +2167,7 @@
     "title": "Compound Logistics Workflow and Integration Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-11-14",
+    "posted_date": "2026-11-13",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2464,7 +2439,7 @@
     "title": "Executive Assistant, Regulatory Affairs",
     "company": "BeiGene",
     "location": "Basel",
-    "posted_date": "2026-11-09",
+    "posted_date": "2026-11-08",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2519,7 +2494,7 @@
     "title": "Regulatory Affairs Consultant (German and French language skills)",
     "company": "Parexel",
     "location": "Switzerland-Remote",
-    "posted_date": "2026-10-29",
+    "posted_date": "2026-10-28",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -2552,7 +2527,7 @@
     "title": "Manager, Quality & Regulatory Operations",
     "company": "Danaher",
     "location": "Neuchâtel, Switzerland",
-    "posted_date": "2026-11-05",
+    "posted_date": "2026-11-04",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -2647,7 +2622,7 @@
     "title": "Associate Principal Scientist - Analytical Project Lead 80-100% (f/m/d)",
     "company": "Lonza",
     "location": "CH - Basel",
-    "posted_date": "2026-11-16",
+    "posted_date": "2026-11-15",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -3074,7 +3049,7 @@
     "title": "Research Scientist, Antigen and Therapeutic Protein Production – Downstream Processing",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "",
+    "posted_date": "2026-11-18",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -3083,11 +3058,6 @@
       "molecular biology"
     ],
     "deducted_keywords": []
-  },
-  "/job/USA---Pennsylvania---Upper-Providence/Director--Clinical-Science---Oncology-Clinical-Development_449285-1": {
-    "description": "For candidates seeking to be located at our Stevenage site, this role will temporarily be based at Stevenage. However, the Company plans to relocate its offices to Cambridge, UK. The location of this role will therefore subsequently change to Cambridge, UK in accordance with timelines to be set by the Company. The relocation is currently proposed to take effect by early 2029.\n \nAt GSK, we have bold ambitions for patients, aiming to positively impact the health of 2.5 billion people by the end of the decade. Our R&D focuses on discovering and delivering vaccines and medicines, combining our understanding of the immune system with cutting-edge technology to transform people’s lives. GSK fosters a culture ambitious for patients, accountable for impact, and committed to doing the right thing, making sure that we focus our efforts on accelerating significant assets that meet patients’ needs and have the highest probability of success. We’re uniting science, technology, and talent to get ahead of disease together.\nFind out more:\nOur approach to R&D\n \nOverview\nCancer is unrelenting, but so are we. At GSK, we are committed to transforming outcomes for people with cancer through innovative science, bold ambition, and strong partnerships across the healthcare ecosystem. We focus our science where it can matter most—advancing care in cancers with high unmet need, grounded in a deep understanding of disease biology and deliberate scientific choices that connect discovery to meaningful impact in the real world.\n\nThe Director, Clinical Science – Oncology Clinical Development provides scientific leadership across defined components of study design, conduct, data review, and interpretation within an assigned clinical programme. Reporting to the Clinical Development Lead (CDL), this role operates within the asset-level clinical strategy and contributes scientific depth and rigour to the execution of the Clinical Development Plan (CDP).\n\nThe Director, Clinical Scientist partners closely with the Senior Scientist and cross-functional teams to support delivery of clinical studies, ensuring scientific quality, data integrity, and robust interpretation of clinical data. This role contributes to both study-level activities and broader programme insights, without holding accountability for asset-level strategy or overall study delivery.\n\nThis is a scientific individual contributor role requiring deep oncology clinical development expertise, strong analytical and collaboration skills, and the ability to operate effectively within a complex, matrixed environment.\n\nIn This Role You Will:\nProvide scientific leadership across defined components of study-level activities, including protocol development, study design, data review, and interpretation, within the strategic direction set by the CDL\nServe as a core member of the Clinical Matrix Team (CMT), ensuring scientific alignment across study objectives, timelines, and deliverables\nProvide scientific insight to the CDL and Senior Scientist to inform asset-level strategy, benefit–risk assessment, and programme-level decision-making\nEnsure the scientific quality and consistency of key clinical and regulatory documents, including protocols, Investigator’s Brochures, Clinical Study Reports, and submission materials\nApply scientific and clinical expertise to analyse and interpret data, ensuring rigour, integrity, and relevance to the target patient population\nEngage with internal and external stakeholders, including investigators and Key External Experts, to support study execution and scientific exchange\nContribute to a culture of scientific excellence, innovation, and continuous improvement within Oncology Clinical Development\n\nDetailed Responsibilities:\nStudy Design and Execution\nProvide scientific input into protocol development and study design, ensuring robustness, feasibility, and alignment with CDP-defined objectives and regulatory requirements\nAuthor or co-author key study documents (e.g., Clinical Study Proposals), contributing to preparation and presentation at governance forums such as Protocol Review Boards\nSupport study conduct by addressing scientific questions, ensuring data integrity, and maintaining alignment with protocol and regulatory standards\nProvide scientific input into study-level decisions related to protocol implementation and study conduct, within the strategic framework defined by the CDL\nPresent and support the scientific rationale and study design at Investigator Meetings and respond to scientific inquiries from study sites\nSupport implementation of study-level Go/No-Go criteria aligned to the asset-level decision framework defined by the CDL\nData Generation, Analysis, and Interpretation\nAnalyse and interpret clinical data to generate insights on safety, efficacy, and patient populations\nIntegrate data from internal and external sources (e.g., literature, competitor data, emerging science) to inform study and programme understanding\nProvide scientific input into data review and interpretation activities, in collaboration with Medical Directors and pharmacovigilance\nTranslate study findings into clear scientific insights to inform programme progression and support CDL-led decision-making\nClinical and Regulatory Deliverables\nContribute to development of clinical and regulatory documents, including protocols, Investigator’s Brochures (IBs), Clinical Study Reports (CSRs), and submission materials\nEnsure scientific accuracy, consistency, and quality across study documentation\nSupport preparation of regulatory submissions and responses to Health Authority queries\nContribute to regulatory reporting requirements (e.g., DSURs, INDSRs) and ensure alignment with regulatory standards\nCross-Functional Collaboration & Scientific Contribution\nServe as a core member of the CMT, partnering with Clinical Operations, Statistics, Safety, Regulatory, and Medical Affairs to support integrated study delivery\nProvide scientific expertise to cross-functional discussions, including integrated evidence planning and disease-area forums, as appropriate\nParticipate in internal and external scientific interactions with investigators, Key External Experts, advisory boards, and collaborators\nContribute to scientific communications, including publications, congress presentations, and study-related materials\n Ways of Working & Continuous Improvement\nIdentify scientific and operational risks at the study level and provide input into mitigation strategies\nSupport and drive implementation of consistent ways of working and process improvements across the programme\nParticipate in Oncology Clinical Development initiatives and workstreams to strengthen standards, processes, and capabilities\nEngage in ongoing development to deepen scientific expertise, expand disease-area knowledge, and build broader clinical development capabilities\n\nWhy You?\n\nWorking model:\nThis role is hybrid. You will be on-site at one of the posted locations at least two days per week. Remote work is available on other days.\n\nBasic Qualifications\nWe are seeking professionals with the following required skills and qualifications to help us achieve our goals:\n·      Bachelor’s degree in life sciences or related scientific discipline required\n·      5+ years of experience in pharmaceutical/biotechnology industry or related clinical development experience, with a focus on oncology.\n·      Experience in clinical development from early stage through to regulatory submission, including study design, protocol authoring, and data review/interpretation.\n·      Experience working within GCP, ICH, and global regulatory guidelines.\n·      Experience authoring or contributing to clinical study proposals, protocols, Investigator’s Brochures, informed consent forms, clinical study reports, and regulatory submissions.\n·      Experience working within cross-functional matrix teams and contributing to clinical decision-making.\n·      Proven track record of working with investigators, site",
-    "external_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/USA---Pennsylvania---Upper-Providence/Director--Clinical-Science---Oncology-Clinical-Development_449285-1",
-    "status": "matched"
   },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000162453369": {
     "description": "Introduction:\nBuild your expertise in power electronics and high-voltage engineering by working on pulsed power systems that steer CERN's particle beams. Join CERN's Pulsed Power Generators team to develop, test and operate the pulse generators behind the beam transfer and beam dump systems of our accelerators.\nYou will combine hands-on engineering with innovative research, working alongside experienced colleagues who will support your development, and you will have the opportunity to share your results at conferences and in scientific publications. Together, you will develop reliable technologies for today’s accelerators and those of the future.\nFunctions:\nDevelop your expertise and progressively take responsibility for the testing, commissioning and operation of safety-critical pulsed power generators used in the beam dump systems of CERN's Super Proton Synchrotron (SPS) and Large Hadron Collider (LHC), supported by hands-on training and knowledge sharing with experienced colleagues.\nContribute to the full lifecycle of pulsed power systems, from initial studies and design to development, testing, commissioning and operation. Apply engineering and safety principles, using tools such as analogue circuit simulation and numerical field calculations to solve technical challenges and help define specifications for upgrades and future systems.\nDrive research and innovation in next-generation solid-state pulse generators and high-voltage switching technologies. Working with colleagues and specialists across CERN, help develop and validate new solutions for existing accelerator infrastructure and future projects, including the Future Circular Collider (FCC).\nSupport high standards of quality and knowledge sharing by contributing to engineering specifications, testing procedures, technical documentation and scientific publications, while collaborating with colleagues across different disciplines.\nMentor and supervise students and early-career professionals.",
@@ -3164,7 +3134,7 @@
     "title": "Principal Scientist (Director) Health Economics, Oncology (m/f/d)",
     "company": "MSD",
     "location": "CHE - Zurich - Zurich (The Circle)",
-    "posted_date": "2026-11-18",
+    "posted_date": "2026-11-17",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -3272,7 +3242,7 @@
     "title": "Principal Scientist II (Lab Head), Allergy and Plasma Cell Research",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-11-20",
+    "posted_date": "",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -3293,7 +3263,7 @@
     "title": "Senior Scientist, Metabolomics",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-11-18",
+    "posted_date": "2026-11-17",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -3329,12 +3299,17 @@
     "title": "Supply Chain Planning Portfolio Lead",
     "company": "Biogen",
     "location": "Baar, Switzerland",
-    "posted_date": "",
+    "posted_date": "2026-11-18",
     "department": "",
     "score": -2,
     "matched_keywords": [],
     "deducted_keywords": [
       "location:Baar, Switzerland"
     ]
+  },
+  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000162668979": {
+    "description": "The Electrical Engineering Group (EN-EL) at CERN is responsible for the electrical power-distribution network (from 400 kV to 400/230V), for the fibre-optics infrastructure, and for signal and DC-power cabling for the accelerator complex.\nYou will join the electrical Design and Documentation Office (EN-EL-DDO). You will take on a support electrical designer role. This will include the creation and modification of electrical drawings, design of low voltage distribution networks, cable sizing, equipment sizing, LV protection studies and the general support to senior electrical designers. With time you will be required to take on design tasks of increasing complexity. In addition, you will oversee various quality-related activities within the Design Office, such as the management of the printing office and the maintenance and updating of templates.\nThis is the perfect opportunity for a junior technician to further establish their existing knowledge of low voltage distribution circuits by putting it into practice.\nYour responsibilities:\nPreparing design drawings using CAD software.\nPreparing calculation notes using ElecCalc/Caneco BT or similar.\nPreparing bills of material and cabling tables for electrical-related equipment in Excel.\nUpdating excel based design templates.\nGeneral quality related tasks in the design office.\nYour profile:\nDemonstrated experience in:\nThe design of Low voltage distribution networks, cable sizing and selectivity studies.\nProducing drawings in AutoCAD or similar.\nThe intermediate level of Microsoft EXCEL.\nSkills:\nAn understanding of low voltage distribution networks (selectivity, completing calculation notes, knowledge of European LV standards, protection, protection of circuits for indirect contact, knowledge of different types of earthing systems).\nAn understanding of power systems; voltage drop calculations, short circuit calculations, understanding fault levels, dimensioning of cables.\nExperience on low voltage design calculation tools (ElecCalc, Caneco or similar software).\nProficient in AutoCAD or similar.\nProficient in Microsoft Excel.\nSpoken and written English or French, with a commitment to learn the basics of the other language.\nBeneficial skills/or knowledge:\nExperience on the design of lighting systems for buildings and external areas using DIALux.\nExperience with E-PLAN or similar software.\nExperience in the design of medium voltage distribution networks.\nMotivated candidates without direct design office experience would still be considered.\nEligibility criteria:\nBy the application deadline, you have a maximum of two years of professional experience since graduation in Electrical Engineering (or a related field) and your highest educational qualification is a general secondary education diploma.\nYou have never had a CERN fellow or graduate contract before.\nApplicants with a Bachelor's, Master's or PhD degree are not eligible.",
+    "external_url": "https://jobs.smartrecruiters.com/CERN/744000162668979-junior-electrical-designer-low-voltage-distribution-en-el-ddo-2026-218-grae-?oga=true",
+    "status": "matched"
   }
 }
