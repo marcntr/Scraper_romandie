@@ -9,7 +9,7 @@
     "keywords": "npp"
   },
   "_generic:Charles River Laboratories": {
-    "keywords": "regulatory,scientist"
+    "keywords": "regulatory"
   },
   "_generic:MoonLake Immunotherapeutics": {
     "keywords": "clinical development,medical affairs"
@@ -368,7 +368,7 @@
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-11-13"
+    "cached_at": "2026-11-21"
   },
   "_facets:onehealthineers:SHSJB": {
     "facets": {},
@@ -791,7 +791,8 @@
     "https://www.michaelpage.ch/fr/job-detail/sp%C3%A9cialiste-payroll-hfx/ref/jn-102026-7122035?lang=en": "ignored",
     "https://www.michaelpage.ch/fr/job-detail/sp%C3%A9cialiste-qualification-qa/ref/jn-102026-7132926?lang=en": "ignored",
     "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Basel-City/Executive-Director--International-Medical-Affairs--Dermatology_REQ-10089944-1": "ignored",
-    "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Basel-City/Executive-Director--International-Medical-Affairs--Rheumatology_REQ-10089941-1": "ignored"
+    "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Basel-City/Executive-Director--International-Medical-Affairs--Rheumatology_REQ-10089941-1": "ignored",
+    "https://gloorlang.starhunter.software/Headhunter/project/job-ad/hash/6ad8b410346b1": "ignored"
   },
   "_generic:Hurdle Bio": {
     "keywords": "biomarker,precision medicine"
@@ -908,7 +909,7 @@
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-11-13"
+    "cached_at": "2026-11-21"
   },
   "_generic:Bio-Rad": {
     "keywords": "npp"
@@ -1104,11 +1105,6 @@
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000157094440-export-control-compliance-lead-osi-ics-2026-212-ld-?oga=true",
     "status": "matched"
   },
-  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000157394735": {
-    "description": "Vous assurez en étroite collaboration avec votre hiérarchie, la direction d’une unité de soins, la coordination des activités pratiques, les interventions cliniques, thérapeutiques ou chirurgicales de la patientèle qui vous est confiée.\nVous êtes responsable, sous la supervision de votre hiérarchie directe, des actes médicaux relevant du service.\nVous garantissez la qualité des prestations médicales dans les unités de soins y compris dans des activités aigues de type soins intermédiaires et dans le service des urgences adultes, incluant des périodes de garde.\nVous procédez à des actes diagnostiques ou thérapeutiques interventionnels dans les domaines définis par le médecin-chef de service.\nVous contribuez à la formation et accompagnez de manière efficiente les médecins internes et médecins stagiaires dans leur développement de compétences.\nVous assurez des activités de formation, tel que la participation aux séminaires, colloques ou conférences de formation théorique interne et y contribuez par des présentations.\nVous poursuivez vos objectifs de formation selon le plan de formation postgraduée et/ou les exigences de l’ISFM-FMH pour le titre de spécialité envisagé ou la conservation de celui-ci.\nVous participez aux activités de recherche en cours dans le service et participer à l’évaluation de la formation suivie et du degré d’atteinte de ses objectifs.",
-    "external_url": "https://jobs.smartrecruiters.com/HUG/744000157394735-chef-ou-cheffe-de-clinique-au-service-de-medecine-interne-generale-100-?oga=true",
-    "status": "matched"
-  },
   "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000157398174": {
     "description": "Vous assumez sous la supervision de la hiérarchie médicale, les soins médicaux des patientes et patients confiés, les activités pratiques, les interventions cliniques et thérapeutiques. Vous participez au système de garde de nuit de week-end.\nVotre sens de l'organisation et votre capacité à travailler de manière efficace vous permettent d'assurer l’application des règles et des procédures internes, tout en garantissant la qualité des prestations médicales apportées.\nEvoluant dans un environnement universitaire stimulant, au sein d’une équipe pluridisciplinaire, vous contribuez aussi à la formation des étudiants et étudiantes en médecine.\nEn parallèle de votre activité, vous bénéficiez d'une formation post graduée de qualité contribuant à l'obtention de votre titre de spécialiste FMH en ophtalmologie. A ce titre, vous faites évoluer votre formation selon le plan défini et les exigences FMH.",
     "external_url": "https://jobs.smartrecruiters.com/HUG/744000157398174-medecin-interne-au-service-d-ophtalmologie-100-?oga=true",
@@ -1121,7 +1117,7 @@
     "title": "Senior Scientist in Flow Cytometry",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-21",
+    "posted_date": "2026-10-22",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -1143,7 +1139,7 @@
     "title": "Scientist – Oligonucleotide Chemistry & Innovation",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-21",
+    "posted_date": "2026-10-22",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1159,7 +1155,7 @@
     "title": "Lab Scientist, Microscopy",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-21",
+    "posted_date": "2026-10-22",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1179,7 +1175,7 @@
     "title": "Experienced Clinical Scientist/Medical monitor in neurosciences",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-21",
+    "posted_date": "2026-10-22",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -1197,7 +1193,7 @@
     "title": "Sr. Scientist - Computational & Applied AI",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-21",
+    "posted_date": "2026-10-22",
     "department": "",
     "score": 8,
     "matched_keywords": [
@@ -1219,7 +1215,7 @@
     "title": "Experienced Discovery Scientist in Immunology",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-21",
+    "posted_date": "2026-10-22",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -1243,7 +1239,7 @@
     "title": "Post Doctorate Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-21",
+    "posted_date": "2026-10-22",
     "department": "",
     "score": 8,
     "matched_keywords": [
@@ -1265,7 +1261,7 @@
     "title": "Cardio-Renal Discovery & Scientific Strategy Area Leader",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-21",
+    "posted_date": "2026-10-22",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -1286,7 +1282,7 @@
     "title": "\"Principal Scientist siRNA Design",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-21",
+    "posted_date": "2026-10-22",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1302,7 +1298,7 @@
     "title": "Translational Medicine Director/Associate*- Cardiovascular & Metabolic",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-10-21",
+    "posted_date": "2026-10-22",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -1326,7 +1322,7 @@
     "title": "Scientist – Assay Data, AI & Workflows",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-29",
+    "posted_date": "2026-10-30",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1381,7 +1377,7 @@
     "title": "Data Scientist / Engineer - DNA-Encoded Library Technology (DELT)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-29",
+    "posted_date": "2026-10-30",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1398,7 +1394,7 @@
     "title": "Scientific AI Platform Lead, Data Science, Disease Area X",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-10-30",
+    "posted_date": "2026-10-31",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -1467,7 +1463,7 @@
     "title": "Principal Scientist/Senior Scientist, Cryo-EM Structural Biology",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-11-03",
+    "posted_date": "2026-11-04",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1734,7 +1730,7 @@
     "title": "Senior QC Scientist 80-100%",
     "company": "Lonza",
     "location": "CH - Visp",
-    "posted_date": "2026-10-21",
+    "posted_date": "2026-10-22",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -1749,7 +1745,7 @@
     "title": "Senior Scientist, QC",
     "company": "Lonza",
     "location": "CH - Visp",
-    "posted_date": "2026-11-04",
+    "posted_date": "2026-11-05",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -1783,7 +1779,7 @@
     "title": "Associate Principal Scientist - Analytical Development (Microbial) 80%-100% (m/w/d)",
     "company": "Lonza",
     "location": "CH - Visp",
-    "posted_date": "2026-11-05",
+    "posted_date": "2026-11-06",
     "department": "",
     "score": -1,
     "matched_keywords": [
@@ -1796,16 +1792,6 @@
   "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000160135805": {
     "description": "En tant que stagiaire en psychologie de la santé, vous participez à différentes activités en collaboration avec un médecin et une infirmière formés en éducation thérapeutique, ainsi qu’une psychologue en poste : par exemple, l’exploration avec les patientes et les patients de leurs besoins en autogestion concernant leur condition, la participation au développement d’un itinéraire clinique de prise en charge de la goutte, l’animation d’ateliers, l’étude des perceptions et discours des patientes et des patients sur leur prise en charge de leur condition.\nEn collaboration avec l’ensemble de l’équipe pluridisciplinaire du service, vous participez également à la mise en place d’une stratégie de soutien à l’autogestion au service de rhumatologie, dans une dynamique de co-construction.",
     "external_url": "https://jobs.smartrecruiters.com/HUG/744000160135805-stage-en-psychologie-de-la-sante-au-service-de-rhumatologie-50-?oga=true",
-    "status": "matched"
-  },
-  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000160135149": {
-    "description": "Comme instrumentiste, technicien ou technicienne de salle d’opération (TSO) au sein des blocs opératoires, vous assurez l’accueil et l’installation du patient ou de la patiente et vous veillez à sa sécurité.\nVous êtes responsable de préparer le matériel nécessaire à une intervention chirurgicale et de contrôler son bon fonctionnement. Vous assistez le ou la chirurgienne et vous êtes en charge des activités techniques et des soins spécifiques au bloc opératoire dans le respect des règles de bonne pratique, notamment dans le domaine de l’asepsie et des règles d’hygiène.\nVotre engagement et esprit collaboratif vous permettent de contribuer activement au sein d’équipes interprofessionnelles. Vous participez activement aux réflexions visant à améliorer la qualité et la sécurité des soins.\nVous participez à l’encadrement des stagiaires, des étudiantes et étudiants au sein des blocs opératoires.\nVous aurez l’opportunité de participer à des interventions chirurgicales hautement spécialisées. Notre institution offre également de nombreuses possibilités de formation continue et une perspective de développement de carrière.",
-    "external_url": "https://jobs.smartrecruiters.com/HUG/744000160135149-instrumentiste-technicien-ou-technicienne-en-salle-d-operation-tso-80-a-100-?oga=true",
-    "status": "matched"
-  },
-  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000160134225": {
-    "description": "En tant qu’infirmière ou infirmier spécialisé dans le domaine opératoire, vous assurez la prise en charge des patients et patientes durant leur séjour au sein des blocs opératoires. Vous évaluez et analysez les situations de soins complexes et dispensez des soins infirmiers de haut niveau afin de répondre aux besoins et attentes de la patientèle sur le plan techniques, relationnel et préventif. \nVotre engagement et votre esprit collaboratif vous permettent de contribuer activement au sein d’équipes interdisciplinaires. De plus, vous participez activement aux réflexions visant à optimiser la prise en charge des patientes et patients. Vous participez également à l’encadrement des étudiants et étudiantes à la formation spécialisée dans le domaine opératoire. \nNous vous proposons de rejoindre des équipes de professionnels et professionnelles dans un environnement moderne et de pointe. Vous aurez la possibilité de participer à des interventions chirurgicales hautement spécialisées. Notre institution propose également des perspectives de développement des compétences et de développement de carrière. \nNous vous offrons également la possibilité de participer à des projets de recherche clinique visant à faire évoluer les pratiques professionnelles et à apporter des améliorations continues.",
-    "external_url": "https://jobs.smartrecruiters.com/HUG/744000160134225-instrumentiste-infirmier-ou-infirmiere-diplomee-du-domaine-operatoire-iddo-80-a-100-?oga=true",
     "status": "matched"
   },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000160223950": {
@@ -1863,7 +1849,7 @@
     "title": "Patent Attorney II",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-11-10",
+    "posted_date": "2026-11-11",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -2067,7 +2053,7 @@
     "title": "Patent Attorney Trainee",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-11-12",
+    "posted_date": "2026-11-13",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -2095,7 +2081,7 @@
     "title": "Scientist (all genders) Quality Control, Microbiology (80-100%)",
     "company": "Lonza",
     "location": "CH - Visp",
-    "posted_date": "2026-11-12",
+    "posted_date": "2026-11-13",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -2138,7 +2124,7 @@
     "title": "Compound Logistics Workflow and Integration Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-11-13",
+    "posted_date": "2026-11-14",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2410,7 +2396,7 @@
     "title": "Executive Assistant, Regulatory Affairs",
     "company": "BeiGene",
     "location": "Basel",
-    "posted_date": "2026-11-08",
+    "posted_date": "2026-11-09",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2465,7 +2451,7 @@
     "title": "Regulatory Affairs Consultant (German and French language skills)",
     "company": "Parexel",
     "location": "Switzerland-Remote",
-    "posted_date": "2026-10-28",
+    "posted_date": "2026-10-29",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -2482,7 +2468,7 @@
     "title": "Manager, Quality & Regulatory Operations",
     "company": "Danaher",
     "location": "Neuchâtel, Switzerland",
-    "posted_date": "2026-11-04",
+    "posted_date": "2026-11-05",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -2497,7 +2483,7 @@
     "title": "Business Development Director",
     "company": "KBI Biopharma",
     "location": "Switzerland - Plan-les-Ouates",
-    "posted_date": "2026-10-21",
+    "posted_date": "2026-10-22",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -2515,7 +2501,7 @@
     "title": "Intern - Flow Cytometry Scientist",
     "company": "Labcorp",
     "location": "CHE - Geneva - 7 rue Moise-Marcinhes",
-    "posted_date": "2026-10-21",
+    "posted_date": "2026-10-22",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -2531,7 +2517,7 @@
     "title": "Senior Associate Clinical Trials Regulatory Affairs",
     "company": "Amgen",
     "location": "Switzerland - Rotkreuz",
-    "posted_date": "2026-10-21",
+    "posted_date": "2026-10-22",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -2546,7 +2532,7 @@
     "title": "Consultant – Qualitative Market Research & Competitive Intelligence (Switzerland)/ Part-Time",
     "company": "IQVIA",
     "location": "Zug, Switzerland",
-    "posted_date": "2026-10-21",
+    "posted_date": "2026-10-22",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2577,7 +2563,7 @@
     "title": "Associate Principal Scientist - Analytical Project Lead 80-100% (f/m/d)",
     "company": "Lonza",
     "location": "CH - Basel",
-    "posted_date": "2026-11-15",
+    "posted_date": "2026-11-16",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -3004,7 +2990,7 @@
     "title": "Research Scientist, Antigen and Therapeutic Protein Production – Downstream Processing",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-11-18",
+    "posted_date": "2026-11-19",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -3089,7 +3075,7 @@
     "title": "Principal Scientist (Director) Health Economics, Oncology (m/f/d)",
     "company": "MSD",
     "location": "CHE - Zurich - Zurich (The Circle)",
-    "posted_date": "2026-11-17",
+    "posted_date": "2026-11-18",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -3218,7 +3204,7 @@
     "title": "Senior Scientist, Metabolomics",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-11-17",
+    "posted_date": "2026-11-18",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -3254,7 +3240,7 @@
     "title": "Supply Chain Planning Portfolio Lead",
     "company": "Biogen",
     "location": "Baar, Switzerland",
-    "posted_date": "2026-11-18",
+    "posted_date": "2026-11-19",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -3322,27 +3308,13 @@
     "matched_keywords": [],
     "deducted_keywords": []
   },
-  "https://www.michaelpage.ch/fr/job-detail/specialiste-payroll/ref/jn-112026-7149284?lang=en&ng-src=other-users-applied&ng-jn=job-search": {
-    "external_url": "https://www.michaelpage.ch/fr/job-detail/specialiste-payroll/ref/jn-112026-7149284?lang=en&ng-src=other-users-applied&ng-jn=job-search",
-    "status": "matched",
-    "title": "Spécialiste Payroll",
-    "company": "Michael Page Switzerland",
-    "location": "Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": -2,
-    "matched_keywords": [],
-    "deducted_keywords": [
-      "location:Switzerland"
-    ]
-  },
   "https://csl.wd1.myworkdayjobs.com/en-US/CSL_External/jobs": {
     "external_url": "https://csl.wd1.myworkdayjobs.com/en-US/CSL_External/jobs",
     "status": "matched",
     "title": "Manager, Regional Regulatory Lead (EU)",
     "company": "CSL Behring / Vifor",
     "location": "EMEA, CH, Kanton Zurich, Opfikon, CSL Vifor",
-    "posted_date": "2026-11-20",
+    "posted_date": "2026-11-21",
     "department": "",
     "score": 0,
     "matched_keywords": [],
