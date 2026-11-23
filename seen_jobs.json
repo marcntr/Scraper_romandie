@@ -902,7 +902,7 @@
     "deducted_keywords": []
   },
   "_generic:CK QLS": {
-    "keywords": "scientist"
+    "keywords": "medical affairs,medical writer,regulatory,scientist"
   },
   "_facets:edwards:EdwardsCareers": {
     "facets": {},
@@ -1175,28 +1175,6 @@
     "deducted_keywords": [
       "clinical operations"
     ]
-  },
-  "/job/Basel/Sr-Scientist---Computational---Applied-AI_202610-125552-1": {
-    "description": "At Roche you can show up as yourself, embraced for the unique qualities you bring. Our culture encourages personal expression, open dialogue, and genuine connections,  where you are valued, accepted and respected for who you are, allowing you to thrive both personally and professionally. This is how we aim to prevent, stop and cure diseases and ensure everyone has access to healthcare today and for generations to come. Join Roche, where every voice matters.\n\nThe Position\nAdvances in AI, data, and computational sciences are transforming drug discovery and development. Roche’s Research and Early Development organisations (gRED and pRED) have demonstrated how these technologies accelerate R&D, leveraging data and novel computational models to drive impact. Seamless data sharing and access to models across gRED and pRED are essential to maximising these opportunities. The new Computational Sciences Center of Excellence (CS-CoE) is a strategic, unified group whose goal is to harness this transformative power of data and Artificial Intelligence (AI) to assist our scientists in both pRED and gRED to deliver more innovative and transformative medicines for patients worldwide.\n\nWithin this newly established Center of Excellence, our activities operate across a distinct continuum of innovation and explainability. The Computational Biology and Medicine team stands as the vital final link in this continuum. Focussed on our delivery for the portfolio  we bridge advanced algorithmic models with deep mechanistic validation to turn AI-driven hypotheses into validated therapeutic targets and deepen our understanding of disease biology and our patients.\n\nThe Opportunity\n\nThe Senior Computational and Applied AI Scientist within the Computational Biology and Medicine team is responsible for developing and deploying translational and applied AI frameworks to accelerate our Immunology and Cardiovascular, Renal, and Metabolism (CVRM) portfolios. Operating at the final stage of translational execution for Discovery and Early Development, you will focus on moving beyond pure statistical correlation toward a systems-level, mechanistic understanding of disease and target biology. This position offers a trajectory of professional development aligned with scientific excellence and modern enterprise productivity frameworks ensuring our computational pipelines directly optimize R&D throughput and compress discovery cycles.\n\nWorking across departments to co-develop and implement advanced machine learning models focused on explainable and causal AI methods (such as causal models, symbolic regression, and counterfactual inference) to map disease pathways and unlock true mechanistic target validation.\nAdaptation and fine-tune state-of-the-art biological foundation models  to predict novel therapeutic targets in complex immune diseases and CVRM.\nBridging the translational gap by implementing adversarial domain adaptation and cross-species translation algorithms to dynamically align animal model phenotypes with human patient endotypes.\nLeveraging patient-level multi-omics, spatial profiles, and real-world clinical datasets to identify distinct disease endotypes, defining mechanistic patient selection criteria that enable clinical scientists to stratify responder vs. non-responder populations.\nConstructing dynamic representations and physics-informed models (e.g., Neural ODEs, PINNs) to capture physiological kinetics, temporal disease progression, and patient \"digital twins\" entirely in silico.\nApplying graph-based deep learning approaches, building and querying large-scale biological knowledge graphs to capture systems-level interactions across complex tissue-remodeling and auto-inflammatory networks.\nAnchoring the final stage of the organizational continuum, translating algorithmic innovations and \"ML-ready\" frameworks directly into high-value portfolio deliverables.\nCollaborating cross-functionally with clinical scientists, wet-lab disease biology experts, biostatisticians, and enterprise engineers across pRED and gRED to convert ambiguous therapeutic questions into concrete computational pipelines.\nEnsuring provenance and explainability is an integral feature of your insight delivery to stakeholders\n\nWho you are\n\nYou hold a PhD (preferred) or MSc in Computational Biology, Computer Science, Machine Learning, Bioinformatics, Systems Biology, Artificial Intelligence, or a highly quantitative field.\nYou bring 3+ years (Senior Scientist) or 6+ years (Principal Scientist) of post-doctoral or biopharmaceutical industry experience delivering applied AI and data science solutions in a drug-discovery setting.\nYou possess hands-on experience applying causal inference toolkits, graph neural networks, or generative models to high-dimensional biomedical data (single-cell, spatial omics, or clinical trial datasets).\nYou possess experience adapting large-scale biological foundation models or building dynamic systems models to capture temporal disease progression.\nYou demonstrate an active interest or deep domain understanding of human immunology, complex and multifactorial diseases, or system-level pathophysiology.\nYou exhibit elite communication and teamwork skills, with a proven track record of acting as a cross-functional catalyst between pure computational engineers and wet-lab experimentalists.\n\nThis position is based in Basel, Switzerland\n\n \n \n\nWho we are\nA healthier future drives us to innovate. Together, more than 100’000 employees across the globe are dedicated to advance science, ensuring everyone has access to healthcare today and for generations to come. Our efforts result in more than 26 million people treated with our medicines and over 30 billion tests conducted using our Diagnostics products. We empower each other to explore new possibilities, foster creativity, and keep our ambitions high, so we can deliver life-changing healthcare solutions that make a global impact.\n\nLet’s build a healthier future, together.\n\nRoche is an Equal Opportunity Employer.",
-    "external_url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Sr-Scientist---Computational---Applied-AI_202610-125552-1",
-    "status": "ignored",
-    "title": "Sr. Scientist - Computational & Applied AI",
-    "company": "Roche",
-    "location": "Basel",
-    "posted_date": "2026-10-24",
-    "department": "",
-    "score": 8,
-    "matched_keywords": [
-      "MSc",
-      "PhD",
-      "Post-doc",
-      "bioinformatics",
-      "computational biology",
-      "drug discovery",
-      "immunology",
-      "post-doctoral"
-    ],
-    "deducted_keywords": []
   },
   "/job/Basel/Experienced-Discovery-Scientist-in-Immunology_202610-125511-1": {
     "description": "At Roche you can show up as yourself, embraced for the unique qualities you bring. Our culture encourages personal expression, open dialogue, and genuine connections,  where you are valued, accepted and respected for who you are, allowing you to thrive both personally and professionally. This is how we aim to prevent, stop and cure diseases and ensure everyone has access to healthcare today and for generations to come. Join Roche, where every voice matters.\n\nThe Position\nIn Roche’s Pharmaceutical Research and Early Development organization (pRED), we make transformative medicines for patients in order to tackle some of the world’s toughest unmet healthcare needs. At pRED, we are united by our mission to transform science into medicines. Together, we create a culture defined by curiosity, responsibility, and humility, where our talented people are empowered and inspired to bring forward extraordinary life-changing innovation at speed.\nIn the Immunology Department of pRED’s Cardiovascular, Metabolism, Immunology, Infectious Diseases (CMI2), we focus on the discovery and early development of innovative treatments for inflammatory diseases that affect the lives of millions.\n\nThe Opportunity\n\nTo complement the Immunology team in pRED CMI2, we are seeking a visionary, strategic, experienced Discovery Scientist with a strong academic background in inflammation research, a track record in drug discovery from target discovery to Ph1 and proven ability to effectively lead teams and projects.\nAs an experienced DiscoveryScientist in pRED CMI2, you will be a core scientific leader of an international and multidisciplinary group of scientists and clinicians committed to delivering innovative solutions for patients living with IBD, COPD and other inflammatory diseases by combining cutting-edge approaches in biology, pharmacology and translational research. \nKey Responsibilities:\n\nScientific leadership and strategy: define and execute the scientific strategy for novel target identification and validation in inflammatory diseases\nProject leadership: lead cross-functional teams to drive pipeline programs from early discovery to IND-enabling stages.\nSubject matter leadership:  with our dedicated team of lab-based associates and post-doctoral scientists, you will direct, oversee and interpret complex preclinical experimental studies for the validation and characterisation of targets or therapeutic approaches.\nExternal representation and partnerships: As an internal expert in evaluating external licensing opportunities and academic collaborations, you will be a member of diligence teams and present the findings to leadership \nMentorship and development: Managing, mentoring and developing scientists and postdocs to foster a culture of collaboration, innovation, and scientific rigor.\n\nWho You Are\n\nYou hold a PhD degree in Life Sciences (cellular/ molecular biology, pharmacology, immunology - or closely related field) and bring >10 years of experience in the pharmaceutical industry. \nYou bring deep expertise in disease biology of inflammatory diseases, including inflammatory bowel disease and/or chronic obstructive pulmonary disease \n\nYou have led drug discovery projects in the pharmaceutical / biotech industry and collaborated on in- or out-licensing activities. You have a good understanding of pharmacological properties of therapeutic modalities such as small molecules and antibodies. \n\nYou have significant scientific accomplishments and successful collaborations documented by publications in high-impact journals\n\nYou value collaboration within and across teams and have a strong visionary and strategic thinking capacity. You integrate clinical and commercial aspects into early drug discovery strategies and you have the ability to balance multiple priorities in a fast-paced, matrixed organisation. \nYou are a proficient communicator of scientific data and strategic concepts to colleagues, teams and senior management. \n\nAt Roche, we aim high to deliver life-changing healthcare solutions. If you’re ready to make a meaningful impact on patients and healthcare systems worldwide, this is the place for you. \n\n \n \n\nWho we are\nA healthier future drives us to innovate. Together, more than 100’000 employees across the globe are dedicated to advance science, ensuring everyone has access to healthcare today and for generations to come. Our efforts result in more than 26 million people treated with our medicines and over 30 billion tests conducted using our Diagnostics products. We empower each other to explore new possibilities, foster creativity, and keep our ambitions high, so we can deliver life-changing healthcare solutions that make a global impact.\n\nLet’s build a healthier future, together.\n\nRoche is an Equal Opportunity Employer.",
@@ -2168,21 +2146,6 @@
       "location:Henniez, CH"
     ]
   },
-  "https://jobdetails.nestle.com/job/Broc-Sp%C3%A9cialiste-Am%C3%A9lioration-Continue-1636/1456785133/": {
-    "description": "Instantané de la position\n\nLieu : Broc, Suisse\nEntité : Nestlé Suisse S.A.\nTaux : 100%\nType de contrat : CDI\n\nRésumé de la position\n\nLa fabrique de Broc, berceau du chocolat Cailler, allie depuis plus d’un siècle tradition, savoir-faire et innovation. Afin d’accompagner l’évolution de nos méthodes de travail et de renforcer notre culture d’amélioration continue, nous recherchons un(e) Spécialiste Amélioration Continue pour rejoindre notre équipe Production.\n\nDans ce rôle, vous contribuez activement à l’amélioration de la performance de votre secteur en pilotant des projets d’amélioration continue et de digitalisation basés sur la méthodologie TPM. Vous traduisez les priorités du secteur en initiatives concrètes, accompagnez leur mise en œuvre et mesurez leur impact sur la performance. Vous accompagnez également le déploiement et la pérennisation des standards, participez au développement des compétences des équipes et restez au plus près des opérations et des réalités du terrain.\n\nUne journée dans la vie d’un(e) Spécialiste Amélioration Continue\n\nPiloter des projets d’amélioration continue et de digitalisation, en lien avec les priorités du secteur, afin d’améliorer durablement la performance, les méthodes de travail et l’organisation.\n\nAssurer le déploiement et l’adoption des outils digitaux au sein de la fabrique (POKA, PROMETEUS, DMO MMS, DMO Performance), en veillant à leur intégration dans les pratiques opérationnelles.\n\nAnalyser les pertes et identifier les opportunités d’amélioration, définir les priorités d’action et accompagner leur mise en œuvre, en s’appuyant sur les principes et méthodologies TPM.\n\nContribuer au développement et à la pérennisation des standards de production, en veillant à leur appropriation par les équipes et à leur efficacité dans la durée.\n\nAccompagner le développement des compétences des équipes, en assurant un rôle de formateur interne et en favorisant le partage des bonnes pratiques.\n\nFédérer les différents interlocuteurs autour des projets de transformation, faciliter la résolution de problèmes et contribuer à l’amélioration durable de la performance.\n\nMaintenir une forte proximité avec les opérations afin de connecter les enjeux de performance aux réalités du terrain et soutenir activement les équipes lorsque les besoins opérationnels le nécessitent.\n\nFaire vivre une culture de courage, de collaboration, d’agilité et d’apprentissage continu, en transformant les idées en actions concrètes et en résultats mesurables.\n\n \n\nCe qui fera votre réussite\n\nFormation supérieure dans un domaine technique ou industriel, de type diplôme d’ingénieur, Brevet fédéral ou formation jugée équivalente.\n\nParcours confirmé dans un environnement de production industrielle, avec une bonne compréhension des enjeux opérationnels et de performance.\n\nExpérience dans la conduite de projets d’amélioration continue et bonne maîtrise des méthodologies TPM, Lean ou équivalentes.\n\nIntérêt marqué pour la digitalisation et les nouvelles technologies, avec la capacité à identifier et exploiter des solutions digitales au service de la performance opérationnelle.\n\nExcellentes capacités d’analyse et de résolution de problèmes, avec une approche structurée et orientée résultats.\n\nCapacité à piloter des projets de manière autonome et à mobiliser différents interlocuteurs autour d’objectifs communs.\n\nAisance dans la transmission des connaissances et l’accompagnement des équipes, avec un réel intérêt pour la formation et le développement des compétences.\n\nForte orientation terrain, esprit d’initiative et capacité à travailler en étroite collaboration avec les équipes de production.\n\nTrès bonne maîtrise du français ; des connaissances en anglais constituent un atout.\n\n \n\nChez Nestlé, nous créons un environnement de travail diversifié, collaboratif et orienté développement. Nous recherchons une personne curieuse, pragmatique et proche du terrain, capable de prendre du recul tout en restant connectée aux réalités opérationnelles.\n\nBe a force for good. Rejoignez Nestlé.",
-    "external_url": "https://jobdetails.nestle.com/job/Broc-Sp%C3%A9cialiste-Am%C3%A9lioration-Continue-1636/1456785133/",
-    "status": "matched",
-    "title": "Spécialiste Amélioration Continue",
-    "company": "Nestlé",
-    "location": "Broc, CH, 1636",
-    "posted_date": "",
-    "department": "",
-    "score": -2,
-    "matched_keywords": [],
-    "deducted_keywords": [
-      "location:Broc, CH, 1636"
-    ]
-  },
   "/job/CH---Basel/Associate-Principal-Scientist---Analytical-Project-Lead-80-100---f-m-d-_R80779": {
     "description": "The actual location of this job is in Basel Stücki, Switzerland. Relocation assistance is available for eligible candidates and their families, if needed.\nThis is a fully site‑based role. Working together in person supports close, real‑time collaboration and the technical precision needed to manufacture medicines to the highest quality and safety standards.\n \nFor our successful Drug Product focused branch located in Basel and Stein, Switzerland, we have exciting opportunities. Become part of a group that enables its customers to meet some of the greatest challenges in patient treatment and join us by applying for this Associate Principal Scientist position.\n \nWhat you will get:\nAn agile career and a dynamic work culture\nAn inclusive and ethical workplace\nCompensation programs that recognize high performance\n \n\nWhat you will do:\nLead analytical discussions with customers and interface with subject Matter Experts (SME) representing all DPS Analytics groups\nEnsure project timelines and deliverables are visible and maintained in relevant planning tools\nOversee delivery of analytical milestones by liaising with relevant DPS Analytics executional groups\nSupport Project Leads with analytical SOWs and engage with SMEs as well as amendments team as required\nSet-up strategy for DPS analytical programs: Control strategy, specifications, analytical method lifecycle, platform methods/ product-specific methods\nMaintain up-to-date knowledge of assigned molecules as well as method strategy, industry issues/trends and pharmacopeia\nManage development and evaluation of analytical methods and technologies to support formulation development and Drug Product testing (GMP and non-GMP, specifically including HPLC and CE purity methods, content by UV, color, clarity and opalescence, pH, osmolality, extractable volume, CCI, visual inspection).\nContribute to the design and set up of analytical development processes across DPS\nAdhere to cGMP regulations as required\n \n\nWhat we are looking for:\nPhD degree in Analytical Chemistry, Biochemistry, Pharmaceutical Sciences or related field\nIndustrial work experience in analytical development and/or QC, preferably with cGMP experience\nExperience with analytical lifecycle for biotechnology products, CMC requirements for regulatory filings and working in a matrix organization highly desired\nVery good working knowledge in all relevant analytical techniques \nExperience with parenteral dosage forms and protein analytics\nAbility to interpret complex analytical data\nCapability to work independently and in a team environment\nExcellent communication, supervisory, reporting and scientific skills\nFluent in English, written and spoken\n \n\nAbout Lonza\nAt Lonza, our people are our greatest strength. With 30+ sites across five continents, our globally connected teams work together every day to manufacture the medicines of tomorrow. Our core values of Collaboration, Accountability, Excellence, Passion and Integrity reflect who we are and how we work together. Everyone’s ideas, big or small, have the potential to improve millions of lives, and that’s the kind of work we want you to be part of.\n\nInnovation thrives when people from all backgrounds bring their unique perspectives to the table. At Lonza, we value diversity and are committed to creating an inclusive environment for all employees. If you’re ready to help turn our customers’ breakthrough ideas into viable therapies, we look forward to welcoming you on board.\n\nReady to shape the future of life sciences? Apply now.",
     "external_url": "https://lonza.wd3.myworkdayjobs.com/Lonza_Careers/job/CH---Basel/Associate-Principal-Scientist---Analytical-Project-Lead-80-100---f-m-d-_R80779",
@@ -2343,202 +2306,6 @@
     ],
     "deducted_keywords": []
   },
-  "https://www.michaelpage.ch/de/job-detail/business-development-manager-schweiz-wohnungswirtschaft/ref/jn-092026-7094364?lang=en": {
-    "external_url": "https://www.michaelpage.ch/de/job-detail/business-development-manager-schweiz-wohnungswirtschaft/ref/jn-092026-7094364?lang=en",
-    "status": "ignored",
-    "title": "Business Development Manager Schweiz - Wohnungswirtschaft",
-    "company": "Michael Page Switzerland",
-    "location": "Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": -2,
-    "matched_keywords": [],
-    "deducted_keywords": [
-      "location:Switzerland"
-    ]
-  },
-  "https://www.michaelpage.ch/de/job-detail/sales-account-manager-b2b-mwd/ref/jn-102026-7129840?lang=en": {
-    "external_url": "https://www.michaelpage.ch/de/job-detail/sales-account-manager-b2b-mwd/ref/jn-102026-7129840?lang=en",
-    "status": "ignored",
-    "title": "Sales & Business Development - Zürcher KMU",
-    "company": "Michael Page Switzerland",
-    "location": "Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": -2,
-    "matched_keywords": [],
-    "deducted_keywords": [
-      "location:Switzerland"
-    ]
-  },
-  "https://www.michaelpage.ch/de/job-detail/business-development-manager-100/ref/jn-102026-7129527?lang=en": {
-    "external_url": "https://www.michaelpage.ch/de/job-detail/business-development-manager-100/ref/jn-102026-7129527?lang=en",
-    "status": "ignored",
-    "title": "Business Development Manager (a) 100%",
-    "company": "Michael Page Switzerland",
-    "location": "Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": -2,
-    "matched_keywords": [],
-    "deducted_keywords": [
-      "location:Switzerland"
-    ]
-  },
-  "https://www.michaelpage.ch/de/job-detail/business-development-manager-100/ref/jn-082026-7090776?lang=en": {
-    "external_url": "https://www.michaelpage.ch/de/job-detail/business-development-manager-100/ref/jn-082026-7090776?lang=en",
-    "status": "ignored",
-    "title": "Business Development Manager (a) 100%",
-    "company": "Michael Page Switzerland",
-    "location": "Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": -2,
-    "matched_keywords": [],
-    "deducted_keywords": [
-      "location:Switzerland"
-    ]
-  },
-  "https://www.michaelpage.ch/job-detail/senior-global-regulatory-affairs-leader/ref/jn-102026-7123784": {
-    "external_url": "https://www.michaelpage.ch/job-detail/senior-global-regulatory-affairs-leader/ref/jn-102026-7123784",
-    "status": "ignored",
-    "title": "Senior Global Regulatory Affairs Leader (a)",
-    "company": "Michael Page Switzerland",
-    "location": "Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": -2,
-    "matched_keywords": [],
-    "deducted_keywords": [
-      "location:Switzerland"
-    ]
-  },
-  "https://www.michaelpage.ch/fr/job-detail/sp%C3%A9cialiste-payroll-hfx/ref/jn-102026-7122035?lang=en": {
-    "external_url": "https://www.michaelpage.ch/fr/job-detail/sp%C3%A9cialiste-payroll-hfx/ref/jn-102026-7122035?lang=en",
-    "status": "ignored",
-    "title": "Spécialiste Payroll (H/F/X)",
-    "company": "Michael Page Switzerland",
-    "location": "Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": -2,
-    "matched_keywords": [],
-    "deducted_keywords": [
-      "location:Switzerland"
-    ]
-  },
-  "https://www.michaelpage.ch/fr/job-detail/sp%C3%A9cialiste-rh-mission-temporaire/ref/jn-102026-7138059?lang=en": {
-    "external_url": "https://www.michaelpage.ch/fr/job-detail/sp%C3%A9cialiste-rh-mission-temporaire/ref/jn-102026-7138059?lang=en",
-    "status": "ignored",
-    "title": "Spécialiste RH",
-    "company": "Michael Page Switzerland",
-    "location": "Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": -2,
-    "matched_keywords": [],
-    "deducted_keywords": [
-      "location:Switzerland"
-    ]
-  },
-  "https://www.michaelpage.ch/fr/job-detail/sp%C3%A9cialiste-qualification-qa/ref/jn-102026-7132926?lang=en": {
-    "external_url": "https://www.michaelpage.ch/fr/job-detail/sp%C3%A9cialiste-qualification-qa/ref/jn-102026-7132926?lang=en",
-    "status": "ignored",
-    "title": "Spécialiste Qualification QA",
-    "company": "Michael Page Switzerland",
-    "location": "Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": -2,
-    "matched_keywords": [],
-    "deducted_keywords": [
-      "location:Switzerland"
-    ]
-  },
-  "https://www.michaelpage.ch/job-detail/analytics-and-business-intelligence-analyst-12-month-contract/ref/jn-092026-7105923": {
-    "external_url": "https://www.michaelpage.ch/job-detail/analytics-and-business-intelligence-analyst-12-month-contract/ref/jn-092026-7105923",
-    "status": "ignored",
-    "title": "Analytics and Business Intelligence Analyst - 12 month contract",
-    "company": "Michael Page Switzerland",
-    "location": "Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": -2,
-    "matched_keywords": [],
-    "deducted_keywords": [
-      "location:Switzerland"
-    ]
-  },
-  "https://www.michaelpage.ch/job-detail/associate-director-heor-hematology/ref/jn-092026-7104459": {
-    "external_url": "https://www.michaelpage.ch/job-detail/associate-director-heor-hematology/ref/jn-092026-7104459",
-    "status": "ignored",
-    "title": "Associate Director HEOR Hematology (a)",
-    "company": "Michael Page Switzerland",
-    "location": "Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": -2,
-    "matched_keywords": [],
-    "deducted_keywords": [
-      "location:Switzerland"
-    ]
-  },
-  "https://www.michaelpage.ch/job-detail/data-and-market-intelligence-analyst/ref/jn-072026-7074770": {
-    "external_url": "https://www.michaelpage.ch/job-detail/data-and-market-intelligence-analyst/ref/jn-072026-7074770",
-    "status": "ignored",
-    "title": "Data and Market Intelligence Analyst",
-    "company": "Michael Page Switzerland",
-    "location": "Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": -2,
-    "matched_keywords": [],
-    "deducted_keywords": [
-      "location:Switzerland"
-    ]
-  },
-  "https://www.michaelpage.ch/job-detail/client-portfolio-manager-investment-associate/ref/jn-092026-7101747": {
-    "external_url": "https://www.michaelpage.ch/job-detail/client-portfolio-manager-investment-associate/ref/jn-092026-7101747",
-    "status": "ignored",
-    "title": "Client Portfolio Manager / Investment Associate",
-    "company": "Michael Page Switzerland",
-    "location": "Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": -2,
-    "matched_keywords": [],
-    "deducted_keywords": [
-      "location:Switzerland"
-    ]
-  },
-  "https://www.michaelpage.ch/fr/job-detail/sp%C3%A9cialiste-salaires-mission-temporaire/ref/jn-102026-7120040?lang=en": {
-    "external_url": "https://www.michaelpage.ch/fr/job-detail/sp%C3%A9cialiste-salaires-mission-temporaire/ref/jn-102026-7120040?lang=en",
-    "status": "ignored",
-    "title": "Spécialiste Salaires - mission temporaire",
-    "company": "Michael Page Switzerland",
-    "location": "Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": -2,
-    "matched_keywords": [],
-    "deducted_keywords": [
-      "location:Switzerland"
-    ]
-  },
-  "https://www.michaelpage.ch/job-detail/asap-sponsorship-business-development-manager-mwd/ref/jn-092026-7096210": {
-    "external_url": "https://www.michaelpage.ch/job-detail/asap-sponsorship-business-development-manager-mwd/ref/jn-092026-7096210",
-    "status": "ignored",
-    "title": "ASAP: Sponsorship & Business Development Manager (m/w/d)",
-    "company": "Michael Page Switzerland",
-    "location": "Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": -2,
-    "matched_keywords": [],
-    "deducted_keywords": [
-      "location:Switzerland"
-    ]
-  },
   "/job/London-The-Westworks/Precision-Medicine-Director_REQ-10079235-1": {
     "description": "Salary Range:£83,510.00 - £155,090.00\n\n \nJob Description Summary#LI-Hybrid\nWork Arrangement: Hybrid Working\nNovartis is unable to offer relocation support: please only apply if accessible.\n\nThe Precision Medicine Director is responsible for developing and executing precision medicine strategies aligned to disease area and clinical program objectives. This role leads biomarker and diagnostic activities to enable patient selection, registrational biomarker endpoints and biomarker based clinical trial design. Acting as a key scientific and strategic partner, the position ensures high-quality execution of precision medicine initiatives across global clinical programs. This position supports the Neuroscience disease area.\n\n \nJob Description\nAbout the Role\nThe Precision Medicine Director leads the development and execution of precision medicine strategies in support of clinical programs, ensuring alignment with broader disease area and global development strategies.\nThis role operates at the intersection of clinical development, biomarker science, and diagnostics, leading cross-functional teams to design and implement biomarker strategies. The position plays a critical role in enabling patient selection, supporting regulatory submissions, and ensuring high-quality, compliant delivery of clinical and diagnostic programs.\n\nKey Responsibilities\n\nDevelop and execute precision medicine strategies aligned with disease area and clinical program objectives\n\nLead cross-functional biomarker sub-teams covering molecular epidemiology, assay development, and data analysis\n\nServe as a core member of global clinical teams and act as subject matter expert in precision medicine\n\nContribute to diagnostic target product profiles and companion diagnostic development strategies\n\nIdentify and manage risks to ensure successful delivery of precision medicine programs\n\nAuthor biomarker and diagnostic sections of key clinical development documents\n\nSupport regulatory submissions as a precision medicine and biomarker expert\n\nFacilitate collaborations with external academic and scientific partners\n\nEnsure compliance with applicable medical device regulations and internal quality standards\n\nPromote knowledge sharing and contribute to operational excellence and process improvement\n\nEssential Requirements\n\nSignificant experience in clinical research, clinical trials, or precision medicine within a life sciences environment\n\nProven experience leading cross-functional and multi-disciplinary teams\n\nStrong understanding of biomarker strategies, companion diagnostics, and clinical development processes\n\nExperience working within regulated environments and complying with global regulatory standards\n\nStrong leadership, stakeholder management, and collaboration skills\n\nAbility to manage risk and drive strategic decision-making\n\nExperience developing clinical or regulatory documentation\n\nStrong scientific and analytical capabilities within life sciences\n\nDesirable Requirements\n\nExperience supporting global regulatory submissions for diagnostics or biomarker strategies\n\nExperience working with external academic or research collaborations\n\nCommitment to Diversity and Inclusion\nNovartis is committed to building an outstanding, inclusive work environment and diverse teams representative of the patients and communities we serve.\nWhy Novartis: Helping people with disease and their families takes more than innovative science. It takes a community of smart, passionate people like you. Collaborating, supporting and inspiring each other. Combining to achieve breakthroughs that change patients’ lives. Ready to create a brighter future\ntogether? https://www.novartis.com/about/strategy/people-and-culture\nYou’ll receive:\nCompetitive salary, Short term incentive bonus, Pension scheme, Health insurance, 25 days annual leave, Flexible working arrangements, Employee recognition scheme, learning and development opportunities\nBenefits and Rewards: Learn about all the ways we’ll help you thrive personally and professionally.\nRead our handbook (PDF 30 MB)\n\n \nSkills DesiredBudget Management, Clinical Research, Clinical Trials, Coaching, Cross-Functional Teamwork, Lifesciences (Inactive), People Management, Risk Management, Risk Monitoring",
     "external_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/London-The-Westworks/Precision-Medicine-Director_REQ-10079235-1",
@@ -2646,34 +2413,6 @@
     "external_url": "https://jobs.smartrecruiters.com/HUG/744000162457519-secretaire-medical-ou-medicale-au-service-des-maladies-infectieuse-70-a-80-?oga=true",
     "status": "matched"
   },
-  "https://www.michaelpage.ch/fr/job-detail/specialiste-payroll/ref/jn-112026-7149284?lang=en": {
-    "external_url": "https://www.michaelpage.ch/fr/job-detail/specialiste-payroll/ref/jn-112026-7149284?lang=en",
-    "status": "matched",
-    "title": "Spécialiste Payroll",
-    "company": "Michael Page Switzerland",
-    "location": "Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": -2,
-    "matched_keywords": [],
-    "deducted_keywords": [
-      "location:Switzerland"
-    ]
-  },
-  "https://www.michaelpage.ch/fr/job-detail/specialiste-paie-80-100/ref/jn-112026-7145840?lang=en": {
-    "external_url": "https://www.michaelpage.ch/fr/job-detail/specialiste-paie-80-100/ref/jn-112026-7145840?lang=en",
-    "status": "matched",
-    "title": "Spécialiste Paie - CDD",
-    "company": "Michael Page Switzerland",
-    "location": "Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": -2,
-    "matched_keywords": [],
-    "deducted_keywords": [
-      "location:Switzerland"
-    ]
-  },
   "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000162550839": {
     "description": "Sous la responsabilité du personnel infirmier et médical, vous soutenez les patients et patientes dans les soins quotidiens composés de l'hygiène corporelle, l'alimentation, la mobilisation et les soins de confort. Vous développez et favorisez les relations humaines. \nLors de votre apprentissage, vous dispensez sur délégation et en collaboration avec le personnel infirmier, des actes médico-techniques, comme par exemple, l'administration de médicaments, les injections et la mise en place de pansements. \nEn collaboration avec l'équipe médico-soignante, vous gérez les situations d'urgence détectant les signes, donnant les alertes, et en assurant la gestion des premiers gestes avec le corps infirmier ou médical. \nDe plus, vous accompagnez les personnes en situation de crise en adoptant une attitude appropriée. \nPar ailleurs, vous soutenez les personnes en situation de fin de vie en identifiant leurs besoins et en évaluant leur douleur. \nL'intendance du matériel de soins (utilisation, nettoyage et maintien de l'environnement du patient et de la patiente) et la logistique (admission d'un ou une patiente, rendez-vous pour un examen et sortie) font également partie du profil de compétences ASSC.",
     "external_url": "https://jobs.smartrecruiters.com/HUG/744000162550839-apprentissage-assistant-ou-assistante-en-soins-et-sante-communautaire-cfc-100-?oga=true",
@@ -2698,20 +2437,6 @@
     "description": "À la Clinique de Crans-Montana, l’équipe du service hôtelier contribue chaque jour au confort, à l’accueil et au bien-être des patientes et patients. Elle assure l’entretien des chambres et des locaux selon les normes d’hygiène hospitalière en vigueur, participe au service des repas en salle à manger et à la cafétéria, et veille à offrir un environnement agréable et de qualité.\nEn tant qu’apprentie ou apprenti gestionnaire en hôtellerie-intendance, vous êtes amené ou amenée à découvrir et à exercer de nombreuses activités au sein de différents secteurs de l’institution. Vous participez aux travaux de nettoyage et d’entretien, au service des repas et des boissons, à la gestion du linge, à l’accueil des patients à la réception ainsi qu’à certaines activités de préparation en cuisine. Vous réalisez également diverses tâches administratives, notamment liées à la gestion des stocks et aux commandes.\nLa diversité des missions proposées et les exigences propres au milieu hospitalier vous permettent de bénéficier d’une formation complète et variée, favorisant le développement de compétences tant techniques que relationnelles. Afin d’enrichir votre parcours, des stages externes sont organisés pour vous permettre de découvrir d’autres domaines d’activité, notamment la gestion professionnelle d’une lingerie.\nAu fil de votre apprentissage, vous développez votre sens du service, votre autonomie et votre polyvalence, tout en acquérant les compétences nécessaires à l’exercice du métier, conformément aux objectifs de votre formation.",
     "external_url": "https://jobs.smartrecruiters.com/HUG/744000162515860-apprentissage-de-gestionnaire-ou-employe-ou-employee-en-hotellerie-intendance-afp-cfc-crans-montana-100-?oga=true",
     "status": "matched"
-  },
-  "https://www.michaelpage.ch/fr/job-detail/specialiste-assurances-rc-internationale-fr-eng/ref/jn-102026-7131578?lang=en": {
-    "external_url": "https://www.michaelpage.ch/fr/job-detail/specialiste-assurances-rc-internationale-fr-eng/ref/jn-102026-7131578?lang=en",
-    "status": "matched",
-    "title": "Spécialiste Assurances RC Internationale FR / ENG 80% - 100% (m / f)",
-    "company": "Michael Page Switzerland",
-    "location": "Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": -2,
-    "matched_keywords": [],
-    "deducted_keywords": [
-      "location:Switzerland"
-    ]
   },
   "/job/Basel/Lifecycle-Leader---RAS-Portfolio_202607-119839-3": {
     "description": "At Roche you can show up as yourself, embraced for the unique qualities you bring. Our culture encourages personal expression, open dialogue, and genuine connections,  where you are valued, accepted and respected for who you are, allowing you to thrive both personally and professionally. This is how we aim to prevent, stop and cure diseases and ensure everyone has access to healthcare today and for generations to come. Join Roche, where every voice matters.\n\nThe Position\nRoche - we advance science so that we all have more time with the people we love.\n\nOur Global Pharma Strategy (GPS) team plays a pivotal role in shaping the future of healthcare by driving the strategic direction of our innovative product portfolio. As a member of the GPS team, you will be at the forefront of transforming groundbreaking scientific discoveries into accessible and impactful healthcare solutions for patients worldwide. We are seeking a dynamic and visionary professional who thrives in a collaborative environment and is passionate about making a difference.\n\nThe Opportunity\n\nAs a Lifecycle Leader for the broad RAS Portfolio, including a next-generation KRAS G12C inhibitor,  you will lead the asset(s) strategy and portfolio from research through to the patient. You will play a critical role in leading the Life Cycle Team (LCT) and acting as accountable to the Late Stage Portfolio Committee (LSPC), maximizing the value of a product for patients, society, and the company by leading an integrated, global, and cross-functional strategy and team.\n\nKey Responsibilities\n\n1. Strategy & Vision (Shaping the Long-Term Path)\nShaping the long-term vision and strategy for the broad RAS Portfolio, including a next-generation KRAS G12C inhibitor, in partnership with early development, Pharma Development, Global Pharma Strategy, Pharma Development Medical Affairs leads, and respective external partners.\nUnlock value earlier: Being involved earlier in the lifecycle to create a seamless transition from early to late stage (e.g., providing relevant input into the one asset team at critical time points such as a pivotal enabling Clinical Development Plan (CDP)).\nSupporting relevant early development asset teams, licensing, and other business development activities.\n\n2. Integrated Leadership & Decision-Making (Driving Cross-Functional Success)\nDriving alignment and integrated decision-making with the Global Development Team, Global Technical Team and Commercial Leadership Team to realize the potential of the asset(s), within the context of the asset, disease area and therapeutic area strategies.\nAccountability to drive asset/disease area & enterprise mindset and team capability development (in line with OnePharmaStrategy).\nServing as an inspiring leader, aligning people towards a vision while building a culture of accountability, collaboration, inclusion, and trust.\nServing as a thought partner and sounding board for the GPS and cross-organisation teams and relevant internal and external stakeholders, ensuring that franchise and enterprise goals are met.\n\n3. Lifecycle Value & Execution (Maximizing Value and Delivery)\nAccountable for the resource ask, appropriate utilization, and the delivery of the aNPV (Adjusted Net Present Value) to the Late Stage Portfolio Committee (LSPC).\nLifecycle excellence: Continually assess and evolve the asset strategy, in the context of external dynamics, new opportunities and DA strategy, by evaluating and triggering different value levers to maximise the asset's potential.\nThis includes the integrated leadership to propose and deliver indications, formulations, devices, diagnostics and digital tools, along with the evidence generation strategy, to address the appropriate treatable population in collaboration with the Commercial Leadership Team (CLT), Global Development Team (GDT), Global Technical Team (TDT) and others.\n\nWho You Are\n\nEducation: Bachelor’s degree required (preferably in marketing, business management, or life sciences); an MD, PhD, relevant postgraduate degree, or MBA is a strong advantage.\nPharma & Commercial Expertise: 12+ years of multidisciplinary biopharma experience with a proven track record of developing and executing breakthrough commercial/development strategies, product launches, and product management delivering significant financial results.\nTherapeutic Depth: Mandatory oncology and solid tumor experience, paired with desired expertise in RAS and a solid grasp of technical, supply, development, regulatory, and global market access/reimbursement landscapes.\nStrategic Global Leadership: 5+ years of global strategic leadership experience, demonstrating exceptional agility, long-term vision, and deep industry knowledge to craft innovative business strategies.\nTeam Building & Influence: Proven ability to build and develop high-performing teams, lead in complex cross-functional environments, and navigate dynamic internal and external environments to deliver measurable value.\n\nWhat success looks like in the role:\n\nMaximizing Value: Success is achieved by maximizing the product's lifecycle value to patients, society, and the company.\nExecution and Financial Targets:  Ensuring the timely, on-target, and within-budget delivery of the product strategy, including meeting key milestones and financial targets for the product.\nLeadership and Accountability: A key measure of success is the ability to effectively develop and lead a high-performing team to create and deliver the asset strategy within a dynamic internal and external context.\n\nJoin us in our mission to advance science and deliver hope to those who need it most.\n\n \n Where pay transparency applies, details are provided based on the primary posting location. For this role, the primary location is Basel. If you are interested in additional locations where the role may be available, we will provide the relevant compensation details later in the hiring process.\n\nWho we are\nA healthier future drives us to innovate. Together, more than 100’000 employees across the globe are dedicated to advance science, ensuring everyone has access to healthcare today and for generations to come. Our efforts result in more than 26 million people treated with our medicines and over 30 billion tests conducted using our Diagnostics products. We empower each other to explore new possibilities, foster creativity, and keep our ambitions high, so we can deliver life-changing healthcare solutions that make a global impact.\n\nLet’s build a healthier future, together.\n\nRoche is an Equal Opportunity Employer.",
@@ -3381,5 +3106,48 @@
       "immunology"
     ],
     "deducted_keywords": []
+  },
+  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000163268489": {
+    "description": "As a Detector Integration Engineer, you will support the construction and testing of the CMS Phase-2 Outer Tracker, focusing on its mechanical and cooling systems at the Tracker Integration Facility (TIF), where detector components are assembled, integrated and tested. You will contribute to the operation of the detector's evaporative CO₂ cooling system, support testing and commissioning activities, and work alongside experienced specialists on its operation and maintenance.\nYour responsibilities\nPlanning and operation of the TIF CO2 cooling plant according to the different users' needs.\nCoordination of the connections/disconnections of the different users.\nAssistance to the users for the connections/disconnections including leak testing.\nOperation of the automatic/cyclic pressure test setup in TIF for pressure tests of the detector's piping assemblies.\nSupervise capillaries brazing and pressure/leak tests.\nYour profile\nExperience in manufacture of pipework, including pipe-joining techniques (welding, brazing) would be an advantage.\nKnowledge in maintenance and operation of cooling system would be an advantage.\nExperience in using CAD systems such as CATIA would be an advantage.\nExperience in manufacture of mechanical parts and assemblies would be an advantage.\nSkills\nTeamwork - communicating well with others working on the same projects.\nInterest in mechanics and manufacturing of mechanical assemblies.\nSpoken and written English or French, with a commitment to learn the basics of the other language.\nEligibility criteria:\nBy the application deadline, you have a maximum of two years of professional experience since graduation in Mechanical Engineering (or a related field) and your highest educational qualification is either a Bachelor's or Master's degree.\nYou have never had a CERN fellow or graduate contract before.\nApplicants without University degree are not eligible.\nApplicants with a PhD are not eligible.",
+    "external_url": "https://jobs.smartrecruiters.com/CERN/744000163268489-mechanics-and-cooling-engineer-ep-dt-dc-2026-264-grae-?oga=true",
+    "status": "matched"
+  },
+  "https://roche.wd3.myworkdayjobs.com/en-US/roche-ext/jobs": {
+    "external_url": "https://roche.wd3.myworkdayjobs.com/en-US/roche-ext/jobs",
+    "status": "matched",
+    "title": "Oral Enabling Formulation Technologies Scientist",
+    "company": "Roche",
+    "location": "Basel",
+    "posted_date": "2026-11-23",
+    "department": "",
+    "score": 0,
+    "matched_keywords": [],
+    "deducted_keywords": []
+  },
+  "https://novartis.wd3.myworkdayjobs.com/en-US/Novartis_Careers/jobs": {
+    "external_url": "https://novartis.wd3.myworkdayjobs.com/en-US/Novartis_Careers/jobs",
+    "status": "matched",
+    "title": "Workforce Strategy Head, Regulatory Affairs",
+    "company": "Novartis",
+    "location": "Basel (City)",
+    "posted_date": "2026-11-23",
+    "department": "",
+    "score": 0,
+    "matched_keywords": [],
+    "deducted_keywords": []
+  },
+  "https://danaher.wd1.myworkdayjobs.com/en-US/DanaherJobs/jobs": {
+    "external_url": "https://danaher.wd1.myworkdayjobs.com/en-US/DanaherJobs/jobs",
+    "status": "matched",
+    "title": "Scientist / Laboratory Specialist, Cell Therapy Biology (f/m/d)",
+    "company": "Danaher",
+    "location": "Grens, Switzerland",
+    "posted_date": "2026-11-23",
+    "department": "",
+    "score": -2,
+    "matched_keywords": [],
+    "deducted_keywords": [
+      "location:Grens, Switzerland"
+    ]
   }
 }
