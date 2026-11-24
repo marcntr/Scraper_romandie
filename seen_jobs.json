@@ -88,7 +88,7 @@
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-11-16"
+    "cached_at": "2026-11-24"
   },
   "_facets:roche:roche-ext": {
     "facets": {},
@@ -96,7 +96,7 @@
       "Basel",
       "Kaiseraugst"
     ],
-    "cached_at": "2026-11-16"
+    "cached_at": "2026-11-24"
   },
   "_facets:novartis:Novartis_Careers": {
     "facets": {},
@@ -104,63 +104,63 @@
       "Basel",
       "Stein"
     ],
-    "cached_at": "2026-11-16"
+    "cached_at": "2026-11-24"
   },
   "_facets:sanofi:SanofiCareers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-11-16"
+    "cached_at": "2026-11-24"
   },
   "_facets:abbott:abbottcareers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-11-16"
+    "cached_at": "2026-11-24"
   },
   "_facets:pfizer:PfizerCareers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-11-16"
+    "cached_at": "2026-11-24"
   },
   "_facets:gsk:GSKCareers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-11-16"
+    "cached_at": "2026-11-24"
   },
   "_facets:astrazeneca:Careers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-11-16"
+    "cached_at": "2026-11-24"
   },
   "_facets:amgen:Careers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-11-16"
+    "cached_at": "2026-11-24"
   },
   "_facets:gilead:gileadcareers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-11-16"
+    "cached_at": "2026-11-24"
   },
   "_facets:modernatx:M_tx": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-11-16"
+    "cached_at": "2026-11-24"
   },
   "_facets:takeda:External": {
     "facets": {},
@@ -176,21 +176,21 @@
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-11-16"
+    "cached_at": "2026-11-24"
   },
   "_facets:msd:SearchJobs": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-11-16"
+    "cached_at": "2026-11-24"
   },
   "_facets:vrtx:Vertex_Careers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-11-16"
+    "cached_at": "2026-11-24"
   },
   "_facets:lonza:Lonza_Careers": {
     "facets": {},
@@ -199,7 +199,7 @@
       "Visp",
       "Stein"
     ],
-    "cached_at": "2026-11-16"
+    "cached_at": "2026-11-24"
   },
   "_facets:csl:CSL_External": {
     "facets": {},
@@ -209,7 +209,7 @@
       "St. Gallen",
       "Romont"
     ],
-    "cached_at": "2026-11-16"
+    "cached_at": "2026-11-24"
   },
   "_facets:alcon:careers_alcon": {
     "facets": {},
@@ -218,7 +218,7 @@
       "Hünenberg",
       "Zurich"
     ],
-    "cached_at": "2026-11-16"
+    "cached_at": "2026-11-24"
   },
   "_facets:galderma:External": {
     "facets": {},
@@ -227,63 +227,63 @@
       "La Tour-de-Peilz",
       "Lausanne"
     ],
-    "cached_at": "2026-11-16"
+    "cached_at": "2026-11-24"
   },
   "_facets:iqvia:IQVIA": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-11-16"
+    "cached_at": "2026-11-24"
   },
   "_facets:icon:broadbean_external": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-11-16"
+    "cached_at": "2026-11-24"
   },
   "_facets:parexel:Parexel_External_Careers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-11-16"
+    "cached_at": "2026-11-24"
   },
   "_facets:syneoshealth:Syneos_Health_External_Site": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-11-16"
+    "cached_at": "2026-11-24"
   },
   "_facets:myhrabc:Global": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-11-16"
+    "cached_at": "2026-11-24"
   },
   "_facets:thermofisher:ThermoFisherCareers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-11-16"
+    "cached_at": "2026-11-24"
   },
   "_facets:danaher:DanaherJobs": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-11-16"
+    "cached_at": "2026-11-24"
   },
   "_facets:illumina:illumina-careers": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-11-16"
+    "cached_at": "2026-11-24"
   },
   "_facets:qiagen:QIAGEN": {
     "facets": {},
@@ -297,14 +297,14 @@
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-11-16"
+    "cached_at": "2026-11-24"
   },
   "_facets:jsrglobal:KBI_Biopharma": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-11-16"
+    "cached_at": "2026-11-24"
   },
   "_generic:Tigen Pharma": {
     "keywords": "npp"
@@ -1107,7 +1107,7 @@
     "title": "Senior Scientist in Flow Cytometry",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-24",
+    "posted_date": "2026-10-25",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -1129,7 +1129,7 @@
     "title": "Scientist – Oligonucleotide Chemistry & Innovation",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-24",
+    "posted_date": "2026-10-25",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1145,7 +1145,7 @@
     "title": "Lab Scientist, Microscopy",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-24",
+    "posted_date": "2026-10-25",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1165,7 +1165,7 @@
     "title": "Experienced Clinical Scientist/Medical monitor in neurosciences",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-24",
+    "posted_date": "2026-10-25",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -1183,7 +1183,7 @@
     "title": "Experienced Discovery Scientist in Immunology",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-24",
+    "posted_date": "2026-10-25",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -1207,7 +1207,7 @@
     "title": "Post Doctorate Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-24",
+    "posted_date": "2026-10-25",
     "department": "",
     "score": 8,
     "matched_keywords": [
@@ -1229,7 +1229,7 @@
     "title": "Cardio-Renal Discovery & Scientific Strategy Area Leader",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-24",
+    "posted_date": "2026-10-25",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -1250,7 +1250,7 @@
     "title": "\"Principal Scientist siRNA Design",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-24",
+    "posted_date": "2026-10-25",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1266,7 +1266,7 @@
     "title": "Translational Medicine Director/Associate*- Cardiovascular & Metabolic",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-10-24",
+    "posted_date": "2026-10-25",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -1290,7 +1290,7 @@
     "title": "Scientist – Assay Data, AI & Workflows",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-29",
+    "posted_date": "2026-10-30",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1345,7 +1345,7 @@
     "title": "Data Scientist / Engineer - DNA-Encoded Library Technology (DELT)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-29",
+    "posted_date": "2026-10-30",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1362,7 +1362,7 @@
     "title": "Scientific AI Platform Lead, Data Science, Disease Area X",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-10-30",
+    "posted_date": "2026-10-31",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -1423,22 +1423,6 @@
     "description": "En tant que médecin interne, vous avez débuté votre parcours de formation en médecine interne et souhaitez désormais vous orienter vers l’obtention du titre de spécialiste en infectiologie.\nDans ce contexte, vous rejoignez le Service des maladies infectieuses et participez aux activités des différentes consultations spécialisées, notamment en maladies infectieuses générales, auprès des personnes immunodéprimées, des personnes âgées, dans le domaine de l’orthopédie septique et du VIH/Sida, au travers de rotations.\nSous la supervision des médecins cadres, vous assurez la prise en charge des patientes et patients qui vous sont confiés, tant en ambulatoire qu’en intrahospitalier, au sein de l’ensemble de l’institution. Vous développez progressivement votre expertise clinique en étant confronté et confrontée à des situations variées et parfois complexes, qui renforcent vos capacités d’analyse, votre jugement clinique et votre aptitude à vous adapter rapidement à de nouveaux contextes médicaux.\nGrâce à votre sens de l’organisation et à votre rigueur, vous assurez les activités cliniques, diagnostiques et thérapeutiques nécessaires à la prise en charge des patientes et patients. Vous veillez au respect des règles et des procédures internes, dans un souci constant de qualité des prestations médicales apportées.\nFace à la diversité des demandes de consultation et à la complexité de certaines situations cliniques, vous faites preuve de sang-froid, de discernement et d’une bonne gestion du stress. Votre curiosité intellectuelle vous incite à approfondir vos connaissances et à comprendre les enjeux des situations auxquelles vous faites face. Vous accueillez également les retours constructifs avec ouverture et les utilisez comme leviers de progression dans l’atteinte de vos objectifs de formation.\nÉvoluant dans un environnement universitaire stimulant et exigeant, au sein d’une équipe pluridisciplinaire, vous participez également à la formation des médecins stagiaires. Vous collaborez étroitement avec l’ensemble des équipes médico-soignantes de l’institution, dans une approche proactive et centrée sur les besoins des patientes et patients. Vous veillez à maintenir une communication claire, respectueuse et adaptée, tant avec vos collègues qu’avec les personnes prises en charge et leurs proches.\nPar ailleurs, vous avez la possibilité de participer à des projets de recherche en cours au sein du service.\nDans le cadre de votre parcours de formation, vous développez vos compétences conformément au plan de formation et aux exigences de la FMH durant trois années au sein du service. Celui-ci offre un environnement reconnu pour la qualité de son enseignement, un large éventail d’activités en infectiologie ainsi que des opportunités de développement favorisant l’obtention du titre FMH. Vous bénéficiez également d’un accompagnement personnalisé grâce à des séances de coaching, des formations ciblées et un encadrement régulier assuré par les médecins cadres ainsi que les chefs et cheffes de clinique.",
     "external_url": "https://jobs.smartrecruiters.com/HUG/744000159318139-medecin-interne-en-maladies-infectieuses-100-?oga=true",
     "status": "matched"
-  },
-  "/job/Basel-City/Principal-Scientist-Senior-Scientist--Cryo-EM-Structural-Biology_REQ-10091286": {
-    "description": "Salary Range:CHF93,800.00 - CHF174,200.00\n\n \nJob Description SummaryRole Type: Onsite Working, #LI-Onsite\nLocation: Basel, Switzerland\nRelocation Support: This role is based in Basel, Switzerland. Novartis is unable to offer relocation support: please only apply if accessible.\n\nWhat if your expertise in structural biology could reveal the molecular insights that unlock the next generation of medicines? As Principal Scientist/Senior Scientist, Cryogenic Electron Microscopy (Cryo-EM) Structural Biology, you will join the Protein Sciences group within Discovery Sciences, applying cutting-edge Cryo-EM to challenging targets across early drug discovery. Working with scientists across Biomedical Research, you will prepare biological samples, generate and interpret high-quality structural data, and translate molecular insights into actionable science that supports the discovery of novel therapeutic candidates.\n\n \nJob Description\nKey Responsibilities:\nContribute experimentally and scientifically to early drug-discovery projects within multidisciplinary teams.\nPrepare biological samples for Cryo-EM, including data collection, processing, structural determination, and model building.\nApply current Cryo-EM technologies and methodologies to generate high-quality structural insights for drug discovery.\nCollaborate closely with laboratory associates, providing mentoring and technical training within a matrix environment.\nMaintain accurate experimental records, scientific documentation, and instrument logs to support data quality and reproducibility.\nCommunicate structural biology findings through internal and external presentations and scientific publications.\n\nEssential Requirements:\nPhD in a relevant scientific discipline with at least five years of research experience, or an equivalent combination of training and experience.\nDeep expertise in Cryo-EM, including sample preparation, single-particle analysis, structure determination, model building, and structural interpretation.\nHands-on experience operating high-end cryo-transmission electron microscopes.\nDemonstrated experience in the expression and purification of a range of protein targets.\nExcellent written and spoken English, with strong scientific communication and presentation skills.\nStrong analytical skills, attention to detail, and a collaborative approach to working within multidisciplinary scientific teams.\n\nDesirable Requirements:\nExperience troubleshooting and optimizing experimental and data-processing workflows for single-particle analysis and cryo-electron tomography.\nFamiliarity with artificial intelligence-based and computational tools for protein construct design and optimization.\nExperience characterizing protein-ligand interactions.\nHands-on experience with single-particle analysis, cryo-electron tomography, and dual-beam scanning electron microscopy.\n\nWhy Novartis:\nAt Novartis, you will join a collaborative Protein Sciences team applying complementary technologies, including biophysics, Nuclear Magnetic Resonance spectroscopy, X-ray crystallography, and Cryo-Electron Microscopy, to advance target-based drug discovery and novel therapeutic candidates.\n\nBenefits & Rewards:\nAt Novartis, we’re committed to reimagining medicine together - and rewarding the people who make it happen.\n\nExpected Annual Base Salary Range for role: 93,800.00 - 174,200.00 CHF\n\nThe base salary offered is determined based on gender-neutral objectives, such as relevant skills, competencies and experience in accordance with the Novartis pay setting policy and upon joining Novartis will be reviewed periodically.\n\nIn addition to your base salary, you may be eligible for a performance-based bonus depending on certain performance parameters.\nThe rewards of being part of our team go far beyond base pay and incentives.\n\nWe also offer a variety of competitive benefits in kind to help you thrive personally and professionally, such as insurance plans, retirement plans, wellbeing resources and global recognition programs. In addition, we provide flexible and hybrid working options, where possible, and minimum 14 weeks paid parental leave. \n\nRead our brochure to learn more about our global total rewards offering:\nhttps://www.novartis.com/sites/novartis_com/files/novartis-life-handbook.pdf\n\nNote: Benefits and compensation may vary by country and are subject to local legal requirements, including provisions of collective bargaining agreements where applicable. A full overview of your compensation package, including any relevant collective bargaining agreement details applicable to your role based on your employment location and Novartis employer entity, will be communicated separately to you during the application process.\n\nCommitment to Diversity and Inclusion / EEO paragraph:\nNovartis is committed to building an outstanding, inclusive work environment and diverse teams’ representative of the patients and communities we serve.\n\n \nSkills DesiredAnalytical Chemistry, Analytical Laboratory Equipment, Analytical Thinking, Chemical Analysis, Chemistry, Data Capturing, Data Science, Digital Workflows, Employee Development, Employee Performance Management, High-Performance Liquid Chromatography (HPLC), Laboratory Automation, Life Sciences R&D, Machine Learning (ML), Physicochemical Characterization, Python (Programming Language), Scientific Publications, Spectrometry, Spectroscopy, Therapeutic Modalities",
-    "external_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Basel-City/Principal-Scientist-Senior-Scientist--Cryo-EM-Structural-Biology_REQ-10091286",
-    "status": "ignored",
-    "title": "Principal Scientist/Senior Scientist, Cryo-EM Structural Biology",
-    "company": "Novartis",
-    "location": "Basel (City)",
-    "posted_date": "2026-11-03",
-    "department": "",
-    "score": 2,
-    "matched_keywords": [
-      "PhD",
-      "drug discovery"
-    ],
-    "deducted_keywords": []
   },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000159558115": {
     "description": "The BE-EA-DC section is responsible of mechanical beamline equipment such as beam intercepting devices and beam instrumentations. This equipment requires constant maintenance and upgrading to ensure its reliability and accuracy.\nYour responsibilities\nConduct the dismantling/assembling activities of the beam line equipment.\nActively participate in all stages of the mechanical equipment readiness, from production to installation.\nCollaborate closely with engineers, coordination teams, technicians.\nCommunicate and report the advancement of the work to the supervisor and project managers.\nParticipate to various mechanical design studies (new beam line equipment, tooling, upgrade).\nWrite technical specifications and procedures (maintenance, installation).\nMaintain up to date and improve the equipment maintenance database.\nMore information here.\nYour profile\nHands-on experience with mechanical equipment assembly and installation.\nExperience reading 2D drawings (ISO-GPS).\nFamiliarity with 3D modeling software (CATIA) and Microsoft Office pack.\nFamiliarity with a Computerized Maintenance Management System.\nSkills\nUnderstanding of the design of mechanical equipment and structures.\nKnowledge of manufacturing methods and work preparation (procedures, orders, BOM, metrology, logistics... ).\nKnowledge of design codes and compliance verification of mechanical equipment.\nOrganisation, planning and control of tasks.\nSpoken and written English or French, with a commitment to learn the basics of the other language.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nBy the application deadline, you have a maximum of two years of professional experience since graduation in Mechanical Engineering (or a related field) and your highest educational qualification is a general secondary education diploma.\nYou have never had a CERN fellow or graduate contract before.\nApplicants with a Bachelor's, Master's or PhD degree are not eligible.",
@@ -1698,7 +1682,7 @@
     "title": "Senior QC Scientist 80-100%",
     "company": "Lonza",
     "location": "CH - Visp",
-    "posted_date": "2026-10-24",
+    "posted_date": "2026-10-25",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -1713,7 +1697,7 @@
     "title": "Senior Scientist, QC",
     "company": "Lonza",
     "location": "CH - Visp",
-    "posted_date": "2026-11-04",
+    "posted_date": "2026-11-05",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -1747,7 +1731,7 @@
     "title": "Associate Principal Scientist - Analytical Development (Microbial) 80%-100% (m/w/d)",
     "company": "Lonza",
     "location": "CH - Visp",
-    "posted_date": "2026-11-05",
+    "posted_date": "2026-11-06",
     "department": "",
     "score": -1,
     "matched_keywords": [
@@ -1800,11 +1784,6 @@
     "external_url": "https://jobs.smartrecruiters.com/HUG/744000160548249-psychologue-au-service-de-psychiatrie-de-l-enfant-et-de-l-adolescent-50-a-60-?oga=true",
     "status": "matched"
   },
-  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000160548349": {
-    "description": "Dans le cadre de votre mission, vous assurez la prise en charge administrative des demandes d'examens de pathologie adressées au service, depuis leur réception et leur enregistrement jusqu'à la transmission des résultats et au suivi des demandes complémentaires, en collaboration avec les équipes médicales et médico-techniques.\nVous veillez à l'exhaustivité et à la cohérence des informations, à la fiabilité de l'identification des patients et patientes ainsi qu'à la traçabilité des demandes, dans le respect des procédures et des règles de confidentialité.\nVous prenez en charge les appels téléphoniques, courriels et courriers adressés au service, participez à la mise en forme des rapports médicaux et assurez leur transmission sécurisée aux destinataires concernés.\nVous contribuez également à la préparation des dossiers pour les colloques multidisciplinaires, à la gestion des demandes de deuxième avis ainsi qu'à la traçabilité du matériel diagnostique.\nVous travaillez au sein d'une équipe composée de 9 collaboratrices, sous la supervision de la responsable médico-administrative, afin de garantir la continuité de l'ensemble des flux médico-administratifs, la qualité et la standardisation des pratiques, le respect des délais et la bonne gestion des priorités.",
-    "external_url": "https://jobs.smartrecruiters.com/HUG/744000160548349-secretaire-medical-ou-medicale-100-?oga=true",
-    "status": "matched"
-  },
   "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000160555290": {
     "description": "Votre mission se déroulera au sein de l’Unité de Consultation Ambulatoire de Santé des Adolescent et jeunes adultes (CASAA) des HUG. L’activité s’exerce principalement auprès d’une population migrante, dans un contexte nécessitant une approche interculturelle.\nVous réalisez les interventions cliniques et thérapeutiques auprès des patientes et patients qui vous sont confiés, le plus souvent issus de contextes migratoires. Vous contribuez à l’évaluation de leurs besoins, à la mise en œuvre des plans de soins et à la coordination de leur parcours de santé en collaboration avec les différents partenaires concernés.\nVous garantissez des prestations médicales de qualité, tant sur le plan clinique et administratif qu'organisationnel, sous la supervision de la hiérarchie médicale\nVous contribuez à la formation des médecins stagiaires.",
     "external_url": "https://jobs.smartrecruiters.com/HUG/744000160555290-medecin-interne-remplacant-ou-remplacante-a-l-unite-de-consultation-ambulatoire-de-sante-des-adolescents-et-jeunes-adultes-casaa-50-?oga=true",
@@ -1817,7 +1796,7 @@
     "title": "Patent Attorney II",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-11-10",
+    "posted_date": "2026-11-11",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -2021,7 +2000,7 @@
     "title": "Patent Attorney Trainee",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-11-12",
+    "posted_date": "2026-11-13",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -2049,7 +2028,7 @@
     "title": "Scientist (all genders) Quality Control, Microbiology (80-100%)",
     "company": "Lonza",
     "location": "CH - Visp",
-    "posted_date": "2026-11-12",
+    "posted_date": "2026-11-13",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -2092,7 +2071,7 @@
     "title": "Compound Logistics Workflow and Integration Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-11-13",
+    "posted_date": "2026-11-14",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2153,7 +2132,7 @@
     "title": "Associate Principal Scientist - Analytical Project Lead 80-100% (f/m/d)",
     "company": "Lonza",
     "location": "CH - Basel",
-    "posted_date": "2026-11-15",
+    "posted_date": "2026-11-16",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2205,32 +2184,6 @@
     "description": "The Assistant Departmental Safety Officer (ADSO) contributes to the implementation of the department's safety policy.\nYou will support the Departmental Safety Officer in identifying, preventing, and monitoring risks related to activities, infrastructure, and equipment, while ensuring compliance with applicable regulations and procedures. The ADSO actively participates in promoting a strong safety culture and maintaining a safe and compliant working environment.\nYour responsibilities\nAnalysing accidents and hazardous situations and contributing to the definition of corrective and preventive actions.\nSupporting the Departmental Safety Officer (DSO) in implementing the department's safety actions.\nParticipating in the organisation of planned evacuations and in feedback/lessons-learned activities following these exercises.\nDrafting and communicating prevention and safety awareness messages.\nTaking part in safety inspections and on-site visits to verify compliance and identify areas for improvement.\nContributing to the monitoring of action plans and the promotion of a strong safety culture.\nYour profile\nParticipating in the analysis of incidents and hazardous situations in support of a safety team.\nSupporting safety prevention and awareness activities.\nContributing to the preparation and organisation of planned evacuations.\nSkills\nKnowledge of the main occupational health and safety risks.\nGood knowledge of office software tools (Word, Excel).\nStrong verbal and written communication skills.\nProactive mindset, autonomy, and adaptability.\nSpoken and written both English and French.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nBy the application deadline, you have a maximum of two years of professional experience since graduation in Occupational Health and Safety (OHS) (or a related field) and your highest educational qualification is either a Bachelor's or Master's degree.\nYou have never had a CERN fellow or graduate contract before.\nApplicants without University degree are not eligible.\nApplicants with a PhD are not eligible.",
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000161761849-assistant-departmental-safety-officer-en-rms-2026-259-grae-?oga=true",
     "status": "matched"
-  },
-  "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-msat-associate-principal-scientist-visp-902295/1": {
-    "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-msat-associate-principal-scientist-visp-902295/1",
-    "status": "matched",
-    "title": "MSAT Associate Principal Scientist(m/f/d)",
-    "company": "Hays Switzerland",
-    "location": "Visp, Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": -2,
-    "matched_keywords": [],
-    "deducted_keywords": [
-      "location:Visp, Switzerland"
-    ]
-  },
-  "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-scientist-qa-bern-892890/1": {
-    "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-scientist-qa-bern-892890/1",
-    "status": "ignored",
-    "title": "Scientist QA(m/f/d)",
-    "company": "Hays Switzerland",
-    "location": "Bern, Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": 0,
-    "matched_keywords": [],
-    "deducted_keywords": []
   },
   "https://lonza.wd3.myworkdayjobs.com/en-US/Lonza_Careers/jobs": {
     "external_url": "https://lonza.wd3.myworkdayjobs.com/en-US/Lonza_Careers/jobs",
@@ -2363,7 +2316,7 @@
     "title": "Research Scientist, Antigen and Therapeutic Protein Production – Downstream Processing",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-11-18",
+    "posted_date": "2026-11-19",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -2464,7 +2417,7 @@
     "title": "Principal Scientist II (Lab Head), Allergy and Plasma Cell Research",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-11-19",
+    "posted_date": "2026-11-20",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -2485,7 +2438,7 @@
     "title": "Senior Scientist, Metabolomics",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-11-17",
+    "posted_date": "2026-11-18",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2521,7 +2474,7 @@
     "title": "Supply Chain Planning Portfolio Lead",
     "company": "Biogen",
     "location": "Baar, Switzerland",
-    "posted_date": "2026-11-18",
+    "posted_date": "2026-11-19",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -2577,18 +2530,6 @@
       "location:Epalinges, VD, CH"
     ]
   },
-  "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-senior-operational-support-scientist-bern-903330/1": {
-    "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-senior-operational-support-scientist-bern-903330/1",
-    "status": "matched",
-    "title": "Senior Operational Support Scientist(m/f/d)",
-    "company": "Hays Switzerland",
-    "location": "Bern, Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": 0,
-    "matched_keywords": [],
-    "deducted_keywords": []
-  },
   "/job/CHE---Zurich---Zurich-The-Circle/Scientist--Biostatistics--m-f-d-_R426318-1": {
     "description": "Job Description\n\nWe are a research-driven biopharmaceutical company. Our mission is built on the simple premise that if we “follow the science” and that great medicines can make a significant impact to our world. And we believe that a research-driven enterprise dedicated to world-class science can succeed by inventing medicine and vaccine innovations that make a difference for patients across the globe.\n \nYou will be part of the BARDS organization which has a presence in the US, EU and Asia Pacific. By joining our company, in this role you will apply your skills and experience in support of developing scientifically based arguments aiming to provide fair accessibility to drugs and vaccines making a real difference in patient’s lives.\n \nThe Biostatistics and Research Decision Sciences (BARDS) organization has a proud record of providing comprehensive analytical and methodological expertise to support our company’s strategic goals.  Our quantitative scientists aspire to maintain the highest quality output while adopting the most efficient and effective scientific and operational procedures that will promote breakthrough innovation, collaboration and professional activity.\n \nWe are currently looking for a Biostatistician, HTA Statistics to join the team based in one of our offices in Zurich, Switzerland, Brussels, Belgium or London, UK.\n \nThe BARDS organization has established in Europe its Centre of Excellence supporting Health Technology Assessment (HTA) dossiers with presence in Brussels (Belgium), London (United Kingdom) and Zürich (Switzerland).  Our statisticians and statistical programmers collaborate with multiple functional areas across the company and with our local affiliates to ensure that the clinical trial data representing our products is characterized properly in these dossiers, and to develop innovative statistical approaches to novel problems in the HTA space. \n \nThe primary activities include but are not limited to:\no   Provide statistical support to projects in the BARDS HTA Statistics group, including HTA submissions.\no   Contribute to the design and development of scientific tools for HTA evaluations.\no   Execute on ongoing HTA evaluations, including analysis and interpretation of HTA results.\no   Collaborate with Statistical Programming to implement methodologies and ensure high quality deliverables for HTA submissions.\no   Contribute to the preparation of the written reports to effectively communicate results of HTA evaluations to the Value & Implementation Observational Research (VIOR) and our company’s subsidiary teams.\no   May evaluate appropriateness of available software for planned analyses and ascertains needs for potential program development of novel statistical methodology.\no   May be involved in research activities for innovative statistical methods and applications in HTA activities.\n \nQualifications:\nEducation and Minimum Requirement: \no   Master`s or bachelor’s degree in statistics/biostatistics or a related discipline\n \nRequired Skills and Experience:\no   Fluency in English (oral and written).\no   Good knowledge of biostatistical methodologies and experimental design, including meta-analyses and time-to-event methodologies. \no   Proven knowledge of statistical and data processing software in R. \no   Demonstrates strong interest in statistical research activities and in application of novel methods to clinical development. \no   Team oriented, strong collaboration skills and ability to work effectively across cultures.  \no   Must also demonstrate the ability to learn, be proactive and motivated, and consistently focus on details and execution.\n \nPreferred Skills and Experience:\no   Understanding of data management and clinical concepts applied to drug development within the pharmaceutical industry.\no   Strong knowledge of computer systems and clinical databases systems in a statistical environment.\no   Experience in CDISC data standards (SDTM, ADAM)\no   Proven knowledge of statistical and data processing software in SAS.\no   Understanding of biology of disease and drug development.  \no   Publication record in peer reviewed statistical/medical journals\n \nOur Quantitative Sciences team use big data to analyse the safety and efficacy claims of our potential medical breakthroughs. We review the quality and reliability of clinical studies using deep scientific knowledge, statistical analysis and high-quality data to support decision making in clinical trials.\n \n\nAdditional location(s) Compensation Information:\n\nRequired Skills: Biostatistics, Clinical Databases, Clinical Development, Data Management, Data Science, Drug Development, Meta-Analysis, Numerical Analysis, Pharmaceutical Industry, R Programming, Scientific Modeling, Statistical Programming\n\nPreferred Skills:\n\nCurrent Employees apply HERE\n\nCurrent Contingent Workers apply HERE\n\nSearch Firm Representatives Please Read Carefully \nMerck & Co., Inc., Rahway, NJ, USA, also known as Merck Sharp & Dohme LLC, Rahway, NJ, USA, does not accept unsolicited assistance from search firms for employment opportunities. All CVs / resumes submitted by search firms to any employee at our company without a valid written search agreement in place for this position will be deemed the sole property of our company.  No fee will be paid in the event a candidate is hired by our company as a result of an agency referral where no pre-existing agreement is in place. Where agency agreements are in place, introductions are position specific. Please, no phone calls or emails. \n\nEmployee Status: Regular\n\nRelocation:No relocation\n\nVISA Sponsorship:No\n\nTravel Requirements:10%\n\nFlexible Work Arrangements:Hybrid\n\nShift:Not Indicated\n\nValid Driving License:No\n\nHazardous Material(s):N/A\n\nJob Posting End Date:11/26/2026\n*A job posting is effective until 11:59:59PM on the day BEFORE the listed job posting end date. Please ensure you apply to a job posting no later than the day BEFORE the job posting end date.",
     "external_url": "https://msd.wd5.myworkdayjobs.com/SearchJobs/job/CHE---Zurich---Zurich-The-Circle/Scientist--Biostatistics--m-f-d-_R426318-1",
@@ -2611,7 +2552,7 @@
     "title": "Principal Scientist (Director) Health Economics, Oncology (m/f/d)",
     "company": "MSD",
     "location": "CHE - Zurich - Zurich (The Circle)",
-    "posted_date": "2026-11-17",
+    "posted_date": "2026-11-18",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2640,7 +2581,7 @@
     "title": "Manager, Regional Regulatory Lead (EU)",
     "company": "CSL Behring / Vifor",
     "location": "EMEA, CH, Kanton Zurich, Opfikon, CSL Vifor",
-    "posted_date": "2026-11-20",
+    "posted_date": "2026-11-21",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2656,7 +2597,7 @@
     "title": "Consultant – Qualitative Market Research & Competitive Intelligence (Switzerland)/ Part-Time",
     "company": "IQVIA",
     "location": "Zug, Switzerland",
-    "posted_date": "2026-10-24",
+    "posted_date": "2026-10-25",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2708,7 +2649,7 @@
     "title": "Business Development Director",
     "company": "KBI Biopharma",
     "location": "Switzerland - Plan-les-Ouates",
-    "posted_date": "2026-10-24",
+    "posted_date": "2026-10-25",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -2726,7 +2667,7 @@
     "title": "Intern - Flow Cytometry Scientist",
     "company": "Labcorp",
     "location": "CHE - Geneva - 7 rue Moise-Marcinhes",
-    "posted_date": "2026-10-24",
+    "posted_date": "2026-10-25",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -2957,7 +2898,7 @@
     "title": "Senior Associate Clinical Trials Regulatory Affairs",
     "company": "Amgen",
     "location": "Switzerland - Rotkreuz",
-    "posted_date": "2026-10-24",
+    "posted_date": "2026-10-25",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -2972,7 +2913,7 @@
     "title": "Executive Assistant, Regulatory Affairs",
     "company": "BeiGene",
     "location": "Basel",
-    "posted_date": "2026-11-08",
+    "posted_date": "2026-11-09",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -3008,7 +2949,7 @@
     "title": "Regulatory Affairs Consultant (German and French language skills)",
     "company": "Parexel",
     "location": "Switzerland-Remote",
-    "posted_date": "2026-10-28",
+    "posted_date": "2026-10-29",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -3040,7 +2981,7 @@
     "title": "Manager, Quality & Regulatory Operations",
     "company": "Danaher",
     "location": "Neuchâtel, Switzerland",
-    "posted_date": "2026-11-04",
+    "posted_date": "2026-11-05",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -3099,7 +3040,7 @@
     "title": "Scientist, Tech Ops (f/m/d)",
     "company": "CSL Behring / Vifor",
     "location": "EMEA, CH, Kanton Bern, Bern, CSL Behring",
-    "posted_date": "2026-11-23",
+    "posted_date": "2026-11-24",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -3118,7 +3059,7 @@
     "title": "Oral Enabling Formulation Technologies Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-11-23",
+    "posted_date": "2026-11-24",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -3127,13 +3068,15 @@
   "https://novartis.wd3.myworkdayjobs.com/en-US/Novartis_Careers/jobs": {
     "external_url": "https://novartis.wd3.myworkdayjobs.com/en-US/Novartis_Careers/jobs",
     "status": "matched",
-    "title": "Workforce Strategy Head, Regulatory Affairs",
+    "title": "Spatial Biology Data Scientist",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-11-23",
+    "posted_date": "2026-11-24",
     "department": "",
-    "score": 0,
-    "matched_keywords": [],
+    "score": 1,
+    "matched_keywords": [
+      "spatial biology"
+    ],
     "deducted_keywords": []
   },
   "https://danaher.wd1.myworkdayjobs.com/en-US/DanaherJobs/jobs": {
@@ -3142,12 +3085,62 @@
     "title": "Scientist / Laboratory Specialist, Cell Therapy Biology (f/m/d)",
     "company": "Danaher",
     "location": "Grens, Switzerland",
-    "posted_date": "2026-11-23",
+    "posted_date": "2026-11-24",
     "department": "",
     "score": -2,
     "matched_keywords": [],
     "deducted_keywords": [
       "location:Grens, Switzerland"
     ]
+  },
+  "https://careers.iginnovate.com/job/Epalinges-Senior-Investigator%2C-Antibody-Discovery-&-Engineering-VD/1453045400/": {
+    "description": "We are seeking a Senior Investigator in the Antibody Discovery & Engineering department to lead hands-on protein production, analytics and biophysical characterization of mono- and multi-specific antibodies, as well as single-domain antibodies (e.g. VHH).  \n\nYou will support screening, expression and characterization activities across discovery programs, bringing deep technical knowledge in molecular biology, protein production and analytics. Strong problem-solving skills and the ability to collaborate across multidisciplinary teams are essential. \n\nThis is a laboratory-based position within the Biophysics Team. You will join an innovative antibody and protein engineering department with a strong record of success in developing novel antibody therapeutics in immuno-oncology. \n\nKey Responsibilities \n\nProtein production and analytics \n\nClone, express in mammalian cells, and purify therapeutic antibodies, including VHH, VHH-Fc and multi-specific formats \n\nCharacterize antibody candidates using analytical methods (e.g. SDS-PAGE, SEC, HIC, Nano DSF/DLS, DSC, IEF) \n\nAssess biophysical properties and developability (e.g. AC-SINS, polyreactivity ELISA) \n\n \n\nBinding and interaction characterization \n\nDevelop and run protein-protein interaction assays: kinetics, epitope binning and blocking (ELISA, SPR, Carterra LSA, BLI) \n\nCharacterize VHH binders: affinity and kinetics, epitope mapping, thermal and colloidal stability, aggregation propensity, and monomer purity \n\nProvide biophysical data that informs the selection of binders for multi-specific antibody or CAR-T constructs \n\n \n\nLaboratory and team contribution \n\nImplement new technologies to improve group efficiency (high-throughput screening, automation) \n\nBe a hands-on presence in the laboratory \n\nAnalyze data and maintain thorough documentation \n\nWrite formal technical reports, methods and procedures \n\nDeliver against project team timelines \n\nReport activities and research progress to senior management in a clear and timely way, and present results in internal meetings \n\nPresent results during internal meetings \n\nSupport a culture of scientific excellence and continuous learning that strengthens the team's ability to deliver novel drug candidates  \n\nComply with HSE guidelines \n\n \n\nEDUCATION AND DESIRED EXPERIENCE \n\n \n\nRequired Qualifications \n\nPh.D. or M.Sc. in Biochemistry, Structural Biology, Biotechnology, or a related field, with at least 5 years of relevant experience and a proven track record in protein expression, purification, and analytical characterization. Prior industry experience in antibody purification and characterization is strongly preferred. \n\nProficiency in molecular biology techniques (PCR, cloning, primer design) and DNA sequence analysis software \n\nHands-on experience with surface plasmon resonance (SPR) for binding kinetics and affinity characterization \n\nHands-on experience in protein production, purification and characterization \n\nStrong command of analytical protein characterization methods \n\nProfessional-level English, written and spoken \n\n \n\nRequired Qualifications \n\nIndustry experience in antibody characterization \n\nHands-on experience with BLI platforms, ideally Octet or Carterra \n\nProficiency in molecular biology techniques (PCR, cloning, primer design) and DNA sequence analysis software is required. \n\nHands-on experience in protein production, purification and characterization (practical knowledge of HPLC and/or AKTA protein purification systems is preferred) \n\nExperience in the characterization of VHHs or other single-domain antibody formats, with a strong understanding of the properties that drive binder performance, developability, and suitability for therapeutic applications. \n\nHands-on experience in cell culture is preferred. \n\nKnowledge of Design of Experiment (DoE) and statistical analysis is a plus. \n\nPersonal Attributes \n\nScientific curiosity and strong problem-solving skills, with the ability to plan experiments and analyze results \n\nSelf-motivated team player with strong organizational skills\n\nFlexibility in a changing, demanding research environment \n\nClear communicator, comfortable presenting data to scientists and senior management",
+    "external_url": "https://careers.iginnovate.com/job/Epalinges-Senior-Investigator%2C-Antibody-Discovery-&-Engineering-VD/1453045400/",
+    "status": "matched",
+    "title": "Senior Investigator, Antibody Discovery & Engineering",
+    "company": "IGI Innovate / Ichnos Sciences",
+    "location": "Epalinges, VD, CH",
+    "posted_date": "",
+    "department": "",
+    "score": 1,
+    "matched_keywords": [
+      "immuno-oncology",
+      "molecular biology",
+      "oncology"
+    ],
+    "deducted_keywords": [
+      "location:Epalinges, VD, CH"
+    ]
+  },
+  "https://careers.iginnovate.com/job/Epalinges-Senior-Investigator%2C-Discovery-VD/1453257600/": {
+    "description": "RESPONSIBILITIES:\n\nParticipate in the design of novel phage display antibody libraries.\n\nDiscover novel antibodies by phage or mammalian display selection.\n\nPerform high-throughput screening of antibodies using techniques such as surface plasmon resonance (SPR), ELISA, or flow cytometry.\n\nDNA sequence analysis of selected antibodies (Sanger or NGS)\n\nClone, express, and purify therapeutic antibodies.\n\nCharacterize antibody candidates using analytical methods (e.g. SDS-PAGE, SEC, DSF, AC-SINS, polyreactivity) and flow-cytometry.\n\nDevelop and perform protein-protein interaction assays, including kinetic, epitope binning, blocking assays (ELISA, SPR, BLI)\n\nParticipate in streamlining antibody discovery processes by implementing new technologies and methods.\n\nEffectively support projects and accomplish goals under project timelines.\n\nInterface with multiple discovery project and matrix teams across the organization\n\nEffectively communicate research progress and opportunities to senior management\n\nSupport a culture that embraces scientific excellence, continuous learning, and increasing team’s ability to deliver novel drug candidates\n\n \n\n \n\nEDUCATION AND DESIRED EXPERIENCE:\n\n \n\nPh.D. entry level or MSc degree in biotechnology, biochemistry or related discipline is required. At least 3 years of relevant industrial experience is preferred.\n\nProficiency in molecular biology techniques (RNA extraction, RT-PCR, PCR, cloning, primer design) and DNA sequence analysis software is required.\n\nExperience with protein expression and characterization (e.g.  SDS-PAGE, SEC) is required.\n\nExperience with protein engineering using display systems (phage, yeast or mammalian display) is desired.\n\nExperience with protein-protein interaction technologies (e.g. SPR/BLI) would be a plus.\n\nStrong English communication skills, both oral and written\n\nRigorous, excellent organization skills, autonomous, hands-on and team minded\n\nStrong interpersonal communication skills and the ability to present to all levels of the organization\n\nProven experience in problem analysis/solving\n\nProactive, reactive and adaptable",
+    "external_url": "https://careers.iginnovate.com/job/Epalinges-Senior-Investigator%2C-Discovery-VD/1453257600/",
+    "status": "matched",
+    "title": "Senior Investigator, Discovery",
+    "company": "IGI Innovate / Ichnos Sciences",
+    "location": "Epalinges, VD, CH",
+    "posted_date": "",
+    "department": "",
+    "score": 0,
+    "matched_keywords": [
+      "MSc",
+      "molecular biology"
+    ],
+    "deducted_keywords": [
+      "location:Epalinges, VD, CH"
+    ]
+  },
+  "/job/Basel-City/Workforce-Strategy-Head--Regulatory-Affairs_REQ-10093532-1": {
+    "description": "Salary Range:207 900,00 CHF - 386 100,00 CHF\n\n \nJob Description SummaryLocation: Basel, Switzerland (#LI-Hybrid)\n\nThis role will serve as the strategic workforce partner to Regulatory Affairs (RA), supporting a global organization of approximately 2,000 employees through a significant transformation agenda. The role will combine external insights, workforce data and predictive analytics, business acumen, and deep transformation expertise to shape the future workforce, capabilities, and talent strategy for RA, with particular focus on AI-enabled changes to workflows, skills, and ways of working.\n\n \nJob Description\nKey Responsibilities\n\nPartner with the Global Head of Regulatory Affairs and RA Leadership Team to shape and influence the workforce and people agenda for a global organization of approximately 2,000 employees.\nTranslate RA’s complex business transformation agenda into a clear workforce strategy and execution roadmap, ensuring transformation priorities are operationalized effectively.\nAnticipate the impact of AI, emerging technologies, new platforms, and evolving regulatory models on workflows, roles, skills, and future workforce requirements.\nDefine and build the future capabilities and talent strategy required for RA, identifying critical skills, capability gaps, and actions needed to prepare the organization for the future.\nBring strong external insights, workforce data, predictive analytics, and market intelligence to challenge existing thinking and influence strategic business and workforce decisions.\nLead the people and workforce dimensions of complex transformation, coaching and constructively challenging senior leaders while building alignment and bringing the organization through change.\nEstablish the workforce strategy role as a credible and high-impact strategic partner within RA, demonstrating tangible business value through deep understanding of the function and its operating environment.\nContribute as a member of the Development P&O Leadership Team, jointly shaping and driving the broader Development P&O strategy while ensuring strong connection between functional and enterprise priorities.\n\nEssential Requirements\n\nSignificant experience in HR leading complex, large-scale business and workforce transformation, ideally within a global, highly matrixed organization.\nStrong expertise in workforce strategy, strategic workforce planning, future capabilities, skills, and talent strategy, with the ability to translate business transformation into actionable workforce priorities.\nStrong external orientation, with demonstrated ability to bring market trends, emerging practices, technology developments, and external perspectives into senior-level business discussions.\nHighly data- and insight-driven, with experience leveraging workforce data, analytics, and ideally predictive insights to identify trends, challenge assumptions, and influence strategic decisions.\nExceptional senior stakeholder influencing and coaching skills, with the credibility and confidence to challenge senior leaders constructively, build alignment, and lead through ambiguity and change.\nStrong business acumen and impact orientation, with a leadership style combining strategic thinking, grounded credibility, empathy, and a deep understanding of how organizations and functions operate.\n\nDesirable Requirements\n\nExperience shaping workforce implications of AI, automation, digital transformation, or technology-enabled operating model change, particularly around future skills, capabilities, and ways of working.\nExperience within pharmaceuticals, life sciences, Regulatory Affairs, R&D/Development, or another highly regulated global environment.\n\nBenefits & Rewards\nAt Novartis, we’re committed to reimagining medicine together - and rewarding the people who make it happen. \n\nExpected Annual Base Salary Range for role: 207,900.00 - 386,100.00 CHF Annual\n  \nThe base salary offered is determined based on gender-neutral objectives, such as relevant skills, competencies and experience in accordance with the Novartis pay setting policy and upon joining Novartis will be reviewed periodically. \nIn addition to your base salary, you may be eligible for a performance-based bonus depending on certain performance parameters. \nThe rewards of being part of our team go far beyond base pay and incentives. We also offer a variety of competitive benefits in kind to help you thrive personally and professionally, such as insurance plans, retirement plans, wellbeing resources and global recognition programs. In addition, we provide flexible and hybrid working options, where possible, and minimum 14 weeks paid parental leave. \n  \nIn addition to your base salary, you may be eligible for a performance-based bonus depending on certain performance parameters. Long-term equity awards granted at group level may also be part of your package. Further details will be provided during the application process.  \n\nPay equity is a fundamental principle of our employment policy and reflects our commitment to create a diverse, equitable and inclusive environment that treats all employees with dignity and respect, as outlined in our Code of Ethics. \n  \nRead our brochure to learn more about our global total rewards offering:  https://www.novartis.com/sites/novartis_com/files/novartis-life-handbook.pdf \nNote: Benefits and compensation may vary by country and are subject to local legal requirements, including provisions of collective bargaining agreements where applicable. A full overview of your compensation package, including any relevant collective bargaining agreement details applicable to your role based on your employment location and Novartis employer entity, will be communicated separately to you during the application process. \n\nCommitment to Diversity and Inclusion\nNovartis is committed to building an outstanding, inclusive work environment and diverse teams representative of the patients and communities we serve.\n\nAccessibility and Accommodation:\nNovartis is committed to working with and providing reasonable accommodation to all individuals. If, because of a medical condition or disability, you need a reasonable accommodation for any part of the recruitment process, or in order to receive more detailed information about the essential functions of a position, please send an e-mail to diversity.inclusion_ch@novartis.com and let us know the nature of your request and your contact information. Please include the job requisition number in your message.\n\n \nSkills DesiredBusiness Acumen, Business Process Strategy, Coaching, Compliance Risk Management, Cross-Functional Collaboration, Data Analytics, Data-Driven Decision Making, Development Leadership, HR Strategy, Change Management, Influencing Skills, Leadership, Organizational Design, Organizational Health, Performance Management (PM), Stakeholder Management, Strategic Planning, Talent Management",
+    "external_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Basel-City/Workforce-Strategy-Head--Regulatory-Affairs_REQ-10093532-1",
+    "status": "matched",
+    "title": "Workforce Strategy Head, Regulatory Affairs",
+    "company": "Novartis",
+    "location": "Basel (City)",
+    "posted_date": "2026-11-24",
+    "department": "",
+    "score": 0,
+    "matched_keywords": [],
+    "deducted_keywords": []
   }
 }
