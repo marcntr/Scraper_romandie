@@ -793,7 +793,8 @@
     "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Basel-City/Executive-Director--International-Medical-Affairs--Dermatology_REQ-10089944-1": "ignored",
     "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Basel-City/Executive-Director--International-Medical-Affairs--Rheumatology_REQ-10089941-1": "ignored",
     "https://gloorlang.starhunter.software/Headhunter/project/job-ad/hash/6ad8b410346b1": "ignored",
-    "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Basel-City/Principal-Scientist-Senior-Scientist--Cryo-EM-Structural-Biology_REQ-10091286": "ignored"
+    "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Basel-City/Principal-Scientist-Senior-Scientist--Cryo-EM-Structural-Biology_REQ-10091286": "ignored",
+    "https://lonza.wd3.myworkdayjobs.com/Lonza_Careers/job/CH---Visp/Senior-Scientist--QC_R79913": "ignored"
   },
   "_generic:Hurdle Bio": {
     "keywords": "biomarker,precision medicine"
@@ -1103,7 +1104,7 @@
     "title": "Senior Scientist in Flow Cytometry",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-25",
+    "posted_date": "2026-10-26",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -1125,7 +1126,7 @@
     "title": "Scientist – Oligonucleotide Chemistry & Innovation",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-25",
+    "posted_date": "2026-10-26",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1141,7 +1142,7 @@
     "title": "Lab Scientist, Microscopy",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-25",
+    "posted_date": "2026-10-26",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1161,7 +1162,7 @@
     "title": "Experienced Clinical Scientist/Medical monitor in neurosciences",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-25",
+    "posted_date": "2026-10-26",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -1179,7 +1180,7 @@
     "title": "Experienced Discovery Scientist in Immunology",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-25",
+    "posted_date": "2026-10-26",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -1203,7 +1204,7 @@
     "title": "Post Doctorate Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-25",
+    "posted_date": "2026-10-26",
     "department": "",
     "score": 8,
     "matched_keywords": [
@@ -1225,7 +1226,7 @@
     "title": "Cardio-Renal Discovery & Scientific Strategy Area Leader",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-25",
+    "posted_date": "2026-10-26",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -1246,7 +1247,7 @@
     "title": "\"Principal Scientist siRNA Design",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-25",
+    "posted_date": "2026-10-26",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1262,7 +1263,7 @@
     "title": "Translational Medicine Director/Associate*- Cardiovascular & Metabolic",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-10-25",
+    "posted_date": "2026-10-26",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -1286,7 +1287,7 @@
     "title": "Scientist – Assay Data, AI & Workflows",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-29",
+    "posted_date": "2026-10-30",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1324,11 +1325,6 @@
     "external_url": "https://jobs.smartrecruiters.com/HUG/744000158224120-psychologue-psychotherapeute-40-?oga=true",
     "status": "matched"
   },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000158440640": {
-    "description": "The SY-BI group in CERN's Accelerator Systems Department develops and operates the instruments used to observe particle beams and measure their key properties. These systems are essential to the reliable operation, optimisation, and future development of CERN's accelerator complex.\nYou will contribute to the development of next-generation beam-position monitoring systems for CERN's injector complex, including the pre-accelerators and Antimatter Decelerator. You will work on innovative high-speed data-acquisition platforms combining fast digitisers with advanced System-on-Chip (SoC) technologies.\nThis role offers a hands-on opportunity to work at the intersection of digital electronics, embedded systems, real-time signal processing, and accelerator physics. It is particularly suited to people with an interest in FPGA or HDL development, high-speed electronics, embedded software, digital signal processing, instrumentation, or experimental physics.\nYour responsibilities:\nDevelop, integrate and test FPGA gateware and embedded SoC firmware for a SoC device.\nImplement data acquisition and data processing logic and real-time digital signal-processing algorithms.\nValidate system performance in laboratory and accelerator environments.\nPerform data analysis in Python.\nAssist measurement campaigns in the accelerator complex.\nCollaborate with experienced engineers, physicists, and technicians from different teams across CERN.\nYour profile:\nExperience in digital signal processing.\nDemonstrated experience with FPGA and SoC.\nExperience in Software programming (e.g. Python, C++).\nDemonstrated experience with Xilinx Zynq UltraScale+ MPSoC and/or RFSoC would be an advantage.\nSkills:\nKnowledge of Verilog and SystemVerilog.\nKnowledge of digital electronics.\nKnowledge of Python.\nSpoken and written English, with a commitment to learn French.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nYou have a professional background in Electronic Engineering (or a related field) and have either:\na Master's degree with 2 to 6 years of post-graduation professional experience;\nor a PhD with no more than 3 years of post-graduation professional experience.\nYou have never had a CERN fellow or graduate contract before.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000158440640-firmware-fpga-development-engineer-sy-bi-bp-2026-154-grap-?oga=true",
-    "status": "matched"
-  },
   "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000158465070": {
     "description": "En votre qualité de médecin adjoint ou adjointe à l'Unité de cardio-pédiatrie, vous contribuez à la supervision de l'activité, à l'encadrement des médecins internes et des chefs et cheffes de clinique.\nVous collaborez aux activités cliniques avec les médecins cheffes et chefs de service et les médecins adjoints et adjointes.\nVous assurez la coordination des activités pratiques, les interventions cliniques, thérapeutiques ou chirurgicales des patients et patientes qui vous sont confiées. Vous participez au système de gardes et de piquets.\nDémontrant un intérêt confirmé dans l'enseignement, vous participez à l'instruction pré/post-graduée et continue dans l'unité.\nDe nature dynamique, flexible et engagée, vous développez des projets cliniques interdisciplinaires. Vous participez, déployez et assurez la recherche dans l'unité.\nVous êtes une personne reconnue pour votre leadership et mettez à profit vos excellentes compétences organisationnelles, relationnelles et de communication, en équipe pluridisciplinaire et avec les personnes prises en charge et leur famille.",
     "external_url": "https://jobs.smartrecruiters.com/HUG/744000158465070-medecin-adjointe-ou-adjoint-a-l-unite-de-cardio-pediatrie-100-?oga=true",
@@ -1341,7 +1337,7 @@
     "title": "Data Scientist / Engineer - DNA-Encoded Library Technology (DELT)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-29",
+    "posted_date": "2026-10-30",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1358,7 +1354,7 @@
     "title": "Scientific AI Platform Lead, Data Science, Disease Area X",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-10-30",
+    "posted_date": "2026-10-31",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -1673,7 +1669,7 @@
     "title": "Senior QC Scientist 80-100%",
     "company": "Lonza",
     "location": "CH - Visp",
-    "posted_date": "2026-10-25",
+    "posted_date": "2026-10-26",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -1704,7 +1700,7 @@
     "title": "Associate Principal Scientist - Analytical Development (Microbial) 80%-100% (m/w/d)",
     "company": "Lonza",
     "location": "CH - Visp",
-    "posted_date": "2026-11-05",
+    "posted_date": "2026-11-06",
     "department": "",
     "score": -1,
     "matched_keywords": [
@@ -1769,7 +1765,7 @@
     "title": "Patent Attorney II",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-11-10",
+    "posted_date": "2026-11-11",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1803,16 +1799,6 @@
   "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000161035189": {
     "description": "Vous assurez la prise en charge hospitalière et ambulatoire des patients et patientes suivis en réadaptation et gériatrie sur le site de Loex, en garantissant une approche attentive, structurée et adaptée aux besoins individuels. Vous assurez également une prise en charge nutritionnelle spécifique pour la réadaptation, avec une approche interprofessionnelle et des minutes de soins partagées.\nVous contribuez à l’harmonisation des pratiques de prise en charge, en veillant au respect des recommandations émises par les sociétés expertes et en participant activement à l’amélioration continue de la qualité des soins. Vous collaborez étroitement avec l’équipe multidisciplinaire spécialisée et prenez part aux colloques cliniques et fonctionnels, ainsi qu’au colloque interprofessionnel de réadaptation, afin de soutenir une approche coordonnée et cohérente autour de la patientèle.\nVous assurez, lorsque nécessaire, le remplacement des collègues dans les autres unités du site de l’hôpital de Loex, en garantissant la continuité et la qualité des prestations. Enfin, vous contribuez activement à la formation des étudiants et étudiantes et des professionnelles et professionnels de la santé.",
     "external_url": "https://jobs.smartrecruiters.com/HUG/744000161035189-dieteticien-ou-dieteticienne-80-?oga=true",
-    "status": "matched"
-  },
-  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000161034969": {
-    "description": "Au sein du Secteur de maintenance biomédicale, vous assurez l'installation et la maintenance préventive et corrective sur l'ensemble des équipements confiés. Vous serez affecté-e à un des groupes ayant en charge des dispositifs médicaux de différentes familles :\ngroupe A (équipement de radiologie et laboratoire),\n\ngroupe B (équipement du Bloc opératoire),\n\ngroupe C (équipement d’anesthésie et de réanimation),\n\ngroupe D (management de la maintenance, suivi des contrats et du budget, GMAO, administration et logistique)\nVous conseillez sur le renouvellement, l'achat, l'utilisation et la maintenance des équipements et des installations sous la responsabilité du secteur.\nVous définissez l'organisation de la réalisation et du suivi des maintenances pour tout nouveau dispositif médical, en coordination avec l'ensemble des collaboratrices et collaborateurs du groupe.\nVous contribuez, développez et promouvez les organisations et améliorations identifiées lors des séances de travail transverses du groupe.\nVous collaborez aux préprojets d'achats d'équipements : vous réalisez un bilan des maintenances effectuées sur le matériel existant en tenant compte du niveau de satisfaction des utilisateurs et utilisatrices, des aspects normatifs et des contraintes d'implantation.\nVous participez à l'élaboration d'un planning d'installation, à son suivi et à la mise en service d'équipements lors de projets de services de soins (aménagement ou extension, renouvellement de parc, etc.).\nVous mettez en place et assurez le suivi des processus validés en séance au niveau du groupe rattaché : indicateurs, organisation de travail du groupe et/ou du secteur de maintenance biomédicale.\nVous déterminez les besoins matériels ou ressources nécessaires à la réalisation des tâches confiées au groupe rattaché.\nVous contribuez, développez et suivez les plans de charge de maintenance préventive pour les dispositifs médicaux confiés au groupe rattaché.\nVous participez aux études de marchés : retour sur les équipements, accessoires et consommables existants, en tenant compte des besoins des utilisateurs et utilisatrices et interfaces avec les locaux, services environnants.\nVous préparez et transmettez les informations demandées et nécessaires aux études techniques de parc : temps, coûts, formations et difficultés rencontrées sur la maintenance réalisée.\nVous informez et renseignez les utilisatrices et utilisateurs et le personnel pour toutes demandes particulières portant sur les dispositifs médicaux affectés au groupe.\nVous assurez les interventions urgentes sur demande du centre de Contrôle lors du service de piquet pour les longs week-ends (plus de 2 jours consécutifs).",
-    "external_url": "https://jobs.smartrecruiters.com/HUG/744000161034969-referents-ou-referentes-biomedicale-maintenance-100-?oga=true",
-    "status": "matched"
-  },
-  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000161034999": {
-    "description": "Au sein du secteur mécanique, vous entretenez, surveillez, dépannez, révisez, améliorez et assurez un fonctionnement performant des installations et des équipements propres au secteur mécanique et en particulier la maintenance du parc de tracteurs, des engins de levage électriques, des engins motorisés des jardiniers, des autolaveuses, des moteurs diesel des groupes de secours, des chariots, des bennes, des transpalettes ainsi que des équipements de voirie.\nVous décidez de manière autonome des actions à entreprendre en respectant les priorités définies en termes de paramètres vitaux ou secondaires pour la sécurité des patients et patientes, des collaboratrices et collaborateurs et du patrimoine.\nVous assurez la maintenance préventive et corrective. Vous assistez les contrôles périodiques effectués par les organismes accrédités et effectuez des tournées de contrôle et des relevés réguliers.\nVous suivez l'état des installations et prenez en charge les alarmes des systèmes de surveillance (gestion technique du bâtiment). Vous maintenez à jour les documents de travail, vous effectuez les commandes de réapprovisionnement de matériel.\nVous participez activement à l’élaboration des procédures en fonction des évolutions de la technique.\nVous assumez le rôle de conseillère ou conseiller technique auprès des utilisateurs et utilisatrices sur le matériel mécanique et contrôlez et suivez les travaux exécutés par les entreprises extérieures.\nVous aimez trouver des solutions face à des problématiques techniques complexes et vous vous épanouissez également dans la réalisation de tâches plus simples et routinières.\nVous êtes autonome et appréciez également le travail en équipe, tout en respectant un planning établi.\nVous assurez les interventions urgentes sur demande du centre de contrôle et lors du service de piquet.",
-    "external_url": "https://jobs.smartrecruiters.com/HUG/744000161034999-technicien-ou-technicienne-de-maintenance-tracteurs-et-engins-de-manutention-100-?oga=true",
     "status": "matched"
   },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000161068569": {
@@ -1968,7 +1954,7 @@
     "title": "Patent Attorney Trainee",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-11-12",
+    "posted_date": "2026-11-13",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1996,7 +1982,7 @@
     "title": "Scientist (all genders) Quality Control, Microbiology (80-100%)",
     "company": "Lonza",
     "location": "CH - Visp",
-    "posted_date": "2026-11-12",
+    "posted_date": "2026-11-13",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -2039,7 +2025,7 @@
     "title": "Compound Logistics Workflow and Integration Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-11-13",
+    "posted_date": "2026-11-14",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2100,7 +2086,7 @@
     "title": "Associate Principal Scientist - Analytical Project Lead 80-100% (f/m/d)",
     "company": "Lonza",
     "location": "CH - Basel",
-    "posted_date": "2026-11-15",
+    "posted_date": "2026-11-16",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2274,7 +2260,7 @@
     "title": "Research Scientist, Antigen and Therapeutic Protein Production – Downstream Processing",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-11-18",
+    "posted_date": "2026-11-19",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -2370,7 +2356,7 @@
     "title": "Principal Scientist II (Lab Head), Allergy and Plasma Cell Research",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-11-19",
+    "posted_date": "2026-11-20",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -2391,7 +2377,7 @@
     "title": "Senior Scientist, Metabolomics",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-11-17",
+    "posted_date": "2026-11-18",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2427,7 +2413,7 @@
     "title": "Supply Chain Planning Portfolio Lead",
     "company": "Biogen",
     "location": "Baar, Switzerland",
-    "posted_date": "2026-11-18",
+    "posted_date": "2026-11-19",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -2500,7 +2486,7 @@
     "title": "Principal Scientist (Director) Health Economics, Oncology (m/f/d)",
     "company": "MSD",
     "location": "CHE - Zurich - Zurich (The Circle)",
-    "posted_date": "2026-11-17",
+    "posted_date": "2026-11-18",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2529,7 +2515,7 @@
     "title": "Manager, Regional Regulatory Lead (EU)",
     "company": "CSL Behring / Vifor",
     "location": "EMEA, CH, Kanton Zurich, Opfikon, CSL Vifor",
-    "posted_date": "2026-11-20",
+    "posted_date": "2026-11-21",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2545,7 +2531,7 @@
     "title": "Consultant – Qualitative Market Research & Competitive Intelligence (Switzerland)/ Part-Time",
     "company": "IQVIA",
     "location": "Zug, Switzerland",
-    "posted_date": "2026-10-25",
+    "posted_date": "2026-10-26",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2597,7 +2583,7 @@
     "title": "Business Development Director",
     "company": "KBI Biopharma",
     "location": "Switzerland - Plan-les-Ouates",
-    "posted_date": "2026-10-25",
+    "posted_date": "2026-10-26",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -2615,7 +2601,7 @@
     "title": "Intern - Flow Cytometry Scientist",
     "company": "Labcorp",
     "location": "CHE - Geneva - 7 rue Moise-Marcinhes",
-    "posted_date": "2026-10-25",
+    "posted_date": "2026-10-26",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -2846,7 +2832,7 @@
     "title": "Executive Assistant, Regulatory Affairs",
     "company": "BeiGene",
     "location": "Basel",
-    "posted_date": "2026-11-08",
+    "posted_date": "2026-11-09",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2882,7 +2868,7 @@
     "title": "Regulatory Affairs Consultant (German and French language skills)",
     "company": "Parexel",
     "location": "Switzerland-Remote",
-    "posted_date": "2026-10-28",
+    "posted_date": "2026-10-29",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -2914,7 +2900,7 @@
     "title": "Manager, Quality & Regulatory Operations",
     "company": "Danaher",
     "location": "Neuchâtel, Switzerland",
-    "posted_date": "2026-11-04",
+    "posted_date": "2026-11-05",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -2973,7 +2959,7 @@
     "title": "Scientist, Tech Ops (f/m/d) - 6 month fixed term",
     "company": "CSL Behring / Vifor",
     "location": "EMEA, CH, Kanton Bern, Bern, CSL Behring",
-    "posted_date": "2026-11-24",
+    "posted_date": "2026-11-25",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2992,7 +2978,7 @@
     "title": "Spatial Biology Data Scientist",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-11-24",
+    "posted_date": "2026-11-25",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -3006,7 +2992,7 @@
     "title": "Scientist / Laboratory Specialist, Cell Therapy Biology (f/m/d)",
     "company": "Danaher",
     "location": "Grens, Switzerland",
-    "posted_date": "2026-11-24",
+    "posted_date": "2026-11-25",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -3084,11 +3070,6 @@
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000163493324-lead-full-stack-software-engineer-glance-project-ep-sft-2026-227-ld-?oga=true",
     "status": "matched"
   },
-  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000163499549": {
-    "description": "Vous intégrez l’équipe Gestion du Temps pour le projet ePop en tant que Coordinateur ou Coordinatrice de Supports Applicatifs RH. Vous jouez un rôle essentiel dans l’assistance aux utilisateurs et utilisatrices, la gestion des incidents et l’amélioration continue des outils. Le projet ePop vise à développer un outil institutionnel unique et intégré au système d’information des HUG pour la planification. Il prend en compte la complexité des plannings ainsi que les règles légales et institutionnelles.\nDans votre rôle, vous formez et accompagnez les utilisateurs et utilisatrices afin de garantir l’adoption et l’utilisation optimale du nouvel outil de planification. Vous leur apportez un soutien efficace et adapté à leurs besoins. Grâce à votre expertise en gestion du temps et en planification, vous conseillez vos interlocuteurs et interlocutrices sur l’application des règles en vigueur.\nGrâce à votre vision d’ensemble, vous analysez, diagnostiquez et résolvez les incidents liés à l’outil, identifiez les éventuels dysfonctionnements et créez des tâches Jira en réalisant une analyse macro. Vous répartissez les tickets aux équipes dédiées. De plus, lorsque vous identifiez un disfonctionnement de l’outil, vous transmettez de manière détaillée les informations aux équipes développement pour la correction de l’outil.\nDans le cadre de la gestion des incidents, vous assurez le suivi et la traçabilité des incidents via l’outil interne. Vous garantissez une communication régulière aux responsables sur l’état des demandes en cours. Vous participez également aux tests et à la validation des nouvelles fonctionnalités, tout en identifiant et proposant des axes d’amélioration.\nVous veillez à entretenir une relation de qualité avec les utilisateurs et utilisatrices, en assurant des délais d’intervention optimaux, une communication claire et courtoise, ainsi qu’une stricte confidentialité des informations.\nVous prenez également en charge la gestion des droits d’accès en lien avec la gestion du temps. Vous vérifiez, attribuez et supprimez les accès tout en garantissant leur conformité. Vous élaborez et mettez à jour les manuels d’utilisation du nouvel outil, organisez et dispensez les formations aux ayants droit et suivez les validations des modules e-learning.\nEnfin, votre mission inclut une forte collaboration et un partage d’expertise. Vous participez aux groupes de travail et aux comités utilisateurs et utilisatrices afin d’améliorer les processus et les outils en place. Vous assurez également l’accompagnement des nouveaux collaborateurs et collaboratrices, des étudiants et étudiantes ainsi que des stagiaires en support applicatif.",
-    "external_url": "https://jobs.smartrecruiters.com/HUG/744000163499549-coordinateurs-ou-coordinatrices-de-support-applicatifs-rh-100-?oga=true",
-    "status": "matched"
-  },
   "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000163481930": {
     "description": "Dans le cadre de vos fonctions, vous garantissez la qualité des prestations médicales dans les unités de soins de votre domaine de compétence.\nVotre sens de l’organisation et votre capacité à travailler de manière efficace vous permettent d’assurer l’application des règles et des procédures internes.\nVous coordonnez les activités pratiques ainsi que les stratégies diagnostiques et thérapeutiques des patientes et patients qui vous sont confiés en étroite collaboration avec les médecins cheffes ou chefs de clinique et médecins adjointes ou adjoints.\nEvoluant dans un environnement universitaire stimulant, au sein d’une équipe pluridisciplinaire, vous contribuez aussi à la formation des médecins stagiaires.",
     "external_url": "https://jobs.smartrecruiters.com/HUG/744000163481930-medecin-interne-en-orthopedie-et-traumatologie-pediatriques-100-?oga=true",
@@ -3112,16 +3093,6 @@
   "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000163474359": {
     "description": "Au sein de la DTN-IA, vous contribuez à la plateforme de données institutionnelle des HUG.\nLe projet concerne les concepts centraux de l'entrepôt de données qui sont aujourd'hui modélisés de façon hétérogène selon les sources (laboratoire, médicaments, codage médical, etc.). Les HUG souhaitent les décrire dans un modèle de référence commun, publié sous forme de data products contractualisés et interrogeables par les métiers selon des définitions partagées.\nLe stage porte sur quatre concepts prioritaires : données démographiques, séjours hospitaliers, mouvements de patients et patientes, résultats de laboratoire. Il peut être complété par les interventions, les diagnostics et les médicaments (prescriptions et administrations).\nAu sein d'une équipe pluridisciplinaire (architecte data, analystes, ingénieurs des données, expertise clinique), vous construisez et évaluez cette chaîne de bout en bout en partant de la donnée aux data products contractualisés jusqu'à leur interrogation par les métiers.\nVous travaillez avec des standards ouverts récents (ODCS, ODPS, Apache Ossie, ex-Open Semantic Interchange) sur une architecture lakehouse moderne (Apache Iceberg, dbt, Airflow, catalogue OpenMetadata).\nVous avez pour objectif principal de créer des data products gouvernés et contractualisés pour ces quatre concepts, avec des définitions et des métriques communes à tous les métiers.\nDans la mesure du possible, vous travaillez sur un prototype d'outil d'IA qui s'appuie sur ces data products pour répondre aux demandes d'extraction de données adressées à l'infodesk. Il n'est pas un engagement de livraison et utilisera uniquement des données synthétiques ou anonymisées, dans un environnement conforme aux exigences de protection des données des HUG.\nPour mener à bien vos missions, vous analysez l'existant et inventoriez inventaire les sources, les tables et les problèmes de qualité pour les concepts retenus.\nVous concevez les modèles conceptuels, logique et physique, y compris la gestion de l'historique et de la temporalité.\nVous formalisez les data products : data contracts en ODCS (schéma, règles de qualité, SLA, responsabilités) et descripteurs de produits en ODPS.\nVous définissez le modèle sémantique : entités, relations, dimensions, métriques cliniques et glossaire métier selon la spécification Apache Ossie, avec des annotations destinées aux outils d'IA. Vous le reliez ensuite au catalogue OpenMetadata (glossaire métier, data products, contrats, lignage).\nVous prototypez sur le lakehouse en réalisant tables Apache Iceberg, transformations SQL avec dbt, orchestration Airflow, contrôles de qualité issus des contrats (tests dbt).\nVous exposez les data products via une interface de requêtage (API, SQL ou tableau de bord). En option et selon l'avancement vous développez, avec des assistants IA, un prototype d'outil qui s'appuie sur ces data products et le modèle Ossie pour répondre aux demandes de l'infodesk.\nVous évaluez l'ensemble sur un cas d'usage réel (exports pour la recherche, indicateur qualité ou demande de l'infodesk) en prenant en considération les éléments suivants : complétude, cohérence des métriques, performance, facilité d'usage par les métiers.\n \nLes livrables attendus pour ce stage sont les suivants :\nVous créez un modèle de référence et dictionnaire de données\nVous élaborez des contrats ODCS et descripteurs de data products ODPS\nVous conceptualisez un modèle sémantique Apache Ossie\nVous développez une interface d'interrogation des data products ; en option, prototype d'outil IA pour l'infodesk\nVous rédigez un rapport de stage et préparez une présentation finale",
     "external_url": "https://jobs.smartrecruiters.com/HUG/744000163474359-stage-de-master-du-lakehouse-aux-data-products-cliniques-gouvernes-data-contracts-modele-semantique-100-?oga=true",
-    "status": "matched"
-  },
-  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000163461309": {
-    "description": "En tant que cheffe ou chef de clinique, vous participez à la prise en charge des patientes et patients hospitalisés et ambulatoires au sein des Services de gastro-entérologie et hépatologie et de médecine interne générale au travers de rotations d’une durée de 6 mois. \nEn rotation au sein du Service de gastro-entérologie et hépatologie, vous participez à la prise en charge diagnostique et thérapeutique des patientes et patients atteints de pathologies du tube digestif, du foie, des voies biliaires et du pancréas. Vous prenez également part aux procédures endoscopiques selon votre niveau de formation et les compétences acquises. \nLors de votre passage en médecine interne générale, vous assurez la supervision médicale des unités de soins qui vous sont confiées et contribuez à la prise en charge de situations cliniques complexes, en étroite collaboration avec les différentes spécialités du département. \nVous collaborez étroitement avec les médecins adjoints et adjointes, les équipes médico-soignantes et les différents partenaires hospitaliers afin d'élaborer les stratégies diagnostiques et thérapeutiques les plus adaptées. \nVous contribuez activement à la supervision et à la formation des médecins internes et médecins stagiaires, en participant à leur encadrement clinique quotidien ainsi qu'aux activités d'enseignement du département. \nVous participez aux colloques, séminaires et conférences de formation, et contribuez aux activités académiques et de recherches développées dans les deux services. \nGrâce à votre sens de l'organisation, votre capacité d'analyse et votre aptitude à travailler dans un environnement dynamique, vous assurez une prise en charge de qualité tout en répondant aux différentes sollicitations cliniques. Vous faites preuve d'excellentes compétences relationnelles et favorisez une communication claire et respectueuse avec les patientes et patients, leurs proches et l'ensemble des professionnels impliqués dans les soins.",
-    "external_url": "https://jobs.smartrecruiters.com/HUG/744000163461309-chef-ou-cheffe-de-clinique-en-rotation-entre-le-service-de-gastro-enterologie-et-hepatologie-et-le-service-de-medecine-interne-generale-100-?oga=true",
-    "status": "matched"
-  },
-  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000163461049": {
-    "description": "En tant que médecin interne, vous souhaitez préparer votre titre postgrade en médecine interne générale et nourrissez un intérêt marqué pour une spécialisation en gastroentérologie et hépatologie. \nVous réalisez un parcours au sein du Département de médecine dans le Service de gastroe-ntérologie et hépatologie et le Service de médecine interne générale et évoluez dans les 2 services au travers de rotations d’une durée de 6 mois. \nSous la supervision des médecins cadres, vous prenez en charge avec rigueur et sens clinique les patientes et patients qui vous sont confiés. Vous développez vos capacités d’analyse en vous confrontant à des situations cliniques parfois complexes. Grâce à votre sens de l’organisation, vous assurez les activités pratiques, les interventions cliniques et thérapeutiques, tout en veillant au strict respect des règles et des procédures internes, dans un souci constant de qualité des prestations médicales apportées. \nÉvoluant dans un environnement universitaire stimulant et exigeant, au sein d’une équipe pluridisciplinaire, vous contribuez également à la formation des médecins stagiaires. Vous collaborez étroitement avec l’ensemble de l’équipe médico-soignante et veillez à maintenir une communication claire, fluide et respectueuse, tant avec vos collègues qu’avec les patientes et patients, en adaptant votre discours à leurs besoins et à leur compréhension. \nEn parallèle de votre activité, vous bénéficiez d'une formation post graduée de qualité contribuant à l'obtention de votre titre de spécialiste FMH. A ce titre, vous faites évoluer votre formation selon le plan de formation et les exigences FMH.",
-    "external_url": "https://jobs.smartrecruiters.com/HUG/744000163461049-medecin-interne-en-rotation-entre-le-service-de-gastro-enterologie-et-hepatologie-et-le-service-de-medecine-interne-generale-100-?oga=true",
     "status": "matched"
   },
   "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000163460249": {
@@ -3176,7 +3147,7 @@
   },
   "https://www.michaelpage.ch/de/job-detail/business-development-manager-schweiz-wohnungswirtschaft/ref/jn-092026-7094364?lang=en": {
     "external_url": "https://www.michaelpage.ch/de/job-detail/business-development-manager-schweiz-wohnungswirtschaft/ref/jn-092026-7094364?lang=en",
-    "status": "matched",
+    "status": "ignored",
     "title": "Business Development Manager Schweiz - Wohnungswirtschaft",
     "company": "Michael Page Switzerland",
     "location": "Switzerland",
@@ -3246,7 +3217,7 @@
   },
   "https://www.michaelpage.ch/de/job-detail/business-development-manager-100/ref/jn-082026-7090776?lang=en": {
     "external_url": "https://www.michaelpage.ch/de/job-detail/business-development-manager-100/ref/jn-082026-7090776?lang=en",
-    "status": "matched",
+    "status": "ignored",
     "title": "Business Development Manager (a) 100%",
     "company": "Michael Page Switzerland",
     "location": "Switzerland",
@@ -3260,7 +3231,7 @@
   },
   "https://www.michaelpage.ch/job-detail/senior-global-regulatory-affairs-leader/ref/jn-102026-7123784": {
     "external_url": "https://www.michaelpage.ch/job-detail/senior-global-regulatory-affairs-leader/ref/jn-102026-7123784",
-    "status": "matched",
+    "status": "ignored",
     "title": "Senior Global Regulatory Affairs Leader (a)",
     "company": "Michael Page Switzerland",
     "location": "Switzerland",
@@ -3274,7 +3245,7 @@
   },
   "https://www.michaelpage.ch/de/job-detail/sales-account-manager-b2b-mwd/ref/jn-102026-7129840?lang=en": {
     "external_url": "https://www.michaelpage.ch/de/job-detail/sales-account-manager-b2b-mwd/ref/jn-102026-7129840?lang=en",
-    "status": "matched",
+    "status": "ignored",
     "title": "Sales & Business Development - Zürcher KMU",
     "company": "Michael Page Switzerland",
     "location": "Switzerland",
@@ -3288,7 +3259,7 @@
   },
   "https://www.michaelpage.ch/de/job-detail/business-development-manager-100/ref/jn-102026-7129527?lang=en": {
     "external_url": "https://www.michaelpage.ch/de/job-detail/business-development-manager-100/ref/jn-102026-7129527?lang=en",
-    "status": "matched",
+    "status": "ignored",
     "title": "Business Development Manager (a) 100%",
     "company": "Michael Page Switzerland",
     "location": "Switzerland",
@@ -3302,7 +3273,7 @@
   },
   "https://www.michaelpage.ch/fr/job-detail/sp%C3%A9cialiste-payroll-hfx/ref/jn-102026-7122035?lang=en": {
     "external_url": "https://www.michaelpage.ch/fr/job-detail/sp%C3%A9cialiste-payroll-hfx/ref/jn-102026-7122035?lang=en",
-    "status": "matched",
+    "status": "ignored",
     "title": "Spécialiste Payroll (H/F/X)",
     "company": "Michael Page Switzerland",
     "location": "Switzerland",
@@ -3316,7 +3287,7 @@
   },
   "https://www.michaelpage.ch/fr/job-detail/sp%C3%A9cialiste-rh-mission-temporaire/ref/jn-102026-7138059?lang=en": {
     "external_url": "https://www.michaelpage.ch/fr/job-detail/sp%C3%A9cialiste-rh-mission-temporaire/ref/jn-102026-7138059?lang=en",
-    "status": "matched",
+    "status": "ignored",
     "title": "Spécialiste RH",
     "company": "Michael Page Switzerland",
     "location": "Switzerland",
@@ -3330,7 +3301,7 @@
   },
   "https://www.michaelpage.ch/fr/job-detail/sp%C3%A9cialiste-qualification-qa/ref/jn-102026-7132926?lang=en": {
     "external_url": "https://www.michaelpage.ch/fr/job-detail/sp%C3%A9cialiste-qualification-qa/ref/jn-102026-7132926?lang=en",
-    "status": "matched",
+    "status": "ignored",
     "title": "Spécialiste Qualification QA",
     "company": "Michael Page Switzerland",
     "location": "Switzerland",
@@ -3344,7 +3315,7 @@
   },
   "https://www.michaelpage.ch/job-detail/associate-director-heor-hematology/ref/jn-092026-7104459": {
     "external_url": "https://www.michaelpage.ch/job-detail/associate-director-heor-hematology/ref/jn-092026-7104459",
-    "status": "matched",
+    "status": "ignored",
     "title": "Associate Director HEOR Hematology (a)",
     "company": "Michael Page Switzerland",
     "location": "Switzerland",
@@ -3358,7 +3329,7 @@
   },
   "https://www.michaelpage.ch/job-detail/data-and-market-intelligence-analyst/ref/jn-072026-7074770": {
     "external_url": "https://www.michaelpage.ch/job-detail/data-and-market-intelligence-analyst/ref/jn-072026-7074770",
-    "status": "matched",
+    "status": "ignored",
     "title": "Data and Market Intelligence Analyst",
     "company": "Michael Page Switzerland",
     "location": "Switzerland",
@@ -3372,7 +3343,7 @@
   },
   "https://www.michaelpage.ch/job-detail/client-portfolio-manager-investment-associate/ref/jn-092026-7101747": {
     "external_url": "https://www.michaelpage.ch/job-detail/client-portfolio-manager-investment-associate/ref/jn-092026-7101747",
-    "status": "matched",
+    "status": "ignored",
     "title": "Client Portfolio Manager / Investment Associate",
     "company": "Michael Page Switzerland",
     "location": "Switzerland",
@@ -3386,7 +3357,7 @@
   },
   "https://www.michaelpage.ch/fr/job-detail/sp%C3%A9cialiste-salaires-mission-temporaire/ref/jn-102026-7120040?lang=en": {
     "external_url": "https://www.michaelpage.ch/fr/job-detail/sp%C3%A9cialiste-salaires-mission-temporaire/ref/jn-102026-7120040?lang=en",
-    "status": "matched",
+    "status": "ignored",
     "title": "Spécialiste Salaires - mission temporaire",
     "company": "Michael Page Switzerland",
     "location": "Switzerland",
@@ -3429,5 +3400,62 @@
       "location:geneva"
     ],
     "deducted_keywords": []
+  },
+  "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-senior-operational-support-scientist-bern-903330/1": {
+    "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-senior-operational-support-scientist-bern-903330/1",
+    "status": "matched",
+    "title": "Senior Operational Support Scientist(m/f/d)",
+    "company": "Hays Switzerland",
+    "location": "Bern, Switzerland",
+    "posted_date": "",
+    "department": "",
+    "score": 0,
+    "matched_keywords": [],
+    "deducted_keywords": []
+  },
+  "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-msat-associate-principal-scientist-visp-902295/1": {
+    "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-msat-associate-principal-scientist-visp-902295/1",
+    "status": "matched",
+    "title": "MSAT Associate Principal Scientist(m/f/d)",
+    "company": "Hays Switzerland",
+    "location": "Visp, Switzerland",
+    "posted_date": "",
+    "department": "",
+    "score": -2,
+    "matched_keywords": [],
+    "deducted_keywords": [
+      "location:Visp, Switzerland"
+    ]
+  },
+  "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-scientist-qa-bern-892890/1": {
+    "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-scientist-qa-bern-892890/1",
+    "status": "matched",
+    "title": "Scientist QA(m/f/d)",
+    "company": "Hays Switzerland",
+    "location": "Bern, Switzerland",
+    "posted_date": "",
+    "department": "",
+    "score": 0,
+    "matched_keywords": [],
+    "deducted_keywords": []
+  },
+  "/job/Grens-Switzerland/Collaboration--Innovation---Market-Support-Scientist--Cell-Therapy--f-m-d-_R1323030": {
+    "description": "Bring more to life.\n \nAre you ready to accelerate your potential and make a real difference within life sciences, diagnostics and biotechnology?\n \nAt Cytiva, one of Danaher’s 15+ operating companies, our work saves lives—and we’re all united by a shared commitment to innovate for tangible impact. \n \nYou’ll thrive in a culture of belonging where you and your unique viewpoint matter. And by harnessing Danaher’s system of continuous improvement, you help turn ideas into impact – innovating at the speed of life.\n \nWorking at Cytiva means being at the forefront of providing new solutions to transform human health. Our incredible customers undertake life-saving activities ranging from fundamental biological research to developing innovative vaccines, new medicines, and cell and gene therapies.\n \nAt Cytiva you will be able to continuously improve yourself and us – working on challenges that truly matter with people that care for each other, our customers, and their patients. Take your next step to an altogether life-changing career.\n \nLearn about the Danaher Business System which makes everything possible.\n \nThe Collaboration, Innovation & Market Support Scientist, Cell Therapy is responsible for supporting two strategic areas within the Cell Therapy organization: External strategic collaborations and innovation activities (~50%), and scientific market support activities (~50%).\n \nThis position reports to the Senior Manager Biology Cell Therapy and is part of the R&D team located in Signy, Grens and will be an on-site role. \n \nWhat you will do:\n\nStrategic Collaborations & Innovation | Approximately 50%\nEstablish, and manage strategic collaborations with academic institutions, translational centers, biotechnology companies, pharmaceutical organizations, and other innovation partners.\nDevelop and review Statements of Work (SOWs), including project objectives, experimental scope, deliverables, milestones, responsibilities, timelines, and success criteria.\nCoordinate collaborations from initial concept and contracting through experimental execution, data review, and project completion.\n\nMarket Support & Scientific Activities | Approximately 50%\nCoordinate and manage scientific market support activities in partnership with other Cytiva sites, R&D teams, application teams, and Marketing.\nHelp define the scientific questions and experimental strategy required to generate robust data supporting Cytiva technologies, applications, and workflows.\nAct as the lead scientist or scientific representative during execution of selected market support studies, including studies performed at other Cytiva sites.\n\nWho you are:\nPhD or MSc with significant relevant experience in Cell Biology, Biotechnology, Bioengineering, Cell & Gene Therapy, or a related scientific discipline.\nStrong understanding of Cell Therapy workflows, biological assays, and associated technologies.\nExperience coordinating scientific projects involving multiple stakeholders.\nStrong critical-thinking and problem-solving capabilities.\nExcellent written and verbal scientific communication skills in English and French.\nCreative and entrepreneurial mindset, with the ability to identify scientific and innovation opportunities beyond predefined project objectives.\n\nCytiva, a Danaher operating company, offers a broad array of comprehensive, competitive benefit programs that add value to our lives. Whether it’s a health care program or paid time off, our programs contribute to life beyond the job. Check out our benefits at Danaher Benefits Info.\n\nJoin our winning team today. Together, we’ll accelerate the real-life impact of tomorrow’s science and technology. We partner with customers across the globe to help them solve their most complex challenges, architecting solutions that bring the power of science to life.\n\nFor more information, visit www.danaher.com.",
+    "external_url": "https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Grens-Switzerland/Collaboration--Innovation---Market-Support-Scientist--Cell-Therapy--f-m-d-_R1323030",
+    "status": "matched",
+    "title": "Collaboration, Innovation & Market Support Scientist, Cell Therapy (f/m/d)",
+    "company": "Danaher",
+    "location": "Grens, Switzerland",
+    "posted_date": "2026-11-25",
+    "department": "",
+    "score": 1,
+    "matched_keywords": [
+      "French",
+      "MSc",
+      "PhD"
+    ],
+    "deducted_keywords": [
+      "location:Grens, Switzerland"
+    ]
   }
 }
