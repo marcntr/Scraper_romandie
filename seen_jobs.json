@@ -818,7 +818,7 @@
     "deducted_keywords": []
   },
   "_generic:SIB Swiss Institute of Bioinformatics": {
-    "keywords": "bioinformatics,research fellow"
+    "keywords": "bioinformatics,research fellow,scientist"
   },
   "_generic:AliveDx": {
     "keywords": "assay development,regulatory,regulatory affairs,scientist"
@@ -1287,7 +1287,7 @@
     "title": "Scientist – Assay Data, AI & Workflows",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-30",
+    "posted_date": "2026-10-29",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1327,7 +1327,7 @@
     "title": "Data Scientist / Engineer - DNA-Encoded Library Technology (DELT)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-30",
+    "posted_date": "2026-10-29",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1344,7 +1344,7 @@
     "title": "Scientific AI Platform Lead, Data Science, Disease Area X",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-10-31",
+    "posted_date": "2026-10-30",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -1394,11 +1394,6 @@
   "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000159318139": {
     "description": "En tant que médecin interne, vous avez débuté votre parcours de formation en médecine interne et souhaitez désormais vous orienter vers l’obtention du titre de spécialiste en infectiologie.\nDans ce contexte, vous rejoignez le Service des maladies infectieuses et participez aux activités des différentes consultations spécialisées, notamment en maladies infectieuses générales, auprès des personnes immunodéprimées, des personnes âgées, dans le domaine de l’orthopédie septique et du VIH/Sida, au travers de rotations.\nSous la supervision des médecins cadres, vous assurez la prise en charge des patientes et patients qui vous sont confiés, tant en ambulatoire qu’en intrahospitalier, au sein de l’ensemble de l’institution. Vous développez progressivement votre expertise clinique en étant confronté et confrontée à des situations variées et parfois complexes, qui renforcent vos capacités d’analyse, votre jugement clinique et votre aptitude à vous adapter rapidement à de nouveaux contextes médicaux.\nGrâce à votre sens de l’organisation et à votre rigueur, vous assurez les activités cliniques, diagnostiques et thérapeutiques nécessaires à la prise en charge des patientes et patients. Vous veillez au respect des règles et des procédures internes, dans un souci constant de qualité des prestations médicales apportées.\nFace à la diversité des demandes de consultation et à la complexité de certaines situations cliniques, vous faites preuve de sang-froid, de discernement et d’une bonne gestion du stress. Votre curiosité intellectuelle vous incite à approfondir vos connaissances et à comprendre les enjeux des situations auxquelles vous faites face. Vous accueillez également les retours constructifs avec ouverture et les utilisez comme leviers de progression dans l’atteinte de vos objectifs de formation.\nÉvoluant dans un environnement universitaire stimulant et exigeant, au sein d’une équipe pluridisciplinaire, vous participez également à la formation des médecins stagiaires. Vous collaborez étroitement avec l’ensemble des équipes médico-soignantes de l’institution, dans une approche proactive et centrée sur les besoins des patientes et patients. Vous veillez à maintenir une communication claire, respectueuse et adaptée, tant avec vos collègues qu’avec les personnes prises en charge et leurs proches.\nPar ailleurs, vous avez la possibilité de participer à des projets de recherche en cours au sein du service.\nDans le cadre de votre parcours de formation, vous développez vos compétences conformément au plan de formation et aux exigences de la FMH durant trois années au sein du service. Celui-ci offre un environnement reconnu pour la qualité de son enseignement, un large éventail d’activités en infectiologie ainsi que des opportunités de développement favorisant l’obtention du titre FMH. Vous bénéficiez également d’un accompagnement personnalisé grâce à des séances de coaching, des formations ciblées et un encadrement régulier assuré par les médecins cadres ainsi que les chefs et cheffes de clinique.",
     "external_url": "https://jobs.smartrecruiters.com/HUG/744000159318139-medecin-interne-en-maladies-infectieuses-100-?oga=true",
-    "status": "matched"
-  },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000159558115": {
-    "description": "The BE-EA-DC section is responsible of mechanical beamline equipment such as beam intercepting devices and beam instrumentations. This equipment requires constant maintenance and upgrading to ensure its reliability and accuracy.\nYour responsibilities\nConduct the dismantling/assembling activities of the beam line equipment.\nActively participate in all stages of the mechanical equipment readiness, from production to installation.\nCollaborate closely with engineers, coordination teams, technicians.\nCommunicate and report the advancement of the work to the supervisor and project managers.\nParticipate to various mechanical design studies (new beam line equipment, tooling, upgrade).\nWrite technical specifications and procedures (maintenance, installation).\nMaintain up to date and improve the equipment maintenance database.\nMore information here.\nYour profile\nHands-on experience with mechanical equipment assembly and installation.\nExperience reading 2D drawings (ISO-GPS).\nFamiliarity with 3D modeling software (CATIA) and Microsoft Office pack.\nFamiliarity with a Computerized Maintenance Management System.\nSkills\nUnderstanding of the design of mechanical equipment and structures.\nKnowledge of manufacturing methods and work preparation (procedures, orders, BOM, metrology, logistics... ).\nKnowledge of design codes and compliance verification of mechanical equipment.\nOrganisation, planning and control of tasks.\nSpoken and written English or French, with a commitment to learn the basics of the other language.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nBy the application deadline, you have a maximum of two years of professional experience since graduation in Mechanical Engineering (or a related field) and your highest educational qualification is a general secondary education diploma.\nYou have never had a CERN fellow or graduate contract before.\nApplicants with a Bachelor's, Master's or PhD degree are not eligible.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000159558115-mechanical-technician-be-ea-dc-2026-251-grae-?oga=true",
     "status": "matched"
   },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000159640320": {
@@ -1685,7 +1680,7 @@
     "title": "Associate Principal Scientist - Analytical Development (Microbial) 80%-100% (m/w/d)",
     "company": "Lonza",
     "location": "CH - Visp",
-    "posted_date": "2026-11-06",
+    "posted_date": "2026-11-05",
     "department": "",
     "score": -1,
     "matched_keywords": [
@@ -1750,7 +1745,7 @@
     "title": "Patent Attorney II",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-11-11",
+    "posted_date": "2026-11-10",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1790,18 +1785,6 @@
       "location:Tessin, Westschweiz & Zentralschweiz, Switzerland"
     ]
   },
-  "https://www.stettlerconsulting.ch/en/current-vacancies/business-development-manager-inside-sales-manager-w-m-100/": {
-    "external_url": "https://www.stettlerconsulting.ch/en/current-vacancies/business-development-manager-inside-sales-manager-w-m-100/",
-    "status": "ignored",
-    "title": "Business Development Manager & Inside Sales Manager (w/m) 100%",
-    "company": "Stettler Consulting",
-    "location": "Region: Basel, Mittelland, Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": 0,
-    "matched_keywords": [],
-    "deducted_keywords": []
-  },
   "https://www.stettlerconsulting.ch/en/current-vacancies/medical-adviser-nephrologie-zns-80-100-w-m/": {
     "external_url": "https://www.stettlerconsulting.ch/en/current-vacancies/medical-adviser-nephrologie-zns-80-100-w-m/",
     "status": "ignored",
@@ -1813,20 +1796,6 @@
     "score": 0,
     "matched_keywords": [],
     "deducted_keywords": []
-  },
-  "https://www.stettlerconsulting.ch/en/current-vacancies/business-development-manager-wound-care-w-m-100/": {
-    "external_url": "https://www.stettlerconsulting.ch/en/current-vacancies/business-development-manager-wound-care-w-m-100/",
-    "status": "ignored",
-    "title": "Business Development Manager «Home Care» (w/m) 100%",
-    "company": "Stettler Consulting",
-    "location": "Region: Zuerich/Ostschweiz, Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": -2,
-    "matched_keywords": [],
-    "deducted_keywords": [
-      "location:Region: Zuerich/Ostschweiz, Switzerland"
-    ]
   },
   "https://www.stettlerconsulting.ch/en/current-vacancies/quality-regulatory-affairs-manager-w-m-80-100/": {
     "external_url": "https://www.stettlerconsulting.ch/en/current-vacancies/quality-regulatory-affairs-manager-w-m-80-100/",
@@ -1924,7 +1893,7 @@
     "title": "Patent Attorney Trainee",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-11-13",
+    "posted_date": "2026-11-12",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1952,7 +1921,7 @@
     "title": "Scientist (all genders) Quality Control, Microbiology (80-100%)",
     "company": "Lonza",
     "location": "CH - Visp",
-    "posted_date": "2026-11-13",
+    "posted_date": "2026-11-12",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -1995,7 +1964,7 @@
     "title": "Compound Logistics Workflow and Integration Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-11-14",
+    "posted_date": "2026-11-13",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2056,7 +2025,7 @@
     "title": "Associate Principal Scientist - Analytical Project Lead 80-100% (f/m/d)",
     "company": "Lonza",
     "location": "CH - Basel",
-    "posted_date": "2026-11-16",
+    "posted_date": "2026-11-15",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2191,11 +2160,6 @@
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000162291952-junior-materials-engineer-hse-ohs-2026-261-grae-?oga=true",
     "status": "matched"
   },
-  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000162319481": {
-    "description": "En tant que cheffe ou chef de clinique, vous assurez la prise en charge des patientes et patients hospitalisés et ambulatoires présentant des pathologies gastro-entérologiques et hépatologiques. Vous participez aux activités diagnostiques et thérapeutiques du service, y compris aux procédures endoscopiques.  \nVous collaborez étroitement avec les médecins adjoints et adjointes et les équipes multidisciplinaires afin d'élaborer les stratégies diagnostiques et thérapeutiques les plus adaptées. \nVous faites preuve de résilience, de sens clinique et d’une grande capacité d’analyse dans la prise en charge de situations parfois complexes. Grâce à votre sens de l’organisation et à votre capacité à prioriser, vous assurez efficacement vos activités cliniques tout en répondant aux multiples sollicitations (patients et patientes, téléphones, correspondances, réunions).  \nVous évoluez dans un environnement exigeant, à l’interface des soins, de l’enseignement et de la recherche. À ce titre, vous collaborez étroitement avec l’ensemble de l’équipe médico-soignante et veillez à une communication claire, fluide et respectueuse, tant avec vos collègues qu’avec les patientes et patients, en adaptant votre discours à leur compréhension. \nEn vous appuyant sur votre esprit d’équipe, vous faites preuve de solidarité face aux imprévus. En tant que cheffe ou chef de clinique, vous participez activement à la supervision et à la formation des médecins internes et médecins stagiaires du département de médecine dans le domaine de la gastro-entérologie et hépatologie, en adoptant une posture de mentorat et en partageant votre expertise.",
-    "external_url": "https://jobs.smartrecruiters.com/HUG/744000162319481-chef-ou-cheffe-de-clinique-avec-ou-sans-titre-de-specialite-en-gastro-enterologie-et-hepatologie-80-a-100-?oga=true",
-    "status": "matched"
-  },
   "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000162254020": {
     "description": "En tant qu’ingénieur ou ingénieure cheffe de projet, vous renforcez le secteur ingénierie et techniques du bâtiment (SITB). L’équipe, composée d’une quinzaine de personnes spécialisées dans les différents domaines techniques du bâtiment : Chauffage-Ventilation-Climatisation (CVC), sanitaire, gaz médicaux et électricité, gère environ 60 projets en parallèle. Vous évoluez ainsi dans un environnement à la fois exigeant et innovant.\nDans ce rôle, vous pilotez des projets de construction ou de rénovation, depuis leur conception jusqu’à leur réalisation, tout en mettant en avant votre expertise en électricité. Vous intervenez ainsi notamment sur des projets incluant la distribution courant fort et faible, la transformation et mise au norme de cabine TGBT et BT, l’installation de panneaux solaire photovoltaïque, de bornes de recharge ou remplacement d’éclairage.\nVous réalisez des études avant-projets en analysant la faisabilité, en identifiant les besoins, en estimant les coûts et en définissant le planning. Vous rédigez des cahiers des charges détaillés et proposez des solutions techniques qui permettent une prise de décision éclairée. Vous assurez un cadrage rigoureux des projets, garantissant ainsi une validation précise des objectifs et un déroulement maîtrisé.\nVous évaluez les solutions techniques en sélectionnant les équipements les plus adaptés et en élaborant des plans détaillés. Vous préparez également les soumissions nécessaires pour le lancement des appels d’offres publics. Vous assurez une supervision active en veillant au respect des lois, des normes et des réglementations en vigueur à chaque étape.\nVous supervisez l’exécution des projets en coordonnant les différentes étapes, en suivant le budget et le planning, et en assurant une collaboration optimale avec les équipes projets. Vous participez aux comités de pilotage (COPIL), où vous présentez l’avancement des travaux, proposez des solutions aux éventuels défis et contribuez aux prises de décisions stratégiques.\nDans une perspective transverse, vous participez activement à l’amélioration continue en contribuant à l’évolution des référentiels et des directives techniques. Vous mettez à jour la documentation, effectuez une veille technologique dans vos domaines d’expertise et proposez des améliorations pertinentes.",
     "external_url": "https://jobs.smartrecruiters.com/HUG/744000162254020-ingenieur-ou-ingenieure-cheffe-de-projet-technique-et-batiment-en-electricite-100-?oga=true",
@@ -2218,7 +2182,7 @@
     "title": "Research Scientist, Antigen and Therapeutic Protein Production – Downstream Processing",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-11-19",
+    "posted_date": "2026-11-18",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -2314,7 +2278,7 @@
     "title": "Principal Scientist II (Lab Head), Allergy and Plasma Cell Research",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-11-20",
+    "posted_date": "2026-11-19",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -2335,7 +2299,7 @@
     "title": "Senior Scientist, Metabolomics",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-11-18",
+    "posted_date": "2026-11-17",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2371,7 +2335,7 @@
     "title": "Supply Chain Planning Portfolio Lead",
     "company": "Biogen",
     "location": "Baar, Switzerland",
-    "posted_date": "2026-11-19",
+    "posted_date": "2026-11-18",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -2429,7 +2393,7 @@
     "title": "Principal Scientist (Director) Health Economics, Oncology (m/f/d)",
     "company": "MSD",
     "location": "CHE - Zurich - Zurich (The Circle)",
-    "posted_date": "2026-11-18",
+    "posted_date": "2026-11-17",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2458,7 +2422,7 @@
     "title": "Manager, Regional Regulatory Lead (EU)",
     "company": "CSL Behring / Vifor",
     "location": "EMEA, CH, Kanton Zurich, Opfikon, CSL Vifor",
-    "posted_date": "2026-11-21",
+    "posted_date": "2026-11-20",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2639,25 +2603,6 @@
       "location:Newark, CA; Tolochenaz, Switzerland"
     ]
   },
-  "/job/USA---Massachusetts---Waltham/Director--Clinical-Science---Oncology-Clinical-Development-GYN_451121": {
-    "description": "For candidates seeking to be located at our Stevenage site, this role will temporarily be based at Stevenage. However, the Company plans to relocate its offices to Cambridge, UK. The location of this role will therefore subsequently change to Cambridge, UK in accordance with timelines to be set by the Company. The relocation is currently proposed to take effect by early 2029.\n\nAt GSK, we have bold ambitions for patients, aiming to positively impact the health of 2.5 billion people by the end of the decade. Our R&D focuses on discovering and delivering vaccines and medicines, combining our understanding of the immune system with cutting-edge technology to transform people’s lives. GSK fosters a culture ambitious for patients, accountable for impact, and committed to doing the right thing, making sure that we focus our efforts on accelerating significant assets that meet patients’ needs and have the highest probability of success. We’re uniting science, technology, and talent to get ahead of disease together.\n\nFind out more:\n\nOur approach to R&D\n\nCancer is unrelenting, but so are we. At GSK, we are committed to transforming outcomes for people with cancer through innovative science, bold ambition, and strong partnerships across the healthcare ecosystem. We focus our science where it can matter most—advancing care in cancers with high unmet need, grounded in a deep understanding of disease biology and deliberate scientific choices that connect discovery to meaningful impact in the real world.\n\nThe Director, Clinical Science – Oncology Clinical Development GYN provides scientific leadership across defined components of study design, conduct, data review, and interpretation within an assigned clinical programme. Reporting to the Clinical Development Lead (CDL), this role operates within the asset-level clinical strategy and contributes scientific depth and rigour to the execution of the Clinical Development Plan (CDP).\n\nThe Director, Clinical Science partners closely with the Senior Scientist and cross-functional teams to support delivery of clinical studies, ensuring scientific quality, data integrity, and robust interpretation of clinical data. This role contributes to both study-level activities and broader programme insights, without holding accountability for asset-level strategy or overall study delivery.\n\nThis is a scientific individual contributor role requiring deep oncology clinical development expertise, strong analytical and collaboration skills, and the ability to operate effectively within a complex, matrixed environment.\n\nIn This Role You Will:\nProvide scientific leadership across defined components of study-level activities, including protocol development, study design, data review, and interpretation, within the strategic direction set by the CDL\nServe as a core member of the Clinical Matrix Team (CMT), ensuring scientific alignment across study objectives, timelines, and deliverables\nProvide scientific insight to the CDL and Senior Scientist to inform asset-level strategy, benefit–risk assessment, and programme-level decision-making\nEnsure the scientific quality and consistency of key clinical and regulatory documents, including protocols, Investigator’s Brochures, Clinical Study Reports, and submission materials\nApply scientific and clinical expertise to analyse and interpret data, ensuring rigour, integrity, and relevance to the target patient population\nEngage with internal and external stakeholders, including investigators and Key External Experts, to support study execution and scientific exchange\nContribute to a culture of scientific excellence, innovation, and continuous improvement within Oncology Clinical Development\n\nDetailed Responsibilities:\n\nStudy Design and Execution\nProvide scientific input into protocol development and study design, ensuring robustness, feasibility, and alignment with CDP-defined objectives and regulatory requirements\nAuthor or co-author key study documents (e.g., Clinical Study Proposals), contributing to preparation and presentation at governance forums such as Protocol Review Boards\nSupport study conduct by addressing scientific questions, ensuring data integrity, and maintaining alignment with protocol and regulatory standards\nProvide scientific input into study-level decisions related to protocol implementation and study conduct, within the strategic framework defined by the CDL\nPresent and support the scientific rationale and study design at Investigator Meetings and respond to scientific inquiries from study sites\nSupport implementation of study-level Go/No-Go criteria aligned to the asset-level decision framework defined by the CDL\n \nData Generation, Analysis, and Interpretation\nAnalyse and interpret clinical data to generate insights on safety, efficacy, and patient populations\nIntegrate data from internal and external sources (e.g., literature, competitor data, emerging science) to inform study and programme understanding\nProvide scientific input into data review and interpretation activities, in collaboration with Medical Directors and pharmacovigilance\nTranslate study findings into clear scientific insights to inform programme progression and support CDL-led decision-making\n\nClinical and Regulatory Deliverables\nContribute to development of clinical and regulatory documents, including protocols, Investigator’s Brochures (IBs), Clinical Study Reports (CSRs), and submission materials\nEnsure scientific accuracy, consistency, and quality across study documentation\nSupport preparation of regulatory submissions and responses to Health Authority queries\nContribute to regulatory reporting requirements (e.g., DSURs, INDSRs) and ensure alignment with regulatory standards\n\nCross-Functional Collaboration & Scientific Contribution\nServe as a core member of the CMT, partnering with Clinical Operations, Statistics, Safety, Regulatory, and Medical Affairs to support integrated study delivery\nProvide scientific expertise to cross-functional discussions, including integrated evidence planning and disease-area forums, as appropriate\nParticipate in internal and external scientific interactions with investigators, Key External Experts, advisory boards, and collaborators\nContribute to scientific communications, including publications, congress presentations, and study-related materials\n\n Ways of Working & Continuous Improvement\nIdentify scientific and operational risks at the study level and provide input into mitigation strategies\nSupport and drive implementation of consistent ways of working and process improvements across the programme\nParticipate in Oncology Clinical Development initiatives and workstreams to strengthen standards, processes, and capabilities\nEngage in ongoing development to deepen scientific expertise, expand disease-area knowledge, and build broader clinical development capabilities\n\nBasic Qualifications\n·      Bachelor’s degree in life sciences or related scientific discipline required\n·      Experience in pharmaceutical/biotechnology industry or related clinical development experience, with a focus on oncology\n·      Experience in clinical development from early stage through to regulatory submission, including study design, protocol authoring, and data review/interpretation\n·      Experience working within GCP, ICH, and global regulatory guidelines\n·      Experience authoring or contributing to clinical study proposals, protocols, Investigator’s Brochures, informed consent forms, clinical study reports, and regulatory submissions\n·      Experience working within cross-functional matrix teams and contributing to clinical decision-making\n·      Proven track record of working with investigators, site staff, external experts, CROs, and vendors.\n\nPreferred Qualifications\nIf you have the following characteristics, it would be a plus:\n·      Advanced degree (e.g. MS, PhD, PharmD) strongly preferred in life sciences or a related discipline\n·      Clinical development experience across multiple ph",
-    "external_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/USA---Massachusetts---Waltham/Director--Clinical-Science---Oncology-Clinical-Development-GYN_451121",
-    "status": "matched",
-    "title": "Director, Clinical Science – Oncology Clinical Development GYN",
-    "company": "GSK",
-    "location": "USA - Massachusetts - Waltham; GSK HQ; UK - Hertfordshire - Stevenage; Switzerland - Zug; USA - Pennsylvania - Upper Providence",
-    "posted_date": "2026-11-12",
-    "department": "",
-    "score": 1,
-    "matched_keywords": [
-      "PhD",
-      "medical affairs",
-      "oncology"
-    ],
-    "deducted_keywords": [
-      "clinical operations"
-    ]
-  },
   "/job/UK--London--New-Oxford-Street/Senior-Medical-Director--Oncology-Clinical-Development---Lung_449575-2": {
     "description": "For candidates seeking to be located at our Stevenage site, this role will temporarily be based at Stevenage. However, the Company plans to relocate its offices to Cambridge, UK. The location of this role will therefore subsequently change to Cambridge, UK in accordance with timelines to be set by the Company. The relocation is currently proposed to take effect by early 2029.\n\nCancer is unrelenting, but so are we. At GSK, we are committed to transforming outcomes for people with cancer through innovative science, bold ambition, and strong partnerships across the healthcare ecosystem. We focus our science where it can matter most — advancing care in cancers with high unmet need, grounded in a deep understanding of disease biology and deliberate scientific choices that connect discovery to meaningful impact in the real world.\n\nThe Senior Medical Director, Oncology Clinical Development - Lung is a senior physician leader within the clinical programme team, providing medical oversight, strategic clinical insight, and a patient-centred perspective across the design, conduct, and interpretation of clinical studies. This role ensures that medical considerations, patient safety, and clinical integrity are consistently applied across studies within a programme.\n\nOperating within the clinical strategy defined by the Clinical Development Lead (CDL), the Senior Medical Director partners closely with the Senior Scientist and cross-functional teams to guide the integration of physician expertise into study execution and programme-level decision-making. The role serves as a senior member of the Clinical Matrix Team (CMT), contributing to complex clinical decisions, regulatory interactions, and external scientific engagement.\n\nThe Senior Medical Director provides oversight and guidance to Medical Directors within the programme, supporting consistency of clinical judgement, safety evaluation, and medical interpretation across studies.\n\nPLEASE NOTE: This career opportunity requires an on-site office presence (minimum of two days a week) at one of GSK’s Switzerland (Zug), UK (Stevenage or London HQ) or US (PA or MA) sites.\n\nIn This Role You Will:\nServe as a senior physician leader within the clinical programme, providing medical oversight and clinical insight across study design, conduct, and data interpretation\nProvide guidance on medical monitoring and safety oversight across studies, ensuring consistent application of clinical judgement and patient safety standards\nInterpret complex clinical and safety data, generating insights that inform programme-level decisions led by the CDL\nPartner with the Senior Scientist and cross-functional teams to ensure medical considerations are integrated across study execution and programme delivery\nProvide senior medical input into protocol development and study design, ensuring clinical relevance and patient-centred design within the clinical strategy defined by the CDL\nServe as a senior member of the CMT, influencing study-level and programme-level decision-making\nEngage with investigators, Key External Experts (KEEs), and scientific leaders to support external engagement and represent the programme at advisory boards, steering committees, and scientific forums\nProvide medical guidance and mentorship to Medical Directors within the programme, supporting consistency and development of clinical capability\n\nDetailed Responsibilities:\n\nMedical Monitoring and Safety Oversight\nconsistency in approach, patient safety, and protocol adherence\nGuide interpretation of safety data in collaboration with pharmacovigilance, supporting signal detection, escalation, and benefit–risk evaluation across the programme\nParticipate in and contribute to safety review forums (e.g., SRT, IDMC), providing senior physician perspective on complex safety questions\nEnsure medical monitoring approaches are aligned across studies and consistent with regulatory and organisational standards\n\nStudy Design and Execution\nProvide senior medical input into protocol development across studies, ensuring clinical relevance, feasibility, and alignment with the clinical strategy defined by the CDL\nGuide clinical aspects of study design and protocol implementation, particularly for complex, high-risk, or multi-study programmes\nSupport resolution of complex medical questions arising during study conduct, applying clinical judgement to inform programme-level decision-making\nEnsure consistency of medical considerations across multiple studies within the programme\n\nData Interpretation and Scientific Contribution\nInterpret complex clinical data across studies, integrating findings to inform programme-level insights on safety, efficacy, and patient impact\nContribute to programme-level data interpretation and support CDL-led benefit–risk assessment and clinical positioning\nGuide development of scientific communications, including publications, congress materials, and clinical summaries\nMaintain deep understanding of disease biology, evolving treatment paradigms, and competitive landscape to inform clinical interpretation and programme strategy\n\nRegulatory and External Engagement\nContribute senior medical expertise to regulatory interactions and Health Authority discussions, including responses to complex clinical and safety queries\nRepresent the programme at advisory boards, steering committees, and external scientific forums, providing senior physician perspective on clinical data and programme direction\nEngage with KEEs and scientific collaborators to support programme development, scientific exchange, and external credibility\nLead or contribute to the clinical and technical diligence assessment of business development opportunities\n\nCross-Functional Collaboration and Clinical Matrix Team\nServe as a senior member of the Clinical Matrix Team (CMT), influencing cross-functional alignment and programme-level decision-making\nContribute medical expertise to disease area strategy, integrated evidence planning, and Medical Affairs discussions\nCollaborate across functions to ensure alignment on safety, data interpretation, and clinical positioning across the programme\nLead or contribute to Oncology Clinical Development-wide initiatives and workstreams\n\nPeople Leadership & Capability Development\nProvide oversight, guidance, and mentorship to Medical Directors within the programme, supporting consistency and quality of medical input across studies\nSupport development of clinical capability within the medical team, including coaching on medical monitoring, data interpretation, and external engagement\nContribute to talent development, performance discussions, and capability building within Oncology Clinical Development\n\nBasic Qualifications:\nMedical degree and completion of advanced specialty training, fellowship or country-equivalent higher-level qualification in oncology or haematology.\nExperience leading lung cancer drug development, including early phase trials.\nClinical and pharmaceutical experience in oncology clinical development, with depth across multiple studies or programmes\nExperience in medical monitoring, safety evaluation, and clinical data interpretation across clinical studies\nUnderstanding of clinical development processes, GCP, ICH guidelines, and global regulatory frameworks\nExperience operating within cross-functional matrix teams and contributing to complex clinical and programme-level decisions\n\nPreferred Qualifications:\nDeep expertise in lung cancer, including experience leading or supporting clinical development programs across early and/or late-stage clinical studies.\nStrong scientific communication and stakeholder engagement skills, with the ability to influence internal and external audiences\nDeep experience in oncology clinical development across multiple studies or programmes, including Phase I–III\nExperience contributing to or leading aspects of regulatory interactions (e.g., IND, scientific advice, NDA/MAA)\nDemonstrated experience engaging with KEEs, advisor",
     "external_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/UK--London--New-Oxford-Street/Senior-Medical-Director--Oncology-Clinical-Development---Lung_449575-2",
@@ -2775,7 +2720,7 @@
     "title": "Executive Assistant, Regulatory Affairs",
     "company": "BeiGene",
     "location": "Basel",
-    "posted_date": "2026-11-09",
+    "posted_date": "2026-11-08",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2811,7 +2756,7 @@
     "title": "Regulatory Affairs Consultant (German and French language skills)",
     "company": "Parexel",
     "location": "Switzerland-Remote",
-    "posted_date": "2026-10-29",
+    "posted_date": "2026-10-28",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -2843,7 +2788,7 @@
     "title": "Manager, Quality & Regulatory Operations",
     "company": "Danaher",
     "location": "Neuchâtel, Switzerland",
-    "posted_date": "2026-11-05",
+    "posted_date": "2026-11-04",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -2902,7 +2847,7 @@
     "title": "Scientist, Tech Ops (f/m/d) - 6 month fixed term",
     "company": "CSL Behring / Vifor",
     "location": "EMEA, CH, Kanton Bern, Bern, CSL Behring",
-    "posted_date": "",
+    "posted_date": "2026-11-24",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2921,7 +2866,7 @@
     "title": "Director, Portfolio Analytics",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-11-26",
+    "posted_date": "",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -2971,7 +2916,7 @@
     "title": "Workforce Strategy Head, Regulatory Affairs",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-11-24",
+    "posted_date": "2026-11-23",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -2985,11 +2930,6 @@
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000163403155": {
     "description": "As a superconducting magnet engineer in the Large Magnet Facility (LMF), you will contribute to the development of next-generation high-field accelerator magnets.\nWorking in close collaboration with the Superconducting Magnet Technology section and international partners, you will combine numerical modelling, experimental analysis and hands-on engineering to support the design, fabrication and qualification of Nb3Sn magnet prototypes for future accelerators.\nYour responsibilities:\nContribute to the design and development of high-field superconducting accelerator magnets, with a particular focus on mid-length Nb3Sn prototypes.\nPerform electromagnetic and mechanical analyses using numerical modelling tools to support magnet design, optimisation and performance assessment.\nBuild on experience and know-how from previous Nb3Sn magnet production and apply it to future magnet technologies.\nFollow the fabrication, assembly, instrumentation and testing of magnet prototypes, and contribute to the interpretation of experimental results.\nParticipate in R&D activities aimed at improving superconducting magnet technologies through mock-ups, demonstrators and dedicated experimental campaigns.\nYour profile:\nFinite-element analysis and numerical modelling of complex engineering systems.\nElectromagnetic and/or mechanical design of superconducting magnets or comparable high-performance devices.\nAnalysis and interpretation of experimental or instrumentation data.\nEngineering documentation and technical reporting.\nKnowledge of superconductivity and superconducting magnet technologies would be an asset.\nSkills:\nKnowledge of finite-element and multiphysics simulation tools (e.g. ANSYS, OPERA, ROXIE, COMSOL).\nKnowledge of electromagnetic and mechanical design principles.\nAbility to analyse test data and validate numerical models.\nScientific communication skills, including technical reporting and presentations.\nAbility to work effectively in multidisciplinary and international teams.\nSpoken and written English, with a commitment to learn French.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nYou have a professional background in Mechanical Engineering (or a related field) and have either:\na Master's degree with 2 to 6 years of post-graduation professional experience;\nor a PhD with no more than 3 years of post-graduation professional experience.\nYou have never had a CERN fellow or graduate contract before.",
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000163403155-superconducting-magnet-engineer-te-msc-lmf-2026-179-grap-?oga=true",
-    "status": "matched"
-  },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000163430259": {
-    "description": "Join CERN's Experimental Area group and contribute to the development of beamlines and facilities for the next generation of fixed-target experiments. The project you will be supporting is called NA60+.\nYou will carry out beam studies, simulate proton and ion beams and their associated backgrounds, and perform shielding optimisation calculations. Working closely with beamline experts and service and equipment groups, you will provide technical input to the design of future experimental facilities.\nYour responsibilities:\nConduct beam studies for CERN's North Area secondary beamlines.\nDevelop detailed simulations of proton and ion beams and associated backgrounds for the future NA60+ experiment.\nEvaluate and optimise shielding for the upcoming NA61-LE beamline through detailed simulations using the FLUKA Monte Carlo code.\nCollaborate with service and equipment groups to inform the design requirements of the NA60+ experiment.\nContribute to project technical documentation and present findings at technical and project meetings.\nThis role includes team supervision responsibilities.\nMore information here.\nYour profile:\nExperience performing physics simulations.\nExperience writing technical documentation.\nSkills:\nKnowledge in at least one of the following Monte-Carlo and accelerator optics codes: Geant4, FLUKA, BDSIM, MADx, Xsuite.\nGood analytical and problem-solving skills.\nAbility to work effectively in a collaborative and international environment.\nSpoken and written English, with a commitment to learn French.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nYou have a professional background in Applied Physics, Accelerator Physics (or a related field) and have either:\na Master's degree with 2 to 6 years of post-graduation professional experience;\nor a PhD with no more than 3 years of post-graduation professional experience.\nYou have never had a CERN fellow or graduate contract before.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000163430259-applied-physicist-be-ea-le-2026-180-grap-?oga=true",
     "status": "matched"
   },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000163493324": {
@@ -3170,20 +3110,6 @@
       "location:Switzerland"
     ]
   },
-  "https://www.michaelpage.ch/de/job-detail/sales-account-manager-b2b-mwd/ref/jn-102026-7129840?lang=en": {
-    "external_url": "https://www.michaelpage.ch/de/job-detail/sales-account-manager-b2b-mwd/ref/jn-102026-7129840?lang=en",
-    "status": "ignored",
-    "title": "Sales & Business Development - Zürcher KMU",
-    "company": "Michael Page Switzerland",
-    "location": "Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": -2,
-    "matched_keywords": [],
-    "deducted_keywords": [
-      "location:Switzerland"
-    ]
-  },
   "https://www.michaelpage.ch/de/job-detail/business-development-manager-100/ref/jn-102026-7129527?lang=en": {
     "external_url": "https://www.michaelpage.ch/de/job-detail/business-development-manager-100/ref/jn-102026-7129527?lang=en",
     "status": "ignored",
@@ -3303,7 +3229,7 @@
     "title": "Oral Enabling Formulation Technologies Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-11-24",
+    "posted_date": "2026-11-23",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -3339,18 +3265,6 @@
       "location:Visp, Switzerland"
     ]
   },
-  "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-scientist-qa-bern-892890/1": {
-    "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-scientist-qa-bern-892890/1",
-    "status": "ignored",
-    "title": "Scientist QA(m/f/d)",
-    "company": "Hays Switzerland",
-    "location": "Bern, Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": 0,
-    "matched_keywords": [],
-    "deducted_keywords": []
-  },
   "/job/Grens-Switzerland/Collaboration--Innovation---Market-Support-Scientist--Cell-Therapy--f-m-d-_R1323030": {
     "description": "Bring more to life.\n \nAre you ready to accelerate your potential and make a real difference within life sciences, diagnostics and biotechnology?\n \nAt Cytiva, one of Danaher’s 15+ operating companies, our work saves lives—and we’re all united by a shared commitment to innovate for tangible impact. \n \nYou’ll thrive in a culture of belonging where you and your unique viewpoint matter. And by harnessing Danaher’s system of continuous improvement, you help turn ideas into impact – innovating at the speed of life.\n \nWorking at Cytiva means being at the forefront of providing new solutions to transform human health. Our incredible customers undertake life-saving activities ranging from fundamental biological research to developing innovative vaccines, new medicines, and cell and gene therapies.\n \nAt Cytiva you will be able to continuously improve yourself and us – working on challenges that truly matter with people that care for each other, our customers, and their patients. Take your next step to an altogether life-changing career.\n \nLearn about the Danaher Business System which makes everything possible.\n \nThe Collaboration, Innovation & Market Support Scientist, Cell Therapy is responsible for supporting two strategic areas within the Cell Therapy organization: External strategic collaborations and innovation activities (~50%), and scientific market support activities (~50%).\n \nThis position reports to the Senior Manager Biology Cell Therapy and is part of the R&D team located in Signy, Grens and will be an on-site role. \n \nWhat you will do:\n\nStrategic Collaborations & Innovation | Approximately 50%\nEstablish, and manage strategic collaborations with academic institutions, translational centers, biotechnology companies, pharmaceutical organizations, and other innovation partners.\nDevelop and review Statements of Work (SOWs), including project objectives, experimental scope, deliverables, milestones, responsibilities, timelines, and success criteria.\nCoordinate collaborations from initial concept and contracting through experimental execution, data review, and project completion.\n\nMarket Support & Scientific Activities | Approximately 50%\nCoordinate and manage scientific market support activities in partnership with other Cytiva sites, R&D teams, application teams, and Marketing.\nHelp define the scientific questions and experimental strategy required to generate robust data supporting Cytiva technologies, applications, and workflows.\nAct as the lead scientist or scientific representative during execution of selected market support studies, including studies performed at other Cytiva sites.\n\nWho you are:\nPhD or MSc with significant relevant experience in Cell Biology, Biotechnology, Bioengineering, Cell & Gene Therapy, or a related scientific discipline.\nStrong understanding of Cell Therapy workflows, biological assays, and associated technologies.\nExperience coordinating scientific projects involving multiple stakeholders.\nStrong critical-thinking and problem-solving capabilities.\nExcellent written and verbal scientific communication skills in English and French.\nCreative and entrepreneurial mindset, with the ability to identify scientific and innovation opportunities beyond predefined project objectives.\n\nCytiva, a Danaher operating company, offers a broad array of comprehensive, competitive benefit programs that add value to our lives. Whether it’s a health care program or paid time off, our programs contribute to life beyond the job. Check out our benefits at Danaher Benefits Info.\n\nJoin our winning team today. Together, we’ll accelerate the real-life impact of tomorrow’s science and technology. We partner with customers across the globe to help them solve their most complex challenges, architecting solutions that bring the power of science to life.\n\nFor more information, visit www.danaher.com.",
     "external_url": "https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Grens-Switzerland/Collaboration--Innovation---Market-Support-Scientist--Cell-Therapy--f-m-d-_R1323030",
@@ -3358,7 +3272,7 @@
     "title": "Collaboration, Innovation & Market Support Scientist, Cell Therapy (f/m/d)",
     "company": "Danaher",
     "location": "Grens, Switzerland",
-    "posted_date": "",
+    "posted_date": "2026-11-24",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -3419,7 +3333,7 @@
     "title": "Scientist, DNA-Encoded Library Chemistry",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-11-26",
+    "posted_date": "",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -3435,7 +3349,7 @@
     "title": "Spatial Biology Data Scientist",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "",
+    "posted_date": "2026-11-24",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -3451,24 +3365,6 @@
     ],
     "deducted_keywords": []
   },
-  "/job/Grens-Switzerland/Scientist---Laboratory-Specialist--Cell-Therapy-Biology--f-m-d-_R1323026": {
-    "description": "Bring more to life.\n \nAre you ready to accelerate your potential and make a real difference within life sciences, diagnostics and biotechnology?\n \nAt Cytiva, one of Danaher’s 15+ operating companies, our work saves lives—and we’re all united by a shared commitment to innovate for tangible impact. \n \nYou’ll thrive in a culture of belonging where you and your unique viewpoint matter. And by harnessing Danaher’s system of continuous improvement, you help turn ideas into impact – innovating at the speed of life.\n \nWorking at Cytiva means being at the forefront of providing new solutions to transform human health. Our incredible customers undertake life-saving activities ranging from fundamental biological research to developing innovative vaccines, new medicines, and cell and gene therapies.\n \nAt Cytiva you will be able to continuously improve yourself and us – working on challenges that truly matter with people that care for each other, our customers, and their patients. Take your next step to an altogether life-changing career.\n \nLearn about the Danaher Business System which makes everything possible.\n\nThe Scientist / Laboratory Specialist, Cell Therapy Biology is responsible for executing cell-based experiments, performing analytical testing, generating high-quality experimental data, and supporting reliable day-to-day laboratory operations.\n\nThis position reports to the Senior Manager Biology Cell Therapy and is part of the R&D team located in Signy, Grens and will be an on-site role. \n\nWhat you will do:\nExecute experimental protocols supporting Cell Therapy research and development programs.\nPerform analytical testing; hematology and cell characterization assays according to established protocols and experimental plans.\nPerform ELISA, ddPCR, Cell Culture; prior flow cytometry experience is considered a strong advantage.\nMaintain laboratory equipment, coordinate routine maintenance, and support troubleshooting when required.\nWork closely with senior scientists, engineers, and project team members to deliver experimental activities according to project priorities.\n\nWho you are:\nBSc or MSc in Cell Biology, Biomedical Sciences, Bioengineering, or a related scientific discipline.\nStrong hands-on experience with mammalian cell culture and aseptic laboratory techniques.\nPractical experience with analytical techniques such as flow Cytometry, Cell analyser...\nDemonstrated ability to reliably execute laboratory protocols and document experimental results.\nFluent in French and English\n\nIt would be a plus if you also possess previous experience in:\nExperience in Cell & Gene Therapy is a plus\n\nCytiva, a Danaher operating company, offers a broad array of comprehensive, competitive benefit programs that add value to our lives. Whether it’s a health care program or paid time off, our programs contribute to life beyond the job. Check out our benefits at Danaher Benefits Info.\n\nJoin our winning team today. Together, we’ll accelerate the real-life impact of tomorrow’s science and technology. We partner with customers across the globe to help them solve their most complex challenges, architecting solutions that bring the power of science to life.\n\nFor more information, visit www.danaher.com.",
-    "external_url": "https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Grens-Switzerland/Scientist---Laboratory-Specialist--Cell-Therapy-Biology--f-m-d-_R1323026",
-    "status": "matched",
-    "title": "Scientist / Laboratory Specialist, Cell Therapy Biology (f/m/d)",
-    "company": "Danaher",
-    "location": "Grens, Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": 0,
-    "matched_keywords": [
-      "French",
-      "MSc"
-    ],
-    "deducted_keywords": [
-      "location:Grens, Switzerland"
-    ]
-  },
   "/job/CH---Basel/Senior-Principal-Scientist--External-Innovation--Oligonucleotides--f-m-d-_R81197": {
     "description": "Location. Basel Tower or Visp, Switzerland.\n \nToday, Lonza is a global leader in life sciences operating across three continents. While we work in science, there’s no magic formula to how we do it. Our greatest scientific solution is talented people working together, devising ideas that help businesses to help people. In exchange, we let our people own their careers. Their ideas, big and small, genuinely improve the world. And that’s the kind of work we want to be part of.\n \nWhat you will get:\n \n●     An agile career and dynamic working culture.\n●     An inclusive and ethical workplace.\n●     Compensation programs that recognize high performance.\n●     A variety of benefits dependent on role and location.\nThe full list of our global benefits can be found here: https://www.lonza.com/careers/benefits.\n \nWhat you will do:\n\nShape the technology roadmap for next-generation oligonucleotide manufacturing and identify emerging technologies that could define future production platforms.\n\nScout, assess, and benchmark external innovations, including start-ups, academic research, technology providers, and strategic partners.\nTranslate scientific advances into strategic recommendations and actionable development opportunities for Lonza.\nEvaluate new technologies for scientific differentiation, technical feasibility, scalability, manufacturability, intellectual property, competitiveness, cost of goods, and strategic fit.\nLead external R&D collaborations from scientific due diligence and partner selection through proof-of-concept studies and technology transfer.\nDefine and oversee experimental and proof-of-concept programs focused on advancing innovative oligonucleotide manufacturing technologies.\nCollaborate with internal teams to integrate successful innovations into Lonza’s development and manufacturing platforms.\nBuild and maintain strong networks across academia, biotechnology, start-ups, and the oligonucleotide industry, acting as a scientific thought leader in emerging oligonucleotide technologies.\n \nWhat We Are Looking For:\n \nPh.D. in Organic Chemistry, Biochemistry, Chemical Biology, Biotechnology, Chemical Engineering, Oligonucleotide Sciences, or a related discipline.\nStrong expertise in oligonucleotide chemistry, manufacturing, or related nucleic acid technologies, with a deep understanding of current and emerging production approaches.\nProven ability to evaluate emerging technologies and translate scientific concepts into strategic recommendations and development programs.\nSignificant experience in technology development, process R&D, external innovation, technology scouting, scientific due diligence, technology transfer, and industrial or academic collaborations.\nDemonstrated success leading multidisciplinary projects and influencing internal and external stakeholders.\nStrong understanding of experimental design, data interpretation, process scalability, manufacturability, and technology transfer.\nExcellent communication and stakeholder management skills, business-fluent English, and an entrepreneurial mindset.\nExperience in areas such as enzymatic oligonucleotide ligation, enzymatic nucleic acid synthesis, polymerase engineering, nucleic acid-modifying enzymes, biocatalysis, or other next-generation oligonucleotide manufacturing technologies is highly desirable.\nKnowledge of oligonucleotide manufacturing, analytics, downstream processing, impurity control, quality requirements, intellectual property, licensing, and external innovation ecosystems would be an advantage.\nStrong industry and academic networks within the oligonucleotide, enzyme technology, or broader biotechnology community, as well as willingness to travel internationally, are preferred.\n\nEvery day, Lonza’s products and services have a positive impact on millions of people. For us, this is not only a great privilege, but also a great responsibility. How we achieve our business results is just as important as the achievements themselves. At Lonza, we respect and protect our people and our environment. Any success we achieve is no success at all if not achieved ethically.\n \nPeople come to Lonza for the challenge and creativity of solving complex problems and developing new ideas in life sciences. In return, we offer the satisfaction that comes with improving lives all around the world. The satisfaction that comes with making a meaningful difference.\n \nLonza is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, religion, color, national origin, sex, sexual orientation, gender identity, age, status as a qualified individual with disability, protected veteran status, or any other characteristic protected by law.",
     "external_url": "https://lonza.wd3.myworkdayjobs.com/Lonza_Careers/job/CH---Basel/Senior-Principal-Scientist--External-Innovation--Oligonucleotides--f-m-d-_R81197",
@@ -3477,6 +3373,108 @@
     "company": "Lonza",
     "location": "CH - Basel; CH - Visp",
     "posted_date": "2026-11-19",
+    "department": "",
+    "score": 0,
+    "matched_keywords": [],
+    "deducted_keywords": []
+  },
+  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000163844640": {
+    "description": "Join CERN's Experimental Area group and contribute to the development of beamlines and facilities for the next generation of fixed-target experiments. The project you will be supporting is called NA60+.\nYou will carry out beam studies, simulate proton and ion beams and their associated backgrounds, and perform shielding optimisation calculations. Working closely with beamline experts and service and equipment groups, you will provide technical input to the design of future experimental facilities.\nYour responsibilities:\nConduct beam studies for CERN's North Area secondary beamlines.\nDevelop detailed simulations of proton and ion beams and associated backgrounds for the future NA60+ experiment.\nEvaluate and optimise shielding for the upcoming NA61-LE beamline through detailed simulations using the FLUKA Monte Carlo code.\nCollaborate with service and equipment groups to inform the design requirements of the NA60+ experiment.\nContribute to project technical documentation and present findings at technical and project meetings.\nThis role may include supervision of interns.\nMore information here.\nYour profile:\nExperience performing physics simulations.\nExperience writing technical documentation.\nSkills:\nKnowledge in at least one of the following Monte-Carlo and accelerator optics codes: Geant4, FLUKA, BDSIM, MADx, Xsuite.\nGood analytical and problem-solving skills.\nAbility to work effectively in a collaborative and international environment.\nSpoken and written English, with a commitment to learn French.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nYou have a professional background in Applied Physics, Accelerator Physics (or a related field) and have either:\na Master's degree with 2 to 6 years of post-graduation professional experience;\nor a PhD with no more than 3 years of post-graduation professional experience.\nYou have never had a CERN fellow or graduate contract before.",
+    "external_url": "https://jobs.smartrecruiters.com/CERN/744000163844640-applied-physicist-be-ea-le-2026-180-grap-?oga=true",
+    "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000163816411": {
+    "description": "You will join the Service Management and Support Group, which promotes service management best practices and tools across CERN. Working with an integrated service management platform and Service Portal based on ServiceNow, you will contribute to the configuration, customisation, extension and support of tools serving all CERN services.\nAs a member of the ServiceNow developer team, you will play an active role in shaping the future of the platform, supporting continuous improvement and helping deliver efficient, high-quality services across the Organization.\nYour responsibilities:\nYou contribute to various new developments and platform customisations, including exploration and implementation of AI features offered by the platform.\nYou participate to the introduction of AI driven chat based support through the CERN Service Portal complemented by AI enabled automations replacing largely manual service request and support processes.\nYour contribution will be key to refactoring existing processes, such as service catalogue, incident and request-management as well as integration with CERN's personnel and asset management databases.\nYou contribute to the operation, configuration and support of the platform to ensure first-class availability, including rota and end-user support duties, smooth application of patches and platform-wide upgrades released by the platform provider, for a system handling tickets for over 750 services across CERN.\nYour profile:\nPrevious work experience in managing a large scale commercial software platform such as ServiceNow in a customised local environment is an advantage but not a requirement.\nExperience with complex data models, database design and data integration (ETL) would be an asset but not required.\nPractical experience building applications that use LLMs or machine learning, such as chatbots or assistants, retrieval-augmented generation (RAG), text classification or AI-driven automation would be an asset.\nSkills:\nStrong programming skills, in particular good knowledge of JavaScript. Python is a plus.\nWeb application debugging and web services (REST/SOAP).\nExperience with front-end technologies (HTML/CSS/jQuery). AngularJS is an advantage.\nSpoken and written English or French, with a commitment to learn the basics of the other language.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nYou have a professional background in Computing (or a related field) and have either:\na Master's degree with 2 to 6 years of post-graduation professional experience;\nor a PhD with no more than 3 years of post-graduation professional experience.\nYou have never had a CERN fellow or graduate contract before.",
+    "external_url": "https://jobs.smartrecruiters.com/CERN/744000163816411-it-developer-service-management-platform-osi-sms-2026-181-grap-?oga=true",
+    "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000163856804": {
+    "description": "Join the CERN Neutrino Platform and contribute to the DUNE (Deep Underground Neutrino Experiment), an international scientific collaboration at the forefront of neutrino physics research. We are looking for a Detector Physicist with a background in High Energy Physics and specialised expertise in Liquid Argon (LAr) Time Projection Chamber (TPC) detectors.\nThe successful candidate will take responsibility for specific technical activities related to the DUNE Vertical Drift Far Detector, focusing on the assembly, testing, characterisation and validation of detector components and systems, in close collaboration with scientists and engineers at the CERN Neutrino Platform.\nYour responsibilities:\nCarry out the testing and characterisation of Charge Readout Planes for the DUNE Vertical Drift Far Detector.\nPerform the assembly and validation of Charge Readout Units and their associated readout electronics under cryogenic conditions.\nCoordinate and follow up on technical activities with industrial partners involved in the production and assembly of LAr TPC electrodes.\nAnalyse and assess the quality of manufactured detector components against the required specifications.\nPlan and carry out the testing and validation of detector systems, analyse their performance and document the results.\nThis role includes team supervision responsibilities.\nYour profile:\nManufacturing and assembly of large printed circuit boards (PCBs) for the readout electrodes of particle detectors.\nQuality Assurance and Quality Control (QA/QC) of detector components.\nTesting and characterisation of small- and large-scale particle detectors.\nDetector readout and Data Acquisition (DAQ) systems.\nSkills:\nKnowledge of signal formation and process in noble liquid-based detector.\nProficiency in software development in C++ and Python for detector data analysis.\nExpertise in developing program of data acquisition systems to control and monitor real-time detector performance.\nExcellent communication skills, flexibility and adaptability, with the ability to work effectively in large international collaborations.\nSpoken and written English, with a commitment to learn French.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nYou have a professional background in Applied Physics, Detector Technologies (or a related field) and have either:\na Master's degree with 2 to 6 years of post-graduation professional experience;\nor a PhD with no more than 3 years of post-graduation professional experience.\nYou have never had a CERN fellow or graduate contract before.",
+    "external_url": "https://jobs.smartrecruiters.com/CERN/744000163856804-particle-detector-production-physicist-ep-nu-2026-184-grap-?oga=true",
+    "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000163813740": {
+    "description": "Vous exécutez des prescriptions médicales nécessitant une fabrication (chimiothérapies, anticorps monoclonaux d’oncologie, autres préparations magistrales).\nVous participez aux fabrications en série de médicaments non stériles et stériles.\nVous participez aux activités de gestion (ex. gestion des stocks, équipements, facturation) de l’unité de production.\nVous êtes capable de respecter les normes de bonnes pratiques de fabrication et d’appliquer les procédures et protocoles en vigueur.\nVous avez le sens des responsabilités et de l’organisation, êtes autonome et apportez une grande rigueur et fiabilité dans votre travail. On reconnaît en vous votre aptitude à travailler en équipe, votre aisance relationnelle et votre bon sens de la communication.\nVous êtes à l'aise avec les outils informatiques et avez une parfaite maîtrise du français.",
+    "external_url": "https://jobs.smartrecruiters.com/HUG/744000163813740-preparatrices-ou-preparateurs-en-pharmacie-80-ou-100-?oga=true",
+    "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000163814071": {
+    "description": "En tant qu’huissier ou huissière d’accueil, vous assurez l’accueil, l’information et l’orientation des patients et patientes, de leurs proches, du public ainsi que des collaborateurs et collaboratrices. Par votre professionnalisme et votre sens du service, vous garantissez un accueil courtois, chaleureux et efficace, tant en présentiel qu’au téléphone, contribuant ainsi à la qualité de la prise en charge et à l’image de marque des HUG.\nÀ ce titre, vous assurez la gestion du central téléphonique des HUG et répondez aux demandes en apportant des solutions adaptées ou en orientant les interlocuteurs et interlocutrices vers les services compétents. Vous participez à la qualité des données en recherchant les informations manquantes ou à confirmer, en vous assurant de leur exactitude et en remontant les écarts constatés.\nQue ce soit en réception ou en conciergerie, vous participez également à diverses activités de support logistique, notamment la gestion des objets trouvés, le tri et la distribution du courrier, ainsi que la gestion du matériel mis à disposition des collaborateurs et collaboratrices (clés,vélos, prestations pressing / coiffure, vente).",
+    "external_url": "https://jobs.smartrecruiters.com/HUG/744000163814071-huissier-ou-huissiere-d-accueil-80-?oga=true",
+    "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000163848719": {
+    "description": "En tant que cheffe ou chef de clinique, vous assurez la prise en charge des patientes et patients hospitalisés et ambulatoires présentant des pathologies gastro-entérologiques et hépatologiques. Vous participez aux activités diagnostiques et thérapeutiques du service, y compris aux procédures endoscopiques.  \nVous collaborez étroitement avec les médecins adjoints et adjointes et les équipes multidisciplinaires afin d'élaborer les stratégies diagnostiques et thérapeutiques les plus adaptées. \nVous faites preuve de résilience, de sens clinique et d’une grande capacité d’analyse dans la prise en charge de situations parfois complexes. Grâce à votre sens de l’organisation et à votre capacité à prioriser, vous assurez efficacement vos activités cliniques tout en répondant aux multiples sollicitations (patients et patientes, téléphones, correspondances, réunions).  \nVous évoluez dans un environnement exigeant, à l’interface des soins, de l’enseignement et de la recherche. À ce titre, vous collaborez étroitement avec l’ensemble de l’équipe médico-soignante et veillez à une communication claire, fluide et respectueuse, tant avec vos collègues qu’avec les patientes et patients, en adaptant votre discours à leur compréhension. \nEn vous appuyant sur votre esprit d’équipe, vous faites preuve de solidarité face aux imprévus. En tant que cheffe ou chef de clinique, vous participez activement à la supervision et à la formation des médecins internes et médecins stagiaires du département de médecine dans le domaine de la gastro-entérologie et hépatologie, en adoptant une posture de mentorat et en partageant votre expertise.",
+    "external_url": "https://jobs.smartrecruiters.com/HUG/744000163848719-chef-ou-cheffe-de-clinique-avec-ou-sans-titre-de-specialite-en-gastro-enterologie-et-hepatologie-80-a-100-?oga=true",
+    "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000163825619": {
+    "description": "Vous intégrez l’équipe Gestion du Temps pour le projet ePop en tant que Coordinateur ou Coordinatrice de Supports Applicatifs RH. Vous jouez un rôle essentiel dans l’assistance aux utilisateurs et utilisatrices, la gestion des incidents et l’amélioration continue des outils. Le projet ePop vise à développer un outil institutionnel unique et intégré au système d’information des HUG pour la planification. Il prend en compte la complexité des plannings ainsi que les règles légales et institutionnelles.\nDans votre rôle, vous formez et accompagnez les utilisateurs et utilisatrices afin de garantir l’adoption et l’utilisation optimale du nouvel outil de planification. Vous leur apportez un soutien efficace et adapté à leurs besoins. Grâce à votre expertise en gestion du temps et en planification, vous conseillez vos interlocuteurs et interlocutrices sur l’application des règles en vigueur.\nGrâce à votre vision d’ensemble, vous analysez, diagnostiquez et résolvez les incidents liés à l’outil, identifiez les éventuels dysfonctionnements et créez des tâches Jira en réalisant une analyse macro. Vous répartissez les tickets aux équipes dédiées. De plus, lorsque vous identifiez un disfonctionnement de l’outil, vous transmettez de manière détaillée les informations aux équipes développement pour la correction de l’outil.\nDans le cadre de la gestion des incidents, vous assurez le suivi et la traçabilité des incidents via l’outil interne. Vous garantissez une communication régulière aux responsables sur l’état des demandes en cours. Vous participez également aux tests et à la validation des nouvelles fonctionnalités, tout en identifiant et proposant des axes d’amélioration.\nVous veillez à entretenir une relation de qualité avec les utilisateurs et utilisatrices, en assurant des délais d’intervention optimaux, une communication claire et courtoise, ainsi qu’une stricte confidentialité des informations.\nVous prenez également en charge la gestion des droits d’accès en lien avec la gestion du temps. Vous vérifiez, attribuez et supprimez les accès tout en garantissant leur conformité. Vous élaborez et mettez à jour les manuels d’utilisation du nouvel outil, organisez et dispensez les formations aux ayants droit et suivez les validations des modules e-learning.\nEnfin, votre mission inclut une forte collaboration et un partage d’expertise. Vous participez aux groupes de travail et aux comités utilisateurs et utilisatrices afin d’améliorer les processus et les outils en place. Vous assurez également l’accompagnement des nouveaux collaborateurs et collaboratrices, des étudiants et étudiantes ainsi que des stagiaires en support applicatif.",
+    "external_url": "https://jobs.smartrecruiters.com/HUG/744000163825619-coordinateur-ou-coordinatrice-de-support-applicatifs-rh-100-?oga=true",
+    "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000163815140": {
+    "description": "Vous dispensez, de manière autonome et sur délégation médicale, des soins infirmiers personnalisés et globaux de manière préventive et curative à des enfants dans des situations présentant différents niveaux de complexité.\nDextérité et aisance dans les soins techniques sont des qualités essentielles pour prendre en soin les enfants hospitalisés en chirurgie pédiatrique pour la gestion des pansements, de sondes, drains, cathéters et pompes à perfusion.\nVous démontrez une maitrise rapide et efficace des soins complexes auprès des enfants en post opératoire de greffe hépatique et assurez un suivi attentif et structuré  lors de nouvelles hospitalisations.\nVos capacités d'apprentissage vous permettent de progresser en permanence dans votre pratique. \nVous êtes une personne réactive, avec une très bonne gestion du stress et des priorités, vous savez évaluer, analyser les situations cliniques complexes et vous adapter au contexte ainsi qu’aux imprévus et aux pics d’activité.\nVous êtes apte à gérer la douleur, à maitriser l’hygiène et l’asepsie et à administrer des médicaments pédiatriques.\nVous êtes une personne précise et rigoureuse dans les soins et le respect des procédures.\nVos capacités à travailler de manière collaborative vous permettent de travailler avec l’équipe médico-soignante et vous assurez avec exactitude et minutie la transmission d’informations au sein des équipes pluridisciplinaires.\nVous participez à l'encadrement et à l'enseignement clinique du nouveau personnel soignant et d'autres professionnels et professionnelles de la santé.",
+    "external_url": "https://jobs.smartrecruiters.com/HUG/744000163815140-infirmier-ou-infirmiere-au-service-de-chirurgie-de-l-enfant-et-de-l-adolescent-80-a-100-?oga=true",
+    "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000163813630": {
+    "description": "Rattaché ou rattachée à la direction des crèches, vous assurez la gestion administrative des structures et apportez un soutien essentiel à la direction ainsi qu’aux adjointes et aux équipes éducatives.\nVous gérez le traitement du courrier, la rédaction et la mise en forme de documents, courriels, présentations et supports de communication. Vous participez à la préparation de divers documents administratifs destinés aux équipes et aux familles.\nVous êtes responsable du suivi administratif des dossiers des enfants et des familles, de la gestion des listes d'inscription et des bases de données associées. Vous assurez également le suivi des présences des enfants ainsi que certaines données relatives aux absences des collaborateurs et collaboratrices.\nVous élaborez des tableaux de bord ainsi que des documents d’aide à la prise de décisions concernant la gestion du personnel.\nVous réalisez la facturation mensuelle dans les systèmes de gestion dédiés et effectuez le contrôle ainsi que la mise à jour des données tarifaires. Vous participez au suivi des commandes et assurez diverses tâches administratives liées au fonctionnement courant des structures.\nVous contribuez à la mise à jour des espaces collaboratifs et de l'intranet, gérez les listes de diffusion et réalisez des publipostages à partir des bases de données existantes.\nPar votre présence quotidienne au sein des crèches, vous jouez un rôle d'interface entre la direction, les équipes éducatives et les familles. Vous participez à la qualité de l'accueil et veillez à la bonne circulation des informations.",
+    "external_url": "https://jobs.smartrecruiters.com/HUG/744000163813630-secretaire-80-?oga=true",
+    "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000163815609": {
+    "description": "La mission principale consistera à assurer au sein de l’équipe mobile l’accompagnement psychologique (travail d’évaluation et conduction de psychothérapies individuelles) de patientes et patients âgés présentant une pathologie psychiatrique (par ex : dépression, trouble bipolaire, etc.) associés ou non à des troubles neurocognitifs.\nLe propre de l’équipe mobile est de mener ce travail d’accompagnement directement sur le lieu de vie du patient ou patiente (domicile, EMS, …). Ce travail est réalisé en collaboration avec une équipe de soin pluridisciplinaire (médecins, infirmiers et infirmières, assistant ou assistante sociale et une ou un ergothérapeute). Elle travaille en étroite collaboration avec la ou le médecin traitant et les prestataires de soins à domicile.",
+    "external_url": "https://jobs.smartrecruiters.com/HUG/744000163815609-psychologue-100-?oga=true",
+    "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000163814830": {
+    "description": "Le poste concerne une activité en hématologie et en hémostase.\nDans le cadre de vos activités, vous réceptionnez les échantillons biologiques d'hématologie cellulaire adultes et pédiatriques et d'hémostase de routine, et enregistrez les demandes d'examens selon les procédures en vigueur.\nVous utilisez les automates d’hématologie cellulaire Sysmex XN-9000 et les automates d’hémostase Sysmex CN-6000.\nVous validez techniquement et biologiquement les résultats d’hématologie cellulaire et d’hémostase de routine.\nVous réalisez des répartitions leucocytaires au microscope pour le sang périphérique et la moelle osseuse.\nVous étalez les frottis sanguins et médullaires et vous réalisez et lisez les tests de Kleihauer.\nVous effectuez des prélèvements capillaires et participez aux cours et aux réunions du service.\nVous participez à l’assurance qualité au laboratoire : passage des CQI et des CQE, réalisation des tests pour les dossiers de vérification de méthode.\nVous effectuez des gardes et des piquets de weekend, de jours fériés et de nuits éventuellement en fonction des contraintes du laboratoire.\nVous effectuez des dosages de CRP sur POCT,\nVous diagnostiquez la malaria : lecture des frottis sanguins pour établir le diagnostic d’espèce et compter la parasitémie, et réalisation des tests rapides (antigénémie et PCR plasmodium).\nVous effectuez des gardes de weekend, de jours fériés et de nuits.\nVous travaillez auprès de patients adultes et en pédiatrie auprès d’enfants.",
+    "external_url": "https://jobs.smartrecruiters.com/HUG/744000163814830-technicien-ou-technicienne-en-analyses-biomedicales-70-?oga=true",
+    "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000163815069": {
+    "description": "Dans le cadre du renforcement de notre organisation, nous recherchons un ou une gestionnaire administrative expérimentée chargée de coordonner les activités administratives, les achats et le suivi de la maintenance des équipements du service restauration. Véritable interface entre les équipes opérationnelles, les fournisseurs et les services supports, vous assurez le pilotage administratif des activités, le suivi des contrats et des budgets, la gestion des processus d'achats ainsi que le suivi du parc d'équipements au travers des outils de GMAO.\nVous contribuez activement à l'amélioration continue des processus, au développement d'indicateurs de performance et au suivi des projets du service. Vous accompagnez également les équipes dans la formalisation des procédures, le suivi des actions correctives et la coordination des interventions techniques afin de garantir la continuité et l'efficacité des prestations du service restauration.",
+    "external_url": "https://jobs.smartrecruiters.com/HUG/744000163815069-gestionnaire-administratif-ou-administrative-coordination-achats-et-maintenance-100-?oga=true",
+    "status": "matched"
+  },
+  "https://jobdetails.nestle.com/job/Romont-Sp%C3%A9cialiste-SHE/1461130833/": {
+    "description": "Lieu : Romont, Switzerland\n\nEntité : Centre de Production Nespresso\nTaux : Temps plein 100%\n\nType de contrat : Contrat indéterminé\n\n \n\n \n\nAu poste de Spécialiste SHE, vous serez responsable d’encourager et de conseiller les collaborateurs sur la sécurité et la santé au travail. Vous jouerez un rôle clé dans la préparation et l’exécution des activités en assurant le support aux responsables.\n\n \n\nComment aurez-vous un impact en tant que Spécialiste SHE\n\n \n\nDévelopper et implémenter des concepts sécurité et santé pour les laboratoires, le Headquarter et le centre de production\n\nCollaborer activement à la gestion et au suivi des projets\n\nContribuer à garantir la sécurité des machines et des installations\n\nFormer et coacher les collaborateurs et les externes sur les compétences SHE\n\nSoutenir la remontée des incidents et conditions dangereuses et en assurer leur analyse et leur traitement\n\nRéaliser des dialogues de bienveillance, des coachings SHE et des audits\n\nOrganiser et animer des campagnes SHE.\n\n \n\nCe qui fera votre réussite\n\n \n\nFormation de « Chargé/e de sécurité ou Brevet fédéral de spécialiste STPS » ou formation équivalente reconnue\n\nExpérience dans la sécurité et la santé au travail, idéalement en industrie, un atout\n\nExpérience dans la sécurité en entreprise et sur les projets, un atout\n\nFormation dans le domaine de la sureté (connaissances CCTV, gestion de crise), un atout\n\nCapacités de leadership et d’analyse\n\nPédagogie et aisance dans la communication (écrite et orale)\n\nLangues : français, anglais, un atout\n\nConnaissance dans le domaine de la prévention incendie, un atout.\n\n \n\nAvantages\n\n \n\n5 semaines de vacances\n\nPossibilité de formation et de développement internes\n\nCaisse de pension avec excellentes contributions de l’employeur\n\nParticipation financière à l’assurance maladie\n\nPolitique parentalité avantageuse\n\nRestaurant d’entreprise sur place avec menus à prix subventionnés\n\nParking gratuit et bornes de recharge pour voitures électriques\n\nNombreux avantages auprès du Club Nespresso",
+    "external_url": "https://jobdetails.nestle.com/job/Romont-Sp%C3%A9cialiste-SHE/1461130833/",
+    "status": "matched",
+    "title": "Spécialiste SHE",
+    "company": "Nestlé",
+    "location": "Romont, CH",
+    "posted_date": "",
+    "department": "",
+    "score": -2,
+    "matched_keywords": [],
+    "deducted_keywords": [
+      "location:Romont, CH"
+    ]
+  },
+  "https://lonza.wd3.myworkdayjobs.com/en-US/Lonza_Careers/jobs": {
+    "external_url": "https://lonza.wd3.myworkdayjobs.com/en-US/Lonza_Careers/jobs",
+    "status": "matched",
+    "title": "(Senior) Scientist Automation Workflows, Development Bioconjugates 80-100%",
+    "company": "Lonza",
+    "location": "CH - Visp",
+    "posted_date": "2026-11-26",
+    "department": "",
+    "score": -2,
+    "matched_keywords": [],
+    "deducted_keywords": [
+      "location:CH - Visp"
+    ]
+  },
+  "/job/Regional-United-States-PRA/Principal-Medical-Writer_JR165124": {
+    "description": "Principal Medical Writer\nAt ICON Strategic Solutions, you will work in a sponsor-dedicated model, supported by ICON’s global expertise.\n\nAs the world’s largest FSP organisation, with over 90 sponsor partnerships, we offer stability, career development and a collaborative environment where your work contributes to the development of treatments that benefit patients worldwide.\n\nAs a Principal Medical Writer at ICON, you will be responsible for leading the development of high-quality regulatory and clinical documents that effectively communicate scientific and medical information.\n \nWhat You Will Do:\nYou will oversee medical writing workstreams, ensuring deliverables meet quality and timeline expectations.\n \nKey responsibilities include:\nPlan, draft and revise scientific, clinical or regulatory documents using source evidence.\nInterpret clinical, statistical and scientific information accurately.\nCoordinate author, reviewer and stakeholder input through document development.\nMaintain consistency, traceability and document quality across revisions.\nApply relevant style, regulatory and quality standards.\nProvide technical guidance, peer review or mentoring on complex work within the discipline.\n \nRequired qualifications and experience\nScientific, clinical, pharmacy or related degree, or equivalent relevant scientific writing expertise.\nSignificant experience in medical writing, particularly in regulatory submissions and clinical documentation.\nUnderstanding of regulatory requirements and industry standards for clinical writing.\nExperience producing scientific, clinical or regulatory content.\nExperience interpreting clinical, statistical and scientific information accurately.\nExperience coordinating author, reviewer and stakeholder input through document development.\nExperience maintaining consistency, traceability and documenting quality across revisions.\nExperience reviewing colleagues’ work and providing technical guidance on medical and scientific writing.\n \nPreferred qualifications and experience\nAdvanced scientific degree.\nProfessional medical writing experience in a CRO, pharmaceutical or biotech environment.\nExperience with regulatory submission documents or publication standards.\n\nEmployment with ICON is contingent upon having the legal right to work in the country where the role is based.\n\nRewards & Benefits\nICON offers a competitive and comprehensive total rewards package designed to support your health, wellbeing, and career development.\n\nBenefits may include:\nCompetitive base salary and performance related incentives\nHealth and wellbeing programmes including medical, dental, and vision coverage where applicable\nRetirement and pension plans\nLife assurance and disability coverage\nEmployee assistance programmes and wellbeing resources\nLearning and development opportunities through structured training and career pathways\n\nBenefits may vary depending on role and location.\n\nVisit our careers site to read more about the benefits ICON offers.\n\nInclusion and Accessibility\nICON is an equal opportunity employer. We are committed to building an inclusive and accessible workplace where everyone feels valued and supported.\n\nIf you require reasonable accommodations during the recruitment process, please let us know or submit a request here.\n\nAre you a current ICON Employee? Please click here to apply",
+    "external_url": "https://icon.wd3.myworkdayjobs.com/broadbean_external/job/Regional-United-States-PRA/Principal-Medical-Writer_JR165124",
+    "status": "matched",
+    "title": "Principal Medical Writer",
+    "company": "ICON plc",
+    "location": "Regional United States (PRA); Germany, Frankfurt; Switzerland, Basel; Canada, Burlington; Netherlands, Utrecht, Zen",
+    "posted_date": "2026-11-23",
     "department": "",
     "score": 0,
     "matched_keywords": [],
