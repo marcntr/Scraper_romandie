@@ -959,11 +959,6 @@
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000139041215-early-career-professionals-technical-field-spontaneous-applications?oga=true",
     "status": "matched"
   },
-  "https://api.smartrecruiters.com/v1/companies/Sobi/postings/744000141444319": {
-    "description": "Support the Director of Market Access to develop and execute market access strategies that enable optimal launch, pricing, reimbursement, and sustainable access to a specialty care indications across international markets and designated partner regions. The role requires strategic thinking, cross-functional collaboration, and solid knowledge of international market access policies, health economics, and stakeholder engagement to deliver timely and equitable patient access.\nMain responsibilities\nPlanning: Support development and implementation of comprehensive market access strategies tailored to launching Specialty care product, diverse international markets and partner regions, aligned with corporate objectives, regulatory landscapes, and local affiliate needs.\nPricing and reimbursement: Collaborate to secure pricing, reimbursement, and formulary inclusion for new and existing products, leveraging health economic models, budget impact analyses, and value-based arguments.\nEvidence and value communication: Support the development of HEOR evidence, real-world data (RWD), and global/local value dossiers to inform HTA submissions and payer negotiations; contribute to objection handlers and payer negotiation materials.\nStakeholder engagement: Build and maintain compliant relationships with external stakeholders (payers, HTA agencies, partners, regulatory bodies, and patient advocacy groups) to facilitate access, inform strategy, and shape evidence needs.\nCross-functional collaboration: Partner with global and local Medical, Commercial, Regulatory, Legal, and Government Affairs teams to synchronize market access initiatives, share best practices, and ensure launch readiness.\nPolicy monitoring and advocacy: Monitor policy developments and trends across international and partner regions; proactively identify risks and opportunities and support advocacy efforts that enhance patient access.\nProject leadership and operations: Manage multiple concurrent market access projects, ensuring timely delivery, budget adherence, risk management, and measurable outcomes; oversee vendor activities where relevant.\nReporting and metrics: Track, analyse, and report on access performance, milestones (e.g., HTA outcomes, P&R decisions), and competitive intelligence across assigned regions; maintain accurate, timely updates in PRISMA, Smartsheet, and other internal systems.",
-    "external_url": "https://jobs.smartrecruiters.com/Sobi/744000141444319-senior-manager-market-access-specialty-care?oga=true",
-    "status": "matched"
-  },
   "/job/Tolochenaz-Switzerland/Application-Development-Scientist---Reagents--12-months-fixed-term-contract-_JR102038": {
     "description": "By joining Bio-Techne, you’ll join a company with a powerful and positive purpose of enabling cutting-edge research in Life Sciences and Clinical Diagnostics. Bio-Techne, and all of its brands, provides tools for researchers to further treat and prevent disease worldwide.\n\nPay Range: CHF76,900 - CHF123,100\nPlacement within the salary range will vary depending on experience, qualifications, geographic location, and internal equity considerations.\n\nType of contract: 12 months fixed term contact\n\nJob Description\nAre you a scientist, passionate about new technologies, looking for an exciting challenge where you can have an impact on the future growth of your company? We are looking for an ‘Application Development Scientist’ to work in the Application Development team researching and testing new solutions for spatial multi-omics assays on tissue samples using Bio-Techne Spatial instruments.\n\nYour Missions\n\nTest, optimize, and validate new markers for immunofluorescent multiplex stainings on tissue samples\n\nInvestigate novel & innovative solutions for spatial-omics assays on Bio-Techne Spatial microfluidic platforms\n\nDevelop a fine understanding of in situ protein and RNA detection methodologies\n\nAcquire images, process them, analyze data, and report results concisely\n\nExplore and understand the biological background of the target markers under development\n\nContribute to the continuous development of devices and software\n\nInteract with multidisciplinary team of hardware and software engineers and researchers\n\nThis position reports to the Application Development Manager\n\nQualifications\nYour ideal profile\n\nA PhD degree in Molecular Biology, Biochemistry, Biomedical Engineering, or a similar field\n\nOr an equivalent background (e.g. Master degree with at least 3 years of industry experience)\n\nHands-on experience in spatial proteomics or transcriptomic assays for analysis of histological samples (IHC, IF, in situ hybridization, in situ sequencing, or similar techniques etc.) is a must\n\nExperience in handling microfluidics devices and fluorescent microscopes is a strong plus\n\nGood knowledge in image processing and data analysis is a strong plus\n\nYou demonstrate critical thinking, good organizational skills, and attention to details\n\nDynamic, enthusiast, and organized individual, able to multi-task and work in a fast-paced environment\n\nA real team player, you are also comfortable working independently\n\nFluency in oral and written English is a must\n\nBio-Techne is committed to product quality, customer satisfaction, continued improvement, minimising environmental impacts and conserving natural resources.  Environmental and quality management is an integral core value and vital part of the Bio-Techne culture.\n\nWhy Join Bio-Techne:\n\nWe offer competitive wages along with extensive benefits for employees and their families.\n\nWe invest in our employees’ financial futures through retirement programs and an employee stock purchase plan.\n\nWe help our employees develop their careers through mentorship, promotional opportunities, training and development, internship programs, and more.\n\nWe offer an international and diverse working environment, enriched by employee resource groups; volunteer and charity events; and employee events that build a culture of caring and belonging. \n\nWe foster a culture of empowerment and innovation, where employees feel valued and encouraged to bring their new ideas to the table.\n\nBio-Techne is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or status as a protected veteran.\n\nTo protect the interests of all, Bio-Techne will not accept unsolicited resumes from any source other than a candidate application. Any unsolicited resumes sent to Bio-Techne will be considered Bio-Techne property.\n\nIf you require a reasonable accommodation to complete an application, participate in an interview, or take part in any other stage of the recruitment process, please contact hr@bio-techne.com for assistance.",
     "external_url": "https://biotechne.wd5.myworkdayjobs.com/Biotechne/job/Tolochenaz-Switzerland/Application-Development-Scientist---Reagents--12-months-fixed-term-contract-_JR102038",
@@ -1287,7 +1282,7 @@
     "title": "Scientist – Assay Data, AI & Workflows",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-30",
+    "posted_date": "2026-10-29",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1322,7 +1317,7 @@
     "title": "Data Scientist / Engineer - DNA-Encoded Library Technology (DELT)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-30",
+    "posted_date": "2026-10-29",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1339,7 +1334,7 @@
     "title": "Scientific AI Platform Lead, Data Science, Disease Area X",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-10-31",
+    "posted_date": "2026-10-30",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -1534,21 +1529,6 @@
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000159596524-cern-openlab-summer-student-programme-2027?oga=true",
     "status": "matched"
   },
-  "https://careers.incyte.com/jobs/6533?lang=en-us": {
-    "external_url": "https://careers.incyte.com/jobs/6533?lang=en-us",
-    "status": "matched",
-    "title": "Senior Scientist DSP",
-    "company": "Incyte",
-    "location": "Yverdon-les-Bains, Switzerland",
-    "posted_date": "2026-09-17",
-    "department": "",
-    "score": 5,
-    "matched_keywords": [
-      "MSc",
-      "location:yverdon"
-    ],
-    "deducted_keywords": []
-  },
   "https://careers.incyte.com/jobs/6543?lang=fr-fr": {
     "external_url": "https://careers.incyte.com/jobs/6543?lang=fr-fr",
     "status": "matched",
@@ -1675,7 +1655,7 @@
     "title": "Associate Principal Scientist - Analytical Development (Microbial) 80%-100% (m/w/d)",
     "company": "Lonza",
     "location": "CH - Visp",
-    "posted_date": "2026-11-06",
+    "posted_date": "2026-11-05",
     "department": "",
     "score": -1,
     "matched_keywords": [
@@ -1735,7 +1715,7 @@
     "title": "Patent Attorney II",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-11-11",
+    "posted_date": "2026-11-10",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1774,18 +1754,6 @@
     "deducted_keywords": [
       "location:Tessin, Westschweiz & Zentralschweiz, Switzerland"
     ]
-  },
-  "https://www.stettlerconsulting.ch/en/current-vacancies/medical-adviser-nephrologie-zns-80-100-w-m/": {
-    "external_url": "https://www.stettlerconsulting.ch/en/current-vacancies/medical-adviser-nephrologie-zns-80-100-w-m/",
-    "status": "ignored",
-    "title": "Medical Advisor Nephrologie/ZNS 80-100% (w/m)",
-    "company": "Stettler Consulting",
-    "location": "Region: Deutschschweiz, Bern, Basel, Mittelland, Zuerich & Umgebung, Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": 0,
-    "matched_keywords": [],
-    "deducted_keywords": []
   },
   "https://www.stettlerconsulting.ch/en/current-vacancies/quality-regulatory-affairs-manager-w-m-80-100/": {
     "external_url": "https://www.stettlerconsulting.ch/en/current-vacancies/quality-regulatory-affairs-manager-w-m-80-100/",
@@ -1878,7 +1846,7 @@
     "title": "Patent Attorney Trainee",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-11-13",
+    "posted_date": "2026-11-12",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1906,7 +1874,7 @@
     "title": "Scientist (all genders) Quality Control, Microbiology (80-100%)",
     "company": "Lonza",
     "location": "CH - Visp",
-    "posted_date": "2026-11-13",
+    "posted_date": "2026-11-12",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -1949,7 +1917,7 @@
     "title": "Compound Logistics Workflow and Integration Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-11-14",
+    "posted_date": "2026-11-13",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2010,7 +1978,7 @@
     "title": "Associate Principal Scientist - Analytical Project Lead 80-100% (f/m/d)",
     "company": "Lonza",
     "location": "CH - Basel",
-    "posted_date": "2026-11-16",
+    "posted_date": "2026-11-15",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2026,11 +1994,6 @@
   "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000161743922": {
     "description": "Le Centre de la mémoire est à la recherche d'une cheffe ou d'un chef de clinique avec ou sans titre de spécialité afin de renforcer son équipe dynamique.\nVous participez à l'activité clinique et de recherche du Centre et garantissez la qualité des prestations médicales.\nVous êtes en charge de la réalisation des bilans diagnostiques, des visites de suivi médical, et des actes diagnostiques tels que la ponction lombaire.\nVous contribuez au recrutement, aux bilans et suivis cliniques de la patientèle et des volontaires des essais thérapeutiques et études observationnelles du Centre de la mémoire en veillant à la surveillance de la sécurité.\nDe plus, vous collaborez à l’évolution continue des formulaires utilisés en clinique et mettez à jour les outils de recueil de données pour la recherche.\nVous contribuez à l’organisation de conférences et colloques, y compris dans le cadre de la formation continue.\nVous participez aux réunions d’équipe du Centre, à la présentation des cas au Memory board ainsi qu’aux colloques et séminaires organisés par le Centre et le Département de réadaptation et gériatrie.\nVous contribuez à l’encadrement des étudiantes et des étudiants effectuant un Master ou un stage clinique au sein du Centre.",
     "external_url": "https://jobs.smartrecruiters.com/HUG/744000161743922-chef-ou-cheffe-de-clinique-avec-ou-sans-titre-de-specialite-au-sein-du-centre-de-la-memoire-80-a-100-?oga=true",
-    "status": "matched"
-  },
-  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000161749201": {
-    "description": "Le poste est rattaché au groupe de physique médicale du DDIAG, composé de cinq physiciens médicaux. Votre mission travail s’inscrit dans le cadre d’un projet visant à mettre en place un protocole de suivi pour les patientes et patients ayant reçu, lors d’actes de radiologie ou de cardiologie interventionnelle, une dose cutanée susceptible d’induire des effets déterministes. En effet, à partir d’un certain seuil de dose, des réactions tissulaires peuvent apparaître, allant d’érythèmes transitoires à des lésions cutanées plus sévères (alopécie localisée, desquamations sèches ou humides, voire nécroses dans les cas extrêmes).\nCe stage s'inscrit dans la continuité d'un précédent projet de master et visera à poursuivre et approfondir les travaux déjà réalisés.\nLors de votre stage, vous estimez la dose maximale reçue par la peau à partir des données fournies par les installations d’imagerie interventionnelle, ceci afin de mieux identifier les patients à risque et de déclencher un suivi clinique approprié. Pour cela, vous réalisez des mesures en salle d’intervention ainsi que des calculs basés sur des méthodes Monte Carlo.\nVous possédez de solides connaissances en dosimétrie appliquée au domaine médical (Ces connaissances pourront également être acquises lors du début de votre master).",
-    "external_url": "https://jobs.smartrecruiters.com/HUG/744000161749201-stage-de-master-en-physique-medicale-100-?oga=true",
     "status": "matched"
   },
   "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000161745304": {
@@ -2167,7 +2130,7 @@
     "title": "Research Scientist, Antigen and Therapeutic Protein Production – Downstream Processing",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-11-19",
+    "posted_date": "2026-11-18",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -2263,7 +2226,7 @@
     "title": "Principal Scientist II (Lab Head), Allergy and Plasma Cell Research",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-11-20",
+    "posted_date": "2026-11-19",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -2284,7 +2247,7 @@
     "title": "Senior Scientist, Metabolomics",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-11-18",
+    "posted_date": "2026-11-17",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2320,7 +2283,7 @@
     "title": "Supply Chain Planning Portfolio Lead",
     "company": "Biogen",
     "location": "Baar, Switzerland",
-    "posted_date": "2026-11-19",
+    "posted_date": "2026-11-18",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -2378,7 +2341,7 @@
     "title": "Principal Scientist (Director) Health Economics, Oncology (m/f/d)",
     "company": "MSD",
     "location": "CHE - Zurich - Zurich (The Circle)",
-    "posted_date": "2026-11-18",
+    "posted_date": "2026-11-17",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2407,28 +2370,12 @@
     "title": "Manager, Regional Regulatory Lead (EU)",
     "company": "CSL Behring / Vifor",
     "location": "EMEA, CH, Kanton Zurich, Opfikon, CSL Vifor",
-    "posted_date": "2026-11-21",
+    "posted_date": "2026-11-20",
     "department": "",
     "score": 2,
     "matched_keywords": [
       "PhD",
       "pharmacology"
-    ],
-    "deducted_keywords": []
-  },
-  "/job/Zug-Switzerland/Consultant---Qualitative-Market-Research---Competitive-Intelligence--Switzerland-_R1564831-2": {
-    "description": "IQVIA™ – The Human Data Science Company™ – is a leading global provider of advanced analytics, technology solutions and clinical research services to the life sciences and healthcare industries. Our mission is to create intelligent connections that deliver unique innovations and actionable insights to help our clients improve healthcare outcomes worldwide.\n\nWe are currently looking for a talented and motivated Consultant to join the Primary Market Research Team within our Swiss Analytics & Advisory Services Team, based in Zürich and Rotkreuz, Switzerland.\n\nThis role combines qualitative primary market research in Switzerland with competitive intelligence. You will manage projects end to end, conduct and synthesize primary and secondary research, and translate complex market evidence into clear, actionable insights for pharmaceutical clients.\nWorking across dynamic specialty markets, you will partner directly with clients and healthcare experts to address key commercial questions and support informed decisions throughout the project lifecycle.\n\nMain Responsibilities:\n\nAs a Consultant, you will manage multiple client projects simultaneously, collaborate with colleagues across a range of team structures, and serve as a key point of contact for clients.\n\nQualitative Market Research & Competitive Intelligence\n\nLead qualitative market research and competitive intelligence projects end to end for pharmaceutical clients across the DACH region\nTranslate client business questions into appropriate research approaches and structured project plans\nConduct primary research, including interviews with physicians and other healthcare professionals in German and, where appropriate, French\nComplement primary research with targeted secondary research and desk analysis where required\nAnalyze and synthesize market, competitor, and stakeholder evidence to identify relevant insights, opportunities, and risks\nTranslate complex findings into clear, actionable commercial recommendations and compelling client storylines\nPrepare high-quality reports and presentations and deliver results to client stakeholders\nOwn project timelines, deliverables, and day-to-day client interactions across the full project lifecycle\nManage several projects in parallel while collaborating effectively with colleagues across teams and disciplines\nContribute to the continuous development of research approaches, client solutions, and team capabilities\n\nQualifications, Experience and Skills\n\nBachelor’s or Master’s degree, ideally in life sciences or a related field\n2–5 years of relevant professional experience in pharmaceuticals, biotechnology, healthcare consulting, market research, competitive intelligence, or a related field\nBusiness-fluent German and English are required; conversational French is considered an asset\nKnowledge and understanding of the Swiss pharmaceutical market\nStrong analytical skills, with the ability to synthesize complex evidence into business-relevant insights\nExcellent communication and presentation skills, with a confident and client-oriented approach\nEffective project and time management skills, including the ability to prioritize and deliver high-quality work across parallel engagements\nStructured and independent way of working, combined with a collaborative mindset and willingness to contribute across the organization\n\nReporting Line\n\nThe role reports to the Team Lead Qualitative Insights within the Primary Market Research Team of the Swiss Analytics & Advisory Services Team.\n\nWhat We Offer\n\nThis role offers the opportunity to take genuine ownership of client projects, build trusted relationships with pharmaceutical stakeholders, and deepen your expertise across complex specialty markets. You will work at the forefront of healthcare innovation, supporting high-priority decisions around new and evolving therapies in areas shaped by scientific progress, significant investment, and active competition. With exposure to both qualitative market research and competitive intelligence, you will develop a broad perspective while contributing directly to decisions that can shape successful launches and market strategies.\n\nIQVIA is a leading global provider of clinical research services, commercial insights and healthcare intelligence to the life sciences and healthcare industries. We create intelligent connections to accelerate the development and commercialization of innovative medical treatments to help improve patient outcomes and population health worldwide. Learn more at https://jobs.iqvia.com\n\nIQVIA is committed to integrity in our hiring process and maintains a zero tolerance policy for candidate fraud. All information and credentials submitted in your application must be truthful and complete. Any false statements, misrepresentations, or material omissions during the recruitment process will result in immediate disqualification of your application, or termination of employment if discovered later, in accordance with applicable law. We appreciate your honesty and professionalism.",
-    "external_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Zug-Switzerland/Consultant---Qualitative-Market-Research---Competitive-Intelligence--Switzerland-_R1564831-2",
-    "status": "ignored",
-    "title": "Consultant – Qualitative Market Research & Competitive Intelligence (Switzerland)/ Part-Time",
-    "company": "IQVIA",
-    "location": "Zug, Switzerland",
-    "posted_date": "2026-10-28",
-    "department": "",
-    "score": 2,
-    "matched_keywords": [
-      "French",
-      "competitive intelligence"
     ],
     "deducted_keywords": []
   },
@@ -2705,7 +2652,7 @@
     "title": "Executive Assistant, Regulatory Affairs",
     "company": "BeiGene",
     "location": "Basel",
-    "posted_date": "2026-11-09",
+    "posted_date": "2026-11-08",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2741,7 +2688,7 @@
     "title": "Regulatory Affairs Consultant (German and French language skills)",
     "company": "Parexel",
     "location": "Switzerland-Remote",
-    "posted_date": "2026-10-29",
+    "posted_date": "2026-10-28",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -2773,7 +2720,7 @@
     "title": "Manager, Quality & Regulatory Operations",
     "company": "Danaher",
     "location": "Neuchâtel, Switzerland",
-    "posted_date": "2026-11-05",
+    "posted_date": "2026-11-04",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -2832,7 +2779,7 @@
     "title": "Scientist, Tech Ops (f/m/d) - 6 month fixed term",
     "company": "CSL Behring / Vifor",
     "location": "EMEA, CH, Kanton Bern, Bern, CSL Behring",
-    "posted_date": "2026-11-25",
+    "posted_date": "2026-11-24",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2848,10 +2795,10 @@
   "https://novartis.wd3.myworkdayjobs.com/en-US/Novartis_Careers/jobs": {
     "external_url": "https://novartis.wd3.myworkdayjobs.com/en-US/Novartis_Careers/jobs",
     "status": "matched",
-    "title": "Director, Portfolio Analytics",
+    "title": "Principal Scientist, Neuroscience",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "",
+    "posted_date": "2026-11-27",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -2901,25 +2848,15 @@
     "title": "Workforce Strategy Head, Regulatory Affairs",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-11-24",
+    "posted_date": "2026-11-23",
     "department": "",
     "score": 0,
     "matched_keywords": [],
     "deducted_keywords": []
   },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000163499089": {
-    "description": "Introduction:\nAs an Applied Physicist, you will join the ATLAS Computing Section, which is responsible for the development, operation, maintenance and future upgrades of the Tier-0 and Rucio data processing/management systems for the ATLAS Experiment. You will be in charge of maintaining, operating and evolving the ATLAS Tier-0 system, overseeing all aspects of central data handling and processing for the ATLAS Experiment, and providing ATLAS physicists with high-quality data products for analysis and searches for new discoveries.\nThe ATLAS Tier-0 is the central hub of the ATLAS offline computing infrastructure, responsible for the prompt reconstruction, registration and archiving of raw detector data, as well as its distribution to Tier-1 and Tier-2 centres worldwide. It also supports essential data-preparation activities, including detector calibration, alignment and data-quality monitoring.\nIts critical role in the ATLAS data-processing chain demands reliable, continuous operation, rapid problem resolution and flexible support to meet the evolving needs of the Experiment and its clients and users.\nFunctions:\nTake a leading role, as part of a small team of experts, in the operation, maintenance, and evolution of the Tier-0 system to meet the needs of the ATLAS Experiment, with the goal of providing the physics community with data of excellent quality. This includes contributing to all operational aspects of central Tier-0 data handling and processing.\nEngage with a broad and diverse community of stakeholders and clients (including CERN IT and the ATLAS Trigger/DAQ, Software and Computing, Data Preparation, Physics and Detector communities) to understand their data processing requirements and translate them into solutions implemented within the Tier-0 system.\nContribute to the maintenance and development of the Tier-0 software suite in response to evolving requirements, as well as to the development of applications, tools and interfaces supporting its operation.\nTake a leading role in the preparation and commissioning of the Tier-0 system for the HL-LHC era. This includes activities like the commissioning of calibration and alignment workflows for the new or upgraded detectors; the implementation of new data handling and data management strategies (with CERN IT, Trigger/DAQ, Rucio); the exploration of possible synergies with the ATLAS Grid Production System; and the development and commissioning of innovative workflows for optimising the usage of computing resources (CPU, memory, storage).",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000163499089-applied-physicist-atlas-tier-0-operations-and-coordination-ep-atl-co-2026-226-ld-?oga=true",
-    "status": "matched"
-  },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000163403155": {
     "description": "As a superconducting magnet engineer in the Large Magnet Facility (LMF), you will contribute to the development of next-generation high-field accelerator magnets.\nWorking in close collaboration with the Superconducting Magnet Technology section and international partners, you will combine numerical modelling, experimental analysis and hands-on engineering to support the design, fabrication and qualification of Nb3Sn magnet prototypes for future accelerators.\nYour responsibilities:\nContribute to the design and development of high-field superconducting accelerator magnets, with a particular focus on mid-length Nb3Sn prototypes.\nPerform electromagnetic and mechanical analyses using numerical modelling tools to support magnet design, optimisation and performance assessment.\nBuild on experience and know-how from previous Nb3Sn magnet production and apply it to future magnet technologies.\nFollow the fabrication, assembly, instrumentation and testing of magnet prototypes, and contribute to the interpretation of experimental results.\nParticipate in R&D activities aimed at improving superconducting magnet technologies through mock-ups, demonstrators and dedicated experimental campaigns.\nYour profile:\nFinite-element analysis and numerical modelling of complex engineering systems.\nElectromagnetic and/or mechanical design of superconducting magnets or comparable high-performance devices.\nAnalysis and interpretation of experimental or instrumentation data.\nEngineering documentation and technical reporting.\nKnowledge of superconductivity and superconducting magnet technologies would be an asset.\nSkills:\nKnowledge of finite-element and multiphysics simulation tools (e.g. ANSYS, OPERA, ROXIE, COMSOL).\nKnowledge of electromagnetic and mechanical design principles.\nAbility to analyse test data and validate numerical models.\nScientific communication skills, including technical reporting and presentations.\nAbility to work effectively in multidisciplinary and international teams.\nSpoken and written English, with a commitment to learn French.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nYou have a professional background in Mechanical Engineering (or a related field) and have either:\na Master's degree with 2 to 6 years of post-graduation professional experience;\nor a PhD with no more than 3 years of post-graduation professional experience.\nYou have never had a CERN fellow or graduate contract before.",
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000163403155-superconducting-magnet-engineer-te-msc-lmf-2026-179-grap-?oga=true",
-    "status": "matched"
-  },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000163493324": {
-    "description": "Introduction\nCERN is looking for an experienced full-stack software engineer to lead the design, development and optimisation of software modules for the Glance project. Glance is a web-based information and management framework used by several high-energy particle physics experiments to manage collaboration information (including membership records, committee appointments and speaker nominations), publication tracking and authorship qualification tracking. The successful candidate will be responsible for ensuring the reusability of Glance modules across multiple experiments and for coordinating the work plan according to the experiments' needs.\nFunctions\nCoordinate and contribute to all stages of the software development lifecycle - from requirements gathering and design to implementation, testing, deployment, support and long-term maintenance.\nCollaborate closely with physicists and computing experts to translate experimental and physics requirements into robust and efficient computing solutions.\nImplement and validate modules that take full advantage of modern computing architectures.\nProfile, monitor and optimise software performance to ensure efficiency, reliability, and scalability.\nParticipate in the integration and validation of new software releases within heterogenous production environments.\nEnsure high-quality documentation of software components, maintain configuration control, and contribute to internal knowledge sharing.\nPromote best practices in coding, testing, and software design, fostering a culture of collaboration and continuous improvement across the team.\nProvide technical support and mentoring to team members and collaborators, helping to disseminate expertise within the Glance community.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000163493324-lead-full-stack-software-engineer-glance-project-ep-sft-2026-227-ld-?oga=true",
     "status": "matched"
   },
   "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000163481930": {
@@ -3151,20 +3088,6 @@
       "location:Switzerland"
     ]
   },
-  "https://www.michaelpage.ch/job-detail/associate-director-heor-hematology/ref/jn-092026-7104459": {
-    "external_url": "https://www.michaelpage.ch/job-detail/associate-director-heor-hematology/ref/jn-092026-7104459",
-    "status": "ignored",
-    "title": "Associate Director HEOR Hematology (a)",
-    "company": "Michael Page Switzerland",
-    "location": "Switzerland",
-    "posted_date": "",
-    "department": "",
-    "score": -2,
-    "matched_keywords": [],
-    "deducted_keywords": [
-      "location:Switzerland"
-    ]
-  },
   "https://www.michaelpage.ch/job-detail/data-and-market-intelligence-analyst/ref/jn-072026-7074770": {
     "external_url": "https://www.michaelpage.ch/job-detail/data-and-market-intelligence-analyst/ref/jn-072026-7074770",
     "status": "ignored",
@@ -3214,7 +3137,7 @@
     "title": "Oral Enabling Formulation Technologies Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-11-24",
+    "posted_date": "2026-11-23",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -3257,7 +3180,7 @@
     "title": "Collaboration, Innovation & Market Support Scientist, Cell Therapy (f/m/d)",
     "company": "Danaher",
     "location": "Grens, Switzerland",
-    "posted_date": "2026-11-25",
+    "posted_date": "2026-11-24",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -3318,7 +3241,7 @@
     "title": "Scientist, DNA-Encoded Library Chemistry",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "",
+    "posted_date": "2026-11-25",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -3334,7 +3257,7 @@
     "title": "Spatial Biology Data Scientist",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-11-25",
+    "posted_date": "2026-11-24",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -3398,11 +3321,6 @@
     "external_url": "https://jobs.smartrecruiters.com/HUG/744000163825619-coordinateur-ou-coordinatrice-de-support-applicatifs-rh-100-?oga=true",
     "status": "matched"
   },
-  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000163815140": {
-    "description": "Vous dispensez, de manière autonome et sur délégation médicale, des soins infirmiers personnalisés et globaux de manière préventive et curative à des enfants dans des situations présentant différents niveaux de complexité.\nDextérité et aisance dans les soins techniques sont des qualités essentielles pour prendre en soin les enfants hospitalisés en chirurgie pédiatrique pour la gestion des pansements, de sondes, drains, cathéters et pompes à perfusion.\nVous démontrez une maitrise rapide et efficace des soins complexes auprès des enfants en post opératoire de greffe hépatique et assurez un suivi attentif et structuré  lors de nouvelles hospitalisations.\nVos capacités d'apprentissage vous permettent de progresser en permanence dans votre pratique. \nVous êtes une personne réactive, avec une très bonne gestion du stress et des priorités, vous savez évaluer, analyser les situations cliniques complexes et vous adapter au contexte ainsi qu’aux imprévus et aux pics d’activité.\nVous êtes apte à gérer la douleur, à maitriser l’hygiène et l’asepsie et à administrer des médicaments pédiatriques.\nVous êtes une personne précise et rigoureuse dans les soins et le respect des procédures.\nVos capacités à travailler de manière collaborative vous permettent de travailler avec l’équipe médico-soignante et vous assurez avec exactitude et minutie la transmission d’informations au sein des équipes pluridisciplinaires.\nVous participez à l'encadrement et à l'enseignement clinique du nouveau personnel soignant et d'autres professionnels et professionnelles de la santé.",
-    "external_url": "https://jobs.smartrecruiters.com/HUG/744000163815140-infirmier-ou-infirmiere-au-service-de-chirurgie-de-l-enfant-et-de-l-adolescent-80-a-100-?oga=true",
-    "status": "matched"
-  },
   "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000163813630": {
     "description": "Rattaché ou rattachée à la direction des crèches, vous assurez la gestion administrative des structures et apportez un soutien essentiel à la direction ainsi qu’aux adjointes et aux équipes éducatives.\nVous gérez le traitement du courrier, la rédaction et la mise en forme de documents, courriels, présentations et supports de communication. Vous participez à la préparation de divers documents administratifs destinés aux équipes et aux familles.\nVous êtes responsable du suivi administratif des dossiers des enfants et des familles, de la gestion des listes d'inscription et des bases de données associées. Vous assurez également le suivi des présences des enfants ainsi que certaines données relatives aux absences des collaborateurs et collaboratrices.\nVous élaborez des tableaux de bord ainsi que des documents d’aide à la prise de décisions concernant la gestion du personnel.\nVous réalisez la facturation mensuelle dans les systèmes de gestion dédiés et effectuez le contrôle ainsi que la mise à jour des données tarifaires. Vous participez au suivi des commandes et assurez diverses tâches administratives liées au fonctionnement courant des structures.\nVous contribuez à la mise à jour des espaces collaboratifs et de l'intranet, gérez les listes de diffusion et réalisez des publipostages à partir des bases de données existantes.\nPar votre présence quotidienne au sein des crèches, vous jouez un rôle d'interface entre la direction, les équipes éducatives et les familles. Vous participez à la qualité de l'accueil et veillez à la bonne circulation des informations.",
     "external_url": "https://jobs.smartrecruiters.com/HUG/744000163813630-secretaire-80-?oga=true",
@@ -3444,7 +3362,7 @@
     "title": "(Senior) Scientist Automation Workflows, Development Bioconjugates 80-100%",
     "company": "Lonza",
     "location": "CH - Visp",
-    "posted_date": "2026-11-27",
+    "posted_date": "",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -3463,6 +3381,127 @@
     "department": "",
     "score": 0,
     "matched_keywords": [],
+    "deducted_keywords": []
+  },
+  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000164034475": {
+    "description": "As a Computing Engineer (Project Graduate / QUEST) in the EP-NU group, you will develop and operate Data Acquisition (DAQ) software and online infrastructure for CERN Neutrino Platform experiments and the Deep Underground Neutrino Experiment (DUNE).\nYou will take end-to-end ownership of two core deliverables: a dynamic resource-management and configuration layer for deterministic DUNE-DAQ readout performance, and real-time stream reordering within the Data Handling Library of the Readout and Trigger systems.\nYou will generalise these solutions into reusable components for the CERN Controls, DAQ, and Online (CDO) project and integrate them into the DAQling framework. In parallel, you will support online cluster operations and data-taking runs at the Neutrino Platform.\nYour responsibilities:\nHW/SW co-design & dynamic resource management: Design, implement, and benchmark dynamic sizing and resource allocation mechanisms for DUNE-DAQ readout functions to guarantee deterministic processing performance under varying detector data rates.\nOut-of-order stream handling: Evaluate, develop, and integrate low-latency algorithms within the Data Handling Library of the Readout and Trigger systems to detect, sort, and resolve intra-stream disorder and out-of-order events in high-throughput data streams.\nLibrary reusability & integration: Generalise validated readout, buffering, and resource-management modules into reusable components within the CDO project, integrating them into the DAQling framework.\nControl & configuration interfaces: Develop software interfaces and configuration workflows connecting front-end readout hardware, resource managers, and the DUNE-DAQ Run Control.\nAutomated dataflow & cluster infrastructure: Maintain automated data transfer pipelines to CERN central storage (EOS/CTA) alongside Linux cluster provisioning (Ansible) and system telemetry (Prometheus, Grafana).\nOnline operations & commissioning: Provide hands-on operational support, performance profiling, and troubleshooting during detector integration tests and data-taking runs at the CERN Neutrino Platform.\nThis role includes team supervision responsibilities.\nYour profile:\nDemonstrated experience in developing, debugging, and maintaining software applications using modern C++ and Python in a Linux environment.\nHands-on experience with real-time data handling, network socket programming, and high-throughput data streaming.\nExperience in distributed systems administration, Linux kernel tuning, and network and storage configuration (e.g., NVMe RAID arrays and NAS file systems).\nExposure to automated deployment tools (e.g., Ansible or Puppet), as well as centralised monitoring and logging systems (e.g., Prometheus, Grafana, and OpenSearch/ELK).\nExperience with relational databases (e.g., Oracle) and/or managing data movement and file transfers.\nExperience with hardware-near software development, high-throughput data-plane communication (e.g., Ethernet or custom protocols), or supervisory control interfaces (e.g., WinCC OA).\nSkills:\nStrong programming skills in C++ and Python, with a solid understanding of software engineering fundamentals and version control.\nGood understanding of Linux operating system concepts, including process lifecycle, file systems, and network I/O.\nFamiliarity with multithreaded programming concepts, concurrency concepts, and memory management.\nA versatile mindset with the adaptability to work across application code, scripting, and system infrastructure.\nMethodical problem-solving and diagnostic skills to troubleshoot technical issues across software and system boundaries.\nStrong communication skills in English and the ability to collaborate effectively within an international, multidisciplinary team.f\nSpoken and written English, with a commitment to learn French.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nYou have a professional background in IT or a related field (or a related field) and have either:\na Master's degree with 2 to 6 years of post-graduation professional experience;\nor a PhD with no more than 3 years of post-graduation professional experience.\nYou have never had a CERN fellow or graduate contract before.",
+    "external_url": "https://jobs.smartrecruiters.com/CERN/744000164034475-computing-engineer-for-daq-ep-nu-2026-185-grap-?oga=true",
+    "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000164015404": {
+    "description": "Are you a Mechanical Technician interested in both design and hands-on manufacturing? In this role, you will contribute to the design and prototyping of vacuum systems for accelerators. This will include the production of 3D mechanical models and 2D detailed drawings with CAD software, and the manufacturing and assembly of parts.\nWe will provide training and necessary support in vacuum technology, making this an excellent opportunity to develop skills in a unique international environment. What matters is your curiosity, practical mindset and eagerness to learn.\nYour responsibilities\nDesign and integrate mechanical parts with CAD software, namely CATIA, for UHV applications.\nProduce detailed 2D drawings, including dimensions and tolerances, according to ISO GPS standards.\nProgram a 5 axis CNC machine for the manufacturing of parts, including using the WorkNC software.\nParticipate in the assembly and validation tests.\nCommunicate with the different stakeholders, including the final user, design team and workshop.\nYour profile\nBasic knowledge of using CAD software to design, dimension and tolerance mechanical parts.\nBasic knowledge in machining metal parts using lathe and milling machines.\nBasic knowledge in programming CNC machines and in using CAM software.\nPractical experience in assembling mechanical equipment.\nSkills\nCurious and proactive, with a willingness to learn.\nAbility to work effectively in a team.\nPractical and hands-on approach.\nKnowledge of CATIA and/or WorkNC would be an advantage.\nSpoken and written English or French, with a commitment to learn the basics of the other language.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nBy the application deadline, you have a maximum of two years of professional experience since graduation in Mechanical Design and Fabrication (or a related field) and your highest educational qualification is a general secondary education diploma.\nYou have never had a CERN fellow or graduate contract before.\nApplicants with a Bachelor's, Master's or PhD degree are not eligible.",
+    "external_url": "https://jobs.smartrecruiters.com/CERN/744000164015404-mechanical-technician-for-vacuum-applications-te-vsc-dlm-2026-265-grae-?oga=true",
+    "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000164011029": {
+    "description": "Introduction:\nAre you an applied physicist or computing engineer with a strong track record in digital electronics, FPGA development, high-energy physics data acquisition and artificial intelligence? Join the CERN Next Generation Triggers (NGT) project and the ATLAS Trigger and Data Acquisition team to develop real-time processing and readout systems that combine programmable logic, AI accelerators, GPUs and high-performance software. Your work will help turn advanced algorithms into reliable systems for the High-Luminosity LHC and future HEP experiments.\nYou will join the Trigger Section of the ATLAS Group (EP-ATL-TRG) in the Experimental Physics Department (EP). The section has major responsibilities in the ATLAS trigger project. Its activities span the development and operation of custom trigger hardware, data transfer and control infrastructure, and high-level physics selection algorithms. Within the NGT project, you will focus on extending the physics reach of the ATLAS Global Trigger system through new statistical and AI methods, as well as exploring novel hardware and networking technologies.\nThe position connects detector electronics and FPGA processing to high-speed networks and accelerated computing, from hardware prototypes to integrated DAQ systems. The technical scope includes fixed-latency AI inference, streaming trigger-level data to GPU backends, and joint optimisation of trigger algorithms under physics and hardware constraints.\nFunctions:\nDevelop, validate and integrate hardware, firmware and software for advanced trigger and readout systems.\nDesign and validate digital processing and readout architectures; develop FPGA firmware for data aggregation, formatting, high-speed links and deterministic processing, including simulation, timing closure and laboratory testing.\nDevelop and benchmark AI inference on FPGA and heterogeneous devices, including AMD Versal AI Engines; optimise precision, parallelism, interfaces and resource use to meet fixed-latency requirements.\nPrototype high-rate streaming DAQ paths from FPGA sources to GPU backends; develop C++/Python software and accelerated processing for packet handling, buffering and inference, and measure throughput, latency and data integrity.\nDevelop end-to-end optimisation of trigger pipelines, linking encoding, denoising, clustering and calibration to physics objectives; evaluate sensitivity at fixed rate and validate models against deployment constraints.\nIntegrate and commission prototypes with ATLAS teams; establish automated tests, monitoring and documentation, support operation and fault diagnosis, and share results through technical reports, publications and mentoring.",
+    "external_url": "https://jobs.smartrecruiters.com/CERN/744000164011029-applied-physicist-for-trigger-and-online-data-processing-ep-atl-trg-2026-229-ld-?oga=true",
+    "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000164033129": {
+    "description": "You will contribute to the development and maintenance of data analysis tools and database solutions in support of superconducting magnet testing. This includes working across the full stack using Python, SQL, and modern web technologies to manage QA data storage and deliver insights within a scientific research environment.\nYour responsibilities\nMaintain and improve a web application and database used for quality assurance and data storage of superconducting magnet tests.\nDevelop new data analysis tools using Python and Jupyter notebooks on a cloud-based platform.\nDesign and implement a new database to consolidate magnet test information from laboratories around the world.\nRegularly communicate with end-users to gather feedback and incorporate new functionalities into existing and new tools.\nWork with modern web technologies including backend and frontend frameworks for application development.\nMore information here.\nYour profile\nExperience with relational databases and SQL.\nKnowledge of web application development.\nFamiliarity with software quality assurance techniques and tools.\nSkills\nPython.\nGit.\nBasic knowledge of DevOps.\nBasic knowledge of PHP is an asset.\nBasic knowledge of JavaScript is an asset.\nYou do not need to have every technical skill listed above. If you are motivated to learn, we encourage you to apply.\nLanguage skills:\nSpoken and written English, with a commitment to learn French.\nEligibility criteria:\nYou are a national of a CERN Member or Associate Member State.\nBy the application deadline, you have a maximum of two years of professional experience since graduation in Software Engineering and/or IT (or a related field) and your highest educational qualification is either a Bachelor's or Master's degree.\nYou have never had a CERN fellow or graduate contract before.\nApplicants without University degree are not eligible.\nApplicants with a PhD are not eligible.",
+    "external_url": "https://jobs.smartrecruiters.com/CERN/744000164033129-software-engineer-for-superconducting-magnets-te-msc-mqa-2026-266-grae-?oga=true",
+    "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000163986581": {
+    "description": "Introduction\nCERN is looking for an experienced full-stack software engineer to lead the design, development and optimisation of software modules for the Glance project. Glance is a web-based information and management framework used by several high-energy particle physics experiments to manage collaboration information (including membership records, committee appointments and speaker nominations), publication tracking and authorship qualification tracking. The successful candidate will be responsible for ensuring the reusability of Glance modules across multiple experiments and for coordinating the work plan according to the experiments' needs.\nFunctions\nCoordinate and contribute to all stages of the software development lifecycle - from requirements gathering and design to implementation, testing, deployment, support and long-term maintenance.\nCollaborate closely with physicists and computing experts to translate experimental and physics requirements into robust and efficient computing solutions.\nImplement and validate modules that take full advantage of modern computing architectures.\nProfile, monitor and optimise software performance to ensure efficiency, reliability, and scalability.\nParticipate in the integration and validation of new software releases within heterogenous production environments.\nEnsure high-quality documentation of software components, maintain configuration control, and contribute to internal knowledge sharing.\nPromote best practices in coding, testing, and software design, fostering a culture of collaboration and continuous improvement across the team.\nProvide technical support and mentoring to team members and collaborators, helping to disseminate expertise within the Glance community.",
+    "external_url": "https://jobs.smartrecruiters.com/CERN/744000163986581-lead-full-stack-software-engineer-glance-project-ep-sft-2026-227-ld-?oga=true",
+    "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000163987118": {
+    "description": "Introduction:\nAs an Applied Physicist, you will join the ATLAS Computing Section, which is responsible for the development, operation, maintenance and future upgrades of the Tier-0 and Rucio data processing/management systems for the ATLAS Experiment. You will be in charge of maintaining, operating and evolving the ATLAS Tier-0 system, overseeing all aspects of central data handling and processing for the ATLAS Experiment, and providing ATLAS physicists with high-quality data products for analysis and searches for new discoveries.\nThe ATLAS Tier-0 is the central hub of the ATLAS offline computing infrastructure, responsible for the prompt reconstruction, registration and archiving of raw detector data, as well as its distribution to Tier-1 and Tier-2 centres worldwide. It also supports essential data-preparation activities, including detector calibration, alignment and data-quality monitoring.\nIts critical role in the ATLAS data-processing chain demands reliable, continuous operation, rapid problem resolution and flexible support to meet the evolving needs of the Experiment and its clients and users.\nFunctions:\nTake a leading role, as part of a small team of experts, in the operation, maintenance, and evolution of the Tier-0 system to meet the needs of the ATLAS Experiment, with the goal of providing the physics community with data of excellent quality. This includes contributing to all operational aspects of central Tier-0 data handling and processing.\nEngage with a broad and diverse community of stakeholders and clients (including CERN IT and the ATLAS Trigger/DAQ, Software and Computing, Data Preparation, Physics and Detector communities) to understand their data processing requirements and translate them into solutions implemented within the Tier-0 system.\nContribute to the maintenance and development of the Tier-0 software suite in response to evolving requirements, as well as to the development of applications, tools and interfaces supporting its operation.\nTake a leading role in the preparation and commissioning of the Tier-0 system for the HL-LHC era. This includes activities like the commissioning of calibration and alignment workflows for the new or upgraded detectors; the implementation of new data handling and data management strategies (with CERN IT, Trigger/DAQ, Rucio); the exploration of possible synergies with the ATLAS Grid Production System; and the development and commissioning of innovative workflows for optimising the usage of computing resources (CPU, memory, storage).",
+    "external_url": "https://jobs.smartrecruiters.com/CERN/744000163987118-applied-physicist-atlas-tier-0-operations-and-coordination-ep-atl-co-2026-226-ld-?oga=true",
+    "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000163971849": {
+    "description": "Introduction\nCERN is strengthening its philanthropic fundraising activities to support its strategic scientific ambitions and future projects. Through the CERN & Society Foundation, the Organization has already been developing relationships with private donors, foundations and corporate partners who share its commitment to advancing benefits of science and technology to society through education, innovation and cultural experience. Now CERN is seeking an experienced fundraising professional to develop and drive its major and principal giving activities.\nWorking under the supervision of the Head of Fundraising & Partnerships and in close collaboration with the CERN Director-General and other senior representatives, you will shape fundraising approaches for selected strategic scientific activities and develop relationships with high-value donors and prospects.\nThis is a unique opportunity to contribute to the development of strategic philanthropy within a leading international scientific organization. The role combines strategic thinking and high-level stakeholder engagement with hands-on responsibility for the full fundraising cycle, from prospect identification and cultivation to donor engagement, stewardship and follow-up.\nFunctions\nDevelop and shape fundraising strategies for selected strategic scientific activities at CERN, identifying opportunities to secure significant philanthropic contributions, up to six-figure or larger philanthropic gifts, from individuals, foundations and corporate partners.\nSupport the CERN Director-General and other senior representatives in developing and managing high-level donor relationships, including identifying engagement opportunities and preparing briefings, proposals and tailored approaches.\nLead the full donor cultivation and stewardship process for selected major and principal gift prospects, from identification and research through qualification, engagement, solicitation and follow-up.\nBuild and maintain a portfolio of high-value philanthropic relationships, ensuring effective relationship management, appropriate documentation and continuity.\nConduct prospect research and lead due diligence, identify potential donors and assess their interests, motivations and capacity to support CERN's strategic activities.\nCoordinate donor meetings, visits and other engagement activities, including preparing relevant materials, managing logistics, drafting correspondence and ensuring systematic follow-up.\nAct as the operational counterpart for possible external fundraising counsel, coordinating CERN's contributions to campaign-readiness, feasibility and strategy development.\nCapture and retain fundraising expertise, methodologies, tools and recommendations developed through possible external consultancy work, ensuring continuity and supporting future implementation.\nEnsure that all fundraising activities comply with CERN's ethical principles, policies and standards.",
+    "external_url": "https://jobs.smartrecruiters.com/CERN/744000163971849-senior-fundraising-officer-strategic-philanthropy-sr-se-fp-2026-228-ld-?oga=true",
+    "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000163999049": {
+    "description": "Sur les sites de Bellerive , de Cluse-Roseraie et de Beau-Séjour, vous assurez l'approvisionnement et gérez de manière efficiente les stocks du département en proposant des mesures optimales en matière de réapprovisionnement et de stockage, dans le but de minimiser les coûts de possession et de limiter les ruptures.\nVous déterminez en permanence les niveaux des stocks et les seuils de réapprovisionnement, en fonction des consommations et des délais d'approvisionnement en collaboration avec les équipes.\nVous participez aux inventaires, gérez les commandes nécessaires au bon fonctionnement du stock, assurez la réception, contrôlez le matériel et son remplacement. Vous êtes la personne répondante des collaborateurs et collaboratrices pour toute question et/ou tout problème relevant de la gestion de stock.\nVous définissez en partenariat avec les responsables d’équipe de soins, les articles de soins nécessaires.\nVous assurez la maintenance des locaux et du matériel ainsi que la liaison avec les différents services techniques et logistiques.",
+    "external_url": "https://jobs.smartrecruiters.com/HUG/744000163999049-gestionnaire-en-logistique-au-departement-des-neurosciences-cliniques-100-?oga=true",
+    "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000164054119": {
+    "description": "Vous dispensez, de manière autonome et sur délégation médicale, des soins infirmiers personnalisés et globaux de manière préventive et curative à des enfants dans des situations présentant différents niveaux de complexité.\nDextérité et aisance dans les soins techniques sont des qualités essentielles pour prendre en soin les enfants hospitalisés en chirurgie pédiatrique pour la gestion des pansements, de sondes, drains, cathéters et pompes à perfusion.\nVous démontrez une maitrise rapide et efficace des soins complexes auprès des enfants en post opératoire de greffe hépatique et assurez un suivi attentif et structuré  lors de nouvelles hospitalisations.\nVos capacités d'apprentissage vous permettent de progresser en permanence dans votre pratique. \nVous êtes une personne réactive, avec une très bonne gestion du stress et des priorités, vous savez évaluer, analyser les situations cliniques complexes et vous adapter au contexte ainsi qu’aux imprévus et aux pics d’activité.\nVous êtes apte à gérer la douleur, à maitriser l’hygiène et l’asepsie et à administrer des médicaments pédiatriques.\nVous êtes une personne précise et rigoureuse dans les soins et le respect des procédures.\nVos capacités à travailler de manière collaborative vous permettent de travailler avec l’équipe médico-soignante et vous assurez avec exactitude et minutie la transmission d’informations au sein des équipes pluridisciplinaires.\nVous participez à l'encadrement et à l'enseignement clinique du nouveau personnel soignant et d'autres professionnels et professionnelles de la santé.",
+    "external_url": "https://jobs.smartrecruiters.com/HUG/744000164054119-infirmier-ou-infirmiere-au-service-de-chirurgie-de-l-enfant-et-de-l-adolescent-80-a-100-?oga=true",
+    "status": "matched"
+  },
+  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000164053429": {
+    "description": "Le poste est rattaché au groupe de physique médicale du DDIAG, composé de cinq physiciens médicaux. Votre mission travail s’inscrit dans le cadre d’un projet visant à mettre en place un protocole de suivi pour les patientes et patients ayant reçu, lors d’actes de radiologie ou de cardiologie interventionnelle, une dose cutanée susceptible d’induire des effets déterministes. En effet, à partir d’un certain seuil de dose, des réactions tissulaires peuvent apparaître, allant d’érythèmes transitoires à des lésions cutanées plus sévères (alopécie localisée, desquamations sèches ou humides, voire nécroses dans les cas extrêmes).\nCe stage s'inscrit dans la continuité d'un précédent projet de master et visera à poursuivre et approfondir les travaux déjà réalisés.\nLors de votre stage, vous estimez la dose maximale reçue par la peau à partir des données fournies par les installations d’imagerie interventionnelle, ceci afin de mieux identifier les patients à risque et de déclencher un suivi clinique approprié. Pour cela, vous réalisez des mesures en salle d’intervention ainsi que des calculs basés sur des méthodes Monte Carlo.\nVous possédez de solides connaissances en dosimétrie appliquée au domaine médical (Ces connaissances pourront également être acquises lors du début de votre master).",
+    "external_url": "https://jobs.smartrecruiters.com/HUG/744000164053429-stage-de-master-en-physique-medicale-100-?oga=true",
+    "status": "matched"
+  },
+  "https://gloorlang.starhunter.software/Headhunter/project/job-ad/hash/6b096f9900c6f": {
+    "external_url": "https://gloorlang.starhunter.software/Headhunter/project/job-ad/hash/6b096f9900c6f",
+    "status": "matched",
+    "title": "Scientist MS&T – Pharma Sterile Manufacturing Drug Product",
+    "company": "Gloor & Lang",
+    "location": "Neuchatel - Lausanne Region, Switzerland",
+    "posted_date": "",
+    "department": "",
+    "score": 4,
+    "matched_keywords": [
+      "location:lausanne"
+    ],
+    "deducted_keywords": []
+  },
+  "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-scientist-qa-bern-892890/1": {
+    "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-scientist-qa-bern-892890/1",
+    "status": "matched",
+    "title": "Scientist QA(m/f/d)",
+    "company": "Hays Switzerland",
+    "location": "Bern, Switzerland",
+    "posted_date": "",
+    "department": "",
+    "score": 0,
+    "matched_keywords": [],
+    "deducted_keywords": []
+  },
+  "https://labcorp.wd1.myworkdayjobs.com/en-US/External/jobs": {
+    "external_url": "https://labcorp.wd1.myworkdayjobs.com/en-US/External/jobs",
+    "status": "matched",
+    "title": "Regulatory Coordinator (12-month contract)",
+    "company": "Labcorp",
+    "location": "CHE - Geneva - 7 rue Moise-Marcinhes",
+    "posted_date": "2026-11-27",
+    "department": "",
+    "score": 4,
+    "matched_keywords": [
+      "location:geneva"
+    ],
+    "deducted_keywords": []
+  },
+  "/job/Basel/Machine-Learning-Scientist-Senior-Scientist--Force-Fields---Neural-Network-Potentials--AI-for-Drug-Discovery_202611-130552-1": {
+    "description": "At Roche you can show up as yourself, embraced for the unique qualities you bring. Our culture encourages personal expression, open dialogue, and genuine connections,  where you are valued, accepted and respected for who you are, allowing you to thrive both personally and professionally. This is how we aim to prevent, stop and cure diseases and ensure everyone has access to healthcare today and for generations to come. Join Roche, where every voice matters.\n\nThe Position\nBuild the next generation of neural network potentials to predict molecular interactions and accelerate the discovery of new medicines. Join the small molecule team within Roche/Genentech’s AI for Drug Discovery (AI4DD) organisation, formerly Prescient Design, and work alongside world-class chemists and ML researchers.\nWith access to extensive experimental and synthetic data and computational resources, you will join a multidisciplinary effort to tackle fundamental challenges to improve the accuracy, reliability and applicability of protein-ligand scoring and take your ideas from fundamental research to tools that drive compound design.\n\nThe Opportunity\n\nDevelop and train neural network potentials and hybrid physics/ML force fields that capture conformational energetics and noncovalent interactions in drug-like molecules.\nEnhance protein-ligand scoring by integrating machine-learned potentials across rapid molecular docking and rigorous alchemical free energy calculations.\nValidate learned potentials assessing transferability, uncertainty and accuracy–cost trade-offs against strong classical baselines.\nPartner with discovery scientists to guide small molecule optimisation, test design hypotheses, prioritise compounds for synthesis and refine predictions using experimental results.\nDeliver tested, reproducible, agent-compatible workflows  and share scientific contributions through publications, open-source code and presentations at leading conferences.\n\nWho You Are\n\nYou hold a PhD in computational chemistry, machine learning, physics, chemical engineering, or a related quantitative field (both fresh graduates and experienced candidates are welcome).\nYou have hands-on experience designing, training, and evaluating molecular ML models—such as neural network potentials or equivariant graph neural networks—using PyTorch, JAX, or comparable frameworks.\nYou possess strong foundations in molecular mechanics, quantum chemistry, statistical mechanics, and thermodynamics, with an understanding of the assumptions and limitations of molecular energy models.\nYou bring strong Python programming and scientific software skills, including debugging, testing, documentation, performance optimisation, and reproducible computational experiments.\nYou can demonstrate evidence of scientific contributions through publications, research software, or doctoral projects, along with the ability to frame research questions, communicate clearly, and collaborate across disciplines.\n\nPreferred Qualifications:\n\nExperience generating quantum chemical reference data, fitting molecular force fields or using active learning to improve training-data coverage.\nExperience applying learned potentials in molecular simulation or developing alchemical binding free energy methods with tools such as OpenMM, including GPU/HPC workflows.\n\nLocation & Travel Requirements \n\nThis position must be based in either Basel, Switzerland or Welwyn, UK. Although this can be a hybrid role, there is an expectation of ongoing and sustained site presence, in compliance with local company site requirements.\n\n \n Where pay transparency applies, details are provided based on the primary posting location. For this role, the primary location is Basel. If you are interested in additional locations where the role may be available, we will provide the relevant compensation details later in the hiring process.\n\nWho we are\nA healthier future drives us to innovate. Together, more than 100’000 employees across the globe are dedicated to advance science, ensuring everyone has access to healthcare today and for generations to come. Our efforts result in more than 26 million people treated with our medicines and over 30 billion tests conducted using our Diagnostics products. We empower each other to explore new possibilities, foster creativity, and keep our ambitions high, so we can deliver life-changing healthcare solutions that make a global impact.\n\nLet’s build a healthier future, together.\n\nRoche is an Equal Opportunity Employer.",
+    "external_url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Machine-Learning-Scientist-Senior-Scientist--Force-Fields---Neural-Network-Potentials--AI-for-Drug-Discovery_202611-130552-1",
+    "status": "matched",
+    "title": "Machine Learning Scientist/Senior Scientist, Force Fields & Neural Network Potentials, AI for Drug Discovery",
+    "company": "Roche",
+    "location": "Basel; Welwyn",
+    "posted_date": "2026-11-27",
+    "department": "",
+    "score": 2,
+    "matched_keywords": [
+      "PhD",
+      "drug discovery"
+    ],
+    "deducted_keywords": []
+  },
+  "/job/Basel-City/Director--Portfolio-Analytics_REQ-10086799-1": {
+    "description": "Salary Range:CHF142,100.00 - CHF263,900.00\n\n \nJob Description SummaryThe Director, Portfolio Analytics leads major portfolio analytics workstreams that inform enterprise, franchise, TA, and senior leadership decisions. The role shapes analytical approaches, interprets portfolio-level implications, advises stakeholders on value and trade-offs, and ensures PDA’s portfolio insights are rigorous, timely, strategically framed, and actionable.\n\n \nJob Description\nCORE PDA FOUNDATION\nAll PDA roles share a common foundation of analytical rigor, strategic thinking, stakeholder management, and clear communication. The differences between Portfolio Analytics and Decision Analytics lie in the primary context and stakeholder model, while the differences between Associate Director and Director lie in scope, autonomy, influence, and impact. Common characteristics are:\nDemonstrates strong analytical rigor, strategic thinking, stakeholder management, and clear communication.\nUses common PDA tools, methods, assumptions, templates, and capability standards.\nSupports TA-aligned PDA collaboration across Portfolio Analytics and Decision Analytics.\nConverts complex analytics into concise insight and practical recommendations for decision-makers.\nROLE-SPECIFIC RESPONSIBILITIES\nLead major portfolio analytics workstreams, including portfolio reviews, long-range portfolio assessments, prioritization exercises, TA/franchise analyses, and enterprise-level portfolio decision support.\nShape analytical methodologies for portfolio prioritization, valuation, risk, scenario planning, pipeline sizing, value optimization, and related portfolio decision questions.\nProvide senior stakeholders with clear interpretation of portfolio dynamics, risks, opportunities, trade-offs, and implications for investment, prioritization, and strategic planning.\nServe as a senior PDA thought partner for enterprise, franchise, TA, and EPI stakeholders.\nLead development of senior-ready materials that synthesize complex portfolio analyses into clear recommendations and decision narratives.\nMentor Associate Directors and other PDA colleagues in analytical framing, communication, stakeholder management, and portfolio methodology.\nDrive continuous improvement of PDA tools, systems, reporting, and analytical standards.\nLEVEL-SPECIFIC EXPECTATIONS\nOwns complex, high-impact analytical workstreams from problem framing through stakeholder communication.\nOperates with significant independence and judgment in ambiguous or high-stakes situations.\nShapes the analytical agenda, not only responds to requested analyses.\nInfluences senior stakeholders by connecting data, assumptions, trade-offs, and strategic choices.\nCoaches others and advances PDA capabilities through development of reusable methodologies, tools, frameworks, and best practices that improve the function beyond a single deliverable.\nCAPABILITIES AND EXPERIENCE\nDegree in business (MBA preferred) or an advanced scientific degree\nProficiency in English (written and verbal) is required\nSignificant pharmaceutical industry experience with exposure to research, development and/or commercialization processes\nDeep experience with R&D portfolio analytics, valuation, forecasting, prioritization, scenario planning, or related strategic analytics.\nStrong understanding of pharmaceutical R&D, portfolio strategy, asset value drivers, risk, development trade-offs, and enterprise decision processes.\nDemonstrated ability to lead complex analyses and convert them into senior-level recommendations.\nAbility to influence in a matrixed environment without formal authority.\nTrack record of improving analytical methods, tools, processes, or team capabilities.\n\nCommitment to Diversity and Inclusion:\nNovartis is committed to building an outstanding, inclusive work environment and diverse teams representative of the patients and communities we serve.\n\nAccessibility and Accommodation:\nNovartis is committed to working with and providing reasonable accommodation to all individuals. If, because of a medical condition or disability, you need a reasonable accommodation for any part of the recruitment process, or in order to receive more detailed information about the essential functions of a position, please send an e-mail to diversity.inclusion_ch@novartis.com and let us know the nature of your request and your contact information. Please include the job requisition number in your message.\n\n \nSkills DesiredAccount Management, Business Development, Business Planning, Drug Development, Financial Modeling, IT Portfolio Management, Key Account Management, Leadership, Market Share, Portfolio Analysis, Prioritization, Product Positioning, Profit and Loss (P&L), Waterfall Model",
+    "external_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Basel-City/Director--Portfolio-Analytics_REQ-10086799-1",
+    "status": "ignored",
+    "title": "Director, Portfolio Analytics",
+    "company": "Novartis",
+    "location": "Basel (City)",
+    "posted_date": "2026-11-25",
+    "department": "",
+    "score": 1,
+    "matched_keywords": [
+      "drug development"
+    ],
     "deducted_keywords": []
   }
 }
