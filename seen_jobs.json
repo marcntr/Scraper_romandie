@@ -354,14 +354,14 @@
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-11-20"
+    "cached_at": "2026-11-28"
   },
   "_facets:revvity:External": {
     "facets": {},
     "search_texts": [
       "Switzerland"
     ],
-    "cached_at": "2026-11-20"
+    "cached_at": "2026-11-28"
   },
   "_facets:alirahealth:AliraHealth": {
     "facets": {},
@@ -1099,7 +1099,7 @@
     "title": "Senior Scientist in Flow Cytometry",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-28",
+    "posted_date": "2026-10-29",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -1121,7 +1121,7 @@
     "title": "Scientist – Oligonucleotide Chemistry & Innovation",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-28",
+    "posted_date": "2026-10-29",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1137,7 +1137,7 @@
     "title": "Lab Scientist, Microscopy",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-28",
+    "posted_date": "2026-10-29",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1157,7 +1157,7 @@
     "title": "Experienced Clinical Scientist/Medical monitor in neurosciences",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-28",
+    "posted_date": "2026-10-29",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -1175,7 +1175,7 @@
     "title": "Experienced Discovery Scientist in Immunology",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-28",
+    "posted_date": "2026-10-29",
     "department": "",
     "score": 10,
     "matched_keywords": [
@@ -1199,7 +1199,7 @@
     "title": "Post Doctorate Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-28",
+    "posted_date": "2026-10-29",
     "department": "",
     "score": 8,
     "matched_keywords": [
@@ -1221,7 +1221,7 @@
     "title": "Cardio-Renal Discovery & Scientific Strategy Area Leader",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-28",
+    "posted_date": "2026-10-29",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -1242,7 +1242,7 @@
     "title": "\"Principal Scientist siRNA Design",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-28",
+    "posted_date": "2026-10-29",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -1258,7 +1258,7 @@
     "title": "Translational Medicine Director/Associate*- Cardiovascular & Metabolic",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-10-28",
+    "posted_date": "2026-10-29",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -1282,7 +1282,7 @@
     "title": "Scientist – Assay Data, AI & Workflows",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-29",
+    "posted_date": "2026-10-30",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1317,7 +1317,7 @@
     "title": "Data Scientist / Engineer - DNA-Encoded Library Technology (DELT)",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-10-29",
+    "posted_date": "2026-10-30",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -1334,7 +1334,7 @@
     "title": "Scientific AI Platform Lead, Data Science, Disease Area X",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-10-30",
+    "posted_date": "2026-10-31",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -1345,11 +1345,6 @@
       "genomics"
     ],
     "deducted_keywords": []
-  },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000158676704": {
-    "description": "Introduction\nThe CERN ATLAS Team plays a major role in the construction of the future silicon ATLAS Inner Tracker (ITk). In particular, the CERN Detector Technologies (DT) team focuses on the realisation of the Pixel Outer Barrel for the ITk. Our activities include the design, prototyping and assembly of the support structures and tooling as well as the final detector integration, installation and testing. As a mechanical/electromechanical technician in the CERN-DT Team, you will join the Engineering Office Section (EP-DT-EO) and work closely with personnel from the ATLAS Group (EP-ATL) and the Technical Coordination Team of the ATLAS Experiment in the design and construction of the ATLAS ITk Pixel Outer Barrel.\nFunctions\nParticipate in the production, testing and installation of the Pixel Outer System services and their support structures (e.g. trolleys).\nSupport the design, manufacturing and installation of temporary services and infrastructure for testing during the integration of the Pixel Detector.\nParticipate hands-on in the integration of the Pixel Outer System and its insertion into ITk in the SR1 cleanroom, contributing to the development and fabrication of the corresponding tooling.\nParticipate in the ITk installation in the ATLAS cavern, supporting preparation of Pixel services for installation as well as connections after insertion.\nDocument manufacturing and installation procedures as well QC information of tools and production parts to ensure traceability.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000158676704-mechanical-electromechanical-technician-atlas-itk-upgrade-ep-dt-eo-2026-215-ld-?oga=true",
-    "status": "matched"
   },
   "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000158674036": {
     "description": "Introduction:\nYou will join the Technology Department's Machine Protection and Electrical Integrity (MPE) Group, which develops and maintains systems that protect accelerator equipment, including magnets and particle-beam-related installations.\nWorking in a collaborative team of software engineers, you will design, develop and maintain reliable software that supports the safe and efficient operation of the Large Hadron Collider and its injector complex. You will have the opportunity to solve challenging engineering problems, collaborate with experts across different disciplines and contribute to systems that are essential to CERN's scientific mission. \nFunctions:\nDesign, implement, test and maintain software components that interface with equipment protection and interlock systems.\nMonitor deployed applications, investigate technical issues and improve reliability, availability and maintainability.\nWork with engineers, technical specialists and accelerator operations teams during commissioning, testing and operation.\nUnderstand user requirements, contribute to technical decisions and help deliver sustainable software solutions.\nCollaborate with colleagues to strengthen development workflows, automated testing, continuous integration and software quality, including exploring AI-assisted development tools where appropriate.\nProvide technical guidance and mentoring to colleagues and students.",
@@ -1624,7 +1619,7 @@
     "title": "Senior QC Scientist 80-100%",
     "company": "Lonza",
     "location": "CH - Visp",
-    "posted_date": "2026-10-28",
+    "posted_date": "2026-10-29",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -1655,7 +1650,7 @@
     "title": "Associate Principal Scientist - Analytical Development (Microbial) 80%-100% (m/w/d)",
     "company": "Lonza",
     "location": "CH - Visp",
-    "posted_date": "2026-11-05",
+    "posted_date": "2026-11-06",
     "department": "",
     "score": -1,
     "matched_keywords": [
@@ -1685,11 +1680,6 @@
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000160597089-junior-communication-officer-ats-do-2026-252-grae-?oga=true",
     "status": "matched"
   },
-  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000160548655": {
-    "description": "Introduction:\nYou will join a small team of experts managing the PostgreSQL and MySQL databases supporting the LHC experiments, accelerator operations and organisation-wide services. You will help build and automate a modern, highly available database platform, with training and mentoring to grow your skills.\nFunctions:\nAs a Database Infrastructure Engineer in the Databases and Analytics Group, your main activities will consist of:\nOperate and improve production PostgreSQL (and MySQL) databases: troubleshooting, upgrades, migrations, patching and scaling.\nHelp design, deploy and run highly available database setups with automated failover.\nAutomate provisioning, configuration and routine operations using scripting and infrastructure tools.\nMonitor databases for performance, stability, availability and security.\nContribute to backup, disaster recovery and service continuity strategies.\nSupport application developers in diagnosing database and query issues.\nDocument procedures and share knowledge within the team.",
-    "external_url": "https://jobs.smartrecruiters.com/CERN/744000160548655-database-infrastructure-engineer-it-da-db-2026-174-ld-?oga=true",
-    "status": "matched"
-  },
   "https://api.smartrecruiters.com/v1/companies/Sobi/postings/744000160591469": {
     "description": "Key Responsibilities \nThe Study Statistician:\nis responsible for the overall quality and the timely delivery of the statistical analyses for assigned studies in compliance with Sobi SOPs and regulatory requirements/guidelines\nprovides leadership and oversight to in-house consultants and CRO statisticians working on the assigned studies.\nsupports the Program or Product Statistician in study design to meet project objectives and regulatory requirements\nDevelops or oversees the Statistical Analysis Plans (SAPs) and study-level statistical deliverables.\nProvides statistical input to study protocols, CRFs TFL shells or prototypes.\nEnsures that study result interpretation, presentations and CSR conclusions are scientifically justified by the study results.\nProvides programming support for in-house reporting, simulations and exploratory analyses as appropriate.\nContributes to CSRs, regulatory question responses, publications and abstracts.\nStays informed of developments in new statistical methodology and statistically related guidelines and regulations through literature review and attendance at workshops and professional meetings.\n \nThe Program Statistician:\nsupports the Product Statistician in study design for the program or indication to meet project objectives and regulatory requirements\nis responsible for the overall quality and the timely delivery of the statistical analyses for the studies within the assigned indication or program in compliance with Sobi SOPs and regulatory requirements/guidelines\nProvides statistical and strategic input into the design and preparation of Clinical Development Plan for the assigned program, ensuring alignment with TPPs and Target Label.\nContributes to regulatory submission documents for the assigned indications, including eCTD content, responses to regulatory questions and other relevant documents.\nprovides leadership and project coordination to the statisticians working in the program, including in-house consultants and statisticians at CROs\nScope of the Job \nStudy Statistician:\nprovides leadership to in-house consultants and CRO statisticians working on the assigned studies.\nsupports the Program or Product Statistician in study design to meet project objectives and regulatory requirements\nDevelops Statistical Analysis Plans and study-level statistical deliverables.\nProvides statistical input to study protocols, Statistical Analysis Plans, CRFs and TFL shells or prototypes.\nEnsures that study result interpretation, presentations and CSR conclusions are scientifically justified by the study results.\nProvides programming support for in-house reporting, simulations and exploratory analyses as appropriate.\nContributes to CSRs, regulatory question responses, publications and abstracts as delegated.\nContributes to CRO evaluation, best-practice development, new initiatives and SOP development as relevant.\nStays informed of developments in new statistical methodology and statistically related guidelines and regulations through literature review and attendance at workshops and professional meetings.\n \nProgram Statistician:\nProvide leadership and project coordination to the statisticians working in the program, including in-house consultants and statisticians at CRO\nProvide statistical and strategic input into the design and preparation of the Clinical Development  Plan (CDP) for the assigned program ensuring alignment with the TPPs and Target Label\nProvide statistical and strategic input to relevant regulatory documents for the assigned program, e.g. eCTD responses to regulatory questions.\nProvide statistical and strategic input into other regulatory documentation for the assigned program e.g., IB, PSUR and RMP\nTake a pro-active role in  designing  innovative studies and programs, including Go/No Go criterion and associated risk levels, to meet project objectives\nContribute to the writing of publications and abstracts, in accordance with the publication strategy for the project\nStay informed of developments in new statistical methodology and statistically related guidelines and regulations through literature review and attendance at workshops and professional meetings.\nContribute to the development of SOPs as relevant",
     "external_url": "https://jobs.smartrecruiters.com/Sobi/744000160591469--senior-statistical-scientist?oga=true",
@@ -1715,7 +1705,7 @@
     "title": "Patent Attorney II",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-11-10",
+    "posted_date": "2026-11-11",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1846,7 +1836,7 @@
     "title": "Patent Attorney Trainee",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-11-12",
+    "posted_date": "2026-11-13",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -1874,7 +1864,7 @@
     "title": "Scientist (all genders) Quality Control, Microbiology (80-100%)",
     "company": "Lonza",
     "location": "CH - Visp",
-    "posted_date": "2026-11-12",
+    "posted_date": "2026-11-13",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -1905,11 +1895,6 @@
     "external_url": "https://jobs.smartrecruiters.com/CERN/744000161511844-junior-electrical-systems-asset-manager-en-el-mo-2026-253-grae-?oga=true",
     "status": "matched"
   },
-  "https://api.smartrecruiters.com/v1/companies/HUG/postings/744000161474219": {
-    "description": "Au sein du Service maintenance et optimisation des infrastructures (SMOI), vous prenez la responsabilité du secteur Electricité dont les installations sont critiques pour la sécurité de notre patientèle et le fonctionnement de l’institution.\nÀ ce titre, vous pilotez l’ensemble des activités de maintenance, d’exploitation et de développement de ces installations techniques à haute sensibilité.\nVous définissez les objectifs opérationnels de votre secteur en cohérence avec la stratégie du service et en assurez le déploiement auprès de votre équipe.\nVous gérez une équipe de techniciennes et techniciens en les responsabilisant et en leur apportant le soutien et l’encadrement nécessaires au bon fonctionnement du secteur. Vous formez et donnez un support aux collaborateurs et collaboratrices exploitant les installations électriques.\nVous assurez la gestion des activités et des ressources humaines, matérielles et financières, en garantissant le respect des normes, des délais et des budgets.\nVous veillez à la conformité réglementaire des installations sous votre responsabilité, et garantissez un haut niveau de sécurité et de fiabilité des équipements.\nVous mettez en place et suivez des indicateurs de performance permettant de piloter l’efficacité de la maintenance préventive et curative, afin d’optimiser continuellement les pratiques de votre secteur.\nVous conduisez des projets techniques (mise en conformité, renouvellement d’installations, amélioration continue), en collaboration avec les services internes et partenaires externes.\nVous assurez une veille technologique et réglementaire afin d’anticiper les évolutions nécessaires des installations en lien avec les exigences médicales et les standards de sécurité.\nManager d’équipes spécialisées, vous veillez au développement des compétences, à la transmission du savoir-faire et à l’engagement de vos collaborateurs et collaboratrices. Vous favorisez une culture d’exigence, de collaboration et d’amélioration continue.\nEn tant que responsable technique, vous êtes titulaire de l’autorisation générale d’installer au sens de l’article 9 de l’OIBT. Vous êtes également l’ « Exploitant d’installation » au sens de l’OICF et de la directive ESTI 100.\nVous êtes également un interlocuteur ou une interlocutrice clé des utilisateurs et utilisatrices, en les conseillant sur les solutions techniques adaptées et en priorisant les interventions en fonction des enjeux de sécurité et de continuité des soins.",
-    "external_url": "https://jobs.smartrecruiters.com/HUG/744000161474219-cheffe-ou-chef-du-secteur-electricite-100-?oga=true",
-    "status": "matched"
-  },
   "/job/Basel/Compound-Logistics-Workflow-and-Integration-Scientist_202611-128615": {
     "description": "At Roche you can show up as yourself, embraced for the unique qualities you bring. Our culture encourages personal expression, open dialogue, and genuine connections,  where you are valued, accepted and respected for who you are, allowing you to thrive both personally and professionally. This is how we aim to prevent, stop and cure diseases and ensure everyone has access to healthcare today and for generations to come. Join Roche, where every voice matters.\n\nThe Position\nAt Roche, we believe it’s urgent to deliver medical solutions right now – even as we develop innovations for the future. We are passionate about transforming patients’ lives and we are fearless in both decision and action. And we believe that good business means a better world. That is why we come to work each day. We commit ourselves to scientific rigor, unassailable ethics, and access to medical innovations for all. We do this today to build a better tomorrow.\n\nIn the Small Molecule Research department (SMR) in Pharma Research and Early Development (pRED), we generate molecular insights, and drive the discovery and development of small molecules from initial starting points to clinical candidates across the pRED discovery portfolio. In the Compound Library Enhancement and Logistics (CLEL) team, we supply research samples for all SMR portfolio projects and serve as the custodians of the Roche Corporate Compound Collection. Using state-of-the-art automation platforms and digital workflows, our mission is to enable drug discovery projects with the supply of proprietary chemical space and the timely delivery of research samples that can be subjected to biological assays. \n\nAs the CLEL team is spearheading novel digital processes and AI-augmented drug discovery workflows, we are seeking an analytical and forward-thinking scientist to join our team in the Roche Innovation Center Basel and contribute to the exploration and implementation of next-generation end-to-end sample logistics workflows. \n\nThe position:\nIn this role, you will focus on building the next-generation workflow engines that track, plan, and securely connect decisions across our entire automated IT infrastructure. You will serve as a key business analyst, modernizing legacy systems, eliminating static steps, and replacing them with fully automated, FAIR-compliant, interoperable workflows and data foundations built for scalable automation and AI that keep the drug discovery path moving at maximum velocity.\nThis role will deliver efficiency gains by lowering business process overhead and improve coordination. It will also increase visibility and develop new planning capabilities leading to better decisions on investments and strategic resource planning, resulting in streamlined sample delivery and data processes.\nSpecifically, you will:\nScope, design and engineer an interconnected next-generation business workflow engine capable of mapping, tracking, and capturing decisions and data across automated business processes.\nDevelop solutions to lower technical barriers for sample, data and information transfer, as well as decision-making at the interface of internal or external stakeholder-facing systems.\nSupport compliance workflows in sample and data management (i.e. sample decisions, documentation), as well as overhaul automated compound QC workflows towards AI-assisted data analysis pipelines.\nPartner with automation engineers and laboratory staff to generate business dashboards and track key performance indicators (KPIs) and interface effectiveness to key stakeholders.\nShape and drive our ongoing transition to AI-based software development: build and maintain tools together with AI coding assistants, and establish the practices (review, testing, documentation) that keep AI-generated solutions reliable and future-oriented.\nDesign and implement agentic workflows in which AI agents carry out multi-step tasks such as data analysis, issue diagnosis and routine operations, with clear human oversight and safeguards for operational systems and data.\nAct as expert point of contact for operational workflows: shape the evolution of our system landscape, develop solutions with emerging AI technologies, and contribute to the architecture of future tools.\n\nWho you are:\nYou’re someone who wants to influence your own development. You’re looking to be part of a dynamic and cutting-edge organization where you have the opportunity to pursue your interests across functions and tasks. You are interested in making an impact by providing solutions, reducing complexity and connecting essential elements of the drug discovery process and are passionate about applying state-of-the-art technology and science to the biopharmaceutical industry.\n\nYou have a university degree, preferably an M.S. or B.S. in computer science, cheminformatics, a life science or another scientific discipline with a strong computational focus, or show equivalent practical experience and expertise in laboratory automation and research informatics.\nYou have exceptionally structured thinking and problem-solving skills, with the ability to bridge physical logistics with software logic. You can also translate complex thoughts into practical, robust, applications and solutions.\nYou have a solid experience in Business Analysis (BA), process mapping, or operations engineering, specifically within a pharmaceutical or biotechnology research facility.\nYou must be familiar with laboratory information flows, sample management logistics, and automated compound QC workflows.\nYou are comfortable working with and taking ownership of software-based solutions, from Python, SQL and relational databases to version-controlled codebases, testing, deployment and operation in server-based environments.\nYou have hands-on experience with agentic AI tools (e.g. Claude Code, GitHub Copilot) used for real work beyond chat: handing over multi-step tasks, giving AI agents the right context, and critically verifying what they produce.\nYou have strong interpersonal skills to influence, advise and collaborate with experts, vendors and IT partners in a matrix environment to jointly move projects forward.\nYour profile is rounded off by having good presentation and communication skills in English.\n\nThe scientific title of this position might be adjusted depending on the experience and seniority of the final candidate.\nIf you are proud of contributing and feel you have the dedication to teamwork and innovation that we are seeking, then Roche is the organization for you. Every role at Roche plays a part in making a difference to patients’ lives. If you want to work in a passionate team, make your mark and improve lives, apply now.\n\n \n \n\nWho we are\nA healthier future drives us to innovate. Together, more than 100’000 employees across the globe are dedicated to advance science, ensuring everyone has access to healthcare today and for generations to come. Our efforts result in more than 26 million people treated with our medicines and over 30 billion tests conducted using our Diagnostics products. We empower each other to explore new possibilities, foster creativity, and keep our ambitions high, so we can deliver life-changing healthcare solutions that make a global impact.\n\nLet’s build a healthier future, together.\n\nRoche is an Equal Opportunity Employer.",
     "external_url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Compound-Logistics-Workflow-and-Integration-Scientist_202611-128615",
@@ -1917,7 +1902,7 @@
     "title": "Compound Logistics Workflow and Integration Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-11-13",
+    "posted_date": "2026-11-14",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -1978,7 +1963,7 @@
     "title": "Associate Principal Scientist - Analytical Project Lead 80-100% (f/m/d)",
     "company": "Lonza",
     "location": "CH - Basel",
-    "posted_date": "2026-11-15",
+    "posted_date": "2026-11-16",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2130,7 +2115,7 @@
     "title": "Research Scientist, Antigen and Therapeutic Protein Production – Downstream Processing",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-11-18",
+    "posted_date": "2026-11-19",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -2226,7 +2211,7 @@
     "title": "Principal Scientist II (Lab Head), Allergy and Plasma Cell Research",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-11-19",
+    "posted_date": "2026-11-20",
     "department": "",
     "score": 7,
     "matched_keywords": [
@@ -2247,7 +2232,7 @@
     "title": "Senior Scientist, Metabolomics",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-11-17",
+    "posted_date": "2026-11-18",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2283,7 +2268,7 @@
     "title": "Supply Chain Planning Portfolio Lead",
     "company": "Biogen",
     "location": "Baar, Switzerland",
-    "posted_date": "2026-11-18",
+    "posted_date": "2026-11-19",
     "department": "",
     "score": -2,
     "matched_keywords": [],
@@ -2341,7 +2326,7 @@
     "title": "Principal Scientist (Director) Health Economics, Oncology (m/f/d)",
     "company": "MSD",
     "location": "CHE - Zurich - Zurich (The Circle)",
-    "posted_date": "2026-11-17",
+    "posted_date": "2026-11-18",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2370,7 +2355,7 @@
     "title": "Manager, Regional Regulatory Lead (EU)",
     "company": "CSL Behring / Vifor",
     "location": "EMEA, CH, Kanton Zurich, Opfikon, CSL Vifor",
-    "posted_date": "2026-11-20",
+    "posted_date": "2026-11-21",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -2422,7 +2407,7 @@
     "title": "Business Development Director",
     "company": "KBI Biopharma",
     "location": "Switzerland - Plan-les-Ouates",
-    "posted_date": "2026-10-28",
+    "posted_date": "2026-10-29",
     "department": "",
     "score": 0,
     "matched_keywords": [
@@ -2440,7 +2425,7 @@
     "title": "Intern - Flow Cytometry Scientist",
     "company": "Labcorp",
     "location": "CHE - Geneva - 7 rue Moise-Marcinhes",
-    "posted_date": "2026-10-28",
+    "posted_date": "2026-10-29",
     "department": "",
     "score": 5,
     "matched_keywords": [
@@ -2652,7 +2637,7 @@
     "title": "Executive Assistant, Regulatory Affairs",
     "company": "BeiGene",
     "location": "Basel",
-    "posted_date": "2026-11-08",
+    "posted_date": "2026-11-09",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2688,7 +2673,7 @@
     "title": "Regulatory Affairs Consultant (German and French language skills)",
     "company": "Parexel",
     "location": "Switzerland-Remote",
-    "posted_date": "2026-10-28",
+    "posted_date": "2026-10-29",
     "department": "",
     "score": 6,
     "matched_keywords": [
@@ -2720,7 +2705,7 @@
     "title": "Manager, Quality & Regulatory Operations",
     "company": "Danaher",
     "location": "Neuchâtel, Switzerland",
-    "posted_date": "2026-11-04",
+    "posted_date": "2026-11-05",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -2779,7 +2764,7 @@
     "title": "Scientist, Tech Ops (f/m/d) - 6 month fixed term",
     "company": "CSL Behring / Vifor",
     "location": "EMEA, CH, Kanton Bern, Bern, CSL Behring",
-    "posted_date": "2026-11-24",
+    "posted_date": "2026-11-25",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -2798,7 +2783,7 @@
     "title": "Principal Scientist, Neuroscience",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-11-27",
+    "posted_date": "2026-11-28",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -2848,7 +2833,7 @@
     "title": "Workforce Strategy Head, Regulatory Affairs",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-11-23",
+    "posted_date": "2026-11-24",
     "department": "",
     "score": 0,
     "matched_keywords": [],
@@ -3137,7 +3122,7 @@
     "title": "Oral Enabling Formulation Technologies Scientist",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-11-23",
+    "posted_date": "2026-11-24",
     "department": "",
     "score": 3,
     "matched_keywords": [
@@ -3180,7 +3165,7 @@
     "title": "Collaboration, Innovation & Market Support Scientist, Cell Therapy (f/m/d)",
     "company": "Danaher",
     "location": "Grens, Switzerland",
-    "posted_date": "2026-11-24",
+    "posted_date": "2026-11-25",
     "department": "",
     "score": 1,
     "matched_keywords": [
@@ -3241,7 +3226,7 @@
     "title": "Scientist, DNA-Encoded Library Chemistry",
     "company": "Roche",
     "location": "Basel",
-    "posted_date": "2026-11-25",
+    "posted_date": "2026-11-26",
     "department": "",
     "score": 2,
     "matched_keywords": [
@@ -3257,7 +3242,7 @@
     "title": "Spatial Biology Data Scientist",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-11-24",
+    "posted_date": "2026-11-25",
     "department": "",
     "score": 9,
     "matched_keywords": [
@@ -3356,20 +3341,6 @@
       "location:Romont, CH"
     ]
   },
-  "https://lonza.wd3.myworkdayjobs.com/en-US/Lonza_Careers/jobs": {
-    "external_url": "https://lonza.wd3.myworkdayjobs.com/en-US/Lonza_Careers/jobs",
-    "status": "matched",
-    "title": "(Senior) Scientist Automation Workflows, Development Bioconjugates 80-100%",
-    "company": "Lonza",
-    "location": "CH - Visp",
-    "posted_date": "",
-    "department": "",
-    "score": -2,
-    "matched_keywords": [],
-    "deducted_keywords": [
-      "location:CH - Visp"
-    ]
-  },
   "/job/Regional-United-States-PRA/Principal-Medical-Writer_JR165124": {
     "description": "Principal Medical Writer\nAt ICON Strategic Solutions, you will work in a sponsor-dedicated model, supported by ICON’s global expertise.\n\nAs the world’s largest FSP organisation, with over 90 sponsor partnerships, we offer stability, career development and a collaborative environment where your work contributes to the development of treatments that benefit patients worldwide.\n\nAs a Principal Medical Writer at ICON, you will be responsible for leading the development of high-quality regulatory and clinical documents that effectively communicate scientific and medical information.\n \nWhat You Will Do:\nYou will oversee medical writing workstreams, ensuring deliverables meet quality and timeline expectations.\n \nKey responsibilities include:\nPlan, draft and revise scientific, clinical or regulatory documents using source evidence.\nInterpret clinical, statistical and scientific information accurately.\nCoordinate author, reviewer and stakeholder input through document development.\nMaintain consistency, traceability and document quality across revisions.\nApply relevant style, regulatory and quality standards.\nProvide technical guidance, peer review or mentoring on complex work within the discipline.\n \nRequired qualifications and experience\nScientific, clinical, pharmacy or related degree, or equivalent relevant scientific writing expertise.\nSignificant experience in medical writing, particularly in regulatory submissions and clinical documentation.\nUnderstanding of regulatory requirements and industry standards for clinical writing.\nExperience producing scientific, clinical or regulatory content.\nExperience interpreting clinical, statistical and scientific information accurately.\nExperience coordinating author, reviewer and stakeholder input through document development.\nExperience maintaining consistency, traceability and documenting quality across revisions.\nExperience reviewing colleagues’ work and providing technical guidance on medical and scientific writing.\n \nPreferred qualifications and experience\nAdvanced scientific degree.\nProfessional medical writing experience in a CRO, pharmaceutical or biotech environment.\nExperience with regulatory submission documents or publication standards.\n\nEmployment with ICON is contingent upon having the legal right to work in the country where the role is based.\n\nRewards & Benefits\nICON offers a competitive and comprehensive total rewards package designed to support your health, wellbeing, and career development.\n\nBenefits may include:\nCompetitive base salary and performance related incentives\nHealth and wellbeing programmes including medical, dental, and vision coverage where applicable\nRetirement and pension plans\nLife assurance and disability coverage\nEmployee assistance programmes and wellbeing resources\nLearning and development opportunities through structured training and career pathways\n\nBenefits may vary depending on role and location.\n\nVisit our careers site to read more about the benefits ICON offers.\n\nInclusion and Accessibility\nICON is an equal opportunity employer. We are committed to building an inclusive and accessible workplace where everyone feels valued and supported.\n\nIf you require reasonable accommodations during the recruitment process, please let us know or submit a request here.\n\nAre you a current ICON Employee? Please click here to apply",
     "external_url": "https://icon.wd3.myworkdayjobs.com/broadbean_external/job/Regional-United-States-PRA/Principal-Medical-Writer_JR165124",
@@ -3449,7 +3420,7 @@
   },
   "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-scientist-qa-bern-892890/1": {
     "external_url": "https://www.hays.ch/jobsuche/stellenangebote-jobs-detail-scientist-qa-bern-892890/1",
-    "status": "matched",
+    "status": "ignored",
     "title": "Scientist QA(m/f/d)",
     "company": "Hays Switzerland",
     "location": "Bern, Switzerland",
@@ -3465,7 +3436,7 @@
     "title": "Regulatory Coordinator (12-month contract)",
     "company": "Labcorp",
     "location": "CHE - Geneva - 7 rue Moise-Marcinhes",
-    "posted_date": "2026-11-27",
+    "posted_date": "2026-11-28",
     "department": "",
     "score": 4,
     "matched_keywords": [
@@ -3496,12 +3467,50 @@
     "title": "Director, Portfolio Analytics",
     "company": "Novartis",
     "location": "Basel (City)",
-    "posted_date": "2026-11-25",
+    "posted_date": "2026-11-26",
     "department": "",
     "score": 1,
     "matched_keywords": [
       "drug development"
     ],
     "deducted_keywords": []
+  },
+  "https://api.smartrecruiters.com/v1/companies/CERN/postings/744000164089799": {
+    "description": "Introduction\nThe CERN ATLAS Team plays a major role in the construction of the future silicon ATLAS Inner Tracker (ITk). In particular, the CERN Detector Technologies (DT) team focuses on the realisation of the Pixel Outer Barrel for the ITk. Our activities include the design, prototyping and assembly of the support structures and tooling as well as the final detector integration, installation and testing. As a mechanical/electromechanical technician in the CERN-DT Team, you will join the Engineering Office Section (EP-DT-EO) and work closely with personnel from the ATLAS Group (EP-ATL) and the Technical Coordination Team of the ATLAS Experiment in the design and construction of the ATLAS ITk Pixel Outer Barrel.\nFunctions\nParticipate in the production, testing and installation of the Pixel Outer System services and their support structures (e.g. trolleys).\nSupport the design, manufacturing and installation of temporary services and infrastructure for testing during the integration of the Pixel Detector.\nParticipate hands-on in the integration of the Pixel Outer System and its insertion into ITk in the SR1 cleanroom, contributing to the development and fabrication of the corresponding tooling.\nParticipate in the ITk installation in the ATLAS cavern, supporting preparation of Pixel services for installation as well as connections after insertion.\nDocument manufacturing and installation procedures as well QC information of tools and production parts to ensure traceability.",
+    "external_url": "https://jobs.smartrecruiters.com/CERN/744000164089799-mechanical-electromechanical-technician-atlas-itk-upgrade-ep-dt-eo-2026-215-ld-?oga=true",
+    "status": "matched"
+  },
+  "/job/United-Kingdom-Remote/Senior-Associate--Regulatory-Affairs--Dx-CDx-and-Medical-Devices_R37996": {
+    "description": "BeOne continues to grow at a rapid pace with challenging and exciting opportunities for experienced professionals. When considering candidates, we look for scientific and business professionals who are highly motivated, collaborative, and most importantly, share our passionate interest in fighting cancer.\n\nGeneral Description:\nBeOne is seeking a highly motivated professional to support the development and preparation of submissions supporting IVDs, CDx and Medical Devices across EU, UK and emerging markets.\n \nThe Senior Associate, Regulatory Affairs, Dx/CDx and Medical Devices, will serve as the regional regulatory resource for assigned programs, partnering closely with local drug regulatory teams, cross-functional stakeholders, and external diagnostic partners, when requested, to develop and execute regulatory strategies that support product development and registration objectives for EU IVDR and UK Clinical Performance Studies (CPS) and associated regulatory requirements for BeOne clinical studies.\n \nThe individual will provide regulatory guidance, support regulatory submission planning and health authority interactions, and ensure alignment of regional activities with global development and registration strategies. This role will be expected to work independently, proactively drive assigned programs, and effectively manage multiple priorities across a dynamic regional environment.\n\nEssential Functions of the job:\nSupport the development and implementation of regulatory activities for assigned Dx/CDx and Medical Device programs.\nManage the preparation, including writing as necessary, assembly, review, and timely submission of regulatory documentation, as required for investigation and registration of products in applicable regions.\nReview Dx/CDx-related language in protocols, ICFs and other study documents.\nEnsure regulatory submissions and activities comply with applicable regulatory requirements.\nProvide support for regional health authority interactions, including meeting preparation, briefing packages and responses to regulatory inquiries upon request.\nProvide general regulatory guidance to study teams reflecting best practices as aligned with management on Dx/CDx and Medical Device matters.\nMay coordinate with diagnostic partners regarding product development deliverables and registration activities, as applicable.\nSupport cross-regional initiatives and Dx/CDx programs, as needed.\nMonitor regulatory requirements, guidance and industry trends, and communicate regulatory impacts to stakeholders.\nSupport regulatory processes, tools, best practices, policy initiatives and regulatory intelligence activities across the region.\nMaintain accurate regulatory records and documentation in accordance with internal procedures.\nSupport additional regulatory and cross-functional initiatives in line with evolving business objectives and organizational priorities.\n\nCore Competencies, Knowledge and Skill Requirements:  \n \nExcellent oral and written communications skills are a must as are superior planning, project management and interpersonal skills.\nWorking knowledge/experience in preparation of CPS and supportive amendments and supplements.\nWorking knowledge EU IVDR (Regulation (EU) 2017/746), particularly Articles 5 and 58.\nKnowledge/experience with regulatory requirements for other regions also desirable.\nWorking knowledge of GMP, GLP, and GCP regulations, as well an understanding of the pharmaceutical product life cycle.\nKnowledge of regulatory requirements and registration pathways for IVDs, CDx, and Medical Devices across EU and UK regions, and emerging markets as applicable.\nDemonstrated knowledge of EU Clinical Performance Study requirements.\nExperience determining appropriate notification versus CPS authorization pathways.\nUnderstanding of CTA and IVDR interactions within EU clinical trials.\nKnowledge of Competent Authority and Ethics Committee processes across Europe.\nProven ability to work effectively in a cross-functional and matrixed environment.\nDemonstrated ability to independently and proactively drive projects to completion.\nAbility to manage competing priorities and multiple projects simultaneously.\nDetail-oriented self-starter with the ability to manage competing priorities in a fast-paced, cross-functional environment.\n\nExperience:\n \nUndergraduate degree in science (e.g. Chemistry, Pharmacy, Biochemistry, Biotechnology, Biology) or equivalent.\nExperience in regulated industry, IVDs preferred. Direct experience in IVD/CDx development and regulatory environment preferred.\nLanguage: Fluent English required (oral and written).\nComputer skills: proficiency with Microsoft Office (Word, Excel, Power point, OneNote etc.) and with Adobe Acrobat software for publishing.\nundefined\n\nOther Qualifications:    \nTravel: \nMinimal travel (<10%).\n\nSalary Range UK: 56,000.00 GBP - 70,000.00 GBP\nSalary Range Switzerland: 122,500.00 CHF - 153,100.00 CHF\nSalary Range Spain: 58,500.00 EUR - 73,100.00 EUR\n\nGlobal Competencies\nWhen we exhibit our values of Patients First, Driving Excellence, Bold Ingenuity, and Collaborative Spirit, through our twelve global competencies below, we help get more affordable medicines to more patients around the world.\nFosters Teamwork\nProvides and Solicits Honest and Actionable Feedback\nSelf-Awareness\nActs Inclusively\nDemonstrates Initiative\nEntrepreneurial Mindset\nContinuous Learning\nEmbraces Change\nResults-Oriented\nAnalytical Thinking/Data Analysis\nFinancial Excellence\nCommunicates with Clarity\n\nWe are proud to be an equal opportunity employer. BeOne does not discriminate on the basis of race, religion, color, sex, gender identity, sexual orientation, age, disability, national origin, veteran status or any other basis covered by appropriate law. All employment is decided on the basis of qualifications, merit, and business need.",
+    "external_url": "https://beigene.wd5.myworkdayjobs.com/BeiGene/job/United-Kingdom-Remote/Senior-Associate--Regulatory-Affairs--Dx-CDx-and-Medical-Devices_R37996",
+    "status": "matched",
+    "title": "Senior Associate, Regulatory Affairs, Dx/CDx and Medical Devices",
+    "company": "BeiGene",
+    "location": "United Kingdom Remote; Spain Remote; Switzerland Remote",
+    "posted_date": "2026-11-28",
+    "department": "",
+    "score": 4,
+    "matched_keywords": [
+      "location:remote"
+    ],
+    "deducted_keywords": []
+  },
+  "/job/CH---Visp/XMLNAME--Senior--Scientist-Automation-Workflows--Development-Bioconjugates-80-100-_R80989": {
+    "description": "The actual location of this job is in Visp, Switzerland. Relocation assistance is available for eligible candidates and their families, if needed.\n\nEvery day, our teams across the world work together to turn scientific breakthroughs into life-changing medicines that reach up to 100 million patients a year. Lonza is a place where people can make a unique impact, grow their careers and belong. \n\nWe are currently looking for a (senior) scientist to join our preclinical development team for bioconjugates in Visp, Switzerland. In our team, your primary focus will be to establish laboratory automation workflows, collaborating closely with project teams to drive the integration of automation into our daily operations. In addition, you will be responsible for the planning and execution of laboratory experiments for bioconjugates process development.\n\nWe are looking for you if you are passionate about automation, a great team player and motivated to bring bioconjugate-based biopharmaceuticals to the patient.\n\nThis is a fully site‑based role. Working together in person supports close, real‑time collaboration and the technical precision needed to manufacture medicines to the highest quality and safety standards.\n\nWhat you will get: \nAn agile career and dynamic working culture.\nAn inclusive and ethical workplace.\nCompensation programs that recognize high performance.\nA variety of benefits dependent on role and location.\nThe full list of our global benefits can be found here: https://www.lonza.com/careers/benefits.\n\nWhat you will do:\nBecome the super user of an integrated Tecan Fluent liquid handling system for high-throughput bioconjugation workflows\nDevelop and implement automation workflows across various scales in bioconjugate development, with a focus on high-throughput workflows\nCollaborate with project teams to translate project needs into automated solutions\nTrain and support laboratory technicians in the execution of automated workflows and ensure scientifically sound execution of experiments\nPlan, perform and document laboratory experiments in collaboration with laboratory technicians\nEvaluate data for the preparation of reports or presentations\nSupport project leaders in the planning and organization of projects and experiments\n\nWhat we are looking for:\n\nHands-on experience with Tecan FluentControl and other liquid handling systems\nBSc. or MSc. degree in chemistry, biotechnology or a related field\nCompletion of an apprenticeship as a laboratory technician is beneficial\nGood understanding of general laboratory routines\nExperience in bioconjugation, protein handling, protein chromatography is a plus\nSense of accuracy, quality and proactive problem-solving\nReliable team player with excellent communication and collaboration skills.\nStructured, focused and well-organized working attitude; open-minded for new ideas and suggestions; agile, highly motivated and dynamic; solution-oriented\nGood written and oral communication skills in English. German is a plus.\n\nYou will feel at home at Lonza if you: \nTake ownership, step forward, and enjoy meaningful responsibility \nLove solving problems and thrive in a complex, fast-moving environment \nAre curious, always looking to learn and improve \nWork collaboratively, contributing to something bigger than yourself \nAre motivated to make a difference through work that impacts customers and their patients \n\nWhy Lonza: \nWe are a place of unique opportunity, where your ideas, expertise and ambition can make a real difference. Here, you will have the freedom to grow, the support to succeed and the chance to contribute to work that matters. \n\nWe are the makers of the medicines of tomorrow. \nJoin us. Be you. Apply now.",
+    "external_url": "https://lonza.wd3.myworkdayjobs.com/Lonza_Careers/job/CH---Visp/XMLNAME--Senior--Scientist-Automation-Workflows--Development-Bioconjugates-80-100-_R80989",
+    "status": "matched",
+    "title": "(Senior) Scientist Automation Workflows, Development Bioconjugates 80-100%",
+    "company": "Lonza",
+    "location": "CH - Visp",
+    "posted_date": "",
+    "department": "",
+    "score": 0,
+    "matched_keywords": [
+      "MSc",
+      "preclinical"
+    ],
+    "deducted_keywords": [
+      "location:CH - Visp"
+    ]
   }
 }
